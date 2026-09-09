@@ -28,7 +28,7 @@
       "id": "V2.9",
       "date": "2026-09-09",
       "label": "V2.9 / 9 September 2026",
-      "status": "GitHub Pages migration authorised; publication being validated",
+      "status": "Published on GitHub Pages; design and classroom acceptance remain open",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -188,8 +188,8 @@
     },
     "currentStep": {
       "id": "CE-GOV-01",
-      "title": "Publish and maintain the GitHub Blueprint",
-      "status": "GitHub migration in progress",
+      "title": "Maintain the live Blueprint and verify classroom gaps",
+      "status": "GitHub release verified; next work requires bounded scope",
       "owner": "Blueprint maintainer",
       "href": "/production/github-migration-2026-09-09.md",
       "actionLabel": "Read publication and update protocol",
@@ -198,7 +198,7 @@
         "V2-D08",
         "V2-D17"
       ],
-      "nextAction": "Publish the validated canonical Blueprint to GitHub Pages with private source recovery. Link reconciled GitHub tasks to Blueprint records. Redirect the old ChatGPT site only when owning-account access returns.",
+      "nextAction": "Use the linked teacher/EST verification tickets, confirm delivery cohort and first learning slice with Tania, and keep the blazer paused. Maintain this Blueprint at each close. Redirect the legacy site only when owning-account access returns.",
       "doneWhen": "GitHub public records match validated source, release evidence is recorded, and future maintenance uses one canonical Blueprint.",
       "boundary": "This documentation update does not approve a new game build, paid asset generation, curriculum edition change or final design acceptance."
     },
@@ -206,10 +206,10 @@
       {
         "id": "CE-GOV-01",
         "horizon": "Now",
-        "title": "Publish and maintain the GitHub Blueprint",
+        "title": "Maintain the live GitHub Blueprint",
         "owner": "Blueprint maintainer",
-        "status": "GitHub migration in progress",
-        "dependency": "Validated static build; reviewed public-only output; GitHub repository access",
+        "status": "Migration complete; linked-ticket workflow implemented",
+        "dependency": "For each future change: current source reconciliation, checks, private source save, reviewed public build and live parity",
         "doneWhen": "GitHub public records match validated source, release evidence is recorded, and future maintenance uses one canonical Blueprint.",
         "href": "/production/github-migration-2026-09-09.md"
       },
@@ -417,11 +417,11 @@
       {
         "id": "REC-BLUEPRINT",
         "name": "Blueprint source and planning records",
-        "status": "GitHub migration authorised; public output being validated",
+        "status": "Public Blueprint live; audited source mirrored privately",
         "location": "https://taniab1975.github.io/career-empire-blueprint/",
         "owner": "Tania Byrnes",
         "gap": "Legacy ChatGPT site remains V2.6 and cannot yet redirect. GitHub hosting does not automatically synchronise uncommitted changes.",
-        "next": "Build/check/publish only public output; verify live hash and record the receipt. Keep canonical source in private recovery."
+        "next": "Keep source/build/observed-release separate. Verify current manifest before future edits; old-site redirect remains blocked by account access."
       },
       {
         "id": "REC-3D",
@@ -488,7 +488,7 @@
     "production": {
       "date": "9 September 2026",
       "title": "Current state — 9 September 2026",
-      "summary": "The V2.9 Blueprint moves publication to GitHub Pages independently of ChatGPT accounts. The legacy V2.6 site still needs an owner-authorised redirect. The EST URL is repaired, teacher matrix remains local, blazer is paused, and the approved campus precinct is unfinished. Final learning, curriculum edition and classroom acceptance remain open.",
+      "summary": "V2.9 is live on GitHub Pages, independently of ChatGPT accounts. The nine older GitHub tasks and ten planning documents now link back to this Blueprint without implying completed game work. The legacy V2.6 site still needs an owner-authorised redirect. EST URL is repaired; teacher matrix remains local, blazer paused and campus precinct unfinished. Learning, curriculum cohort and classroom acceptance remain open.",
       "facts": [
         {
           "label": "IMPLEMENTED LOCALLY",
@@ -666,18 +666,18 @@
       "asOf": "2026-09-09",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.9 GitHub migration",
+        "sourceRevision": "V2.9 GitHub release",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "GitHub release not yet verified",
+        "observedLiveRevision": "V2.9 / GitHub Pages",
         "checkedAt": "2026-09-09",
-        "observedLiveSha256": null,
-        "accessCheck": "Continuation connection: Sites get_site returned HTTP 404 NOT_FOUND / project_not_found. Owning-account/workspace access and remote source remain unverified.",
+        "observedLiveSha256": "fb4d2bd685df40de3bdec5b72a2f7404df73062d29dbb5e42eb5e17bbb804953",
+        "accessCheck": "GitHub delivery repository PUBLIC and Pages built successfully; source mirror PRIVATE. Existing Sites project still returns HTTP 404 NOT_FOUND / project_not_found.",
         "validationReceipt": "/production/github-migration-2026-09-09.md",
-        "status": "GitHub migration being validated; legacy redirect awaits old-account access",
+        "status": "GitHub Blueprint live; legacy ChatGPT redirect still blocked",
         "savedVersionId": null,
-        "deploymentId": null,
-        "parity": "New publishing destination authorised; live parity pending",
-        "resume": "Maintain source in the private recovery repository; publish only validated dist-pages output to career-empire-blueprint. Preserve the original Sites project for a future redirect; do not restore it as a competing Blueprint.",
+        "deploymentId": "GitHub Pages build 1204465234",
+        "parity": "First release exact-byte parity verified; the live publication manifest identifies the latest checked source and record hash",
+        "resume": "Use the private canonical source and existing recovery branch; publish only validated generated output to the existing Pages repository. Read the current manifest/receipt, preserve newer history, and log material work. Legacy redirect waits for the owning Sites account.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
         "legacySite": {
@@ -685,7 +685,10 @@
           "observedRevision": "V2.6 / 8 September 2026",
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
-        }
+        },
+        "observedPublicCommit": "e3e067fd844b18a5a7959e24dfaf2acf8099577d",
+        "hashScope": "Observed first verified V2.9 deployment, not a self-hash of this later close-out record. Compare the live publication-manifest.json with blueprint-records.json for current exact parity.",
+        "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
         {
@@ -1094,6 +1097,33 @@
           "deployment": "Pending validation and GitHub publication; no old-site redirect yet",
           "testing": "Data, static path, TypeScript, builds and desktop/mobile/live checks required before completion",
           "taniaAcceptance": "Explicit approval to carry on with recommendation; final visual/classroom acceptance remains separate"
+        },
+        {
+          "id": "CE-CHANGE-20260909-16",
+          "date": "2026-09-09",
+          "title": "GitHub Blueprint published and legacy tracking reconciled",
+          "domain": "Publication, recovery and governance",
+          "source": "Tania authorised GitHub migration, later redirect and the single-Blueprint/linked-ticket recommendation; direct GitHub deployment and browser observations",
+          "owner": "Blueprint maintainer; Tania retains design and classroom acceptance",
+          "status": "GitHub migration complete; legacy redirect and Projects inspection remain access-blocked",
+          "rationale": "The audited plan must be viewable without ChatGPT account/credit dependencies, while retaining private recovery and avoiding competing old task lists.",
+          "dependencies": [
+            "CE-CHANGE-20260909-15",
+            "Owning Sites account for legacy redirect; read:project permission for optional board inspection"
+          ],
+          "evidence": [
+            "/production/github-migration-2026-09-09.md",
+            "/production/github-tracking-audit-2026-09-09.md",
+            "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json",
+            "https://github.com/taniab1975/career-empire-blueprint/commit/e3e067fd844b18a5a7959e24dfaf2acf8099577d"
+          ],
+          "nextAction": "Maintain this canonical source and linked tickets; prioritise teacher/EST verification and cohort/learning decisions. Redirect the old host only after exact project access returns. No new game or asset production in this task.",
+          "supersededRecord": "CE-CHANGE-20260909-15",
+          "designApproval": "Hosting and tracking workflow authorised; all 17 V2 decisions and four production approvals preserved, including existing Open/Proposed statuses",
+          "implementation": "Static adapter reuses Blueprint views/records; public-only allowlist/hash manifest; nine issue reconciliation comments; preserving notices in ten historical planning documents across both game repositories",
+          "deployment": "Existing private recovery branch updated; new public delivery repository and Pages live at the canonical destination. First verified public commit e3e067fd844b18a5a7959e24dfaf2acf8099577d; later release identity is in its generated manifest. Old Sites unchanged.",
+          "testing": "30/30 data/governance/path tests; TypeScript, focused lint, original and static builds; full local/static and live desktop/mobile/keyboard/navigation/privacy smoke passed. First live JSON SHA-256 fb4d2bd685df40de3bdec5b72a2f7404df73062d29dbb5e42eb5e17bbb804953. No classroom integration or game runtime acceptance inferred.",
+          "taniaAcceptance": "Explicit approval to carry on with migration and linked tracking; final design, asset, learning and classroom acceptance not claimed"
         }
       ],
       "sessionStart": [

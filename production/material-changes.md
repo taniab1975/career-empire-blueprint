@@ -272,6 +272,24 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **testing:** Data, static path, TypeScript, builds and desktop/mobile/live checks required before completion
 - **taniaAcceptance:** Explicit approval to carry on with recommendation; final visual/classroom acceptance remains separate
 
+## CE-CHANGE-20260909-16 — GitHub Blueprint published and legacy tracking reconciled
+
+- **date:** 2026-09-09
+- **domain:** Publication, recovery and governance
+- **source:** Tania authorised GitHub migration, later redirect and the single-Blueprint/linked-ticket recommendation; direct GitHub deployment and browser observations
+- **owner:** Blueprint maintainer; Tania retains design and classroom acceptance
+- **status:** GitHub migration complete; legacy redirect and Projects inspection remain access-blocked
+- **rationale:** The audited plan must be viewable without ChatGPT account/credit dependencies, while retaining private recovery and avoiding competing old task lists.
+- **dependencies:** CE-CHANGE-20260909-15 / Owning Sites account for legacy redirect; read:project permission for optional board inspection
+- **evidence:** /production/github-migration-2026-09-09.md / /production/github-tracking-audit-2026-09-09.md / https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json / https://github.com/taniab1975/career-empire-blueprint/commit/e3e067fd844b18a5a7959e24dfaf2acf8099577d
+- **nextAction:** Maintain this canonical source and linked tickets; prioritise teacher/EST verification and cohort/learning decisions. Redirect the old host only after exact project access returns. No new game or asset production in this task.
+- **supersededRecord:** CE-CHANGE-20260909-15
+- **designApproval:** Hosting and tracking workflow authorised; all 17 V2 decisions and four production approvals preserved, including existing Open/Proposed statuses
+- **implementation:** Static adapter reuses Blueprint views/records; public-only allowlist/hash manifest; nine issue reconciliation comments; preserving notices in ten historical planning documents across both game repositories
+- **deployment:** Existing private recovery branch updated; new public delivery repository and Pages live at the canonical destination. First verified public commit e3e067fd844b18a5a7959e24dfaf2acf8099577d; later release identity is in its generated manifest. Old Sites unchanged.
+- **testing:** 30/30 data/governance/path tests; TypeScript, focused lint, original and static builds; full local/static and live desktop/mobile/keyboard/navigation/privacy smoke passed. First live JSON SHA-256 fb4d2bd685df40de3bdec5b72a2f7404df73062d29dbb5e42eb5e17bbb804953. No classroom integration or game runtime acceptance inferred.
+- **taniaAcceptance:** Explicit approval to carry on with migration and linked tracking; final design, asset, learning and classroom acceptance not claimed
+
 ## Retained Atlas principles
 
 Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries

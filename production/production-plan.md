@@ -1,5 +1,7 @@
 # Next production work — 9 September 2026
 
+**Completed GitHub continuation - 9 September 2026:** [V2.9 Blueprint](https://taniab1975.github.io/career-empire-blueprint/) is live. First public commit `e3e067fd844b18a5a7959e24dfaf2acf8099577d` passed full live browser smoke and exact record-hash parity; source was mirrored to the existing PRIVATE recovery branch from `7098185`. The generated [publication manifest](https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json) identifies the latest released source and record hash. Nine legacy issues were triaged without closure; ten old planning files now carry preserving authority pointers. No game/asset production occurred. Old Sites redirect remains blocked by HTTP 404 `project_not_found`; Projects boards remain uninspected without `read:project`. Earlier pending/no-push paragraphs below are dated checkpoints, superseded by this completion and CE-CHANGE-20260909-16.
+
 This view derives priorities from data/operations.json. It changes neither gameplay approval nor the paused blazer instruction.
 
 0. **Publish and maintain the GitHub Blueprint.** Tania authorised moving the same Blueprint to GitHub Pages and linking reconciled execution issues. Keep source/recovery private, publish only reviewed static output, and compare the live record hash. The legacy ChatGPT redirect waits for owning-account access; it no longer blocks GitHub publication. See [publication protocol](operating-protocol.md) and [migration record](github-migration-2026-09-09.md).

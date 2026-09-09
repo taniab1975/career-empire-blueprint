@@ -1,10 +1,20 @@
 # GitHub publication migration — 9 September 2026
 
+## Verified publication and successor entry
+
+**Completed GitHub continuation - 9 September 2026:** [V2.9 Blueprint](https://taniab1975.github.io/career-empire-blueprint/) is live. First public commit `e3e067fd844b18a5a7959e24dfaf2acf8099577d` passed full live browser smoke and exact record-hash parity; source was mirrored to the existing PRIVATE recovery branch from `7098185`. The generated [publication manifest](https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json) identifies the latest released source and record hash. Nine legacy issues were triaged without closure; ten old planning files now carry preserving authority pointers. No game/asset production occurred. Old Sites redirect remains blocked by HTTP 404 `project_not_found`; Projects boards remain uninspected without `read:project`. Earlier pending/no-push paragraphs below are dated checkpoints, superseded by this completion and CE-CHANGE-20260909-16.
+
+The first Pages build was `1204465234` with terminal status `built`; HTTPS is enforced and deployment uses the existing `main` branch root with `.nojekyll`. First live records matched SHA-256 `fb4d2bd685df40de3bdec5b72a2f7404df73062d29dbb5e42eb5e17bbb804953`. The close-out release adds the verified status, task receipts and visual evidence; its exact source/hash are reported by the generated manifest rather than a self-referential hash in the record. Validate both before future changes.
+
+Source recovery covers the intended committed Blueprint audit/migration files, not unrelated untracked asset work or a tested school-system restore. Those local files remain untouched. The public repository receives only allowlisted generated output; it is not an editable second master.
+
+Successor: read Start Here, the current manifest, material record 16 and the linked issue table. First reconcile any newer local/remote changes. Next bounded priorities are teacher-matrix release verification, the full EST/identity/evidence/return loop, and owner decisions on cohort/learning. Keep the blazer paused; do not turn an old issue into authorisation. Run the session-close protocol, preserve approvals and compare live hashes after publishing.
+
 ## Authorisation and boundary
 
 Tania explicitly requested moving the up-to-date Blueprint to GitHub for viewing independently of her work/two personal ChatGPT accounts and Sites credits. She also requested redirecting the previously shared ChatGPT URL to the new site when owning-account access returns. This supersedes the earlier Sites-only publishing restriction, not the requirement for one canonical Blueprint or privacy protections. No game or asset production is authorised.
 
-Plan: preserve this canonical source and its approved records; maintain the private recovery history in taniab1975/career-empire-private-recovery; publish only the reviewed website build in a dedicated public GitHub Pages repository, career-empire-blueprint. Never publish the complete private recovery checkout. Existing public game repositories remain untouched.
+Plan: preserve this canonical source and its approved records; maintain the private recovery history in taniab1975/career-empire-private-recovery; publish only the reviewed website build in a dedicated public GitHub Pages repository, career-empire-blueprint. Never publish the complete private recovery checkout. Existing public game runtime and asset files remain untouched; the accepted tracking cleanup adds only preserving planning-document notices and issue comments.
 
 Read-only preflight: the recovery repository is PRIVATE and the current user has ADMIN permission. Its production-consolidation-2026-09-08 branch exactly matches local baseline 1fc998adcfbb365dc469cb5708be75880f1c57c5. Existing main/game-snapshot branches are preserved. No existing Blueprint Pages repository appeared in the account inventory. Sites get_site for the unchanged existing project again returned 404 project_not_found; no old-site redirect is possible in this connection yet.
 

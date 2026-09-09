@@ -50,3 +50,9 @@ Inspected: civic facade, open paving, repeated simple trees and older avatar. Th
 Record stable asset ID, source image/model hash, original/editable path, export revision, dimensions/pivot/entrance/collision, material/UV/texture roles, rig/bind/weights for garments, bytes/triangles/draw calls, renderer and review views, approval scope, deployment and acceptance separately. Use exact measurements from the supported master. Separate garment fitting from static-environment optimization. Compare materials and silhouette before reducing geometry/textures; no blind size targets or stripped PBR maps.
 
 No new imagery, asset generation or paid experiment was performed by this audit. Existing concept direction is retained; missing originals remain an explicit retrieval dependency.
+
+## GitHub publication evidence — CE-VIS-GITHUB-1 / CE-VIS-GITHUB-2
+
+[First live desktop](/career-empire-blueprint/evidence/github-pages-20260909/first-live-desktop.png) and [first live mobile](/career-empire-blueprint/evidence/github-pages-20260909/first-live-mobile.png) were captured from the actual GitHub Pages URL and visually inspected after the successful full live smoke. Navigation and status text are readable; the mobile layout wraps without horizontal overflow. Hashes: `05f93a4f25d8bf8426d60b6e31d180d1903611959cffc0df43783623c9630818` and `1e28930ac8e8d2cbf83cffd1c20a411c82ab73bfebe84a59336d807d69bbdfa6`.
+
+These first-deployment screenshots retain the pending-verification wording served before the close-out update. They are dated layout evidence, not the current publication status; consult the live manifest and migration record. An earlier blank desktop screenshot was rejected and not registered; capture now waits for the publication heading, fonts and layout frames. No new game/asset imagery was produced and no visual/classroom acceptance is inferred.

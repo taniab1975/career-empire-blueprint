@@ -6,8 +6,8 @@ Career Empire is an experience-first career/life simulation for Year 12 Careers 
 
 | Surface | Verified state | What this means |
 |---|---|---|
-| Canonical Blueprint | V2.9 GitHub migration over the validated V2.8 audit | Same records and approvals, new publication route. |
-| New publication | GitHub Pages migration authorised; being verified | See the migration/release record for actual live parity. |
+| Canonical Blueprint | V2.9 live release over the validated V2.8 audit | Same records and approvals, new publication route. |
+| New publication | GitHub Pages live; full live smoke and first exact hash verified | See the migration/release record for actual live parity. |
 | Legacy ChatGPT site | V2.6 last observed | Redirect requested; owning-account access still unavailable. |
 | Playable 3D | Published app.js has blazer/doorway test and corrected EST URL | Source availability is verified; full runtime/classroom acceptance is not. |
 | EST Prep | Destination HTTP 200; stage launch code present | Test the four-stage identity/evidence/return loop. |
@@ -18,7 +18,7 @@ Career Empire is an experience-first career/life simulation for Year 12 Careers 
 
 ## Where to go
 
-- [GitHub tracking audit](github-tracking-audit-2026-09-09.md): old task/document dates, conflicting guidance, board-access limitation and recommended ownership of tracking.
+- [GitHub tracking audit](github-tracking-audit-2026-09-09.md): old task/document dates, conflicting guidance, board-access limitation and implemented linked-ticket ownership of tracking.
 - [GitHub publication and maintenance](github-migration-2026-09-09.md): new live address, source/build separation, release verification and deferred redirect.
 
 - [Material changes, contradictions and evidence](material-changes.md): one dated record per material change.
@@ -30,7 +30,7 @@ Career Empire is an experience-first career/life simulation for Year 12 Careers 
 
 ## Immediate next actions
 
-Complete GitHub publication and linked-task reconciliation. The old ChatGPT site becomes a redirect only when its owning account is accessible; it is no longer the required publisher. Subsequent production remains the authorised **Avatar Studio precinct candidate** in its separate workbench: dimensioned walking layout → textured modular kit → Studio → assembled garden/path/plaza → review → deliberate release. Leave the blazer demonstration paused. Verify the EST/teacher loop and agree the curriculum cohort/learning pilot before classroom claims.
+GitHub publication and linked-task reconciliation are complete. Maintain the same canonical source and verify its live manifest at each release. The old ChatGPT site becomes a redirect only when its owning account is accessible; it is no longer the required publisher. Subsequent production remains the authorised **Avatar Studio precinct candidate** in its separate workbench: dimensioned walking layout → textured modular kit → Studio → assembled garden/path/plaza → review → deliberate release. Leave the blazer demonstration paused. Verify the EST/teacher loop and agree the curriculum cohort/learning pilot before classroom claims.
 
 ## Protected principles
 
