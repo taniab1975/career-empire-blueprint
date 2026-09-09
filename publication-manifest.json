@@ -1,20 +1,20 @@
 {
-  "sourceCommit": "e87253f9e4bcde9a4a53a7737cd0eb32c0f54704",
-  "generatedAt": "2026-09-09T20:33:37.164Z",
-  "revision": "V2.14 / 10 September 2026",
-  "recordSha256": "bf304332cb329843dbdd7b3b6ac7f85b4117e53668a45fc6e44bf7fa5088822b",
+  "sourceCommit": "76e3bfd6caf7c6dead73bf0243c83a9081e491fc",
+  "generatedAt": "2026-09-09T21:59:07.742Z",
+  "revision": "V2.15 / 10 September 2026",
+  "recordSha256": "5bd81252eb6500c622eb0dc2cb53c81c9767c59d60b1444ea15fd895b2d1cb44",
   "files": [
+    {
+      "path": "assets/index-CiQNYCTx.js",
+      "sha256": "29bb7df6ed314a0f2e8c7a6df517b53813b120ed8be7e94af5d5250f8582f6b8"
+    },
     {
       "path": "assets/index-CjQKDqwD.css",
       "sha256": "9426a1c53962c7d98e2a28c90cf90d37c9badb0e9e6be044e3e60926795a7e42"
     },
     {
-      "path": "assets/index-DUiRF9WV.js",
-      "sha256": "e4505132d7f79afa3dd5406447e907d9aeac959124cca424ae519eac6306fc25"
-    },
-    {
       "path": "blueprint-records.json",
-      "sha256": "bf304332cb329843dbdd7b3b6ac7f85b4117e53668a45fc6e44bf7fa5088822b"
+      "sha256": "5bd81252eb6500c622eb0dc2cb53c81c9767c59d60b1444ea15fd895b2d1cb44"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -42,7 +42,7 @@
     },
     {
       "path": "evidence/asset-review-20260910/index.html",
-      "sha256": "b6218873352c051bf18b79b24ea60a8cb52d5fb65f6e61afc4fdc18845c13a59"
+      "sha256": "1f2c50e90e39632bfb927ea749a4b8aae3572553c915b179e89d68934b6dcb3f"
     },
     {
       "path": "evidence/asset-review-20260910/previews/bench.png",
@@ -102,11 +102,11 @@
     },
     {
       "path": "evidence/asset-review-20260910/register.json",
-      "sha256": "f7836a8e75c21d26c0a8e9bf1c62b5791cbaa0292682d2dc8921ae86ad623305"
+      "sha256": "2b8966c4d581142063a9a8fe3c8eeffa9463d682dee382219646a426bce54500"
     },
     {
       "path": "evidence/asset-review-20260910/review.js",
-      "sha256": "e64ba823bf87f2e6155735c08a0a8756e971182d82705c75916b07cbc78b2569"
+      "sha256": "8fce9c977c29817e24c10590179bb674e8c69ea32e97cf7a14098859167e4948"
     },
     {
       "path": "evidence/asset-review-20260910/viewer.html",
@@ -114,7 +114,7 @@
     },
     {
       "path": "evidence/asset-review-20260910/viewer.js",
-      "sha256": "3a4e293974782fe27f579919107f964fa1933cac189ac5c21c5c3c62046df1ad"
+      "sha256": "3335bb60b76d9b903e7fd5b3821e710130556bf8750eec7b946179bb112728bd"
     },
     {
       "path": "evidence/avatar-campus-kit-20260910/campus-kit-v0.1.zip",
@@ -275,6 +275,222 @@
     {
       "path": "evidence/avatar-precinct-stage1-20260910/layout-study.json",
       "sha256": "6f95c807aad886a8f51e9cf8e10a8cbb2485a24b3a17d8d65ec5587343be3449"
+    },
+    {
+      "path": "evidence/batch-01-20260910/batch-spec.json",
+      "sha256": "6f85e310b7cc40e8f7087b5bdaea8a2213057e52032c6e961320392df4d2f6b3"
+    },
+    {
+      "path": "evidence/batch-01-20260910/layout-stage.svg",
+      "sha256": "cc3cb840987899c13904c1ea676f6f94da9acb1148aa0c2b7fa98c0c3743e41f"
+    },
+    {
+      "path": "evidence/batch-01-20260910/models/arrival.glb",
+      "sha256": "6242fa65c810ba71610deaf354601082052c95511678b49f4fab3b9f265d92b8"
+    },
+    {
+      "path": "evidence/batch-01-20260910/models/careers.glb",
+      "sha256": "c419c7fea6dfec869787bbb7bb977b4c69eaa5c8ada66d9e136f0fdd498793f4"
+    },
+    {
+      "path": "evidence/batch-01-20260910/models/civic.glb",
+      "sha256": "1a665b66d011e7abef1b78b6b30acfc3a5b409791dd8761e113a3662c3fa439d"
+    },
+    {
+      "path": "evidence/batch-01-20260910/models/courtyard.glb",
+      "sha256": "7cbd0a1031801a0bfae3460bfa95153309ea6373e8b46b0ff4f9557b49db05b9"
+    },
+    {
+      "path": "evidence/batch-01-20260910/models/est.glb",
+      "sha256": "2a1e93619d0146d91c6c9f223f0bc4872ac22a4ad35177c766bc342d1a939e3b"
+    },
+    {
+      "path": "evidence/batch-01-20260910/models/garden.glb",
+      "sha256": "506eaebf8ed36cbeaf12637ec5dc4cbf9fc907df7a79c0d8f687253c81645c63"
+    },
+    {
+      "path": "evidence/batch-01-20260910/models/market.glb",
+      "sha256": "81039bab57031b4d92da105afcaff9a2edc9dc2e36f1b14b618c1e7f637b6066"
+    },
+    {
+      "path": "evidence/batch-01-20260910/models/studio.glb",
+      "sha256": "8f13bdd2b3cb520fd0ea8b999494bfa7447d00f126d8902915406712ed063f41"
+    },
+    {
+      "path": "evidence/batch-01-20260910/models/transport.glb",
+      "sha256": "bfdb98b4369b402ee4380b95958a7dc1e121203b1095109ff9d228d2b8de7a48"
+    },
+    {
+      "path": "evidence/batch-01-20260910/models/workplace.glb",
+      "sha256": "e0978d287a56c32c91bf2b3edd4b90490286b413d6af75574edc94da758cc709"
+    },
+    {
+      "path": "evidence/batch-01-20260910/parts/arrival.json",
+      "sha256": "e91398c586db4d3bc77812779889316910dafdba7eb24b30e4b79aa170657450"
+    },
+    {
+      "path": "evidence/batch-01-20260910/parts/careers.json",
+      "sha256": "ef967c9e38a439235251b2aaaa25712cb9a72b86b7437e6bcd8b65374fb4d6a7"
+    },
+    {
+      "path": "evidence/batch-01-20260910/parts/civic.json",
+      "sha256": "e653c509f1f490a74d32d7e402f48cbd0dcde99a87ece805f7a4e4a94e4dda3e"
+    },
+    {
+      "path": "evidence/batch-01-20260910/parts/courtyard.json",
+      "sha256": "bdd1ecf6e2c640e82db0c93af70792d43ba9db7277dddc0e5c488107dd1b3013"
+    },
+    {
+      "path": "evidence/batch-01-20260910/parts/est.json",
+      "sha256": "a35efdf586419c65dd5df0fe193539594c4803f9423c011bf4ac0fae2551a4df"
+    },
+    {
+      "path": "evidence/batch-01-20260910/parts/garden.json",
+      "sha256": "7646f005d28ba84469449fde434ffbd6a669fcafccc34043647878a331cb53ea"
+    },
+    {
+      "path": "evidence/batch-01-20260910/parts/market.json",
+      "sha256": "1a1249f2e9d2bc40bd062c4c02f4f1a06c8d49b0a96e64f8e2f4df0e52536218"
+    },
+    {
+      "path": "evidence/batch-01-20260910/parts/studio.json",
+      "sha256": "9ce1d2efdb5cbe0da4e0ab725bd0caf82a444b58bd3e951e57c833374f1e3d58"
+    },
+    {
+      "path": "evidence/batch-01-20260910/parts/transport.json",
+      "sha256": "7ace424a50c665b5ae40cbd0a05ade3780baa3da550c9add0b479016ce3ff8ca"
+    },
+    {
+      "path": "evidence/batch-01-20260910/parts/workplace.json",
+      "sha256": "52854a74a674dfc16c1fedbf9fe10e88d31e821cbd33893fe00467f705d0cfce"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/arrival-overview.png",
+      "sha256": "40a36e816a4812f6de7492710f51ec6115d43f664f8e29a55ca130ea55304df2"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/arrival-views.json",
+      "sha256": "ba6fc81a4c1f2444ba4aac827267b223f4de7cddab3bbe07af5f8cc1a51218a5"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/arrival-walking.png",
+      "sha256": "10f07e20112a8cc4545310633944e11be05f89ff05e2a67ce9ead9d6021ee2e7"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/careers-overview.png",
+      "sha256": "3475902c5e03549e2f8b0cb58e955dfccef1ff8c75c22b21f84e47990dbeace2"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/careers-views.json",
+      "sha256": "4c3257ec9ab6707af024608c4626c67e803eaf677da71c8fda22fb414a66e9ec"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/careers-walking.png",
+      "sha256": "b65a7414bccb126561d3e317bd9e681e263b63734ecc7391902ea0429f1eeed2"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/civic-overview.png",
+      "sha256": "e6d62bf0c67a87e7a52760904bd09b049277f8f6f3fdcb199d932f4919f7b5d4"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/civic-views.json",
+      "sha256": "66a88ac79774621568d094db218b6b6bea59cc646579646ff99570014d312992"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/civic-walking.png",
+      "sha256": "1bd5b8dda8d3840db9cda53c2c1e89407850a26249f247bb0f672e893926e5af"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/courtyard-overview.png",
+      "sha256": "da332182ed3261ffec47743e83db91f642fcb2b5b5bd8826faf0632cdc596857"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/courtyard-views.json",
+      "sha256": "549dc2fea3d98a4a1244c81e33868509c723da1c8f7adc35b059200f19adcbd5"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/courtyard-walking.png",
+      "sha256": "0c9b1a35ef72a3ac326ab00098dab581c4f46a8a46660d0ba170fea2183335e6"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/est-overview.png",
+      "sha256": "f9708370b30ddf80c144f5a55799f4a5bb2296d011438c2ad1ba1998fba31e65"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/est-views.json",
+      "sha256": "1a5a02b5699b19a9854809786459ea38674121c13363e28b4f3d6b1b626c5835"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/est-walking.png",
+      "sha256": "3494fd6aefd2f69f2e672720910f47ab445739146b7662cedb7e30a97c5da07d"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/garden-overview.png",
+      "sha256": "4847a3c670f4b94241954104579293f983a0f43153bd2c54a438e0924997ceb2"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/garden-views.json",
+      "sha256": "5fc342f457ca7f85fa51cd92f210401219f72282a1042cb33383335225bb6190"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/garden-walking.png",
+      "sha256": "c9b5cf0ce42c03878696a1bd392efaf9f92437d0643d123cff9aff831e05e44f"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/market-overview.png",
+      "sha256": "1c60aa498db84bb0337eb36f902addd8c8d5c550dc6a820209dcb2f84b73c1e8"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/market-views.json",
+      "sha256": "b06ddd31e5afe0784bdc73b9c6f5306fe4b52ee34b86bf5fa75caadc63a13d54"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/market-walking.png",
+      "sha256": "ab5c92dc8a351290cde6224d6bdf4a0d4f75167aa04f94d7ad781c629fbab78b"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/studio-overview.png",
+      "sha256": "d759304cec62626a447218d031daa38d7713ecc0bae6ef16b154ea7be58a53d8"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/studio-views.json",
+      "sha256": "d81ce6bd80d9dd4620d8630aa9173824ef5b532d83782146d8cd17cfd839099c"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/studio-walking.png",
+      "sha256": "89928b0da23c2405dfb800e968fcc3f879e466989feab1b557dc74409f0d5ea7"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/transport-overview.png",
+      "sha256": "d26b8ee3a396009c5f9117a933a39c2ccf525c1ee22afd58bc980610555153fd"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/transport-views.json",
+      "sha256": "777e6669299a2df6a0e0432b2fc1cc0e5543e42ad118ae7dd575e3b429d49333"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/transport-walking.png",
+      "sha256": "870483d96331fb376ad77dede196d5f4652d1ddd040e363ff386970d50b1752c"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/workplace-overview.png",
+      "sha256": "e80cc2608f0aa29cb3d43c061e09dd02f9e81abfd66300ab13a32e000650a42a"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/workplace-views.json",
+      "sha256": "18f6f191885a0fa5a3ab77c6c917b6b58706ce87b708de2820430eb57b85b82c"
+    },
+    {
+      "path": "evidence/batch-01-20260910/previews/workplace-walking.png",
+      "sha256": "0fc11143049fbfc28f1b9629a204eac61dd7d7530245da2477db9c533e9f61b7"
+    },
+    {
+      "path": "evidence/batch-01-20260910/production-manifest.json",
+      "sha256": "47b6e39bb0750098c5f959ecbdec3bb237403957b73231e8e3e2b45127ea4763"
+    },
+    {
+      "path": "evidence/batch-01-20260910/validation.json",
+      "sha256": "b4f6e97a72624ca48f72712ca92056e6389db0da53f7167912349d248531f2f7"
     },
     {
       "path": "evidence/blueprint-v22-start-desktop.png",
@@ -470,7 +686,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "d76ca96186fe354e64cf11632d0680192d7d3f0fc573519b345c2fd2a43e273b"
+      "sha256": "b429afd8a2b9e969280d085e500f01ac89f0f56043e4f5dae8006f4dc4dc5706"
     },
     {
       "path": "playable-3d/app.js",
@@ -570,7 +786,7 @@
     },
     {
       "path": "production/asset-batch-review-2026-09-10.md",
-      "sha256": "17d96f06f9b8afde8306c272f3bfad5f9ff137d22b9ca3c8a1b8b777a242e418"
+      "sha256": "356ee84ce836ee8188f69d8df5237d1c9a614f323f11e481202e89e4ed7d8a66"
     },
     {
       "path": "production/astra-research.md",
@@ -582,15 +798,19 @@
     },
     {
       "path": "production/avatar-campus-textured-kit-2026-09-10.md",
-      "sha256": "3851de5f74b3a443f6652aa395cd77bc855e9bf5418f75192c1e446baca57a0e"
+      "sha256": "0058dfee17d8f49dc65ccb6d13cf6fce7b68a57c002de436f1bb405a8dc1d93d"
     },
     {
       "path": "production/avatar-precinct-layout-stage1-2026-09-10.md",
       "sha256": "6842fd75cb97b390eb552b117737a85074c22c2cb664cf01558b6afb601f1f09"
     },
     {
+      "path": "production/batch-01-ten-items-2026-09-10.md",
+      "sha256": "1facfb0a04458ea3fc489ed09d6ccfc7792428d6978dde94061e59e8e41519e1"
+    },
+    {
       "path": "production/change-integration.md",
-      "sha256": "d4ea50bb4427584f283b245d9e707ddf540ed55a4feabc4c0f734700cfef6e94"
+      "sha256": "8fb899340d92e7ff85cbb42a98c057b23007627a42c5c042012a570dea344625"
     },
     {
       "path": "production/change-workflows.md",
@@ -598,11 +818,11 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "bc7f8b76a6cdc7e3c04d4a2645e4cd0c0f883a8d037e13dfc30b4a6e37de210e"
+      "sha256": "89a06205154583740f33213386d2ed256bad342fd6e57aff8deb87a1d5e5cba6"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "794dfa937912659fd4a3a093cd951b3873764c106a5fc630f561ceb89b70b715"
+      "sha256": "a138a1c123182f561540162abb1e6b0427cf02eb4aef5c46594495e05cc0b1a5"
     },
     {
       "path": "production/github-migration-2026-09-09.md",
@@ -622,15 +842,15 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "84ae21df03ead3d524aaa0852c8fe60a7eb2481957bc9c724e5958af78788539"
+      "sha256": "d564b8e4fffb728281c01e264baabc4b20a4a3202539dac3fd4d9f0aa9e0ba1b"
     },
     {
       "path": "production/operating-protocol.md",
-      "sha256": "45b53e1ac61ef07ad4e63803173c4f11dad3ff42dc69fa092666959d854387bd"
+      "sha256": "5e30d875845c6cb1760e8b6e345ff80f37367e4eed2e5396bda53ccb28fd6397"
     },
     {
       "path": "production/production-plan.md",
-      "sha256": "9b7fa9b7a5ad90872ea4a651b9471d8012f647fbf6c59a6bacece27fe9e0e751"
+      "sha256": "9a140eeaf5b94778939514459fada3630d84a8e74fa63da61bdc85a6911b8cce"
     },
     {
       "path": "production/project-automation-setup-2026-09-10.md",
@@ -662,7 +882,7 @@
     },
     {
       "path": "production/visual-register.md",
-      "sha256": "169ff9f015fe801f4e63b4707f132f27aea3f9336c81516b47c315af45380d4e"
+      "sha256": "22ef2445ecbcb79053b89d48254fb243579e734b8f3815a116438b90a18b63a6"
     },
     {
       "path": "references/CE-BLDG-001-home-base.png",

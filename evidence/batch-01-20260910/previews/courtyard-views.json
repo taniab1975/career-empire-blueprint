@@ -1,0 +1,32 @@
+[
+  {
+    "kind": "overview",
+    "path": "/evidence/batch-01-20260910/previews/courtyard-overview.png",
+    "sha256": "da332182ed3261ffec47743e83db91f642fcb2b5b5bd8826faf0632cdc596857",
+    "camera": [
+      18.0,
+      -26.0,
+      20.0
+    ],
+    "target": [
+      0.0,
+      -1.7999999523162842,
+      1.100000023841858
+    ]
+  },
+  {
+    "kind": "walking",
+    "path": "/evidence/batch-01-20260910/previews/courtyard-walking.png",
+    "sha256": "0c9b1a35ef72a3ac326ab00098dab581c4f46a8a46660d0ba170fea2183335e6",
+    "camera": [
+      8.399999618530273,
+      -17.0,
+      1.649999976158142
+    ],
+    "target": [
+      0.0,
+      -6.0,
+      1.649999976158142
+    ]
+  }
+]

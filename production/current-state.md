@@ -1,10 +1,11 @@
 # Start Here — Career Empire, 10 September 2026
 
-**Current checkpoint:** [Whole-item asset review](asset-batch-review-2026-09-10.md): approve the complete building/asset/scene with its parts included, not every wall or flower. The current Avatar Studio item has 14 supporting parts but no full assembly; no overall approval or Studio construction has occurred. Any later material appearance change returns for review. V2.14 whole-item review is published and independently verified; the live manifest identifies exact source.
+**Current checkpoint — Batch 1:** Ten complete appearance candidates are built for one grouped review: Avatar Studio, Arrival Pavilion, EST Prep Lab, Civic Hall, Careers Advice Centre, First Workplace, Community Garden, Learning Courtyard, Transport Stop and Community Market. Each includes all its parts and surroundings. Review all ten together; no item is accepted yet. [Batch review](/career-empire-blueprint/evidence/asset-review-20260910/index.html).
+
 
 **Latest instruction — 10 September 2026:** Tania authorises publication; remote CI/branch-protection activation is not required. Keep local safeguards and independently verify the live release. Then begin CE-ENV-01 at the dimensioned Avatar Studio layout stage, followed separately by kit, Studio, assembled precinct and review. The blazer stays paused. [Scope and sequence](publication-and-production-2026-09-10.md). Earlier pending-authority/remote-blocker statements below are historical checkpoints superseded by CE-CHANGE-20260910-21.
 
-**Current production work:** Organise whole-item review with optional component detail. Avatar Studio is incomplete; no separate approvals are required for its parts and no construction is started.
+**Current production work:** Batch 1 has ten complete appearance candidates. Review the ten together; no separate component approvals.
 
 **Reader reconciliation, V2.11.** The earlier whole-Blueprint currency claim was withdrawn after stale content was found. The exact approved campus, corridor and Avatar Studio originals are now recovered, and built Studio/schoolboy/blazer evidence is separately displayed. [Section-by-section findings](reader-reconciliation-2026-09-10.md) distinguish content corrections from unverified game/classroom acceptance. The current live build is identified by its [publication manifest](https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json), not by a previous version label.
 
@@ -16,7 +17,7 @@ Career Empire remains an experience-first career/life simulation for Year 12 Car
 |---|---|---|
 | Visual direction | Original 9 September courtyard, corridor and pavilion images recovered from the originating task; exact hashes registered | Concept approval is not completion of the model or precinct |
 | Built world and avatars | Actual Studio entrance and schoolboy/blazer screenshots now visible; live app.js, characters.js and world.js match the inspected game source on 10 September | School-device, full animation and classroom acceptance are not established |
-| Avatar Studio precinct | Direction approved; dimensioned layout reviewed in isolation and 14 textured kit modules built | Whole-item review includes the parts; full Studio remains unbuilt, followed separately by garden/path/plaza and deliberate game release |
+| Avatar Studio precinct | Direction approved; dimensioned layout reviewed in isolation and 14 textured kit modules built | Studio is one of ten complete appearance candidates in Batch 1; grouped appearance review precedes later map/runtime integration |
 | Wardrobe | Repaired shared-skeleton blazer first pass accepted for publication and paused | Missing covered torso/upper-arm geometry and sleeve defects; do not resume without Tania |
 | EST Prep | Correct destination returns HTTP 200; published launch code exists | Four-stage identity/evidence/return loop still unverified |
 | Teacher workflow | Older comparison matrices are public; the new renderTeacherESTPrepMatrix function remains local-only on 10 September | Reconcile/release the new EST matrix and test saved review, roles, ownership and resume with fictional accounts |
@@ -37,7 +38,7 @@ Career Empire remains an experience-first career/life simulation for Year 12 Car
 ## Priorities after reconciliation
 
 1. Maintain the verified reader pages and exact release manifest. [Independent V2.11 release checks](reader-release-receipt-2026-09-10.md) passed; repeat them after future changes rather than treating a push as completion.
-2. Review complete buildings/assets/scenes in batches of up to 10 whole items; their listed parts are included without separate wall or flower approvals. The current Studio assembly is incomplete. Appearance decisions do not authorise Studio assembly. Any next production instruction is separate; the established later sequence remains Studio → precinct → matched player-height/performance review → deliberate game release.
+2. Review complete buildings/assets/scenes in batches of up to 10 whole items; their listed parts are included without separate wall or flower approvals. Tania authorised and confirmed this ten-item production batch. Next is whole-batch appearance review, then named revisions and later map/runtime integration; no live game release is inferred.
 3. Verify the complete EST/new-teacher-matrix evidence loop using fictional accounts.
 4. Confirm cohort/edition and the first learning pilot before classroom claims.
 5. Leave blazer work paused; defer extra hero buildings, gameplay mechanics and spending.

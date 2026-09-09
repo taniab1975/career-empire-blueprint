@@ -434,6 +434,24 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **testing:** 60 tests, TypeScript, focused lint, normal and guarded Pages builds passed. Full local reader suite and targeted live desktop/mobile review passed. All 194 live files matched.
 - **taniaAcceptance:** No item accepted. Future whole-item acceptance includes its listed unflagged parts; no separate wall/flower approvals.
 
+## CE-CHANGE-20260910-25 — Produce Batch 1: ten complete Career World review items
+
+- **date:** 2026-09-10
+- **domain:** Whole-item asset production
+- **source:** Tania corrected single-building approval: batches of 10, building was one item; then authorised ys go to identifying and producing the first 10 complete items through established stages for batch approval. Parts are included; no appearance acceptance inferred. Tania explicitly selected Use these 10 complete places; CE-DISCUSSION-1b87e6c1-d0b0-4e7b-ba6b-a8bc3e568ae7.
+- **owner:** Blueprint maintainer; Tania reviews complete batch
+- **status:** Ten complete candidates prepared; awaiting batch review
+- **rationale:** Review ten complete items together. Do not count walls, flowers or a building component as separate review items.
+- **dependencies:** CE-CHANGE-20260910-24 / CE-CHANGE-20260910-23
+- **evidence:** /production/batch-01-ten-items-2026-09-10.md
+- **nextAction:** Layout checks → kit assembly → surroundings → technical and visual checks → ten-item batch review.
+- **supersededRecord:** None
+- **designApproval:** Batch production authorised; appearance acceptance remains pending.
+- **implementation:** Ten separate whole-place GLBs and parts registers; two actual export renders per item. Angular foliage revised after the first Studio quality check. Original kit exports preserved.
+- **deployment:** Review publication pending; game runtime unchanged.
+- **testing:** Geometry/hash and desktop/mobile review checks underway.
+- **taniaAcceptance:** Pending complete batch review.
+
 ## Retained Atlas principles
 
 Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries

@@ -1,0 +1,32 @@
+[
+  {
+    "kind": "overview",
+    "path": "/evidence/batch-01-20260910/previews/studio-overview.png",
+    "sha256": "d759304cec62626a447218d031daa38d7713ecc0bae6ef16b154ea7be58a53d8",
+    "camera": [
+      18.0,
+      -26.0,
+      20.0
+    ],
+    "target": [
+      0.0,
+      -1.7999999523162842,
+      1.100000023841858
+    ]
+  },
+  {
+    "kind": "walking",
+    "path": "/evidence/batch-01-20260910/previews/studio-walking.png",
+    "sha256": "89928b0da23c2405dfb800e968fcc3f879e466989feab1b557dc74409f0d5ea7",
+    "camera": [
+      4.800000190734863,
+      -14.0,
+      1.649999976158142
+    ],
+    "target": [
+      0.0,
+      -3.0,
+      1.649999976158142
+    ]
+  }
+]

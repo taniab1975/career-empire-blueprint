@@ -1,0 +1,3947 @@
+[
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-001",
+    "name": "Shade post.004",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -3.5,
+      1.5,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-002",
+    "name": "Shade post.005",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -3.5,
+      5.5,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-003",
+    "name": "Shade post.006",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      3.5,
+      1.5,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-004",
+    "name": "Shade post.007",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      3.5,
+      5.5,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-005",
+    "name": "Shade beam.002",
+    "dimensions": [
+      0.18,
+      4.3,
+      0.2
+    ],
+    "position": [
+      -3.5,
+      3.5,
+      3.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-006",
+    "name": "Shade beam.003",
+    "dimensions": [
+      0.18,
+      4.3,
+      0.2
+    ],
+    "position": [
+      3.5,
+      3.5,
+      3.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-007",
+    "name": "Timber shade slat.026",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      1.5,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-008",
+    "name": "Timber shade slat.027",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      1.74,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-009",
+    "name": "Timber shade slat.028",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      1.98,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-010",
+    "name": "Timber shade slat.029",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      2.22,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-011",
+    "name": "Timber shade slat.030",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      2.46,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-012",
+    "name": "Timber shade slat.031",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      2.7,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-013",
+    "name": "Timber shade slat.032",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      2.94,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-014",
+    "name": "Timber shade slat.033",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      3.18,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-015",
+    "name": "Timber shade slat.034",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      3.42,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-016",
+    "name": "Timber shade slat.035",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      3.66,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-017",
+    "name": "Timber shade slat.036",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      3.9,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-018",
+    "name": "Timber shade slat.037",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      4.14,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-019",
+    "name": "Timber shade slat.038",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      4.38,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-020",
+    "name": "Timber shade slat.039",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      4.62,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-021",
+    "name": "Timber shade slat.040",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      4.86,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-022",
+    "name": "Timber shade slat.041",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      5.1,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-023",
+    "name": "Timber shade slat.042",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      5.34,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-024",
+    "name": "Timber shade slat.043",
+    "dimensions": [
+      7.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      5.58,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-025",
+    "name": "Garden edge",
+    "dimensions": [
+      3.0,
+      2.0,
+      0.36
+    ],
+    "position": [
+      -4.5,
+      -3.0,
+      0.18
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-026",
+    "name": "Mulch",
+    "dimensions": [
+      2.84,
+      1.84,
+      0.035
+    ],
+    "position": [
+      -4.5,
+      -3.0,
+      0.37
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-027",
+    "name": "Native grass clump",
+    "dimensions": [
+      0.5112,
+      0.4789,
+      0.6092
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-028",
+    "name": "Native grass clump.001",
+    "dimensions": [
+      0.4445,
+      0.3963,
+      0.5701
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-029",
+    "name": "Native grass clump.002",
+    "dimensions": [
+      0.4327,
+      0.477,
+      0.5458
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-030",
+    "name": "Native grass clump.003",
+    "dimensions": [
+      0.335,
+      0.4902,
+      0.6145
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-031",
+    "name": "Native grass clump.004",
+    "dimensions": [
+      0.4715,
+      0.3773,
+      0.6066
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-032",
+    "name": "Native grass clump.005",
+    "dimensions": [
+      0.4578,
+      0.3318,
+      0.6125
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-033",
+    "name": "Native grass clump.006",
+    "dimensions": [
+      0.4636,
+      0.5239,
+      0.5835
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-034",
+    "name": "Native grass clump.007",
+    "dimensions": [
+      0.4474,
+      0.408,
+      0.6143
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-035",
+    "name": "Native grass clump.008",
+    "dimensions": [
+      0.4037,
+      0.3424,
+      0.6171
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-036",
+    "name": "Native grass clump.009",
+    "dimensions": [
+      0.5077,
+      0.4356,
+      0.5967
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-037",
+    "name": "Native grass clump.010",
+    "dimensions": [
+      0.4974,
+      0.5754,
+      0.5947
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-038",
+    "name": "Native grass clump.011",
+    "dimensions": [
+      0.4661,
+      0.5941,
+      0.5748
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-039",
+    "name": "Native grass clump.012",
+    "dimensions": [
+      0.568,
+      0.5296,
+      0.6177
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-040",
+    "name": "Native grass clump.013",
+    "dimensions": [
+      0.5649,
+      0.5646,
+      0.6053
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-041",
+    "name": "Native grass clump.014",
+    "dimensions": [
+      0.5212,
+      0.4554,
+      0.6185
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-042",
+    "name": "Native grass clump.015",
+    "dimensions": [
+      0.5095,
+      0.518,
+      0.6119
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-043",
+    "name": "Native grass clump.016",
+    "dimensions": [
+      0.5121,
+      0.4731,
+      0.6127
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-044",
+    "name": "Native grass clump.017",
+    "dimensions": [
+      0.4584,
+      0.5167,
+      0.6003
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-045",
+    "name": "Native grass clump.018",
+    "dimensions": [
+      0.5442,
+      0.404,
+      0.6094
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-046",
+    "name": "Native grass clump.019",
+    "dimensions": [
+      0.429,
+      0.569,
+      0.592
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-047",
+    "name": "Native grass clump.020",
+    "dimensions": [
+      0.5977,
+      0.5337,
+      0.5353
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-048",
+    "name": "Native grass clump.021",
+    "dimensions": [
+      0.5852,
+      0.5417,
+      0.5761
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-049",
+    "name": "Native grass clump.022",
+    "dimensions": [
+      0.4481,
+      0.4417,
+      0.5802
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-050",
+    "name": "Native grass clump.023",
+    "dimensions": [
+      0.5801,
+      0.4554,
+      0.609
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-051",
+    "name": "Garden edge.001",
+    "dimensions": [
+      3.0,
+      2.0,
+      0.36
+    ],
+    "position": [
+      -4.5,
+      0.0,
+      0.18
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-052",
+    "name": "Mulch.001",
+    "dimensions": [
+      2.84,
+      1.84,
+      0.035
+    ],
+    "position": [
+      -4.5,
+      0.0,
+      0.37
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-053",
+    "name": "Native grass clump.024",
+    "dimensions": [
+      0.5262,
+      0.5185,
+      0.605
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-054",
+    "name": "Native grass clump.025",
+    "dimensions": [
+      0.4097,
+      0.5884,
+      0.5778
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-055",
+    "name": "Native grass clump.026",
+    "dimensions": [
+      0.5055,
+      0.4515,
+      0.6027
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-056",
+    "name": "Native grass clump.027",
+    "dimensions": [
+      0.466,
+      0.4718,
+      0.5711
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-057",
+    "name": "Native grass clump.028",
+    "dimensions": [
+      0.5471,
+      0.4646,
+      0.611
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-058",
+    "name": "Native grass clump.029",
+    "dimensions": [
+      0.3776,
+      0.488,
+      0.5193
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-059",
+    "name": "Native grass clump.030",
+    "dimensions": [
+      0.5851,
+      0.5297,
+      0.6182
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-060",
+    "name": "Native grass clump.031",
+    "dimensions": [
+      0.4241,
+      0.459,
+      0.6031
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-061",
+    "name": "Native grass clump.032",
+    "dimensions": [
+      0.4774,
+      0.4358,
+      0.6166
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-062",
+    "name": "Native grass clump.033",
+    "dimensions": [
+      0.5338,
+      0.5201,
+      0.6044
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-063",
+    "name": "Native grass clump.034",
+    "dimensions": [
+      0.4881,
+      0.3824,
+      0.5912
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-064",
+    "name": "Native grass clump.035",
+    "dimensions": [
+      0.4294,
+      0.4371,
+      0.6031
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-065",
+    "name": "Native grass clump.036",
+    "dimensions": [
+      0.4551,
+      0.5042,
+      0.6086
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-066",
+    "name": "Native grass clump.037",
+    "dimensions": [
+      0.4814,
+      0.4609,
+      0.6138
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-067",
+    "name": "Native grass clump.038",
+    "dimensions": [
+      0.5622,
+      0.4356,
+      0.545
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-068",
+    "name": "Native grass clump.039",
+    "dimensions": [
+      0.3812,
+      0.5603,
+      0.5703
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-069",
+    "name": "Native grass clump.040",
+    "dimensions": [
+      0.4101,
+      0.4012,
+      0.6172
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-070",
+    "name": "Native grass clump.041",
+    "dimensions": [
+      0.4047,
+      0.5187,
+      0.6186
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-071",
+    "name": "Native grass clump.042",
+    "dimensions": [
+      0.466,
+      0.5368,
+      0.6196
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-072",
+    "name": "Native grass clump.043",
+    "dimensions": [
+      0.4596,
+      0.4823,
+      0.5957
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-073",
+    "name": "Native grass clump.044",
+    "dimensions": [
+      0.4603,
+      0.4498,
+      0.6146
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-074",
+    "name": "Native grass clump.045",
+    "dimensions": [
+      0.5786,
+      0.5124,
+      0.5744
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-075",
+    "name": "Native grass clump.046",
+    "dimensions": [
+      0.4974,
+      0.453,
+      0.5998
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-076",
+    "name": "Native grass clump.047",
+    "dimensions": [
+      0.3675,
+      0.4458,
+      0.6142
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-077",
+    "name": "Garden edge.002",
+    "dimensions": [
+      3.0,
+      2.0,
+      0.36
+    ],
+    "position": [
+      -4.5,
+      3.0,
+      0.18
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-078",
+    "name": "Mulch.002",
+    "dimensions": [
+      2.84,
+      1.84,
+      0.035
+    ],
+    "position": [
+      -4.5,
+      3.0,
+      0.37
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-079",
+    "name": "Native grass clump.048",
+    "dimensions": [
+      0.4763,
+      0.4741,
+      0.5831
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-080",
+    "name": "Native grass clump.049",
+    "dimensions": [
+      0.5395,
+      0.4599,
+      0.5925
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-081",
+    "name": "Native grass clump.050",
+    "dimensions": [
+      0.5271,
+      0.5417,
+      0.5973
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-082",
+    "name": "Native grass clump.051",
+    "dimensions": [
+      0.5512,
+      0.4981,
+      0.5725
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-083",
+    "name": "Native grass clump.052",
+    "dimensions": [
+      0.5657,
+      0.5028,
+      0.5543
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-084",
+    "name": "Native grass clump.053",
+    "dimensions": [
+      0.5117,
+      0.468,
+      0.6146
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-085",
+    "name": "Native grass clump.054",
+    "dimensions": [
+      0.5021,
+      0.5571,
+      0.6043
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-086",
+    "name": "Native grass clump.055",
+    "dimensions": [
+      0.4287,
+      0.5926,
+      0.5981
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-087",
+    "name": "Native grass clump.056",
+    "dimensions": [
+      0.5628,
+      0.5706,
+      0.5976
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-088",
+    "name": "Native grass clump.057",
+    "dimensions": [
+      0.5316,
+      0.4596,
+      0.5965
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-089",
+    "name": "Native grass clump.058",
+    "dimensions": [
+      0.5525,
+      0.3896,
+      0.5549
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-090",
+    "name": "Native grass clump.059",
+    "dimensions": [
+      0.4184,
+      0.4402,
+      0.6095
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-091",
+    "name": "Native grass clump.060",
+    "dimensions": [
+      0.4149,
+      0.5407,
+      0.6039
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-092",
+    "name": "Native grass clump.061",
+    "dimensions": [
+      0.4438,
+      0.5106,
+      0.6031
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-093",
+    "name": "Native grass clump.062",
+    "dimensions": [
+      0.4986,
+      0.4926,
+      0.6158
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-094",
+    "name": "Native grass clump.063",
+    "dimensions": [
+      0.4532,
+      0.5224,
+      0.5624
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-095",
+    "name": "Native grass clump.064",
+    "dimensions": [
+      0.429,
+      0.502,
+      0.6116
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-096",
+    "name": "Native grass clump.065",
+    "dimensions": [
+      0.4296,
+      0.363,
+      0.5845
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-097",
+    "name": "Native grass clump.066",
+    "dimensions": [
+      0.5668,
+      0.595,
+      0.5644
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-098",
+    "name": "Native grass clump.067",
+    "dimensions": [
+      0.4552,
+      0.4988,
+      0.609
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-099",
+    "name": "Native grass clump.068",
+    "dimensions": [
+      0.4458,
+      0.4337,
+      0.4781
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-100",
+    "name": "Native grass clump.069",
+    "dimensions": [
+      0.3714,
+      0.4583,
+      0.5866
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-101",
+    "name": "Native grass clump.070",
+    "dimensions": [
+      0.5914,
+      0.5897,
+      0.6067
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-102",
+    "name": "Native grass clump.071",
+    "dimensions": [
+      0.4718,
+      0.5393,
+      0.6122
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-103",
+    "name": "Garden edge.003",
+    "dimensions": [
+      3.0,
+      2.0,
+      0.36
+    ],
+    "position": [
+      4.5,
+      -3.0,
+      0.18
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-104",
+    "name": "Mulch.003",
+    "dimensions": [
+      2.84,
+      1.84,
+      0.035
+    ],
+    "position": [
+      4.5,
+      -3.0,
+      0.37
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-105",
+    "name": "Native grass clump.072",
+    "dimensions": [
+      0.4691,
+      0.5137,
+      0.5985
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-106",
+    "name": "Native grass clump.073",
+    "dimensions": [
+      0.4804,
+      0.5116,
+      0.5294
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-107",
+    "name": "Native grass clump.074",
+    "dimensions": [
+      0.5141,
+      0.4882,
+      0.5636
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-108",
+    "name": "Native grass clump.075",
+    "dimensions": [
+      0.564,
+      0.5332,
+      0.6014
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-109",
+    "name": "Native grass clump.076",
+    "dimensions": [
+      0.5691,
+      0.5658,
+      0.6148
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-110",
+    "name": "Native grass clump.077",
+    "dimensions": [
+      0.4109,
+      0.5142,
+      0.5735
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-111",
+    "name": "Native grass clump.078",
+    "dimensions": [
+      0.3761,
+      0.5613,
+      0.6138
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-112",
+    "name": "Native grass clump.079",
+    "dimensions": [
+      0.5069,
+      0.4768,
+      0.6135
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-113",
+    "name": "Native grass clump.080",
+    "dimensions": [
+      0.5555,
+      0.4926,
+      0.6116
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-114",
+    "name": "Native grass clump.081",
+    "dimensions": [
+      0.4179,
+      0.5344,
+      0.5009
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-115",
+    "name": "Native grass clump.082",
+    "dimensions": [
+      0.4347,
+      0.5228,
+      0.5975
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-116",
+    "name": "Native grass clump.083",
+    "dimensions": [
+      0.4458,
+      0.3664,
+      0.5969
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-117",
+    "name": "Native grass clump.084",
+    "dimensions": [
+      0.5125,
+      0.4386,
+      0.5419
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-118",
+    "name": "Native grass clump.085",
+    "dimensions": [
+      0.4119,
+      0.5086,
+      0.5578
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-119",
+    "name": "Native grass clump.086",
+    "dimensions": [
+      0.3781,
+      0.393,
+      0.5859
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-120",
+    "name": "Native grass clump.087",
+    "dimensions": [
+      0.3898,
+      0.5242,
+      0.6058
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-121",
+    "name": "Native grass clump.088",
+    "dimensions": [
+      0.5424,
+      0.4729,
+      0.5782
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-122",
+    "name": "Native grass clump.089",
+    "dimensions": [
+      0.4531,
+      0.3991,
+      0.5778
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-123",
+    "name": "Native grass clump.090",
+    "dimensions": [
+      0.4877,
+      0.4675,
+      0.582
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-124",
+    "name": "Native grass clump.091",
+    "dimensions": [
+      0.5133,
+      0.5124,
+      0.5994
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-125",
+    "name": "Native grass clump.092",
+    "dimensions": [
+      0.5332,
+      0.4712,
+      0.5584
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-126",
+    "name": "Native grass clump.093",
+    "dimensions": [
+      0.5912,
+      0.4378,
+      0.6126
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-127",
+    "name": "Native grass clump.094",
+    "dimensions": [
+      0.5307,
+      0.3881,
+      0.5695
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-128",
+    "name": "Native grass clump.095",
+    "dimensions": [
+      0.4565,
+      0.381,
+      0.5117
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-129",
+    "name": "Garden edge.004",
+    "dimensions": [
+      3.0,
+      2.0,
+      0.36
+    ],
+    "position": [
+      4.5,
+      0.0,
+      0.18
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-130",
+    "name": "Mulch.004",
+    "dimensions": [
+      2.84,
+      1.84,
+      0.035
+    ],
+    "position": [
+      4.5,
+      0.0,
+      0.37
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-131",
+    "name": "Native grass clump.096",
+    "dimensions": [
+      0.5285,
+      0.4667,
+      0.5891
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-132",
+    "name": "Native grass clump.097",
+    "dimensions": [
+      0.4444,
+      0.4906,
+      0.5942
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-133",
+    "name": "Native grass clump.098",
+    "dimensions": [
+      0.3654,
+      0.3611,
+      0.4821
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-134",
+    "name": "Native grass clump.099",
+    "dimensions": [
+      0.5976,
+      0.4509,
+      0.6066
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-135",
+    "name": "Native grass clump.100",
+    "dimensions": [
+      0.432,
+      0.5599,
+      0.6143
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-136",
+    "name": "Native grass clump.101",
+    "dimensions": [
+      0.5172,
+      0.3592,
+      0.6197
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-137",
+    "name": "Native grass clump.102",
+    "dimensions": [
+      0.5035,
+      0.506,
+      0.6108
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-138",
+    "name": "Native grass clump.103",
+    "dimensions": [
+      0.4063,
+      0.5121,
+      0.6001
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-139",
+    "name": "Native grass clump.104",
+    "dimensions": [
+      0.5048,
+      0.4596,
+      0.5415
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-140",
+    "name": "Native grass clump.105",
+    "dimensions": [
+      0.5364,
+      0.3796,
+      0.5848
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-141",
+    "name": "Native grass clump.106",
+    "dimensions": [
+      0.5698,
+      0.4902,
+      0.5152
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-142",
+    "name": "Native grass clump.107",
+    "dimensions": [
+      0.4778,
+      0.5194,
+      0.5925
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-143",
+    "name": "Native grass clump.108",
+    "dimensions": [
+      0.4778,
+      0.3787,
+      0.5645
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-144",
+    "name": "Native grass clump.109",
+    "dimensions": [
+      0.5179,
+      0.4138,
+      0.6099
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-145",
+    "name": "Native grass clump.110",
+    "dimensions": [
+      0.446,
+      0.522,
+      0.5737
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-146",
+    "name": "Native grass clump.111",
+    "dimensions": [
+      0.4673,
+      0.5807,
+      0.609
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-147",
+    "name": "Native grass clump.112",
+    "dimensions": [
+      0.4727,
+      0.5155,
+      0.5709
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-148",
+    "name": "Native grass clump.113",
+    "dimensions": [
+      0.4953,
+      0.5608,
+      0.6119
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-149",
+    "name": "Native grass clump.114",
+    "dimensions": [
+      0.4057,
+      0.492,
+      0.6098
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-150",
+    "name": "Native grass clump.115",
+    "dimensions": [
+      0.5315,
+      0.5345,
+      0.6147
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-151",
+    "name": "Native grass clump.116",
+    "dimensions": [
+      0.4423,
+      0.5553,
+      0.5952
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-152",
+    "name": "Native grass clump.117",
+    "dimensions": [
+      0.4719,
+      0.3318,
+      0.6039
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-153",
+    "name": "Native grass clump.118",
+    "dimensions": [
+      0.6028,
+      0.4595,
+      0.6019
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-154",
+    "name": "Native grass clump.119",
+    "dimensions": [
+      0.5313,
+      0.5148,
+      0.6159
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-155",
+    "name": "Garden edge.005",
+    "dimensions": [
+      3.0,
+      2.0,
+      0.36
+    ],
+    "position": [
+      4.5,
+      3.0,
+      0.18
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-156",
+    "name": "Mulch.005",
+    "dimensions": [
+      2.84,
+      1.84,
+      0.035
+    ],
+    "position": [
+      4.5,
+      3.0,
+      0.37
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-157",
+    "name": "Native grass clump.120",
+    "dimensions": [
+      0.2762,
+      0.5119,
+      0.5505
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-158",
+    "name": "Native grass clump.121",
+    "dimensions": [
+      0.4607,
+      0.4491,
+      0.6089
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-159",
+    "name": "Native grass clump.122",
+    "dimensions": [
+      0.5318,
+      0.5321,
+      0.6197
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-160",
+    "name": "Native grass clump.123",
+    "dimensions": [
+      0.4698,
+      0.4311,
+      0.6022
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-161",
+    "name": "Native grass clump.124",
+    "dimensions": [
+      0.3991,
+      0.5172,
+      0.558
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-162",
+    "name": "Native grass clump.125",
+    "dimensions": [
+      0.4205,
+      0.3991,
+      0.6075
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-163",
+    "name": "Native grass clump.126",
+    "dimensions": [
+      0.365,
+      0.3872,
+      0.5893
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-164",
+    "name": "Native grass clump.127",
+    "dimensions": [
+      0.4813,
+      0.4663,
+      0.6077
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-165",
+    "name": "Native grass clump.128",
+    "dimensions": [
+      0.463,
+      0.4774,
+      0.5712
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-166",
+    "name": "Native grass clump.129",
+    "dimensions": [
+      0.3614,
+      0.5828,
+      0.5801
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-167",
+    "name": "Native grass clump.130",
+    "dimensions": [
+      0.5598,
+      0.5695,
+      0.5842
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-168",
+    "name": "Native grass clump.131",
+    "dimensions": [
+      0.4567,
+      0.5104,
+      0.5984
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-169",
+    "name": "Native grass clump.132",
+    "dimensions": [
+      0.4368,
+      0.4599,
+      0.6113
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-170",
+    "name": "Native grass clump.133",
+    "dimensions": [
+      0.5049,
+      0.4151,
+      0.6148
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-171",
+    "name": "Native grass clump.134",
+    "dimensions": [
+      0.3939,
+      0.3397,
+      0.5949
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-172",
+    "name": "Native grass clump.135",
+    "dimensions": [
+      0.5697,
+      0.4488,
+      0.5673
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-173",
+    "name": "Native grass clump.136",
+    "dimensions": [
+      0.4671,
+      0.5279,
+      0.6102
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-174",
+    "name": "Native grass clump.137",
+    "dimensions": [
+      0.5174,
+      0.4643,
+      0.6038
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-175",
+    "name": "Native grass clump.138",
+    "dimensions": [
+      0.4867,
+      0.5297,
+      0.6093
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-176",
+    "name": "Native grass clump.139",
+    "dimensions": [
+      0.4503,
+      0.5078,
+      0.6108
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-177",
+    "name": "Native grass clump.140",
+    "dimensions": [
+      0.5014,
+      0.5752,
+      0.5302
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-178",
+    "name": "Native grass clump.141",
+    "dimensions": [
+      0.392,
+      0.4568,
+      0.578
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-179",
+    "name": "Native grass clump.142",
+    "dimensions": [
+      0.4061,
+      0.4948,
+      0.6147
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-180",
+    "name": "Native grass clump.143",
+    "dimensions": [
+      0.52,
+      0.4711,
+      0.6152
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.36
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-181",
+    "name": "bench part.011",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      -1.6,
+      3.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-182",
+    "name": "Table",
+    "dimensions": [
+      1.7,
+      0.8,
+      0.08
+    ],
+    "position": [
+      -1.6,
+      3.9,
+      0.74
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-183",
+    "name": "Table support",
+    "dimensions": [
+      0.08,
+      0.6,
+      0.7
+    ],
+    "position": [
+      -2.2,
+      3.9,
+      0.35
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-184",
+    "name": "Table support.001",
+    "dimensions": [
+      0.08,
+      0.6,
+      0.7
+    ],
+    "position": [
+      -1.0,
+      3.9,
+      0.35
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-185",
+    "name": "bench part.012",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      1.6,
+      3.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-186",
+    "name": "Table.001",
+    "dimensions": [
+      1.7,
+      0.8,
+      0.08
+    ],
+    "position": [
+      1.6,
+      3.9,
+      0.74
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-187",
+    "name": "Table support.002",
+    "dimensions": [
+      0.08,
+      0.6,
+      0.7
+    ],
+    "position": [
+      1.0,
+      3.9,
+      0.35
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-188",
+    "name": "Table support.003",
+    "dimensions": [
+      0.08,
+      0.6,
+      0.7
+    ],
+    "position": [
+      2.2,
+      3.9,
+      0.35
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-189",
+    "name": "Whole item paving.006",
+    "dimensions": [
+      22.0,
+      24.0,
+      0.18
+    ],
+    "position": [
+      0.0,
+      -2.0,
+      -0.1
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-190",
+    "name": "branch.096",
+    "dimensions": [
+      0.22,
+      0.22,
+      3.6014
+    ],
+    "position": [
+      -5.95,
+      5.0,
+      1.8
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-191",
+    "name": "branch.097",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.4534
+    ],
+    "position": [
+      -5.45,
+      5.0,
+      2.875
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-192",
+    "name": "Eucalypt foliage.336",
+    "dimensions": [
+      1.5339,
+      1.178,
+      0.6299
+    ],
+    "position": [
+      -5.2992,
+      5.2483,
+      3.5661
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-193",
+    "name": "Eucalypt foliage.337",
+    "dimensions": [
+      1.4941,
+      1.0692,
+      0.6208
+    ],
+    "position": [
+      -4.8403,
+      5.2491,
+      3.1623
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-194",
+    "name": "Eucalypt foliage.338",
+    "dimensions": [
+      1.4123,
+      1.1835,
+      0.6086
+    ],
+    "position": [
+      -5.1569,
+      4.6336,
+      3.542
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-195",
+    "name": "Eucalypt foliage.339",
+    "dimensions": [
+      1.519,
+      1.1129,
+      0.6644
+    ],
+    "position": [
+      -4.8656,
+      5.1556,
+      3.5905
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-196",
+    "name": "branch.098",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.5734
+    ],
+    "position": [
+      -6.4056,
+      5.3715,
+      2.9625
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-197",
+    "name": "Eucalypt foliage.340",
+    "dimensions": [
+      1.6246,
+      1.2088,
+      0.6536
+    ],
+    "position": [
+      -6.5347,
+      5.3233,
+      3.5027
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-198",
+    "name": "Eucalypt foliage.341",
+    "dimensions": [
+      1.4638,
+      1.1443,
+      0.6488
+    ],
+    "position": [
+      -6.7032,
+      5.3245,
+      3.8162
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-199",
+    "name": "Eucalypt foliage.342",
+    "dimensions": [
+      1.3633,
+      1.1358,
+      0.6032
+    ],
+    "position": [
+      -6.6602,
+      5.4456,
+      3.5159
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-200",
+    "name": "Eucalypt foliage.343",
+    "dimensions": [
+      1.3154,
+      1.0754,
+      0.6362
+    ],
+    "position": [
+      -6.4579,
+      6.034,
+      3.6315
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-201",
+    "name": "branch.099",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.7029
+    ],
+    "position": [
+      -5.9519,
+      4.4521,
+      3.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-202",
+    "name": "Eucalypt foliage.344",
+    "dimensions": [
+      1.4001,
+      1.2671,
+      0.6078
+    ],
+    "position": [
+      -5.6904,
+      3.4736,
+      3.5039
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-203",
+    "name": "Eucalypt foliage.345",
+    "dimensions": [
+      1.6431,
+      1.2111,
+      0.6558
+    ],
+    "position": [
+      -6.2953,
+      4.0589,
+      3.5935
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-204",
+    "name": "Eucalypt foliage.346",
+    "dimensions": [
+      1.4601,
+      1.2155,
+      0.6636
+    ],
+    "position": [
+      -5.8974,
+      3.8018,
+      3.6815
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-205",
+    "name": "Eucalypt foliage.347",
+    "dimensions": [
+      1.5974,
+      1.1166,
+      0.6276
+    ],
+    "position": [
+      -5.7955,
+      4.3554,
+      3.9222
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-206",
+    "name": "branch.100",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.84
+    ],
+    "position": [
+      -5.6654,
+      5.4365,
+      3.1375
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-207",
+    "name": "Eucalypt foliage.348",
+    "dimensions": [
+      1.3933,
+      1.2441,
+      0.6428
+    ],
+    "position": [
+      -5.0307,
+      5.8575,
+      3.9139
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-208",
+    "name": "Eucalypt foliage.349",
+    "dimensions": [
+      1.4908,
+      1.1865,
+      0.64
+    ],
+    "position": [
+      -5.1991,
+      5.6682,
+      3.8706
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-209",
+    "name": "Eucalypt foliage.350",
+    "dimensions": [
+      1.5744,
+      1.1166,
+      0.6617
+    ],
+    "position": [
+      -4.9839,
+      6.2053,
+      4.0726
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-210",
+    "name": "Eucalypt foliage.351",
+    "dimensions": [
+      1.5011,
+      1.253,
+      0.6636
+    ],
+    "position": [
+      -5.341,
+      6.0746,
+      3.6777
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-211",
+    "name": "branch.101",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.9831
+    ],
+    "position": [
+      -6.5416,
+      4.9041,
+      3.225
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-212",
+    "name": "Eucalypt foliage.352",
+    "dimensions": [
+      1.5438,
+      1.1937,
+      0.6816
+    ],
+    "position": [
+      -7.456,
+      5.1244,
+      4.0024
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-213",
+    "name": "Eucalypt foliage.353",
+    "dimensions": [
+      1.4657,
+      1.1169,
+      0.6246
+    ],
+    "position": [
+      -6.8738,
+      5.2531,
+      3.9426
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-214",
+    "name": "Eucalypt foliage.354",
+    "dimensions": [
+      1.4259,
+      1.1851,
+      0.6238
+    ],
+    "position": [
+      -6.8334,
+      5.2003,
+      3.8684
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-215",
+    "name": "Eucalypt foliage.355",
+    "dimensions": [
+      1.4873,
+      1.1605,
+      0.6588
+    ],
+    "position": [
+      -7.3598,
+      4.8681,
+      4.067
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-216",
+    "name": "branch.102",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.1309
+    ],
+    "position": [
+      -5.5359,
+      4.7049,
+      3.3125
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-217",
+    "name": "Eucalypt foliage.356",
+    "dimensions": [
+      1.324,
+      1.1623,
+      0.6178
+    ],
+    "position": [
+      -4.7354,
+      3.9704,
+      4.2409
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-218",
+    "name": "Eucalypt foliage.357",
+    "dimensions": [
+      1.5707,
+      1.1212,
+      0.6415
+    ],
+    "position": [
+      -5.2854,
+      4.5295,
+      4.5236
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-219",
+    "name": "Eucalypt foliage.358",
+    "dimensions": [
+      1.5518,
+      1.2,
+      0.6384
+    ],
+    "position": [
+      -4.8428,
+      4.0826,
+      4.4421
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-220",
+    "name": "Eucalypt foliage.359",
+    "dimensions": [
+      1.43,
+      1.168,
+      0.6157
+    ],
+    "position": [
+      -4.863,
+      4.3693,
+      4.1275
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-221",
+    "name": "branch.103",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.2825
+    ],
+    "position": [
+      -6.1429,
+      5.5311,
+      3.4
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-222",
+    "name": "Eucalypt foliage.360",
+    "dimensions": [
+      1.5843,
+      1.1119,
+      0.635
+    ],
+    "position": [
+      -6.0763,
+      5.9155,
+      4.3651
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-223",
+    "name": "Eucalypt foliage.361",
+    "dimensions": [
+      1.4481,
+      1.2258,
+      0.6328
+    ],
+    "position": [
+      -6.0131,
+      6.1625,
+      4.2308
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-224",
+    "name": "Eucalypt foliage.362",
+    "dimensions": [
+      1.453,
+      1.2225,
+      0.6036
+    ],
+    "position": [
+      -6.062,
+      5.9825,
+      4.2059
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-225",
+    "name": "Eucalypt foliage.363",
+    "dimensions": [
+      1.5407,
+      1.1901,
+      0.6381
+    ],
+    "position": [
+      -6.4417,
+      6.1932,
+      4.2307
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-226",
+    "name": "branch.104",
+    "dimensions": [
+      0.22,
+      0.22,
+      3.6014
+    ],
+    "position": [
+      6.05,
+      5.0,
+      1.8
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-227",
+    "name": "branch.105",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.4534
+    ],
+    "position": [
+      6.55,
+      5.0,
+      2.875
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-228",
+    "name": "Eucalypt foliage.364",
+    "dimensions": [
+      1.5983,
+      1.1903,
+      0.6626
+    ],
+    "position": [
+      7.5831,
+      4.7335,
+      3.3716
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-229",
+    "name": "Eucalypt foliage.365",
+    "dimensions": [
+      1.4742,
+      1.2267,
+      0.5751
+    ],
+    "position": [
+      7.5895,
+      5.3528,
+      3.4985
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-230",
+    "name": "Eucalypt foliage.366",
+    "dimensions": [
+      1.3822,
+      1.2019,
+      0.62
+    ],
+    "position": [
+      6.6209,
+      5.152,
+      3.287
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-231",
+    "name": "Eucalypt foliage.367",
+    "dimensions": [
+      1.4617,
+      1.2327,
+      0.6044
+    ],
+    "position": [
+      6.9629,
+      4.5283,
+      3.2542
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-232",
+    "name": "branch.106",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.5734
+    ],
+    "position": [
+      5.5944,
+      5.3715,
+      2.9625
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-233",
+    "name": "Eucalypt foliage.368",
+    "dimensions": [
+      1.3867,
+      1.1957,
+      0.6312
+    ],
+    "position": [
+      5.1728,
+      5.7519,
+      3.5504
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-234",
+    "name": "Eucalypt foliage.369",
+    "dimensions": [
+      1.589,
+      1.2317,
+      0.638
+    ],
+    "position": [
+      5.2469,
+      6.211,
+      3.387
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-235",
+    "name": "Eucalypt foliage.370",
+    "dimensions": [
+      1.6262,
+      1.1098,
+      0.6188
+    ],
+    "position": [
+      5.2635,
+      5.3833,
+      3.5045
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-236",
+    "name": "Eucalypt foliage.371",
+    "dimensions": [
+      1.5147,
+      1.0577,
+      0.6392
+    ],
+    "position": [
+      5.3046,
+      6.1567,
+      3.5656
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-237",
+    "name": "branch.107",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.7029
+    ],
+    "position": [
+      6.0481,
+      4.4521,
+      3.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-238",
+    "name": "Eucalypt foliage.372",
+    "dimensions": [
+      1.4594,
+      1.2038,
+      0.594
+    ],
+    "position": [
+      6.1415,
+      4.3274,
+      3.9703
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-239",
+    "name": "Eucalypt foliage.373",
+    "dimensions": [
+      1.5096,
+      1.1842,
+      0.6293
+    ],
+    "position": [
+      5.882,
+      4.2951,
+      3.8435
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-240",
+    "name": "Eucalypt foliage.374",
+    "dimensions": [
+      1.5205,
+      1.1973,
+      0.6184
+    ],
+    "position": [
+      5.6535,
+      3.434,
+      3.9395
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-241",
+    "name": "Eucalypt foliage.375",
+    "dimensions": [
+      1.5268,
+      1.2319,
+      0.6388
+    ],
+    "position": [
+      5.9728,
+      3.6038,
+      3.5606
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-242",
+    "name": "branch.108",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.84
+    ],
+    "position": [
+      6.3346,
+      5.4365,
+      3.1375
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-243",
+    "name": "Eucalypt foliage.376",
+    "dimensions": [
+      1.5572,
+      1.1272,
+      0.6424
+    ],
+    "position": [
+      6.6728,
+      5.4994,
+      3.8859
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-244",
+    "name": "Eucalypt foliage.377",
+    "dimensions": [
+      1.5092,
+      1.0582,
+      0.68
+    ],
+    "position": [
+      6.8605,
+      5.3963,
+      4.0554
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-245",
+    "name": "Eucalypt foliage.378",
+    "dimensions": [
+      1.4732,
+      1.2652,
+      0.6346
+    ],
+    "position": [
+      6.3471,
+      6.0205,
+      3.9784
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-246",
+    "name": "Eucalypt foliage.379",
+    "dimensions": [
+      1.4112,
+      1.2399,
+      0.6271
+    ],
+    "position": [
+      7.1528,
+      5.5885,
+      3.7799
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-247",
+    "name": "branch.109",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.9831
+    ],
+    "position": [
+      5.4584,
+      4.9041,
+      3.225
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-248",
+    "name": "Eucalypt foliage.380",
+    "dimensions": [
+      1.5877,
+      1.1992,
+      0.6397
+    ],
+    "position": [
+      4.6534,
+      4.825,
+      4.0384
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-249",
+    "name": "Eucalypt foliage.381",
+    "dimensions": [
+      1.4269,
+      1.1749,
+      0.6918
+    ],
+    "position": [
+      5.1872,
+      4.5798,
+      4.0022
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-250",
+    "name": "Eucalypt foliage.382",
+    "dimensions": [
+      1.544,
+      1.1242,
+      0.6396
+    ],
+    "position": [
+      4.9772,
+      4.7793,
+      4.2841
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-251",
+    "name": "Eucalypt foliage.383",
+    "dimensions": [
+      1.5427,
+      1.179,
+      0.621
+    ],
+    "position": [
+      4.5284,
+      4.5954,
+      3.9243
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-252",
+    "name": "branch.110",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.1309
+    ],
+    "position": [
+      6.4641,
+      4.7049,
+      3.3125
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-253",
+    "name": "Eucalypt foliage.384",
+    "dimensions": [
+      1.4778,
+      1.2166,
+      0.6391
+    ],
+    "position": [
+      6.8645,
+      4.4065,
+      4.3257
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-254",
+    "name": "Eucalypt foliage.385",
+    "dimensions": [
+      1.4502,
+      1.2412,
+      0.6292
+    ],
+    "position": [
+      6.4949,
+      4.118,
+      4.3205
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-255",
+    "name": "Eucalypt foliage.386",
+    "dimensions": [
+      1.5922,
+      1.0843,
+      0.615
+    ],
+    "position": [
+      7.3986,
+      4.185,
+      4.2974
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-256",
+    "name": "Eucalypt foliage.387",
+    "dimensions": [
+      1.5235,
+      1.1114,
+      0.6492
+    ],
+    "position": [
+      6.5924,
+      4.5959,
+      4.2377
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-257",
+    "name": "branch.111",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.2825
+    ],
+    "position": [
+      5.8571,
+      5.5311,
+      3.4
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-258",
+    "name": "Eucalypt foliage.388",
+    "dimensions": [
+      1.5138,
+      1.2157,
+      0.6054
+    ],
+    "position": [
+      5.4869,
+      6.4881,
+      4.4539
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-259",
+    "name": "Eucalypt foliage.389",
+    "dimensions": [
+      1.4143,
+      1.1798,
+      0.6144
+    ],
+    "position": [
+      5.3781,
+      6.2111,
+      4.6743
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-260",
+    "name": "Eucalypt foliage.390",
+    "dimensions": [
+      1.4567,
+      1.0927,
+      0.5955
+    ],
+    "position": [
+      6.135,
+      6.4459,
+      4.3627
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-261",
+    "name": "Eucalypt foliage.391",
+    "dimensions": [
+      1.488,
+      1.2246,
+      0.6385
+    ],
+    "position": [
+      5.8386,
+      5.7447,
+      4.502
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-262",
+    "name": "Place identity.001",
+    "dimensions": [
+      3.0,
+      0.16,
+      1.6
+    ],
+    "position": [
+      -6.0,
+      -6.8,
+      1.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-GARDEN-001-PART-263",
+    "name": "Text.019",
+    "dimensions": [
+      1.945,
+      0.133,
+      0.004
+    ],
+    "position": [
+      -6.0,
+      -6.9,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  }
+]

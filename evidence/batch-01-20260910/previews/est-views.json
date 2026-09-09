@@ -1,0 +1,32 @@
+[
+  {
+    "kind": "overview",
+    "path": "/evidence/batch-01-20260910/previews/est-overview.png",
+    "sha256": "f9708370b30ddf80c144f5a55799f4a5bb2296d011438c2ad1ba1998fba31e65",
+    "camera": [
+      18.0,
+      -26.0,
+      20.0
+    ],
+    "target": [
+      0.0,
+      -1.7999999523162842,
+      1.100000023841858
+    ]
+  },
+  {
+    "kind": "walking",
+    "path": "/evidence/batch-01-20260910/previews/est-walking.png",
+    "sha256": "3494fd6aefd2f69f2e672720910f47ab445739146b7662cedb7e30a97c5da07d",
+    "camera": [
+      7.199999809265137,
+      -15.0,
+      1.649999976158142
+    ],
+    "target": [
+      0.0,
+      -4.0,
+      1.649999976158142
+    ]
+  }
+]

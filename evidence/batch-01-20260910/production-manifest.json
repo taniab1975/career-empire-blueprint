@@ -1,0 +1,551 @@
+{
+  "batch": "CE-ASSET-BATCH-001",
+  "revision": 2,
+  "count": 10,
+  "approvalUnit": "One complete place including all component parts and immediate surroundings",
+  "stage": "appearance-review",
+  "items": [
+    {
+      "number": 1,
+      "id": "CE-ITEM-STUDIO-001",
+      "slug": "studio",
+      "name": "Avatar Studio",
+      "width": 8,
+      "depth": 6,
+      "siteWidth": 16,
+      "siteDepth": 18,
+      "clearEntryWidth": 1.76,
+      "approachWidth": 3.2,
+      "purpose": "Character identity and appearance; existing Studio reference",
+      "source": "V2-D01 / experience Someone I want to become",
+      "proposalScope": "Appearance candidate only; does not lock a new learning requirement or world-map location.",
+      "partsManifest": "/evidence/batch-01-20260910/parts/studio.json",
+      "partsSha256": "9ce1d2efdb5cbe0da4e0ab725bd0caf82a444b58bd3e951e57c833374f1e3d58",
+      "model": "/evidence/batch-01-20260910/models/studio.glb",
+      "sha256": "8f13bdd2b3cb520fd0ea8b999494bfa7447d00f126d8902915406712ed063f41",
+      "triangles": 31132,
+      "componentObjects": 225,
+      "bytes": 4664648,
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/studio-overview.png",
+          "sha256": "d759304cec62626a447218d031daa38d7713ecc0bae6ef16b154ea7be58a53d8",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/studio-walking.png",
+          "sha256": "89928b0da23c2405dfb800e968fcc3f879e466989feab1b557dc74409f0d5ea7",
+          "camera": [
+            4.800000190734863,
+            -14.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -3.0,
+            1.649999976158142
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "CE-ITEM-ARRIVAL-001",
+      "slug": "arrival",
+      "name": "Arrival Pavilion",
+      "width": 10,
+      "depth": 6,
+      "siteWidth": 18,
+      "siteDepth": 18,
+      "clearEntryWidth": 1.76,
+      "approachWidth": 3.2,
+      "purpose": "Orient the arriving student and show destinations",
+      "source": "Existing arrival and player journey",
+      "proposalScope": "Appearance candidate only; does not lock a new learning requirement or world-map location.",
+      "partsManifest": "/evidence/batch-01-20260910/parts/arrival.json",
+      "partsSha256": "e91398c586db4d3bc77812779889316910dafdba7eb24b30e4b79aa170657450",
+      "model": "/evidence/batch-01-20260910/models/arrival.glb",
+      "sha256": "6242fa65c810ba71610deaf354601082052c95511678b49f4fab3b9f265d92b8",
+      "triangles": 16368,
+      "componentObjects": 200,
+      "bytes": 4489388,
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/arrival-overview.png",
+          "sha256": "40a36e816a4812f6de7492710f51ec6115d43f664f8e29a55ca130ea55304df2",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/arrival-walking.png",
+          "sha256": "10f07e20112a8cc4545310633944e11be05f89ff05e2a67ce9ead9d6021ee2e7",
+          "camera": [
+            6.0,
+            -14.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -3.0,
+            1.649999976158142
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "CE-ITEM-EST-001",
+      "slug": "est",
+      "name": "EST Prep Lab",
+      "width": 12,
+      "depth": 8,
+      "siteWidth": 20,
+      "siteDepth": 20,
+      "clearEntryWidth": 1.76,
+      "approachWidth": 3.2,
+      "purpose": "Visible CORE, TERM, VTCS and BOSS learning stations",
+      "source": "Existing EST Prep route; no new learning rules",
+      "proposalScope": "Appearance candidate only; does not lock a new learning requirement or world-map location.",
+      "partsManifest": "/evidence/batch-01-20260910/parts/est.json",
+      "partsSha256": "a35efdf586419c65dd5df0fe193539594c4803f9423c011bf4ac0fae2551a4df",
+      "model": "/evidence/batch-01-20260910/models/est.glb",
+      "sha256": "2a1e93619d0146d91c6c9f223f0bc4872ac22a4ad35177c766bc342d1a939e3b",
+      "triangles": 37664,
+      "componentObjects": 248,
+      "bytes": 4771060,
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/est-overview.png",
+          "sha256": "f9708370b30ddf80c144f5a55799f4a5bb2296d011438c2ad1ba1998fba31e65",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/est-walking.png",
+          "sha256": "3494fd6aefd2f69f2e672720910f47ab445739146b7662cedb7e30a97c5da07d",
+          "camera": [
+            7.199999809265137,
+            -15.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -4.0,
+            1.649999976158142
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "CE-ITEM-CIVIC-001",
+      "slug": "civic",
+      "name": "Civic Hall",
+      "width": 12,
+      "depth": 8,
+      "siteWidth": 20,
+      "siteDepth": 20,
+      "clearEntryWidth": 1.76,
+      "approachWidth": 3.2,
+      "purpose": "Shared town decisions and visible community contributions",
+      "source": "Experience What should our town fund?",
+      "proposalScope": "Appearance candidate only; does not lock a new learning requirement or world-map location.",
+      "partsManifest": "/evidence/batch-01-20260910/parts/civic.json",
+      "partsSha256": "e653c509f1f490a74d32d7e402f48cbd0dcde99a87ece805f7a4e4a94e4dda3e",
+      "model": "/evidence/batch-01-20260910/models/civic.glb",
+      "sha256": "1a665b66d011e7abef1b78b6b30acfc3a5b409791dd8761e113a3662c3fa439d",
+      "triangles": 37056,
+      "componentObjects": 261,
+      "bytes": 4723668,
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/civic-overview.png",
+          "sha256": "e6d62bf0c67a87e7a52760904bd09b049277f8f6f3fdcb199d932f4919f7b5d4",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/civic-walking.png",
+          "sha256": "1bd5b8dda8d3840db9cda53c2c1e89407850a26249f247bb0f672e893926e5af",
+          "camera": [
+            7.199999809265137,
+            -15.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -4.0,
+            1.649999976158142
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "CE-ITEM-CAREERS-001",
+      "slug": "careers",
+      "name": "Careers Advice Centre",
+      "width": 8,
+      "depth": 6,
+      "siteWidth": 16,
+      "siteDepth": 18,
+      "clearEntryWidth": 1.76,
+      "approachWidth": 3.2,
+      "purpose": "Find pathways and discuss options",
+      "source": "Advice service and Which future should I trust?",
+      "proposalScope": "Appearance candidate only; does not lock a new learning requirement or world-map location.",
+      "partsManifest": "/evidence/batch-01-20260910/parts/careers.json",
+      "partsSha256": "ef967c9e38a439235251b2aaaa25712cb9a72b86b7437e6bcd8b65374fb4d6a7",
+      "model": "/evidence/batch-01-20260910/models/careers.glb",
+      "sha256": "c419c7fea6dfec869787bbb7bb977b4c69eaa5c8ada66d9e136f0fdd498793f4",
+      "triangles": 34600,
+      "componentObjects": 230,
+      "bytes": 4774924,
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/careers-overview.png",
+          "sha256": "3475902c5e03549e2f8b0cb58e955dfccef1ff8c75c22b21f84e47990dbeace2",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/careers-walking.png",
+          "sha256": "b65a7414bccb126561d3e317bd9e681e263b63734ecc7391902ea0429f1eeed2",
+          "camera": [
+            4.800000190734863,
+            -14.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -3.0,
+            1.649999976158142
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "CE-ITEM-WORKPLACE-001",
+      "slug": "workplace",
+      "name": "First Workplace",
+      "width": 12,
+      "depth": 8,
+      "siteWidth": 20,
+      "siteDepth": 20,
+      "clearEntryWidth": 1.76,
+      "approachWidth": 3.2,
+      "purpose": "Teamwork, interviews and workplace encounters",
+      "source": "Existing workplace experience crosswalk",
+      "proposalScope": "Appearance candidate only; does not lock a new learning requirement or world-map location.",
+      "partsManifest": "/evidence/batch-01-20260910/parts/workplace.json",
+      "partsSha256": "52854a74a674dfc16c1fedbf9fe10e88d31e821cbd33893fe00467f705d0cfce",
+      "model": "/evidence/batch-01-20260910/models/workplace.glb",
+      "sha256": "e0978d287a56c32c91bf2b3edd4b90490286b413d6af75574edc94da758cc709",
+      "triangles": 33706,
+      "componentObjects": 275,
+      "bytes": 4674972,
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/workplace-overview.png",
+          "sha256": "e80cc2608f0aa29cb3d43c061e09dd02f9e81abfd66300ab13a32e000650a42a",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/workplace-walking.png",
+          "sha256": "0fc11143049fbfc28f1b9629a204eac61dd7d7530245da2477db9c533e9f61b7",
+          "camera": [
+            7.199999809265137,
+            -15.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -4.0,
+            1.649999976158142
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "id": "CE-ITEM-GARDEN-001",
+      "slug": "garden",
+      "name": "Community Garden",
+      "width": 14,
+      "depth": 12,
+      "siteWidth": 22,
+      "siteDepth": 24,
+      "clearEntryWidth": 1.76,
+      "approachWidth": 3.2,
+      "purpose": "A shared outdoor place for quiet encounters and discovery",
+      "source": "Community growth and optional discovery candidate",
+      "proposalScope": "Appearance candidate only; does not lock a new learning requirement or world-map location.",
+      "partsManifest": "/evidence/batch-01-20260910/parts/garden.json",
+      "partsSha256": "7646f005d28ba84469449fde434ffbd6a669fcafccc34043647878a331cb53ea",
+      "model": "/evidence/batch-01-20260910/models/garden.glb",
+      "sha256": "506eaebf8ed36cbeaf12637ec5dc4cbf9fc907df7a79c0d8f687253c81645c63",
+      "triangles": 12796,
+      "componentObjects": 263,
+      "bytes": 4415648,
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/garden-overview.png",
+          "sha256": "4847a3c670f4b94241954104579293f983a0f43153bd2c54a438e0924997ceb2",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/garden-walking.png",
+          "sha256": "c9b5cf0ce42c03878696a1bd392efaf9f92437d0643d123cff9aff831e05e44f",
+          "camera": [
+            8.399999618530273,
+            -17.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -6.0,
+            1.649999976158142
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "id": "CE-ITEM-COURTYARD-001",
+      "slug": "courtyard",
+      "name": "Learning Courtyard",
+      "width": 14,
+      "depth": 12,
+      "siteWidth": 22,
+      "siteDepth": 24,
+      "clearEntryWidth": 1.76,
+      "approachWidth": 3.2,
+      "purpose": "Peer gathering and supported reflection outdoors",
+      "source": "Approved campus courtyard visual",
+      "proposalScope": "Appearance candidate only; does not lock a new learning requirement or world-map location.",
+      "partsManifest": "/evidence/batch-01-20260910/parts/courtyard.json",
+      "partsSha256": "bdd1ecf6e2c640e82db0c93af70792d43ba9db7277dddc0e5c488107dd1b3013",
+      "model": "/evidence/batch-01-20260910/models/courtyard.glb",
+      "sha256": "7cbd0a1031801a0bfae3460bfa95153309ea6373e8b46b0ff4f9557b49db05b9",
+      "triangles": 16056,
+      "componentObjects": 260,
+      "bytes": 4581984,
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/courtyard-overview.png",
+          "sha256": "da332182ed3261ffec47743e83db91f642fcb2b5b5bd8826faf0632cdc596857",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/courtyard-walking.png",
+          "sha256": "0c9b1a35ef72a3ac326ab00098dab581c4f46a8a46660d0ba170fea2183335e6",
+          "camera": [
+            8.399999618530273,
+            -17.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -6.0,
+            1.649999976158142
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "id": "CE-ITEM-TRANSPORT-001",
+      "slug": "transport",
+      "name": "Transport Stop",
+      "width": 12,
+      "depth": 6,
+      "siteWidth": 20,
+      "siteDepth": 18,
+      "clearEntryWidth": 1.76,
+      "approachWidth": 3.2,
+      "purpose": "Readable arrival and departure point within the campus",
+      "source": "Arrival/access environmental candidate; no global portal",
+      "proposalScope": "Appearance candidate only; does not lock a new learning requirement or world-map location.",
+      "partsManifest": "/evidence/batch-01-20260910/parts/transport.json",
+      "partsSha256": "7ace424a50c665b5ae40cbd0a05ade3780baa3da550c9add0b479016ce3ff8ca",
+      "model": "/evidence/batch-01-20260910/models/transport.glb",
+      "sha256": "bfdb98b4369b402ee4380b95958a7dc1e121203b1095109ff9d228d2b8de7a48",
+      "triangles": 15704,
+      "componentObjects": 201,
+      "bytes": 4424488,
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/transport-overview.png",
+          "sha256": "d26b8ee3a396009c5f9117a933a39c2ccf525c1ee22afd58bc980610555153fd",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/transport-walking.png",
+          "sha256": "870483d96331fb376ad77dede196d5f4652d1ddd040e363ff386970d50b1752c",
+          "camera": [
+            7.199999809265137,
+            -14.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -3.0,
+            1.649999976158142
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "id": "CE-ITEM-MARKET-001",
+      "slug": "market",
+      "name": "Community Market",
+      "width": 14,
+      "depth": 10,
+      "siteWidth": 22,
+      "siteDepth": 22,
+      "clearEntryWidth": 1.76,
+      "approachWidth": 3.2,
+      "purpose": "Local work and community encounter setting",
+      "source": "Workplace/community environmental candidate; no new economy rules",
+      "proposalScope": "Appearance candidate only; does not lock a new learning requirement or world-map location.",
+      "partsManifest": "/evidence/batch-01-20260910/parts/market.json",
+      "partsSha256": "1a1249f2e9d2bc40bd062c4c02f4f1a06c8d49b0a96e64f8e2f4df0e52536218",
+      "model": "/evidence/batch-01-20260910/models/market.glb",
+      "sha256": "81039bab57031b4d92da105afcaff9a2edc9dc2e36f1b14b618c1e7f637b6066",
+      "triangles": 17216,
+      "componentObjects": 252,
+      "bytes": 4628656,
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/market-overview.png",
+          "sha256": "1c60aa498db84bb0337eb36f902addd8c8d5c550dc6a820209dcb2f84b73c1e8",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/market-walking.png",
+          "sha256": "ab5c92dc8a351290cde6224d6bdf4a0d4f75167aa04f94d7ad781c629fbab78b",
+          "camera": [
+            8.399999618530273,
+            -16.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -5.0,
+            1.649999976158142
+          ]
+        }
+      ]
+    }
+  ],
+  "status": "Ten complete appearance candidates; awaiting grouped review",
+  "selectionSource": "Tania confirmed Use these 10 complete places on 10 September 2026"
+}

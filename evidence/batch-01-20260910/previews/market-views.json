@@ -1,0 +1,32 @@
+[
+  {
+    "kind": "overview",
+    "path": "/evidence/batch-01-20260910/previews/market-overview.png",
+    "sha256": "1c60aa498db84bb0337eb36f902addd8c8d5c550dc6a820209dcb2f84b73c1e8",
+    "camera": [
+      18.0,
+      -26.0,
+      20.0
+    ],
+    "target": [
+      0.0,
+      -1.7999999523162842,
+      1.100000023841858
+    ]
+  },
+  {
+    "kind": "walking",
+    "path": "/evidence/batch-01-20260910/previews/market-walking.png",
+    "sha256": "ab5c92dc8a351290cde6224d6bdf4a0d4f75167aa04f94d7ad781c629fbab78b",
+    "camera": [
+      8.399999618530273,
+      -16.0,
+      1.649999976158142
+    ],
+    "target": [
+      0.0,
+      -5.0,
+      1.649999976158142
+    ]
+  }
+]

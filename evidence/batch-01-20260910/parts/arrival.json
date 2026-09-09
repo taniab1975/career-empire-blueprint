@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-001",
+    "name": "Shade post",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -5.0,
+      -3.0,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-002",
+    "name": "Shade post.001",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -5.0,
+      3.0,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-003",
+    "name": "Shade post.002",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      5.0,
+      -3.0,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-004",
+    "name": "Shade post.003",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      5.0,
+      3.0,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-005",
+    "name": "Shade beam",
+    "dimensions": [
+      0.18,
+      6.3,
+      0.2
+    ],
+    "position": [
+      -5.0,
+      0.0,
+      3.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-006",
+    "name": "Shade beam.001",
+    "dimensions": [
+      0.18,
+      6.3,
+      0.2
+    ],
+    "position": [
+      5.0,
+      0.0,
+      3.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-007",
+    "name": "Timber shade slat",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -3.0,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-008",
+    "name": "Timber shade slat.001",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -2.76,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-009",
+    "name": "Timber shade slat.002",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -2.52,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-010",
+    "name": "Timber shade slat.003",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -2.28,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-011",
+    "name": "Timber shade slat.004",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -2.04,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-012",
+    "name": "Timber shade slat.005",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -1.8,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-013",
+    "name": "Timber shade slat.006",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -1.56,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-014",
+    "name": "Timber shade slat.007",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -1.32,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-015",
+    "name": "Timber shade slat.008",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -1.08,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-016",
+    "name": "Timber shade slat.009",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -0.84,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-017",
+    "name": "Timber shade slat.010",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -0.6,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-018",
+    "name": "Timber shade slat.011",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -0.36,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-019",
+    "name": "Timber shade slat.012",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -0.12,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-020",
+    "name": "Timber shade slat.013",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      0.12,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-021",
+    "name": "Timber shade slat.014",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      0.36,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-022",
+    "name": "Timber shade slat.015",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      0.6,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-023",
+    "name": "Timber shade slat.016",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      0.84,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-024",
+    "name": "Timber shade slat.017",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      1.08,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-025",
+    "name": "Timber shade slat.018",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      1.32,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-026",
+    "name": "Timber shade slat.019",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      1.56,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-027",
+    "name": "Timber shade slat.020",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      1.8,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-028",
+    "name": "Timber shade slat.021",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      2.04,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-029",
+    "name": "Timber shade slat.022",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      2.28,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-030",
+    "name": "Timber shade slat.023",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      2.52,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-031",
+    "name": "Timber shade slat.024",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      2.76,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-032",
+    "name": "Timber shade slat.025",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      3.0,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-033",
+    "name": "Welcome rear wall",
+    "dimensions": [
+      8.0,
+      0.25,
+      2.8
+    ],
+    "position": [
+      0.0,
+      2.8,
+      1.4
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-034",
+    "name": "Information display",
+    "dimensions": [
+      2.2,
+      0.1,
+      1.5
+    ],
+    "position": [
+      -2.7,
+      2.61,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-035",
+    "name": "Text.001",
+    "dimensions": [
+      0.7256,
+      0.126,
+      0.004
+    ],
+    "position": [
+      -2.7,
+      2.53,
+      1.6
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-036",
+    "name": "Information display.001",
+    "dimensions": [
+      2.2,
+      0.1,
+      1.5
+    ],
+    "position": [
+      0.0,
+      2.61,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-037",
+    "name": "Text.002",
+    "dimensions": [
+      1.2472,
+      0.126,
+      0.004
+    ],
+    "position": [
+      0.0,
+      2.53,
+      1.6
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-038",
+    "name": "Information display.002",
+    "dimensions": [
+      2.2,
+      0.1,
+      1.5
+    ],
+    "position": [
+      2.7,
+      2.61,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-039",
+    "name": "Text.003",
+    "dimensions": [
+      1.431,
+      0.126,
+      0.004
+    ],
+    "position": [
+      2.7,
+      2.53,
+      1.6
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-040",
+    "name": "bench part.001",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      -3.7,
+      0.3,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-041",
+    "name": "bench part.002",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      3.7,
+      0.3,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-042",
+    "name": "Whole item paving.001",
+    "dimensions": [
+      18.0,
+      18.0,
+      0.18
+    ],
+    "position": [
+      0.0,
+      -2.0,
+      -0.1
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-043",
+    "name": "Garden edge.008",
+    "dimensions": [
+      2.0,
+      5.0,
+      0.36
+    ],
+    "position": [
+      -7.0,
+      -2.0,
+      0.18
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-044",
+    "name": "Mulch.008",
+    "dimensions": [
+      1.84,
+      4.84,
+      0.035
+    ],
+    "position": [
+      -7.0,
+      -2.0,
+      0.37
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-045",
+    "name": "Native grass clump.224",
+    "dimensions": [
+      0.3898,
+      0.5241,
+      0.6358
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-046",
+    "name": "Native grass clump.225",
+    "dimensions": [
+      0.5424,
+      0.4729,
+      0.6082
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-047",
+    "name": "Native grass clump.226",
+    "dimensions": [
+      0.4531,
+      0.3991,
+      0.6078
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-048",
+    "name": "Native grass clump.227",
+    "dimensions": [
+      0.4877,
+      0.4675,
+      0.612
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-049",
+    "name": "Native grass clump.228",
+    "dimensions": [
+      0.5133,
+      0.5124,
+      0.6294
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-050",
+    "name": "Native grass clump.229",
+    "dimensions": [
+      0.5332,
+      0.4712,
+      0.5884
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-051",
+    "name": "Native grass clump.230",
+    "dimensions": [
+      0.5912,
+      0.4378,
+      0.6426
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-052",
+    "name": "Native grass clump.231",
+    "dimensions": [
+      0.5307,
+      0.3881,
+      0.5995
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-053",
+    "name": "Native grass clump.232",
+    "dimensions": [
+      0.4565,
+      0.381,
+      0.5417
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-054",
+    "name": "Native grass clump.233",
+    "dimensions": [
+      0.5285,
+      0.4667,
+      0.6191
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-055",
+    "name": "Native grass clump.234",
+    "dimensions": [
+      0.4444,
+      0.4906,
+      0.6242
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-056",
+    "name": "Native grass clump.235",
+    "dimensions": [
+      0.3654,
+      0.3611,
+      0.5121
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-057",
+    "name": "Native grass clump.236",
+    "dimensions": [
+      0.5976,
+      0.4509,
+      0.6366
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-058",
+    "name": "Native grass clump.237",
+    "dimensions": [
+      0.432,
+      0.5599,
+      0.6443
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-059",
+    "name": "Native grass clump.238",
+    "dimensions": [
+      0.5172,
+      0.3592,
+      0.6497
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-060",
+    "name": "Native grass clump.239",
+    "dimensions": [
+      0.5035,
+      0.506,
+      0.6408
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-061",
+    "name": "Native grass clump.240",
+    "dimensions": [
+      0.4063,
+      0.5121,
+      0.6301
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-062",
+    "name": "Native grass clump.241",
+    "dimensions": [
+      0.5048,
+      0.4596,
+      0.5715
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-063",
+    "name": "Native grass clump.242",
+    "dimensions": [
+      0.5364,
+      0.3796,
+      0.6148
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-064",
+    "name": "Native grass clump.243",
+    "dimensions": [
+      0.5698,
+      0.4902,
+      0.5452
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-065",
+    "name": "Native grass clump.244",
+    "dimensions": [
+      0.4778,
+      0.5194,
+      0.6225
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-066",
+    "name": "Native grass clump.245",
+    "dimensions": [
+      0.4778,
+      0.3787,
+      0.5945
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-067",
+    "name": "Native grass clump.246",
+    "dimensions": [
+      0.5179,
+      0.4138,
+      0.6399
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-068",
+    "name": "Native grass clump.247",
+    "dimensions": [
+      0.446,
+      0.522,
+      0.6037
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-069",
+    "name": "Native grass clump.248",
+    "dimensions": [
+      0.4673,
+      0.5807,
+      0.639
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-070",
+    "name": "Native grass clump.249",
+    "dimensions": [
+      0.4727,
+      0.5155,
+      0.6009
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-071",
+    "name": "Native grass clump.250",
+    "dimensions": [
+      0.4953,
+      0.5608,
+      0.6419
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-072",
+    "name": "Native grass clump.251",
+    "dimensions": [
+      0.4057,
+      0.492,
+      0.6398
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-073",
+    "name": "Native grass clump.252",
+    "dimensions": [
+      0.5315,
+      0.5345,
+      0.6447
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-074",
+    "name": "Native grass clump.253",
+    "dimensions": [
+      0.4423,
+      0.5553,
+      0.6252
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-075",
+    "name": "Native grass clump.254",
+    "dimensions": [
+      0.4719,
+      0.3318,
+      0.6339
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-076",
+    "name": "Native grass clump.255",
+    "dimensions": [
+      0.6028,
+      0.4595,
+      0.6319
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-077",
+    "name": "Native grass clump.256",
+    "dimensions": [
+      0.5313,
+      0.5148,
+      0.6459
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-078",
+    "name": "Native grass clump.257",
+    "dimensions": [
+      0.2762,
+      0.5119,
+      0.5805
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-079",
+    "name": "Native grass clump.258",
+    "dimensions": [
+      0.4607,
+      0.4491,
+      0.6389
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-080",
+    "name": "Native grass clump.259",
+    "dimensions": [
+      0.5318,
+      0.5321,
+      0.6497
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-081",
+    "name": "Native grass clump.260",
+    "dimensions": [
+      0.4698,
+      0.4311,
+      0.6322
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-082",
+    "name": "Native grass clump.261",
+    "dimensions": [
+      0.3991,
+      0.5172,
+      0.588
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-083",
+    "name": "Native grass clump.262",
+    "dimensions": [
+      0.4205,
+      0.3991,
+      0.6375
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-084",
+    "name": "Native grass clump.263",
+    "dimensions": [
+      0.365,
+      0.3872,
+      0.6193
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-085",
+    "name": "branch.016",
+    "dimensions": [
+      0.22,
+      0.22,
+      3.6014
+    ],
+    "position": [
+      -6.95,
+      2.0,
+      1.8
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-086",
+    "name": "branch.017",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.4534
+    ],
+    "position": [
+      -6.45,
+      2.0,
+      2.875
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-087",
+    "name": "Eucalypt foliage.056",
+    "dimensions": [
+      1.5488,
+      1.1401,
+      0.6442
+    ],
+    "position": [
+      -6.3366,
+      1.7685,
+      3.4372
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-088",
+    "name": "Eucalypt foliage.057",
+    "dimensions": [
+      1.4165,
+      1.1519,
+      0.6168
+    ],
+    "position": [
+      -5.5505,
+      1.7535,
+      3.4438
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-089",
+    "name": "Eucalypt foliage.058",
+    "dimensions": [
+      1.4728,
+      1.2697,
+      0.6502
+    ],
+    "position": [
+      -5.9201,
+      1.6427,
+      3.5637
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-090",
+    "name": "Eucalypt foliage.059",
+    "dimensions": [
+      1.5268,
+      1.1909,
+      0.6441
+    ],
+    "position": [
+      -5.4918,
+      2.1888,
+      3.6346
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-091",
+    "name": "branch.018",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.5734
+    ],
+    "position": [
+      -7.4056,
+      2.3715,
+      2.9625
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-092",
+    "name": "Eucalypt foliage.060",
+    "dimensions": [
+      1.517,
+      1.2483,
+      0.6164
+    ],
+    "position": [
+      -8.28,
+      2.3529,
+      3.3268
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-093",
+    "name": "Eucalypt foliage.061",
+    "dimensions": [
+      1.431,
+      1.1851,
+      0.5914
+    ],
+    "position": [
+      -7.4141,
+      2.7464,
+      3.687
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-094",
+    "name": "Eucalypt foliage.062",
+    "dimensions": [
+      1.5952,
+      1.1356,
+      0.5867
+    ],
+    "position": [
+      -7.7647,
+      2.8698,
+      3.8024
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-095",
+    "name": "Eucalypt foliage.063",
+    "dimensions": [
+      1.5753,
+      1.1433,
+      0.6267
+    ],
+    "position": [
+      -7.9849,
+      2.723,
+      3.5612
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-096",
+    "name": "branch.019",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.7029
+    ],
+    "position": [
+      -6.9519,
+      1.4521,
+      3.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-097",
+    "name": "Eucalypt foliage.064",
+    "dimensions": [
+      1.4821,
+      1.1701,
+      0.6086
+    ],
+    "position": [
+      -7.167,
+      1.1261,
+      3.9703
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-098",
+    "name": "Eucalypt foliage.065",
+    "dimensions": [
+      1.4334,
+      1.1885,
+      0.6527
+    ],
+    "position": [
+      -6.675,
+      1.0289,
+      3.939
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-099",
+    "name": "Eucalypt foliage.066",
+    "dimensions": [
+      1.6532,
+      1.1555,
+      0.6323
+    ],
+    "position": [
+      -6.9007,
+      1.1565,
+      3.853
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-100",
+    "name": "Eucalypt foliage.067",
+    "dimensions": [
+      1.4005,
+      1.0602,
+      0.6713
+    ],
+    "position": [
+      -7.2271,
+      0.6403,
+      3.7507
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-101",
+    "name": "branch.020",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.84
+    ],
+    "position": [
+      -6.6654,
+      2.4365,
+      3.1375
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-102",
+    "name": "Eucalypt foliage.068",
+    "dimensions": [
+      1.534,
+      1.2316,
+      0.6068
+    ],
+    "position": [
+      -6.102,
+      3.0081,
+      4.0512
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-103",
+    "name": "Eucalypt foliage.069",
+    "dimensions": [
+      1.3372,
+      1.2224,
+      0.6588
+    ],
+    "position": [
+      -6.1231,
+      3.0042,
+      3.9991
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-104",
+    "name": "Eucalypt foliage.070",
+    "dimensions": [
+      1.6019,
+      1.0925,
+      0.624
+    ],
+    "position": [
+      -6.1253,
+      2.7469,
+      3.9182
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-105",
+    "name": "Eucalypt foliage.071",
+    "dimensions": [
+      1.3852,
+      1.1694,
+      0.587
+    ],
+    "position": [
+      -6.3733,
+      2.9177,
+      3.8604
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-106",
+    "name": "branch.021",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.9831
+    ],
+    "position": [
+      -7.5416,
+      1.9041,
+      3.225
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-107",
+    "name": "Eucalypt foliage.072",
+    "dimensions": [
+      1.5199,
+      1.1836,
+      0.6314
+    ],
+    "position": [
+      -8.4004,
+      1.8436,
+      4.0675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-108",
+    "name": "Eucalypt foliage.073",
+    "dimensions": [
+      1.45,
+      1.0642,
+      0.638
+    ],
+    "position": [
+      -8.1994,
+      1.3906,
+      4.1219
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-109",
+    "name": "Eucalypt foliage.074",
+    "dimensions": [
+      1.4705,
+      1.1423,
+      0.6438
+    ],
+    "position": [
+      -8.2846,
+      2.2085,
+      3.9184
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-110",
+    "name": "Eucalypt foliage.075",
+    "dimensions": [
+      1.4266,
+      1.134,
+      0.6313
+    ],
+    "position": [
+      -8.5598,
+      2.0881,
+      4.2518
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-111",
+    "name": "branch.022",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.1309
+    ],
+    "position": [
+      -6.5359,
+      1.7049,
+      3.3125
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-112",
+    "name": "Eucalypt foliage.076",
+    "dimensions": [
+      1.5147,
+      1.171,
+      0.6429
+    ],
+    "position": [
+      -5.6227,
+      1.3626,
+      4.1945
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-113",
+    "name": "Eucalypt foliage.077",
+    "dimensions": [
+      1.4177,
+      1.1486,
+      0.6215
+    ],
+    "position": [
+      -5.7502,
+      0.9201,
+      4.1716
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-114",
+    "name": "Eucalypt foliage.078",
+    "dimensions": [
+      1.3948,
+      1.1492,
+      0.6035
+    ],
+    "position": [
+      -6.4839,
+      0.9381,
+      4.5153
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-115",
+    "name": "Eucalypt foliage.079",
+    "dimensions": [
+      1.4687,
+      1.2099,
+      0.5935
+    ],
+    "position": [
+      -6.2651,
+      1.0147,
+      4.119
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-116",
+    "name": "branch.023",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.2825
+    ],
+    "position": [
+      -7.1429,
+      2.5311,
+      3.4
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-117",
+    "name": "Eucalypt foliage.080",
+    "dimensions": [
+      1.5003,
+      1.149,
+      0.6411
+    ],
+    "position": [
+      -6.8643,
+      3.4727,
+      4.5435
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-118",
+    "name": "Eucalypt foliage.081",
+    "dimensions": [
+      1.4834,
+      1.2257,
+      0.6304
+    ],
+    "position": [
+      -7.3779,
+      3.3968,
+      4.3823
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-119",
+    "name": "Eucalypt foliage.082",
+    "dimensions": [
+      1.4845,
+      1.1768,
+      0.6133
+    ],
+    "position": [
+      -7.4126,
+      3.0159,
+      4.3898
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-120",
+    "name": "Eucalypt foliage.083",
+    "dimensions": [
+      1.555,
+      1.1915,
+      0.6513
+    ],
+    "position": [
+      -7.2088,
+      2.6698,
+      4.5652
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-121",
+    "name": "Garden edge.009",
+    "dimensions": [
+      2.0,
+      5.0,
+      0.36
+    ],
+    "position": [
+      7.0,
+      -2.0,
+      0.18
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-122",
+    "name": "Mulch.009",
+    "dimensions": [
+      1.84,
+      4.84,
+      0.035
+    ],
+    "position": [
+      7.0,
+      -2.0,
+      0.37
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-123",
+    "name": "Native grass clump.264",
+    "dimensions": [
+      0.5947,
+      0.4331,
+      0.5853
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-124",
+    "name": "Native grass clump.265",
+    "dimensions": [
+      0.4969,
+      0.4504,
+      0.6413
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-125",
+    "name": "Native grass clump.266",
+    "dimensions": [
+      0.4764,
+      0.5086,
+      0.5839
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-126",
+    "name": "Native grass clump.267",
+    "dimensions": [
+      0.4279,
+      0.3897,
+      0.6448
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-127",
+    "name": "Native grass clump.268",
+    "dimensions": [
+      0.3271,
+      0.5537,
+      0.6249
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-128",
+    "name": "Native grass clump.269",
+    "dimensions": [
+      0.4185,
+      0.4627,
+      0.6402
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-129",
+    "name": "Native grass clump.270",
+    "dimensions": [
+      0.5487,
+      0.4968,
+      0.5865
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-130",
+    "name": "Native grass clump.271",
+    "dimensions": [
+      0.5289,
+      0.56,
+      0.6393
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-131",
+    "name": "Native grass clump.272",
+    "dimensions": [
+      0.5152,
+      0.4276,
+      0.6408
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-132",
+    "name": "Native grass clump.273",
+    "dimensions": [
+      0.4766,
+      0.4713,
+      0.5812
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-133",
+    "name": "Native grass clump.274",
+    "dimensions": [
+      0.5636,
+      0.4622,
+      0.608
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-134",
+    "name": "Native grass clump.275",
+    "dimensions": [
+      0.4141,
+      0.3689,
+      0.6447
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-135",
+    "name": "Native grass clump.276",
+    "dimensions": [
+      0.5271,
+      0.5228,
+      0.5941
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-136",
+    "name": "Native grass clump.277",
+    "dimensions": [
+      0.4415,
+      0.4976,
+      0.6452
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-137",
+    "name": "Native grass clump.278",
+    "dimensions": [
+      0.5039,
+      0.5721,
+      0.5914
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-138",
+    "name": "Native grass clump.279",
+    "dimensions": [
+      0.5135,
+      0.3695,
+      0.6152
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-139",
+    "name": "Native grass clump.280",
+    "dimensions": [
+      0.4512,
+      0.486,
+      0.6002
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-140",
+    "name": "Native grass clump.281",
+    "dimensions": [
+      0.4783,
+      0.4766,
+      0.6216
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-141",
+    "name": "Native grass clump.282",
+    "dimensions": [
+      0.5371,
+      0.5422,
+      0.5987
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-142",
+    "name": "Native grass clump.283",
+    "dimensions": [
+      0.4331,
+      0.5013,
+      0.6441
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-143",
+    "name": "Native grass clump.284",
+    "dimensions": [
+      0.5374,
+      0.5401,
+      0.6487
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-144",
+    "name": "Native grass clump.285",
+    "dimensions": [
+      0.4344,
+      0.4841,
+      0.6303
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-145",
+    "name": "Native grass clump.286",
+    "dimensions": [
+      0.5235,
+      0.5278,
+      0.6413
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-146",
+    "name": "Native grass clump.287",
+    "dimensions": [
+      0.3596,
+      0.4668,
+      0.6452
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-147",
+    "name": "Native grass clump.288",
+    "dimensions": [
+      0.504,
+      0.4623,
+      0.638
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-148",
+    "name": "Native grass clump.289",
+    "dimensions": [
+      0.5423,
+      0.415,
+      0.6491
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-149",
+    "name": "Native grass clump.290",
+    "dimensions": [
+      0.5198,
+      0.5639,
+      0.605
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-150",
+    "name": "Native grass clump.291",
+    "dimensions": [
+      0.4527,
+      0.3874,
+      0.6212
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-151",
+    "name": "Native grass clump.292",
+    "dimensions": [
+      0.453,
+      0.509,
+      0.646
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-152",
+    "name": "Native grass clump.293",
+    "dimensions": [
+      0.4577,
+      0.4091,
+      0.5979
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-153",
+    "name": "Native grass clump.294",
+    "dimensions": [
+      0.5173,
+      0.5412,
+      0.6412
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-154",
+    "name": "Native grass clump.295",
+    "dimensions": [
+      0.4998,
+      0.343,
+      0.6269
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-155",
+    "name": "Native grass clump.296",
+    "dimensions": [
+      0.4574,
+      0.5836,
+      0.6419
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-156",
+    "name": "Native grass clump.297",
+    "dimensions": [
+      0.4406,
+      0.538,
+      0.6261
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-157",
+    "name": "Native grass clump.298",
+    "dimensions": [
+      0.4296,
+      0.4432,
+      0.6169
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-158",
+    "name": "Native grass clump.299",
+    "dimensions": [
+      0.5724,
+      0.5781,
+      0.6368
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-159",
+    "name": "Native grass clump.300",
+    "dimensions": [
+      0.5419,
+      0.6031,
+      0.596
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-160",
+    "name": "Native grass clump.301",
+    "dimensions": [
+      0.4777,
+      0.5937,
+      0.6439
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-161",
+    "name": "Native grass clump.302",
+    "dimensions": [
+      0.4523,
+      0.5292,
+      0.6453
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-162",
+    "name": "Native grass clump.303",
+    "dimensions": [
+      0.4479,
+      0.4626,
+      0.6136
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-163",
+    "name": "branch.024",
+    "dimensions": [
+      0.22,
+      0.22,
+      3.6014
+    ],
+    "position": [
+      7.05,
+      2.0,
+      1.8
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-164",
+    "name": "branch.025",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.4534
+    ],
+    "position": [
+      7.55,
+      2.0,
+      2.875
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-165",
+    "name": "Eucalypt foliage.084",
+    "dimensions": [
+      1.4987,
+      1.0857,
+      0.6457
+    ],
+    "position": [
+      7.6891,
+      1.8005,
+      3.4418
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-166",
+    "name": "Eucalypt foliage.085",
+    "dimensions": [
+      1.4695,
+      1.1964,
+      0.6227
+    ],
+    "position": [
+      8.4326,
+      2.4847,
+      3.4357
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-167",
+    "name": "Eucalypt foliage.086",
+    "dimensions": [
+      1.5067,
+      1.0425,
+      0.6161
+    ],
+    "position": [
+      8.5431,
+      2.3934,
+      3.5683
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-168",
+    "name": "Eucalypt foliage.087",
+    "dimensions": [
+      1.4323,
+      1.1829,
+      0.6313
+    ],
+    "position": [
+      7.6258,
+      2.3933,
+      3.1855
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-169",
+    "name": "branch.026",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.5734
+    ],
+    "position": [
+      6.5944,
+      2.3715,
+      2.9625
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-170",
+    "name": "Eucalypt foliage.088",
+    "dimensions": [
+      1.5062,
+      1.1497,
+      0.6312
+    ],
+    "position": [
+      5.8023,
+      2.8215,
+      3.5922
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-171",
+    "name": "Eucalypt foliage.089",
+    "dimensions": [
+      1.4855,
+      1.1142,
+      0.6725
+    ],
+    "position": [
+      6.2439,
+      2.4561,
+      3.7045
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-172",
+    "name": "Eucalypt foliage.090",
+    "dimensions": [
+      1.5177,
+      0.9987,
+      0.6438
+    ],
+    "position": [
+      6.4956,
+      2.5824,
+      3.4611
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-173",
+    "name": "Eucalypt foliage.091",
+    "dimensions": [
+      1.5333,
+      1.1841,
+      0.6336
+    ],
+    "position": [
+      6.3316,
+      2.8256,
+      3.8244
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-174",
+    "name": "branch.027",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.7029
+    ],
+    "position": [
+      7.0481,
+      1.4521,
+      3.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-175",
+    "name": "Eucalypt foliage.092",
+    "dimensions": [
+      1.5915,
+      1.1504,
+      0.5994
+    ],
+    "position": [
+      6.6705,
+      0.9061,
+      3.5679
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-176",
+    "name": "Eucalypt foliage.093",
+    "dimensions": [
+      1.4748,
+      1.1775,
+      0.6751
+    ],
+    "position": [
+      7.42,
+      0.9781,
+      3.7025
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-177",
+    "name": "Eucalypt foliage.094",
+    "dimensions": [
+      1.3806,
+      1.0933,
+      0.6501
+    ],
+    "position": [
+      7.55,
+      1.313,
+      3.6265
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-178",
+    "name": "Eucalypt foliage.095",
+    "dimensions": [
+      1.562,
+      1.103,
+      0.5728
+    ],
+    "position": [
+      7.135,
+      1.1677,
+      3.6307
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-179",
+    "name": "branch.028",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.84
+    ],
+    "position": [
+      7.3346,
+      2.4365,
+      3.1375
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-180",
+    "name": "Eucalypt foliage.096",
+    "dimensions": [
+      1.4072,
+      1.1913,
+      0.6286
+    ],
+    "position": [
+      7.3471,
+      3.3038,
+      3.7823
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-181",
+    "name": "Eucalypt foliage.097",
+    "dimensions": [
+      1.5385,
+      1.1319,
+      0.6065
+    ],
+    "position": [
+      7.4983,
+      2.9615,
+      4.0034
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-182",
+    "name": "Eucalypt foliage.098",
+    "dimensions": [
+      1.4914,
+      1.0956,
+      0.6368
+    ],
+    "position": [
+      7.8204,
+      2.7752,
+      3.8898
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-183",
+    "name": "Eucalypt foliage.099",
+    "dimensions": [
+      1.4506,
+      1.2599,
+      0.5909
+    ],
+    "position": [
+      7.7571,
+      2.8785,
+      4.0924
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-184",
+    "name": "branch.029",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.9831
+    ],
+    "position": [
+      6.4584,
+      1.9041,
+      3.225
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-185",
+    "name": "Eucalypt foliage.100",
+    "dimensions": [
+      1.318,
+      1.1506,
+      0.6105
+    ],
+    "position": [
+      5.927,
+      2.1111,
+      4.1912
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-186",
+    "name": "Eucalypt foliage.101",
+    "dimensions": [
+      1.4064,
+      1.2386,
+      0.6387
+    ],
+    "position": [
+      6.1258,
+      2.2066,
+      4.0773
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-187",
+    "name": "Eucalypt foliage.102",
+    "dimensions": [
+      1.5128,
+      1.0849,
+      0.6237
+    ],
+    "position": [
+      5.98,
+      1.657,
+      4.3289
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-188",
+    "name": "Eucalypt foliage.103",
+    "dimensions": [
+      1.4681,
+      1.1081,
+      0.6223
+    ],
+    "position": [
+      5.7707,
+      1.5164,
+      3.9
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-189",
+    "name": "branch.030",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.1309
+    ],
+    "position": [
+      7.4641,
+      1.7049,
+      3.3125
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-190",
+    "name": "Eucalypt foliage.104",
+    "dimensions": [
+      1.3151,
+      1.1153,
+      0.6366
+    ],
+    "position": [
+      7.9416,
+      1.7877,
+      4.1544
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-191",
+    "name": "Eucalypt foliage.105",
+    "dimensions": [
+      1.4637,
+      1.2126,
+      0.6355
+    ],
+    "position": [
+      7.8733,
+      1.0326,
+      4.4007
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-192",
+    "name": "Eucalypt foliage.106",
+    "dimensions": [
+      1.5264,
+      1.1246,
+      0.6142
+    ],
+    "position": [
+      8.3469,
+      1.5701,
+      4.3572
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-193",
+    "name": "Eucalypt foliage.107",
+    "dimensions": [
+      1.3992,
+      1.2377,
+      0.6403
+    ],
+    "position": [
+      7.5897,
+      1.7875,
+      4.1883
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-194",
+    "name": "branch.031",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.2825
+    ],
+    "position": [
+      6.8571,
+      2.5311,
+      3.4
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-195",
+    "name": "Eucalypt foliage.108",
+    "dimensions": [
+      1.4386,
+      1.1196,
+      0.654
+    ],
+    "position": [
+      6.4081,
+      2.5931,
+      4.663
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-196",
+    "name": "Eucalypt foliage.109",
+    "dimensions": [
+      1.4809,
+      1.2041,
+      0.6254
+    ],
+    "position": [
+      7.0932,
+      3.3785,
+      4.4138
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-197",
+    "name": "Eucalypt foliage.110",
+    "dimensions": [
+      1.4404,
+      1.1355,
+      0.6044
+    ],
+    "position": [
+      6.5533,
+      3.1176,
+      4.5761
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-198",
+    "name": "Eucalypt foliage.111",
+    "dimensions": [
+      1.5653,
+      1.2026,
+      0.5995
+    ],
+    "position": [
+      7.1501,
+      2.982,
+      4.2013
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-199",
+    "name": "Place identity",
+    "dimensions": [
+      3.0,
+      0.16,
+      1.6
+    ],
+    "position": [
+      -4.0,
+      -3.8,
+      1.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-ARRIVAL-001-PART-200",
+    "name": "Text.018",
+    "dimensions": [
+      1.6082,
+      0.133,
+      0.004
+    ],
+    "position": [
+      -4.0,
+      -3.9,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  }
+]

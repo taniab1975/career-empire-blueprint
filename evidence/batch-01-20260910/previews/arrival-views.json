@@ -1,0 +1,32 @@
+[
+  {
+    "kind": "overview",
+    "path": "/evidence/batch-01-20260910/previews/arrival-overview.png",
+    "sha256": "40a36e816a4812f6de7492710f51ec6115d43f664f8e29a55ca130ea55304df2",
+    "camera": [
+      18.0,
+      -26.0,
+      20.0
+    ],
+    "target": [
+      0.0,
+      -1.7999999523162842,
+      1.100000023841858
+    ]
+  },
+  {
+    "kind": "walking",
+    "path": "/evidence/batch-01-20260910/previews/arrival-walking.png",
+    "sha256": "10f07e20112a8cc4545310633944e11be05f89ff05e2a67ce9ead9d6021ee2e7",
+    "camera": [
+      6.0,
+      -14.0,
+      1.649999976158142
+    ],
+    "target": [
+      0.0,
+      -3.0,
+      1.649999976158142
+    ]
+  }
+]

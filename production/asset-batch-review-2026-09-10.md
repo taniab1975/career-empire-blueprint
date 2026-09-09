@@ -1,5 +1,8 @@
 # Asset review — complete items with their parts included
 
+**Current checkpoint — Batch 1:** Ten complete appearance candidates are built for one grouped review: Avatar Studio, Arrival Pavilion, EST Prep Lab, Civic Hall, Careers Advice Centre, First Workplace, Community Garden, Learning Courtyard, Transport Stop and Community Market. Each includes all its parts and surroundings. Review all ten together; no item is accepted yet. [Batch review](/career-empire-blueprint/evidence/asset-review-20260910/index.html).
+
+
 CE-CHANGE-20260910-24. Tania clarified that review batches should contain items, such as a building and its component parts, and that she does not want to approve every wall or flower.
 
 [Open the whole-item register](/career-empire-blueprint/evidence/asset-review-20260910/index.html) · [Canonical delivery snapshot](/career-empire-blueprint/evidence/asset-review-20260910/register.json)
@@ -14,7 +17,7 @@ Only return an item for appearance review when Tania requests a revision or a la
 
 Overall appearance acceptance, technical validation, next-stage production authority and live-game deployment remain distinct. Approval of an item or batch does not silently authorise the next production stage.
 
-## Current item
+## Historical V2.14 setup
 
 **Item 01 — Avatar Studio, revision 1.** One building package, with 14 existing component assets nested beneath it:
 

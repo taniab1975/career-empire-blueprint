@@ -1,0 +1,3017 @@
+[
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-001",
+    "name": "Shade post.016",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -5.0,
+      -1.3,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-002",
+    "name": "Shade post.017",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -5.0,
+      2.5,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-003",
+    "name": "Shade post.018",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      5.0,
+      -1.3,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-004",
+    "name": "Shade post.019",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      5.0,
+      2.5,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-005",
+    "name": "Shade beam.008",
+    "dimensions": [
+      0.18,
+      4.1,
+      0.2
+    ],
+    "position": [
+      -5.0,
+      0.6,
+      3.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-006",
+    "name": "Shade beam.009",
+    "dimensions": [
+      0.18,
+      4.1,
+      0.2
+    ],
+    "position": [
+      5.0,
+      0.6,
+      3.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-007",
+    "name": "Timber shade slat.112",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -1.3,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-008",
+    "name": "Timber shade slat.113",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -1.06,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-009",
+    "name": "Timber shade slat.114",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -0.82,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-010",
+    "name": "Timber shade slat.115",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -0.58,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-011",
+    "name": "Timber shade slat.116",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -0.34,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-012",
+    "name": "Timber shade slat.117",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      -0.1,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-013",
+    "name": "Timber shade slat.118",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      0.14,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-014",
+    "name": "Timber shade slat.119",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      0.38,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-015",
+    "name": "Timber shade slat.120",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      0.62,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-016",
+    "name": "Timber shade slat.121",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      0.86,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-017",
+    "name": "Timber shade slat.122",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      1.1,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-018",
+    "name": "Timber shade slat.123",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      1.34,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-019",
+    "name": "Timber shade slat.124",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      1.58,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-020",
+    "name": "Timber shade slat.125",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      1.82,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-021",
+    "name": "Timber shade slat.126",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      2.06,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-022",
+    "name": "Timber shade slat.127",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      2.3,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-023",
+    "name": "Timber shade slat.128",
+    "dimensions": [
+      10.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      0.0,
+      2.54,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-024",
+    "name": "Shelter roof",
+    "dimensions": [
+      10.5,
+      4.2,
+      0.14
+    ],
+    "position": [
+      0.0,
+      0.6,
+      3.27
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-025",
+    "name": "bench part.017",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      -3.0,
+      1.8,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-026",
+    "name": "window-2m part.058",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -3.0,
+      2.4,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-027",
+    "name": "bench part.018",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      0.0,
+      1.8,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-028",
+    "name": "window-2m part.059",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      0.0,
+      2.4,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-029",
+    "name": "bench part.019",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      3.0,
+      1.8,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-030",
+    "name": "window-2m part.060",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      3.0,
+      2.4,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-031",
+    "name": "Departure board",
+    "dimensions": [
+      1.1,
+      0.12,
+      1.7
+    ],
+    "position": [
+      4.0,
+      0.0,
+      1.6
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-032",
+    "name": "Text.014",
+    "dimensions": [
+      0.8116,
+      0.098,
+      0.004
+    ],
+    "position": [
+      4.0,
+      -0.08,
+      2.1
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-033",
+    "name": "Cycle stand",
+    "dimensions": [
+      0.06,
+      0.9,
+      0.9
+    ],
+    "position": [
+      -4.0,
+      -1.8,
+      0.45
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-034",
+    "name": "Cycle stand.001",
+    "dimensions": [
+      0.06,
+      0.9,
+      0.9
+    ],
+    "position": [
+      -2.0,
+      -1.8,
+      0.45
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-035",
+    "name": "Cycle stand.002",
+    "dimensions": [
+      0.06,
+      0.9,
+      0.9
+    ],
+    "position": [
+      0.0,
+      -1.8,
+      0.45
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-036",
+    "name": "Cycle stand.003",
+    "dimensions": [
+      0.06,
+      0.9,
+      0.9
+    ],
+    "position": [
+      2.0,
+      -1.8,
+      0.45
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-037",
+    "name": "Whole item paving.008",
+    "dimensions": [
+      20.0,
+      18.0,
+      0.18
+    ],
+    "position": [
+      0.0,
+      -2.0,
+      -0.1
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-038",
+    "name": "Garden edge.020",
+    "dimensions": [
+      2.0,
+      5.0,
+      0.36
+    ],
+    "position": [
+      -8.0,
+      -2.0,
+      0.18
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-039",
+    "name": "Mulch.020",
+    "dimensions": [
+      1.84,
+      4.84,
+      0.035
+    ],
+    "position": [
+      -8.0,
+      -2.0,
+      0.37
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-040",
+    "name": "Native grass clump.704",
+    "dimensions": [
+      0.4626,
+      0.5559,
+      0.6235
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-041",
+    "name": "Native grass clump.705",
+    "dimensions": [
+      0.4754,
+      0.3964,
+      0.646
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-042",
+    "name": "Native grass clump.706",
+    "dimensions": [
+      0.5009,
+      0.4568,
+      0.6308
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-043",
+    "name": "Native grass clump.707",
+    "dimensions": [
+      0.4474,
+      0.4558,
+      0.6146
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-044",
+    "name": "Native grass clump.708",
+    "dimensions": [
+      0.5578,
+      0.5328,
+      0.6088
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-045",
+    "name": "Native grass clump.709",
+    "dimensions": [
+      0.5328,
+      0.5351,
+      0.6458
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-046",
+    "name": "Native grass clump.710",
+    "dimensions": [
+      0.4862,
+      0.5048,
+      0.6187
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-047",
+    "name": "Native grass clump.711",
+    "dimensions": [
+      0.4879,
+      0.5248,
+      0.5623
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-048",
+    "name": "Native grass clump.712",
+    "dimensions": [
+      0.3823,
+      0.534,
+      0.6194
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-049",
+    "name": "Native grass clump.713",
+    "dimensions": [
+      0.3931,
+      0.4698,
+      0.6079
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-050",
+    "name": "Native grass clump.714",
+    "dimensions": [
+      0.5752,
+      0.442,
+      0.6485
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-051",
+    "name": "Native grass clump.715",
+    "dimensions": [
+      0.5231,
+      0.4893,
+      0.5815
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-052",
+    "name": "Native grass clump.716",
+    "dimensions": [
+      0.4059,
+      0.5227,
+      0.6408
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-053",
+    "name": "Native grass clump.717",
+    "dimensions": [
+      0.3798,
+      0.5409,
+      0.6091
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-054",
+    "name": "Native grass clump.718",
+    "dimensions": [
+      0.5077,
+      0.5187,
+      0.6395
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-055",
+    "name": "Native grass clump.719",
+    "dimensions": [
+      0.4423,
+      0.5041,
+      0.6459
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-056",
+    "name": "Native grass clump.720",
+    "dimensions": [
+      0.3966,
+      0.4013,
+      0.6431
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-057",
+    "name": "Native grass clump.721",
+    "dimensions": [
+      0.4051,
+      0.4656,
+      0.607
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-058",
+    "name": "Native grass clump.722",
+    "dimensions": [
+      0.4602,
+      0.4438,
+      0.6216
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-059",
+    "name": "Native grass clump.723",
+    "dimensions": [
+      0.4873,
+      0.4467,
+      0.61
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-060",
+    "name": "Native grass clump.724",
+    "dimensions": [
+      0.6202,
+      0.5752,
+      0.6487
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-061",
+    "name": "Native grass clump.725",
+    "dimensions": [
+      0.4803,
+      0.5477,
+      0.628
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-062",
+    "name": "Native grass clump.726",
+    "dimensions": [
+      0.5656,
+      0.5493,
+      0.6358
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-063",
+    "name": "Native grass clump.727",
+    "dimensions": [
+      0.4554,
+      0.5502,
+      0.6417
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-064",
+    "name": "Native grass clump.728",
+    "dimensions": [
+      0.4026,
+      0.506,
+      0.6279
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-065",
+    "name": "Native grass clump.729",
+    "dimensions": [
+      0.5248,
+      0.5873,
+      0.6497
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-066",
+    "name": "Native grass clump.730",
+    "dimensions": [
+      0.3727,
+      0.4828,
+      0.6377
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-067",
+    "name": "Native grass clump.731",
+    "dimensions": [
+      0.4549,
+      0.3423,
+      0.6395
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-068",
+    "name": "Native grass clump.732",
+    "dimensions": [
+      0.2507,
+      0.4903,
+      0.6471
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-069",
+    "name": "Native grass clump.733",
+    "dimensions": [
+      0.4937,
+      0.5052,
+      0.6376
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-070",
+    "name": "Native grass clump.734",
+    "dimensions": [
+      0.3679,
+      0.5117,
+      0.6293
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-071",
+    "name": "Native grass clump.735",
+    "dimensions": [
+      0.5523,
+      0.411,
+      0.5879
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-072",
+    "name": "Native grass clump.736",
+    "dimensions": [
+      0.4704,
+      0.317,
+      0.6238
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-073",
+    "name": "Native grass clump.737",
+    "dimensions": [
+      0.5278,
+      0.5775,
+      0.6356
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-074",
+    "name": "Native grass clump.738",
+    "dimensions": [
+      0.3149,
+      0.5593,
+      0.6318
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-075",
+    "name": "Native grass clump.739",
+    "dimensions": [
+      0.4946,
+      0.4701,
+      0.5627
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-076",
+    "name": "Native grass clump.740",
+    "dimensions": [
+      0.4884,
+      0.4132,
+      0.5871
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-077",
+    "name": "Native grass clump.741",
+    "dimensions": [
+      0.5235,
+      0.4454,
+      0.5996
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-078",
+    "name": "Native grass clump.742",
+    "dimensions": [
+      0.4342,
+      0.4826,
+      0.6486
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-079",
+    "name": "Native grass clump.743",
+    "dimensions": [
+      0.4095,
+      0.4179,
+      0.6098
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-080",
+    "name": "branch.128",
+    "dimensions": [
+      0.22,
+      0.22,
+      3.6014
+    ],
+    "position": [
+      -7.95,
+      2.0,
+      1.8
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-081",
+    "name": "branch.129",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.4534
+    ],
+    "position": [
+      -7.45,
+      2.0,
+      2.875
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-082",
+    "name": "Eucalypt foliage.448",
+    "dimensions": [
+      1.4915,
+      1.2501,
+      0.6036
+    ],
+    "position": [
+      -6.4407,
+      1.6173,
+      3.6072
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-083",
+    "name": "Eucalypt foliage.449",
+    "dimensions": [
+      1.4681,
+      1.1475,
+      0.6078
+    ],
+    "position": [
+      -6.9608,
+      2.4993,
+      3.5921
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-084",
+    "name": "Eucalypt foliage.450",
+    "dimensions": [
+      1.6479,
+      1.0156,
+      0.621
+    ],
+    "position": [
+      -6.5477,
+      2.2133,
+      3.2056
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-085",
+    "name": "Eucalypt foliage.451",
+    "dimensions": [
+      1.4802,
+      1.0897,
+      0.6479
+    ],
+    "position": [
+      -6.7362,
+      2.4642,
+      3.3353
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-086",
+    "name": "branch.130",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.5734
+    ],
+    "position": [
+      -8.4056,
+      2.3715,
+      2.9625
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-087",
+    "name": "Eucalypt foliage.452",
+    "dimensions": [
+      1.4647,
+      1.2106,
+      0.6251
+    ],
+    "position": [
+      -8.9923,
+      2.2822,
+      3.4861
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-088",
+    "name": "Eucalypt foliage.453",
+    "dimensions": [
+      1.5361,
+      1.1246,
+      0.6167
+    ],
+    "position": [
+      -8.3979,
+      2.8177,
+      3.6786
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-089",
+    "name": "Eucalypt foliage.454",
+    "dimensions": [
+      1.4972,
+      1.1534,
+      0.6599
+    ],
+    "position": [
+      -8.9963,
+      2.5537,
+      3.3882
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-090",
+    "name": "Eucalypt foliage.455",
+    "dimensions": [
+      1.4686,
+      1.2161,
+      0.6183
+    ],
+    "position": [
+      -8.9454,
+      2.4114,
+      3.3345
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-091",
+    "name": "branch.131",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.7029
+    ],
+    "position": [
+      -7.9519,
+      1.4521,
+      3.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-092",
+    "name": "Eucalypt foliage.456",
+    "dimensions": [
+      1.4766,
+      1.1083,
+      0.5626
+    ],
+    "position": [
+      -7.5813,
+      1.2768,
+      3.7909
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-093",
+    "name": "Eucalypt foliage.457",
+    "dimensions": [
+      1.5905,
+      1.0979,
+      0.6662
+    ],
+    "position": [
+      -8.1225,
+      1.177,
+      3.8293
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-094",
+    "name": "Eucalypt foliage.458",
+    "dimensions": [
+      1.4447,
+      1.2118,
+      0.6849
+    ],
+    "position": [
+      -7.965,
+      1.2642,
+      3.7113
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-095",
+    "name": "Eucalypt foliage.459",
+    "dimensions": [
+      1.4797,
+      1.2313,
+      0.6272
+    ],
+    "position": [
+      -7.648,
+      0.7687,
+      3.5799
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-096",
+    "name": "branch.132",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.84
+    ],
+    "position": [
+      -7.6654,
+      2.4365,
+      3.1375
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-097",
+    "name": "Eucalypt foliage.460",
+    "dimensions": [
+      1.474,
+      1.1474,
+      0.6335
+    ],
+    "position": [
+      -7.7604,
+      3.2908,
+      3.9005
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-098",
+    "name": "Eucalypt foliage.461",
+    "dimensions": [
+      1.5242,
+      1.1981,
+      0.6461
+    ],
+    "position": [
+      -7.8099,
+      2.5919,
+      4.0232
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-099",
+    "name": "Eucalypt foliage.462",
+    "dimensions": [
+      1.4104,
+      1.0533,
+      0.5976
+    ],
+    "position": [
+      -7.1853,
+      2.8776,
+      3.701
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-100",
+    "name": "Eucalypt foliage.463",
+    "dimensions": [
+      1.488,
+      1.2519,
+      0.6262
+    ],
+    "position": [
+      -7.7271,
+      2.5261,
+      4.0511
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-101",
+    "name": "branch.133",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.9831
+    ],
+    "position": [
+      -8.5416,
+      1.9041,
+      3.225
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-102",
+    "name": "Eucalypt foliage.464",
+    "dimensions": [
+      1.6104,
+      1.148,
+      0.6391
+    ],
+    "position": [
+      -9.2331,
+      2.1435,
+      4.108
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-103",
+    "name": "Eucalypt foliage.465",
+    "dimensions": [
+      1.4727,
+      1.167,
+      0.6012
+    ],
+    "position": [
+      -9.5737,
+      1.8255,
+      4.3458
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-104",
+    "name": "Eucalypt foliage.466",
+    "dimensions": [
+      1.4987,
+      1.0712,
+      0.6445
+    ],
+    "position": [
+      -8.9382,
+      1.4921,
+      3.9174
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-105",
+    "name": "Eucalypt foliage.467",
+    "dimensions": [
+      1.4502,
+      1.1812,
+      0.6507
+    ],
+    "position": [
+      -8.9227,
+      1.4079,
+      4.1201
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-106",
+    "name": "branch.134",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.1309
+    ],
+    "position": [
+      -7.5359,
+      1.7049,
+      3.3125
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-107",
+    "name": "Eucalypt foliage.468",
+    "dimensions": [
+      1.434,
+      1.1992,
+      0.6623
+    ],
+    "position": [
+      -7.0673,
+      1.542,
+      4.2849
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-108",
+    "name": "Eucalypt foliage.469",
+    "dimensions": [
+      1.4952,
+      0.97,
+      0.6387
+    ],
+    "position": [
+      -6.6117,
+      1.4107,
+      4.0399
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-109",
+    "name": "Eucalypt foliage.470",
+    "dimensions": [
+      1.4415,
+      1.1589,
+      0.6512
+    ],
+    "position": [
+      -6.6423,
+      1.1961,
+      4.4858
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-110",
+    "name": "Eucalypt foliage.471",
+    "dimensions": [
+      1.563,
+      1.239,
+      0.6075
+    ],
+    "position": [
+      -7.2117,
+      1.4446,
+      4.2471
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-111",
+    "name": "branch.135",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.2825
+    ],
+    "position": [
+      -8.1429,
+      2.5311,
+      3.4
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-112",
+    "name": "Eucalypt foliage.472",
+    "dimensions": [
+      1.4185,
+      1.1858,
+      0.6056
+    ],
+    "position": [
+      -8.6197,
+      3.1712,
+      4.6123
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-113",
+    "name": "Eucalypt foliage.473",
+    "dimensions": [
+      1.3512,
+      1.2511,
+      0.6237
+    ],
+    "position": [
+      -8.692,
+      2.9145,
+      4.311
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-114",
+    "name": "Eucalypt foliage.474",
+    "dimensions": [
+      1.4073,
+      1.0824,
+      0.6433
+    ],
+    "position": [
+      -7.9885,
+      3.2837,
+      4.5306
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-115",
+    "name": "Eucalypt foliage.475",
+    "dimensions": [
+      1.5156,
+      1.1164,
+      0.6269
+    ],
+    "position": [
+      -7.8829,
+      3.1341,
+      4.5693
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-116",
+    "name": "Garden edge.021",
+    "dimensions": [
+      2.0,
+      5.0,
+      0.36
+    ],
+    "position": [
+      8.0,
+      -2.0,
+      0.18
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-117",
+    "name": "Mulch.021",
+    "dimensions": [
+      1.84,
+      4.84,
+      0.035
+    ],
+    "position": [
+      8.0,
+      -2.0,
+      0.37
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-118",
+    "name": "Native grass clump.744",
+    "dimensions": [
+      0.4851,
+      0.4881,
+      0.6456
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-119",
+    "name": "Native grass clump.745",
+    "dimensions": [
+      0.4609,
+      0.4075,
+      0.6354
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-120",
+    "name": "Native grass clump.746",
+    "dimensions": [
+      0.5406,
+      0.5545,
+      0.6037
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-121",
+    "name": "Native grass clump.747",
+    "dimensions": [
+      0.484,
+      0.46,
+      0.5694
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-122",
+    "name": "Native grass clump.748",
+    "dimensions": [
+      0.4986,
+      0.5747,
+      0.6199
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-123",
+    "name": "Native grass clump.749",
+    "dimensions": [
+      0.3986,
+      0.4182,
+      0.625
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-124",
+    "name": "Native grass clump.750",
+    "dimensions": [
+      0.5079,
+      0.5007,
+      0.5872
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-125",
+    "name": "Native grass clump.751",
+    "dimensions": [
+      0.5346,
+      0.4363,
+      0.6071
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-126",
+    "name": "Native grass clump.752",
+    "dimensions": [
+      0.4758,
+      0.4726,
+      0.6481
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-127",
+    "name": "Native grass clump.753",
+    "dimensions": [
+      0.4176,
+      0.4444,
+      0.5336
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-128",
+    "name": "Native grass clump.754",
+    "dimensions": [
+      0.4349,
+      0.5804,
+      0.6447
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-129",
+    "name": "Native grass clump.755",
+    "dimensions": [
+      0.4716,
+      0.5116,
+      0.6376
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-130",
+    "name": "Native grass clump.756",
+    "dimensions": [
+      0.5258,
+      0.4535,
+      0.6228
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-131",
+    "name": "Native grass clump.757",
+    "dimensions": [
+      0.4934,
+      0.479,
+      0.6441
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-132",
+    "name": "Native grass clump.758",
+    "dimensions": [
+      0.5385,
+      0.4817,
+      0.6363
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-133",
+    "name": "Native grass clump.759",
+    "dimensions": [
+      0.3539,
+      0.4069,
+      0.636
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-134",
+    "name": "Native grass clump.760",
+    "dimensions": [
+      0.421,
+      0.5595,
+      0.609
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-135",
+    "name": "Native grass clump.761",
+    "dimensions": [
+      0.4932,
+      0.4477,
+      0.5222
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-136",
+    "name": "Native grass clump.762",
+    "dimensions": [
+      0.5028,
+      0.4584,
+      0.6368
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-137",
+    "name": "Native grass clump.763",
+    "dimensions": [
+      0.4358,
+      0.5782,
+      0.6274
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-138",
+    "name": "Native grass clump.764",
+    "dimensions": [
+      0.3199,
+      0.4319,
+      0.6423
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-139",
+    "name": "Native grass clump.765",
+    "dimensions": [
+      0.5028,
+      0.5384,
+      0.6236
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-140",
+    "name": "Native grass clump.766",
+    "dimensions": [
+      0.3994,
+      0.4425,
+      0.6331
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-141",
+    "name": "Native grass clump.767",
+    "dimensions": [
+      0.3696,
+      0.5508,
+      0.5687
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-142",
+    "name": "Native grass clump.768",
+    "dimensions": [
+      0.4184,
+      0.4766,
+      0.6293
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-143",
+    "name": "Native grass clump.769",
+    "dimensions": [
+      0.5299,
+      0.5198,
+      0.5939
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-144",
+    "name": "Native grass clump.770",
+    "dimensions": [
+      0.5174,
+      0.4714,
+      0.6229
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-145",
+    "name": "Native grass clump.771",
+    "dimensions": [
+      0.4428,
+      0.4715,
+      0.638
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-146",
+    "name": "Native grass clump.772",
+    "dimensions": [
+      0.5272,
+      0.412,
+      0.6494
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-147",
+    "name": "Native grass clump.773",
+    "dimensions": [
+      0.5451,
+      0.5451,
+      0.5699
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-148",
+    "name": "Native grass clump.774",
+    "dimensions": [
+      0.4405,
+      0.4879,
+      0.6319
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-149",
+    "name": "Native grass clump.775",
+    "dimensions": [
+      0.4906,
+      0.5108,
+      0.6114
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-150",
+    "name": "Native grass clump.776",
+    "dimensions": [
+      0.4007,
+      0.3683,
+      0.5658
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-151",
+    "name": "Native grass clump.777",
+    "dimensions": [
+      0.4013,
+      0.4745,
+      0.6163
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-152",
+    "name": "Native grass clump.778",
+    "dimensions": [
+      0.4682,
+      0.4294,
+      0.6392
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-153",
+    "name": "Native grass clump.779",
+    "dimensions": [
+      0.566,
+      0.5124,
+      0.6405
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-154",
+    "name": "Native grass clump.780",
+    "dimensions": [
+      0.469,
+      0.5453,
+      0.6419
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-155",
+    "name": "Native grass clump.781",
+    "dimensions": [
+      0.4684,
+      0.5678,
+      0.6375
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-156",
+    "name": "Native grass clump.782",
+    "dimensions": [
+      0.461,
+      0.4464,
+      0.6486
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-157",
+    "name": "Native grass clump.783",
+    "dimensions": [
+      0.5332,
+      0.5678,
+      0.5987
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-158",
+    "name": "branch.136",
+    "dimensions": [
+      0.22,
+      0.22,
+      3.6014
+    ],
+    "position": [
+      8.05,
+      2.0,
+      1.8
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-159",
+    "name": "branch.137",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.4534
+    ],
+    "position": [
+      8.55,
+      2.0,
+      2.875
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-160",
+    "name": "Eucalypt foliage.476",
+    "dimensions": [
+      1.4478,
+      1.1331,
+      0.6401
+    ],
+    "position": [
+      9.1201,
+      1.809,
+      3.3834
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-161",
+    "name": "Eucalypt foliage.477",
+    "dimensions": [
+      1.5066,
+      1.2172,
+      0.6241
+    ],
+    "position": [
+      9.1833,
+      1.6453,
+      3.4536
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-162",
+    "name": "Eucalypt foliage.478",
+    "dimensions": [
+      1.4824,
+      1.1286,
+      0.5846
+    ],
+    "position": [
+      9.3522,
+      1.5243,
+      3.509
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-163",
+    "name": "Eucalypt foliage.479",
+    "dimensions": [
+      1.4871,
+      1.1663,
+      0.6128
+    ],
+    "position": [
+      9.1933,
+      1.8514,
+      3.478
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-164",
+    "name": "branch.138",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.5734
+    ],
+    "position": [
+      7.5944,
+      2.3715,
+      2.9625
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-165",
+    "name": "Eucalypt foliage.480",
+    "dimensions": [
+      1.4055,
+      1.2392,
+      0.6333
+    ],
+    "position": [
+      7.5574,
+      2.923,
+      3.7623
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-166",
+    "name": "Eucalypt foliage.481",
+    "dimensions": [
+      1.4046,
+      1.1665,
+      0.6389
+    ],
+    "position": [
+      7.4081,
+      3.22,
+      3.3893
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-167",
+    "name": "Eucalypt foliage.482",
+    "dimensions": [
+      1.4127,
+      1.1269,
+      0.6108
+    ],
+    "position": [
+      7.5942,
+      2.8157,
+      3.7798
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-168",
+    "name": "Eucalypt foliage.483",
+    "dimensions": [
+      1.4769,
+      1.1792,
+      0.5851
+    ],
+    "position": [
+      7.1352,
+      2.9853,
+      3.662
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-169",
+    "name": "branch.139",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.7029
+    ],
+    "position": [
+      8.0481,
+      1.4521,
+      3.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-170",
+    "name": "Eucalypt foliage.484",
+    "dimensions": [
+      1.5079,
+      1.1541,
+      0.6558
+    ],
+    "position": [
+      7.7949,
+      0.6942,
+      3.9433
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-171",
+    "name": "Eucalypt foliage.485",
+    "dimensions": [
+      1.5198,
+      1.1193,
+      0.6457
+    ],
+    "position": [
+      8.0181,
+      0.8576,
+      3.8501
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-172",
+    "name": "Eucalypt foliage.486",
+    "dimensions": [
+      1.5931,
+      1.191,
+      0.6347
+    ],
+    "position": [
+      8.4659,
+      1.0455,
+      3.7367
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-173",
+    "name": "Eucalypt foliage.487",
+    "dimensions": [
+      1.4185,
+      1.1346,
+      0.5491
+    ],
+    "position": [
+      7.9345,
+      0.9739,
+      3.511
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-174",
+    "name": "branch.140",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.84
+    ],
+    "position": [
+      8.3346,
+      2.4365,
+      3.1375
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-175",
+    "name": "Eucalypt foliage.488",
+    "dimensions": [
+      1.5769,
+      1.1157,
+      0.6558
+    ],
+    "position": [
+      8.9239,
+      2.9858,
+      3.9586
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-176",
+    "name": "Eucalypt foliage.489",
+    "dimensions": [
+      1.4077,
+      1.1602,
+      0.6184
+    ],
+    "position": [
+      9.0474,
+      2.4003,
+      3.9931
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-177",
+    "name": "Eucalypt foliage.490",
+    "dimensions": [
+      1.4996,
+      1.1739,
+      0.636
+    ],
+    "position": [
+      8.8977,
+      3.1929,
+      4.1222
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-178",
+    "name": "Eucalypt foliage.491",
+    "dimensions": [
+      1.5219,
+      1.193,
+      0.6364
+    ],
+    "position": [
+      9.0764,
+      2.5642,
+      3.7012
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-179",
+    "name": "branch.141",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.9831
+    ],
+    "position": [
+      7.4584,
+      1.9041,
+      3.225
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-180",
+    "name": "Eucalypt foliage.492",
+    "dimensions": [
+      1.4951,
+      1.2356,
+      0.6365
+    ],
+    "position": [
+      6.6481,
+      1.4508,
+      4.1812
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-181",
+    "name": "Eucalypt foliage.493",
+    "dimensions": [
+      1.3185,
+      1.1933,
+      0.6293
+    ],
+    "position": [
+      6.4711,
+      1.6941,
+      4.1655
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-182",
+    "name": "Eucalypt foliage.494",
+    "dimensions": [
+      1.4168,
+      1.1667,
+      0.6631
+    ],
+    "position": [
+      6.6931,
+      1.7766,
+      3.8676
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-183",
+    "name": "Eucalypt foliage.495",
+    "dimensions": [
+      1.5275,
+      1.2037,
+      0.6183
+    ],
+    "position": [
+      7.2861,
+      1.7057,
+      3.9952
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-184",
+    "name": "branch.142",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.1309
+    ],
+    "position": [
+      8.4641,
+      1.7049,
+      3.3125
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-185",
+    "name": "Eucalypt foliage.496",
+    "dimensions": [
+      1.5657,
+      1.074,
+      0.6223
+    ],
+    "position": [
+      9.1913,
+      1.4553,
+      4.367
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-186",
+    "name": "Eucalypt foliage.497",
+    "dimensions": [
+      1.5089,
+      1.2082,
+      0.6052
+    ],
+    "position": [
+      8.8414,
+      1.8536,
+      4.2342
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-187",
+    "name": "Eucalypt foliage.498",
+    "dimensions": [
+      1.5118,
+      1.1735,
+      0.6497
+    ],
+    "position": [
+      9.1815,
+      1.1834,
+      4.1219
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-188",
+    "name": "Eucalypt foliage.499",
+    "dimensions": [
+      1.3653,
+      1.1491,
+      0.5989
+    ],
+    "position": [
+      9.3706,
+      1.7561,
+      4.1835
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-189",
+    "name": "branch.143",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.2825
+    ],
+    "position": [
+      7.8571,
+      2.5311,
+      3.4
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-190",
+    "name": "Eucalypt foliage.500",
+    "dimensions": [
+      1.5305,
+      1.1997,
+      0.6718
+    ],
+    "position": [
+      8.1386,
+      3.2178,
+      4.5545
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-191",
+    "name": "Eucalypt foliage.501",
+    "dimensions": [
+      1.4808,
+      1.1458,
+      0.6166
+    ],
+    "position": [
+      7.9822,
+      3.012,
+      4.2769
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-192",
+    "name": "Eucalypt foliage.502",
+    "dimensions": [
+      1.6333,
+      1.1167,
+      0.6534
+    ],
+    "position": [
+      7.3415,
+      2.5977,
+      4.4104
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-193",
+    "name": "Eucalypt foliage.503",
+    "dimensions": [
+      1.5517,
+      1.1627,
+      0.59
+    ],
+    "position": [
+      7.9856,
+      3.067,
+      4.67
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-194",
+    "name": "Transit bay",
+    "dimensions": [
+      20.0,
+      3.1,
+      0.05
+    ],
+    "position": [
+      0.0,
+      -5.4,
+      -0.035
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-195",
+    "name": "Bay marking",
+    "dimensions": [
+      1.2,
+      0.08,
+      0.006
+    ],
+    "position": [
+      -7.0,
+      -6.7,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-196",
+    "name": "Bay marking.001",
+    "dimensions": [
+      1.2,
+      0.08,
+      0.006
+    ],
+    "position": [
+      -4.0,
+      -6.7,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-197",
+    "name": "Bay marking.002",
+    "dimensions": [
+      1.2,
+      0.08,
+      0.006
+    ],
+    "position": [
+      -1.0,
+      -6.7,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-198",
+    "name": "Bay marking.003",
+    "dimensions": [
+      1.2,
+      0.08,
+      0.006
+    ],
+    "position": [
+      2.0,
+      -6.7,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-199",
+    "name": "Bay marking.004",
+    "dimensions": [
+      1.2,
+      0.08,
+      0.006
+    ],
+    "position": [
+      5.0,
+      -6.7,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-200",
+    "name": "Place identity.003",
+    "dimensions": [
+      3.0,
+      0.16,
+      1.6
+    ],
+    "position": [
+      -5.0,
+      -3.8,
+      1.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-TRANSPORT-001-PART-201",
+    "name": "Text.021",
+    "dimensions": [
+      1.5772,
+      0.133,
+      0.004
+    ],
+    "position": [
+      -5.0,
+      -3.9,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  }
+]

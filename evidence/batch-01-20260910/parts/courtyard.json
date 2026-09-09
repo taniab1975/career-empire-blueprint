@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-001",
+    "name": "Shade post.008",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -6.5,
+      -3.0,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-002",
+    "name": "Shade post.009",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -6.5,
+      5.0,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-003",
+    "name": "Shade post.010",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -1.5,
+      -3.0,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-004",
+    "name": "Shade post.011",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -1.5,
+      5.0,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-005",
+    "name": "Shade beam.004",
+    "dimensions": [
+      0.18,
+      8.3,
+      0.2
+    ],
+    "position": [
+      -6.5,
+      1.0,
+      3.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-006",
+    "name": "Shade beam.005",
+    "dimensions": [
+      0.18,
+      8.3,
+      0.2
+    ],
+    "position": [
+      -1.5,
+      1.0,
+      3.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-007",
+    "name": "Timber shade slat.044",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      -3.0,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-008",
+    "name": "Timber shade slat.045",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      -2.76,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-009",
+    "name": "Timber shade slat.046",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      -2.52,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-010",
+    "name": "Timber shade slat.047",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      -2.28,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-011",
+    "name": "Timber shade slat.048",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      -2.04,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-012",
+    "name": "Timber shade slat.049",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      -1.8,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-013",
+    "name": "Timber shade slat.050",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      -1.56,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-014",
+    "name": "Timber shade slat.051",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      -1.32,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-015",
+    "name": "Timber shade slat.052",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      -1.08,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-016",
+    "name": "Timber shade slat.053",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      -0.84,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-017",
+    "name": "Timber shade slat.054",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      -0.6,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-018",
+    "name": "Timber shade slat.055",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      -0.36,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-019",
+    "name": "Timber shade slat.056",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      -0.12,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-020",
+    "name": "Timber shade slat.057",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      0.12,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-021",
+    "name": "Timber shade slat.058",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      0.36,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-022",
+    "name": "Timber shade slat.059",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      0.6,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-023",
+    "name": "Timber shade slat.060",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      0.84,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-024",
+    "name": "Timber shade slat.061",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      1.08,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-025",
+    "name": "Timber shade slat.062",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      1.32,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-026",
+    "name": "Timber shade slat.063",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      1.56,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-027",
+    "name": "Timber shade slat.064",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      1.8,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-028",
+    "name": "Timber shade slat.065",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      2.04,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-029",
+    "name": "Timber shade slat.066",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      2.28,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-030",
+    "name": "Timber shade slat.067",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      2.52,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-031",
+    "name": "Timber shade slat.068",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      2.76,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-032",
+    "name": "Timber shade slat.069",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      3.0,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-033",
+    "name": "Timber shade slat.070",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      3.24,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-034",
+    "name": "Timber shade slat.071",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      3.48,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-035",
+    "name": "Timber shade slat.072",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      3.72,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-036",
+    "name": "Timber shade slat.073",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      3.96,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-037",
+    "name": "Timber shade slat.074",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      4.2,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-038",
+    "name": "Timber shade slat.075",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      4.44,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-039",
+    "name": "Timber shade slat.076",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      4.68,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-040",
+    "name": "Timber shade slat.077",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      -4.0,
+      4.92,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-041",
+    "name": "Shade post.012",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      1.5,
+      -3.0,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-042",
+    "name": "Shade post.013",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      1.5,
+      5.0,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-043",
+    "name": "Shade post.014",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      6.5,
+      -3.0,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-044",
+    "name": "Shade post.015",
+    "dimensions": [
+      0.14,
+      0.14,
+      3.0
+    ],
+    "position": [
+      6.5,
+      5.0,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-045",
+    "name": "Shade beam.006",
+    "dimensions": [
+      0.18,
+      8.3,
+      0.2
+    ],
+    "position": [
+      1.5,
+      1.0,
+      3.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-046",
+    "name": "Shade beam.007",
+    "dimensions": [
+      0.18,
+      8.3,
+      0.2
+    ],
+    "position": [
+      6.5,
+      1.0,
+      3.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-047",
+    "name": "Timber shade slat.078",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      -3.0,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-048",
+    "name": "Timber shade slat.079",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      -2.76,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-049",
+    "name": "Timber shade slat.080",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      -2.52,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-050",
+    "name": "Timber shade slat.081",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      -2.28,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-051",
+    "name": "Timber shade slat.082",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      -2.04,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-052",
+    "name": "Timber shade slat.083",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      -1.8,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-053",
+    "name": "Timber shade slat.084",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      -1.56,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-054",
+    "name": "Timber shade slat.085",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      -1.32,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-055",
+    "name": "Timber shade slat.086",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      -1.08,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-056",
+    "name": "Timber shade slat.087",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      -0.84,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-057",
+    "name": "Timber shade slat.088",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      -0.6,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-058",
+    "name": "Timber shade slat.089",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      -0.36,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-059",
+    "name": "Timber shade slat.090",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      -0.12,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-060",
+    "name": "Timber shade slat.091",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      0.12,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-061",
+    "name": "Timber shade slat.092",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      0.36,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-062",
+    "name": "Timber shade slat.093",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      0.6,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-063",
+    "name": "Timber shade slat.094",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      0.84,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-064",
+    "name": "Timber shade slat.095",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      1.08,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-065",
+    "name": "Timber shade slat.096",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      1.32,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-066",
+    "name": "Timber shade slat.097",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      1.56,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-067",
+    "name": "Timber shade slat.098",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      1.8,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-068",
+    "name": "Timber shade slat.099",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      2.04,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-069",
+    "name": "Timber shade slat.100",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      2.28,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-070",
+    "name": "Timber shade slat.101",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      2.52,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-071",
+    "name": "Timber shade slat.102",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      2.76,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-072",
+    "name": "Timber shade slat.103",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      3.0,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-073",
+    "name": "Timber shade slat.104",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      3.24,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-074",
+    "name": "Timber shade slat.105",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      3.48,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-075",
+    "name": "Timber shade slat.106",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      3.72,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-076",
+    "name": "Timber shade slat.107",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      3.96,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-077",
+    "name": "Timber shade slat.108",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      4.2,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-078",
+    "name": "Timber shade slat.109",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      4.44,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-079",
+    "name": "Timber shade slat.110",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      4.68,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-080",
+    "name": "Timber shade slat.111",
+    "dimensions": [
+      5.4,
+      0.09,
+      0.16
+    ],
+    "position": [
+      4.0,
+      4.92,
+      3.13
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-081",
+    "name": "bench part.013",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      -4.0,
+      -1.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-082",
+    "name": "Table.002",
+    "dimensions": [
+      1.7,
+      0.8,
+      0.08
+    ],
+    "position": [
+      -4.0,
+      -0.1,
+      0.74
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-083",
+    "name": "Table support.004",
+    "dimensions": [
+      0.08,
+      0.6,
+      0.7
+    ],
+    "position": [
+      -4.6,
+      -0.1,
+      0.35
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-084",
+    "name": "Table support.005",
+    "dimensions": [
+      0.08,
+      0.6,
+      0.7
+    ],
+    "position": [
+      -3.4,
+      -0.1,
+      0.35
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-085",
+    "name": "bench part.014",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      -4.0,
+      2.5,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-086",
+    "name": "Table.003",
+    "dimensions": [
+      1.7,
+      0.8,
+      0.08
+    ],
+    "position": [
+      -4.0,
+      3.4,
+      0.74
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-087",
+    "name": "Table support.006",
+    "dimensions": [
+      0.08,
+      0.6,
+      0.7
+    ],
+    "position": [
+      -4.6,
+      3.4,
+      0.35
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-088",
+    "name": "Table support.007",
+    "dimensions": [
+      0.08,
+      0.6,
+      0.7
+    ],
+    "position": [
+      -3.4,
+      3.4,
+      0.35
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-089",
+    "name": "bench part.015",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      4.0,
+      -1.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-090",
+    "name": "Table.004",
+    "dimensions": [
+      1.7,
+      0.8,
+      0.08
+    ],
+    "position": [
+      4.0,
+      -0.1,
+      0.74
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-091",
+    "name": "Table support.008",
+    "dimensions": [
+      0.08,
+      0.6,
+      0.7
+    ],
+    "position": [
+      3.4,
+      -0.1,
+      0.35
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-092",
+    "name": "Table support.009",
+    "dimensions": [
+      0.08,
+      0.6,
+      0.7
+    ],
+    "position": [
+      4.6,
+      -0.1,
+      0.35
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-093",
+    "name": "bench part.016",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      4.0,
+      2.5,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-094",
+    "name": "Table.005",
+    "dimensions": [
+      1.7,
+      0.8,
+      0.08
+    ],
+    "position": [
+      4.0,
+      3.4,
+      0.74
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-095",
+    "name": "Table support.010",
+    "dimensions": [
+      0.08,
+      0.6,
+      0.7
+    ],
+    "position": [
+      3.4,
+      3.4,
+      0.35
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-096",
+    "name": "Table support.011",
+    "dimensions": [
+      0.08,
+      0.6,
+      0.7
+    ],
+    "position": [
+      4.6,
+      3.4,
+      0.35
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-097",
+    "name": "Water basin",
+    "dimensions": [
+      3.2,
+      3.2,
+      0.44
+    ],
+    "position": [
+      0.0,
+      1.0,
+      0.22
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-098",
+    "name": "Water surface",
+    "dimensions": [
+      2.84,
+      2.84,
+      0.02
+    ],
+    "position": [
+      0.0,
+      1.0,
+      0.455
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-099",
+    "name": "Water sculpture",
+    "dimensions": [
+      0.25,
+      0.35,
+      1.56
+    ],
+    "position": [
+      -0.6,
+      1.0,
+      1.23
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-100",
+    "name": "Water sculpture.001",
+    "dimensions": [
+      0.25,
+      0.35,
+      1.2
+    ],
+    "position": [
+      0.0,
+      1.0,
+      1.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-101",
+    "name": "Water sculpture.002",
+    "dimensions": [
+      0.25,
+      0.35,
+      1.56
+    ],
+    "position": [
+      0.6,
+      1.0,
+      1.23
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-102",
+    "name": "Whole item paving.007",
+    "dimensions": [
+      22.0,
+      24.0,
+      0.18
+    ],
+    "position": [
+      0.0,
+      -2.0,
+      -0.1
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-103",
+    "name": "Garden edge.018",
+    "dimensions": [
+      2.0,
+      5.0,
+      0.36
+    ],
+    "position": [
+      -9.0,
+      -2.0,
+      0.18
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-104",
+    "name": "Mulch.018",
+    "dimensions": [
+      1.84,
+      4.84,
+      0.035
+    ],
+    "position": [
+      -9.0,
+      -2.0,
+      0.37
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-105",
+    "name": "Native grass clump.624",
+    "dimensions": [
+      0.4627,
+      0.4334,
+      0.5627
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-106",
+    "name": "Native grass clump.625",
+    "dimensions": [
+      0.6023,
+      0.4667,
+      0.5072
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-107",
+    "name": "Native grass clump.626",
+    "dimensions": [
+      0.4695,
+      0.467,
+      0.6485
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-108",
+    "name": "Native grass clump.627",
+    "dimensions": [
+      0.326,
+      0.4393,
+      0.6013
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-109",
+    "name": "Native grass clump.628",
+    "dimensions": [
+      0.4224,
+      0.4831,
+      0.6171
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-110",
+    "name": "Native grass clump.629",
+    "dimensions": [
+      0.4547,
+      0.5143,
+      0.5612
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-111",
+    "name": "Native grass clump.630",
+    "dimensions": [
+      0.5929,
+      0.5208,
+      0.5846
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-112",
+    "name": "Native grass clump.631",
+    "dimensions": [
+      0.5714,
+      0.5818,
+      0.6127
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-113",
+    "name": "Native grass clump.632",
+    "dimensions": [
+      0.3945,
+      0.4801,
+      0.6464
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-114",
+    "name": "Native grass clump.633",
+    "dimensions": [
+      0.5853,
+      0.4168,
+      0.6043
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-115",
+    "name": "Native grass clump.634",
+    "dimensions": [
+      0.414,
+      0.4214,
+      0.5824
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-116",
+    "name": "Native grass clump.635",
+    "dimensions": [
+      0.5727,
+      0.4422,
+      0.6372
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-117",
+    "name": "Native grass clump.636",
+    "dimensions": [
+      0.372,
+      0.4658,
+      0.5976
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-118",
+    "name": "Native grass clump.637",
+    "dimensions": [
+      0.5076,
+      0.5002,
+      0.6425
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-119",
+    "name": "Native grass clump.638",
+    "dimensions": [
+      0.4197,
+      0.5086,
+      0.6417
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-120",
+    "name": "Native grass clump.639",
+    "dimensions": [
+      0.5778,
+      0.4913,
+      0.6468
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-121",
+    "name": "Native grass clump.640",
+    "dimensions": [
+      0.574,
+      0.5432,
+      0.5348
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-122",
+    "name": "Native grass clump.641",
+    "dimensions": [
+      0.5347,
+      0.4231,
+      0.643
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-123",
+    "name": "Native grass clump.642",
+    "dimensions": [
+      0.5243,
+      0.4464,
+      0.6266
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-124",
+    "name": "Native grass clump.643",
+    "dimensions": [
+      0.6026,
+      0.4807,
+      0.6366
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-125",
+    "name": "Native grass clump.644",
+    "dimensions": [
+      0.4759,
+      0.4868,
+      0.6219
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-126",
+    "name": "Native grass clump.645",
+    "dimensions": [
+      0.4609,
+      0.4192,
+      0.619
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-127",
+    "name": "Native grass clump.646",
+    "dimensions": [
+      0.5006,
+      0.5619,
+      0.5537
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-128",
+    "name": "Native grass clump.647",
+    "dimensions": [
+      0.5886,
+      0.3848,
+      0.6381
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-129",
+    "name": "Native grass clump.648",
+    "dimensions": [
+      0.5041,
+      0.5288,
+      0.6281
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-130",
+    "name": "Native grass clump.649",
+    "dimensions": [
+      0.4793,
+      0.3875,
+      0.6337
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-131",
+    "name": "Native grass clump.650",
+    "dimensions": [
+      0.4542,
+      0.4829,
+      0.6408
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-132",
+    "name": "Native grass clump.651",
+    "dimensions": [
+      0.3863,
+      0.5303,
+      0.6329
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-133",
+    "name": "Native grass clump.652",
+    "dimensions": [
+      0.5568,
+      0.5273,
+      0.6409
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-134",
+    "name": "Native grass clump.653",
+    "dimensions": [
+      0.4411,
+      0.4716,
+      0.6386
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-135",
+    "name": "Native grass clump.654",
+    "dimensions": [
+      0.3499,
+      0.5693,
+      0.609
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-136",
+    "name": "Native grass clump.655",
+    "dimensions": [
+      0.5898,
+      0.5249,
+      0.4876
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-137",
+    "name": "Native grass clump.656",
+    "dimensions": [
+      0.5438,
+      0.4683,
+      0.6416
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-138",
+    "name": "Native grass clump.657",
+    "dimensions": [
+      0.5305,
+      0.522,
+      0.6321
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-139",
+    "name": "Native grass clump.658",
+    "dimensions": [
+      0.5365,
+      0.3995,
+      0.6396
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-140",
+    "name": "Native grass clump.659",
+    "dimensions": [
+      0.438,
+      0.4899,
+      0.6199
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-141",
+    "name": "Native grass clump.660",
+    "dimensions": [
+      0.5045,
+      0.4717,
+      0.5969
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-142",
+    "name": "Native grass clump.661",
+    "dimensions": [
+      0.4565,
+      0.4093,
+      0.6352
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-143",
+    "name": "Native grass clump.662",
+    "dimensions": [
+      0.4726,
+      0.4063,
+      0.6211
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-144",
+    "name": "Native grass clump.663",
+    "dimensions": [
+      0.4664,
+      0.4156,
+      0.613
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-145",
+    "name": "branch.112",
+    "dimensions": [
+      0.22,
+      0.22,
+      3.6014
+    ],
+    "position": [
+      -8.95,
+      5.0,
+      1.8
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-146",
+    "name": "branch.113",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.4534
+    ],
+    "position": [
+      -8.45,
+      5.0,
+      2.875
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-147",
+    "name": "Eucalypt foliage.392",
+    "dimensions": [
+      1.4969,
+      1.2075,
+      0.6167
+    ],
+    "position": [
+      -7.7929,
+      4.7063,
+      3.3631
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-148",
+    "name": "Eucalypt foliage.393",
+    "dimensions": [
+      1.4565,
+      1.1399,
+      0.6539
+    ],
+    "position": [
+      -8.2158,
+      4.9705,
+      3.3905
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-149",
+    "name": "Eucalypt foliage.394",
+    "dimensions": [
+      1.477,
+      1.0853,
+      0.615
+    ],
+    "position": [
+      -7.8238,
+      4.8409,
+      3.5255
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-150",
+    "name": "Eucalypt foliage.395",
+    "dimensions": [
+      1.5188,
+      1.1319,
+      0.6057
+    ],
+    "position": [
+      -7.7527,
+      5.2107,
+      3.4076
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-151",
+    "name": "branch.114",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.5734
+    ],
+    "position": [
+      -9.4056,
+      5.3715,
+      2.9625
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-152",
+    "name": "Eucalypt foliage.396",
+    "dimensions": [
+      1.4072,
+      1.1293,
+      0.6322
+    ],
+    "position": [
+      -9.4859,
+      5.8687,
+      3.3831
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-153",
+    "name": "Eucalypt foliage.397",
+    "dimensions": [
+      1.59,
+      1.2203,
+      0.6523
+    ],
+    "position": [
+      -9.4042,
+      5.7904,
+      3.4277
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-154",
+    "name": "Eucalypt foliage.398",
+    "dimensions": [
+      1.3722,
+      1.1365,
+      0.5917
+    ],
+    "position": [
+      -9.9034,
+      5.5789,
+      3.6859
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-155",
+    "name": "Eucalypt foliage.399",
+    "dimensions": [
+      1.4755,
+      1.1242,
+      0.6299
+    ],
+    "position": [
+      -9.675,
+      5.9771,
+      3.4492
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-156",
+    "name": "branch.115",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.7029
+    ],
+    "position": [
+      -8.9519,
+      4.4521,
+      3.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-157",
+    "name": "Eucalypt foliage.400",
+    "dimensions": [
+      1.5054,
+      1.0475,
+      0.648
+    ],
+    "position": [
+      -8.659,
+      3.8998,
+      3.6505
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-158",
+    "name": "Eucalypt foliage.401",
+    "dimensions": [
+      1.5908,
+      1.1378,
+      0.6568
+    ],
+    "position": [
+      -8.4527,
+      3.8046,
+      3.984
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-159",
+    "name": "Eucalypt foliage.402",
+    "dimensions": [
+      1.5383,
+      1.2334,
+      0.6438
+    ],
+    "position": [
+      -8.7433,
+      4.1733,
+      3.6492
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-160",
+    "name": "Eucalypt foliage.403",
+    "dimensions": [
+      1.3928,
+      1.0822,
+      0.6246
+    ],
+    "position": [
+      -8.5294,
+      3.7405,
+      3.5362
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-161",
+    "name": "branch.116",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.84
+    ],
+    "position": [
+      -8.6654,
+      5.4365,
+      3.1375
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-162",
+    "name": "Eucalypt foliage.404",
+    "dimensions": [
+      1.4125,
+      1.1488,
+      0.5934
+    ],
+    "position": [
+      -8.339,
+      6.2683,
+      3.7876
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-163",
+    "name": "Eucalypt foliage.405",
+    "dimensions": [
+      1.4348,
+      1.1526,
+      0.61
+    ],
+    "position": [
+      -8.5707,
+      6.0489,
+      3.7311
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-164",
+    "name": "Eucalypt foliage.406",
+    "dimensions": [
+      1.5868,
+      1.1735,
+      0.6363
+    ],
+    "position": [
+      -7.8634,
+      6.1491,
+      4.0416
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-165",
+    "name": "Eucalypt foliage.407",
+    "dimensions": [
+      1.5086,
+      1.1819,
+      0.6205
+    ],
+    "position": [
+      -8.6408,
+      5.8551,
+      3.9721
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-166",
+    "name": "branch.117",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.9831
+    ],
+    "position": [
+      -9.5416,
+      4.9041,
+      3.225
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-167",
+    "name": "Eucalypt foliage.408",
+    "dimensions": [
+      1.5045,
+      1.1163,
+      0.6411
+    ],
+    "position": [
+      -10.3105,
+      5.1276,
+      3.9782
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-168",
+    "name": "Eucalypt foliage.409",
+    "dimensions": [
+      1.358,
+      1.1768,
+      0.6354
+    ],
+    "position": [
+      -10.0319,
+      4.4261,
+      3.9129
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-169",
+    "name": "Eucalypt foliage.410",
+    "dimensions": [
+      1.5245,
+      1.0664,
+      0.619
+    ],
+    "position": [
+      -10.0109,
+      4.9297,
+      4.0059
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-170",
+    "name": "Eucalypt foliage.411",
+    "dimensions": [
+      1.432,
+      1.2089,
+      0.6545
+    ],
+    "position": [
+      -9.9822,
+      4.7548,
+      3.9291
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-171",
+    "name": "branch.118",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.1309
+    ],
+    "position": [
+      -8.5359,
+      4.7049,
+      3.3125
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-172",
+    "name": "Eucalypt foliage.412",
+    "dimensions": [
+      1.4137,
+      1.1488,
+      0.545
+    ],
+    "position": [
+      -8.3153,
+      4.3486,
+      4.4182
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-173",
+    "name": "Eucalypt foliage.413",
+    "dimensions": [
+      1.5474,
+      1.1018,
+      0.651
+    ],
+    "position": [
+      -7.8161,
+      4.6146,
+      4.5138
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-174",
+    "name": "Eucalypt foliage.414",
+    "dimensions": [
+      1.5127,
+      1.1091,
+      0.6404
+    ],
+    "position": [
+      -7.7051,
+      4.2,
+      4.0902
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-175",
+    "name": "Eucalypt foliage.415",
+    "dimensions": [
+      1.4644,
+      1.1553,
+      0.6125
+    ],
+    "position": [
+      -7.8081,
+      4.6476,
+      4.3106
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-176",
+    "name": "branch.119",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.2825
+    ],
+    "position": [
+      -9.1429,
+      5.5311,
+      3.4
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-177",
+    "name": "Eucalypt foliage.416",
+    "dimensions": [
+      1.5051,
+      1.1986,
+      0.6452
+    ],
+    "position": [
+      -9.5279,
+      6.3735,
+      4.2067
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-178",
+    "name": "Eucalypt foliage.417",
+    "dimensions": [
+      1.3526,
+      1.1299,
+      0.5575
+    ],
+    "position": [
+      -9.2357,
+      6.1772,
+      4.4207
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-179",
+    "name": "Eucalypt foliage.418",
+    "dimensions": [
+      1.5742,
+      1.2237,
+      0.6673
+    ],
+    "position": [
+      -9.3023,
+      6.0468,
+      4.5573
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-180",
+    "name": "Eucalypt foliage.419",
+    "dimensions": [
+      1.4203,
+      1.1526,
+      0.6399
+    ],
+    "position": [
+      -9.253,
+      6.1316,
+      4.6788
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-181",
+    "name": "Garden edge.019",
+    "dimensions": [
+      2.0,
+      5.0,
+      0.36
+    ],
+    "position": [
+      9.0,
+      -2.0,
+      0.18
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-182",
+    "name": "Mulch.019",
+    "dimensions": [
+      1.84,
+      4.84,
+      0.035
+    ],
+    "position": [
+      9.0,
+      -2.0,
+      0.37
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-183",
+    "name": "Native grass clump.664",
+    "dimensions": [
+      0.5182,
+      0.5984,
+      0.6261
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-184",
+    "name": "Native grass clump.665",
+    "dimensions": [
+      0.4792,
+      0.4374,
+      0.6309
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-185",
+    "name": "Native grass clump.666",
+    "dimensions": [
+      0.4992,
+      0.4952,
+      0.649
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-186",
+    "name": "Native grass clump.667",
+    "dimensions": [
+      0.4705,
+      0.4624,
+      0.65
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-187",
+    "name": "Native grass clump.668",
+    "dimensions": [
+      0.4065,
+      0.5141,
+      0.6409
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-188",
+    "name": "Native grass clump.669",
+    "dimensions": [
+      0.4508,
+      0.519,
+      0.5255
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-189",
+    "name": "Native grass clump.670",
+    "dimensions": [
+      0.527,
+      0.4867,
+      0.6045
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-190",
+    "name": "Native grass clump.671",
+    "dimensions": [
+      0.4145,
+      0.3713,
+      0.6325
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-191",
+    "name": "Native grass clump.672",
+    "dimensions": [
+      0.5415,
+      0.4701,
+      0.6427
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-192",
+    "name": "Native grass clump.673",
+    "dimensions": [
+      0.5155,
+      0.4808,
+      0.6375
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-193",
+    "name": "Native grass clump.674",
+    "dimensions": [
+      0.3809,
+      0.4185,
+      0.6221
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-194",
+    "name": "Native grass clump.675",
+    "dimensions": [
+      0.3531,
+      0.5247,
+      0.5757
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-195",
+    "name": "Native grass clump.676",
+    "dimensions": [
+      0.5682,
+      0.4875,
+      0.6412
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-196",
+    "name": "Native grass clump.677",
+    "dimensions": [
+      0.4988,
+      0.3952,
+      0.6241
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-197",
+    "name": "Native grass clump.678",
+    "dimensions": [
+      0.5202,
+      0.5008,
+      0.601
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-198",
+    "name": "Native grass clump.679",
+    "dimensions": [
+      0.4972,
+      0.5299,
+      0.6485
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-199",
+    "name": "Native grass clump.680",
+    "dimensions": [
+      0.4248,
+      0.4241,
+      0.5752
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-200",
+    "name": "Native grass clump.681",
+    "dimensions": [
+      0.5146,
+      0.3733,
+      0.6115
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-201",
+    "name": "Native grass clump.682",
+    "dimensions": [
+      0.4035,
+      0.4368,
+      0.6423
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-202",
+    "name": "Native grass clump.683",
+    "dimensions": [
+      0.3436,
+      0.3752,
+      0.6458
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-203",
+    "name": "Native grass clump.684",
+    "dimensions": [
+      0.3937,
+      0.5149,
+      0.6357
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-204",
+    "name": "Native grass clump.685",
+    "dimensions": [
+      0.4884,
+      0.5208,
+      0.6341
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-205",
+    "name": "Native grass clump.686",
+    "dimensions": [
+      0.4819,
+      0.3935,
+      0.5408
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-206",
+    "name": "Native grass clump.687",
+    "dimensions": [
+      0.5361,
+      0.5409,
+      0.6368
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-207",
+    "name": "Native grass clump.688",
+    "dimensions": [
+      0.3771,
+      0.5473,
+      0.6412
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-208",
+    "name": "Native grass clump.689",
+    "dimensions": [
+      0.4969,
+      0.5062,
+      0.639
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-209",
+    "name": "Native grass clump.690",
+    "dimensions": [
+      0.4697,
+      0.5695,
+      0.6451
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-210",
+    "name": "Native grass clump.691",
+    "dimensions": [
+      0.4936,
+      0.5105,
+      0.6091
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-211",
+    "name": "Native grass clump.692",
+    "dimensions": [
+      0.5073,
+      0.3279,
+      0.6192
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-212",
+    "name": "Native grass clump.693",
+    "dimensions": [
+      0.5857,
+      0.5499,
+      0.6398
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-213",
+    "name": "Native grass clump.694",
+    "dimensions": [
+      0.4492,
+      0.4756,
+      0.6478
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-214",
+    "name": "Native grass clump.695",
+    "dimensions": [
+      0.3898,
+      0.5021,
+      0.6111
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-215",
+    "name": "Native grass clump.696",
+    "dimensions": [
+      0.5715,
+      0.5401,
+      0.6462
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-216",
+    "name": "Native grass clump.697",
+    "dimensions": [
+      0.476,
+      0.5756,
+      0.6309
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-217",
+    "name": "Native grass clump.698",
+    "dimensions": [
+      0.4909,
+      0.3785,
+      0.6288
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-218",
+    "name": "Native grass clump.699",
+    "dimensions": [
+      0.5226,
+      0.5329,
+      0.6331
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-219",
+    "name": "Native grass clump.700",
+    "dimensions": [
+      0.4823,
+      0.5064,
+      0.6478
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-220",
+    "name": "Native grass clump.701",
+    "dimensions": [
+      0.4882,
+      0.5637,
+      0.6418
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-221",
+    "name": "Native grass clump.702",
+    "dimensions": [
+      0.4849,
+      0.4528,
+      0.6324
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-222",
+    "name": "Native grass clump.703",
+    "dimensions": [
+      0.4058,
+      0.4903,
+      0.6388
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-223",
+    "name": "branch.120",
+    "dimensions": [
+      0.22,
+      0.22,
+      3.6014
+    ],
+    "position": [
+      9.05,
+      5.0,
+      1.8
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-224",
+    "name": "branch.121",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.4534
+    ],
+    "position": [
+      9.55,
+      5.0,
+      2.875
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-225",
+    "name": "Eucalypt foliage.420",
+    "dimensions": [
+      1.4309,
+      1.2057,
+      0.6016
+    ],
+    "position": [
+      10.3689,
+      5.2734,
+      3.4461
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-226",
+    "name": "Eucalypt foliage.421",
+    "dimensions": [
+      1.3688,
+      1.2229,
+      0.6185
+    ],
+    "position": [
+      10.2959,
+      4.921,
+      3.4146
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-227",
+    "name": "Eucalypt foliage.422",
+    "dimensions": [
+      1.397,
+      1.1634,
+      0.6494
+    ],
+    "position": [
+      10.145,
+      5.1742,
+      3.2957
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-228",
+    "name": "Eucalypt foliage.423",
+    "dimensions": [
+      1.4519,
+      1.1228,
+      0.6121
+    ],
+    "position": [
+      10.5835,
+      5.1084,
+      3.5191
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-229",
+    "name": "branch.122",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.5734
+    ],
+    "position": [
+      8.5944,
+      5.3715,
+      2.9625
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-230",
+    "name": "Eucalypt foliage.424",
+    "dimensions": [
+      1.3526,
+      1.143,
+      0.6508
+    ],
+    "position": [
+      7.8338,
+      5.5945,
+      3.6836
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-231",
+    "name": "Eucalypt foliage.425",
+    "dimensions": [
+      1.4698,
+      1.2368,
+      0.6507
+    ],
+    "position": [
+      7.7078,
+      5.4777,
+      3.3758
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-232",
+    "name": "Eucalypt foliage.426",
+    "dimensions": [
+      1.4467,
+      1.0952,
+      0.6484
+    ],
+    "position": [
+      8.5772,
+      5.4042,
+      3.5304
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-233",
+    "name": "Eucalypt foliage.427",
+    "dimensions": [
+      1.6052,
+      1.2028,
+      0.6546
+    ],
+    "position": [
+      8.261,
+      5.7016,
+      3.4397
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-234",
+    "name": "branch.123",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.7029
+    ],
+    "position": [
+      9.0481,
+      4.4521,
+      3.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-235",
+    "name": "Eucalypt foliage.428",
+    "dimensions": [
+      1.4224,
+      1.2137,
+      0.6387
+    ],
+    "position": [
+      9.5398,
+      4.0327,
+      3.7902
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-236",
+    "name": "Eucalypt foliage.429",
+    "dimensions": [
+      1.5756,
+      1.2426,
+      0.648
+    ],
+    "position": [
+      9.5611,
+      3.6264,
+      3.6053
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-237",
+    "name": "Eucalypt foliage.430",
+    "dimensions": [
+      1.4999,
+      1.1618,
+      0.5928
+    ],
+    "position": [
+      8.6155,
+      3.5484,
+      3.8611
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-238",
+    "name": "Eucalypt foliage.431",
+    "dimensions": [
+      1.475,
+      1.098,
+      0.6254
+    ],
+    "position": [
+      9.0542,
+      3.5489,
+      3.542
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-239",
+    "name": "branch.124",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.84
+    ],
+    "position": [
+      9.3346,
+      5.4365,
+      3.1375
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-240",
+    "name": "Eucalypt foliage.432",
+    "dimensions": [
+      1.3381,
+      1.252,
+      0.6348
+    ],
+    "position": [
+      9.8671,
+      5.4361,
+      3.9124
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-241",
+    "name": "Eucalypt foliage.433",
+    "dimensions": [
+      1.5042,
+      1.1389,
+      0.6468
+    ],
+    "position": [
+      9.9689,
+      5.5557,
+      3.9556
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-242",
+    "name": "Eucalypt foliage.434",
+    "dimensions": [
+      1.467,
+      1.1794,
+      0.615
+    ],
+    "position": [
+      9.5875,
+      5.3785,
+      3.8867
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-243",
+    "name": "Eucalypt foliage.435",
+    "dimensions": [
+      1.4848,
+      1.2456,
+      0.6183
+    ],
+    "position": [
+      9.8431,
+      6.0066,
+      3.7728
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-244",
+    "name": "branch.125",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.9831
+    ],
+    "position": [
+      8.4584,
+      4.9041,
+      3.225
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-245",
+    "name": "Eucalypt foliage.436",
+    "dimensions": [
+      1.4438,
+      1.2476,
+      0.6186
+    ],
+    "position": [
+      8.0252,
+      4.699,
+      4.0184
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-246",
+    "name": "Eucalypt foliage.437",
+    "dimensions": [
+      1.5509,
+      1.1297,
+      0.5912
+    ],
+    "position": [
+      7.5975,
+      5.185,
+      3.8942
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-247",
+    "name": "Eucalypt foliage.438",
+    "dimensions": [
+      1.4337,
+      1.2251,
+      0.6363
+    ],
+    "position": [
+      7.445,
+      4.7965,
+      3.9766
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-248",
+    "name": "Eucalypt foliage.439",
+    "dimensions": [
+      1.5629,
+      1.144,
+      0.6447
+    ],
+    "position": [
+      8.0569,
+      5.1644,
+      4.1756
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-249",
+    "name": "branch.126",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.1309
+    ],
+    "position": [
+      9.4641,
+      4.7049,
+      3.3125
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-250",
+    "name": "Eucalypt foliage.440",
+    "dimensions": [
+      1.6259,
+      1.1347,
+      0.6295
+    ],
+    "position": [
+      9.7096,
+      4.2338,
+      4.3967
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-251",
+    "name": "Eucalypt foliage.441",
+    "dimensions": [
+      1.4813,
+      1.2243,
+      0.6289
+    ],
+    "position": [
+      10.0233,
+      4.2239,
+      4.4245
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-252",
+    "name": "Eucalypt foliage.442",
+    "dimensions": [
+      1.4131,
+      1.18,
+      0.6175
+    ],
+    "position": [
+      9.4598,
+      4.6921,
+      4.4719
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-253",
+    "name": "Eucalypt foliage.443",
+    "dimensions": [
+      1.5067,
+      1.1968,
+      0.6668
+    ],
+    "position": [
+      9.745,
+      3.9116,
+      4.4015
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-254",
+    "name": "branch.127",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.2825
+    ],
+    "position": [
+      8.8571,
+      5.5311,
+      3.4
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-255",
+    "name": "Eucalypt foliage.444",
+    "dimensions": [
+      1.4774,
+      1.1618,
+      0.6283
+    ],
+    "position": [
+      8.5138,
+      5.6266,
+      4.6617
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-256",
+    "name": "Eucalypt foliage.445",
+    "dimensions": [
+      1.5443,
+      1.1331,
+      0.6768
+    ],
+    "position": [
+      8.4735,
+      5.958,
+      4.5827
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-257",
+    "name": "Eucalypt foliage.446",
+    "dimensions": [
+      1.5221,
+      1.1369,
+      0.6412
+    ],
+    "position": [
+      8.752,
+      5.958,
+      4.2688
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-258",
+    "name": "Eucalypt foliage.447",
+    "dimensions": [
+      1.4962,
+      1.1974,
+      0.6659
+    ],
+    "position": [
+      8.6399,
+      6.3569,
+      4.3641
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-259",
+    "name": "Place identity.002",
+    "dimensions": [
+      3.0,
+      0.16,
+      1.6
+    ],
+    "position": [
+      -6.0,
+      -6.8,
+      1.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-COURTYARD-001-PART-260",
+    "name": "Text.020",
+    "dimensions": [
+      2.0982,
+      0.133,
+      0.004
+    ],
+    "position": [
+      -6.0,
+      -6.9,
+      1.5
+    ],
+    "approval": "Included in whole-item review"
+  }
+]

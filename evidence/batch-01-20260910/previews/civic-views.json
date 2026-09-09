@@ -1,0 +1,32 @@
+[
+  {
+    "kind": "overview",
+    "path": "/evidence/batch-01-20260910/previews/civic-overview.png",
+    "sha256": "e6d62bf0c67a87e7a52760904bd09b049277f8f6f3fdcb199d932f4919f7b5d4",
+    "camera": [
+      18.0,
+      -26.0,
+      20.0
+    ],
+    "target": [
+      0.0,
+      -1.7999999523162842,
+      1.100000023841858
+    ]
+  },
+  {
+    "kind": "walking",
+    "path": "/evidence/batch-01-20260910/previews/civic-walking.png",
+    "sha256": "1bd5b8dda8d3840db9cda53c2c1e89407850a26249f247bb0f672e893926e5af",
+    "camera": [
+      7.199999809265137,
+      -15.0,
+      1.649999976158142
+    ],
+    "target": [
+      0.0,
+      -4.0,
+      1.649999976158142
+    ]
+  }
+]

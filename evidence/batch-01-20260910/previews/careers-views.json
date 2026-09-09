@@ -1,0 +1,32 @@
+[
+  {
+    "kind": "overview",
+    "path": "/evidence/batch-01-20260910/previews/careers-overview.png",
+    "sha256": "3475902c5e03549e2f8b0cb58e955dfccef1ff8c75c22b21f84e47990dbeace2",
+    "camera": [
+      18.0,
+      -26.0,
+      20.0
+    ],
+    "target": [
+      0.0,
+      -1.7999999523162842,
+      1.100000023841858
+    ]
+  },
+  {
+    "kind": "walking",
+    "path": "/evidence/batch-01-20260910/previews/careers-walking.png",
+    "sha256": "b65a7414bccb126561d3e317bd9e681e263b63734ecc7391902ea0429f1eeed2",
+    "camera": [
+      4.800000190734863,
+      -14.0,
+      1.649999976158142
+    ],
+    "target": [
+      0.0,
+      -3.0,
+      1.649999976158142
+    ]
+  }
+]

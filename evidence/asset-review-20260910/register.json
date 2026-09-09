@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "CE-ASSET-REGISTER",
   "title": "Career Empire asset review register",
-  "changeId": "CE-CHANGE-20260910-24",
+  "changeId": "CE-CHANGE-20260910-25",
   "reviewPolicy": {
     "batchSizeLimit": 10,
     "approvalScope": "Overall appearance of the complete building/asset/scene item, including its listed parts unless Tania names exceptions",
@@ -20,10 +20,12 @@
     ],
     "requiredEvidence": "Exact user instruction, date, approver, item/batch revision and reviewed assembly/component snapshot; named exceptions if any.",
     "batchUnit": "Complete review item/package, not individual component parts",
-    "incompleteItemRule": "An item without its full assembly cannot receive whole-item approval. Component-specific decisions may be recorded explicitly; they do not imply item approval.",
+    "incompleteItemRule": "All ten complete appearance candidates must be presented together before requesting Batch 1 approval. Each decision covers its listed unflagged parts.",
     "exceptionRule": "Only named exceptions need component-specific follow-up. An unflagged wall, flower or other listed part does not require a separate approval.",
     "componentApprovalRequired": false,
-    "itemApprovalCoversListedComponents": true
+    "itemApprovalCoversListedComponents": true,
+    "currentBatchSize": 10,
+    "currentProductionAuthority": "Tania: ys go; confirmed Use these 10 complete places. This authorises Batch 1 production, not appearance acceptance or game release."
   },
   "assets": [
     {
@@ -395,6 +397,1301 @@
     {
       "id": "CE-ASSET-BATCH-001",
       "label": "Batch 1",
+      "revision": 2,
+      "status": "awaiting-review",
+      "items": [
+        {
+          "itemId": "CE-ITEM-STUDIO-001",
+          "revision": 2,
+          "assemblySha256": "8f13bdd2b3cb520fd0ea8b999494bfa7447d00f126d8902915406712ed063f41",
+          "componentVersions": [
+            {
+              "assetId": "CE-KIT-001",
+              "version": "0.1.0",
+              "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa"
+            },
+            {
+              "assetId": "CE-KIT-004",
+              "version": "0.1.0",
+              "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8"
+            },
+            {
+              "assetId": "CE-KIT-005",
+              "version": "0.1.0",
+              "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b"
+            },
+            {
+              "assetId": "CE-KIT-006",
+              "version": "0.1.0",
+              "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874"
+            },
+            {
+              "assetId": "CE-KIT-007",
+              "version": "0.1.0",
+              "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10"
+            },
+            {
+              "assetId": "CE-KIT-008",
+              "version": "0.1.0",
+              "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca"
+            },
+            {
+              "assetId": "CE-KIT-009",
+              "version": "0.1.0",
+              "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb"
+            },
+            {
+              "assetId": "CE-KIT-011",
+              "version": "0.1.0",
+              "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0"
+            },
+            {
+              "assetId": "CE-KIT-012",
+              "version": "0.1.0",
+              "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3"
+            },
+            {
+              "assetId": "CE-KIT-014",
+              "version": "0.1.0",
+              "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a"
+            }
+          ]
+        },
+        {
+          "itemId": "CE-ITEM-ARRIVAL-001",
+          "revision": 1,
+          "assemblySha256": "6242fa65c810ba71610deaf354601082052c95511678b49f4fab3b9f265d92b8",
+          "componentVersions": [
+            {
+              "assetId": "CE-KIT-014",
+              "version": "0.1.0",
+              "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a"
+            }
+          ]
+        },
+        {
+          "itemId": "CE-ITEM-EST-001",
+          "revision": 1,
+          "assemblySha256": "2a1e93619d0146d91c6c9f223f0bc4872ac22a4ad35177c766bc342d1a939e3b",
+          "componentVersions": [
+            {
+              "assetId": "CE-KIT-001",
+              "version": "0.1.0",
+              "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa"
+            },
+            {
+              "assetId": "CE-KIT-004",
+              "version": "0.1.0",
+              "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8"
+            },
+            {
+              "assetId": "CE-KIT-005",
+              "version": "0.1.0",
+              "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b"
+            },
+            {
+              "assetId": "CE-KIT-006",
+              "version": "0.1.0",
+              "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874"
+            },
+            {
+              "assetId": "CE-KIT-007",
+              "version": "0.1.0",
+              "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10"
+            },
+            {
+              "assetId": "CE-KIT-008",
+              "version": "0.1.0",
+              "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca"
+            },
+            {
+              "assetId": "CE-KIT-009",
+              "version": "0.1.0",
+              "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb"
+            },
+            {
+              "assetId": "CE-KIT-011",
+              "version": "0.1.0",
+              "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0"
+            },
+            {
+              "assetId": "CE-KIT-012",
+              "version": "0.1.0",
+              "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3"
+            },
+            {
+              "assetId": "CE-KIT-014",
+              "version": "0.1.0",
+              "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a"
+            }
+          ]
+        },
+        {
+          "itemId": "CE-ITEM-CIVIC-001",
+          "revision": 1,
+          "assemblySha256": "1a665b66d011e7abef1b78b6b30acfc3a5b409791dd8761e113a3662c3fa439d",
+          "componentVersions": [
+            {
+              "assetId": "CE-KIT-001",
+              "version": "0.1.0",
+              "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa"
+            },
+            {
+              "assetId": "CE-KIT-004",
+              "version": "0.1.0",
+              "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8"
+            },
+            {
+              "assetId": "CE-KIT-005",
+              "version": "0.1.0",
+              "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b"
+            },
+            {
+              "assetId": "CE-KIT-006",
+              "version": "0.1.0",
+              "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874"
+            },
+            {
+              "assetId": "CE-KIT-007",
+              "version": "0.1.0",
+              "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10"
+            },
+            {
+              "assetId": "CE-KIT-008",
+              "version": "0.1.0",
+              "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca"
+            },
+            {
+              "assetId": "CE-KIT-009",
+              "version": "0.1.0",
+              "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb"
+            },
+            {
+              "assetId": "CE-KIT-011",
+              "version": "0.1.0",
+              "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0"
+            },
+            {
+              "assetId": "CE-KIT-012",
+              "version": "0.1.0",
+              "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3"
+            },
+            {
+              "assetId": "CE-KIT-014",
+              "version": "0.1.0",
+              "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a"
+            }
+          ]
+        },
+        {
+          "itemId": "CE-ITEM-CAREERS-001",
+          "revision": 1,
+          "assemblySha256": "c419c7fea6dfec869787bbb7bb977b4c69eaa5c8ada66d9e136f0fdd498793f4",
+          "componentVersions": [
+            {
+              "assetId": "CE-KIT-001",
+              "version": "0.1.0",
+              "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa"
+            },
+            {
+              "assetId": "CE-KIT-004",
+              "version": "0.1.0",
+              "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8"
+            },
+            {
+              "assetId": "CE-KIT-005",
+              "version": "0.1.0",
+              "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b"
+            },
+            {
+              "assetId": "CE-KIT-006",
+              "version": "0.1.0",
+              "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874"
+            },
+            {
+              "assetId": "CE-KIT-007",
+              "version": "0.1.0",
+              "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10"
+            },
+            {
+              "assetId": "CE-KIT-008",
+              "version": "0.1.0",
+              "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca"
+            },
+            {
+              "assetId": "CE-KIT-009",
+              "version": "0.1.0",
+              "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb"
+            },
+            {
+              "assetId": "CE-KIT-011",
+              "version": "0.1.0",
+              "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0"
+            },
+            {
+              "assetId": "CE-KIT-012",
+              "version": "0.1.0",
+              "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3"
+            },
+            {
+              "assetId": "CE-KIT-014",
+              "version": "0.1.0",
+              "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a"
+            }
+          ]
+        },
+        {
+          "itemId": "CE-ITEM-WORKPLACE-001",
+          "revision": 1,
+          "assemblySha256": "e0978d287a56c32c91bf2b3edd4b90490286b413d6af75574edc94da758cc709",
+          "componentVersions": [
+            {
+              "assetId": "CE-KIT-001",
+              "version": "0.1.0",
+              "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa"
+            },
+            {
+              "assetId": "CE-KIT-004",
+              "version": "0.1.0",
+              "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8"
+            },
+            {
+              "assetId": "CE-KIT-005",
+              "version": "0.1.0",
+              "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b"
+            },
+            {
+              "assetId": "CE-KIT-006",
+              "version": "0.1.0",
+              "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874"
+            },
+            {
+              "assetId": "CE-KIT-007",
+              "version": "0.1.0",
+              "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10"
+            },
+            {
+              "assetId": "CE-KIT-008",
+              "version": "0.1.0",
+              "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca"
+            },
+            {
+              "assetId": "CE-KIT-009",
+              "version": "0.1.0",
+              "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb"
+            },
+            {
+              "assetId": "CE-KIT-011",
+              "version": "0.1.0",
+              "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0"
+            },
+            {
+              "assetId": "CE-KIT-012",
+              "version": "0.1.0",
+              "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3"
+            },
+            {
+              "assetId": "CE-KIT-014",
+              "version": "0.1.0",
+              "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a"
+            }
+          ]
+        },
+        {
+          "itemId": "CE-ITEM-GARDEN-001",
+          "revision": 1,
+          "assemblySha256": "506eaebf8ed36cbeaf12637ec5dc4cbf9fc907df7a79c0d8f687253c81645c63",
+          "componentVersions": [
+            {
+              "assetId": "CE-KIT-014",
+              "version": "0.1.0",
+              "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a"
+            }
+          ]
+        },
+        {
+          "itemId": "CE-ITEM-COURTYARD-001",
+          "revision": 1,
+          "assemblySha256": "7cbd0a1031801a0bfae3460bfa95153309ea6373e8b46b0ff4f9557b49db05b9",
+          "componentVersions": [
+            {
+              "assetId": "CE-KIT-014",
+              "version": "0.1.0",
+              "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a"
+            }
+          ]
+        },
+        {
+          "itemId": "CE-ITEM-TRANSPORT-001",
+          "revision": 1,
+          "assemblySha256": "bfdb98b4369b402ee4380b95958a7dc1e121203b1095109ff9d228d2b8de7a48",
+          "componentVersions": [
+            {
+              "assetId": "CE-KIT-004",
+              "version": "0.1.0",
+              "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8"
+            },
+            {
+              "assetId": "CE-KIT-014",
+              "version": "0.1.0",
+              "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a"
+            }
+          ]
+        },
+        {
+          "itemId": "CE-ITEM-MARKET-001",
+          "revision": 1,
+          "assemblySha256": "81039bab57031b4d92da105afcaff9a2edc9dc2e36f1b14b618c1e7f637b6066",
+          "componentVersions": []
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "CE-ITEM-STUDIO-001",
+      "number": 1,
+      "name": "Avatar Studio",
+      "revision": 2,
+      "description": "Character identity and appearance; existing Studio reference. One complete appearance candidate including its own parts and immediate surroundings.",
+      "buildStatus": "complete",
+      "readiness": "Complete visual assembly, exported and reviewed as a candidate. Runtime collision, interactions, school-device performance and classroom acceptance are separate later work.",
+      "assembly": {
+        "model": "/evidence/batch-01-20260910/models/studio.glb",
+        "sha256": "8f13bdd2b3cb520fd0ea8b999494bfa7447d00f126d8902915406712ed063f41",
+        "triangles": 31132,
+        "bytes": 4664648
+      },
+      "preview": "/evidence/batch-01-20260910/previews/studio-overview.png",
+      "previewSha256": "d759304cec62626a447218d031daa38d7713ecc0bae6ef16b154ea7be58a53d8",
+      "previewKind": "Actual exported whole-item overview",
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/studio-overview.png",
+          "sha256": "d759304cec62626a447218d031daa38d7713ecc0bae6ef16b154ea7be58a53d8",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/studio-walking.png",
+          "sha256": "89928b0da23c2405dfb800e968fcc3f879e466989feab1b557dc74409f0d5ea7",
+          "camera": [
+            4.800000190734863,
+            -14.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -3.0,
+            1.649999976158142
+          ]
+        }
+      ],
+      "components": [
+        {
+          "assetId": "CE-KIT-001",
+          "version": "0.1.0",
+          "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-004",
+          "version": "0.1.0",
+          "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-005",
+          "version": "0.1.0",
+          "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-006",
+          "version": "0.1.0",
+          "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-007",
+          "version": "0.1.0",
+          "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-008",
+          "version": "0.1.0",
+          "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-009",
+          "version": "0.1.0",
+          "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-011",
+          "version": "0.1.0",
+          "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-012",
+          "version": "0.1.0",
+          "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-014",
+          "version": "0.1.0",
+          "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a",
+          "group": "Existing kit sources"
+        }
+      ],
+      "componentCount": 225,
+      "partsManifest": "/evidence/batch-01-20260910/parts/studio.json",
+      "partsSha256": "9ce1d2efdb5cbe0da4e0ab725bd0caf82a444b58bd3e951e57c833374f1e3d58",
+      "source": "V2-D01 / experience Someone I want to become",
+      "approval": {
+        "status": "awaiting-review",
+        "scope": "Whole item including all its parts; review as part of Batch 1",
+        "history": []
+      }
+    },
+    {
+      "id": "CE-ITEM-ARRIVAL-001",
+      "number": 2,
+      "name": "Arrival Pavilion",
+      "revision": 1,
+      "description": "Orient the arriving student and show destinations. One complete appearance candidate including its own parts and immediate surroundings.",
+      "buildStatus": "complete",
+      "readiness": "Complete visual assembly, exported and reviewed as a candidate. Runtime collision, interactions, school-device performance and classroom acceptance are separate later work.",
+      "assembly": {
+        "model": "/evidence/batch-01-20260910/models/arrival.glb",
+        "sha256": "6242fa65c810ba71610deaf354601082052c95511678b49f4fab3b9f265d92b8",
+        "triangles": 16368,
+        "bytes": 4489388
+      },
+      "preview": "/evidence/batch-01-20260910/previews/arrival-overview.png",
+      "previewSha256": "40a36e816a4812f6de7492710f51ec6115d43f664f8e29a55ca130ea55304df2",
+      "previewKind": "Actual exported whole-item overview",
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/arrival-overview.png",
+          "sha256": "40a36e816a4812f6de7492710f51ec6115d43f664f8e29a55ca130ea55304df2",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/arrival-walking.png",
+          "sha256": "10f07e20112a8cc4545310633944e11be05f89ff05e2a67ce9ead9d6021ee2e7",
+          "camera": [
+            6.0,
+            -14.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -3.0,
+            1.649999976158142
+          ]
+        }
+      ],
+      "components": [
+        {
+          "assetId": "CE-KIT-014",
+          "version": "0.1.0",
+          "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a",
+          "group": "Existing kit sources"
+        }
+      ],
+      "componentCount": 200,
+      "partsManifest": "/evidence/batch-01-20260910/parts/arrival.json",
+      "partsSha256": "e91398c586db4d3bc77812779889316910dafdba7eb24b30e4b79aa170657450",
+      "source": "Existing arrival and player journey",
+      "approval": {
+        "status": "awaiting-review",
+        "scope": "Whole item including all its parts; review as part of Batch 1",
+        "history": []
+      }
+    },
+    {
+      "id": "CE-ITEM-EST-001",
+      "number": 3,
+      "name": "EST Prep Lab",
+      "revision": 1,
+      "description": "Visible CORE, TERM, VTCS and BOSS learning stations. One complete appearance candidate including its own parts and immediate surroundings.",
+      "buildStatus": "complete",
+      "readiness": "Complete visual assembly, exported and reviewed as a candidate. Runtime collision, interactions, school-device performance and classroom acceptance are separate later work.",
+      "assembly": {
+        "model": "/evidence/batch-01-20260910/models/est.glb",
+        "sha256": "2a1e93619d0146d91c6c9f223f0bc4872ac22a4ad35177c766bc342d1a939e3b",
+        "triangles": 37664,
+        "bytes": 4771060
+      },
+      "preview": "/evidence/batch-01-20260910/previews/est-overview.png",
+      "previewSha256": "f9708370b30ddf80c144f5a55799f4a5bb2296d011438c2ad1ba1998fba31e65",
+      "previewKind": "Actual exported whole-item overview",
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/est-overview.png",
+          "sha256": "f9708370b30ddf80c144f5a55799f4a5bb2296d011438c2ad1ba1998fba31e65",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/est-walking.png",
+          "sha256": "3494fd6aefd2f69f2e672720910f47ab445739146b7662cedb7e30a97c5da07d",
+          "camera": [
+            7.199999809265137,
+            -15.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -4.0,
+            1.649999976158142
+          ]
+        }
+      ],
+      "components": [
+        {
+          "assetId": "CE-KIT-001",
+          "version": "0.1.0",
+          "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-004",
+          "version": "0.1.0",
+          "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-005",
+          "version": "0.1.0",
+          "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-006",
+          "version": "0.1.0",
+          "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-007",
+          "version": "0.1.0",
+          "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-008",
+          "version": "0.1.0",
+          "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-009",
+          "version": "0.1.0",
+          "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-011",
+          "version": "0.1.0",
+          "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-012",
+          "version": "0.1.0",
+          "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-014",
+          "version": "0.1.0",
+          "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a",
+          "group": "Existing kit sources"
+        }
+      ],
+      "componentCount": 248,
+      "partsManifest": "/evidence/batch-01-20260910/parts/est.json",
+      "partsSha256": "a35efdf586419c65dd5df0fe193539594c4803f9423c011bf4ac0fae2551a4df",
+      "source": "Existing EST Prep route; no new learning rules",
+      "approval": {
+        "status": "awaiting-review",
+        "scope": "Whole item including all its parts; review as part of Batch 1",
+        "history": []
+      }
+    },
+    {
+      "id": "CE-ITEM-CIVIC-001",
+      "number": 4,
+      "name": "Civic Hall",
+      "revision": 1,
+      "description": "Shared town decisions and visible community contributions. One complete appearance candidate including its own parts and immediate surroundings.",
+      "buildStatus": "complete",
+      "readiness": "Complete visual assembly, exported and reviewed as a candidate. Runtime collision, interactions, school-device performance and classroom acceptance are separate later work.",
+      "assembly": {
+        "model": "/evidence/batch-01-20260910/models/civic.glb",
+        "sha256": "1a665b66d011e7abef1b78b6b30acfc3a5b409791dd8761e113a3662c3fa439d",
+        "triangles": 37056,
+        "bytes": 4723668
+      },
+      "preview": "/evidence/batch-01-20260910/previews/civic-overview.png",
+      "previewSha256": "e6d62bf0c67a87e7a52760904bd09b049277f8f6f3fdcb199d932f4919f7b5d4",
+      "previewKind": "Actual exported whole-item overview",
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/civic-overview.png",
+          "sha256": "e6d62bf0c67a87e7a52760904bd09b049277f8f6f3fdcb199d932f4919f7b5d4",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/civic-walking.png",
+          "sha256": "1bd5b8dda8d3840db9cda53c2c1e89407850a26249f247bb0f672e893926e5af",
+          "camera": [
+            7.199999809265137,
+            -15.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -4.0,
+            1.649999976158142
+          ]
+        }
+      ],
+      "components": [
+        {
+          "assetId": "CE-KIT-001",
+          "version": "0.1.0",
+          "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-004",
+          "version": "0.1.0",
+          "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-005",
+          "version": "0.1.0",
+          "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-006",
+          "version": "0.1.0",
+          "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-007",
+          "version": "0.1.0",
+          "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-008",
+          "version": "0.1.0",
+          "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-009",
+          "version": "0.1.0",
+          "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-011",
+          "version": "0.1.0",
+          "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-012",
+          "version": "0.1.0",
+          "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-014",
+          "version": "0.1.0",
+          "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a",
+          "group": "Existing kit sources"
+        }
+      ],
+      "componentCount": 261,
+      "partsManifest": "/evidence/batch-01-20260910/parts/civic.json",
+      "partsSha256": "e653c509f1f490a74d32d7e402f48cbd0dcde99a87ece805f7a4e4a94e4dda3e",
+      "source": "Experience What should our town fund?",
+      "approval": {
+        "status": "awaiting-review",
+        "scope": "Whole item including all its parts; review as part of Batch 1",
+        "history": []
+      }
+    },
+    {
+      "id": "CE-ITEM-CAREERS-001",
+      "number": 5,
+      "name": "Careers Advice Centre",
+      "revision": 1,
+      "description": "Find pathways and discuss options. One complete appearance candidate including its own parts and immediate surroundings.",
+      "buildStatus": "complete",
+      "readiness": "Complete visual assembly, exported and reviewed as a candidate. Runtime collision, interactions, school-device performance and classroom acceptance are separate later work.",
+      "assembly": {
+        "model": "/evidence/batch-01-20260910/models/careers.glb",
+        "sha256": "c419c7fea6dfec869787bbb7bb977b4c69eaa5c8ada66d9e136f0fdd498793f4",
+        "triangles": 34600,
+        "bytes": 4774924
+      },
+      "preview": "/evidence/batch-01-20260910/previews/careers-overview.png",
+      "previewSha256": "3475902c5e03549e2f8b0cb58e955dfccef1ff8c75c22b21f84e47990dbeace2",
+      "previewKind": "Actual exported whole-item overview",
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/careers-overview.png",
+          "sha256": "3475902c5e03549e2f8b0cb58e955dfccef1ff8c75c22b21f84e47990dbeace2",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/careers-walking.png",
+          "sha256": "b65a7414bccb126561d3e317bd9e681e263b63734ecc7391902ea0429f1eeed2",
+          "camera": [
+            4.800000190734863,
+            -14.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -3.0,
+            1.649999976158142
+          ]
+        }
+      ],
+      "components": [
+        {
+          "assetId": "CE-KIT-001",
+          "version": "0.1.0",
+          "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-004",
+          "version": "0.1.0",
+          "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-005",
+          "version": "0.1.0",
+          "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-006",
+          "version": "0.1.0",
+          "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-007",
+          "version": "0.1.0",
+          "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-008",
+          "version": "0.1.0",
+          "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-009",
+          "version": "0.1.0",
+          "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-011",
+          "version": "0.1.0",
+          "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-012",
+          "version": "0.1.0",
+          "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-014",
+          "version": "0.1.0",
+          "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a",
+          "group": "Existing kit sources"
+        }
+      ],
+      "componentCount": 230,
+      "partsManifest": "/evidence/batch-01-20260910/parts/careers.json",
+      "partsSha256": "ef967c9e38a439235251b2aaaa25712cb9a72b86b7437e6bcd8b65374fb4d6a7",
+      "source": "Advice service and Which future should I trust?",
+      "approval": {
+        "status": "awaiting-review",
+        "scope": "Whole item including all its parts; review as part of Batch 1",
+        "history": []
+      }
+    },
+    {
+      "id": "CE-ITEM-WORKPLACE-001",
+      "number": 6,
+      "name": "First Workplace",
+      "revision": 1,
+      "description": "Teamwork, interviews and workplace encounters. One complete appearance candidate including its own parts and immediate surroundings.",
+      "buildStatus": "complete",
+      "readiness": "Complete visual assembly, exported and reviewed as a candidate. Runtime collision, interactions, school-device performance and classroom acceptance are separate later work.",
+      "assembly": {
+        "model": "/evidence/batch-01-20260910/models/workplace.glb",
+        "sha256": "e0978d287a56c32c91bf2b3edd4b90490286b413d6af75574edc94da758cc709",
+        "triangles": 33706,
+        "bytes": 4674972
+      },
+      "preview": "/evidence/batch-01-20260910/previews/workplace-overview.png",
+      "previewSha256": "e80cc2608f0aa29cb3d43c061e09dd02f9e81abfd66300ab13a32e000650a42a",
+      "previewKind": "Actual exported whole-item overview",
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/workplace-overview.png",
+          "sha256": "e80cc2608f0aa29cb3d43c061e09dd02f9e81abfd66300ab13a32e000650a42a",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/workplace-walking.png",
+          "sha256": "0fc11143049fbfc28f1b9629a204eac61dd7d7530245da2477db9c533e9f61b7",
+          "camera": [
+            7.199999809265137,
+            -15.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -4.0,
+            1.649999976158142
+          ]
+        }
+      ],
+      "components": [
+        {
+          "assetId": "CE-KIT-001",
+          "version": "0.1.0",
+          "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-004",
+          "version": "0.1.0",
+          "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-005",
+          "version": "0.1.0",
+          "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-006",
+          "version": "0.1.0",
+          "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-007",
+          "version": "0.1.0",
+          "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-008",
+          "version": "0.1.0",
+          "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-009",
+          "version": "0.1.0",
+          "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-011",
+          "version": "0.1.0",
+          "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-012",
+          "version": "0.1.0",
+          "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-014",
+          "version": "0.1.0",
+          "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a",
+          "group": "Existing kit sources"
+        }
+      ],
+      "componentCount": 275,
+      "partsManifest": "/evidence/batch-01-20260910/parts/workplace.json",
+      "partsSha256": "52854a74a674dfc16c1fedbf9fe10e88d31e821cbd33893fe00467f705d0cfce",
+      "source": "Existing workplace experience crosswalk",
+      "approval": {
+        "status": "awaiting-review",
+        "scope": "Whole item including all its parts; review as part of Batch 1",
+        "history": []
+      }
+    },
+    {
+      "id": "CE-ITEM-GARDEN-001",
+      "number": 7,
+      "name": "Community Garden",
+      "revision": 1,
+      "description": "A shared outdoor place for quiet encounters and discovery. One complete appearance candidate including its own parts and immediate surroundings.",
+      "buildStatus": "complete",
+      "readiness": "Complete visual assembly, exported and reviewed as a candidate. Runtime collision, interactions, school-device performance and classroom acceptance are separate later work.",
+      "assembly": {
+        "model": "/evidence/batch-01-20260910/models/garden.glb",
+        "sha256": "506eaebf8ed36cbeaf12637ec5dc4cbf9fc907df7a79c0d8f687253c81645c63",
+        "triangles": 12796,
+        "bytes": 4415648
+      },
+      "preview": "/evidence/batch-01-20260910/previews/garden-overview.png",
+      "previewSha256": "4847a3c670f4b94241954104579293f983a0f43153bd2c54a438e0924997ceb2",
+      "previewKind": "Actual exported whole-item overview",
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/garden-overview.png",
+          "sha256": "4847a3c670f4b94241954104579293f983a0f43153bd2c54a438e0924997ceb2",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/garden-walking.png",
+          "sha256": "c9b5cf0ce42c03878696a1bd392efaf9f92437d0643d123cff9aff831e05e44f",
+          "camera": [
+            8.399999618530273,
+            -17.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -6.0,
+            1.649999976158142
+          ]
+        }
+      ],
+      "components": [
+        {
+          "assetId": "CE-KIT-014",
+          "version": "0.1.0",
+          "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a",
+          "group": "Existing kit sources"
+        }
+      ],
+      "componentCount": 263,
+      "partsManifest": "/evidence/batch-01-20260910/parts/garden.json",
+      "partsSha256": "7646f005d28ba84469449fde434ffbd6a669fcafccc34043647878a331cb53ea",
+      "source": "Community growth and optional discovery candidate",
+      "approval": {
+        "status": "awaiting-review",
+        "scope": "Whole item including all its parts; review as part of Batch 1",
+        "history": []
+      }
+    },
+    {
+      "id": "CE-ITEM-COURTYARD-001",
+      "number": 8,
+      "name": "Learning Courtyard",
+      "revision": 1,
+      "description": "Peer gathering and supported reflection outdoors. One complete appearance candidate including its own parts and immediate surroundings.",
+      "buildStatus": "complete",
+      "readiness": "Complete visual assembly, exported and reviewed as a candidate. Runtime collision, interactions, school-device performance and classroom acceptance are separate later work.",
+      "assembly": {
+        "model": "/evidence/batch-01-20260910/models/courtyard.glb",
+        "sha256": "7cbd0a1031801a0bfae3460bfa95153309ea6373e8b46b0ff4f9557b49db05b9",
+        "triangles": 16056,
+        "bytes": 4581984
+      },
+      "preview": "/evidence/batch-01-20260910/previews/courtyard-overview.png",
+      "previewSha256": "da332182ed3261ffec47743e83db91f642fcb2b5b5bd8826faf0632cdc596857",
+      "previewKind": "Actual exported whole-item overview",
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/courtyard-overview.png",
+          "sha256": "da332182ed3261ffec47743e83db91f642fcb2b5b5bd8826faf0632cdc596857",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/courtyard-walking.png",
+          "sha256": "0c9b1a35ef72a3ac326ab00098dab581c4f46a8a46660d0ba170fea2183335e6",
+          "camera": [
+            8.399999618530273,
+            -17.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -6.0,
+            1.649999976158142
+          ]
+        }
+      ],
+      "components": [
+        {
+          "assetId": "CE-KIT-014",
+          "version": "0.1.0",
+          "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a",
+          "group": "Existing kit sources"
+        }
+      ],
+      "componentCount": 260,
+      "partsManifest": "/evidence/batch-01-20260910/parts/courtyard.json",
+      "partsSha256": "bdd1ecf6e2c640e82db0c93af70792d43ba9db7277dddc0e5c488107dd1b3013",
+      "source": "Approved campus courtyard visual",
+      "approval": {
+        "status": "awaiting-review",
+        "scope": "Whole item including all its parts; review as part of Batch 1",
+        "history": []
+      }
+    },
+    {
+      "id": "CE-ITEM-TRANSPORT-001",
+      "number": 9,
+      "name": "Transport Stop",
+      "revision": 1,
+      "description": "Readable arrival and departure point within the campus. One complete appearance candidate including its own parts and immediate surroundings.",
+      "buildStatus": "complete",
+      "readiness": "Complete visual assembly, exported and reviewed as a candidate. Runtime collision, interactions, school-device performance and classroom acceptance are separate later work.",
+      "assembly": {
+        "model": "/evidence/batch-01-20260910/models/transport.glb",
+        "sha256": "bfdb98b4369b402ee4380b95958a7dc1e121203b1095109ff9d228d2b8de7a48",
+        "triangles": 15704,
+        "bytes": 4424488
+      },
+      "preview": "/evidence/batch-01-20260910/previews/transport-overview.png",
+      "previewSha256": "d26b8ee3a396009c5f9117a933a39c2ccf525c1ee22afd58bc980610555153fd",
+      "previewKind": "Actual exported whole-item overview",
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/transport-overview.png",
+          "sha256": "d26b8ee3a396009c5f9117a933a39c2ccf525c1ee22afd58bc980610555153fd",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/transport-walking.png",
+          "sha256": "870483d96331fb376ad77dede196d5f4652d1ddd040e363ff386970d50b1752c",
+          "camera": [
+            7.199999809265137,
+            -14.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -3.0,
+            1.649999976158142
+          ]
+        }
+      ],
+      "components": [
+        {
+          "assetId": "CE-KIT-004",
+          "version": "0.1.0",
+          "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8",
+          "group": "Existing kit sources"
+        },
+        {
+          "assetId": "CE-KIT-014",
+          "version": "0.1.0",
+          "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a",
+          "group": "Existing kit sources"
+        }
+      ],
+      "componentCount": 201,
+      "partsManifest": "/evidence/batch-01-20260910/parts/transport.json",
+      "partsSha256": "7ace424a50c665b5ae40cbd0a05ade3780baa3da550c9add0b479016ce3ff8ca",
+      "source": "Arrival/access environmental candidate; no global portal",
+      "approval": {
+        "status": "awaiting-review",
+        "scope": "Whole item including all its parts; review as part of Batch 1",
+        "history": []
+      }
+    },
+    {
+      "id": "CE-ITEM-MARKET-001",
+      "number": 10,
+      "name": "Community Market",
+      "revision": 1,
+      "description": "Local work and community encounter setting. One complete appearance candidate including its own parts and immediate surroundings.",
+      "buildStatus": "complete",
+      "readiness": "Complete visual assembly, exported and reviewed as a candidate. Runtime collision, interactions, school-device performance and classroom acceptance are separate later work.",
+      "assembly": {
+        "model": "/evidence/batch-01-20260910/models/market.glb",
+        "sha256": "81039bab57031b4d92da105afcaff9a2edc9dc2e36f1b14b618c1e7f637b6066",
+        "triangles": 17216,
+        "bytes": 4628656
+      },
+      "preview": "/evidence/batch-01-20260910/previews/market-overview.png",
+      "previewSha256": "1c60aa498db84bb0337eb36f902addd8c8d5c550dc6a820209dcb2f84b73c1e8",
+      "previewKind": "Actual exported whole-item overview",
+      "views": [
+        {
+          "kind": "overview",
+          "path": "/evidence/batch-01-20260910/previews/market-overview.png",
+          "sha256": "1c60aa498db84bb0337eb36f902addd8c8d5c550dc6a820209dcb2f84b73c1e8",
+          "camera": [
+            18.0,
+            -26.0,
+            20.0
+          ],
+          "target": [
+            0.0,
+            -1.7999999523162842,
+            1.100000023841858
+          ]
+        },
+        {
+          "kind": "walking",
+          "path": "/evidence/batch-01-20260910/previews/market-walking.png",
+          "sha256": "ab5c92dc8a351290cde6224d6bdf4a0d4f75167aa04f94d7ad781c629fbab78b",
+          "camera": [
+            8.399999618530273,
+            -16.0,
+            1.649999976158142
+          ],
+          "target": [
+            0.0,
+            -5.0,
+            1.649999976158142
+          ]
+        }
+      ],
+      "components": [],
+      "componentCount": 252,
+      "partsManifest": "/evidence/batch-01-20260910/parts/market.json",
+      "partsSha256": "1a1249f2e9d2bc40bd062c4c02f4f1a06c8d49b0a96e64f8e2f4df0e52536218",
+      "source": "Workplace/community environmental candidate; no new economy rules",
+      "approval": {
+        "status": "awaiting-review",
+        "scope": "Whole item including all its parts; review as part of Batch 1",
+        "history": []
+      }
+    }
+  ],
+  "batchHistory": [
+    {
+      "id": "CE-ASSET-BATCH-001",
+      "label": "Batch 1",
       "revision": 1,
       "status": "awaiting-assembly",
       "scope": "Complete asset items and their component parts",
@@ -479,7 +1776,7 @@
       ]
     }
   ],
-  "items": [
+  "itemHistory": [
     {
       "id": "CE-ITEM-STUDIO-001",
       "number": 1,

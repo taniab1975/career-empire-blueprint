@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "revision": "V2.14 / 10 September 2026",
+  "revision": "V2.15 / 10 September 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -25,10 +25,10 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.14",
+      "id": "V2.15",
       "date": "2026-09-10",
-      "label": "V2.14 / 10 September 2026",
-      "status": "Whole-item review register published and independently verified; no asset approvals recorded",
+      "label": "V2.15 / 10 September 2026",
+      "status": "Ten complete appearance candidates prepared; publication checks underway",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -188,18 +188,18 @@
     },
     "currentStep": {
       "id": "CE-ENV-01",
-      "title": "Review complete items, with their parts included",
-      "status": "Avatar Studio package incomplete; no overall approval recorded",
+      "title": "Review Batch 1: ten complete places",
+      "status": "10 complete appearance candidates; 0 approved",
       "owner": "Environment integrator; Tania: appearance and placement acceptance",
       "href": "/evidence/asset-review-20260910/index.html",
-      "actionLabel": "Open the whole-item asset register",
+      "actionLabel": "Review all 10 items",
       "decisionIds": [
         "V2-D07",
         "V2-D08",
         "V2-D17"
       ],
-      "nextAction": "Review complete buildings/assets/scenes as whole items, up to10 items per batch. Overall approval covers their component parts unless Tania flags exceptions. The current Avatar Studio package contains14 existing parts but no complete Studio assembly; it is not ready for whole-building approval. No new construction is started by this workflow.",
-      "doneWhen": "A complete item is shown and Tania approves its overall appearance or gives exceptions. No separate approval is required for each wall, flower or component. Later material appearance changes return for review; routine technical changes retain documented design lineage.",
+      "nextAction": "Review all ten complete places together. Approve Batch 1 or name exceptions by item number; each decision covers its included parts. Resolve named changes before later map/runtime integration.",
+      "doneWhen": "All ten complete items have paired overview/walking views and model evidence; Tania records the batch decision and any named exceptions. No wall or flower needs separate approval.",
       "boundary": "Blazer remains paused. Existing campus references control appearance. No paid generation, classroom acceptance, economy changes or live game release is implied. This does not approve a finished precinct or resume wardrobe production."
     },
     "roadmap": [
@@ -226,12 +226,12 @@
       {
         "id": "CE-ENV-01",
         "horizon": "Now",
-        "title": "Complete the Avatar Studio precinct candidate",
+        "title": "Review the first ten complete Career World places",
         "owner": "Environment integrator; Tania: appearance and placement acceptance",
-        "status": "Whole-item register: Avatar Studio assembly incomplete; 0 items approved",
-        "dependency": "A complete assembled item for overall visual review; no wall-by-wall or flower-by-flower approvals",
-        "doneWhen": "Player-height Studio/garden/path/plaza candidate matches approved concepts, passes functional/performance review and receives explicit precinct acceptance before release.",
-        "href": "#delivery"
+        "status": "Batch 1 built: 10 items awaiting grouped appearance review",
+        "dependency": "Confirmed ten-item scope; layout, assembly, surroundings and checks remain distinct stages",
+        "doneWhen": "All ten complete items have paired overview/walking views and model evidence; Tania records the batch decision and any named exceptions. No wall or flower needs separate approval.",
+        "href": "/evidence/asset-review-20260910/index.html"
       },
       {
         "id": "CE-EST-BRIDGE-01",
@@ -498,12 +498,12 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "V2.13 publication is verified. V2.14 organises review around whole buildings, assets or scenes, with component parts nested for reference. A batch can contain up to10 whole items; Tania does not approve every wall or flower. One Avatar Studio package currently contains14 unchanged kit parts but no full assembly, so overall building approval remains pending. No Studio production is inferred; blazer stays paused.",
+      "summary": "V2.14 publication is verified. Batch 1 contains ten complete appearance candidates produced through separate layout, assembly, surroundings and review stages. Avatar Studio is one whole item, including its parts. All ten await one grouped review with named exceptions; no appearance, runtime or classroom acceptance is inferred. Blazer remains paused.",
       "facts": [
         {
           "label": "WHOLE-ITEM REVIEW / PARTS INCLUDED",
           "title": "One canonical source; publication is a dated copy",
-          "detail": "One building or scene is one approval item. Its component list is supporting information, not14 separate approval tasks. The current Avatar Studio assembly is incomplete and has no overall acceptance.",
+          "detail": "Batch 1 contains ten complete appearance candidates produced through separate layout, assembly, surroundings and review stages. Avatar Studio is one whole item, including its parts. All ten await one grouped review with named exceptions; no appearance, runtime or classroom acceptance is inferred. Blazer remains paused.",
           "href": "/production/asset-batch-review-2026-09-10.md"
         },
         {
@@ -684,14 +684,14 @@
       "asOf": "2026-09-10",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.14 / whole-item review with component parts included",
+        "sourceRevision": "V2.15 / Batch 1 ten complete places",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
         "observedLiveRevision": "V2.14 / GitHub Pages",
         "checkedAt": "2026-09-10",
         "observedLiveSha256": "27fb162aeb920a016dbfeb3eed6c2ac5a6cfe4006fca8b15d45c8837e58deccf",
         "accessCheck": "GitHub delivery repository PUBLIC and Pages built successfully; source mirror PRIVATE. Existing Sites project still returns HTTP 404 NOT_FOUND / project_not_found.",
         "validationReceipt": "/production/asset-batch-review-2026-09-10.md",
-        "status": "V2.14 whole-item workflow independently verified live",
+        "status": "V2.15 publication checks underway; V2.14 last independently verified",
         "savedVersionId": null,
         "deploymentId": "GitHub Pages / 408a1198408a827dbb9dfeb08c75f01728830235 / verified 10 September 2026",
         "parity": "All 194 published files matched. Grouped review and affected reader pages passed desktop/mobile checks; complete local reader suite passed.",
@@ -1348,6 +1348,30 @@
           "deployment": "V2.14 content publication verified at 408a1198408a827dbb9dfeb08c75f01728830235; final close-out manifest identifies subsequent metadata.",
           "testing": "60 tests, TypeScript, focused lint, normal and guarded Pages builds passed. Full local reader suite and targeted live desktop/mobile review passed. All 194 live files matched.",
           "taniaAcceptance": "No item accepted. Future whole-item acceptance includes its listed unflagged parts; no separate wall/flower approvals."
+        },
+        {
+          "id": "CE-CHANGE-20260910-25",
+          "date": "2026-09-10",
+          "title": "Produce Batch 1: ten complete Career World review items",
+          "domain": "Whole-item asset production",
+          "source": "Tania corrected single-building approval: batches of 10, building was one item; then authorised ys go to identifying and producing the first 10 complete items through established stages for batch approval. Parts are included; no appearance acceptance inferred. Tania explicitly selected Use these 10 complete places; CE-DISCUSSION-1b87e6c1-d0b0-4e7b-ba6b-a8bc3e568ae7.",
+          "owner": "Blueprint maintainer; Tania reviews complete batch",
+          "status": "Ten complete candidates prepared; awaiting batch review",
+          "rationale": "Review ten complete items together. Do not count walls, flowers or a building component as separate review items.",
+          "dependencies": [
+            "CE-CHANGE-20260910-24",
+            "CE-CHANGE-20260910-23"
+          ],
+          "evidence": [
+            "/production/batch-01-ten-items-2026-09-10.md"
+          ],
+          "nextAction": "Layout checks → kit assembly → surroundings → technical and visual checks → ten-item batch review.",
+          "supersededRecord": null,
+          "designApproval": "Batch production authorised; appearance acceptance remains pending.",
+          "implementation": "Ten separate whole-place GLBs and parts registers; two actual export renders per item. Angular foliage revised after the first Studio quality check. Original kit exports preserved.",
+          "deployment": "Review publication pending; game runtime unchanged.",
+          "testing": "Geometry/hash and desktop/mobile review checks underway.",
+          "taniaAcceptance": "Pending complete batch review."
         }
       ],
       "sessionStart": [
@@ -3844,7 +3868,7 @@
         "summary": "Warm limestone, navy framing, glass, timber shade and layered native gardens; the recovered 9 September courtyard concept.",
         "source": "Generated 9 September 06:41:56 UTC; Refine Career Empire Blender master, image event 2483. Tania welcomed the campus/corridor direction at 07:05 UTC.",
         "limits": "A concept target, not a live map or a faithful reconstruction of ECC. Its skyline and waterfront are not evidence of the real school.",
-        "nextAction": "Review the complete building/scene as one item with its component parts included; no separate wall or flower approvals. Current Studio assembly is incomplete. Any next construction instruction is separate.",
+        "nextAction": "Review Batch 1: ten complete appearance candidates together. Existing originals control direction; each whole item includes its parts. Resolve named exceptions before map/runtime integration.",
         "placements": [
           "start",
           "visuals",
@@ -3862,7 +3886,7 @@
         "summary": "The recovered 9 September elevated view connects school learning, civic life and future work with one readable walking spine.",
         "source": "Generated 9 September 06:42:58 UTC; same task, image event 2490; campus/corridor direction welcomed by Tania at 07:05 UTC.",
         "limits": "The aerial explains direction, not final coordinates, semester order, unlock thresholds or completed construction.",
-        "nextAction": "Review the complete building/scene as one item with its component parts included; no separate wall or flower approvals. Current Studio assembly is incomplete. Any next construction instruction is separate.",
+        "nextAction": "Review Batch 1: ten complete appearance candidates together. Existing originals control direction; each whole item includes its parts. Resolve named exceptions before map/runtime integration.",
         "placements": [
           "start",
           "visuals",
@@ -3880,7 +3904,7 @@
         "summary": "Recessed glass entry, limestone walls, navy canopy, timber fins, solar roof and a restrained teal identity feature.",
         "source": "Generated 9 September 07:49:54 UTC; same task, image event 2760. Tania at 07:52 UTC: semi-realistic exactly like that image is the goal.",
         "limits": "Appearance direction approved; the complete building, step-free approach, interior, kit and precinct have not passed final review.",
-        "nextAction": "Review the complete building/scene as one item with its component parts included; no separate wall or flower approvals. Current Studio assembly is incomplete. Any next construction instruction is separate.",
+        "nextAction": "Review Batch 1: ten complete appearance candidates together. Existing originals control direction; each whole item includes its parts. Resolve named exceptions before map/runtime integration.",
         "placements": [
           "visuals",
           "world"
@@ -3896,7 +3920,7 @@
         "summary": "9 September browser screenshot shows the actual Studio entrance, avatar and Open Avatar Studio interaction after the approach/orientation work.",
         "source": "Inspect blazer-only GLB asset task, studio-door-approach.png. Runtime world.js loads assets/scenery/ecc-avatar-studio-v1.glb.",
         "limits": "This is the built prototype, visibly below the approved pavilion target. Screenshot evidence is dated, not a new classroom/performance acceptance test.",
-        "nextAction": "Review the complete building/scene as one item with its component parts included; no separate wall or flower approvals. Current Studio assembly is incomplete. Any next construction instruction is separate.",
+        "nextAction": "Review Batch 1: ten complete appearance candidates together. Existing originals control direction; each whole item includes its parts. Resolve named exceptions before map/runtime integration.",
         "placements": [
           "start",
           "visuals",
@@ -4351,10 +4375,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20260910-24"
+        "CE-CHANGE-20260910-25"
       ],
-      "scope": "V2.14 whole-item asset register and grouped review workflow; no model or Studio production.",
-      "disclosure": "One incomplete Avatar Studio item contains 14 supporting parts; no separate wall or flower approvals are required. No kit acceptance, Studio assembly or game release is authorised by this workflow.",
+      "scope": "V2.15: Batch 1 contains ten complete appearance candidates for one grouped review.",
+      "disclosure": "Ten confirmed places are produced for appearance review. No appearance acceptance, live map/runtime deployment, school-device or classroom acceptance is inferred. Blazer remains paused.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -4375,6 +4399,7 @@
         "docs/production/asset-batch-review-2026-09-10.md",
         "docs/production/avatar-campus-textured-kit-2026-09-10.md",
         "docs/production/avatar-precinct-layout-stage1-2026-09-10.md",
+        "docs/production/batch-01-ten-items-2026-09-10.md",
         "docs/production/change-workflows.md",
         "docs/production/current-state.md",
         "docs/production/operating-protocol.md",
@@ -4397,6 +4422,60 @@
         "public/evidence/avatar-campus-kit-20260910/kit-manifest.json",
         "public/evidence/avatar-campus-kit-20260910/validation.json",
         "public/evidence/avatar-campus-kit-20260910/workbench.js",
+        "public/evidence/batch-01-20260910/batch-spec.json",
+        "public/evidence/batch-01-20260910/layout-stage.svg",
+        "public/evidence/batch-01-20260910/models/arrival.glb",
+        "public/evidence/batch-01-20260910/models/careers.glb",
+        "public/evidence/batch-01-20260910/models/civic.glb",
+        "public/evidence/batch-01-20260910/models/courtyard.glb",
+        "public/evidence/batch-01-20260910/models/est.glb",
+        "public/evidence/batch-01-20260910/models/garden.glb",
+        "public/evidence/batch-01-20260910/models/market.glb",
+        "public/evidence/batch-01-20260910/models/studio.glb",
+        "public/evidence/batch-01-20260910/models/transport.glb",
+        "public/evidence/batch-01-20260910/models/workplace.glb",
+        "public/evidence/batch-01-20260910/parts/arrival.json",
+        "public/evidence/batch-01-20260910/parts/careers.json",
+        "public/evidence/batch-01-20260910/parts/civic.json",
+        "public/evidence/batch-01-20260910/parts/courtyard.json",
+        "public/evidence/batch-01-20260910/parts/est.json",
+        "public/evidence/batch-01-20260910/parts/garden.json",
+        "public/evidence/batch-01-20260910/parts/market.json",
+        "public/evidence/batch-01-20260910/parts/studio.json",
+        "public/evidence/batch-01-20260910/parts/transport.json",
+        "public/evidence/batch-01-20260910/parts/workplace.json",
+        "public/evidence/batch-01-20260910/previews/arrival-overview.png",
+        "public/evidence/batch-01-20260910/previews/arrival-views.json",
+        "public/evidence/batch-01-20260910/previews/arrival-walking.png",
+        "public/evidence/batch-01-20260910/previews/careers-overview.png",
+        "public/evidence/batch-01-20260910/previews/careers-views.json",
+        "public/evidence/batch-01-20260910/previews/careers-walking.png",
+        "public/evidence/batch-01-20260910/previews/civic-overview.png",
+        "public/evidence/batch-01-20260910/previews/civic-views.json",
+        "public/evidence/batch-01-20260910/previews/civic-walking.png",
+        "public/evidence/batch-01-20260910/previews/courtyard-overview.png",
+        "public/evidence/batch-01-20260910/previews/courtyard-views.json",
+        "public/evidence/batch-01-20260910/previews/courtyard-walking.png",
+        "public/evidence/batch-01-20260910/previews/est-overview.png",
+        "public/evidence/batch-01-20260910/previews/est-views.json",
+        "public/evidence/batch-01-20260910/previews/est-walking.png",
+        "public/evidence/batch-01-20260910/previews/garden-overview.png",
+        "public/evidence/batch-01-20260910/previews/garden-views.json",
+        "public/evidence/batch-01-20260910/previews/garden-walking.png",
+        "public/evidence/batch-01-20260910/previews/market-overview.png",
+        "public/evidence/batch-01-20260910/previews/market-views.json",
+        "public/evidence/batch-01-20260910/previews/market-walking.png",
+        "public/evidence/batch-01-20260910/previews/studio-overview.png",
+        "public/evidence/batch-01-20260910/previews/studio-views.json",
+        "public/evidence/batch-01-20260910/previews/studio-walking.png",
+        "public/evidence/batch-01-20260910/previews/transport-overview.png",
+        "public/evidence/batch-01-20260910/previews/transport-views.json",
+        "public/evidence/batch-01-20260910/previews/transport-walking.png",
+        "public/evidence/batch-01-20260910/previews/workplace-overview.png",
+        "public/evidence/batch-01-20260910/previews/workplace-views.json",
+        "public/evidence/batch-01-20260910/previews/workplace-walking.png",
+        "public/evidence/batch-01-20260910/production-manifest.json",
+        "public/evidence/batch-01-20260910/validation.json",
         "scripts/export-blueprint.mjs",
         "scripts/prepare-pages.mjs",
         "scripts/project-guard.mjs",
@@ -4411,11 +4490,11 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "6bf7b65708eb140d0c62c5df8e54108832ef9e8ac34bba57a0e5759d80d8c000"
+          "sha256": "f8cc5f193e809503055da52bee6b85dd143b6b6b2c65c11a8d4021d294d04190"
         },
         {
           "path": "README.md",
-          "sha256": "2a208eea31e129d086dbc8c5b4c8ba9e9643056cd4b09ed53ab5be793e4c083a"
+          "sha256": "38bf5b7da4f8ec7e8165109e701c2039578eff37d464c3f33c502185b6c76681"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -4431,7 +4510,7 @@
         },
         {
           "path": "app/current-evidence.tsx",
-          "sha256": "034a8764d6afc4f2f80e088b2c905d7982546174af137d7a3dba5ea35bb4231f"
+          "sha256": "f645c1ab2134621eb7e8128314a0be447c0afe42e194c93829f8d411871954bd"
         },
         {
           "path": "app/globals.css",
@@ -4447,7 +4526,7 @@
         },
         {
           "path": "data/asset-register.json",
-          "sha256": "f7836a8e75c21d26c0a8e9bf1c62b5791cbaa0292682d2dc8921ae86ad623305"
+          "sha256": "2b8966c4d581142063a9a8fe3c8eeffa9463d682dee382219646a426bce54500"
         },
         {
           "path": "data/blueprint.ts",
@@ -4463,27 +4542,31 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "6a75de32876a091dbca894095240a9a94197e4b1b00a7605e35e8a60a4f28d59"
+          "sha256": "2565454ce12a42114a9ae779237dfe7b12b5cc941df6871ad25c836267f2e336"
         },
         {
           "path": "data/style-guide.json",
-          "sha256": "125aec5d89eb35167c51c73d713b10e65c3bebdc8a57f454c30f85f9c18366bb"
+          "sha256": "15db8f4edb9fb216dbb5cb0ac5ea57c987754d25ab8b12487738e6596c4db34d"
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "39787954758643750eacdacc1c4b373e6386825db11be7bbc3290762cf8cea96"
+          "sha256": "d713edd7c66cd79aed79347847aaff76d320a2311f7ae1f20eda225902011b9b"
         },
         {
           "path": "docs/production/asset-batch-review-2026-09-10.md",
-          "sha256": "896d489d67bbfe110878f2f70306d3a78e9c73c2be05a2dc269eceeabbad1405"
+          "sha256": "d97e945d1cefbfb0af4ba31d8f3d9869a4733f03dd69f0b301f2c78a0b298397"
         },
         {
           "path": "docs/production/avatar-campus-textured-kit-2026-09-10.md",
-          "sha256": "3174d606000efcd90265ee152895589c54c33f1ada024c0196a9dd60ef5cb8ca"
+          "sha256": "a42d6a71abd4c1546305715a2e2d6e13890c0731b8eee6f1032340902556d57c"
         },
         {
           "path": "docs/production/avatar-precinct-layout-stage1-2026-09-10.md",
           "sha256": "49accb3a7418a4a163a649f0b61d0f530ca63c5d80b4df743189c1644f428ca3"
+        },
+        {
+          "path": "docs/production/batch-01-ten-items-2026-09-10.md",
+          "sha256": "af7dce894b07044eaa8624bebe0899aebac4df6a17c48cdcf978c4ec61ae1721"
         },
         {
           "path": "docs/production/change-workflows.md",
@@ -4491,15 +4574,15 @@
         },
         {
           "path": "docs/production/current-state.md",
-          "sha256": "794dfa937912659fd4a3a093cd951b3873764c106a5fc630f561ceb89b70b715"
+          "sha256": "fffbf7c285eacc1bf3339e0f018b393b49603a52151ade8938b487e5cb7fff28"
         },
         {
           "path": "docs/production/operating-protocol.md",
-          "sha256": "45b53e1ac61ef07ad4e63803173c4f11dad3ff42dc69fa092666959d854387bd"
+          "sha256": "5e30d875845c6cb1760e8b6e345ff80f37367e4eed2e5396bda53ccb28fd6397"
         },
         {
           "path": "docs/production/production-plan.md",
-          "sha256": "9b7fa9b7a5ad90872ea4a651b9471d8012f647fbf6c59a6bacece27fe9e0e751"
+          "sha256": "bc707823bdb521f90f75e263a90d9109f30216e89427f5e59912cbcd9f21a597"
         },
         {
           "path": "docs/production/project-automation-setup-2026-09-10.md",
@@ -4527,11 +4610,11 @@
         },
         {
           "path": "docs/production/visual-evidence-manifest.json",
-          "sha256": "4fc7ffb34a9f8794841622d10c93dc58a405813247e851586c3b98fc8f2eb19c"
+          "sha256": "a0e10fe1849e9ba783bc0ace261e85f50ec252a571b835454dcf4f29146ea74f"
         },
         {
           "path": "docs/production/visual-register.md",
-          "sha256": "b8ef956f58b554a968c70ef09c20571b804a41c1df922dda44a6ea6554beee83"
+          "sha256": "38facf7fd6d04d20f78bbfea0e943360d119fbaf30bdd18a918a9f564191840e"
         },
         {
           "path": "package.json",
@@ -4539,11 +4622,11 @@
         },
         {
           "path": "public/evidence/asset-review-20260910/index.html",
-          "sha256": "b6218873352c051bf18b79b24ea60a8cb52d5fb65f6e61afc4fdc18845c13a59"
+          "sha256": "1f2c50e90e39632bfb927ea749a4b8aae3572553c915b179e89d68934b6dcb3f"
         },
         {
           "path": "public/evidence/asset-review-20260910/review.js",
-          "sha256": "e64ba823bf87f2e6155735c08a0a8756e971182d82705c75916b07cbc78b2569"
+          "sha256": "8fce9c977c29817e24c10590179bb674e8c69ea32e97cf7a14098859167e4948"
         },
         {
           "path": "public/evidence/asset-review-20260910/viewer.html",
@@ -4551,7 +4634,7 @@
         },
         {
           "path": "public/evidence/asset-review-20260910/viewer.js",
-          "sha256": "3a4e293974782fe27f579919107f964fa1933cac189ac5c21c5c3c62046df1ad"
+          "sha256": "3335bb60b76d9b903e7fd5b3821e710130556bf8750eec7b946179bb112728bd"
         },
         {
           "path": "public/evidence/avatar-campus-kit-20260910/README.md",
@@ -4574,8 +4657,224 @@
           "sha256": "b9a6c6fa23589729a9175c8d95fe9c38a0c12aa787363465b78389c554a9095d"
         },
         {
+          "path": "public/evidence/batch-01-20260910/batch-spec.json",
+          "sha256": "6f85e310b7cc40e8f7087b5bdaea8a2213057e52032c6e961320392df4d2f6b3"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/layout-stage.svg",
+          "sha256": "cc3cb840987899c13904c1ea676f6f94da9acb1148aa0c2b7fa98c0c3743e41f"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/models/arrival.glb",
+          "sha256": "6242fa65c810ba71610deaf354601082052c95511678b49f4fab3b9f265d92b8"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/models/careers.glb",
+          "sha256": "c419c7fea6dfec869787bbb7bb977b4c69eaa5c8ada66d9e136f0fdd498793f4"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/models/civic.glb",
+          "sha256": "1a665b66d011e7abef1b78b6b30acfc3a5b409791dd8761e113a3662c3fa439d"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/models/courtyard.glb",
+          "sha256": "7cbd0a1031801a0bfae3460bfa95153309ea6373e8b46b0ff4f9557b49db05b9"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/models/est.glb",
+          "sha256": "2a1e93619d0146d91c6c9f223f0bc4872ac22a4ad35177c766bc342d1a939e3b"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/models/garden.glb",
+          "sha256": "506eaebf8ed36cbeaf12637ec5dc4cbf9fc907df7a79c0d8f687253c81645c63"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/models/market.glb",
+          "sha256": "81039bab57031b4d92da105afcaff9a2edc9dc2e36f1b14b618c1e7f637b6066"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/models/studio.glb",
+          "sha256": "8f13bdd2b3cb520fd0ea8b999494bfa7447d00f126d8902915406712ed063f41"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/models/transport.glb",
+          "sha256": "bfdb98b4369b402ee4380b95958a7dc1e121203b1095109ff9d228d2b8de7a48"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/models/workplace.glb",
+          "sha256": "e0978d287a56c32c91bf2b3edd4b90490286b413d6af75574edc94da758cc709"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/parts/arrival.json",
+          "sha256": "e91398c586db4d3bc77812779889316910dafdba7eb24b30e4b79aa170657450"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/parts/careers.json",
+          "sha256": "ef967c9e38a439235251b2aaaa25712cb9a72b86b7437e6bcd8b65374fb4d6a7"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/parts/civic.json",
+          "sha256": "e653c509f1f490a74d32d7e402f48cbd0dcde99a87ece805f7a4e4a94e4dda3e"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/parts/courtyard.json",
+          "sha256": "bdd1ecf6e2c640e82db0c93af70792d43ba9db7277dddc0e5c488107dd1b3013"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/parts/est.json",
+          "sha256": "a35efdf586419c65dd5df0fe193539594c4803f9423c011bf4ac0fae2551a4df"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/parts/garden.json",
+          "sha256": "7646f005d28ba84469449fde434ffbd6a669fcafccc34043647878a331cb53ea"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/parts/market.json",
+          "sha256": "1a1249f2e9d2bc40bd062c4c02f4f1a06c8d49b0a96e64f8e2f4df0e52536218"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/parts/studio.json",
+          "sha256": "9ce1d2efdb5cbe0da4e0ab725bd0caf82a444b58bd3e951e57c833374f1e3d58"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/parts/transport.json",
+          "sha256": "7ace424a50c665b5ae40cbd0a05ade3780baa3da550c9add0b479016ce3ff8ca"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/parts/workplace.json",
+          "sha256": "52854a74a674dfc16c1fedbf9fe10e88d31e821cbd33893fe00467f705d0cfce"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/arrival-overview.png",
+          "sha256": "40a36e816a4812f6de7492710f51ec6115d43f664f8e29a55ca130ea55304df2"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/arrival-views.json",
+          "sha256": "ba6fc81a4c1f2444ba4aac827267b223f4de7cddab3bbe07af5f8cc1a51218a5"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/arrival-walking.png",
+          "sha256": "10f07e20112a8cc4545310633944e11be05f89ff05e2a67ce9ead9d6021ee2e7"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/careers-overview.png",
+          "sha256": "3475902c5e03549e2f8b0cb58e955dfccef1ff8c75c22b21f84e47990dbeace2"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/careers-views.json",
+          "sha256": "4c3257ec9ab6707af024608c4626c67e803eaf677da71c8fda22fb414a66e9ec"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/careers-walking.png",
+          "sha256": "b65a7414bccb126561d3e317bd9e681e263b63734ecc7391902ea0429f1eeed2"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/civic-overview.png",
+          "sha256": "e6d62bf0c67a87e7a52760904bd09b049277f8f6f3fdcb199d932f4919f7b5d4"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/civic-views.json",
+          "sha256": "66a88ac79774621568d094db218b6b6bea59cc646579646ff99570014d312992"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/civic-walking.png",
+          "sha256": "1bd5b8dda8d3840db9cda53c2c1e89407850a26249f247bb0f672e893926e5af"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/courtyard-overview.png",
+          "sha256": "da332182ed3261ffec47743e83db91f642fcb2b5b5bd8826faf0632cdc596857"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/courtyard-views.json",
+          "sha256": "549dc2fea3d98a4a1244c81e33868509c723da1c8f7adc35b059200f19adcbd5"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/courtyard-walking.png",
+          "sha256": "0c9b1a35ef72a3ac326ab00098dab581c4f46a8a46660d0ba170fea2183335e6"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/est-overview.png",
+          "sha256": "f9708370b30ddf80c144f5a55799f4a5bb2296d011438c2ad1ba1998fba31e65"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/est-views.json",
+          "sha256": "1a5a02b5699b19a9854809786459ea38674121c13363e28b4f3d6b1b626c5835"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/est-walking.png",
+          "sha256": "3494fd6aefd2f69f2e672720910f47ab445739146b7662cedb7e30a97c5da07d"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/garden-overview.png",
+          "sha256": "4847a3c670f4b94241954104579293f983a0f43153bd2c54a438e0924997ceb2"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/garden-views.json",
+          "sha256": "5fc342f457ca7f85fa51cd92f210401219f72282a1042cb33383335225bb6190"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/garden-walking.png",
+          "sha256": "c9b5cf0ce42c03878696a1bd392efaf9f92437d0643d123cff9aff831e05e44f"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/market-overview.png",
+          "sha256": "1c60aa498db84bb0337eb36f902addd8c8d5c550dc6a820209dcb2f84b73c1e8"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/market-views.json",
+          "sha256": "b06ddd31e5afe0784bdc73b9c6f5306fe4b52ee34b86bf5fa75caadc63a13d54"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/market-walking.png",
+          "sha256": "ab5c92dc8a351290cde6224d6bdf4a0d4f75167aa04f94d7ad781c629fbab78b"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/studio-overview.png",
+          "sha256": "d759304cec62626a447218d031daa38d7713ecc0bae6ef16b154ea7be58a53d8"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/studio-views.json",
+          "sha256": "d81ce6bd80d9dd4620d8630aa9173824ef5b532d83782146d8cd17cfd839099c"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/studio-walking.png",
+          "sha256": "89928b0da23c2405dfb800e968fcc3f879e466989feab1b557dc74409f0d5ea7"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/transport-overview.png",
+          "sha256": "d26b8ee3a396009c5f9117a933a39c2ccf525c1ee22afd58bc980610555153fd"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/transport-views.json",
+          "sha256": "777e6669299a2df6a0e0432b2fc1cc0e5543e42ad118ae7dd575e3b429d49333"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/transport-walking.png",
+          "sha256": "870483d96331fb376ad77dede196d5f4652d1ddd040e363ff386970d50b1752c"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/workplace-overview.png",
+          "sha256": "e80cc2608f0aa29cb3d43c061e09dd02f9e81abfd66300ab13a32e000650a42a"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/workplace-views.json",
+          "sha256": "18f6f191885a0fa5a3ab77c6c917b6b58706ce87b708de2820430eb57b85b82c"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/previews/workplace-walking.png",
+          "sha256": "0fc11143049fbfc28f1b9629a204eac61dd7d7530245da2477db9c533e9f61b7"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/production-manifest.json",
+          "sha256": "47b6e39bb0750098c5f959ecbdec3bb237403957b73231e8e3e2b45127ea4763"
+        },
+        {
+          "path": "public/evidence/batch-01-20260910/validation.json",
+          "sha256": "b4f6e97a72624ca48f72712ca92056e6389db0da53f7167912349d248531f2f7"
+        },
+        {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "eb39fbcb844cd524273df54029d93f32bff0f49d043ed36e80c66892c253d24c"
+          "sha256": "9c8ad5d5a4bb4f5c3d069bc8baecd316db03108e47cb832e99c346400ddc2ae6"
         },
         {
           "path": "scripts/prepare-pages.mjs",
@@ -4591,7 +4890,7 @@
         },
         {
           "path": "tests/asset-register.test.mjs",
-          "sha256": "4a6d8b8404705c2d2c922702c4fd9b9a59cb77e5f72d85123e5bb3dc689e1a38"
+          "sha256": "9fe572e0463ea7aa36b60b412ac1fce06b2b4cea0e3e83e0a67a2380a863ddf1"
         },
         {
           "path": "tests/browser-smoke.mjs",
@@ -7371,6 +7670,392 @@
           "megatrends": {
             "AGENTS.md": "100644:97e464031e3d61e85fdddc24c94e00cffe4e7dda",
             "docs/current-workspace-status.md": "100644:b456d2dd2a01b74646e6c68f0b95f5dadb15375e"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-25",
+        "title": "Produce Batch 1: ten complete Career World review items",
+        "types": [
+          "governance",
+          "visual",
+          "building",
+          "implementation",
+          "release"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Create ten assembled review items, preserving whole-item boundaries and staged quality checks.",
+        "before": "One incomplete Studio entry and 14 kit modules; no complete review batch.",
+        "after": "Ten complete appearance candidates shown together, with components included and no approvals inferred.",
+        "source": "Tania: batches of 10, building was one item; ys go; then explicitly selected Use these 10 complete places. Discussion CE-DISCUSSION-1b87e6c1-d0b0-4e7b-ba6b-a8bc3e568ae7. Appearance approval remains pending.",
+        "owner": "Blueprint maintainer; Tania reviews the batch",
+        "nextAction": "Check layouts, assemble, add surroundings, verify and present Batch 1.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Purpose, current direction, status and next action must agree with the change.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Start Here displays Review Batch 1: ten complete places and links the grouped review; desktop/mobile current action inspected."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "CE-ENV-01 is ten complete appearance candidates awaiting one grouped review; later runtime/map integration and unapproved classroom work remain separate."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Record 25 contains the user correction and confirmed ten-place selection. All 24 earlier material records remain exact against the starting snapshot."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Root/local AGENTS, README, current state, handover and operating protocol now distinguish staged production from grouped ten-item approval; component approvals remain unnecessary."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Canonical/public register and record/Markdown views regenerate exactly. Register history retains the earlier incomplete Studio snapshot; 61 tests passed."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending stage-specific evidence",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish exact reviewed generated output, compare every live hash and inspect batch plus affected reader pages; only then mark complete."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Tania authorised and confirmed production of these ten places. No appearance acceptance recorded; all 17 V2 decisions, four original approvals and pilot unchanged."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Exact campus/corridor/pavilion originals and kit hashes retained. Editable staged Blender sources and generation/refinement scripts retained privately; GLB and render evidence public."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "61 tests, TypeScript, focused lint and normal build passed. Desktop/mobile board checks verify ten items, 20 views, optional parts, reload and whole-model viewers; runtime/device acceptance excluded."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Existing canonical/private recovery and generated public delivery destinations retained. Stage sources, source snapshots, checks and review evidence allow resuming the exact batch without recreating it."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "World and visual pages show the ten-item gallery and retain six exact originals. All 20 export renders inspected; roof identities, garden height and foliage refined before final views."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Ten actual exported model overviews plus ten 1.65 m walking views match exact hashes. No generated concept substitution; original kit specimen is optional source evidence."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Each whole item binds its GLB, full component manifest, paired views and hashes. All ten self-contained models have finite bounds; original 14 kit exports unchanged."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Confirmed ten places have complete visual assemblies and their own immediate surroundings. Distinct laboratory rooflights, civic lantern/colonnade and gabled workshop checked. No fixed runtime map placement inferred."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "No avatar/body/wardrobe model was changed; protected blueprint source and original avatar references remain exact. Blazer stays paused."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Ten environmental candidates are presented independently for review, not assembled into a new live map. Existing economy, unlocks and experience rules remain byte-identical."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "flow",
+            "disposition": "checked-unchanged",
+            "action": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Protected experience and curriculum files are byte-identical. Visual candidate purposes map to existing services; no new required learning building, student flow or saved-evidence rule introduced."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "records": [
+              "CE-CHANGE-20260910-25",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania reviews the batch",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "/production/batch-01-ten-items-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Teacher code and assessment behavior are unchanged; this release changes the Blueprint review surface only. Existing EST matrix/classroom acceptance gaps remain disclosed."
+            },
+            "nextAction": "Review all ten complete items together; record named exceptions without inferring approval."
+          }
+        ],
+        "projectChanges": {
+          "megatrends": {
+            "AGENTS.md": "100644:d83c2aa49e8c81bc1449c80ff5147411bf4faa5d",
+            "docs/current-workspace-status.md": "100644:869d7ffaf557fed32fedc34024a4b0d3ba359d1d"
           }
         }
       }

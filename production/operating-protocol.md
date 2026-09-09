@@ -76,3 +76,5 @@ V2.9/V2.10 proved publication and workflow mechanics but did not prove every pag
 
 
 Asset review protocol, CE-CHANGE-20260910-24: use up to10 complete items per batch, with component details nested for tracking. Overall item approval includes unflagged parts. Do not require individual wall/flower approval. Record item revision, exact reviewed snapshot and any exceptions. Return requested/material visual changes for review; verify routine equivalent technical changes without another aesthetic approval. No automatic next-stage authority.
+
+Batch 1 production clarification, CE-CHANGE-20260910-25: ten whole places were explicitly confirmed and authorised. Prepare all ten through separate stages and request one grouped review with exceptions. Do not return to single-building approval or count its parts as review items.

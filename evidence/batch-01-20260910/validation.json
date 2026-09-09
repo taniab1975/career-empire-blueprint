@@ -1,0 +1,117 @@
+{
+  "status": "passed",
+  "items": [
+    {
+      "item": "CE-ITEM-STUDIO-001",
+      "selfContainedGLB": true,
+      "finiteBounds": true,
+      "triangles": 31132,
+      "bytes": 4664648,
+      "twoExactViews": true,
+      "partCount": 225,
+      "appearanceApproval": "pending",
+      "runtimeAcceptance": "not tested"
+    },
+    {
+      "item": "CE-ITEM-ARRIVAL-001",
+      "selfContainedGLB": true,
+      "finiteBounds": true,
+      "triangles": 16368,
+      "bytes": 4489388,
+      "twoExactViews": true,
+      "partCount": 200,
+      "appearanceApproval": "pending",
+      "runtimeAcceptance": "not tested"
+    },
+    {
+      "item": "CE-ITEM-EST-001",
+      "selfContainedGLB": true,
+      "finiteBounds": true,
+      "triangles": 37664,
+      "bytes": 4771060,
+      "twoExactViews": true,
+      "partCount": 248,
+      "appearanceApproval": "pending",
+      "runtimeAcceptance": "not tested"
+    },
+    {
+      "item": "CE-ITEM-CIVIC-001",
+      "selfContainedGLB": true,
+      "finiteBounds": true,
+      "triangles": 37056,
+      "bytes": 4723668,
+      "twoExactViews": true,
+      "partCount": 261,
+      "appearanceApproval": "pending",
+      "runtimeAcceptance": "not tested"
+    },
+    {
+      "item": "CE-ITEM-CAREERS-001",
+      "selfContainedGLB": true,
+      "finiteBounds": true,
+      "triangles": 34600,
+      "bytes": 4774924,
+      "twoExactViews": true,
+      "partCount": 230,
+      "appearanceApproval": "pending",
+      "runtimeAcceptance": "not tested"
+    },
+    {
+      "item": "CE-ITEM-WORKPLACE-001",
+      "selfContainedGLB": true,
+      "finiteBounds": true,
+      "triangles": 33706,
+      "bytes": 4674972,
+      "twoExactViews": true,
+      "partCount": 275,
+      "appearanceApproval": "pending",
+      "runtimeAcceptance": "not tested"
+    },
+    {
+      "item": "CE-ITEM-GARDEN-001",
+      "selfContainedGLB": true,
+      "finiteBounds": true,
+      "triangles": 12796,
+      "bytes": 4415648,
+      "twoExactViews": true,
+      "partCount": 263,
+      "appearanceApproval": "pending",
+      "runtimeAcceptance": "not tested"
+    },
+    {
+      "item": "CE-ITEM-COURTYARD-001",
+      "selfContainedGLB": true,
+      "finiteBounds": true,
+      "triangles": 16056,
+      "bytes": 4581984,
+      "twoExactViews": true,
+      "partCount": 260,
+      "appearanceApproval": "pending",
+      "runtimeAcceptance": "not tested"
+    },
+    {
+      "item": "CE-ITEM-TRANSPORT-001",
+      "selfContainedGLB": true,
+      "finiteBounds": true,
+      "triangles": 15704,
+      "bytes": 4424488,
+      "twoExactViews": true,
+      "partCount": 201,
+      "appearanceApproval": "pending",
+      "runtimeAcceptance": "not tested"
+    },
+    {
+      "item": "CE-ITEM-MARKET-001",
+      "selfContainedGLB": true,
+      "finiteBounds": true,
+      "triangles": 17216,
+      "bytes": 4628656,
+      "twoExactViews": true,
+      "partCount": 252,
+      "appearanceApproval": "pending",
+      "runtimeAcceptance": "not tested"
+    }
+  ],
+  "protected": "24 earlier records, 17 V2 decisions, four approvals, curriculum, pilot and 14 original kit GLBs unchanged",
+  "limits": "Visual production candidates. No game collision, interaction, named school-device performance or classroom acceptance."
+}

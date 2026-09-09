@@ -1,6 +1,9 @@
 # Avatar Campus — textured modular kit
 
-**Current whole-item review:** [Asset packages and their parts](asset-batch-review-2026-09-10.md). Review a complete building/scene as one item. Its unflagged parts are included in overall approval; no separate wall or flower decisions. The Studio is not yet assembled or accepted.
+**Current checkpoint — Batch 1:** Ten complete appearance candidates are built for one grouped review: Avatar Studio, Arrival Pavilion, EST Prep Lab, Civic Hall, Careers Advice Centre, First Workplace, Community Garden, Learning Courtyard, Transport Stop and Community Market. Each includes all its parts and surroundings. Review all ten together; no item is accepted yet. [Batch review](/career-empire-blueprint/evidence/asset-review-20260910/index.html).
+
+
+**Previous V2.14 review checkpoint:** [Asset packages and their parts](asset-batch-review-2026-09-10.md). Review a complete building/scene as one item. Its unflagged parts are included in overall approval; no separate wall or flower decisions. The Studio is not yet assembled or accepted.
 
 CE-CHANGE-20260910-23 / CE-ENV-KIT-01. Tania authorised “yes good textured kit production please” on 10 September 2026. Stage 2 is built as a review candidate; appearance acceptance remains Tania's. No live game was changed.
 

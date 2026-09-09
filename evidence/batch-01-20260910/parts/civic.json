@@ -1,0 +1,3917 @@
+[
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-001",
+    "name": "Foundation.002",
+    "dimensions": [
+      12.5,
+      8.5,
+      0.28
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.1
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-002",
+    "name": "wall-2m part.010",
+    "dimensions": [
+      1.992,
+      0.24,
+      3.0
+    ],
+    "position": [
+      -5.0,
+      -4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-003",
+    "name": "wall-2m part.011",
+    "dimensions": [
+      1.992,
+      0.24,
+      3.0
+    ],
+    "position": [
+      -5.0,
+      4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-004",
+    "name": "window-2m part.022",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -3.0,
+      -4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-005",
+    "name": "window-2m part.023",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -3.0,
+      4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-006",
+    "name": "entry-2m part.002",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -1.0,
+      -4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-007",
+    "name": "window-2m part.024",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -1.0,
+      4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-008",
+    "name": "window-2m part.025",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      1.0,
+      -4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-009",
+    "name": "window-2m part.026",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      1.0,
+      4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-010",
+    "name": "window-2m part.027",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      3.0,
+      -4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-011",
+    "name": "window-2m part.028",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      3.0,
+      4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-012",
+    "name": "window-2m part.029",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      5.0,
+      -4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-013",
+    "name": "wall-2m part.012",
+    "dimensions": [
+      1.992,
+      0.24,
+      3.0
+    ],
+    "position": [
+      5.0,
+      4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-014",
+    "name": "window-2m part.030",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -6.0,
+      -3.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-015",
+    "name": "window-2m part.031",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      6.0,
+      -3.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-016",
+    "name": "window-2m part.032",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -6.0,
+      -1.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-017",
+    "name": "window-2m part.033",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      6.0,
+      -1.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-018",
+    "name": "window-2m part.034",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      -6.0,
+      1.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-019",
+    "name": "window-2m part.035",
+    "dimensions": [
+      2.0,
+      0.14,
+      3.0
+    ],
+    "position": [
+      6.0,
+      1.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-020",
+    "name": "wall-2m part.013",
+    "dimensions": [
+      1.992,
+      0.24,
+      3.0
+    ],
+    "position": [
+      -6.0,
+      3.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-021",
+    "name": "wall-2m part.014",
+    "dimensions": [
+      1.992,
+      0.24,
+      3.0
+    ],
+    "position": [
+      6.0,
+      3.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-022",
+    "name": "Roof slab.002",
+    "dimensions": [
+      12.65,
+      8.65,
+      0.22
+    ],
+    "position": [
+      0.0,
+      0.0,
+      3.44
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-023",
+    "name": "Timber ceiling.002",
+    "dimensions": [
+      12.3,
+      8.3,
+      0.035
+    ],
+    "position": [
+      0.0,
+      0.0,
+      3.31
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-024",
+    "name": "canopy-2m part.010",
+    "dimensions": [
+      2.0,
+      1.6,
+      0.24
+    ],
+    "position": [
+      -5.0,
+      -4.0,
+      0.22
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-025",
+    "name": "fascia-2m part.010",
+    "dimensions": [
+      2.0,
+      0.2,
+      0.24
+    ],
+    "position": [
+      -5.0,
+      -4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-026",
+    "name": "canopy-2m part.011",
+    "dimensions": [
+      2.0,
+      1.6,
+      0.24
+    ],
+    "position": [
+      -3.0,
+      -4.0,
+      0.22
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-027",
+    "name": "fascia-2m part.011",
+    "dimensions": [
+      2.0,
+      0.2,
+      0.24
+    ],
+    "position": [
+      -3.0,
+      -4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-028",
+    "name": "canopy-2m part.012",
+    "dimensions": [
+      2.0,
+      1.6,
+      0.24
+    ],
+    "position": [
+      -1.0,
+      -4.0,
+      0.22
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-029",
+    "name": "fascia-2m part.012",
+    "dimensions": [
+      2.0,
+      0.2,
+      0.24
+    ],
+    "position": [
+      -1.0,
+      -4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-030",
+    "name": "canopy-2m part.013",
+    "dimensions": [
+      2.0,
+      1.6,
+      0.24
+    ],
+    "position": [
+      1.0,
+      -4.0,
+      0.22
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-031",
+    "name": "fascia-2m part.013",
+    "dimensions": [
+      2.0,
+      0.2,
+      0.24
+    ],
+    "position": [
+      1.0,
+      -4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-032",
+    "name": "canopy-2m part.014",
+    "dimensions": [
+      2.0,
+      1.6,
+      0.24
+    ],
+    "position": [
+      3.0,
+      -4.0,
+      0.22
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-033",
+    "name": "fascia-2m part.014",
+    "dimensions": [
+      2.0,
+      0.2,
+      0.24
+    ],
+    "position": [
+      3.0,
+      -4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-034",
+    "name": "canopy-2m part.015",
+    "dimensions": [
+      2.0,
+      1.6,
+      0.24
+    ],
+    "position": [
+      5.0,
+      -4.0,
+      0.22
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-035",
+    "name": "fascia-2m part.015",
+    "dimensions": [
+      2.0,
+      0.2,
+      0.24
+    ],
+    "position": [
+      5.0,
+      -4.0,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-036",
+    "name": "post part.004",
+    "dimensions": [
+      0.12,
+      0.12,
+      3.0
+    ],
+    "position": [
+      -5.88,
+      -5.46,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-037",
+    "name": "post part.005",
+    "dimensions": [
+      0.12,
+      0.12,
+      3.0
+    ],
+    "position": [
+      5.88,
+      -5.46,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-038",
+    "name": "ramp-3p2x2 part.006",
+    "dimensions": [
+      3.2,
+      2.0,
+      0.16
+    ],
+    "position": [
+      -1.0,
+      -10.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-039",
+    "name": "ramp-3p2x2 part.007",
+    "dimensions": [
+      3.2,
+      2.0,
+      0.16
+    ],
+    "position": [
+      -1.0,
+      -8.0,
+      0.08
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-040",
+    "name": "ramp-3p2x2 part.008",
+    "dimensions": [
+      3.2,
+      2.0,
+      0.16
+    ],
+    "position": [
+      -1.0,
+      -6.0,
+      0.16
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-041",
+    "name": "landing part.002",
+    "dimensions": [
+      3.2,
+      1.2,
+      0.24
+    ],
+    "position": [
+      -1.0,
+      -4.6,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-042",
+    "name": "fin-screen-1m part.004",
+    "dimensions": [
+      1.0,
+      0.215,
+      3.0
+    ],
+    "position": [
+      -5.6,
+      -4.15,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-043",
+    "name": "fin-screen-1m part.005",
+    "dimensions": [
+      1.0,
+      0.215,
+      3.0
+    ],
+    "position": [
+      5.6,
+      -4.15,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-044",
+    "name": "Solar frame.008",
+    "dimensions": [
+      5.4,
+      3.4,
+      0.09
+    ],
+    "position": [
+      -3.0,
+      -2.0,
+      3.62
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-045",
+    "name": "Solar cell.032",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      -4.9688,
+      -2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-046",
+    "name": "Solar cell.033",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      -3.6562,
+      -2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-047",
+    "name": "Solar cell.034",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      -2.3438,
+      -2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-048",
+    "name": "Solar cell.035",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      -1.0312,
+      -2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-049",
+    "name": "Solar frame.009",
+    "dimensions": [
+      5.4,
+      3.4,
+      0.09
+    ],
+    "position": [
+      -3.0,
+      2.0,
+      3.62
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-050",
+    "name": "Solar cell.036",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      -4.9688,
+      2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-051",
+    "name": "Solar cell.037",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      -3.6562,
+      2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-052",
+    "name": "Solar cell.038",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      -2.3438,
+      2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-053",
+    "name": "Solar cell.039",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      -1.0312,
+      2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-054",
+    "name": "Solar frame.010",
+    "dimensions": [
+      5.4,
+      3.4,
+      0.09
+    ],
+    "position": [
+      3.0,
+      -2.0,
+      3.62
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-055",
+    "name": "Solar cell.040",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      1.0312,
+      -2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-056",
+    "name": "Solar cell.041",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      2.3438,
+      -2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-057",
+    "name": "Solar cell.042",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      3.6562,
+      -2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-058",
+    "name": "Solar cell.043",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      4.9688,
+      -2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-059",
+    "name": "Solar frame.011",
+    "dimensions": [
+      5.4,
+      3.4,
+      0.09
+    ],
+    "position": [
+      3.0,
+      2.0,
+      3.62
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-060",
+    "name": "Solar cell.044",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      1.0312,
+      2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-061",
+    "name": "Solar cell.045",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      2.3438,
+      2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-062",
+    "name": "Solar cell.046",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      3.6562,
+      2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-063",
+    "name": "Solar cell.047",
+    "dimensions": [
+      1.282,
+      3.25,
+      0.02
+    ],
+    "position": [
+      4.9688,
+      2.0,
+      3.675
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-064",
+    "name": "Downlight.004",
+    "dimensions": [
+      0.16,
+      0.16,
+      0.012
+    ],
+    "position": [
+      -4.0,
+      -4.6,
+      3.235
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-065",
+    "name": "Downlight.005",
+    "dimensions": [
+      0.16,
+      0.16,
+      0.012
+    ],
+    "position": [
+      4.0,
+      -4.6,
+      3.235
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-066",
+    "name": "Identity sign.002",
+    "dimensions": [
+      8.0,
+      0.06,
+      0.38
+    ],
+    "position": [
+      0.0,
+      -5.625,
+      3.34
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-067",
+    "name": "Text.009",
+    "dimensions": [
+      1.1767,
+      0.161,
+      0.004
+    ],
+    "position": [
+      0.0,
+      -5.664,
+      3.22
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-068",
+    "name": "Council stage",
+    "dimensions": [
+      8.0,
+      2.0,
+      0.3
+    ],
+    "position": [
+      0.0,
+      2.0,
+      0.4
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-069",
+    "name": "Desk top.005",
+    "dimensions": [
+      1.5,
+      0.7,
+      0.07
+    ],
+    "position": [
+      -3.0,
+      2.0,
+      1.02
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-070",
+    "name": "Desk support.010",
+    "dimensions": [
+      0.07,
+      0.55,
+      0.72
+    ],
+    "position": [
+      -3.62,
+      2.0,
+      0.63
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-071",
+    "name": "Desk support.011",
+    "dimensions": [
+      0.07,
+      0.55,
+      0.72
+    ],
+    "position": [
+      -2.38,
+      2.0,
+      0.63
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-072",
+    "name": "Display.005",
+    "dimensions": [
+      0.64,
+      0.05,
+      0.39
+    ],
+    "position": [
+      -3.0,
+      2.2,
+      1.3
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-073",
+    "name": "Screen.005",
+    "dimensions": [
+      0.58,
+      0.012,
+      0.33
+    ],
+    "position": [
+      -3.0,
+      2.167,
+      1.3
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-074",
+    "name": "Desk top.006",
+    "dimensions": [
+      1.5,
+      0.7,
+      0.07
+    ],
+    "position": [
+      0.0,
+      2.0,
+      1.02
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-075",
+    "name": "Desk support.012",
+    "dimensions": [
+      0.07,
+      0.55,
+      0.72
+    ],
+    "position": [
+      -0.62,
+      2.0,
+      0.63
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-076",
+    "name": "Desk support.013",
+    "dimensions": [
+      0.07,
+      0.55,
+      0.72
+    ],
+    "position": [
+      0.62,
+      2.0,
+      0.63
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-077",
+    "name": "Display.006",
+    "dimensions": [
+      0.64,
+      0.05,
+      0.39
+    ],
+    "position": [
+      0.0,
+      2.2,
+      1.3
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-078",
+    "name": "Screen.006",
+    "dimensions": [
+      0.58,
+      0.012,
+      0.33
+    ],
+    "position": [
+      0.0,
+      2.167,
+      1.3
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-079",
+    "name": "Desk top.007",
+    "dimensions": [
+      1.5,
+      0.7,
+      0.07
+    ],
+    "position": [
+      3.0,
+      2.0,
+      1.02
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-080",
+    "name": "Desk support.014",
+    "dimensions": [
+      0.07,
+      0.55,
+      0.72
+    ],
+    "position": [
+      2.38,
+      2.0,
+      0.63
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-081",
+    "name": "Desk support.015",
+    "dimensions": [
+      0.07,
+      0.55,
+      0.72
+    ],
+    "position": [
+      3.62,
+      2.0,
+      0.63
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-082",
+    "name": "Display.007",
+    "dimensions": [
+      0.64,
+      0.05,
+      0.39
+    ],
+    "position": [
+      3.0,
+      2.2,
+      1.3
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-083",
+    "name": "Screen.007",
+    "dimensions": [
+      0.58,
+      0.012,
+      0.33
+    ],
+    "position": [
+      3.0,
+      2.167,
+      1.3
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-084",
+    "name": "bench part.003",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      -3.0,
+      -1.8,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-085",
+    "name": "bench part.004",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      0.0,
+      -1.8,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-086",
+    "name": "bench part.005",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      3.0,
+      -1.8,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-087",
+    "name": "bench part.006",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      -3.0,
+      -0.2,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-088",
+    "name": "bench part.007",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      0.0,
+      -0.2,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-089",
+    "name": "bench part.008",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      3.0,
+      -0.2,
+      0.24
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-090",
+    "name": "Community display",
+    "dimensions": [
+      4.0,
+      0.08,
+      1.25
+    ],
+    "position": [
+      0.0,
+      3.8,
+      2.1
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-091",
+    "name": "Text.010",
+    "dimensions": [
+      2.8587,
+      0.21,
+      0.004
+    ],
+    "position": [
+      0.0,
+      3.74,
+      2.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-092",
+    "name": "Whole item paving.003",
+    "dimensions": [
+      20.0,
+      20.0,
+      0.18
+    ],
+    "position": [
+      0.0,
+      -2.0,
+      -0.1
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-093",
+    "name": "Garden edge.012",
+    "dimensions": [
+      2.0,
+      5.0,
+      0.36
+    ],
+    "position": [
+      -8.0,
+      -2.0,
+      0.18
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-094",
+    "name": "Mulch.012",
+    "dimensions": [
+      1.84,
+      4.84,
+      0.035
+    ],
+    "position": [
+      -8.0,
+      -2.0,
+      0.37
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-095",
+    "name": "Native grass clump.384",
+    "dimensions": [
+      0.5462,
+      0.4184,
+      0.6428
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-096",
+    "name": "Native grass clump.385",
+    "dimensions": [
+      0.421,
+      0.4648,
+      0.6485
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-097",
+    "name": "Native grass clump.386",
+    "dimensions": [
+      0.5022,
+      0.4594,
+      0.6028
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-098",
+    "name": "Native grass clump.387",
+    "dimensions": [
+      0.5358,
+      0.419,
+      0.6441
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-099",
+    "name": "Native grass clump.388",
+    "dimensions": [
+      0.4983,
+      0.5163,
+      0.6277
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-100",
+    "name": "Native grass clump.389",
+    "dimensions": [
+      0.5753,
+      0.4631,
+      0.5593
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-101",
+    "name": "Native grass clump.390",
+    "dimensions": [
+      0.4882,
+      0.5243,
+      0.6126
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-102",
+    "name": "Native grass clump.391",
+    "dimensions": [
+      0.6221,
+      0.5622,
+      0.6218
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-103",
+    "name": "Native grass clump.392",
+    "dimensions": [
+      0.4311,
+      0.441,
+      0.6223
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-104",
+    "name": "Native grass clump.393",
+    "dimensions": [
+      0.3422,
+      0.5533,
+      0.63
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-105",
+    "name": "Native grass clump.394",
+    "dimensions": [
+      0.4922,
+      0.5148,
+      0.5973
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-106",
+    "name": "Native grass clump.395",
+    "dimensions": [
+      0.4476,
+      0.3503,
+      0.6339
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-107",
+    "name": "Native grass clump.396",
+    "dimensions": [
+      0.5331,
+      0.5319,
+      0.6412
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-108",
+    "name": "Native grass clump.397",
+    "dimensions": [
+      0.5543,
+      0.4969,
+      0.6392
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-109",
+    "name": "Native grass clump.398",
+    "dimensions": [
+      0.4318,
+      0.5184,
+      0.632
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-110",
+    "name": "Native grass clump.399",
+    "dimensions": [
+      0.5791,
+      0.4529,
+      0.5924
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-111",
+    "name": "Native grass clump.400",
+    "dimensions": [
+      0.5497,
+      0.5073,
+      0.6297
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-112",
+    "name": "Native grass clump.401",
+    "dimensions": [
+      0.5129,
+      0.3601,
+      0.645
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-113",
+    "name": "Native grass clump.402",
+    "dimensions": [
+      0.4798,
+      0.5687,
+      0.6254
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-114",
+    "name": "Native grass clump.403",
+    "dimensions": [
+      0.5621,
+      0.5019,
+      0.6343
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-115",
+    "name": "Native grass clump.404",
+    "dimensions": [
+      0.6044,
+      0.4183,
+      0.6336
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-116",
+    "name": "Native grass clump.405",
+    "dimensions": [
+      0.3813,
+      0.4857,
+      0.6452
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-117",
+    "name": "Native grass clump.406",
+    "dimensions": [
+      0.4861,
+      0.4954,
+      0.6061
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-118",
+    "name": "Native grass clump.407",
+    "dimensions": [
+      0.3439,
+      0.417,
+      0.6456
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-119",
+    "name": "Native grass clump.408",
+    "dimensions": [
+      0.4546,
+      0.4529,
+      0.6169
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-120",
+    "name": "Native grass clump.409",
+    "dimensions": [
+      0.4259,
+      0.454,
+      0.6402
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-121",
+    "name": "Native grass clump.410",
+    "dimensions": [
+      0.4127,
+      0.449,
+      0.6424
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-122",
+    "name": "Native grass clump.411",
+    "dimensions": [
+      0.4355,
+      0.4825,
+      0.6142
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-123",
+    "name": "Native grass clump.412",
+    "dimensions": [
+      0.4384,
+      0.5102,
+      0.6408
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-124",
+    "name": "Native grass clump.413",
+    "dimensions": [
+      0.471,
+      0.5032,
+      0.6442
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-125",
+    "name": "Native grass clump.414",
+    "dimensions": [
+      0.41,
+      0.4531,
+      0.6049
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-126",
+    "name": "Native grass clump.415",
+    "dimensions": [
+      0.4355,
+      0.5784,
+      0.6355
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-127",
+    "name": "Native grass clump.416",
+    "dimensions": [
+      0.3851,
+      0.4107,
+      0.6117
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-128",
+    "name": "Native grass clump.417",
+    "dimensions": [
+      0.6231,
+      0.5511,
+      0.5863
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-129",
+    "name": "Native grass clump.418",
+    "dimensions": [
+      0.3737,
+      0.466,
+      0.6458
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-130",
+    "name": "Native grass clump.419",
+    "dimensions": [
+      0.505,
+      0.5224,
+      0.5089
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-131",
+    "name": "Native grass clump.420",
+    "dimensions": [
+      0.5344,
+      0.5392,
+      0.6385
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-132",
+    "name": "Native grass clump.421",
+    "dimensions": [
+      0.3915,
+      0.3326,
+      0.5911
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-133",
+    "name": "Native grass clump.422",
+    "dimensions": [
+      0.434,
+      0.3839,
+      0.5779
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-134",
+    "name": "Native grass clump.423",
+    "dimensions": [
+      0.4064,
+      0.578,
+      0.6363
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-135",
+    "name": "branch.048",
+    "dimensions": [
+      0.22,
+      0.22,
+      3.6014
+    ],
+    "position": [
+      -7.95,
+      3.0,
+      1.8
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-136",
+    "name": "branch.049",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.4534
+    ],
+    "position": [
+      -7.45,
+      3.0,
+      2.875
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-137",
+    "name": "Eucalypt foliage.168",
+    "dimensions": [
+      1.4757,
+      1.1364,
+      0.6422
+    ],
+    "position": [
+      -6.955,
+      2.9541,
+      3.2974
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-138",
+    "name": "Eucalypt foliage.169",
+    "dimensions": [
+      1.638,
+      1.0375,
+      0.6297
+    ],
+    "position": [
+      -6.8995,
+      3.3677,
+      3.4379
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-139",
+    "name": "Eucalypt foliage.170",
+    "dimensions": [
+      1.4953,
+      1.2535,
+      0.6019
+    ],
+    "position": [
+      -7.3953,
+      2.6149,
+      3.5947
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-140",
+    "name": "Eucalypt foliage.171",
+    "dimensions": [
+      1.4778,
+      1.1316,
+      0.6321
+    ],
+    "position": [
+      -6.9254,
+      2.7914,
+      3.3559
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-141",
+    "name": "branch.050",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.5734
+    ],
+    "position": [
+      -8.4056,
+      3.3715,
+      2.9625
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-142",
+    "name": "Eucalypt foliage.172",
+    "dimensions": [
+      1.5231,
+      1.0878,
+      0.6053
+    ],
+    "position": [
+      -8.739,
+      3.906,
+      3.6309
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-143",
+    "name": "Eucalypt foliage.173",
+    "dimensions": [
+      1.4974,
+      1.2036,
+      0.6251
+    ],
+    "position": [
+      -8.5144,
+      4.0697,
+      3.402
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-144",
+    "name": "Eucalypt foliage.174",
+    "dimensions": [
+      1.4853,
+      1.0564,
+      0.6387
+    ],
+    "position": [
+      -8.4529,
+      4.2388,
+      3.5659
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-145",
+    "name": "Eucalypt foliage.175",
+    "dimensions": [
+      1.4719,
+      1.1482,
+      0.6439
+    ],
+    "position": [
+      -8.4747,
+      3.8428,
+      3.3549
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-146",
+    "name": "branch.051",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.7029
+    ],
+    "position": [
+      -7.9519,
+      2.4521,
+      3.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-147",
+    "name": "Eucalypt foliage.176",
+    "dimensions": [
+      1.4873,
+      1.1885,
+      0.6677
+    ],
+    "position": [
+      -7.452,
+      1.8511,
+      3.962
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-148",
+    "name": "Eucalypt foliage.177",
+    "dimensions": [
+      1.4424,
+      1.1324,
+      0.6763
+    ],
+    "position": [
+      -8.2811,
+      1.7215,
+      3.9931
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-149",
+    "name": "Eucalypt foliage.178",
+    "dimensions": [
+      1.5197,
+      0.9945,
+      0.6483
+    ],
+    "position": [
+      -7.9901,
+      1.6734,
+      3.6981
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-150",
+    "name": "Eucalypt foliage.179",
+    "dimensions": [
+      1.4931,
+      1.1442,
+      0.6311
+    ],
+    "position": [
+      -7.753,
+      1.6815,
+      3.7263
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-151",
+    "name": "branch.052",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.84
+    ],
+    "position": [
+      -7.6654,
+      3.4365,
+      3.1375
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-152",
+    "name": "Eucalypt foliage.180",
+    "dimensions": [
+      1.5191,
+      1.0943,
+      0.6156
+    ],
+    "position": [
+      -7.0353,
+      3.5724,
+      3.9491
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-153",
+    "name": "Eucalypt foliage.181",
+    "dimensions": [
+      1.5152,
+      1.1342,
+      0.6646
+    ],
+    "position": [
+      -7.0859,
+      4.1746,
+      3.7005
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-154",
+    "name": "Eucalypt foliage.182",
+    "dimensions": [
+      1.548,
+      1.2134,
+      0.6424
+    ],
+    "position": [
+      -6.8836,
+      3.9438,
+      3.859
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-155",
+    "name": "Eucalypt foliage.183",
+    "dimensions": [
+      1.5347,
+      1.1645,
+      0.6063
+    ],
+    "position": [
+      -7.5392,
+      3.9588,
+      4.1361
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-156",
+    "name": "branch.053",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.9831
+    ],
+    "position": [
+      -8.5416,
+      2.9041,
+      3.225
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-157",
+    "name": "Eucalypt foliage.184",
+    "dimensions": [
+      1.5573,
+      1.1497,
+      0.6353
+    ],
+    "position": [
+      -8.9084,
+      3.0317,
+      4.0925
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-158",
+    "name": "Eucalypt foliage.185",
+    "dimensions": [
+      1.4893,
+      1.0708,
+      0.6165
+    ],
+    "position": [
+      -8.9532,
+      2.4537,
+      3.9583
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-159",
+    "name": "Eucalypt foliage.186",
+    "dimensions": [
+      1.4412,
+      1.1,
+      0.6149
+    ],
+    "position": [
+      -8.8945,
+      2.8082,
+      4.1001
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-160",
+    "name": "Eucalypt foliage.187",
+    "dimensions": [
+      1.5087,
+      1.2073,
+      0.6382
+    ],
+    "position": [
+      -9.3177,
+      2.5955,
+      4.1445
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-161",
+    "name": "branch.054",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.1309
+    ],
+    "position": [
+      -7.5359,
+      2.7049,
+      3.3125
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-162",
+    "name": "Eucalypt foliage.188",
+    "dimensions": [
+      1.5866,
+      1.0463,
+      0.6049
+    ],
+    "position": [
+      -7.0156,
+      2.8056,
+      4.4664
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-163",
+    "name": "Eucalypt foliage.189",
+    "dimensions": [
+      1.4246,
+      1.129,
+      0.5947
+    ],
+    "position": [
+      -7.5185,
+      2.732,
+      4.316
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-164",
+    "name": "Eucalypt foliage.190",
+    "dimensions": [
+      1.5539,
+      1.1476,
+      0.6502
+    ],
+    "position": [
+      -6.5886,
+      2.6846,
+      4.1429
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-165",
+    "name": "Eucalypt foliage.191",
+    "dimensions": [
+      1.4003,
+      1.2056,
+      0.6138
+    ],
+    "position": [
+      -6.6441,
+      2.6791,
+      4.0306
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-166",
+    "name": "branch.055",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.2825
+    ],
+    "position": [
+      -8.1429,
+      3.5311,
+      3.4
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-167",
+    "name": "Eucalypt foliage.192",
+    "dimensions": [
+      1.6261,
+      1.1926,
+      0.6158
+    ],
+    "position": [
+      -8.3652,
+      4.4813,
+      4.6528
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-168",
+    "name": "Eucalypt foliage.193",
+    "dimensions": [
+      1.3184,
+      1.1369,
+      0.6068
+    ],
+    "position": [
+      -7.9081,
+      3.6636,
+      4.5674
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-169",
+    "name": "Eucalypt foliage.194",
+    "dimensions": [
+      1.4379,
+      1.0692,
+      0.5717
+    ],
+    "position": [
+      -8.5395,
+      4.5401,
+      4.2432
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-170",
+    "name": "Eucalypt foliage.195",
+    "dimensions": [
+      1.5317,
+      1.1726,
+      0.5921
+    ],
+    "position": [
+      -8.7021,
+      4.3921,
+      4.2949
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-171",
+    "name": "Garden edge.013",
+    "dimensions": [
+      2.0,
+      5.0,
+      0.36
+    ],
+    "position": [
+      8.0,
+      -2.0,
+      0.18
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-172",
+    "name": "Mulch.013",
+    "dimensions": [
+      1.84,
+      4.84,
+      0.035
+    ],
+    "position": [
+      8.0,
+      -2.0,
+      0.37
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-173",
+    "name": "Native grass clump.424",
+    "dimensions": [
+      0.4807,
+      0.4081,
+      0.6481
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-174",
+    "name": "Native grass clump.425",
+    "dimensions": [
+      0.4598,
+      0.4466,
+      0.6301
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-175",
+    "name": "Native grass clump.426",
+    "dimensions": [
+      0.5462,
+      0.5004,
+      0.6428
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-176",
+    "name": "Native grass clump.427",
+    "dimensions": [
+      0.5347,
+      0.4789,
+      0.6465
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-177",
+    "name": "Native grass clump.428",
+    "dimensions": [
+      0.3963,
+      0.5202,
+      0.6446
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-178",
+    "name": "Native grass clump.429",
+    "dimensions": [
+      0.5208,
+      0.4142,
+      0.639
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-179",
+    "name": "Native grass clump.430",
+    "dimensions": [
+      0.4671,
+      0.3382,
+      0.5843
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-180",
+    "name": "Native grass clump.431",
+    "dimensions": [
+      0.3663,
+      0.4746,
+      0.6066
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-181",
+    "name": "Native grass clump.432",
+    "dimensions": [
+      0.5094,
+      0.5435,
+      0.6305
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-182",
+    "name": "Native grass clump.433",
+    "dimensions": [
+      0.4454,
+      0.4988,
+      0.6479
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-183",
+    "name": "Native grass clump.434",
+    "dimensions": [
+      0.5342,
+      0.4495,
+      0.6099
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-184",
+    "name": "Native grass clump.435",
+    "dimensions": [
+      0.3847,
+      0.5026,
+      0.6164
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-185",
+    "name": "Native grass clump.436",
+    "dimensions": [
+      0.4781,
+      0.4906,
+      0.6406
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-186",
+    "name": "Native grass clump.437",
+    "dimensions": [
+      0.5828,
+      0.3552,
+      0.6308
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-187",
+    "name": "Native grass clump.438",
+    "dimensions": [
+      0.5094,
+      0.3729,
+      0.605
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-188",
+    "name": "Native grass clump.439",
+    "dimensions": [
+      0.5315,
+      0.4644,
+      0.6395
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-189",
+    "name": "Native grass clump.440",
+    "dimensions": [
+      0.5009,
+      0.5069,
+      0.6312
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-190",
+    "name": "Native grass clump.441",
+    "dimensions": [
+      0.5404,
+      0.5225,
+      0.6298
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-191",
+    "name": "Native grass clump.442",
+    "dimensions": [
+      0.4232,
+      0.5614,
+      0.6408
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-192",
+    "name": "Native grass clump.443",
+    "dimensions": [
+      0.5593,
+      0.4827,
+      0.6377
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-193",
+    "name": "Native grass clump.444",
+    "dimensions": [
+      0.5323,
+      0.5332,
+      0.6247
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-194",
+    "name": "Native grass clump.445",
+    "dimensions": [
+      0.5127,
+      0.5648,
+      0.5802
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-195",
+    "name": "Native grass clump.446",
+    "dimensions": [
+      0.5105,
+      0.5179,
+      0.6366
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-196",
+    "name": "Native grass clump.447",
+    "dimensions": [
+      0.3201,
+      0.4967,
+      0.5583
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-197",
+    "name": "Native grass clump.448",
+    "dimensions": [
+      0.5099,
+      0.5539,
+      0.6264
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-198",
+    "name": "Native grass clump.449",
+    "dimensions": [
+      0.4702,
+      0.5325,
+      0.6482
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-199",
+    "name": "Native grass clump.450",
+    "dimensions": [
+      0.3848,
+      0.5987,
+      0.6204
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-200",
+    "name": "Native grass clump.451",
+    "dimensions": [
+      0.4411,
+      0.5074,
+      0.6135
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-201",
+    "name": "Native grass clump.452",
+    "dimensions": [
+      0.4839,
+      0.4723,
+      0.6359
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-202",
+    "name": "Native grass clump.453",
+    "dimensions": [
+      0.5208,
+      0.423,
+      0.6125
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-203",
+    "name": "Native grass clump.454",
+    "dimensions": [
+      0.3823,
+      0.5752,
+      0.6231
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-204",
+    "name": "Native grass clump.455",
+    "dimensions": [
+      0.4167,
+      0.5316,
+      0.6145
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-205",
+    "name": "Native grass clump.456",
+    "dimensions": [
+      0.383,
+      0.5407,
+      0.6472
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-206",
+    "name": "Native grass clump.457",
+    "dimensions": [
+      0.401,
+      0.4297,
+      0.6381
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-207",
+    "name": "Native grass clump.458",
+    "dimensions": [
+      0.4698,
+      0.5879,
+      0.633
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-208",
+    "name": "Native grass clump.459",
+    "dimensions": [
+      0.3825,
+      0.5487,
+      0.639
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-209",
+    "name": "Native grass clump.460",
+    "dimensions": [
+      0.4053,
+      0.5458,
+      0.6356
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-210",
+    "name": "Native grass clump.461",
+    "dimensions": [
+      0.5796,
+      0.5561,
+      0.6283
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-211",
+    "name": "Native grass clump.462",
+    "dimensions": [
+      0.3663,
+      0.3973,
+      0.6043
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-212",
+    "name": "Native grass clump.463",
+    "dimensions": [
+      0.5254,
+      0.5641,
+      0.6144
+    ],
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-213",
+    "name": "branch.056",
+    "dimensions": [
+      0.22,
+      0.22,
+      3.6014
+    ],
+    "position": [
+      8.05,
+      3.0,
+      1.8
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-214",
+    "name": "branch.057",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.4534
+    ],
+    "position": [
+      8.55,
+      3.0,
+      2.875
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-215",
+    "name": "Eucalypt foliage.196",
+    "dimensions": [
+      1.5156,
+      1.1471,
+      0.6528
+    ],
+    "position": [
+      8.9057,
+      3.0569,
+      3.1938
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-216",
+    "name": "Eucalypt foliage.197",
+    "dimensions": [
+      1.5562,
+      1.1092,
+      0.6556
+    ],
+    "position": [
+      9.3007,
+      2.8464,
+      3.5632
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-217",
+    "name": "Eucalypt foliage.198",
+    "dimensions": [
+      1.4744,
+      1.2088,
+      0.6496
+    ],
+    "position": [
+      9.0808,
+      2.7503,
+      3.2969
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-218",
+    "name": "Eucalypt foliage.199",
+    "dimensions": [
+      1.5347,
+      1.1607,
+      0.6511
+    ],
+    "position": [
+      8.7748,
+      2.5265,
+      3.4367
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-219",
+    "name": "branch.058",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.5734
+    ],
+    "position": [
+      7.5944,
+      3.3715,
+      2.9625
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-220",
+    "name": "Eucalypt foliage.200",
+    "dimensions": [
+      1.5148,
+      1.1995,
+      0.6293
+    ],
+    "position": [
+      7.2775,
+      3.5316,
+      3.678
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-221",
+    "name": "Eucalypt foliage.201",
+    "dimensions": [
+      1.4547,
+      1.1507,
+      0.6498
+    ],
+    "position": [
+      6.8274,
+      3.7433,
+      3.5937
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-222",
+    "name": "Eucalypt foliage.202",
+    "dimensions": [
+      1.5375,
+      1.1383,
+      0.623
+    ],
+    "position": [
+      7.5346,
+      3.5369,
+      3.5146
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-223",
+    "name": "Eucalypt foliage.203",
+    "dimensions": [
+      1.5179,
+      1.2129,
+      0.603
+    ],
+    "position": [
+      7.3023,
+      3.9044,
+      3.5599
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-224",
+    "name": "branch.059",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.7029
+    ],
+    "position": [
+      8.0481,
+      2.4521,
+      3.05
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-225",
+    "name": "Eucalypt foliage.204",
+    "dimensions": [
+      1.4947,
+      1.0966,
+      0.6308
+    ],
+    "position": [
+      8.0289,
+      1.5012,
+      3.8978
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-226",
+    "name": "Eucalypt foliage.205",
+    "dimensions": [
+      1.4528,
+      1.1973,
+      0.6074
+    ],
+    "position": [
+      7.9649,
+      1.9615,
+      3.7265
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-227",
+    "name": "Eucalypt foliage.206",
+    "dimensions": [
+      1.4605,
+      1.0802,
+      0.6117
+    ],
+    "position": [
+      8.1576,
+      2.196,
+      3.8661
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-228",
+    "name": "Eucalypt foliage.207",
+    "dimensions": [
+      1.5165,
+      1.1302,
+      0.5946
+    ],
+    "position": [
+      7.6202,
+      1.9616,
+      3.8196
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-229",
+    "name": "branch.060",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.84
+    ],
+    "position": [
+      8.3346,
+      3.4365,
+      3.1375
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-230",
+    "name": "Eucalypt foliage.208",
+    "dimensions": [
+      1.4572,
+      1.2045,
+      0.6424
+    ],
+    "position": [
+      8.9076,
+      4.2854,
+      3.8053
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-231",
+    "name": "Eucalypt foliage.209",
+    "dimensions": [
+      1.5164,
+      1.155,
+      0.5931
+    ],
+    "position": [
+      8.8187,
+      3.6565,
+      3.9072
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-232",
+    "name": "Eucalypt foliage.210",
+    "dimensions": [
+      1.4787,
+      1.0923,
+      0.5763
+    ],
+    "position": [
+      9.0161,
+      4.2245,
+      4.1721
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-233",
+    "name": "Eucalypt foliage.211",
+    "dimensions": [
+      1.4037,
+      1.148,
+      0.6329
+    ],
+    "position": [
+      8.2376,
+      3.5254,
+      4.0256
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-234",
+    "name": "branch.061",
+    "dimensions": [
+      0.08,
+      0.08,
+      1.9831
+    ],
+    "position": [
+      7.4584,
+      2.9041,
+      3.225
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-235",
+    "name": "Eucalypt foliage.212",
+    "dimensions": [
+      1.4021,
+      1.1411,
+      0.6192
+    ],
+    "position": [
+      7.2501,
+      2.5079,
+      4.3067
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-236",
+    "name": "Eucalypt foliage.213",
+    "dimensions": [
+      1.4991,
+      1.1986,
+      0.6533
+    ],
+    "position": [
+      7.2827,
+      2.7934,
+      4.2096
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-237",
+    "name": "Eucalypt foliage.214",
+    "dimensions": [
+      1.4967,
+      1.184,
+      0.6436
+    ],
+    "position": [
+      6.9136,
+      2.9962,
+      4.2289
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-238",
+    "name": "Eucalypt foliage.215",
+    "dimensions": [
+      1.4548,
+      1.1205,
+      0.6466
+    ],
+    "position": [
+      6.7519,
+      2.9965,
+      4.1003
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-239",
+    "name": "branch.062",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.1309
+    ],
+    "position": [
+      8.4641,
+      2.7049,
+      3.3125
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-240",
+    "name": "Eucalypt foliage.216",
+    "dimensions": [
+      1.4582,
+      1.2283,
+      0.66
+    ],
+    "position": [
+      9.313,
+      2.6433,
+      4.4232
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-241",
+    "name": "Eucalypt foliage.217",
+    "dimensions": [
+      1.5076,
+      1.1848,
+      0.6546
+    ],
+    "position": [
+      9.0059,
+      2.1456,
+      4.3947
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-242",
+    "name": "Eucalypt foliage.218",
+    "dimensions": [
+      1.4473,
+      1.1527,
+      0.63
+    ],
+    "position": [
+      8.9019,
+      2.8126,
+      4.149
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-243",
+    "name": "Eucalypt foliage.219",
+    "dimensions": [
+      1.4938,
+      1.2048,
+      0.6724
+    ],
+    "position": [
+      9.0689,
+      2.0607,
+      4.3341
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-244",
+    "name": "branch.063",
+    "dimensions": [
+      0.08,
+      0.08,
+      2.2825
+    ],
+    "position": [
+      7.8571,
+      3.5311,
+      3.4
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-245",
+    "name": "Eucalypt foliage.220",
+    "dimensions": [
+      1.4942,
+      1.1712,
+      0.5792
+    ],
+    "position": [
+      7.4963,
+      3.9958,
+      4.5878
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-246",
+    "name": "Eucalypt foliage.221",
+    "dimensions": [
+      1.5889,
+      1.1959,
+      0.6758
+    ],
+    "position": [
+      7.431,
+      4.2746,
+      4.3706
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-247",
+    "name": "Eucalypt foliage.222",
+    "dimensions": [
+      1.5326,
+      1.11,
+      0.6439
+    ],
+    "position": [
+      7.946,
+      3.8268,
+      4.3116
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-248",
+    "name": "Eucalypt foliage.223",
+    "dimensions": [
+      1.4063,
+      1.109,
+      0.5937
+    ],
+    "position": [
+      7.856,
+      3.6853,
+      4.4128
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-249",
+    "name": "bench part.024",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      -7.0,
+      -6.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-250",
+    "name": "bench part.025",
+    "dimensions": [
+      1.6,
+      0.52,
+      0.47
+    ],
+    "position": [
+      7.0,
+      -6.0,
+      0.0
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-251",
+    "name": "Civic lantern plinth",
+    "dimensions": [
+      4.2,
+      3.4,
+      0.35
+    ],
+    "position": [
+      0.0,
+      0.8,
+      3.7
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-252",
+    "name": "Civic lantern glazing",
+    "dimensions": [
+      4.1,
+      0.06,
+      0.9
+    ],
+    "position": [
+      0.0,
+      -0.85,
+      4.25
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-253",
+    "name": "Civic lantern glazing.001",
+    "dimensions": [
+      4.1,
+      0.06,
+      0.9
+    ],
+    "position": [
+      0.0,
+      2.45,
+      4.25
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-254",
+    "name": "Civic lantern sides",
+    "dimensions": [
+      0.12,
+      3.4,
+      1.0
+    ],
+    "position": [
+      -2.0,
+      0.8,
+      4.25
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-255",
+    "name": "Civic lantern sides.001",
+    "dimensions": [
+      0.12,
+      3.4,
+      1.0
+    ],
+    "position": [
+      2.0,
+      0.8,
+      4.25
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-256",
+    "name": "Civic lantern crown",
+    "dimensions": [
+      4.5,
+      3.7,
+      0.18
+    ],
+    "position": [
+      0.0,
+      0.8,
+      4.83
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-257",
+    "name": "Civic colonnade",
+    "dimensions": [
+      0.35,
+      0.35,
+      3.36
+    ],
+    "position": [
+      -5.0,
+      -6.65,
+      1.68
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-258",
+    "name": "Civic colonnade.001",
+    "dimensions": [
+      0.35,
+      0.35,
+      3.36
+    ],
+    "position": [
+      -3.0,
+      -6.65,
+      1.68
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-259",
+    "name": "Civic colonnade.002",
+    "dimensions": [
+      0.35,
+      0.35,
+      3.36
+    ],
+    "position": [
+      3.0,
+      -6.65,
+      1.68
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-260",
+    "name": "Civic colonnade.003",
+    "dimensions": [
+      0.35,
+      0.35,
+      3.36
+    ],
+    "position": [
+      5.0,
+      -6.65,
+      1.68
+    ],
+    "approval": "Included in whole-item review"
+  },
+  {
+    "id": "CE-ITEM-CIVIC-001-PART-261",
+    "name": "Civic portico",
+    "dimensions": [
+      11.0,
+      3.0,
+      0.2
+    ],
+    "position": [
+      0.0,
+      -5.5,
+      3.48
+    ],
+    "approval": "Included in whole-item review"
+  }
+]

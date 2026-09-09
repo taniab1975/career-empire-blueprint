@@ -1,0 +1,32 @@
+[
+  {
+    "kind": "overview",
+    "path": "/evidence/batch-01-20260910/previews/workplace-overview.png",
+    "sha256": "e80cc2608f0aa29cb3d43c061e09dd02f9e81abfd66300ab13a32e000650a42a",
+    "camera": [
+      18.0,
+      -26.0,
+      20.0
+    ],
+    "target": [
+      0.0,
+      -1.7999999523162842,
+      1.100000023841858
+    ]
+  },
+  {
+    "kind": "walking",
+    "path": "/evidence/batch-01-20260910/previews/workplace-walking.png",
+    "sha256": "0fc11143049fbfc28f1b9629a204eac61dd7d7530245da2477db9c533e9f61b7",
+    "camera": [
+      7.199999809265137,
+      -15.0,
+      1.649999976158142
+    ],
+    "target": [
+      0.0,
+      -4.0,
+      1.649999976158142
+    ]
+  }
+]

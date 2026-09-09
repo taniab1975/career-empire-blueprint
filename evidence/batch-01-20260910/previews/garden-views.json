@@ -1,0 +1,32 @@
+[
+  {
+    "kind": "overview",
+    "path": "/evidence/batch-01-20260910/previews/garden-overview.png",
+    "sha256": "4847a3c670f4b94241954104579293f983a0f43153bd2c54a438e0924997ceb2",
+    "camera": [
+      18.0,
+      -26.0,
+      20.0
+    ],
+    "target": [
+      0.0,
+      -1.7999999523162842,
+      1.100000023841858
+    ]
+  },
+  {
+    "kind": "walking",
+    "path": "/evidence/batch-01-20260910/previews/garden-walking.png",
+    "sha256": "c9b5cf0ce42c03878696a1bd392efaf9f92437d0643d123cff9aff831e05e44f",
+    "camera": [
+      8.399999618530273,
+      -17.0,
+      1.649999976158142
+    ],
+    "target": [
+      0.0,
+      -6.0,
+      1.649999976158142
+    ]
+  }
+]

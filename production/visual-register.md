@@ -1,5 +1,8 @@
 # Visual production register — 9 September 2026
 
+**Current checkpoint — Batch 1:** Ten complete appearance candidates are built for one grouped review: Avatar Studio, Arrival Pavilion, EST Prep Lab, Civic Hall, Careers Advice Centre, First Workplace, Community Garden, Learning Courtyard, Transport Stop and Community Market. Each includes all its parts and surroundings. Review all ten together; no item is accepted yet. [Batch review](/career-empire-blueprint/evidence/asset-review-20260910/index.html).
+
+
 **Current whole-item review:** [Asset packages and their parts](asset-batch-review-2026-09-10.md). Review a complete building/scene as one item. Its unflagged parts are included in overall approval; no separate wall or flower decisions. The Studio is not yet assembled or accepted.
 
 This is a linked register within the canonical Blueprint. Current direction is in data/style-guide.json → currentDirection; the old style synthesis and selected assets remain intact as history.

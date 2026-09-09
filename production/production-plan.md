@@ -1,6 +1,7 @@
 # Next production work — 9 September 2026
 
-**Current checkpoint:** [Whole-item asset review](asset-batch-review-2026-09-10.md): approve the complete building/asset/scene with its parts included, not every wall or flower. The current Avatar Studio item has 14 supporting parts but no full assembly; no overall approval or Studio construction has occurred. Any later material appearance change returns for review. V2.14 whole-item review is published and independently verified; the live manifest identifies exact source.
+**Current checkpoint — Batch 1:** Ten complete appearance candidates are built for one grouped review: Avatar Studio, Arrival Pavilion, EST Prep Lab, Civic Hall, Careers Advice Centre, First Workplace, Community Garden, Learning Courtyard, Transport Stop and Community Market. Each includes all its parts and surroundings. Review all ten together; no item is accepted yet. [Batch review](/career-empire-blueprint/evidence/asset-review-20260910/index.html).
+
 
 **Latest instruction — 10 September 2026:** Tania authorises publication; remote CI/branch-protection activation is not required. Keep local safeguards and independently verify the live release. Then begin CE-ENV-01 at the dimensioned Avatar Studio layout stage, followed separately by kit, Studio, assembled precinct and review. The blazer stays paused. [Scope and sequence](publication-and-production-2026-09-10.md). Earlier pending-authority/remote-blocker statements below are historical checkpoints superseded by CE-CHANGE-20260910-21.
 
