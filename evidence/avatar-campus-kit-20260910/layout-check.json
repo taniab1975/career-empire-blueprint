@@ -1,0 +1,10 @@
+{
+  "samples": 85,
+  "clearOfFountain": true,
+  "clearOfStudioBlock": true,
+  "landingInTrigger": true,
+  "pathWidth": 3.2,
+  "rampRise": 0.24,
+  "rampRun": 6,
+  "limits": "Isolated test geometry; full runtime props/collision and school device are not certified."
+}

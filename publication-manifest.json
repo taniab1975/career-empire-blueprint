@@ -1,20 +1,20 @@
 {
-  "sourceCommit": "ed2bff2c35490ffbe007fbf0cd179b8ebe72c226",
-  "generatedAt": "2026-09-09T17:49:57.489Z",
-  "revision": "V2.12 / 10 September 2026",
-  "recordSha256": "c0676502dc12bbfd6e31100c409dc33bbcdd36a105f8766b58666169d5a82b1d",
+  "sourceCommit": "007ebb2c69caa3230c707b0924e077e21ee2a9eb",
+  "generatedAt": "2026-09-09T18:24:53.473Z",
+  "revision": "V2.13 / 10 September 2026",
+  "recordSha256": "88d06b19e3666067208d99cb74c948140719c34b8c2b4b223cedc4fa9b10a880",
   "files": [
-    {
-      "path": "assets/index-Cjcc2veV.js",
-      "sha256": "7689d984754e80acda72728b18b1afc5b0ebd0e1969cde0f82fbdc16d609feff"
-    },
     {
       "path": "assets/index-CjQKDqwD.css",
       "sha256": "9426a1c53962c7d98e2a28c90cf90d37c9badb0e9e6be044e3e60926795a7e42"
     },
     {
+      "path": "assets/index-J-Tj6S8B.js",
+      "sha256": "e3438860bf34cea0bf7e820cdf1c52125cadc073bfa973e2f3fd559d5bb9ef3f"
+    },
+    {
       "path": "blueprint-records.json",
-      "sha256": "c0676502dc12bbfd6e31100c409dc33bbcdd36a105f8766b58666169d5a82b1d"
+      "sha256": "88d06b19e3666067208d99cb74c948140719c34b8c2b4b223cedc4fa9b10a880"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -39,6 +39,158 @@
     {
       "path": "evidence/3d-walkthrough-start-2026-09-07.jpg",
       "sha256": "7472c779ecfb6262276b7ccf59742b6bfc1deae9989e93b83c02567ad1be72ce"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/campus-kit-v0.1.zip",
+      "sha256": "6d1c7931b73234a53ca88fda0551734b99f9caa85ff7f41a591f5ca0036a3a05"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/bench.glb",
+      "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/campus-kit-assembly.glb",
+      "sha256": "763553f30b8cf59da3397ad8e1c0e632961c9d836fb839250b4f61030102e21f"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/canopy-2m.glb",
+      "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/entry-2m.glb",
+      "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/fascia-2m.glb",
+      "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/fin-screen-1m.glb",
+      "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/landing.glb",
+      "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/paving-2m.glb",
+      "sha256": "6a174fea674a8833a3a83bd340b2adeac73711265ef60f56b4d4d6d787af1239"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/pier.glb",
+      "sha256": "e2c87abe043f66b74be6372c9e37cb3e634e4e0769f01a6cb6271111d2a36ded"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/planter.glb",
+      "sha256": "74c4ed854d63f44b884fd900d190ec1f1245a3f2070fb78248c9d01b5edc7f0c"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/post.glb",
+      "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/ramp-3p2x2.glb",
+      "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/wall-1m.glb",
+      "sha256": "6dc0d5593bdea391ae9a916c5aa0ad6293e899a404a66b9f498765308b59b29d"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/wall-2m.glb",
+      "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/exports/window-2m.glb",
+      "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/index.html",
+      "sha256": "0ebfee8f779fe057393b6834c5ae11a675839d00715407f2a956a6155af6550a"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/kit-desktop.png",
+      "sha256": "2cfc4035a943be8c00562c0c6bcc389cdaa92ba14efba8337ca8fab2797b0936"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/kit-manifest.json",
+      "sha256": "4c34a86f95f4b23d73ec3d7e8980c5bba0a3c3b5df7106f69fd52fc4f833a376"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/kit-mobile.png",
+      "sha256": "44d2b9358353fd761086751a0277cbe618b8911997e99cff489e017a178bc2a5"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/kit-overview.png",
+      "sha256": "53f9d669eb5fe7f3d20f2c62bc23f4285c1fe144ffb2c2159d1bde56e2589d62"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/layout-A.png",
+      "sha256": "b6d7ed6674ff6a95932e0634b3a2faae380e51e0924fcfd6761899c82fd15728"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/layout-B.png",
+      "sha256": "ba685c83818c981415c043c13c535523af96fdd7277b7851fcfa3e744f5c1184"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/layout-C.png",
+      "sha256": "01ec8bffb5cf7c37b19096e0190071be5cf7e1723846b80ed08beff94712c309"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/layout-check.json",
+      "sha256": "822db34b3f0eb93a8296b00eac49bb7385f429b30c5f7ba72db8fc03a4c95c4a"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/layout-D.png",
+      "sha256": "f446f2ce76c0713512c060c2fe331277807334b8b2ffd700fb9766ab745b0fbe"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/layout-prototype.glb",
+      "sha256": "1a6e8803e5949919396adf13b82c301af62184aaddd54076e83dbe29d273c631"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/README.md",
+      "sha256": "945de85a0ff382921bd5f6c22f809282e1a69e3f315e2b74df1b044774bb6bb8"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/stats.json",
+      "sha256": "007236c36c9d94758bf92b7198ad0036dc5e6073a4d15076dd4b4cc1282c9dbe"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/textures/Oiled-timber-basecolor.png",
+      "sha256": "29647e2a40f3b3a4df493c4baead5f77503866cdc3e2ecbf5354014b2a634bc1"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/textures/Oiled-timber-normal.png",
+      "sha256": "40936ed06fce1aa6f8c8ef6e30f9714de61f1668673a3898237c0af14e3c0ae3"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/textures/Oiled-timber-roughness.png",
+      "sha256": "4171a8c79be586084ec8bd5ca81a7eb5f4208976525ae85b9c7d36b7519fd464"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/textures/paving-original.png",
+      "sha256": "73e9c90b16d616068a5bbc8394f3fa6828b129275ac6f5e7fe69ce7a2b524508"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/textures/Warm-limestone-basecolor.png",
+      "sha256": "4d90a7d0781d8038eea5c24feef06e045cd1da322ce2401b123434f1aa83d22a"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/textures/Warm-limestone-normal.png",
+      "sha256": "8d713e300bba68825ded5a26fba0e4bea799a6f298afca5e9c6ea1b3aca7bb4f"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/textures/Warm-limestone-roughness.png",
+      "sha256": "6c0acadaf607a336c939d604033856d9a40cb55067c773c0b65996bd8fb33d80"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/validation.json",
+      "sha256": "d904fd4b10b92f5b07bd2256a2ad30bcaf3c7a0b63b84c7406af0f12fd65fb9c"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/workbench.js",
+      "sha256": "b9a6c6fa23589729a9175c8d95fe9c38a0c12aa787363465b78389c554a9095d"
     },
     {
       "path": "evidence/avatar-precinct-stage1-20260910/dimensioned-approach.svg",
@@ -242,7 +394,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "3f019272017e96d460cbd4dfef263cf9df5c44fe85b2cd8efd6f6b4739b8abf2"
+      "sha256": "7d75abe8a030fec1ae2f734899f8012477139d6b5ad8bda638324eee9dfa30bd"
     },
     {
       "path": "playable-3d/app.js",
@@ -349,12 +501,16 @@
       "sha256": "6c10bc0150a5409ad8bfb64be70b1ba132ced00cb0c681f7dd4628222ea99038"
     },
     {
+      "path": "production/avatar-campus-textured-kit-2026-09-10.md",
+      "sha256": "2097d083eea1e47437f482cf821ebdf29c488fcb062af3b30cb1c5a30fe71707"
+    },
+    {
       "path": "production/avatar-precinct-layout-stage1-2026-09-10.md",
-      "sha256": "941b8b7f496abddb69de659dad70d8d3ef2e4258383bc80a16a2562ee66b1873"
+      "sha256": "6842fd75cb97b390eb552b117737a85074c22c2cb664cf01558b6afb601f1f09"
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "7d7381e0423f45ce02d9990712afddc9bedfa01d99e4363d98e1a539ecc7550b"
+      "sha256": "9309f6d7b1818643a69a8aeb918fd559b643c68e30ac2ede3809ca75b668ea67"
     },
     {
       "path": "production/change-workflows.md",
@@ -362,11 +518,11 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "e0cb6b0714beee2a0f3dfb58ca35781c7ae7f05ac9bbbbdec524fa710f693ea1"
+      "sha256": "75e6b1f18888da43a60c1e6011a5e134bc7f8084dfce5e4bd33c2d446dea3b68"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "fd25dfd0f4ab17f2aeb899a917c699f0637c75789d874722c1c2571e0722a533"
+      "sha256": "c8d266ad261465672726d58d085404f741d7542218de0a78382b1e88c063d0fc"
     },
     {
       "path": "production/github-migration-2026-09-09.md",
@@ -386,15 +542,15 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "36cac919c016352d2ae6e771e2b82cd1e61ace47fd8bf927987f631dc149846d"
+      "sha256": "583a72788e2039b9b525fd303c07f9a8e7d1725f02d31328a463ac34d4f455c6"
     },
     {
       "path": "production/operating-protocol.md",
-      "sha256": "3c44bd5056f6d3027c7cb8e331e1910f43fb68f0b0d0d3d36b9d7e4299f7db59"
+      "sha256": "6c76d993a0087c34a5fb66d887d03608c30d5ea4d70eb86c217e11270bdd7000"
     },
     {
       "path": "production/production-plan.md",
-      "sha256": "71827e9ed1590276f1f9fecc6fa36ccac10fd36d809d979affc930e1a4391490"
+      "sha256": "8466483a87f29999159931e301b9da2f766a52c7d6a4761a634f3ebb007a4a2c"
     },
     {
       "path": "production/project-automation-setup-2026-09-10.md",
@@ -426,7 +582,7 @@
     },
     {
       "path": "production/visual-register.md",
-      "sha256": "3d7619ce65298168d5596d400ab8944e36523e4a4400ead9ca6e7fc7229bb97d"
+      "sha256": "35e09a841a6d9ed9f6534774e290542365a3b87203976086bb4fcbe5631e9379"
     },
     {
       "path": "references/CE-BLDG-001-home-base.png",

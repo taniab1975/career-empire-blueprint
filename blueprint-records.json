@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "revision": "V2.12 / 10 September 2026",
+  "revision": "V2.13 / 10 September 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -25,10 +25,10 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.12",
+      "id": "V2.13",
       "date": "2026-09-10",
-      "label": "V2.12 / 10 September 2026",
-      "status": "V2.12 publication verified; Avatar Studio dimensioned layout underway",
+      "label": "V2.13 / 10 September 2026",
+      "status": "Textured modular kit candidate built; publication checks underway",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -188,18 +188,18 @@
     },
     "currentStep": {
       "id": "CE-ENV-01",
-      "title": "Stage 1: dimension the Avatar Studio precinct",
-      "status": "In progress — measured prototype and candidate layout",
+      "title": "Stage 2: review the textured campus kit",
+      "status": "Built candidate — geometry and visual review",
       "owner": "Environment integrator; Tania: appearance and placement acceptance",
       "href": "#world",
-      "actionLabel": "Review the Studio target and current prototype",
+      "actionLabel": "Inspect the textured kit and production evidence",
       "decisionIds": [
         "V2-D07",
         "V2-D08",
         "V2-D17"
       ],
-      "nextAction": "Review the dimensioned study and diagram in the world section, then load its candidate coordinates into the isolated workbench for cameras A–D, approach/collision and height-transition checks before textured kit production. Blazer stays paused.",
-      "doneWhen": "A dimensioned candidate and matched aerial/player-height views expose scale, entrance, path and camera decisions for review before kit production.",
+      "nextAction": "Review the limestone, navy frame, timber, glazing and paving modules in the isolated workbench. Resolve kit appearance before assembling the full Avatar Studio as Stage 3; precinct landscaping and school-device review remain later. Blazer stays paused.",
+      "doneWhen": "Reusable textured modules have measured exports, reimport checks, readable desktop/mobile evidence and explicit appearance acceptance before full Studio assembly.",
       "boundary": "Blazer remains paused. Existing campus references control appearance. No paid generation, classroom acceptance, economy changes or live game release is implied. This does not approve a finished precinct or resume wardrobe production."
     },
     "roadmap": [
@@ -228,8 +228,8 @@
         "horizon": "Now",
         "title": "Complete the Avatar Studio precinct candidate",
         "owner": "Environment integrator; Tania: appearance and placement acceptance",
-        "status": "Stage 1 underway; dimensioned layout candidate before modular kit",
-        "dependency": "Approved references and measured-source reconciliation; layout review before kit, named school device before performance acceptance",
+        "status": "Stage 2 textured kit built as candidate; appearance review next",
+        "dependency": "Approved references and isolated layout check; kit review before full Studio, then precinct and target-device review",
         "doneWhen": "Player-height Studio/garden/path/plaza candidate matches approved concepts, passes functional/performance review and receives explicit precinct acceptance before release.",
         "href": "#delivery"
       },
@@ -498,13 +498,13 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "V2.12 publication is verified: local safeguards are published and remote CI activation is outside required scope. Stage 1 of the approved Avatar Studio precinct is now underway: reconcile the existing sketch with the working entrance, then review dimensioned approach and camera views before the textured kit, Studio and assembled precinct stages. Blazer remains paused; classroom and finished-precinct acceptance remain separate.",
+      "summary": "V2.12 publication is verified. V2.13 adds the separately authorised textured campus kit: 14 reusable modules and a small join specimen, following the isolated dimensioned-layout review. Review the kit appearance before full Studio assembly, then the precinct. Remote CI is outside required scope; blazer remains paused; classroom and finished-precinct acceptance remain separate.",
       "facts": [
         {
-          "label": "V2.12 VERIFIED / STAGE 1 UNDERWAY",
+          "label": "STAGE 2 / TEXTURED KIT CANDIDATE",
           "title": "One canonical source; publication is a dated copy",
-          "detail": "Local safeguards are published. Remote CI activation is outside required scope. The current production action is the separate dimensioned Studio layout study; no finished precinct or classroom acceptance is claimed.",
-          "href": "/production/material-changes.md"
+          "detail": "The dimensioned approach has been checked in isolated cameras A–D. Fourteen textured modules and a facade join sample are built for review. Publication verification is pending; no live game change is claimed.",
+          "href": "/production/avatar-campus-textured-kit-2026-09-10.md"
         },
         {
           "label": "PARTLY VERIFIED",
@@ -527,7 +527,7 @@
         {
           "label": "APPROVED DIRECTION / UNFINISHED PRODUCTION",
           "title": "ECC campus plus career corridor; one precinct first",
-          "detail": "The later visual direction and six-step sequence refine older civic references without approving a generic city or more hero buildings. Resume candidate layout/approach study → modular textured kit → Studio → assembled precinct → visual/performance review → deliberate release.",
+          "detail": "Approved campus references remain the target. Isolated layout review → textured kit candidate now built → appearance review → full Studio → assembled precinct → visual/performance review → deliberate game release.",
           "href": "/production/material-changes.md"
         },
         {
@@ -619,6 +619,10 @@
       ],
       "documents": [
         {
+          "title": "Textured campus kit — assets, workbench and checks",
+          "href": "/production/avatar-campus-textured-kit-2026-09-10.md"
+        },
+        {
           "title": "Current state and source/publication status",
           "href": "/production/current-state.md"
         },
@@ -676,14 +680,14 @@
       "asOf": "2026-09-10",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.12 / local safeguards and staged continuation",
+        "sourceRevision": "V2.13 / textured campus kit candidate",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
         "observedLiveRevision": "V2.12 / GitHub Pages",
         "checkedAt": "2026-09-10",
         "observedLiveSha256": "a82f87fe8c34dfe5e956dc6d44db2d8631d22f61aab4ca59391eea8f76be7dfe",
         "accessCheck": "GitHub delivery repository PUBLIC and Pages built successfully; source mirror PRIVATE. Existing Sites project still returns HTTP 404 NOT_FOUND / project_not_found.",
         "validationReceipt": "/production/v212-release-receipt-2026-09-10.md",
-        "status": "V2.12 publication verified; stage-one production begins separately",
+        "status": "V2.13 kit publication checks underway; V2.12 is the last independently verified live release",
         "savedVersionId": null,
         "deploymentId": "GitHub Pages / e92327d / independently verified 10 September 2026",
         "parity": "Exact manifest and all 131 public file hashes verified with full local/live desktop/mobile browser checks",
@@ -1294,6 +1298,29 @@
           "deployment": "Study, diagram and JSON verified live from source 7f21484d36a1d1b9d02a52809227bb8f25a35f3b / public f9b25550bfc3e2f69d2261570494397a5c6ea506. No game runtime or new precinct deployed.",
           "testing": "Measured GLB/route/trigger checks and 57 Blueprint tests pass; TypeScript, focused lint and builds pass. All 135 live file hashes match; actual study link/document/diagram checked at 1280/390px. Camera/collision gameplay and school-device review remain ahead.",
           "taniaAcceptance": "No stage-one candidate acceptance inferred."
+        },
+        {
+          "id": "CE-CHANGE-20260910-23",
+          "date": "2026-09-10",
+          "title": "Produce the textured campus modular kit",
+          "domain": "Stage-two textured environment assets and isolated engine review",
+          "source": "Tania, current task 10 September 2026: \"yes good textured kit production please\". Continue from the published dimensioned Studio study and approved campus/pavilion references. Discussion CE-DISCUSSION-b27fa486-fcec-45e3-b585-53c54918b048.",
+          "owner": "Environment integrator; Tania accepts appearance",
+          "status": "Built candidate; ready for Blueprint publication",
+          "rationale": "Turn approved limestone, navy framing, timber fins, glass and paving into reusable dimensioned meshes/materials. Check the preceding layout in an isolated viewer before kit acceptance; preserve separate Studio and precinct stages.",
+          "dependencies": [
+            "CE-CHANGE-20260910-22"
+          ],
+          "evidence": [
+            "/production/avatar-campus-textured-kit-2026-09-10.md"
+          ],
+          "nextAction": "Review the limestone, navy frame, timber, glazing and paving modules in the isolated workbench. Resolve kit appearance before assembling the full Avatar Studio as Stage 3; precinct landscaping and school-device review remain later. Blazer stays paused.",
+          "supersededRecord": null,
+          "designApproval": "Tania authorises textured kit production. This is not acceptance of the finished kit, Studio, precinct, wardrobe or classroom release.",
+          "implementation": "Fourteen separate UV-mapped GLBs, authored stone/timber PBR textures, reused original paving, editable Blender source, manifest and isolated Three.js assembly viewer. No live game files changed.",
+          "deployment": "No new kit or game release yet.",
+          "testing": "14 GLB reimports and geometry/material checks, corrected texture visual inspection,57 Blueprint tests, TypeScript, focused lint, normal build and targeted desktop/mobile reader checks pass. Full release smoke and live comparison remain publication checks.",
+          "taniaAcceptance": "Production requested; appearance acceptance remains for the concrete result."
         }
       ],
       "sessionStart": [
@@ -3790,7 +3817,7 @@
         "summary": "Warm limestone, navy framing, glass, timber shade and layered native gardens; the recovered 9 September courtyard concept.",
         "source": "Generated 9 September 06:41:56 UTC; Refine Career Empire Blender master, image event 2483. Tania welcomed the campus/corridor direction at 07:05 UTC.",
         "limits": "A concept target, not a live map or a faithful reconstruction of ECC. Its skyline and waterfront are not evidence of the real school.",
-        "nextAction": "Keep the approved family; dimension a smaller walkable layout before the modular kit.",
+        "nextAction": "Review CE-ENV-KIT-01 textured modules after the isolated layout check, then assemble the full Studio and precinct as separate stages. This original remains a reference, not finished-precinct acceptance.",
         "placements": [
           "start",
           "visuals",
@@ -3808,7 +3835,7 @@
         "summary": "The recovered 9 September elevated view connects school learning, civic life and future work with one readable walking spine.",
         "source": "Generated 9 September 06:42:58 UTC; same task, image event 2490; campus/corridor direction welcomed by Tania at 07:05 UTC.",
         "limits": "The aerial explains direction, not final coordinates, semester order, unlock thresholds or completed construction.",
-        "nextAction": "Avatar Studio precinct first; Arrival → EST Prep → Civic Heart is the next learning expansion.",
+        "nextAction": "Review CE-ENV-KIT-01 textured modules after the isolated layout check, then assemble the full Studio and precinct as separate stages. This original remains a reference, not finished-precinct acceptance.",
         "placements": [
           "start",
           "visuals",
@@ -3826,7 +3853,7 @@
         "summary": "Recessed glass entry, limestone walls, navy canopy, timber fins, solar roof and a restrained teal identity feature.",
         "source": "Generated 9 September 07:49:54 UTC; same task, image event 2760. Tania at 07:52 UTC: semi-realistic exactly like that image is the goal.",
         "limits": "Appearance direction approved; the complete building, step-free approach, interior, kit and precinct have not passed final review.",
-        "nextAction": "Dimensioned approach → textured modular kit → full Studio → garden/path/plaza → player-height review → deliberate release.",
+        "nextAction": "Review CE-ENV-KIT-01 textured modules after the isolated layout check, then assemble the full Studio and precinct as separate stages. This original remains a reference, not finished-precinct acceptance.",
         "placements": [
           "visuals",
           "world"
@@ -3842,7 +3869,7 @@
         "summary": "9 September browser screenshot shows the actual Studio entrance, avatar and Open Avatar Studio interaction after the approach/orientation work.",
         "source": "Inspect blazer-only GLB asset task, studio-door-approach.png. Runtime world.js loads assets/scenery/ecc-avatar-studio-v1.glb.",
         "limits": "This is the built prototype, visibly below the approved pavilion target. Screenshot evidence is dated, not a new classroom/performance acceptance test.",
-        "nextAction": "Preserve the working entrance; compare façade, glass, planting, scale and approach against CE-STUDIO-CONCEPT-01 in the separate candidate.",
+        "nextAction": "Review CE-ENV-KIT-01 textured modules after the isolated layout check, then assemble the full Studio and precinct as separate stages. This original remains a reference, not finished-precinct acceptance.",
         "placements": [
           "start",
           "visuals",
@@ -4297,45 +4324,64 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20260910-20",
-        "CE-CHANGE-20260910-21",
-        "CE-CHANGE-20260910-22"
+        "CE-CHANGE-20260910-23"
       ],
-      "scope": "Verified V2.12 publication close-out and published stage-one dimensioned study. Precinct production remains at the layout-review stage.",
-      "disclosure": "The stage-one study is published; workbench camera/collision/level review remains before kit production. Remote CI is outside required scope and blazer remains paused.",
+      "scope": "V2.13 textured modular kit candidate, measured exports and current reader integration. No game runtime release.",
+      "disclosure": "Kit appearance acceptance remains pending; full Studio, assembled precinct, collision and school-device review follow separately. Blazer remains paused; remote CI activation outside required scope.",
       "requiredReviewFiles": [
-        "app/globals.css",
-        "docs/production/reader-release-receipt-2026-09-10.md",
-        "docs/production/current-state.md",
-        "docs/production/production-plan.md",
-        "tests/browser-smoke.mjs",
-        "data/change-workflows.json",
-        "docs/production/change-workflows.md",
-        "app/change-integration.tsx",
-        "app/style-guide.tsx",
+        "AGENTS.md",
+        "README.md",
+        "app/blueprint-detail.tsx",
         "app/blueprint-surfaces.tsx",
-        "scripts/validate-impact.mjs",
-        "tests/change-impact.test.mjs",
+        "app/change-integration.tsx",
         "app/current-evidence.tsx",
+        "app/globals.css",
         "app/learning-map.tsx",
-        "tests/reader-currency.test.mjs",
-        "docs/production/reader-reconciliation-2026-09-10.md",
-        "scripts/project-guard.mjs",
-        "tests/project-guard.test.mjs",
-        "docs/production/project-work-contract.md",
-        "docs/production/project-automation-setup-2026-09-10.md",
-        "docs/production/publication-and-production-2026-09-10.md",
+        "app/style-guide.tsx",
+        "data/blueprint.ts",
+        "data/change-workflows.json",
+        "data/curriculum.json",
+        "data/operations.json",
+        "data/style-guide.json",
+        "docs/handoff-guide.md",
+        "docs/production/avatar-campus-textured-kit-2026-09-10.md",
         "docs/production/avatar-precinct-layout-stage1-2026-09-10.md",
-        "docs/production/v212-release-receipt-2026-09-10.md"
+        "docs/production/change-workflows.md",
+        "docs/production/current-state.md",
+        "docs/production/operating-protocol.md",
+        "docs/production/production-plan.md",
+        "docs/production/project-automation-setup-2026-09-10.md",
+        "docs/production/project-work-contract.md",
+        "docs/production/publication-and-production-2026-09-10.md",
+        "docs/production/reader-reconciliation-2026-09-10.md",
+        "docs/production/reader-release-receipt-2026-09-10.md",
+        "docs/production/v212-release-receipt-2026-09-10.md",
+        "docs/production/visual-evidence-manifest.json",
+        "docs/production/visual-register.md",
+        "package.json",
+        "public/evidence/avatar-campus-kit-20260910/README.md",
+        "public/evidence/avatar-campus-kit-20260910/index.html",
+        "public/evidence/avatar-campus-kit-20260910/kit-manifest.json",
+        "public/evidence/avatar-campus-kit-20260910/validation.json",
+        "public/evidence/avatar-campus-kit-20260910/workbench.js",
+        "scripts/export-blueprint.mjs",
+        "scripts/prepare-pages.mjs",
+        "scripts/project-guard.mjs",
+        "scripts/validate-impact.mjs",
+        "tests/browser-smoke.mjs",
+        "tests/change-impact.test.mjs",
+        "tests/project-guard.test.mjs",
+        "tests/reader-currency.test.mjs",
+        "vite.pages.config.ts"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "152cd4ec23ec315d76009e3c835b9e90b8791294afa4beaa58e89822d5e61b3f"
+          "sha256": "4d13ec7e7689d950fc8ef927ed01717fabb6eb429c8cc88e5a734d140e2bd977"
         },
         {
           "path": "README.md",
-          "sha256": "a60bdcec37a353468dbb8ec676faea579a6cd6856afa4f62e4b8940bef296913"
+          "sha256": "4f6535a8d6d5c82281816d0092c14324baca0c6a9a4e6059482194b5ec254ac4"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -4351,7 +4397,7 @@
         },
         {
           "path": "app/current-evidence.tsx",
-          "sha256": "0cdaadce220c89d56b6e278763a81a6b26d132c8912cc816b749eb831c7f84d4"
+          "sha256": "b8701ec0cb798cbf6a1ab16ae6c8154045f93257a034995e9d911c6a6ed5412b"
         },
         {
           "path": "app/globals.css",
@@ -4363,7 +4409,7 @@
         },
         {
           "path": "app/style-guide.tsx",
-          "sha256": "959714da60bf679d303f9f051a78ad3c878bd238609c38213e53b19e8b86eed4"
+          "sha256": "5dd6d416707c14ac4cf3f2667bd89929caf2d200892c514eab2b99d112696b9e"
         },
         {
           "path": "data/blueprint.ts",
@@ -4379,19 +4425,23 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "5368e4156625440c957285c53d0a485d8dbf92a05b9ce7c1a97223c4a80eadae"
+          "sha256": "498be7544a683e2e1561c35a136a29980abef624075177d92ae4674b054bf08b"
         },
         {
           "path": "data/style-guide.json",
-          "sha256": "66e8c8c09a0c2e9dbecd9ff3fd0891dff746720eb8401910681c22d2d1ef5b3f"
+          "sha256": "b15410736a676d677c79c9cd53c3792aea7d65f0618640cec45126e496281f36"
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "9af91ee2d7c35541c14b2edd9e5e1991738014001b09761553d5f51bdb06998d"
+          "sha256": "834ef8801abc673c44f33051aecc635c0eed9b530e258c8011dea65623b5c8dd"
+        },
+        {
+          "path": "docs/production/avatar-campus-textured-kit-2026-09-10.md",
+          "sha256": "ca4237f1410ef7f23e0fd05f5c93fd6199c73d949544d294d5e034de90763cf5"
         },
         {
           "path": "docs/production/avatar-precinct-layout-stage1-2026-09-10.md",
-          "sha256": "bd80b98de4ceb88fe4839e1d33a317101305d54cc135a6ed5264de81f400ec25"
+          "sha256": "49accb3a7418a4a163a649f0b61d0f530ca63c5d80b4df743189c1644f428ca3"
         },
         {
           "path": "docs/production/change-workflows.md",
@@ -4399,15 +4449,15 @@
         },
         {
           "path": "docs/production/current-state.md",
-          "sha256": "fd25dfd0f4ab17f2aeb899a917c699f0637c75789d874722c1c2571e0722a533"
+          "sha256": "c8d266ad261465672726d58d085404f741d7542218de0a78382b1e88c063d0fc"
         },
         {
           "path": "docs/production/operating-protocol.md",
-          "sha256": "3c44bd5056f6d3027c7cb8e331e1910f43fb68f0b0d0d3d36b9d7e4299f7db59"
+          "sha256": "6c76d993a0087c34a5fb66d887d03608c30d5ea4d70eb86c217e11270bdd7000"
         },
         {
           "path": "docs/production/production-plan.md",
-          "sha256": "71827e9ed1590276f1f9fecc6fa36ccac10fd36d809d979affc930e1a4391490"
+          "sha256": "8466483a87f29999159931e301b9da2f766a52c7d6a4761a634f3ebb007a4a2c"
         },
         {
           "path": "docs/production/project-automation-setup-2026-09-10.md",
@@ -4435,19 +4485,39 @@
         },
         {
           "path": "docs/production/visual-evidence-manifest.json",
-          "sha256": "a40b716adda71eb8d8d1f2640f93cab9862118fafce10f301716a97666537d8e"
+          "sha256": "be43c5478cd5f8e4133fcccd0d6adea5fa89ba22dc7a7cc198a3cf53324902ab"
         },
         {
           "path": "docs/production/visual-register.md",
-          "sha256": "9a585090acbc53a1f2b7e3e60160557dbc3a62b807a926fac973b2718987f3f4"
+          "sha256": "3247f5375a2f1d785cdea2bf942231f300e43b9327ccf35184aa16f005c37059"
         },
         {
           "path": "package.json",
           "sha256": "77e3da1c9a66ee03c895b562f559d9df1053b81d45c2cf537d79b3e24a08c098"
         },
         {
+          "path": "public/evidence/avatar-campus-kit-20260910/README.md",
+          "sha256": "945de85a0ff382921bd5f6c22f809282e1a69e3f315e2b74df1b044774bb6bb8"
+        },
+        {
+          "path": "public/evidence/avatar-campus-kit-20260910/index.html",
+          "sha256": "0ebfee8f779fe057393b6834c5ae11a675839d00715407f2a956a6155af6550a"
+        },
+        {
+          "path": "public/evidence/avatar-campus-kit-20260910/kit-manifest.json",
+          "sha256": "4c34a86f95f4b23d73ec3d7e8980c5bba0a3c3b5df7106f69fd52fc4f833a376"
+        },
+        {
+          "path": "public/evidence/avatar-campus-kit-20260910/validation.json",
+          "sha256": "d904fd4b10b92f5b07bd2256a2ad30bcaf3c7a0b63b84c7406af0f12fd65fb9c"
+        },
+        {
+          "path": "public/evidence/avatar-campus-kit-20260910/workbench.js",
+          "sha256": "b9a6c6fa23589729a9175c8d95fe9c38a0c12aa787363465b78389c554a9095d"
+        },
+        {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "df9a3d39444acc855db25b521b4997ca0638954c2e049fb848dde1fddb338902"
+          "sha256": "caa1023016d9989e86a3f5aa763253be1cd76e7b711feec9693db2b98b5e4216"
         },
         {
           "path": "scripts/prepare-pages.mjs",
@@ -6411,6 +6481,436 @@
             "nextAction": "Recheck after further candidate or reader changes."
           }
         ]
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-23",
+        "title": "Produce the textured campus modular kit",
+        "types": [
+          "visual",
+          "building",
+          "implementation"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Turn approved limestone, navy framing, timber fins, glass and paving into reusable dimensioned meshes/materials. Check the preceding layout in an isolated viewer before kit acceptance; preserve separate Studio and precinct stages.",
+        "before": "Dimensioned candidate published; actual textured modular kit and engine camera review remain unfinished.",
+        "after": "Reusable textured modules, measured manifest and export/reimport proof, with visible kit images and a separate browser workbench. Finished precinct remains later.",
+        "source": "Tania, current task 10 September 2026: \"yes good textured kit production please\". Continue from the published dimensioned Studio study and approved campus/pavilion references. Discussion CE-DISCUSSION-b27fa486-fcec-45e3-b585-53c54918b048.",
+        "owner": "Blueprint maintainer and environment integrator",
+        "nextAction": "Publish reviewed candidate assets and reader updates, compare all live hashes and inspect desktop/mobile pages. Kit appearance acceptance remains pending before full Studio assembly.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Current Stage2 action and production summary identify14 textured modules, candidate status and kit review before full Studio; checked at1280/390px.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current Stage2 action and production summary identify14 textured modules, candidate status and kit review before full Studio; checked at1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "CE-ENV-01 advances to kit appearance review while full Studio, precinct and device gates stay distinct; unrelated priorities retained.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "CE-ENV-01 advances to kit appearance review while full Studio, precinct and device gates stay distinct; unrelated priorities retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Appended change23 with exact user authorisation and linked discussion; all22 earlier records, four approvals and protected decisions preserved.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Appended change23 with exact user authorisation and linked discussion; all22 earlier records, four approvals and protected decisions preserved.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "AGENTS, README, current-state, operating protocol and handoff now point to kit review then Studio; Definition of Done retained.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "AGENTS, README, current-state, operating protocol and handoff now point to kit review then Studio; Definition of Done retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Regenerated canonical record, handoff, current-assets and public production documents; downloadable kit has14 individual GLBs, assembly, textures, manifest and checks.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Regenerated canonical record, handoff, current-assets and public production documents; downloadable kit has14 individual GLBs, assembly, textures, manifest and checks.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish only reviewed dist-pages output; independently compare all files and inspect current kit reader and workbench.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Production and source/reader review pending.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Verify live manifest, file hashes, downloadable kit and desktop/mobile reader before completing integration."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Actual kit render appears in world and look-and-feel; all six original image hashes and classifications retained; four next actions advanced.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual kit render appears in world and look-and-feel; all six original image hashes and classifications retained; four next actions advanced.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "Inspected kit render and desktop/mobile GLB captures. Existing original Start Here images and historical video/poster bytes remain unchanged; no new film or concept substitute.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Inspected kit render and desktop/mobile GLB captures. Existing original Start Here images and historical video/poster bytes remain unchanged; no new film or concept substitute.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Registered CE-ENV-KIT-01 with14 measured assets, UV/PBR maps, hashes, pivots, placement notes and actual reimport validation.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Registered CE-ENV-KIT-01 with14 measured assets, UV/PBR maps, hashes, pivots, placement notes and actual reimport validation.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "World section identifies parts and join specimen separately from full Studio; clear entry and ramp geometry documented; collision/integration remain later.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "World section identifies parts and join specimen separately from full Studio; clear entry and ramp geometry documented; collision/integration remain later.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Checked unchanged: kit has no character, rig, clothing or identity edits; two existing avatar evidence records and blazer pause retained.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Checked unchanged: kit has no character, rig, clothing or identity edits; two existing avatar evidence records and blazer pause retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "Kit changes only isolated materials/geometry and review UI; economy, unlocks and saved progression unchanged in exact blueprint source.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Kit changes only isolated materials/geometry and review UI; economy, unlocks and saved progression unchanged in exact blueprint source.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "Checked unchanged: exact17 V2 decisions, four production approvals and proposed pilot retained; user requests production but has not accepted appearance.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Checked unchanged: exact17 V2 decisions, four production approvals and proposed pilot retained; user requests production but has not accepted appearance.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "14 GLBs reimport and dimensions/UV/normals/transmission/open-entry/ramp tests pass; corrected blank textures visually rechecked.57 Blueprint tests, TypeScript, lint, normal build and targeted reader checks pass.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "14 GLBs reimport and dimensions/UV/normals/transmission/open-entry/ramp tests pass; corrected blank textures visually rechecked.57 Blueprint tests, TypeScript, lint, normal build and targeted reader checks pass.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "flow",
+            "disposition": "checked-unchanged",
+            "action": "Checked unchanged: byte-identical experience/curriculum source; no gameplay choice, evidence, reward, return or progression modified.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Checked unchanged: byte-identical experience/curriculum source; no gameplay choice, evidence, reward, return or progression modified.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "Checked unchanged: classroom and teacher matrix still explicitly unverified/local-only; no teacher code, permissions or student records changed.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Checked unchanged: classroom and teacher matrix still explicitly unverified/local-only; no teacher code, permissions or student records changed.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Editable packed Blender source and deterministic scripts saved privately; existing source and PRIVATE recovery destination retained. Exact Megatrends continuity-file bindings recorded; remote push is publication step.",
+            "records": [
+              "CE-CHANGE-20260910-23",
+              "CE-ENV-KIT-01",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/evidence/avatar-campus-kit-20260910/validation.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Editable packed Blender source and deterministic scripts saved privately; existing source and PRIVATE recovery destination retained. Exact Megatrends continuity-file bindings recorded; remote push is publication step.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain this verified scope; kit appearance acceptance remains pending."
+          }
+        ],
+        "projectChanges": {
+          "megatrends": {
+            "AGENTS.md": "100644:2ce9eea0db4311d370d74e948222cb260e673b30",
+            "docs/current-workspace-status.md": "100644:b01b24bf638497e71024033b574260ad5c5db3c8"
+          }
+        }
       }
     ]
   },

@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: Verified V2.12 publication close-out and published stage-one dimensioned study. Precinct production remains at the layout-review stage.
+Release scope: V2.13 textured modular kit candidate, measured exports and current reader integration. No game runtime release.
 
-The stage-one study is published; workbench camera/collision/level review remains before kit production. Remote CI is outside required scope and blazer remains paused.
+Kit appearance acceptance remains pending; full Studio, assembled precinct, collision and school-device review follow separately. Blazer remains paused; remote CI activation outside required scope.
 
 ## CE-CHANGE-20260910-17 — Change-driven Blueprint update workflow
 
@@ -1534,6 +1534,324 @@ Verification: passed / Existing Home Base teleport and Studio trigger are preser
 - [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
 
 Next: Recheck after further candidate or reader changes.
+
+## CE-CHANGE-20260910-23 — Produce the textured campus modular kit
+
+Integration: **ready-for-publication**. Types: visual, building, implementation. Owner: Blueprint maintainer and environment integrator.
+
+**Objective:** Turn approved limestone, navy framing, timber fins, glass and paving into reusable dimensioned meshes/materials. Check the preceding layout in an isolated viewer before kit acceptance; preserve separate Studio and precinct stages.
+
+**Before:** Dimensioned candidate published; actual textured modular kit and engine camera review remain unfinished.
+
+**Required result:** Reusable textured modules, measured manifest and export/reimport proof, with visible kit images and a separate browser workbench. Finished precinct remains later.
+
+**Source:** Tania, current task 10 September 2026: "yes good textured kit production please". Continue from the published dimensioned Studio study and approved campus/pavilion references. Discussion CE-DISCUSSION-b27fa486-fcec-45e3-b585-53c54918b048.
+
+**Next:** Publish reviewed candidate assets and reader updates, compare all live hashes and inspect desktop/mobile pages. Kit appearance acceptance remains pending before full Studio assembly.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Current Stage2 action and production summary identify14 textured modules, candidate status and kit review before full Studio; checked at1280/390px.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Current Stage2 action and production summary identify14 textured modules, candidate status and kit review before full Studio; checked at1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+CE-ENV-01 advances to kit appearance review while full Studio, precinct and device gates stay distinct; unrelated priorities retained.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / CE-ENV-01 advances to kit appearance review while full Studio, precinct and device gates stay distinct; unrelated priorities retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Appended change23 with exact user authorisation and linked discussion; all22 earlier records, four approvals and protected decisions preserved.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Appended change23 with exact user authorisation and linked discussion; all22 earlier records, four approvals and protected decisions preserved.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+AGENTS, README, current-state, operating protocol and handoff now point to kit review then Studio; Definition of Done retained.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / AGENTS, README, current-state, operating protocol and handoff now point to kit review then Studio; Definition of Done retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerated canonical record, handoff, current-assets and public production documents; downloadable kit has14 individual GLBs, assembly, textures, manifest and checks.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Regenerated canonical record, handoff, current-assets and public production documents; downloadable kit has14 individual GLBs, assembly, textures, manifest and checks.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish only reviewed dist-pages output; independently compare all files and inspect current kit reader and workbench.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Production and source/reader review pending.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+
+Next: Verify live manifest, file hashes, downloadable kit and desktop/mobile reader before completing integration.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Actual kit render appears in world and look-and-feel; all six original image hashes and classifications retained; four next actions advanced.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / Actual kit render appears in world and look-and-feel; all six original image hashes and classifications retained; four next actions advanced.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Inspected kit render and desktop/mobile GLB captures. Existing original Start Here images and historical video/poster bytes remain unchanged; no new film or concept substitute.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / Inspected kit render and desktop/mobile GLB captures. Existing original Start Here images and historical video/poster bytes remain unchanged; no new film or concept substitute.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Registered CE-ENV-KIT-01 with14 measured assets, UV/PBR maps, hashes, pivots, placement notes and actual reimport validation.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Registered CE-ENV-KIT-01 with14 measured assets, UV/PBR maps, hashes, pivots, placement notes and actual reimport validation.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+World section identifies parts and join specimen separately from full Studio; clear entry and ramp geometry documented; collision/integration remain later.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / World section identifies parts and join specimen separately from full Studio; clear entry and ramp geometry documented; collision/integration remain later.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### Avatar and wardrobe references — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Checked unchanged: kit has no character, rig, clothing or identity edits; two existing avatar evidence records and blazer pause retained.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / Checked unchanged: kit has no character, rig, clothing or identity edits; two existing avatar evidence records and blazer pause retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### World, rewards and progression — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Kit changes only isolated materials/geometry and review UI; economy, unlocks and saved progression unchanged in exact blueprint source.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / Kit changes only isolated materials/geometry and review UI; economy, unlocks and saved progression unchanged in exact blueprint source.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Checked unchanged: exact17 V2 decisions, four production approvals and proposed pilot retained; user requests production but has not accepted appearance.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / Checked unchanged: exact17 V2 decisions, four production approvals and proposed pilot retained; user requests production but has not accepted appearance.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+14 GLBs reimport and dimensions/UV/normals/transmission/open-entry/ramp tests pass; corrected blank textures visually rechecked.57 Blueprint tests, TypeScript, lint, normal build and targeted reader checks pass.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / 14 GLBs reimport and dimensions/UV/normals/transmission/open-entry/ramp tests pass; corrected blank textures visually rechecked.57 Blueprint tests, TypeScript, lint, normal build and targeted reader checks pass.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### Activities and learning flow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Checked unchanged: byte-identical experience/curriculum source; no gameplay choice, evidence, reward, return or progression modified.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Checked unchanged: byte-identical experience/curriculum source; no gameplay choice, evidence, reward, return or progression modified.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Checked unchanged: classroom and teacher matrix still explicitly unverified/local-only; no teacher code, permissions or student records changed.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / Checked unchanged: classroom and teacher matrix still explicitly unverified/local-only; no teacher code, permissions or student records changed.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Editable packed Blender source and deterministic scripts saved privately; existing source and PRIVATE recovery destination retained. Exact Megatrends continuity-file bindings recorded; remote push is publication step.
+
+Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Editable packed Blender source and deterministic scripts saved privately; existing source and PRIVATE recovery destination retained. Exact Megatrends continuity-file bindings recorded; remote push is publication step.
+
+- [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
+
+Next: Maintain this verified scope; kit appearance acceptance remains pending.
 
 ## Historical boundary
 

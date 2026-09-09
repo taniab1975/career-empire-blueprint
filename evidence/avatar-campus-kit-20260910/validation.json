@@ -1,0 +1,181 @@
+{
+  "result": "passed",
+  "modules": [
+    {
+      "id": "wall-2m",
+      "exportReimport": "passed",
+      "UVNormals": "passed",
+      "dimensionsMetres": [
+        1.992,
+        0.24,
+        3.0
+      ],
+      "embeddedImages": 3,
+      "bytes": 1000208
+    },
+    {
+      "id": "wall-1m",
+      "exportReimport": "passed",
+      "UVNormals": "passed",
+      "dimensionsMetres": [
+        0.992,
+        0.24,
+        3.0
+      ],
+      "embeddedImages": 3,
+      "bytes": 920140
+    },
+    {
+      "id": "pier",
+      "exportReimport": "passed",
+      "UVNormals": "passed",
+      "dimensionsMetres": [
+        0.392,
+        0.4,
+        3.0
+      ],
+      "embeddedImages": 3,
+      "bytes": 880108
+    },
+    {
+      "id": "window-2m",
+      "exportReimport": "passed",
+      "UVNormals": "passed",
+      "dimensionsMetres": [
+        2.0,
+        0.14,
+        3.0
+      ],
+      "embeddedImages": 0,
+      "bytes": 25688
+    },
+    {
+      "id": "entry-2m",
+      "exportReimport": "passed",
+      "UVNormals": "passed",
+      "dimensionsMetres": [
+        2.0,
+        0.14,
+        3.0
+      ],
+      "embeddedImages": 0,
+      "bytes": 11220
+    },
+    {
+      "id": "fin-screen-1m",
+      "exportReimport": "passed",
+      "UVNormals": "passed",
+      "dimensionsMetres": [
+        1.0,
+        0.215,
+        3.0
+      ],
+      "embeddedImages": 3,
+      "bytes": 848020
+    },
+    {
+      "id": "canopy-2m",
+      "exportReimport": "passed",
+      "UVNormals": "passed",
+      "dimensionsMetres": [
+        2.0,
+        1.6,
+        0.24
+      ],
+      "embeddedImages": 3,
+      "bytes": 874712
+    },
+    {
+      "id": "fascia-2m",
+      "exportReimport": "passed",
+      "UVNormals": "passed",
+      "dimensionsMetres": [
+        2.0,
+        0.2,
+        0.24
+      ],
+      "embeddedImages": 0,
+      "bytes": 4560
+    },
+    {
+      "id": "post",
+      "exportReimport": "passed",
+      "UVNormals": "passed",
+      "dimensionsMetres": [
+        0.12,
+        0.12,
+        3.0
+      ],
+      "embeddedImages": 0,
+      "bytes": 4556
+    },
+    {
+      "id": "paving-2m",
+      "exportReimport": "passed",
+      "UVNormals": "passed",
+      "dimensionsMetres": [
+        2.0,
+        2.0,
+        0.08
+      ],
+      "embeddedImages": 1,
+      "bytes": 1916408
+    },
+    {
+      "id": "ramp-3p2x2",
+      "exportReimport": "passed",
+      "UVNormals": "passed",
+      "dimensionsMetres": [
+        3.2,
+        2.0,
+        0.16
+      ],
+      "embeddedImages": 1,
+      "bytes": 1913952
+    },
+    {
+      "id": "landing",
+      "exportReimport": "passed",
+      "UVNormals": "passed",
+      "dimensionsMetres": [
+        3.2,
+        1.2,
+        0.24
+      ],
+      "embeddedImages": 1,
+      "bytes": 1916472
+    },
+    {
+      "id": "planter",
+      "exportReimport": "passed",
+      "UVNormals": "passed",
+      "dimensionsMetres": [
+        1.6,
+        0.8,
+        0.6
+      ],
+      "embeddedImages": 3,
+      "bytes": 835884
+    },
+    {
+      "id": "bench",
+      "exportReimport": "passed",
+      "UVNormals": "passed",
+      "dimensionsMetres": [
+        1.6,
+        0.52,
+        0.47
+      ],
+      "embeddedImages": 3,
+      "bytes": 834712
+    }
+  ],
+  "checks": [
+    "Every GLB imported into Blender; dimensions agree within0.2mm.",
+    "All mesh primitives contain UV and normal attributes.",
+    "Transmissive glass extension present in window.",
+    "Entry has no glass blocking its opening.",
+    "Actual exported ramp vertices join at .08m increments, 3 segments=.24m over6m."
+  ],
+  "limits": "No game collider/navigation or target school-device benchmark. Appearance remains subject to Tania review."
+}

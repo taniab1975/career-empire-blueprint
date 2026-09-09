@@ -1,10 +1,10 @@
 # Start Here — Career Empire, 10 September 2026
 
-**Current checkpoint:** V2.12 publication is independently verified; remote CI is outside required scope. [Release receipt](v212-release-receipt-2026-09-10.md). CE-ENV-01 Stage 1 has begun: [dimensioned layout study](avatar-precinct-layout-stage1-2026-09-10.md). Next is isolated camera/approach review before the textured kit. No kit, finished precinct or live game change is claimed. Earlier pending-publication statements below are historical checkpoints.
+**Current checkpoint:** V2.13 textured kit candidate is built under CE-CHANGE-20260910-23; publication checks are underway. [Kit, evidence and next action](avatar-campus-textured-kit-2026-09-10.md). The isolated layout review precedes this kit. Next is kit appearance review, then full Studio assembly, then the precinct. Blazer remains paused. V2.12 remains the last verified public release until the new manifest is checked. Earlier stage-one-only statements below are historical checkpoints.
 
 **Latest instruction — 10 September 2026:** Tania authorises publication; remote CI/branch-protection activation is not required. Keep local safeguards and independently verify the live release. Then begin CE-ENV-01 at the dimensioned Avatar Studio layout stage, followed separately by kit, Studio, assembled precinct and review. The blazer stays paused. [Scope and sequence](publication-and-production-2026-09-10.md). Earlier pending-authority/remote-blocker statements below are historical checkpoints superseded by CE-CHANGE-20260910-21.
 
-**Current production work:** The local safeguard publication is verified. CE-ENV-01 Stage 1 is underway; review the dimensioned candidate in the isolated workbench before kit production. Remote CI is outside scope and account-dependent availability remains disclosed.
+**Current production work:** CE-ENV-01 Stage 2 kit candidate is built. Inspect the actual textured pieces and join specimen before full Studio assembly. Remote CI is outside scope; school-device and full runtime collision checks remain outstanding.
 
 **Reader reconciliation, V2.11.** The earlier whole-Blueprint currency claim was withdrawn after stale content was found. The exact approved campus, corridor and Avatar Studio originals are now recovered, and built Studio/schoolboy/blazer evidence is separately displayed. [Section-by-section findings](reader-reconciliation-2026-09-10.md) distinguish content corrections from unverified game/classroom acceptance. The current live build is identified by its [publication manifest](https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json), not by a previous version label.
 
@@ -16,7 +16,7 @@ Career Empire remains an experience-first career/life simulation for Year 12 Car
 |---|---|---|
 | Visual direction | Original 9 September courtyard, corridor and pavilion images recovered from the originating task; exact hashes registered | Concept approval is not completion of the model or precinct |
 | Built world and avatars | Actual Studio entrance and schoolboy/blazer screenshots now visible; live app.js, characters.js and world.js match the inspected game source on 10 September | School-device, full animation and classroom acceptance are not established |
-| Avatar Studio precinct | Direction approved; actual GLB and coordinate layout sketch exist | Dimensioned approach, textured modular kit, full Studio and garden/path/plaza candidate; review before deliberate release |
+| Avatar Studio precinct | Direction approved; dimensioned layout reviewed in isolation and 14 textured kit modules built | Kit appearance review, then full Studio, then garden/path/plaza candidate; review before deliberate game release |
 | Wardrobe | Repaired shared-skeleton blazer first pass accepted for publication and paused | Missing covered torso/upper-arm geometry and sleeve defects; do not resume without Tania |
 | EST Prep | Correct destination returns HTTP 200; published launch code exists | Four-stage identity/evidence/return loop still unverified |
 | Teacher workflow | Older comparison matrices are public; the new renderTeacherESTPrepMatrix function remains local-only on 10 September | Reconcile/release the new EST matrix and test saved review, roles, ownership and resume with fictional accounts |
@@ -42,4 +42,4 @@ Career Empire remains an experience-first career/life simulation for Year 12 Car
 4. Confirm cohort/edition and the first learning pilot before classroom claims.
 5. Leave blazer work paused; defer extra hero buildings, gameplay mechanics and spending.
 
-All 17 V2 decisions, four production approvals, curriculum wording, experience mappings and the unapproved pilot are preserved. No new game or asset production occurred. Historical states remain in dated records; they must not override the current source.
+All 17 V2 decisions, four production approvals, curriculum wording, experience mappings and the unapproved pilot are preserved. Fourteen kit modules were produced in an isolated workbench; no live game was changed. Historical states remain in dated records; they must not override the current source.

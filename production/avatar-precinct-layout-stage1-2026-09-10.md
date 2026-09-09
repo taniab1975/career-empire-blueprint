@@ -1,5 +1,7 @@
 # Avatar Studio precinct — Stage 1 dimensioned layout
 
+**Subsequent checkpoint:** Isolated A–D camera/approach review completed under CE-CHANGE-20260910-23. The approach centreline clears the fountain/building and reaches the existing trigger. Legacy steps and opaque glazing remain known prototype faults; no full-game collision acceptance. Continue to [the textured kit record](avatar-campus-textured-kit-2026-09-10.md). Original measurements below are preserved.
+
 CE-CHANGE-20260910-22 / CE-ENV-LAYOUT-01. Started after verified V2.12 publication on 10 September 2026. Owner: environment integrator; Tania accepts the appearance/placement. This is a review candidate, not an approved map, textured kit, finished precinct or deployed game change.
 
 ![Dimensioned approach candidate](/career-empire-blueprint/evidence/avatar-precinct-stage1-20260910/dimensioned-approach.svg)

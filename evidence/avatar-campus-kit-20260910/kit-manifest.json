@@ -1,0 +1,382 @@
+{
+  "id": "CE-ENV-KIT-01",
+  "version": "0.1.0-candidate",
+  "date": "2026-09-10",
+  "status": "Built candidate; appearance acceptance pending",
+  "units": "metres",
+  "coordinates": "Editable Blender Z-up, front -Y; GLB Y-up, front +Z. All pivots ground-centre unless noted.",
+  "materials": "UV-mapped authored limestone/timber basecolor roughness normal; original project paving image retained; navy PBR and transmissive clear glass.",
+  "modules": [
+    {
+      "id": "wall-2m",
+      "label": "Coursed limestone wall",
+      "note": "Snap X at +/- half width; base Z=0, height3m.",
+      "dimensionsMetres": [
+        1.992,
+        0.24,
+        3.0
+      ],
+      "blenderBounds": [
+        [
+          -0.9959999918937683,
+          -0.11999999731779099,
+          0.0
+        ],
+        [
+          0.9959999918937683,
+          0.11999999731779099,
+          3.0
+        ]
+      ],
+      "triangles": 2388,
+      "file": "exports/wall-2m.glb",
+      "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa",
+      "bytes": 1000208
+    },
+    {
+      "id": "wall-1m",
+      "label": "Coursed limestone wall",
+      "note": "Snap X at +/- half width; base Z=0, height3m.",
+      "dimensionsMetres": [
+        0.992,
+        0.24,
+        3.0
+      ],
+      "blenderBounds": [
+        [
+          -0.4959999918937683,
+          -0.11999999731779099,
+          0.0
+        ],
+        [
+          0.4959999918937683,
+          0.11999999731779099,
+          3.0
+        ]
+      ],
+      "triangles": 1332,
+      "file": "exports/wall-1m.glb",
+      "sha256": "6dc0d5593bdea391ae9a916c5aa0ad6293e899a404a66b9f498765308b59b29d",
+      "bytes": 920140
+    },
+    {
+      "id": "pier",
+      "label": "Limestone pier",
+      "note": "Base-centre pivot, 3m high.",
+      "dimensionsMetres": [
+        0.392,
+        0.4,
+        3.0
+      ],
+      "blenderBounds": [
+        [
+          -0.19600000977516174,
+          -0.20000000298023224,
+          0.0
+        ],
+        [
+          0.19600000977516174,
+          0.20000000298023224,
+          3.0
+        ]
+      ],
+      "triangles": 804,
+      "file": "exports/pier.glb",
+      "sha256": "e2c87abe043f66b74be6372c9e37cb3e634e4e0769f01a6cb6271111d2a36ded",
+      "bytes": 880108
+    },
+    {
+      "id": "window-2m",
+      "label": "Clear glazed window",
+      "note": "Transmission glass, 12mm visual thickness, explicit navy frame.",
+      "dimensionsMetres": [
+        2.0,
+        0.14,
+        3.0
+      ],
+      "blenderBounds": [
+        [
+          -1.0,
+          -0.07000000029802322,
+          0.0
+        ],
+        [
+          0.9999999403953552,
+          0.07000000029802322,
+          3.0
+        ]
+      ],
+      "triangles": 308,
+      "file": "exports/window-2m.glb",
+      "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8",
+      "bytes": 25688
+    },
+    {
+      "id": "entry-2m",
+      "label": "Open entry frame",
+      "note": "1.76m clear width / 2.88m clear height; no door leaf or threshold collision.",
+      "dimensionsMetres": [
+        2.0,
+        0.14,
+        3.0
+      ],
+      "blenderBounds": [
+        [
+          -1.0,
+          -0.07000000029802322,
+          0.0
+        ],
+        [
+          0.9999999403953552,
+          0.07000000029802322,
+          3.0
+        ]
+      ],
+      "triangles": 132,
+      "file": "exports/entry-2m.glb",
+      "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b",
+      "bytes": 11220
+    },
+    {
+      "id": "fin-screen-1m",
+      "label": "Timber fin screen",
+      "note": "1m snap spacing including side clearance; geometry width1m rail.",
+      "dimensionsMetres": [
+        1.0,
+        0.215,
+        3.0
+      ],
+      "blenderBounds": [
+        [
+          -0.5,
+          -0.09000000357627869,
+          0.0
+        ],
+        [
+          0.5,
+          0.125,
+          3.0
+        ]
+      ],
+      "triangles": 396,
+      "file": "exports/fin-screen-1m.glb",
+      "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874",
+      "bytes": 848020
+    },
+    {
+      "id": "canopy-2m",
+      "label": "Canopy with timber soffit",
+      "note": "Pivot at facade ground line; spans front -Y1.6m at underside3.02m.",
+      "dimensionsMetres": [
+        2.0,
+        1.6,
+        0.24
+      ],
+      "blenderBounds": [
+        [
+          -1.0,
+          -1.600000023841858,
+          3.0199999809265137
+        ],
+        [
+          1.0,
+          0.0,
+          3.259999990463257
+        ]
+      ],
+      "triangles": 748,
+      "file": "exports/canopy-2m.glb",
+      "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10",
+      "bytes": 874712
+    },
+    {
+      "id": "fascia-2m",
+      "label": "Navy roof fascia",
+      "note": "Pivot at ground line; fascia bottom3.10m.",
+      "dimensionsMetres": [
+        2.0,
+        0.2,
+        0.24
+      ],
+      "blenderBounds": [
+        [
+          -1.0,
+          -0.10000000149011612,
+          3.1000001430511475
+        ],
+        [
+          1.0,
+          0.10000000149011612,
+          3.3399999141693115
+        ]
+      ],
+      "triangles": 44,
+      "file": "exports/fascia-2m.glb",
+      "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca",
+      "bytes": 4560
+    },
+    {
+      "id": "post",
+      "label": "Navy canopy post",
+      "note": "3m high; cap contact to canopy requires .02m shim or adjusted canopy.",
+      "dimensionsMetres": [
+        0.12,
+        0.12,
+        3.0
+      ],
+      "blenderBounds": [
+        [
+          -0.05999999865889549,
+          -0.05999999865889549,
+          0.0
+        ],
+        [
+          0.05999999865889549,
+          0.05999999865889549,
+          3.0
+        ]
+      ],
+      "triangles": 44,
+      "file": "exports/post.glb",
+      "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb",
+      "bytes": 4556
+    },
+    {
+      "id": "paving-2m",
+      "label": "Paving tile",
+      "note": "Walking face Z=0; 2m grid.",
+      "dimensionsMetres": [
+        2.0,
+        2.0,
+        0.08
+      ],
+      "blenderBounds": [
+        [
+          -1.0,
+          -1.0,
+          -0.07999999821186066
+        ],
+        [
+          1.0,
+          1.0,
+          0.0
+        ]
+      ],
+      "triangles": 44,
+      "file": "exports/paving-2m.glb",
+      "sha256": "6a174fea674a8833a3a83bd340b2adeac73711265ef60f56b4d4d6d787af1239",
+      "bytes": 1916408
+    },
+    {
+      "id": "ramp-3p2x2",
+      "label": "Ramp segment",
+      "note": "3.2m width; run2m; rise.08m. Repeat with Y+2/Z+.08; three give6m/.24. No compliance certification.",
+      "dimensionsMetres": [
+        3.2,
+        2.0,
+        0.16
+      ],
+      "blenderBounds": [
+        [
+          -1.600000023841858,
+          -1.0,
+          -0.07999999821186066
+        ],
+        [
+          1.600000023841858,
+          1.0,
+          0.07999999821186066
+        ]
+      ],
+      "triangles": 12,
+      "file": "exports/ramp-3p2x2.glb",
+      "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0",
+      "bytes": 1913952
+    },
+    {
+      "id": "landing",
+      "label": "Raised landing",
+      "note": "Top .24m; width3.2m depth1.2m.",
+      "dimensionsMetres": [
+        3.2,
+        1.2,
+        0.24
+      ],
+      "blenderBounds": [
+        [
+          -1.600000023841858,
+          -0.6000000238418579,
+          0.0
+        ],
+        [
+          1.600000023841858,
+          0.6000000238418579,
+          0.23999999463558197
+        ]
+      ],
+      "triangles": 44,
+      "file": "exports/landing.glb",
+      "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3",
+      "bytes": 1916472
+    },
+    {
+      "id": "planter",
+      "label": "Hollow limestone planter",
+      "note": "1.6 x .8m; soil inset, planting is later precinct stage.",
+      "dimensionsMetres": [
+        1.6,
+        0.8,
+        0.6
+      ],
+      "blenderBounds": [
+        [
+          -0.800000011920929,
+          -0.4000000059604645,
+          0.0
+        ],
+        [
+          0.800000011920929,
+          0.4000000059604645,
+          0.6000000238418579
+        ]
+      ],
+      "triangles": 220,
+      "file": "exports/planter.glb",
+      "sha256": "74c4ed854d63f44b884fd900d190ec1f1245a3f2070fb78248c9d01b5edc7f0c",
+      "bytes": 835884
+    },
+    {
+      "id": "bench",
+      "label": "Timber bench",
+      "note": "1.6 x .52m, seat top.47m.",
+      "dimensionsMetres": [
+        1.6,
+        0.52,
+        0.47
+      ],
+      "blenderBounds": [
+        [
+          -0.800000011920929,
+          -0.25999999046325684,
+          0.0
+        ],
+        [
+          0.800000011920929,
+          0.25999999046325684,
+          0.4699999690055847
+        ]
+      ],
+      "triangles": 220,
+      "file": "exports/bench.glb",
+      "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a",
+      "bytes": 834712
+    }
+  ],
+  "uniqueTriangles": 6736,
+  "limitations": [
+    "Not a finished Studio or precinct.",
+    "No game collision/navmesh or school-device acceptance.",
+    "Glass engine sorting and mobile cost need target-device review."
+  ],
+  "assembly": "exports/campus-kit-assembly.glb"
+}

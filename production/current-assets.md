@@ -12,6 +12,9 @@ Visual references → dimensioned playable layout → textured modular kit → A
 
 The older civic concepts and prompt pack below are retained history and supporting references. They do not override this campus direction or approve new buildings, RPG mechanics, an economy formula or a faithful reconstruction of ECC.
 
+## Current kit production — CE-ENV-KIT-01
+Fourteen textured modules are built as a candidate. Review the [actual kit, exports and checks](avatar-campus-textured-kit-2026-09-10.md) before full Studio assembly, then the precinct. Original references remain separate; blazer stays paused.
+
 ## Current recovered originals and built evidence
 
 ### CE-CAMPUS-01 — ECC Career Campus — approved visual foundation
@@ -19,7 +22,7 @@ The older civic concepts and prompt pack below are retained history and supporti
 concept / 2026-09-09
 Warm limestone, navy framing, glass, timber shade and layered native gardens; the recovered 9 September courtyard concept.
 Limits: A concept target, not a live map or a faithful reconstruction of ECC. Its skyline and waterfront are not evidence of the real school.
-Next: Keep the approved family; dimension a smaller walkable layout before the modular kit.
+Next: Review CE-ENV-KIT-01 textured modules after the isolated layout check, then assemble the full Studio and precinct as separate stages. This original remains a reference, not finished-precinct acceptance.
 Source: Generated 9 September 06:41:56 UTC; Refine Career Empire Blender master, image event 2483. Tania welcomed the campus/corridor direction at 07:05 UTC.
 SHA-256: 49a72f63ed395aef4efaa0804fc7f4b7bf56b1ae4bd76ddf6a89fb29df7d675a
 
@@ -28,7 +31,7 @@ SHA-256: 49a72f63ed395aef4efaa0804fc7f4b7bf56b1ae4bd76ddf6a89fb29df7d675a
 concept / 2026-09-09
 The recovered 9 September elevated view connects school learning, civic life and future work with one readable walking spine.
 Limits: The aerial explains direction, not final coordinates, semester order, unlock thresholds or completed construction.
-Next: Avatar Studio precinct first; Arrival → EST Prep → Civic Heart is the next learning expansion.
+Next: Review CE-ENV-KIT-01 textured modules after the isolated layout check, then assemble the full Studio and precinct as separate stages. This original remains a reference, not finished-precinct acceptance.
 Source: Generated 9 September 06:42:58 UTC; same task, image event 2490; campus/corridor direction welcomed by Tania at 07:05 UTC.
 SHA-256: a04ca8ee06d621c26d731bb713b10cbe321fc0353c89ceac28e42bb7cae95d01
 
@@ -37,7 +40,7 @@ SHA-256: a04ca8ee06d621c26d731bb713b10cbe321fc0353c89ceac28e42bb7cae95d01
 concept / 2026-09-09
 Recessed glass entry, limestone walls, navy canopy, timber fins, solar roof and a restrained teal identity feature.
 Limits: Appearance direction approved; the complete building, step-free approach, interior, kit and precinct have not passed final review.
-Next: Dimensioned approach → textured modular kit → full Studio → garden/path/plaza → player-height review → deliberate release.
+Next: Review CE-ENV-KIT-01 textured modules after the isolated layout check, then assemble the full Studio and precinct as separate stages. This original remains a reference, not finished-precinct acceptance.
 Source: Generated 9 September 07:49:54 UTC; same task, image event 2760. Tania at 07:52 UTC: semi-realistic exactly like that image is the goal.
 SHA-256: 9ed24babb6abcfa9eacabc67149e9374173e2ade62508ccb8e1a1b98dc685582
 
@@ -46,7 +49,7 @@ SHA-256: 9ed24babb6abcfa9eacabc67149e9374173e2ade62508ccb8e1a1b98dc685582
 built / 2026-09-09
 9 September browser screenshot shows the actual Studio entrance, avatar and Open Avatar Studio interaction after the approach/orientation work.
 Limits: This is the built prototype, visibly below the approved pavilion target. Screenshot evidence is dated, not a new classroom/performance acceptance test.
-Next: Preserve the working entrance; compare façade, glass, planting, scale and approach against CE-STUDIO-CONCEPT-01 in the separate candidate.
+Next: Review CE-ENV-KIT-01 textured modules after the isolated layout check, then assemble the full Studio and precinct as separate stages. This original remains a reference, not finished-precinct acceptance.
 Source: Inspect blazer-only GLB asset task, studio-door-approach.png. Runtime world.js loads assets/scenery/ecc-avatar-studio-v1.glb.
 SHA-256: 71710490e09e2efaba243fd4b0e0ef38525c56082afecf44bd08f952a1ac589c
 
@@ -67,6 +70,7 @@ Limits: A still does not prove every animation or deformation passes. The paused
 Next: Retain evidence with the matching model; future motion acceptance requires supported clips and complete-body checks.
 Source: Inspect blazer-only GLB asset task, studio-jacket-walking.png; shared-skeleton synthetic walking test, not the incompatible independent Tripo clip.
 SHA-256: 63103349fda80bd82c3955c2b3beec5b36bd245e52390b2a15b6a6311271d473
+Open integration CE-CHANGE-20260910-23: Turn approved limestone, navy framing, timber fins, glass and paving into reusable dimensioned meshes/materials. Check the preceding layout in an isolated viewer before kit acceptance; preserve separate Studio and precinct stages. Next: Publish reviewed candidate assets and reader updates, compare all live hashes and inspect desktop/mobile pages. Kit appearance acceptance remains pending before full Studio assembly.
 
 ## Retained earlier reference family and prompt pack — historical, not a replacement for the current direction
 

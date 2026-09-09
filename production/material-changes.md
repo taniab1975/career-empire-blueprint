@@ -398,6 +398,24 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **testing:** Measured GLB/route/trigger checks and 57 Blueprint tests pass; TypeScript, focused lint and builds pass. All 135 live file hashes match; actual study link/document/diagram checked at 1280/390px. Camera/collision gameplay and school-device review remain ahead.
 - **taniaAcceptance:** No stage-one candidate acceptance inferred.
 
+## CE-CHANGE-20260910-23 — Produce the textured campus modular kit
+
+- **date:** 2026-09-10
+- **domain:** Stage-two textured environment assets and isolated engine review
+- **source:** Tania, current task 10 September 2026: "yes good textured kit production please". Continue from the published dimensioned Studio study and approved campus/pavilion references. Discussion CE-DISCUSSION-b27fa486-fcec-45e3-b585-53c54918b048.
+- **owner:** Environment integrator; Tania accepts appearance
+- **status:** Built candidate; ready for Blueprint publication
+- **rationale:** Turn approved limestone, navy framing, timber fins, glass and paving into reusable dimensioned meshes/materials. Check the preceding layout in an isolated viewer before kit acceptance; preserve separate Studio and precinct stages.
+- **dependencies:** CE-CHANGE-20260910-22
+- **evidence:** /production/avatar-campus-textured-kit-2026-09-10.md
+- **nextAction:** Review the limestone, navy frame, timber, glazing and paving modules in the isolated workbench. Resolve kit appearance before assembling the full Avatar Studio as Stage 3; precinct landscaping and school-device review remain later. Blazer stays paused.
+- **supersededRecord:** None
+- **designApproval:** Tania authorises textured kit production. This is not acceptance of the finished kit, Studio, precinct, wardrobe or classroom release.
+- **implementation:** Fourteen separate UV-mapped GLBs, authored stone/timber PBR textures, reused original paving, editable Blender source, manifest and isolated Three.js assembly viewer. No live game files changed.
+- **deployment:** No new kit or game release yet.
+- **testing:** 14 GLB reimports and geometry/material checks, corrected texture visual inspection,57 Blueprint tests, TypeScript, focused lint, normal build and targeted desktop/mobile reader checks pass. Full release smoke and live comparison remain publication checks.
+- **taniaAcceptance:** Production requested; appearance acceptance remains for the concrete result.
+
 ## Retained Atlas principles
 
 Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries
