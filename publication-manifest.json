@@ -1,20 +1,20 @@
 {
-  "sourceCommit": "875a5590fb18ac7da7efc5c7068b859ce303f48f",
-  "generatedAt": "2026-09-09T16:00:19.163Z",
-  "revision": "V2.9 / 9 September 2026",
-  "recordSha256": "10dee5eb862b1f2e8628bb9f93d8bef500fe08f7afbee6b12efbf9473d481a35",
+  "sourceCommit": "c9806d28a5ec89be5dfc22edcecf58f0221042b7",
+  "generatedAt": "2026-09-09T16:21:55.104Z",
+  "revision": "V2.10 / 10 September 2026",
+  "recordSha256": "1ad47ea05a1c7ab8441d63bf600c4205b9c2b464817c58a236235c836cfae34b",
   "files": [
-    {
-      "path": "assets/index-0KNKWyxU.js",
-      "sha256": "5d16fcfdc7fd40b03990612605d1d580a4482b6fd40a53829b6d3b9dfc689c36"
-    },
     {
       "path": "assets/index-C_2ZDBYW.css",
       "sha256": "cc37d579c165abbfbd934325aa759bcb75705ca9370e3ff614596b91319b0de9"
     },
     {
+      "path": "assets/index-CnAzOVAu.js",
+      "sha256": "02097edf5bd0e9095a42d47c0f32e2423e23c0949ef641803f0017bd777bf95a"
+    },
+    {
       "path": "blueprint-records.json",
-      "sha256": "10dee5eb862b1f2e8628bb9f93d8bef500fe08f7afbee6b12efbf9473d481a35"
+      "sha256": "1ad47ea05a1c7ab8441d63bf600c4205b9c2b464817c58a236235c836cfae34b"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -201,12 +201,24 @@
       "sha256": "6608e53d0f5299232c67feda396bb77aa158e96f6c9911271bd3ea008da1d1f5"
     },
     {
+      "path": "evidence/workflow-20260910/coverage-desktop.png",
+      "sha256": "6b4bc5c6e16d9b75232150ca9c6fb0b2c62683683b9603b9d39e38ab8b174e4e"
+    },
+    {
+      "path": "evidence/workflow-20260910/coverage-mobile.png",
+      "sha256": "94d3b4fa21aea420c17fa377722af4980e354febd51a75c492050d61938ae26f"
+    },
+    {
+      "path": "evidence/workflow-20260910/visual-gap-mobile.png",
+      "sha256": "9362e4c9a43ef39f04d628e961fe663f0a18f04a351493e78c2e5259caf19861"
+    },
+    {
       "path": "favicon.svg",
       "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7"
     },
     {
       "path": "index.html",
-      "sha256": "94cdb3743d63c9a7290901629a7e94e52e1c06289974f4585196b13147f1e993"
+      "sha256": "c139ccf844ea45f04a75eefbcef3abea945b748f859ce67e5b839941faa0c17e"
     },
     {
       "path": "playable-3d/app.js",
@@ -313,8 +325,16 @@
       "sha256": "6c10bc0150a5409ad8bfb64be70b1ba132ced00cb0c681f7dd4628222ea99038"
     },
     {
+      "path": "production/change-integration.md",
+      "sha256": "2a0e107212f6ed331ecbd66f8f0d9992ed5c1ea206c188fc3e3fc04af2e9dd6c"
+    },
+    {
+      "path": "production/change-workflows.md",
+      "sha256": "69a28166bfc2b984c2a8ff3fbd9ca36f7de3fe69c5f73a471ba3db93f9d331d5"
+    },
+    {
       "path": "production/current-state.md",
-      "sha256": "72fbe6facb4cb6f42e1aa5a83a7ecab0a6714a7b91fdd6b5b4ae98ed56b4b337"
+      "sha256": "7b926e1409fdabc7d64bc68486581cd8c617ac6829ac2b456f2e361f4c23049d"
     },
     {
       "path": "production/github-migration-2026-09-09.md",
@@ -334,15 +354,15 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "16c8dc60318b74d3d256e96528606e5e45af1acdc2745b032d20a9786b5f634b"
+      "sha256": "a9e8e74ca577a77e21c3654d736b1185b4509f08be6fb77bb0c86e43b4d9cb8f"
     },
     {
       "path": "production/operating-protocol.md",
-      "sha256": "c287f5bb31f4abd102d8e8fbbe843fcbe2d7cb50836a7aeed710986fa7b4d783"
+      "sha256": "b401a3b893e354fd747e5cf1978a67ceba5429152f3a4521cd323f6489bfcb17"
     },
     {
       "path": "production/production-plan.md",
-      "sha256": "e51a9fafe132b1984ceb66aea977858de9bf358be57031fa687fd9bcd4d4a1fc"
+      "sha256": "ddb2d23639b2ef96d1ddab8edb41aafa644954d92c0206e1d93f6bc9d182a0e8"
     },
     {
       "path": "production/strategy-audit-2026-09-09.md",
@@ -350,7 +370,7 @@
     },
     {
       "path": "production/visual-register.md",
-      "sha256": "0cc9596ecfeb6422a2d4587f68fb30d3660a4800b315d8286448b2ce185a66bf"
+      "sha256": "4f162fcade53337e2d914aee00f1c3ef502ad627516b1b7763558407bce4cd63"
     },
     {
       "path": "references/CE-BLDG-001-home-base.png",

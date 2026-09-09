@@ -21,7 +21,13 @@ The user-confirmed production order in the archived **Refine Career Empire Blend
 | Separate Blender MASTER/WORKING/Tania variants | Editable and grounded review work | Choose exact intended variant; latest saved edits do not automatically inherit earlier grounding checks. |
 | Earlier ElevenLabs civic approach/entry and selected 2D images | Retained experiential reference | Reuse warmth, doorway readability, cinematic restraint; no longer the sole architectural world direction. |
 
+## Visual integration correction — 10 September 2026
+
+Tania reports that the accepted campus/Avatar Studio direction did not propagate to Look and feel, building references, aerial views, front media and agreed next actions. This is tracked in CE-CHANGE-20260910-18, not covered by the earlier deployment success. Current exact source images and the intended front poster/clip pair must be reconciled across all placements. Three files named daytime-campus-1/2/3 were inspected in the earlier handover: they show the older civic/neon aerial concepts, not verified newer ECC/Studio concepts. Do not substitute them based on their filenames. The old civic gallery and entry-film caption are now clearly historical; that relabelling does not complete the missing current-image integration. See [required impact coverage](change-integration.md).
+
 ## Visual evidence retained
+
+Workflow review evidence (10 September): [desktop coverage](/career-empire-blueprint/evidence/workflow-20260910/coverage-desktop.png), [mobile coverage](/career-empire-blueprint/evidence/workflow-20260910/coverage-mobile.png) and [explicit visual-gap notice](/career-empire-blueprint/evidence/workflow-20260910/visual-gap-mobile.png). CE-VIS-WORKFLOW-1/2/3 and exact hashes are in the visual evidence manifest. These inspected local images show the change objective, required result and disclosed gaps during implementation; their pending counts are a pre-close checkpoint. They are not new game assets, evidence of selected-campus-image integration or Tania visual acceptance.
 
 ### CE-VIS-AUDIT-1: Historical candidate comparison, 9 September
 

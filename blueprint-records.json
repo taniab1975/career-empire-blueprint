@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "revision": "V2.9 / 9 September 2026",
+  "revision": "V2.10 / 10 September 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -18,17 +18,17 @@
     "conceptVideoPoster": "/references/style/entry-original-poster.jpg",
     "conceptVideoCaptions": "/references/style/town-hall-entry-original.vtt",
     "conceptVideoTitle": "ElevenLabs end-result concept film",
-    "conceptVideoSummary": "Sound-enabled Town Hall entry reference showing the cinematic building approach, doorway activation and interior reveal that the playable world is being designed toward.",
+    "conceptVideoSummary": "Earlier sound-enabled Town Hall approach, doorway and interior reference. Retained as history, not the current ECC campus or Avatar Studio target. The intended current poster/clip pairing remains part of the open visual integration checklist.",
     "reviewScope": "Public reviewers can walk the 3D district, use Avatar Studio, approach EST Prep and compare the intended 3D entry with the current public Demo Student EST Prep flow. School planning documents and the Blueprint record are public; credentials and real student data stay out of reviewer files."
   },
   "sampleOutlineUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0019/1202338/Careers-and-Employability-General-Year-12-Sample-course-outline-For-teaching-from-2026.PDF",
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.9",
-      "date": "2026-09-09",
-      "label": "V2.9 / 9 September 2026",
-      "status": "Published on GitHub Pages; design and classroom acceptance remain open",
+      "id": "V2.10",
+      "date": "2026-09-10",
+      "label": "V2.10 / 10 September 2026",
+      "status": "Scoped workflow repair; visual integration remains incomplete",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -188,17 +188,17 @@
     },
     "currentStep": {
       "id": "CE-GOV-01",
-      "title": "Maintain the live Blueprint and verify classroom gaps",
-      "status": "GitHub release verified; next work requires bounded scope",
+      "title": "Reconcile changes across every affected Blueprint section",
+      "status": "Workflow repair; visual integration still incomplete",
       "owner": "Blueprint maintainer",
-      "href": "/production/github-migration-2026-09-09.md",
-      "actionLabel": "Read publication and update protocol",
+      "href": "/production/change-integration.md",
+      "actionLabel": "See affected sections and remaining updates",
       "decisionIds": [
         "V2-D07",
         "V2-D08",
         "V2-D17"
       ],
-      "nextAction": "Use the linked teacher/EST verification tickets, confirm delivery cohort and first learning slice with Tania, and keep the blazer paused. Maintain this Blueprint at each close. Redirect the legacy site only when owning-account access returns.",
+      "nextAction": "Use the change impact checklist, not only the log. Verify exact approved visual originals and media pairing; update Look and feel, buildings, Start Here and next actions together. Do not restart production or reopen approved direction.",
       "doneWhen": "GitHub public records match validated source, release evidence is recorded, and future maintenance uses one canonical Blueprint.",
       "boundary": "This documentation update does not approve a new game build, paid asset generation, curriculum edition change or final design acceptance."
     },
@@ -206,12 +206,12 @@
       {
         "id": "CE-GOV-01",
         "horizon": "Now",
-        "title": "Maintain the live GitHub Blueprint",
+        "title": "Complete change-to-page integration",
         "owner": "Blueprint maintainer",
-        "status": "Migration complete; linked-ticket workflow implemented",
-        "dependency": "For each future change: current source reconciliation, checks, private source save, reviewed public build and live parity",
-        "doneWhen": "GitHub public records match validated source, release evidence is recorded, and future maintenance uses one canonical Blueprint.",
-        "href": "/production/github-migration-2026-09-09.md"
+        "status": "Visual integration defect open; workflow repair in progress",
+        "dependency": "Exact accepted source references and per-surface reader checks",
+        "doneWhen": "Each affected surface agrees with its source change; no missing or unverified surface is labelled complete",
+        "href": "/production/change-integration.md"
       },
       {
         "id": "CE-ENV-01",
@@ -389,28 +389,28 @@
     },
     "changeProcess": [
       {
-        "title": "Record the proposal",
-        "detail": "Give it an ID, purpose, source decision, curriculum links, scope and dependencies. Name what it changes and what remains untouched."
+        "title": "Define the change",
+        "detail": "State what is being achieved, before/after, source/approval, affected record IDs and owner."
       },
       {
-        "title": "Agree the brief",
-        "detail": "Tania approves learning and design choices. Name the implementer, acceptance checks and stop point. A published suggestion is not approval."
+        "title": "Calculate its impact",
+        "detail": "Select every applicable workflow type. Take the union of required Blueprint surfaces, plus additional affected records. Use the generated checklist."
       },
       {
-        "title": "Build and verify",
-        "detail": "Use the existing project and approved visual references. Check the complete player/teacher loop, not only an isolated screen."
+        "title": "Update the reader-facing content",
+        "detail": "Edit each affected canonical record and every current placement: text, images, posters, examples, links, status and next actions. Move superseded content to labelled history."
       },
       {
-        "title": "Record the evidence",
-        "detail": "Attach dated screenshots or a useful short clip, build identifier, checks, deviations and unresolved limitations. Keep real student data out of examples."
+        "title": "Verify each surface",
+        "detail": "Record specific acceptance checks and actual source/reader evidence. A reasoned checked-unchanged result is allowed; blank or generic N/A is not."
       },
       {
-        "title": "Accept or revise",
-        "detail": "Record who accepted it, when and the approval source. An implementer cannot silently supply Tania's acceptance."
+        "title": "Separate integration from production",
+        "detail": "Approval, Blueprint integration, game implementation, publication and Tania acceptance are separate states. Blocked or pending surfaces keep integration incomplete."
       },
       {
-        "title": "Update the living record",
-        "detail": "Update canonical records, material-change register, affected documentation and AGENTS.md; regenerate exports and run checks. Record source/publication parity or a blocked release with exact resume steps. Never erase prior rationale or infer Tania acceptance."
+        "title": "Publish the declared scope",
+        "detail": "Only completed scoped integrations may pass the release check. Disclose remaining integrations prominently, verify live pages and log the exact release receipt."
       }
     ],
     "recovery": [
@@ -488,7 +488,7 @@
     "production": {
       "date": "9 September 2026",
       "title": "Current state — 9 September 2026",
-      "summary": "V2.9 is live on GitHub Pages, independently of ChatGPT accounts. The nine older GitHub tasks and ten planning documents now link back to this Blueprint without implying completed game work. The legacy V2.6 site still needs an owner-authorised redirect. EST URL is repaired; teacher matrix remains local, blazer paused and campus precinct unfinished. Learning, curriculum cohort and classroom acceptance remain open.",
+      "summary": "The GitHub migration is live, but Tania identified a content-integration failure: the accepted campus direction did not propagate to every image, building reference and Start Here media placement. V2.10 adds a change-to-page workflow and visible coverage checks. The exact current visual reconciliation remains open; no new game or asset work is implied.",
       "facts": [
         {
           "label": "IMPLEMENTED LOCALLY",
@@ -663,20 +663,20 @@
     ],
     "governance": {
       "schemaVersion": 1,
-      "asOf": "2026-09-09",
+      "asOf": "2026-09-10",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.9 GitHub release",
+        "sourceRevision": "V2.10 workflow repair",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
         "observedLiveRevision": "V2.9 / GitHub Pages",
         "checkedAt": "2026-09-09",
         "observedLiveSha256": "fb4d2bd685df40de3bdec5b72a2f7404df73062d29dbb5e42eb5e17bbb804953",
         "accessCheck": "GitHub delivery repository PUBLIC and Pages built successfully; source mirror PRIVATE. Existing Sites project still returns HTTP 404 NOT_FOUND / project_not_found.",
         "validationReceipt": "/production/github-migration-2026-09-09.md",
-        "status": "GitHub Blueprint live; legacy ChatGPT redirect still blocked",
+        "status": "Scoped workflow repair; accepted campus visual integration remains incomplete",
         "savedVersionId": null,
         "deploymentId": "GitHub Pages build 1204465234",
-        "parity": "First release exact-byte parity verified; the live publication manifest identifies the latest checked source and record hash",
+        "parity": "Previous GitHub publication was verified byte-for-byte; that did not establish that every page reflected the accepted changes",
         "resume": "Use the private canonical source and existing recovery branch; publish only validated generated output to the existing Pages repository. Read the current manifest/receipt, preserve newer history, and log material work. Legacy redirect waits for the owning Sites account.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
@@ -726,6 +726,14 @@
         {
           "title": "GitHub task reconciliation",
           "href": "/production/github-tracking-audit-2026-09-09.md"
+        },
+        {
+          "title": "What each change must update",
+          "href": "/production/change-workflows.md"
+        },
+        {
+          "title": "Incomplete and verified change integrations",
+          "href": "/production/change-integration.md"
         }
       ],
       "changes": [
@@ -1124,27 +1132,79 @@
           "deployment": "Existing private recovery branch updated; new public delivery repository and Pages live at the canonical destination. First verified public commit e3e067fd844b18a5a7959e24dfaf2acf8099577d; later release identity is in its generated manifest. Old Sites unchanged.",
           "testing": "30/30 data/governance/path tests; TypeScript, focused lint, original and static builds; full local/static and live desktop/mobile/keyboard/navigation/privacy smoke passed. First live JSON SHA-256 fb4d2bd685df40de3bdec5b72a2f7404df73062d29dbb5e42eb5e17bbb804953. No classroom integration or game runtime acceptance inferred.",
           "taniaAcceptance": "Explicit approval to carry on with migration and linked tracking; final design, asset, learning and classroom acceptance not claimed"
+        },
+        {
+          "id": "CE-CHANGE-20260910-17",
+          "date": "2026-09-10",
+          "title": "Require change-to-Blueprint impact coverage for every workflow",
+          "domain": "All change workflows",
+          "source": "Tania: changes must identify what was changed and every Blueprint update it requires, including decisions and curriculum/activity flow.",
+          "owner": "Blueprint maintainer",
+          "status": "Workflow integrated and locally verified; scoped release receipt recorded separately",
+          "rationale": "Record/export parity did not prove semantic integration; an approval entry could coexist with outdated page content.",
+          "dependencies": [
+            "CE-CHANGE-20260909-16"
+          ],
+          "evidence": [
+            "/production/change-workflows.md",
+            "/production/change-integration.md"
+          ],
+          "nextAction": "Publish the declared workflow scope and verify live coverage pages. For the distinct visual defect, use record 18 and recover exact selected source images before completing its targets.",
+          "supersededRecord": "CE-CHANGE-20260909-12",
+          "designApproval": "Process correction requested; protected game/learning approvals unchanged.",
+          "implementation": "Typed change-to-surface matrix, generated checklists, coverage board, evidence requirements and release-scope/freshness checks.",
+          "deployment": "Scoped V2.10 source prepared for publication; final deployed source/hash and live reader checks belong to the separate release receipt. Open visual integration is not claimed complete.",
+          "testing": "41/41 data/governance/impact/path tests, TypeScript, focused lint, original/static builds and full local desktop/mobile browser smoke passed. The release gate was observed rejecting unfinished scoped work; affected workflow/gap views were visually inspected.",
+          "taniaAcceptance": "Tania explicitly requested all workflows be corrected; no claim that she accepted an unreconciled visual presentation."
+        },
+        {
+          "id": "CE-CHANGE-20260910-18",
+          "date": "2026-09-10",
+          "title": "Reopen incomplete campus visual integration despite successful publication",
+          "domain": "Visual direction, media and buildings",
+          "source": "Tania's 10 September report: Look and feel, Avatar Studio/buildings, aerial references, future actions and Start Here media do not reflect the agreed direction.",
+          "owner": "Blueprint maintainer",
+          "status": "Incomplete integration; exact newer source images/poster selection requires reconciliation",
+          "rationale": "Approval of the campus direction was recorded, but the actual reader-facing visual placements were not updated together. Earlier daytime-campus filenames inspected here depict civic concepts and are not proof of the newer references.",
+          "dependencies": [
+            "CE-CHANGE-20260909-05",
+            "CE-CHANGE-20260910-17"
+          ],
+          "evidence": [
+            "/production/change-integration.md",
+            "/production/visual-register.md"
+          ],
+          "nextAction": "Recover exact approved Avatar Studio/aerial references and intended front poster/clip pairing, then update every required surface and inspect it. Do not generate substitutes or reopen the direction approval.",
+          "supersededRecord": null,
+          "designApproval": "Campus/precinct direction retained; image integration and asset completion are separate.",
+          "implementation": "Missing propagation explicitly tracked. Earlier films/civic references labelled historical, not current visual targets; no replacement assets invented.",
+          "deployment": "Known visual integration gap disclosed in the scoped workflow release; not claimed complete by publishing.",
+          "testing": "Workflow must reject visual completion with omitted media, building, asset or next-action checks.",
+          "taniaAcceptance": "User rejected current presentation as representative; no visual acceptance claimed."
         }
       ],
       "sessionStart": [
         "Read README, current-state, operations and AGENTS.md.",
         "Verify source checkout/revision, public revision and open changes; do not assume parity.",
         "Read applicable decisions and source evidence; separate user approval from assistant reports.",
-        "Name bounded scope, owner, dependencies, acceptance checks and record the discussion before work."
+        "Name bounded scope, owner, dependencies, acceptance checks and record the discussion before work.",
+        "Identify change type(s), before/after, affected record IDs and the required surface checklist before editing."
       ],
       "sessionClose": [
         "Append material-change record; preserve the superseded record and rationale.",
         "Update current state, work queue, affected design/asset records, discussion log and AGENTS.md.",
         "Regenerate exports; validate record completeness, links, baseline decisions, type/build and focused checks.",
         "Record source, saved version, deployment, live parity, testing and Tania acceptance separately.",
-        "If blocked, provide exact patch/base hashes and resume steps; do not create another master."
+        "If blocked, provide exact patch/base hashes and resume steps; do not create another master.",
+        "Resolve and verify every affected surface; keep incomplete integrations visible. Run change:release for the declared scope; hashes alone do not prove reader-facing currency."
       ],
       "definitionOfDone": [
         "Approved scope or explicitly labelled proposal; evidence linked.",
         "Implementation, deployment, testing and Tania acceptance individually recorded.",
         "Blueprint registers/current summary/next action and AGENTS.md updated.",
         "Generated views current; relevant checks pass or named limitations block readiness claims.",
-        "Publication verified or explicitly blocked with integration package and successor steps."
+        "Publication verified or explicitly blocked with integration package and successor steps.",
+        "Every required change-impact target is updated or specifically checked unchanged with evidence; no pending/blocked target may be called fully integrated."
       ],
       "retainedPrinciples": [
         "Engagement is essential to learning.",
@@ -3102,6 +3162,23 @@
   ],
   "buildRecords": [
     {
+      "id": "BUILD-BP-WORKFLOW-20260910",
+      "title": "Change-to-page integration workflow",
+      "status": "Workflow repaired; campus visual integration remains open",
+      "owner": "Blueprint maintainer",
+      "date": "2026-09-10",
+      "decision": "Tania requested explicit downstream Blueprint updates for every type of change; CE-CHANGE-20260910-17",
+      "done": "Added eleven change workflows, mandatory affected-surface checklists, reader/source evidence, visible incomplete integration and release scope/freshness gates. Earlier civic imagery is clearly historical, not silently presented as the current campus direction.",
+      "evidence": [
+        "/evidence/workflow-20260910/coverage-desktop.png",
+        "/evidence/workflow-20260910/coverage-mobile.png",
+        "/evidence/workflow-20260910/visual-gap-mobile.png"
+      ],
+      "checks": "41 data/governance/impact/path tests, TypeScript, focused lint, both builds and full local desktop/mobile browser smoke pass; targeted workflow and gap-notice capture inspected. Release gate deliberately rejected the still-in-progress checklist before verification.",
+      "limits": "Approval of campus direction remains intact, but exact current Avatar Studio/aerial references and front poster/clip pairing still need integration. Publication parity is not semantic currency. No new game or asset production.",
+      "acceptance": "Workflow correction requested by Tania. No claim that she accepted the unresolved visual presentation or any new gameplay/curriculum choice."
+    },
+    {
       "id": "BUILD-BP-GITHUB-20260909",
       "title": "V2.9 GitHub publication and linked tracking",
       "status": "Published on GitHub Pages; legacy redirect remains blocked",
@@ -3571,6 +3648,1151 @@
       "evidenceHref": "/production/visual-register.md",
       "source": "Refine Career Empire Blender master, 9 September; Tania supplied the production list and approved continuing it."
     }
+  },
+  "changeWorkflows": {
+    "version": 1,
+    "objective": "A change is complete only when every affected Blueprint surface represents it correctly to a reader.",
+    "effectiveFrom": "2026-09-10",
+    "historicalCutoff": "CE-CHANGE-20260909-16",
+    "common": [
+      "start",
+      "roadmap",
+      "history",
+      "protocol",
+      "exports",
+      "publication"
+    ],
+    "surfaces": [
+      {
+        "id": "start",
+        "title": "Start Here",
+        "href": "#overview",
+        "requiredUpdate": "Purpose, current direction, status and next action must agree with the change.",
+        "sourceFiles": [
+          "data/operations.json",
+          "data/blueprint.ts",
+          "app/blueprint-surfaces.tsx"
+        ]
+      },
+      {
+        "id": "media",
+        "title": "Start Here images and video",
+        "href": "#overview",
+        "requiredUpdate": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+        "sourceFiles": [
+          "data/blueprint.ts",
+          "app/blueprint-surfaces.tsx"
+        ]
+      },
+      {
+        "id": "decisions",
+        "title": "Decisions and superseded rules",
+        "href": "#decisions",
+        "requiredUpdate": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+        "sourceFiles": [
+          "data/blueprint.ts"
+        ]
+      },
+      {
+        "id": "curriculum",
+        "title": "Curriculum and reciprocal mappings",
+        "href": "#learning",
+        "requiredUpdate": "Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.",
+        "sourceFiles": [
+          "data/curriculum.json",
+          "data/blueprint.ts"
+        ]
+      },
+      {
+        "id": "flow",
+        "title": "Activities and learning flow",
+        "href": "#learning",
+        "requiredUpdate": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+        "sourceFiles": [
+          "data/blueprint.ts"
+        ]
+      },
+      {
+        "id": "journey",
+        "title": "Player Journey and worked example",
+        "href": "#journey",
+        "requiredUpdate": "Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.",
+        "sourceFiles": [
+          "data/blueprint.ts",
+          "app/blueprint-surfaces.tsx"
+        ]
+      },
+      {
+        "id": "assessment",
+        "title": "Year plan and assessment",
+        "href": "#year",
+        "requiredUpdate": "Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.",
+        "sourceFiles": [
+          "data/curriculum.json",
+          "data/blueprint.ts",
+          "app/blueprint-detail.tsx"
+        ]
+      },
+      {
+        "id": "teacher",
+        "title": "Teacher/classroom workflow",
+        "href": "#classroom",
+        "requiredUpdate": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+        "sourceFiles": [
+          "app/blueprint-detail.tsx",
+          "data/operations.json"
+        ]
+      },
+      {
+        "id": "world",
+        "title": "World, rewards and progression",
+        "href": "#world",
+        "requiredUpdate": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+        "sourceFiles": [
+          "data/blueprint.ts",
+          "app/blueprint-detail.tsx"
+        ]
+      },
+      {
+        "id": "buildings",
+        "title": "Buildings and places",
+        "href": "#world",
+        "requiredUpdate": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+        "sourceFiles": [
+          "data/blueprint.ts",
+          "app/blueprint-detail.tsx",
+          "data/style-guide.json"
+        ]
+      },
+      {
+        "id": "avatars",
+        "title": "Avatar and wardrobe references",
+        "href": "#visuals",
+        "requiredUpdate": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+        "sourceFiles": [
+          "data/style-guide.json",
+          "app/style-guide.tsx"
+        ]
+      },
+      {
+        "id": "visuals",
+        "title": "Look and feel",
+        "href": "#visuals",
+        "requiredUpdate": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+        "sourceFiles": [
+          "data/style-guide.json",
+          "app/style-guide.tsx"
+        ]
+      },
+      {
+        "id": "assets",
+        "title": "Visual/asset register and production brief",
+        "href": "/production/visual-register.md",
+        "requiredUpdate": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+        "sourceFiles": [
+          "docs/production/visual-register.md",
+          "docs/production/visual-evidence-manifest.json"
+        ]
+      },
+      {
+        "id": "build",
+        "title": "Implementation and test evidence",
+        "href": "#build",
+        "requiredUpdate": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+        "sourceFiles": [
+          "data/blueprint.ts",
+          "app/blueprint-detail.tsx"
+        ]
+      },
+      {
+        "id": "recovery",
+        "title": "Recovery and access",
+        "href": "#handover",
+        "requiredUpdate": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+        "sourceFiles": [
+          "data/operations.json",
+          "docs/handoff-guide.md"
+        ]
+      },
+      {
+        "id": "sources",
+        "title": "Source library, terminology and rationale",
+        "href": "#source-documents",
+        "requiredUpdate": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+        "sourceFiles": [
+          "data/blueprint.ts"
+        ]
+      },
+      {
+        "id": "roadmap",
+        "title": "Priorities and linked execution tasks",
+        "href": "#roadmap",
+        "requiredUpdate": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+        "sourceFiles": [
+          "data/operations.json",
+          "app/blueprint-surfaces.tsx",
+          "app/change-integration.tsx"
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Material changes and history",
+        "href": "/production/material-changes.md",
+        "requiredUpdate": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+        "sourceFiles": [
+          "data/operations.json"
+        ]
+      },
+      {
+        "id": "protocol",
+        "title": "Workflows and handoff",
+        "href": "/production/change-workflows.md",
+        "requiredUpdate": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+        "sourceFiles": [
+          "AGENTS.md",
+          "README.md",
+          "docs/production/operating-protocol.md",
+          "docs/production/change-workflows.md",
+          "data/change-workflows.json",
+          "scripts/validate-impact.mjs"
+        ]
+      },
+      {
+        "id": "exports",
+        "title": "Generated views and downloads",
+        "href": "/blueprint-records.json",
+        "requiredUpdate": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+        "sourceFiles": [
+          "scripts/export-blueprint.mjs"
+        ]
+      },
+      {
+        "id": "publication",
+        "title": "Publication verification",
+        "href": "/production/github-migration-2026-09-09.md",
+        "requiredUpdate": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+        "sourceFiles": [
+          "scripts/prepare-pages.mjs",
+          "package.json",
+          "vite.pages.config.ts"
+        ]
+      }
+    ],
+    "kinds": [
+      {
+        "id": "decision",
+        "title": "Decision, approval or veto",
+        "purpose": "An approval can affect any domain; explicitly assess all affected domains rather than changing only the decision register.",
+        "targets": [
+          "decisions",
+          "curriculum",
+          "flow",
+          "journey",
+          "assessment",
+          "teacher",
+          "world",
+          "buildings",
+          "avatars",
+          "visuals",
+          "assets",
+          "build",
+          "recovery",
+          "sources",
+          "media"
+        ]
+      },
+      {
+        "id": "curriculum",
+        "title": "Curriculum, cohort or assessment",
+        "purpose": "Change the learning source and all places that represent its content or timing.",
+        "targets": [
+          "curriculum",
+          "flow",
+          "journey",
+          "assessment",
+          "teacher",
+          "sources",
+          "decisions"
+        ]
+      },
+      {
+        "id": "activity",
+        "title": "Activity or learning-flow change",
+        "purpose": "Change the student's whole experience and its evidence/teacher path, not just an activity description.",
+        "targets": [
+          "flow",
+          "journey",
+          "curriculum",
+          "assessment",
+          "teacher",
+          "world",
+          "buildings",
+          "build",
+          "media"
+        ]
+      },
+      {
+        "id": "visual",
+        "title": "Visual direction, image or film",
+        "purpose": "An accepted visual change must propagate to the gallery, building/avatar records, hero/poster and production priorities.",
+        "targets": [
+          "visuals",
+          "media",
+          "assets",
+          "buildings",
+          "avatars",
+          "world",
+          "decisions",
+          "build"
+        ]
+      },
+      {
+        "id": "building",
+        "title": "Building, layout or environment",
+        "purpose": "Reconcile the place's design, visual identity, purpose, routes and production state.",
+        "targets": [
+          "buildings",
+          "world",
+          "visuals",
+          "media",
+          "assets",
+          "flow",
+          "build",
+          "decisions"
+        ]
+      },
+      {
+        "id": "avatar",
+        "title": "Avatar, clothing or rig",
+        "purpose": "Reconcile identity/wardrobe direction, appearance, components, model/testing and every current visual placement.",
+        "targets": [
+          "avatars",
+          "visuals",
+          "media",
+          "assets",
+          "world",
+          "flow",
+          "build",
+          "recovery",
+          "decisions"
+        ]
+      },
+      {
+        "id": "progression",
+        "title": "Gameplay, economy or progression",
+        "purpose": "Reconcile mechanics with the experience, rewards, evidence and protected design boundaries.",
+        "targets": [
+          "decisions",
+          "world",
+          "flow",
+          "journey",
+          "teacher",
+          "curriculum",
+          "assessment",
+          "build"
+        ]
+      },
+      {
+        "id": "implementation",
+        "title": "Implementation or bug fix",
+        "purpose": "Record behavior before/after and regression proof; implementation is not approval or deployment.",
+        "targets": [
+          "build",
+          "flow",
+          "teacher",
+          "recovery",
+          "media",
+          "assets"
+        ]
+      },
+      {
+        "id": "release",
+        "title": "Release, hosting or recovery",
+        "purpose": "Reconcile source, deployed bytes, links/access, representative images and recovery; do not use publication as a proxy for semantic currency.",
+        "targets": [
+          "build",
+          "recovery",
+          "sources",
+          "media"
+        ]
+      },
+      {
+        "id": "research",
+        "title": "Research, evidence or terminology",
+        "purpose": "Attach evidence to the affected claim and propagate conclusions without converting findings into unapproved decisions.",
+        "targets": [
+          "sources",
+          "decisions",
+          "curriculum",
+          "flow",
+          "visuals"
+        ]
+      },
+      {
+        "id": "governance",
+        "title": "Workflow, audit or tracking",
+        "purpose": "Repair the update mechanism and explicitly report inherited integration gaps instead of claiming the whole Blueprint is current.",
+        "targets": [
+          "decisions",
+          "sources",
+          "build",
+          "recovery"
+        ]
+      }
+    ],
+    "dispositions": [
+      "pending",
+      "updated",
+      "checked-unchanged",
+      "blocked"
+    ],
+    "completionRule": "Each required surface needs a specific action or reasoned no-change result, source record IDs, owner, acceptance check and evidence. Completed changes need passed source/reader checks for every surface. Blocked or pending surfaces keep the change incomplete.",
+    "limits": "These checks enforce impact coverage and evidence/freshness, not the truth of an approval or the quality of a human visual judgement. Missing originals cannot be replaced with guessed images. Unseen chats still require intake."
+  },
+  "changeIntegrations": {
+    "schemaVersion": 1,
+    "release": {
+      "changeIds": [
+        "CE-CHANGE-20260910-17"
+      ],
+      "scope": "Workflow repair and honest integration status, not completion of the campus visual reconciliation.",
+      "disclosure": "The accepted campus/Avatar Studio direction is not yet consistently represented by the Blueprint images and building references. This remains an open integration defect; the earlier publication checks did not prove content currency.",
+      "requiredReviewFiles": [
+        "data/change-workflows.json",
+        "docs/production/change-workflows.md",
+        "app/change-integration.tsx",
+        "app/style-guide.tsx",
+        "app/blueprint-surfaces.tsx",
+        "scripts/validate-impact.mjs",
+        "tests/change-impact.test.mjs"
+      ],
+      "reviews": [
+        {
+          "path": "AGENTS.md",
+          "sha256": "db7546444c2d0c26e728836dca2d3b905c37d8a1ec5b0214ac6a30f2b06d54b4"
+        },
+        {
+          "path": "README.md",
+          "sha256": "a5f1d4c563f94939f98fdb0440567177d1580907b4f43c63b16e8277de51b595"
+        },
+        {
+          "path": "app/blueprint-detail.tsx",
+          "sha256": "a88a558b52b9cae33d81b92840f5301d332fee4ba2caddb535e4f0e0b32cf1bb"
+        },
+        {
+          "path": "app/blueprint-surfaces.tsx",
+          "sha256": "e55380715ee927d387ad51e06c1824f0a28e2750cf220be62bfa069dad5e3649"
+        },
+        {
+          "path": "app/change-integration.tsx",
+          "sha256": "f11e93315c12a594448515c5539cca84491712d02d0a2f51bb9c1faa9c27502f"
+        },
+        {
+          "path": "app/style-guide.tsx",
+          "sha256": "396e0f3d93dd3726065bfdb12fddd0a189988e272b4e0f1d740d2c30bac33692"
+        },
+        {
+          "path": "data/blueprint.ts",
+          "sha256": "9e815714505370c2680a8360ae49b732e71b104d271e728a4696887dc7c7375f"
+        },
+        {
+          "path": "data/change-workflows.json",
+          "sha256": "1b1f98b18dc16dfc1019e946fdca83a7612e6f45dc15e14056e2a035429cf13e"
+        },
+        {
+          "path": "data/operations.json",
+          "sha256": "a164a71088e73f94d235f2088eb6a048d802e6a264092315cc3395db042e6a35"
+        },
+        {
+          "path": "data/style-guide.json",
+          "sha256": "9e6ea60a73a2867381a9b0fab3f1f2162a936f925a1de18cf0e44b9a88c383b5"
+        },
+        {
+          "path": "docs/handoff-guide.md",
+          "sha256": "daf7892d3c7fce1a170d8199d09c2f848aba6b84ae4bf4804e495aa8086ad562"
+        },
+        {
+          "path": "docs/production/change-workflows.md",
+          "sha256": "ed83211eb7699b432e09b2adef90c1d2836afc5027279cd0b77baaff9fda6a54"
+        },
+        {
+          "path": "docs/production/current-state.md",
+          "sha256": "7b926e1409fdabc7d64bc68486581cd8c617ac6829ac2b456f2e361f4c23049d"
+        },
+        {
+          "path": "docs/production/operating-protocol.md",
+          "sha256": "b401a3b893e354fd747e5cf1978a67ceba5429152f3a4521cd323f6489bfcb17"
+        },
+        {
+          "path": "docs/production/production-plan.md",
+          "sha256": "ddb2d23639b2ef96d1ddab8edb41aafa644954d92c0206e1d93f6bc9d182a0e8"
+        },
+        {
+          "path": "docs/production/session-log-2026-09-10.md",
+          "sha256": "e8700880c24c55c24013114fdb8d4978177a8c9a735d6f790d9903fb5abc8a52"
+        },
+        {
+          "path": "docs/production/visual-evidence-manifest.json",
+          "sha256": "816221756c89e054c98064aa072d7e0212289dd98b58f11f52c5ac962ad89ec8"
+        },
+        {
+          "path": "docs/production/visual-register.md",
+          "sha256": "7d9748b7f0fbc1358ab9552dec9cecd71c8ed54a8cf00e36084dd0ea6b7f24bf"
+        },
+        {
+          "path": "package.json",
+          "sha256": "7ef74362326195c6ebcd090545d0c8de874400adbb388a866ab466c722a7e1f4"
+        },
+        {
+          "path": "scripts/export-blueprint.mjs",
+          "sha256": "8c90a11837e68a957aa58938204abdc503ef93bd4cbf9be12257b66396350c15"
+        },
+        {
+          "path": "scripts/plan-change.mjs",
+          "sha256": "f9127986820fc19826d582e35b212cdca2cf40a44e4327a3575f69b8cd4bb33e"
+        },
+        {
+          "path": "scripts/prepare-pages.mjs",
+          "sha256": "71affe3da44b7c1cf7612e3c4d55d92a2d5654ad5a481dffe3fffded4863b836"
+        },
+        {
+          "path": "scripts/validate-governance.mjs",
+          "sha256": "be360683e2c757d668e5973f50c64439eb48216a86729356846029fb0a0bcefa"
+        },
+        {
+          "path": "scripts/validate-impact.mjs",
+          "sha256": "313d3ec2fc4d931d03cbc75996c554c6b6508875c3de840a7ae206e2f45356a0"
+        },
+        {
+          "path": "tests/browser-smoke.mjs",
+          "sha256": "21af0bf63febae2628419cc4723d51a5ed82733030d902176986faf96699eb43"
+        },
+        {
+          "path": "tests/change-impact.test.mjs",
+          "sha256": "8ba7790113d299e2965d3ee7146cb7e37e02cda6440403bd228376a0d2f36350"
+        },
+        {
+          "path": "vite.pages.config.ts",
+          "sha256": "c253d937f5e17c2ae1d4307844cff0de25cb8aa10509857103e6bfaedfc0d374"
+        }
+      ]
+    },
+    "changes": [
+      {
+        "changeId": "CE-CHANGE-20260910-17",
+        "title": "Change-driven Blueprint update workflow",
+        "types": [
+          "governance"
+        ],
+        "status": "complete",
+        "objective": "A change is complete only when every affected Blueprint surface represents it correctly to a reader.",
+        "before": "Changes could be logged and exports pass while related reader pages, images or priorities still contradicted the change.",
+        "after": "Every change names its objective, before/after, types, affected records and mandatory reader surfaces; pending or blocked targets prevent integration completion.",
+        "source": "Tania, 10 September: update all workflows so each decision, curriculum/activity or visual change specifies all Blueprint updates it requires.",
+        "owner": "Blueprint maintainer",
+        "nextAction": "Maintain the per-change impact contract in future tasks. The distinct accepted-campus visual propagation remains open under record 18; publication outcomes are recorded separately.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Start Here now derives the open integration notice from the same checklist and separates this source revision from the last recorded publication check.",
+            "records": [
+              "operations.release",
+              "operations.currentStep",
+              "publicReview"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "The scoped workflow change is visible or specifically checked unchanged here, with no claim that the separate visual reconciliation is complete.",
+            "evidence": [
+              "/production/change-workflows.md",
+              "/production/change-integration.md",
+              "/evidence/workflow-20260910/coverage-desktop.png",
+              "/evidence/workflow-20260910/coverage-mobile.png",
+              "/evidence/workflow-20260910/visual-gap-mobile.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reviewed canonical source/diff and the linked workflow or reader view; checked against the stated scoped change, not merely file reachability.",
+              "date": "2026-09-10"
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Added the change objective, before/after, type-specific surface checklist and visible remaining work before the existing Now/Next/Later queue.",
+            "records": [
+              "CE-GOV-01",
+              "CE-CHANGE-20260910-17",
+              "CE-CHANGE-20260910-18"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "The scoped workflow change is visible or specifically checked unchanged here, with no claim that the separate visual reconciliation is complete.",
+            "evidence": [
+              "/production/change-workflows.md",
+              "/production/change-integration.md",
+              "/evidence/workflow-20260910/coverage-desktop.png",
+              "/evidence/workflow-20260910/coverage-mobile.png",
+              "/evidence/workflow-20260910/visual-gap-mobile.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reviewed canonical source/diff and the linked workflow or reader view; checked against the stated scoped change, not merely file reachability.",
+              "date": "2026-09-10"
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Appended records 17 and 18 without rewriting the original 16; explicitly corrected the earlier inference that publication implied semantic currency.",
+            "records": [
+              "CE-CHANGE-20260910-17",
+              "CE-CHANGE-20260910-18"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "The scoped workflow change is visible or specifically checked unchanged here, with no claim that the separate visual reconciliation is complete.",
+            "evidence": [
+              "/production/change-workflows.md",
+              "/production/change-integration.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reviewed canonical source/diff and the linked workflow or reader view; checked against the stated scoped change, not merely file reachability.",
+              "date": "2026-09-10"
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Replaced competing active AGENTS notes with the change-to-page rule; archived its predecessor and updated README, operating protocol, handoff and generated workflow rules.",
+            "records": [
+              "changeWorkflows",
+              "AGENTS.md",
+              "README.md"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "The scoped workflow change is visible or specifically checked unchanged here, with no claim that the separate visual reconciliation is complete.",
+            "evidence": [
+              "/production/change-workflows.md",
+              "/production/change-integration.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reviewed canonical source/diff and the linked workflow or reader view; checked against the stated scoped change, not merely file reachability.",
+              "date": "2026-09-10"
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "The snapshot includes the workflow contract and actual coverage; workflow/coverage Markdown and record/handoff exports are regenerated from those canonical inputs.",
+            "records": [
+              "createBlueprintSnapshot",
+              "changeWorkflows",
+              "changeIntegrations"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "The scoped workflow change is visible or specifically checked unchanged here, with no claim that the separate visual reconciliation is complete.",
+            "evidence": [
+              "/production/change-workflows.md",
+              "/production/change-integration.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reviewed canonical source/diff and the linked workflow or reader view; checked against the stated scoped change, not merely file reachability.",
+              "date": "2026-09-10"
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "publication",
+            "disposition": "updated",
+            "action": "Added an in-scope integration gate and contract-derived source review hashes. Proved it rejects unfinished scoped work; final live outcome will be recorded separately from the self-hashed source.",
+            "records": [
+              "governance.publication",
+              "changeIntegrations.release"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "The scoped workflow change is visible or specifically checked unchanged here, with no claim that the separate visual reconciliation is complete.",
+            "evidence": [
+              "/production/change-workflows.md",
+              "/production/change-integration.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reviewed canonical source/diff and the linked workflow or reader view; checked against the stated scoped change, not merely file reachability.",
+              "date": "2026-09-10"
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "No game/design/curriculum approval is changed by this process correction. Checked the protected decision and production/pilot tests; the new workflow requires downstream decision impacts without inventing approvals.",
+            "records": [
+              "V2-D01–17",
+              "PROD-20260908-01–04"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "The scoped workflow change is visible or specifically checked unchanged here, with no claim that the separate visual reconciliation is complete.",
+            "evidence": [
+              "/production/change-workflows.md",
+              "/production/change-integration.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reviewed canonical source/diff and the linked workflow or reader view; checked against the stated scoped change, not merely file reachability.",
+              "date": "2026-09-10"
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "The substantive curriculum/research source catalogue is unchanged: this workflow change adds generated operating references, not new research or a different syllabus source.",
+            "records": [
+              "sourceDocuments",
+              "sources",
+              "SCSA-SYLLABUS-2027"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "The scoped workflow change is visible or specifically checked unchanged here, with no claim that the separate visual reconciliation is complete.",
+            "evidence": [
+              "/production/change-workflows.md",
+              "/production/change-integration.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reviewed canonical source/diff and the linked workflow or reader view; checked against the stated scoped change, not merely file reachability.",
+              "date": "2026-09-10"
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Added BUILD-BP-WORKFLOW-20260910 with the mechanism, observed release rejection, local reader evidence and explicit limits. Earlier migration success remains history, not proof of visual integration.",
+            "records": [
+              "BUILD-BP-WORKFLOW-20260910"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "The scoped workflow change is visible or specifically checked unchanged here, with no claim that the separate visual reconciliation is complete.",
+            "evidence": [
+              "/production/change-workflows.md",
+              "/production/change-integration.md",
+              "/evidence/workflow-20260910/coverage-desktop.png",
+              "/evidence/workflow-20260910/coverage-mobile.png",
+              "/evidence/workflow-20260910/visual-gap-mobile.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reviewed canonical source/diff and the linked workflow or reader view; checked against the stated scoped change, not merely file reachability.",
+              "date": "2026-09-10"
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Updated the successor entry and active instructions to require impact coverage, retain private recovery/public-only delivery and distinguish source integration from runtime restore.",
+            "records": [
+              "REC-BLUEPRINT",
+              "docs/handoff-guide.md"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "The scoped workflow change is visible or specifically checked unchanged here, with no claim that the separate visual reconciliation is complete.",
+            "evidence": [
+              "/production/change-workflows.md",
+              "/production/change-integration.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reviewed canonical source/diff and the linked workflow or reader view; checked against the stated scoped change, not merely file reachability.",
+              "date": "2026-09-10"
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Reclassified the retained front film and its description as historical, not the current campus target; did not guess a replacement poster or clip. Exact media reconciliation remains in separate record 18.",
+            "records": [
+              "publicReview.conceptVideoSummary",
+              "CE-CHANGE-20260910-18"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "The scoped workflow change is visible or specifically checked unchanged here, with no claim that the separate visual reconciliation is complete.",
+            "evidence": [
+              "/production/change-workflows.md",
+              "/production/change-integration.md",
+              "/evidence/workflow-20260910/coverage-desktop.png",
+              "/evidence/workflow-20260910/coverage-mobile.png",
+              "/evidence/workflow-20260910/visual-gap-mobile.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reviewed canonical source/diff and the linked workflow or reader view; checked against the stated scoped change, not merely file reachability.",
+              "date": "2026-09-10"
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Moved the earlier civic direction text, image family and films into a labelled historical disclosure and showed the integration gap above the accepted direction. This is honest labelling, not completion of new image integration.",
+            "records": [
+              "styleGuide.currentDirection",
+              "CE-CHANGE-20260910-18"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "The scoped workflow change is visible or specifically checked unchanged here, with no claim that the separate visual reconciliation is complete.",
+            "evidence": [
+              "/production/change-workflows.md",
+              "/production/change-integration.md",
+              "/evidence/workflow-20260910/coverage-desktop.png",
+              "/evidence/workflow-20260910/coverage-mobile.png",
+              "/evidence/workflow-20260910/visual-gap-mobile.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reviewed canonical source/diff and the linked workflow or reader view; checked against the stated scoped change, not merely file reachability.",
+              "date": "2026-09-10"
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Recorded the three inspected workflow screenshots and hashes as process evidence; retained the missing newer-source gap without promoting old filename-labelled campus images.",
+            "records": [
+              "CE-VIS-WORKFLOW-1",
+              "CE-VIS-WORKFLOW-2",
+              "CE-VIS-WORKFLOW-3"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "The scoped workflow change is visible or specifically checked unchanged here, with no claim that the separate visual reconciliation is complete.",
+            "evidence": [
+              "/production/change-workflows.md",
+              "/production/change-integration.md",
+              "/evidence/workflow-20260910/coverage-desktop.png",
+              "/evidence/workflow-20260910/coverage-mobile.png",
+              "/evidence/workflow-20260910/visual-gap-mobile.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reviewed canonical source/diff and the linked workflow or reader view; checked against the stated scoped change, not merely file reachability.",
+              "date": "2026-09-10"
+            },
+            "nextAction": ""
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-18",
+        "title": "Accepted campus direction: incomplete page integration",
+        "types": [
+          "visual",
+          "building"
+        ],
+        "status": "blocked",
+        "objective": "Look and feel, Avatar Studio/building references, aerial views, Start Here media and agreed next actions must all represent the same accepted campus direction.",
+        "before": "Campus direction was described in text, while older civic imagery remained prominent and the front film was labelled Planned feel.",
+        "after": "Exact accepted concepts should occupy their current placements; historical films and images remain clearly separated. Approval of direction must not be confused with finished game assets.",
+        "source": "Tania's 10 September visual mismatch report, compared with current Start Here, Look and feel and the retained 9 September audit gap.",
+        "owner": "Blueprint maintainer",
+        "nextAction": "Verify the exact newer Avatar Studio and aerial originals plus the intended front poster/clip pairing; earlier daytime-campus filenames were inspected and show older civic concepts, so cannot be promoted as the newer references.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in Start Here; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in Priorities and linked execution tasks; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          },
+          {
+            "surface": "history",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in Material changes and history; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in Workflows and handoff; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          },
+          {
+            "surface": "exports",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in Generated views and downloads; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          },
+          {
+            "surface": "publication",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in Publication verification; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in Look and feel; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          },
+          {
+            "surface": "media",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in Start Here images and video; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          },
+          {
+            "surface": "assets",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in Visual/asset register and production brief; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in Buildings and places; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in Avatar and wardrobe references; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          },
+          {
+            "surface": "world",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in World, rewards and progression; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in Decisions and superseded rules; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          },
+          {
+            "surface": "build",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in Implementation and test evidence; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          },
+          {
+            "surface": "flow",
+            "disposition": "blocked",
+            "action": "Reconcile the accepted campus/Avatar Studio change in Activities and learning flow; do not substitute older civic images or infer a completed asset.",
+            "records": [
+              "CE-CHANGE-20260910-18",
+              "CE-CHANGE-20260909-05",
+              "CE-ART-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Reader/source verification not yet performed",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+          }
+        ]
+      }
+    ]
   },
   "ideaRegister": [
     [

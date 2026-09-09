@@ -1,4 +1,6 @@
-# Start Here — Career Empire, 9 September 2026
+# Start Here — Career Empire, 10 September 2026
+
+**Correction: published is not the same as fully integrated.** Tania identified accepted visual changes that did not reach Look and feel, buildings, aerial references, Start Here media and next actions. V2.10 adds a required change-to-page workflow for all change types; [integration coverage](change-integration.md) shows what is still incomplete. The earlier V2.9 hash/browser checks proved publication and functionality, not that every page represented the accepted direction. Exact current visual-source reconciliation remains open, not reapproved or silently substituted.
 
 Career Empire is an experience-first career/life simulation for Year 12 Careers and Employability. Its purpose is meaningful choice, supported learning, application, feedback, recovery and personal/community growth.
 
@@ -6,7 +8,7 @@ Career Empire is an experience-first career/life simulation for Year 12 Careers 
 
 | Surface | Verified state | What this means |
 |---|---|---|
-| Canonical Blueprint | V2.9 live release over the validated V2.8 audit | Same records and approvals, new publication route. |
+| Canonical Blueprint | V2.10 scoped workflow repair over the V2.9 migration | Same protected records; mandatory downstream coverage and honest integration gaps. |
 | New publication | GitHub Pages live; full live smoke and first exact hash verified | See the migration/release record for actual live parity. |
 | Legacy ChatGPT site | V2.6 last observed | Redirect requested; owning-account access still unavailable. |
 | Playable 3D | Published app.js has blazer/doorway test and corrected EST URL | Source availability is verified; full runtime/classroom acceptance is not. |

@@ -1,5 +1,15 @@
 # Blueprint operating protocol
 
+## Change-to-page integration — mandatory from 10 September 2026
+
+The complete type-specific rules are generated in [What each change must update](change-workflows.md), and actual change coverage is in [Change integration](change-integration.md). These rules apply to every task, not only visuals. Select all relevant types: decision/approval/veto, curriculum/assessment, activity flow, visual/media, building/environment, avatar/wardrobe, gameplay/progression, implementation/bug fix, release/recovery, research/terminology, and governance/tracking.
+
+Before work: record the objective, before/after, source/approval, affected IDs and owner, then generate the union of required surfaces. During work: update actual reader content and all current placements, retaining history explicitly. At close: every required target must be updated or specifically checked unchanged with acceptance checks and evidence. Pending/blocked targets remain incomplete. A successful record export, download or deployment is not proof that a poster, building reference, curriculum flow or next action is correct.
+
+New material records require a corresponding integration record; the 16 historical records are retained without retroactively certifying their page coverage. Use `change:plan`, `change:check` and `change:release`. The release gate derives mandatory source-review files from the surface contract and rejects missing/stale hashes or unfinished in-scope work. Reader verification is still required; checks cannot infer the meaning of an unseen image or replace approval evidence.
+
+A partial release must name its completed scope and visibly disclose every remaining integration; it must not call the whole Blueprint current. V2.10 repairs this workflow while the exact accepted campus/Avatar Studio image and front-media reconciliation remains open. Do not fill that gap using older civic images or newly generated substitutes. After publication, verify both live bytes and affected visible routes, then save a release receipt outside the self-hashed record.
+
 Owner: Tania for design/learning acceptance; each implementer owns accurate completion evidence. The Blueprint maintainer owns integration and publication records. No additional master document or task-local plan has independent authority.
 
 ## Session start

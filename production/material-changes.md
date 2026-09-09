@@ -1,4 +1,4 @@
-# Material-change register — 2026-09-09
+# Material-change register — 2026-09-10
 
 Generated from data/operations.json. One canonical register; do not edit this view directly.
 
@@ -289,6 +289,42 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **deployment:** Existing private recovery branch updated; new public delivery repository and Pages live at the canonical destination. First verified public commit e3e067fd844b18a5a7959e24dfaf2acf8099577d; later release identity is in its generated manifest. Old Sites unchanged.
 - **testing:** 30/30 data/governance/path tests; TypeScript, focused lint, original and static builds; full local/static and live desktop/mobile/keyboard/navigation/privacy smoke passed. First live JSON SHA-256 fb4d2bd685df40de3bdec5b72a2f7404df73062d29dbb5e42eb5e17bbb804953. No classroom integration or game runtime acceptance inferred.
 - **taniaAcceptance:** Explicit approval to carry on with migration and linked tracking; final design, asset, learning and classroom acceptance not claimed
+
+## CE-CHANGE-20260910-17 — Require change-to-Blueprint impact coverage for every workflow
+
+- **date:** 2026-09-10
+- **domain:** All change workflows
+- **source:** Tania: changes must identify what was changed and every Blueprint update it requires, including decisions and curriculum/activity flow.
+- **owner:** Blueprint maintainer
+- **status:** Workflow integrated and locally verified; scoped release receipt recorded separately
+- **rationale:** Record/export parity did not prove semantic integration; an approval entry could coexist with outdated page content.
+- **dependencies:** CE-CHANGE-20260909-16
+- **evidence:** /production/change-workflows.md / /production/change-integration.md
+- **nextAction:** Publish the declared workflow scope and verify live coverage pages. For the distinct visual defect, use record 18 and recover exact selected source images before completing its targets.
+- **supersededRecord:** CE-CHANGE-20260909-12
+- **designApproval:** Process correction requested; protected game/learning approvals unchanged.
+- **implementation:** Typed change-to-surface matrix, generated checklists, coverage board, evidence requirements and release-scope/freshness checks.
+- **deployment:** Scoped V2.10 source prepared for publication; final deployed source/hash and live reader checks belong to the separate release receipt. Open visual integration is not claimed complete.
+- **testing:** 41/41 data/governance/impact/path tests, TypeScript, focused lint, original/static builds and full local desktop/mobile browser smoke passed. The release gate was observed rejecting unfinished scoped work; affected workflow/gap views were visually inspected.
+- **taniaAcceptance:** Tania explicitly requested all workflows be corrected; no claim that she accepted an unreconciled visual presentation.
+
+## CE-CHANGE-20260910-18 — Reopen incomplete campus visual integration despite successful publication
+
+- **date:** 2026-09-10
+- **domain:** Visual direction, media and buildings
+- **source:** Tania's 10 September report: Look and feel, Avatar Studio/buildings, aerial references, future actions and Start Here media do not reflect the agreed direction.
+- **owner:** Blueprint maintainer
+- **status:** Incomplete integration; exact newer source images/poster selection requires reconciliation
+- **rationale:** Approval of the campus direction was recorded, but the actual reader-facing visual placements were not updated together. Earlier daytime-campus filenames inspected here depict civic concepts and are not proof of the newer references.
+- **dependencies:** CE-CHANGE-20260909-05 / CE-CHANGE-20260910-17
+- **evidence:** /production/change-integration.md / /production/visual-register.md
+- **nextAction:** Recover exact approved Avatar Studio/aerial references and intended front poster/clip pairing, then update every required surface and inspect it. Do not generate substitutes or reopen the direction approval.
+- **supersededRecord:** None
+- **designApproval:** Campus/precinct direction retained; image integration and asset completion are separate.
+- **implementation:** Missing propagation explicitly tracked. Earlier films/civic references labelled historical, not current visual targets; no replacement assets invented.
+- **deployment:** Known visual integration gap disclosed in the scoped workflow release; not claimed complete by publishing.
+- **testing:** Workflow must reject visual completion with omitted media, building, asset or next-action checks.
+- **taniaAcceptance:** User rejected current presentation as representative; no visual acceptance claimed.
 
 ## Retained Atlas principles
 
