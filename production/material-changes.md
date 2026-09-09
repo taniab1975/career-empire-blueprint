@@ -488,6 +488,24 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **evidence:** Existing game-live/playable-3d source inspected; supplied campus vision compared.
 - **nextAction:** Review the live playable area before wider production; preserve pending whole-batch and classroom acceptance.
 
+## CE-CHANGE-20260910-28 — Correct game deployment destination
+
+- **date:** 2026-09-10
+- **domain:** Game hosting and release correction
+- **source:** Tania explicitly identifies https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ as the live game. Existing Push to live request authorises corrected deployment; CE-DISCUSSION-d068d069-12e8-47e7-9766-463db9c348db.
+- **owner:** Blueprint maintainer
+- **status:** Correct destination deployment underway
+- **rationale:** Previous publication reached only the Blueprint embedded preview; calling that the live game was incorrect. Correct the actual game deployment and all current destination guidance.
+- **dependencies:** CE-CHANGE-20260910-27
+- **supersededRecord:** None
+- **designApproval:** No new approval or rejection inferred.
+- **implementation:** Scoped arrival runtime update; preserve current game modules and existing avatar choices.
+- **deployment:** Not yet deployed to actual game; Blueprint copy is a preview only.
+- **testing:** Actual game package checks pending.
+- **taniaAcceptance:** Positive local feedback and publication authorisation, not blanket asset acceptance.
+- **evidence:** GitHub Pages API confirms Emmanuel-ICT-Support/GTCEM-Career-Empire main root is live source. Clean checkout fast-forwarded to e3b7c1b; tested files will be applied only against matching base bytes.
+- **nextAction:** Run game checks, push exact scoped changes to Emmanuel ICT main and verify actual game URL; reconcile Blueprint links.
+
 ## Retained Atlas principles
 
 Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries

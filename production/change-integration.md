@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.16: publish the tested Arrival-to-Studio playable demonstration and visual assessment.
+Release scope: V2.17: correct the live game destination and deploy the tested arrival update to Emmanuel ICT.
 
-Publication authorised after positive local feedback. Wider campus, Batch 1 acceptance and classroom integration remain incomplete; paused wardrobe tests excluded.
+V2.16 reached only the Blueprint preview. Actual game release and corrected links are verified separately; no wider asset or classroom acceptance.
 
 ## CE-CHANGE-20260910-17 — Change-driven Blueprint update workflow
 
@@ -3078,6 +3078,244 @@ Verification: passed / Original reference/source library in data/blueprint.ts un
 - [Evidence](docs/production/arrival-playable-release-20260910.md)
 
 Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+## CE-CHANGE-20260910-28 — Correct game deployment destination
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Game and Blueprint maintainer.
+
+**Objective:** Previous publication reached only the Blueprint embedded preview; calling that the live game was incorrect. Correct the actual game deployment and all current destination guidance.
+
+**Before:** Blueprint preview was incorrectly presented as the live game.
+
+**Required result:** Actual game URL receives tested arrival update; Blueprint retains its separate planning role.
+
+**Source:** Tania explicitly identifies https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ as the live game. Existing Push to live request authorises corrected deployment; CE-DISCUSSION-d068d069-12e8-47e7-9766-463db9c348db.
+
+**Next:** Verify actual game deployment, then publish corrected Blueprint links and redirect and inspect the live reader.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Current action uses the canonical publicReview game URL rather than a relative Blueprint preview path.
+
+Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Current action uses the canonical publicReview game URL rather than a relative Blueprint preview path.
+
+- [Evidence](docs/production/game-hosting-correction-20260910.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+CE-ENV-01 launch link now targets Emmanuel ICT; the wider campus and classroom gates are unchanged.
+
+Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / CE-ENV-01 launch link now targets Emmanuel ICT; the wider campus and classroom gates are unchanged.
+
+- [Evidence](docs/production/game-hosting-correction-20260910.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Record 28 explicitly retracts the preview-only live-game claim and records the user-corrected destination.
+
+Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Record 28 explicitly retracts the preview-only live-game claim and records the user-corrected destination.
+
+- [Evidence](docs/production/game-hosting-correction-20260910.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Current AGENTS, README and operating protocol separate game and Blueprint publishing destinations.
+
+Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Current AGENTS, README and operating protocol separate game and Blueprint publishing destinations.
+
+- [Evidence](docs/production/game-hosting-correction-20260910.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Generated public records and handover carry the corrected current action and destination distinction.
+
+Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Generated public records and handover carry the corrected current action and destination distinction.
+
+- [Evidence](docs/production/game-hosting-correction-20260910.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Actual game and corrected Blueprint deployments are independently checked.
+
+- [Evidence](docs/production/game-hosting-correction-20260910.md)
+
+Next: Verify actual game manifest and live walk/save flow, publish corrected Blueprint links, then verify redirect and reader.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Protected data/blueprint.ts remains unchanged; positive local feedback and push authorisation do not approve the full batch.
+
+Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / Protected data/blueprint.ts remains unchanged; positive local feedback and push authorisation do not approve the full batch.
+
+- [Evidence](docs/production/game-hosting-correction-20260910.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+The existing publicReview canonical game URL in data/blueprint.ts is retained; the new regression asserts currentStep matches it.
+
+Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release maintainer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / The existing publicReview canonical game URL in data/blueprint.ts is retained; the new regression asserts currentStep matches it.
+
+- [Evidence](docs/production/game-hosting-correction-20260910.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Actual game source was fast-forwarded without overwriting work; 30 browser tests, six unit tests and game checks passed. Unused Studio download no longer blocks startup.
+
+Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / Actual game source was fast-forwarded without overwriting work; 30 browser tests, six unit tests and game checks passed. Unused Studio download no longer blocks startup.
+
+- [Evidence](docs/production/game-hosting-correction-20260910.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Actual deployment is Emmanuel-ICT-Support/GTCEM-Career-Empire main root; Blueprint private recovery remains a separate destination.
+
+Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Actual deployment is Emmanuel-ICT-Support/GTCEM-Career-Empire main root; Blueprint private recovery remains a separate destination.
+
+- [Evidence](docs/production/game-hosting-correction-20260910.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Activities and learning flow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Existing actual-game relative EST module integration is preserved; only arrival and saved-profile feedback are added.
+
+Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Existing actual-game relative EST module integration is preserved; only arrival and saved-profile feedback are added.
+
+- [Evidence](docs/production/game-hosting-correction-20260910.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Teacher pages, evidence ownership and curriculum remain unchanged; no classroom acceptance claimed.
+
+Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release maintainer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / Teacher pages, evidence ownership and curriculum remain unchanged; no classroom acceptance claimed.
+
+- [Evidence](docs/production/game-hosting-correction-20260910.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Existing actual-render screenshots are retained; no concept art or new visual acceptance inferred by the hosting correction.
+
+Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / Existing actual-render screenshots are retained; no concept art or new visual acceptance inferred by the hosting correction.
+
+- [Evidence](docs/production/game-hosting-correction-20260910.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+No new assets or asset approvals in this correction; the arrival native module is deployed with its existing dependencies.
+
+Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / No new assets or asset approvals in this correction; the arrival native module is deployed with its existing dependencies.
+
+- [Evidence](docs/production/game-hosting-correction-20260910.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
 
 ## Historical boundary
 

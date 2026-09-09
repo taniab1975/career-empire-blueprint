@@ -1,20 +1,20 @@
 {
-  "sourceCommit": "b1e88019e90d25824b7527b3e11399baaa38de51",
-  "generatedAt": "2026-09-09T22:30:37.947Z",
-  "revision": "V2.16 / 10 September 2026",
-  "recordSha256": "a129d7a951844578a450c2dee1c87565d7763beaf072523e162ba1e87c4dee12",
+  "sourceCommit": "6830edd58ad512bf280dc0485d14ad06ab768b6c",
+  "generatedAt": "2026-09-09T22:48:50.153Z",
+  "revision": "V2.17 / 10 September 2026",
+  "recordSha256": "6d1be8951e9713a4b7f597e54c0319131aa4a16e3803fe50665c896ff73a6451",
   "files": [
-    {
-      "path": "assets/index-AXaFbLtA.js",
-      "sha256": "838c3ba37d96af9c19edea119e30aa1e2f4693b1040f9b8f957d4eb7a3d4d801"
-    },
     {
       "path": "assets/index-CjQKDqwD.css",
       "sha256": "9426a1c53962c7d98e2a28c90cf90d37c9badb0e9e6be044e3e60926795a7e42"
     },
     {
+      "path": "assets/index-DCQSJZS1.js",
+      "sha256": "374a3b63a36783f69ec601ab853468c318bef86a3fcacab3c7b6cb5373bffab5"
+    },
+    {
       "path": "blueprint-records.json",
-      "sha256": "a129d7a951844578a450c2dee1c87565d7763beaf072523e162ba1e87c4dee12"
+      "sha256": "6d1be8951e9713a4b7f597e54c0319131aa4a16e3803fe50665c896ff73a6451"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -694,7 +694,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "a82cf488a52d2502a5f8e7120eaf0fb259913eb1067cf74f7c6e856053deb1d2"
+      "sha256": "aeeda4fb95c89ceac0b96b8f38e41a2612e0a9afa5ff23f37c8ec5306624fd22"
     },
     {
       "path": "playable-3d/app.js",
@@ -786,7 +786,7 @@
     },
     {
       "path": "playable-3d/index.html",
-      "sha256": "877ae58dbd7b8bf41b91b44e394ce875b37302e50c0a536395e228a17f3df21d"
+      "sha256": "dc45c882a03f4a4a2d4d23d109c1e0f893fc63d5ad028c0f23f1f6230aa09b69"
     },
     {
       "path": "playable-3d/profiles.js",
@@ -894,7 +894,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "5d0be866ab04b8466631d089b5d0a88f65fe6aa511b7fca79108d96bab103e8d"
+      "sha256": "4be9c8eca92a94e53e7aacaa8f677916ad63ac4e658538f761c12a9ce24f9022"
     },
     {
       "path": "production/change-workflows.md",
@@ -906,7 +906,11 @@
     },
     {
       "path": "production/current-state.md",
-      "sha256": "d2e70641d2a318692adca657fcd5c3c232b7105a0edc08a5824c08ca3ea82f3a"
+      "sha256": "3a661d10868bd5025af3346358f6fb78f9f6b6623abdd0ed5a97d92346b9cc56"
+    },
+    {
+      "path": "production/game-hosting-correction-20260910.md",
+      "sha256": "a516ddf819a21653bd9223a001d2b310bba706b05c139851d91af91252598688"
     },
     {
       "path": "production/github-migration-2026-09-09.md",
@@ -926,15 +930,15 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "20082f4c82143ab65635b40762f4dd6aff4066a5ab2c0c3939e72f380954cc8a"
+      "sha256": "8ee2329a35e609a1bba82514d81bafbe1698112007624a058d9a629561b10da1"
     },
     {
       "path": "production/operating-protocol.md",
-      "sha256": "b6d002b5a6df5e9d19d2ca84c4653d37fed311bb40f3b20977fd120f70e61b0f"
+      "sha256": "7c57ddd7bc7a68d9b7dea2dd331c2aa539e6f2fcd26233e2da7f5fe42294bd0d"
     },
     {
       "path": "production/production-plan.md",
-      "sha256": "f36aeb4d264fcebb5f55d52083cbdfbded805aafdd44df9d2bb1583455c1b1f8"
+      "sha256": "0967546f283aef4460e4a49a7b7af691e85f51f2bf6a179d5eef216a4ea17805"
     },
     {
       "path": "production/project-automation-setup-2026-09-10.md",
@@ -966,7 +970,7 @@
     },
     {
       "path": "production/visual-register.md",
-      "sha256": "1c444ba53e6d7a10ba21facdf69d23183313fdec1e9b6f05b22d77805713cc58"
+      "sha256": "6d2fdf8c59acb976567ffbc70c3dc490eaae171f95bdd06e27fe435e7b30c89f"
     },
     {
       "path": "references/CE-BLDG-001-home-base.png",

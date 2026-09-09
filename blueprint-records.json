@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "revision": "V2.16 / 10 September 2026",
+  "revision": "V2.17 / 10 September 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -25,10 +25,10 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.16",
+      "id": "V2.17",
       "date": "2026-09-10",
-      "label": "V2.16 / 10 September 2026",
-      "status": "V2.16 playable Arrival Gardens published and independently verified",
+      "label": "V2.17 / 10 September 2026",
+      "status": "Correct live-game deployment and hosting clarification underway",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -191,7 +191,7 @@
       "title": "Play Arrival Gardens and Avatar Studio",
       "status": "Published playable demonstration; live checks passed",
       "owner": "Environment integrator; Tania: appearance and placement acceptance",
-      "href": "/playable-3d/",
+      "href": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
       "actionLabel": "Play the updated world",
       "decisionIds": [
         "V2-D07",
@@ -231,7 +231,7 @@
         "status": "Tested demonstration; publication authorised",
         "dependency": "Separate architecture, landscape and player-flow stages completed locally; live verification follows publication.",
         "doneWhen": "Exact published build passes walking, Studio save/return, reload and mobile checks; Tania reviews the playable area.",
-        "href": "/playable-3d/"
+        "href": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/"
       },
       {
         "id": "CE-EST-BRIDGE-01",
@@ -498,7 +498,7 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "Current V2.16 release: playable Arrival Gardens to Avatar Studio. Tania said the local result looks much better and explicitly requested publication. The release carries the tested arrival walk, two-storey Studio, character editing and browser-local completion. It does not approve all ten Batch 1 items, complete the campus reference or certify classroom evidence. Paused experimental wardrobe choices are excluded. Existing public EST handoff is retained; end-to-end classroom integration is still outstanding. V2.16 publication is verified, including the live walking and saved-return flow.",
+      "summary": "Hosting correction: the live game is https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ (Emmanuel-ICT-Support/GTCEM-Career-Empire, main, Pages root). The Blueprint is a separate planning website. Its former embedded playable route is a redirect to the game, not an independent live deployment. The V2.16 preview-only publication was incorrectly reported as a game release; CE-CHANGE-20260910-28 records the correction. Correct game deployment verification is underway. Batch 1 approval and classroom integration remain separate. Blueprint publication is verified; that does not prove the actual game update is deployed.",
       "facts": [
         {
           "label": "WHOLE-ITEM REVIEW / PARTS INCLUDED",
@@ -1419,6 +1419,29 @@
             "Existing game-live/playable-3d source inspected; supplied campus vision compared."
           ],
           "nextAction": "Review the live playable area before wider production; preserve pending whole-batch and classroom acceptance."
+        },
+        {
+          "id": "CE-CHANGE-20260910-28",
+          "date": "2026-09-10",
+          "title": "Correct game deployment destination",
+          "domain": "Game hosting and release correction",
+          "source": "Tania explicitly identifies https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ as the live game. Existing Push to live request authorises corrected deployment; CE-DISCUSSION-d068d069-12e8-47e7-9766-463db9c348db.",
+          "owner": "Blueprint maintainer",
+          "status": "Correct destination deployment underway",
+          "rationale": "Previous publication reached only the Blueprint embedded preview; calling that the live game was incorrect. Correct the actual game deployment and all current destination guidance.",
+          "dependencies": [
+            "CE-CHANGE-20260910-27"
+          ],
+          "supersededRecord": null,
+          "designApproval": "No new approval or rejection inferred.",
+          "implementation": "Scoped arrival runtime update; preserve current game modules and existing avatar choices.",
+          "deployment": "Not yet deployed to actual game; Blueprint copy is a preview only.",
+          "testing": "Actual game package checks pending.",
+          "taniaAcceptance": "Positive local feedback and publication authorisation, not blanket asset acceptance.",
+          "evidence": [
+            "GitHub Pages API confirms Emmanuel-ICT-Support/GTCEM-Career-Empire main root is live source. Clean checkout fast-forwarded to e3b7c1b; tested files will be applied only against matching base bytes."
+          ],
+          "nextAction": "Run game checks, push exact scoped changes to Emmanuel ICT main and verify actual game URL; reconcile Blueprint links."
         }
       ],
       "sessionStart": [
@@ -4422,11 +4445,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20260910-26",
-        "CE-CHANGE-20260910-27"
+        "CE-CHANGE-20260910-28"
       ],
-      "scope": "V2.16: publish the tested Arrival-to-Studio playable demonstration and visual assessment.",
-      "disclosure": "Publication authorised after positive local feedback. Wider campus, Batch 1 acceptance and classroom integration remain incomplete; paused wardrobe tests excluded.",
+      "scope": "V2.17: correct the live game destination and deploy the tested arrival update to Emmanuel ICT.",
+      "disclosure": "V2.16 reached only the Blueprint preview. Actual game release and corrected links are verified separately; no wider asset or classroom acceptance.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -4451,6 +4473,7 @@
         "docs/production/batch-01-ten-items-2026-09-10.md",
         "docs/production/change-workflows.md",
         "docs/production/current-state.md",
+        "docs/production/game-hosting-correction-20260910.md",
         "docs/production/operating-protocol.md",
         "docs/production/production-plan.md",
         "docs/production/project-automation-setup-2026-09-10.md",
@@ -4572,6 +4595,7 @@
         "scripts/project-guard.mjs",
         "scripts/validate-impact.mjs",
         "tests/asset-register.test.mjs",
+        "tests/blueprint.test.mjs",
         "tests/browser-smoke.mjs",
         "tests/change-impact.test.mjs",
         "tests/project-guard.test.mjs",
@@ -4581,11 +4605,11 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "f9f18d44330a1aab3ad449005cf6f79e9d67b9775bb26ca95f1e04affd2a698f"
+          "sha256": "c63f34b28caff7a7f1c23b218f1fccf9d23a353df489288119135598b12c563b"
         },
         {
           "path": "README.md",
-          "sha256": "caf366a900c999c7a09e21c1e5b20385b4e1ceca900f56306af6abd8bba9fef4"
+          "sha256": "fb0a62bbe7ba70f377426826c454540dd640e4ba7ea74f3d085fe53bc0205119"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -4601,7 +4625,7 @@
         },
         {
           "path": "app/current-evidence.tsx",
-          "sha256": "91fa745d5b6e3c9ca920af8bbb66032a150fc02972272339cc162f98d49cb8bd"
+          "sha256": "1596d913802e36e9dc007391d4938ab4460a6330e746b03714415bfff29eb4a5"
         },
         {
           "path": "app/globals.css",
@@ -4633,7 +4657,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "2da25177ad3eb49db4d19694383695205289677d2cdc2cb228d698a94939b56d"
+          "sha256": "2376e9248a417bd2f26b2356828fe77f81734cb9ca30a8dd017012e52fb8e7b2"
         },
         {
           "path": "data/style-guide.json",
@@ -4641,7 +4665,7 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "ed2b00a1f8b952fda40b907ea80350adde9a7f926576bba2f51514afec95ad5e"
+          "sha256": "fd1c3151d5f992f8c285879425dd3e66ca093b774c9136ce013d916c310f9c08"
         },
         {
           "path": "docs/production/arrival-playable-release-20260910.md",
@@ -4669,15 +4693,19 @@
         },
         {
           "path": "docs/production/current-state.md",
-          "sha256": "f50f7c48e9fdd18d558df4ac00237745317bd0a77dc316357d7c5b958e20de92"
+          "sha256": "ab9920fb6f346f821f541497112bdc361352b40c5923f3a664249afe71929488"
+        },
+        {
+          "path": "docs/production/game-hosting-correction-20260910.md",
+          "sha256": "a516ddf819a21653bd9223a001d2b310bba706b05c139851d91af91252598688"
         },
         {
           "path": "docs/production/operating-protocol.md",
-          "sha256": "b6d002b5a6df5e9d19d2ca84c4653d37fed311bb40f3b20977fd120f70e61b0f"
+          "sha256": "7c57ddd7bc7a68d9b7dea2dd331c2aa539e6f2fcd26233e2da7f5fe42294bd0d"
         },
         {
           "path": "docs/production/production-plan.md",
-          "sha256": "9171056653430fb286f1e9e341c05b2fd25ce5b5b3b4cb26292ad8de7d78a17a"
+          "sha256": "77c4e2bbecce241561e92bbce1e32db91c735687155cc6a1831e78e187e277e6"
         },
         {
           "path": "docs/production/project-automation-setup-2026-09-10.md",
@@ -4709,7 +4737,7 @@
         },
         {
           "path": "docs/production/visual-register.md",
-          "sha256": "4fd462a4de634b54a9a92177213896cfe45e46ace45b9ed46a897f3addd0e219"
+          "sha256": "39aeacd0a35330ba5ed232492e83ff188dd9fd6deb4b066b023cfe4dd8955b71"
         },
         {
           "path": "package.json",
@@ -5057,7 +5085,7 @@
         },
         {
           "path": "public/playable-3d/index.html",
-          "sha256": "877ae58dbd7b8bf41b91b44e394ce875b37302e50c0a536395e228a17f3df21d"
+          "sha256": "dc45c882a03f4a4a2d4d23d109c1e0f893fc63d5ad028c0f23f1f6230aa09b69"
         },
         {
           "path": "public/playable-3d/profiles.js",
@@ -5154,6 +5182,10 @@
         {
           "path": "tests/asset-register.test.mjs",
           "sha256": "9fe572e0463ea7aa36b60b412ac1fce06b2b4cea0e3e83e0a67a2380a863ddf1"
+        },
+        {
+          "path": "tests/blueprint.test.mjs",
+          "sha256": "ce3acf9d4c244b7a254a271387ca766eacd0e7351679bf852ee1fb2973e52db2"
         },
         {
           "path": "tests/browser-smoke.mjs",
@@ -9133,6 +9165,304 @@
             "AGENTS.md": "100644:93f00d05f059fc5b57264a282c559386d1e5517a"
           }
         }
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-28",
+        "title": "Correct game deployment destination",
+        "types": [
+          "governance",
+          "implementation",
+          "release"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Previous publication reached only the Blueprint embedded preview; calling that the live game was incorrect. Correct the actual game deployment and all current destination guidance.",
+        "before": "Blueprint preview was incorrectly presented as the live game.",
+        "after": "Actual game URL receives tested arrival update; Blueprint retains its separate planning role.",
+        "source": "Tania explicitly identifies https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ as the live game. Existing Push to live request authorises corrected deployment; CE-DISCUSSION-d068d069-12e8-47e7-9766-463db9c348db.",
+        "owner": "Game and Blueprint maintainer",
+        "nextAction": "Verify actual game deployment, then publish corrected Blueprint links and redirect and inspect the live reader.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Current action uses the canonical publicReview game URL rather than a relative Blueprint preview path.",
+            "records": [
+              "CE-CHANGE-20260910-28",
+              "CE-ENV-01"
+            ],
+            "owner": "Game and Blueprint release maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "docs/production/game-hosting-correction-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Current action uses the canonical publicReview game URL rather than a relative Blueprint preview path."
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "CE-ENV-01 launch link now targets Emmanuel ICT; the wider campus and classroom gates are unchanged.",
+            "records": [
+              "CE-CHANGE-20260910-28",
+              "CE-ENV-01"
+            ],
+            "owner": "Game and Blueprint release maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "docs/production/game-hosting-correction-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "CE-ENV-01 launch link now targets Emmanuel ICT; the wider campus and classroom gates are unchanged."
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Record 28 explicitly retracts the preview-only live-game claim and records the user-corrected destination.",
+            "records": [
+              "CE-CHANGE-20260910-28",
+              "CE-ENV-01"
+            ],
+            "owner": "Game and Blueprint release maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "docs/production/game-hosting-correction-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Record 28 explicitly retracts the preview-only live-game claim and records the user-corrected destination."
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Current AGENTS, README and operating protocol separate game and Blueprint publishing destinations.",
+            "records": [
+              "CE-CHANGE-20260910-28",
+              "CE-ENV-01"
+            ],
+            "owner": "Game and Blueprint release maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "docs/production/game-hosting-correction-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Current AGENTS, README and operating protocol separate game and Blueprint publishing destinations."
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Generated public records and handover carry the corrected current action and destination distinction.",
+            "records": [
+              "CE-CHANGE-20260910-28",
+              "CE-ENV-01"
+            ],
+            "owner": "Game and Blueprint release maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "docs/production/game-hosting-correction-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Generated public records and handover carry the corrected current action and destination distinction."
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "records": [
+              "CE-CHANGE-20260910-28",
+              "CE-ENV-01"
+            ],
+            "owner": "Game and Blueprint release maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "docs/production/game-hosting-correction-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Actual game and corrected Blueprint deployments are independently checked.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Verify actual game manifest and live walk/save flow, publish corrected Blueprint links, then verify redirect and reader."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "Protected data/blueprint.ts remains unchanged; positive local feedback and push authorisation do not approve the full batch.",
+            "records": [
+              "CE-CHANGE-20260910-28",
+              "CE-ENV-01"
+            ],
+            "owner": "Game and Blueprint release maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "docs/production/game-hosting-correction-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Protected data/blueprint.ts remains unchanged; positive local feedback and push authorisation do not approve the full batch."
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "The existing publicReview canonical game URL in data/blueprint.ts is retained; the new regression asserts currentStep matches it.",
+            "records": [
+              "CE-CHANGE-20260910-28",
+              "CE-ENV-01"
+            ],
+            "owner": "Game and Blueprint release maintainer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "docs/production/game-hosting-correction-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "The existing publicReview canonical game URL in data/blueprint.ts is retained; the new regression asserts currentStep matches it."
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Actual game source was fast-forwarded without overwriting work; 30 browser tests, six unit tests and game checks passed. Unused Studio download no longer blocks startup.",
+            "records": [
+              "CE-CHANGE-20260910-28",
+              "CE-ENV-01"
+            ],
+            "owner": "Game and Blueprint release maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "docs/production/game-hosting-correction-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Actual game source was fast-forwarded without overwriting work; 30 browser tests, six unit tests and game checks passed. Unused Studio download no longer blocks startup."
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Actual deployment is Emmanuel-ICT-Support/GTCEM-Career-Empire main root; Blueprint private recovery remains a separate destination.",
+            "records": [
+              "CE-CHANGE-20260910-28",
+              "CE-ENV-01"
+            ],
+            "owner": "Game and Blueprint release maintainer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "docs/production/game-hosting-correction-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Actual deployment is Emmanuel-ICT-Support/GTCEM-Career-Empire main root; Blueprint private recovery remains a separate destination."
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "flow",
+            "disposition": "checked-unchanged",
+            "action": "Existing actual-game relative EST module integration is preserved; only arrival and saved-profile feedback are added.",
+            "records": [
+              "CE-CHANGE-20260910-28",
+              "CE-ENV-01"
+            ],
+            "owner": "Game and Blueprint release maintainer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "docs/production/game-hosting-correction-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Existing actual-game relative EST module integration is preserved; only arrival and saved-profile feedback are added."
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "Teacher pages, evidence ownership and curriculum remain unchanged; no classroom acceptance claimed.",
+            "records": [
+              "CE-CHANGE-20260910-28",
+              "CE-ENV-01"
+            ],
+            "owner": "Game and Blueprint release maintainer",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "docs/production/game-hosting-correction-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Teacher pages, evidence ownership and curriculum remain unchanged; no classroom acceptance claimed."
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "Existing actual-render screenshots are retained; no concept art or new visual acceptance inferred by the hosting correction.",
+            "records": [
+              "CE-CHANGE-20260910-28",
+              "CE-ENV-01"
+            ],
+            "owner": "Game and Blueprint release maintainer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "docs/production/game-hosting-correction-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Existing actual-render screenshots are retained; no concept art or new visual acceptance inferred by the hosting correction."
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "No new assets or asset approvals in this correction; the arrival native module is deployed with its existing dependencies.",
+            "records": [
+              "CE-CHANGE-20260910-28",
+              "CE-ENV-01"
+            ],
+            "owner": "Game and Blueprint release maintainer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "docs/production/game-hosting-correction-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "No new assets or asset approvals in this correction; the arrival native module is deployed with its existing dependencies."
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          }
+        ]
       }
     ]
   },
