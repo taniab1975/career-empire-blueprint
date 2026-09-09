@@ -28,7 +28,7 @@
       "id": "V2.12",
       "date": "2026-09-10",
       "label": "V2.12 / 10 September 2026",
-      "status": "Publication authorised; local safeguards retained; staged precinct next",
+      "status": "V2.12 publication verified; Avatar Studio dimensioned layout underway",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -188,8 +188,8 @@
     },
     "currentStep": {
       "id": "CE-ENV-01",
-      "title": "After publication: dimension the Avatar Studio precinct",
-      "status": "Authorised next stage; waits for verified Blueprint publication",
+      "title": "Stage 1: dimension the Avatar Studio precinct",
+      "status": "In progress — measured prototype and candidate layout",
       "owner": "Environment integrator; Tania: appearance and placement acceptance",
       "href": "#world",
       "actionLabel": "Review the Studio target and current prototype",
@@ -198,18 +198,18 @@
         "V2-D08",
         "V2-D17"
       ],
-      "nextAction": "After this Blueprint release is verified live, inspect the existing coordinate sketch and working entrance, then dimension the Studio footprint, step-free approach, paths/plaza and matched camera views in the separate candidate. Review this layout before the textured kit, Studio and assembled precinct stages. Do not update the whole world in one pass.",
+      "nextAction": "Review the dimensioned study and diagram in the world section, then load its candidate coordinates into the isolated workbench for cameras A–D, approach/collision and height-transition checks before textured kit production. Blazer stays paused.",
       "doneWhen": "A dimensioned candidate and matched aerial/player-height views expose scale, entrance, path and camera decisions for review before kit production.",
       "boundary": "Blazer remains paused. Existing campus references control appearance. No paid generation, classroom acceptance, economy changes or live game release is implied. This does not approve a finished precinct or resume wardrobe production."
     },
     "roadmap": [
       {
         "id": "CE-GOV-02",
-        "horizon": "Next",
+        "horizon": "Done",
         "title": "Complete project-wide automatic Blueprint safeguards",
         "owner": "Blueprint maintainer",
-        "status": "Local safeguards active; authorised publication pending",
-        "dependency": "Independent live verification; remote CI activation is not required by Tania",
+        "status": "Published and verified; remote CI outside required scope",
+        "dependency": "Maintain existing local safeguards; account-dependent availability remains disclosed",
         "doneWhen": "Publish and independently verify the local-folder safeguard record; retain local checks and disclose account-dependent availability.",
         "href": "/production/project-automation-setup-2026-09-10.md"
       },
@@ -228,8 +228,8 @@
         "horizon": "Now",
         "title": "Complete the Avatar Studio precinct candidate",
         "owner": "Environment integrator; Tania: appearance and placement acceptance",
-        "status": "Authorised after publication; dimensioned layout first, then kit and precinct stages",
-        "dependency": "Verified Blueprint publication, approved campus references, isolated layout and modular kit; named school device before performance acceptance",
+        "status": "Stage 1 underway; dimensioned layout candidate before modular kit",
+        "dependency": "Approved references and measured-source reconciliation; layout review before kit, named school device before performance acceptance",
         "doneWhen": "Player-height Studio/garden/path/plaza candidate matches approved concepts, passes functional/performance review and receives explicit precinct acceptance before release.",
         "href": "#delivery"
       },
@@ -498,12 +498,12 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "V2.11 reader reconciliation is verified live. This V2.12 update publishes the local folder safeguards and records Tania's instruction that remote CI activation is not required. Local release checks remain. After independent publication verification, begin the dimensioned Avatar Studio precinct layout, then the textured kit, Studio and assembled precinct in separate stages. This candidate is not yet published; no new game production has started.",
+      "summary": "V2.12 publication is verified: local safeguards are published and remote CI activation is outside required scope. Stage 1 of the approved Avatar Studio precinct is now underway: reconcile the existing sketch with the working entrance, then review dimensioned approach and camera views before the textured kit, Studio and assembled precinct stages. Blazer remains paused; classroom and finished-precinct acceptance remain separate.",
       "facts": [
         {
-          "label": "PUBLICATION AUTHORISED",
+          "label": "V2.12 VERIFIED / STAGE 1 UNDERWAY",
           "title": "One canonical source; publication is a dated copy",
-          "detail": "V2.11 is the verified baseline. V2.12 publishes the local safeguards; remote CI is outside required scope. After live verification, CE-ENV-01 begins with dimensioned layout. Use the publication manifest for the actual released source.",
+          "detail": "Local safeguards are published. Remote CI activation is outside required scope. The current production action is the separate dimensioned Studio layout study; no finished precinct or classroom acceptance is claimed.",
           "href": "/production/material-changes.md"
         },
         {
@@ -676,17 +676,17 @@
       "asOf": "2026-09-10",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.11 / reader reconciliation",
+        "sourceRevision": "V2.12 / local safeguards and staged continuation",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.11 / GitHub Pages",
+        "observedLiveRevision": "V2.12 / GitHub Pages",
         "checkedAt": "2026-09-10",
-        "observedLiveSha256": "67af537d47e8d92b38cad9df5cf968c542d9bd3bc2cf3ad0534d6ef6716d0b7e",
+        "observedLiveSha256": "a82f87fe8c34dfe5e956dc6d44db2d8631d22f61aab4ca59391eea8f76be7dfe",
         "accessCheck": "GitHub delivery repository PUBLIC and Pages built successfully; source mirror PRIVATE. Existing Sites project still returns HTTP 404 NOT_FOUND / project_not_found.",
-        "validationReceipt": "/production/reader-release-receipt-2026-09-10.md",
-        "status": "Reader reconciliation verified live; final product/design and classroom gates remain open",
+        "validationReceipt": "/production/v212-release-receipt-2026-09-10.md",
+        "status": "V2.12 publication verified; stage-one production begins separately",
         "savedVersionId": null,
-        "deploymentId": "GitHub Pages / 3b7e842 / built 2026-09-09T16:47:34Z",
-        "parity": "Exact live source, record and six current image hashes verified, with independent desktop/mobile reader checks across all areas",
+        "deploymentId": "GitHub Pages / e92327d / independently verified 10 September 2026",
+        "parity": "Exact manifest and all 131 public file hashes verified with full local/live desktop/mobile browser checks",
         "resume": "Use the private canonical source and existing recovery branch; publish only validated generated output to the existing Pages repository. Read the current manifest/receipt, preserve newer history, and log material work. Legacy redirect waits for the owning Sites account.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
@@ -696,8 +696,8 @@
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
         },
-        "observedPublicCommit": "3b7e842a4efa09d78fe50b6b283058f0df81c169",
-        "hashScope": "Observed first verified V2.11 content release before this metadata close-out. The current deployed manifest identifies each exact later source/record; final live receipt is retained separately to avoid self-hash loops.",
+        "observedPublicCommit": "e92327d9c9ec5d20db79a99a648bdfd875a42bb1",
+        "hashScope": "First verified V2.12 release; later metadata close-out has its own live manifest.",
         "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
@@ -1252,22 +1252,48 @@
           "domain": "Publication scope and production continuation",
           "source": "Tania, 10 September 2026, current Career Empire continuation: \"publication do that. remote checks not necessary. once publication done, move to step 2\". Supersedes obsolete V2.8 advice and remote-CI activation as a release dependency.",
           "owner": "Blueprint maintainer; environment integrator after live verification",
-          "status": "Ready for publication; live verification pending",
+          "status": "Publication verified; stage-one continuation authorised",
           "rationale": "V2.8 advice was stale: V2.11 is already verified live. Publish the existing local safeguards with remote CI outside the required scope, then advance the existing approved precinct sequence without a one-pass world rebuild.",
           "dependencies": [
             "CE-CHANGE-20260910-20",
             "CE-CHANGE-20260910-19"
           ],
           "evidence": [
+            "/production/v212-release-receipt-2026-09-10.md",
             "/production/publication-and-production-2026-09-10.md"
           ],
-          "nextAction": "Validate and publish this exact source, independently verify live bytes and desktop/mobile reader pages, then begin dimensioned Avatar Studio layout in the separate candidate.",
+          "nextAction": "Begin dimensioned Studio layout under CE-CHANGE-20260910-22; keep staged production and blazer pause.",
           "supersededRecord": "CE-CHANGE-20260910-20",
           "designApproval": "Tania authorises Blueprint publication and subsequent stage-one precinct work. Remote CI/branch-protection activation is not required. Local safeguards, release checks, protected decisions and blazer pause remain.",
           "implementation": "Release preparation; no new precinct work before verified publication.",
-          "deployment": "Pending independent publication verification; prior V2.11 remains the verified baseline.",
-          "testing": "57 tests passed; TypeScript, focused lint and normal build passed. Targeted static reader review at 1280/390px passed. Development-preview smoke timed out in decision navigation; full static smoke is required before upload.",
+          "deployment": "V2.12 verified live: source 776b2ec42e5aec4557a4b196b80119d2532f4a1b; public e92327d9c9ec5d20db79a99a648bdfd875a42bb1.",
+          "testing": "57 tests, TypeScript, lint, normal/static builds and full local/live browser suites pass; exact manifest and 131 file hashes match.",
           "taniaAcceptance": "Sequence and publication authorised; finished precinct, classroom and pilot acceptance remain separate."
+        },
+        {
+          "id": "CE-CHANGE-20260910-22",
+          "date": "2026-09-10",
+          "title": "Begin Avatar Studio dimensioned layout study",
+          "domain": "Stage-one environment layout, source reconciliation and review evidence",
+          "source": "Tania, 10 September 2026: after Blueprint publication, move to step 2. Approved campus/pavilion direction and staged sequence retained.",
+          "owner": "Environment integrator; Tania accepts layout and appearance",
+          "status": "Stage one underway; measured-source comparison and candidate layout",
+          "rationale": "Existing design sketch and runtime disagree on Studio position. Reconcile measured prototype, approach/collision and camera before any textured kit or whole precinct build.",
+          "dependencies": [
+            "CE-CHANGE-20260910-21",
+            "CE-CHANGE-20260909-05"
+          ],
+          "evidence": [
+            "/production/avatar-precinct-layout-stage1-2026-09-10.md",
+            "/production/v212-release-receipt-2026-09-10.md"
+          ],
+          "nextAction": "Inspect the dimensioned candidate in the isolated workbench at cameras A–D before building the textured kit.",
+          "supersededRecord": null,
+          "designApproval": "Campus visual direction and stepped production authorised; candidate dimensions are proposals, not accepted layout.",
+          "implementation": "Measured existing GLB vertices and runtime transforms; created dimensioned SVG and JSON candidate, reconciled Studio centre, fountain-start conflict and plaza-bound overrun; added the visible world-section link.",
+          "deployment": "No game runtime or new precinct deployed.",
+          "testing": "Source measurements and analytic route/trigger checks complete. Candidate reader review pending; runtime/camera/prop collision and school-device checks are still ahead.",
+          "taniaAcceptance": "No stage-one candidate acceptance inferred."
         }
       ],
       "sessionStart": [
@@ -4272,10 +4298,11 @@
     "release": {
       "changeIds": [
         "CE-CHANGE-20260910-20",
-        "CE-CHANGE-20260910-21"
+        "CE-CHANGE-20260910-21",
+        "CE-CHANGE-20260910-22"
       ],
-      "scope": "Publish local-folder safeguards and the authorised staged production handoff; remote CI activation is outside required scope.",
-      "disclosure": "Publication verification is pending. Account-dependent availability remains unverified; remote CI activation is not required. Precinct, EST/teacher loop and learning pilot acceptance remain separate.",
+      "scope": "V2.12 publication close-out and stage-one dimensioned layout evidence; this publishes the study, not a finished precinct or live game change.",
+      "disclosure": "Stage-one layout is a review candidate. Workbench camera/collision and level-transition checks precede the textured kit. Remote CI is outside required scope; blazer remains paused.",
       "requiredReviewFiles": [
         "app/globals.css",
         "docs/production/reader-release-receipt-2026-09-10.md",
@@ -4297,16 +4324,18 @@
         "tests/project-guard.test.mjs",
         "docs/production/project-work-contract.md",
         "docs/production/project-automation-setup-2026-09-10.md",
-        "docs/production/publication-and-production-2026-09-10.md"
+        "docs/production/publication-and-production-2026-09-10.md",
+        "docs/production/avatar-precinct-layout-stage1-2026-09-10.md",
+        "docs/production/v212-release-receipt-2026-09-10.md"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "7219b241aed614c24665b5f7fb2ecb449f13a2801689b4817650c2a7c2af3e8f"
+          "sha256": "152cd4ec23ec315d76009e3c835b9e90b8791294afa4beaa58e89822d5e61b3f"
         },
         {
           "path": "README.md",
-          "sha256": "7d7e9006de4514d0ce4c5cbbdd99820cfde763e6a73f328177c4f47a6adae37d"
+          "sha256": "a60bdcec37a353468dbb8ec676faea579a6cd6856afa4f62e4b8940bef296913"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -4322,7 +4351,7 @@
         },
         {
           "path": "app/current-evidence.tsx",
-          "sha256": "fd091e42d11837af967f735abd4837d874d4c66915ceb828420758b113cc8474"
+          "sha256": "0cdaadce220c89d56b6e278763a81a6b26d132c8912cc816b749eb831c7f84d4"
         },
         {
           "path": "app/globals.css",
@@ -4350,7 +4379,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "caa5af90ff595b490127f9c1ad67061cac3527deec9686fe3ff3260c6a0c4461"
+          "sha256": "75559d8eb74d95ebd446bc8ace8a8343804e521e6a14a07bc5ca3bcc1a6aebe0"
         },
         {
           "path": "data/style-guide.json",
@@ -4361,24 +4390,28 @@
           "sha256": "9af91ee2d7c35541c14b2edd9e5e1991738014001b09761553d5f51bdb06998d"
         },
         {
+          "path": "docs/production/avatar-precinct-layout-stage1-2026-09-10.md",
+          "sha256": "bd80b98de4ceb88fe4839e1d33a317101305d54cc135a6ed5264de81f400ec25"
+        },
+        {
           "path": "docs/production/change-workflows.md",
           "sha256": "8b485cfefa4bec5797858ff01a54b0c4a4580e4f6261b024bc629d2232b7d179"
         },
         {
           "path": "docs/production/current-state.md",
-          "sha256": "705cb7de916710af0f2746f8d02744ed0615e875128cb357432c84a2607a8a6f"
+          "sha256": "fd25dfd0f4ab17f2aeb899a917c699f0637c75789d874722c1c2571e0722a533"
         },
         {
           "path": "docs/production/operating-protocol.md",
-          "sha256": "e895c6888b07075191fec11ab1bffe9848212393bad9e09b1a4337781336c46a"
+          "sha256": "3c44bd5056f6d3027c7cb8e331e1910f43fb68f0b0d0d3d36b9d7e4299f7db59"
         },
         {
           "path": "docs/production/production-plan.md",
-          "sha256": "3bd2d03bd096acee109f0a453d3b8f83147f08c745fb92dc55c1bfc1301fcbaa"
+          "sha256": "71827e9ed1590276f1f9fecc6fa36ccac10fd36d809d979affc930e1a4391490"
         },
         {
           "path": "docs/production/project-automation-setup-2026-09-10.md",
-          "sha256": "692f2370bd271e03ed52b076a5bcc8bc3b8bb0f51b6bccd495c7a2b8ccc9a432"
+          "sha256": "52cf287a29770d5c20bbecd3f946af6506d15c97333eb221445e4c98a2d94bc0"
         },
         {
           "path": "docs/production/project-work-contract.md",
@@ -4397,12 +4430,16 @@
           "sha256": "4ec3ae8b6df237874b2acd9a28d68c0faa1e43e612b6493ffe4ac5a9118d412a"
         },
         {
+          "path": "docs/production/v212-release-receipt-2026-09-10.md",
+          "sha256": "d4c13ddec45371d7379beeeadddedca27a8a3755ce79a251ff8e402843a3730f"
+        },
+        {
           "path": "docs/production/visual-evidence-manifest.json",
-          "sha256": "94a7f0366a50cf26b2719a109954b39dccc7370bb70680bb898d89fcf41a7844"
+          "sha256": "a40b716adda71eb8d8d1f2640f93cab9862118fafce10f301716a97666537d8e"
         },
         {
           "path": "docs/production/visual-register.md",
-          "sha256": "63d7f7b87a40ba27f9b273a9426c4e215cc7880c34d4256bace6720eb0073f85"
+          "sha256": "9a585090acbc53a1f2b7e3e60160557dbc3a62b807a926fac973b2718987f3f4"
         },
         {
           "path": "package.json",
@@ -4410,7 +4447,7 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "4d13951fdf1cf05ca9e9ffb5b4f040db90433c42e1c5cbe3f37b53175aeaa08c"
+          "sha256": "df9a3d39444acc855db25b521b4997ca0638954c2e049fb848dde1fddb338902"
         },
         {
           "path": "scripts/prepare-pages.mjs",
@@ -4434,7 +4471,7 @@
         },
         {
           "path": "tests/project-guard.test.mjs",
-          "sha256": "c57e435459b4502cc1e72b38fcba87b56e065bd1055d73afa2dba49ee0d81a6f"
+          "sha256": "62ddc53b062057581cf9e594238e4560e36692d14a0bd787790ae7d413f37850"
         },
         {
           "path": "tests/reader-currency.test.mjs",
@@ -5524,13 +5561,13 @@
         "types": [
           "governance"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Every participating project records changes and blocks unsupported completion until the actual Blueprint surfaces are reconciled.",
         "before": "Only the canonical Blueprint had scoped rules and release checks; other projects and new cloud chats could bypass that workflow.",
         "after": "Local desktop safeguards installed. Per CE-CHANGE-20260910-21, remote CI activation is outside required scope; publication is authorised and still needs independent verification.",
         "source": "Tania's current request: take over setup in Career Empire ChatGPT and Codex projects; automate checks so reconciliation is not repeatedly left to the user.",
         "owner": "Blueprint maintainer",
-        "nextAction": "Publish reviewed source/output and independently verify live content before beginning dimensioned Studio layout.",
+        "nextAction": "Publication verified; maintain local safeguards and continue the authorised dimensioned Studio layout under change 22.",
         "targets": [
           {
             "surface": "start",
@@ -5639,24 +5676,22 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Publish only reviewed generated output, then independently compare live manifest/record/current media and inspect desktop/mobile reader routes.",
+            "disposition": "updated",
+            "action": "Published V2.12 to the existing Pages destination; exact manifest and all 131 file hashes match. Full local/live desktop/mobile browser suites passed.",
             "records": [
               "CE-CHANGE-20260910-20"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "evidence": [
-              "/production/project-automation-setup-2026-09-10.md",
-              "/production/project-work-contract.md",
-              "/production/publication-and-production-2026-09-10.md"
+              "/production/v212-release-receipt-2026-09-10.md"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Independent live verification follows deployment.",
+              "result": "passed",
+              "method": "Independent HTTP hash comparison, full live browser suite and inspected 1280/390px reader screenshots.",
               "date": "2026-09-10"
             },
-            "nextAction": "Commit scoped source, build through the release gate, publish reviewed output and verify live hashes plus reader pages."
+            "nextAction": "Verify the later metadata close-out independently; keep product acceptance separate."
           },
           {
             "surface": "decisions",
@@ -5789,13 +5824,13 @@
           "governance",
           "release"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "V2.8 advice was stale: V2.11 is already verified live. Publish the existing local safeguards with remote CI outside the required scope, then advance the existing approved precinct sequence without a one-pass world rebuild.",
         "before": "Local safeguards unpublished; remote activation and publication authority listed as blockers.",
         "after": "Publication authorised, remote activation excluded, staged Avatar Studio layout next after verified release.",
         "source": "Tania, 10 September 2026, current Career Empire continuation: \"publication do that. remote checks not necessary. once publication done, move to step 2\". Supersedes obsolete V2.8 advice and remote-CI activation as a release dependency.",
         "owner": "Blueprint maintainer",
-        "nextAction": "Publish reviewed source/output and independently verify live content before beginning dimensioned Studio layout.",
+        "nextAction": "Publication verified; maintain local safeguards and continue the authorised dimensioned Studio layout under change 22.",
         "targets": [
           {
             "surface": "start",
@@ -5904,8 +5939,8 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Publish only reviewed generated output, then independently compare live manifest/record/current media and inspect desktop/mobile reader routes.",
+            "disposition": "updated",
+            "action": "Published V2.12 to the existing Pages destination; exact manifest and all 131 file hashes match. Full local/live desktop/mobile browser suites passed.",
             "records": [
               "CE-CHANGE-20260910-21",
               "CE-GOV-02",
@@ -5914,14 +5949,14 @@
             "owner": "Blueprint maintainer",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "evidence": [
-              "/production/publication-and-production-2026-09-10.md"
+              "/production/v212-release-receipt-2026-09-10.md"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Independent live verification follows deployment.",
+              "result": "passed",
+              "method": "Independent HTTP hash comparison, full live browser suite and inspected 1280/390px reader screenshots.",
               "date": "2026-09-10"
             },
-            "nextAction": "Commit scoped source, build through the release gate, publish reviewed output and verify live hashes plus reader pages."
+            "nextAction": "Verify the later metadata close-out independently; keep product acceptance separate."
           },
           {
             "surface": "build",
@@ -6027,6 +6062,353 @@
               "date": "2026-09-10"
             },
             "nextAction": "Preserve this verified scope and recheck after affected edits."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-22",
+        "title": "Begin Avatar Studio dimensioned layout study",
+        "types": [
+          "building",
+          "visual"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Existing design sketch and runtime disagree on Studio position. Reconcile measured prototype, approach/collision and camera before any textured kit or whole precinct build.",
+        "before": "Earlier sketch at (-15,7) and runtime Studio at (-17,5); dimensional and approach review unfinished.",
+        "after": "Measured source facts and proposed dimensions distinguished in one stage-one candidate with matched camera plan; no kit or game deployment.",
+        "source": "Tania, 10 September 2026: after Blueprint publication, move to step 2. Approved campus/pavilion direction and staged sequence retained.",
+        "owner": "Blueprint maintainer and environment integrator",
+        "nextAction": "Publish the stage-one study and verify its live diagram/link; then perform isolated camera/approach review before the textured kit.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Current action and summary now report verified V2.12 publication and stage-one layout underway, with kit and precinct work still ahead.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current action and summary now report verified V2.12 publication and stage-one layout underway, with kit and precinct work still ahead. Source-specific comparison and inspected diagram/static reader evidence retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recheck after further candidate or reader changes."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "CE-GOV-02 is Done for the authorised scope; CE-ENV-01 remains the sole Now item at stage one, with workbench review required before kit production.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "CE-GOV-02 is Done for the authorised scope; CE-ENV-01 remains the sole Now item at stage one, with workbench review required before kit production. Source-specific comparison and inspected diagram/static reader evidence retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recheck after further candidate or reader changes."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Appended change 22 for the dimensioned candidate after publication; retained original sketch/source and all preceding material history.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Appended change 22 for the dimensioned candidate after publication; retained original sketch/source and all preceding material history. Source-specific comparison and inspected diagram/static reader evidence retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recheck after further candidate or reader changes."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Updated canonical AGENTS, README, Start Here, production plan and publication guidance with the stage-one checkpoint and exact next workbench action.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Updated canonical AGENTS, README, Start Here, production plan and publication guidance with the stage-one checkpoint and exact next workbench action. Source-specific comparison and inspected diagram/static reader evidence retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recheck after further candidate or reader changes."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Export generator includes the verified release receipt and stage-one study; regenerated public/private records and guide views pass parity checks.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Export generator includes the verified release receipt and stage-one study; regenerated public/private records and guide views pass parity checks. Source-specific comparison and inspected diagram/static reader evidence retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recheck after further candidate or reader changes."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish the stage-one review document and diagram to the existing Blueprint; no game runtime publication is included.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Live document, diagram and world-section link checks follow publication.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Verify published study/diagram hashes and the world-section link at desktop/mobile widths."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "checked-unchanged",
+            "action": "Six registered concept/built originals remain byte-identical. Stage-one diagram is labelled dimensional candidate and does not replace semi-realistic campus/pavilion appearance.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Six registered concept/built originals remain byte-identical. Stage-one diagram is labelled dimensional candidate and does not replace semi-realistic campus/pavilion appearance. Source-specific comparison and inspected diagram/static reader evidence retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recheck after further candidate or reader changes."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Current hero, video/poster, concept and built-image placements remain intact. Only a separate source-hashed dimensioned SVG is added, visibly labelled as candidate.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current hero, video/poster, concept and built-image placements remain intact. Only a separate source-hashed dimensioned SVG is added, visibly labelled as candidate. Source-specific comparison and inspected diagram/static reader evidence retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recheck after further candidate or reader changes."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Registered CE-ENV-LAYOUT-01 in visual manifest and register with exact SVG/source/model hashes; JSON separates observed geometry from proposed route and cameras.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Registered CE-ENV-LAYOUT-01 in visual manifest and register with exact SVG/source/model hashes; JSON separates observed geometry from proposed route and cameras. Source-specific comparison and inspected diagram/static reader evidence retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recheck after further candidate or reader changes."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "World section shows the approved pavilion versus built Studio plus a direct stage-one study link. Measured envelope, anchor, trigger and proposed approach are documented without changing the runtime.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "World section shows the approved pavilion versus built Studio plus a direct stage-one study link. Measured envelope, anchor, trigger and proposed approach are documented without changing the runtime. Source-specific comparison and inspected diagram/static reader evidence retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recheck after further candidate or reader changes."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "The accepted first-pass blazer remains paused and six source references unchanged; no identity, rig, wardrobe or animation source was modified.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The accepted first-pass blazer remains paused and six source references unchanged; no identity, rig, wardrobe or animation source was modified. Source-specific comparison and inspected diagram/static reader evidence retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recheck after further candidate or reader changes."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "World candidate preserves Studio identity and portal interaction, moves pickup outside the existing fountain collider and records boundary/height issues. No economy or progression rule changed.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "World candidate preserves Studio identity and portal interaction, moves pickup outside the existing fountain collider and records boundary/height issues. No economy or progression rule changed. Source-specific comparison and inspected diagram/static reader evidence retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recheck after further candidate or reader changes."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "All 17 V2 decisions, four approvals, curriculum and mappings retain exact checks. Stage-one dimensions remain proposals; no new appearance, pilot, economy or blazer acceptance is inferred.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All 17 V2 decisions, four approvals, curriculum and mappings retain exact checks. Stage-one dimensions remain proposals; no new appearance, pilot, economy or blazer acceptance is inferred. Source-specific comparison and inspected diagram/static reader evidence retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recheck after further candidate or reader changes."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Measured GLB vertices and node transforms; analytic route, fountain and trigger checks pass. 57 Blueprint tests, type check and corrected focused lint pass; static reader reviewed at 1280/390px. No game-performance acceptance claimed.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Measured GLB vertices and node transforms; analytic route, fountain and trigger checks pass. 57 Blueprint tests, type check and corrected focused lint pass; static reader reviewed at 1280/390px. No game-performance acceptance claimed. Source-specific comparison and inspected diagram/static reader evidence retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recheck after further candidate or reader changes."
+          },
+          {
+            "surface": "flow",
+            "disposition": "checked-unchanged",
+            "action": "Existing Home Base teleport and Studio trigger are preserved; candidate landing is analytically inside trigger and outside building collider plus player radius. No saved-avatar/learning behavior changed; runtime review remains ahead.",
+            "records": [
+              "CE-CHANGE-20260910-22",
+              "CE-ENV-01",
+              "CE-STUDIO-CONCEPT-01",
+              "CE-STUDIO-BUILT-01"
+            ],
+            "owner": "Blueprint maintainer and environment integrator",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "/production/avatar-precinct-layout-stage1-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing Home Base teleport and Studio trigger are preserved; candidate landing is analytically inside trigger and outside building collider plus player radius. No saved-avatar/learning behavior changed; runtime review remains ahead. Source-specific comparison and inspected diagram/static reader evidence retained.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Recheck after further candidate or reader changes."
           }
         ]
       }

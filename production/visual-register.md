@@ -62,3 +62,7 @@ No new imagery, asset generation or paid experiment was performed by this audit.
 [First live desktop](/career-empire-blueprint/evidence/github-pages-20260909/first-live-desktop.png) and [first live mobile](/career-empire-blueprint/evidence/github-pages-20260909/first-live-mobile.png) were captured from the actual GitHub Pages URL and visually inspected after the successful full live smoke. Navigation and status text are readable; the mobile layout wraps without horizontal overflow. Hashes: `05f93a4f25d8bf8426d60b6e31d180d1903611959cffc0df43783623c9630818` and `1e28930ac8e8d2cbf83cffd1c20a411c82ab73bfebe84a59336d807d69bbdfa6`.
 
 These first-deployment screenshots retain the pending-verification wording served before the close-out update. They are dated layout evidence, not the current publication status; consult the live manifest and migration record. An earlier blank desktop screenshot was rejected and not registered; capture now waits for the publication heading, fonts and layout frames. No new game/asset imagery was produced and no visual/classroom acceptance is inferred.
+
+## CE-ENV-LAYOUT-01 — dimensioned approach candidate, 10 September 2026
+
+[Stage-one study](avatar-precinct-layout-stage1-2026-09-10.md) records the source hashes, measured model envelope, corrected plaza pickup, proposed levels and camera coordinates. Candidate only; no new kit or live game deployment. It preserves the six approved/built reference records and the paused blazer. Review in the isolated workbench before the textured kit.

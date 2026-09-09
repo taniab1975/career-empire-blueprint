@@ -1,0 +1,888 @@
+{
+  "id": "CE-ENV-LAYOUT-01",
+  "date": "2026-09-10",
+  "status": "stage-one review candidate; not approved or deployed",
+  "units": "metres; x east, y up, z south in the schematic",
+  "sourceFiles": [
+    {
+      "path": "data/world/ecc-campus-avatar-precinct-v1.json",
+      "sha256": "550f7df6df49a146ccf6c3c23c7bc2c8e2392e8815714d87fad4714d6fc15e62"
+    },
+    {
+      "path": "playable-3d/world.js",
+      "sha256": "7aec2181a9975a356feac765eeebee56be1cd927ed81a429c82cc34d6ce3cbfa"
+    },
+    {
+      "path": "playable-3d/app.js",
+      "sha256": "37436168527238cf651aa9625892ba4bb04c0c301bfcaf2081c5398c7b40eb6c"
+    },
+    {
+      "path": "scripts/build_avatar_studio.py",
+      "sha256": "b31d65e48a7b27d6a80119203c54519db856bb6bbf4bac3b1cc3477cf64e702a"
+    },
+    {
+      "path": "playable-3d/assets/scenery/ecc-avatar-studio-v1.glb",
+      "sha256": "1a6e8803e5949919396adf13b82c301af62184aaddd54076e83dbe29d273c631"
+    }
+  ],
+  "observed": {
+    "sketchCenter": [
+      -15,
+      7
+    ],
+    "runtimeCenter": [
+      -17,
+      5
+    ],
+    "runtimeRotationY": -1.5707963267948966,
+    "modelEnvelope": {
+      "min": [
+        -21.4,
+        0.0,
+        0.5
+      ],
+      "max": [
+        -12.045,
+        4.8509,
+        9.5
+      ]
+    },
+    "meshBounds": [
+      {
+        "name": "Avatar portal",
+        "min": [
+          -13.2913,
+          1.135,
+          4.055
+        ],
+        "max": [
+          -13.1487,
+          3.025,
+          5.945
+        ]
+      },
+      {
+        "name": "Entry frame",
+        "min": [
+          -13.45,
+          0.1,
+          4.08
+        ],
+        "max": [
+          -13.33,
+          3.6,
+          4.2
+        ]
+      },
+      {
+        "name": "Entry frame.001",
+        "min": [
+          -13.45,
+          0.1,
+          5.8
+        ],
+        "max": [
+          -13.33,
+          3.6,
+          5.92
+        ]
+      },
+      {
+        "name": "Entry glass",
+        "min": [
+          -13.455,
+          0.175,
+          4.19
+        ],
+        "max": [
+          -13.405,
+          3.525,
+          5.81
+        ]
+      },
+      {
+        "name": "Entry header",
+        "min": [
+          -13.46,
+          3.53,
+          4.05
+        ],
+        "max": [
+          -13.32,
+          3.71,
+          5.95
+        ]
+      },
+      {
+        "name": "Entry step",
+        "min": [
+          -13.23,
+          0.09,
+          3.475
+        ],
+        "max": [
+          -12.61,
+          0.27,
+          6.525
+        ]
+      },
+      {
+        "name": "Entry step.001",
+        "min": [
+          -13.03,
+          0.21,
+          3.615
+        ],
+        "max": [
+          -12.41,
+          0.39,
+          6.385
+        ]
+      },
+      {
+        "name": "Entry step.002",
+        "min": [
+          -12.83,
+          0.33,
+          3.755
+        ],
+        "max": [
+          -12.21,
+          0.51,
+          6.245
+        ]
+      },
+      {
+        "name": "Limestone roof cap",
+        "min": [
+          -21.21,
+          4.27,
+          0.68
+        ],
+        "max": [
+          -12.79,
+          4.41,
+          9.32
+        ]
+      },
+      {
+        "name": "Mullion",
+        "min": [
+          -13.45,
+          0.175,
+          2.29
+        ],
+        "max": [
+          -13.33,
+          3.925,
+          2.41
+        ]
+      },
+      {
+        "name": "Mullion.001",
+        "min": [
+          -13.45,
+          0.175,
+          3.59
+        ],
+        "max": [
+          -13.33,
+          3.925,
+          3.71
+        ]
+      },
+      {
+        "name": "Mullion.002",
+        "min": [
+          -13.45,
+          0.175,
+          6.29
+        ],
+        "max": [
+          -13.33,
+          3.925,
+          6.41
+        ]
+      },
+      {
+        "name": "Mullion.003",
+        "min": [
+          -13.45,
+          0.175,
+          7.59
+        ],
+        "max": [
+          -13.33,
+          3.925,
+          7.71
+        ]
+      },
+      {
+        "name": "Native shrub",
+        "min": [
+          -13.27,
+          0.725,
+          0.9
+        ],
+        "max": [
+          -12.91,
+          1.275,
+          1.26
+        ]
+      },
+      {
+        "name": "Native shrub.001",
+        "min": [
+          -13.27,
+          0.725,
+          1.18
+        ],
+        "max": [
+          -12.91,
+          1.275,
+          1.54
+        ]
+      },
+      {
+        "name": "Native shrub.002",
+        "min": [
+          -13.27,
+          0.725,
+          1.46
+        ],
+        "max": [
+          -12.91,
+          1.275,
+          1.82
+        ]
+      },
+      {
+        "name": "Native shrub.003",
+        "min": [
+          -13.27,
+          0.725,
+          1.74
+        ],
+        "max": [
+          -12.91,
+          1.275,
+          2.1
+        ]
+      },
+      {
+        "name": "Native shrub.004",
+        "min": [
+          -13.27,
+          0.725,
+          7.9
+        ],
+        "max": [
+          -12.91,
+          1.275,
+          8.26
+        ]
+      },
+      {
+        "name": "Native shrub.005",
+        "min": [
+          -13.27,
+          0.725,
+          8.18
+        ],
+        "max": [
+          -12.91,
+          1.275,
+          8.54
+        ]
+      },
+      {
+        "name": "Native shrub.006",
+        "min": [
+          -13.27,
+          0.725,
+          8.46
+        ],
+        "max": [
+          -12.91,
+          1.275,
+          8.82
+        ]
+      },
+      {
+        "name": "Native shrub.007",
+        "min": [
+          -13.27,
+          0.725,
+          8.74
+        ],
+        "max": [
+          -12.91,
+          1.275,
+          9.1
+        ]
+      },
+      {
+        "name": "Navy roof",
+        "min": [
+          -21.075,
+          4.02,
+          0.8
+        ],
+        "max": [
+          -12.925,
+          4.28,
+          9.2
+        ]
+      },
+      {
+        "name": "Paved plinth",
+        "min": [
+          -21.4,
+          0.0,
+          0.5
+        ],
+        "max": [
+          -12.6,
+          0.24,
+          9.5
+        ]
+      },
+      {
+        "name": "Planter",
+        "min": [
+          -13.625,
+          0.19,
+          0.775
+        ],
+        "max": [
+          -12.575,
+          0.91,
+          2.225
+        ]
+      },
+      {
+        "name": "Planter.001",
+        "min": [
+          -13.625,
+          0.19,
+          7.775
+        ],
+        "max": [
+          -12.575,
+          0.91,
+          9.225
+        ]
+      },
+      {
+        "name": "Portal plinth",
+        "min": [
+          -14.17,
+          0.24,
+          4.05
+        ],
+        "max": [
+          -12.27,
+          0.42,
+          5.95
+        ]
+      },
+      {
+        "name": "Rear wall",
+        "min": [
+          -20.84,
+          0.1,
+          1.2
+        ],
+        "max": [
+          -20.46,
+          4.2,
+          8.8
+        ]
+      },
+      {
+        "name": "Side pier",
+        "min": [
+          -20.6,
+          0.05,
+          1.2
+        ],
+        "max": [
+          -13.4,
+          4.05,
+          1.7
+        ]
+      },
+      {
+        "name": "Side pier.001",
+        "min": [
+          -20.6,
+          0.05,
+          8.3
+        ],
+        "max": [
+          -13.4,
+          4.05,
+          8.8
+        ]
+      },
+      {
+        "name": "Solar panel",
+        "min": [
+          -18.7567,
+          4.3091,
+          2.34
+        ],
+        "max": [
+          -16.5433,
+          4.8509,
+          3.46
+        ]
+      },
+      {
+        "name": "Solar panel.001",
+        "min": [
+          -18.7567,
+          4.3091,
+          3.74
+        ],
+        "max": [
+          -16.5433,
+          4.8509,
+          4.86
+        ]
+      },
+      {
+        "name": "Solar panel.002",
+        "min": [
+          -18.7567,
+          4.3091,
+          5.14
+        ],
+        "max": [
+          -16.5433,
+          4.8509,
+          6.26
+        ]
+      },
+      {
+        "name": "Solar panel.003",
+        "min": [
+          -18.7567,
+          4.3091,
+          6.54
+        ],
+        "max": [
+          -16.5433,
+          4.8509,
+          7.66
+        ]
+      },
+      {
+        "name": "Studio sign band",
+        "min": [
+          -13.37,
+          3.35,
+          3.375
+        ],
+        "max": [
+          -13.25,
+          3.77,
+          6.625
+        ]
+      },
+      {
+        "name": "Timber fin",
+        "min": [
+          -13.34,
+          0.755,
+          2.505
+        ],
+        "max": [
+          -13.1,
+          3.805,
+          2.595
+        ]
+      },
+      {
+        "name": "Timber fin.001",
+        "min": [
+          -13.34,
+          0.755,
+          2.335
+        ],
+        "max": [
+          -13.1,
+          3.805,
+          2.425
+        ]
+      },
+      {
+        "name": "Timber fin.002",
+        "min": [
+          -13.34,
+          0.755,
+          2.165
+        ],
+        "max": [
+          -13.1,
+          3.805,
+          2.255
+        ]
+      },
+      {
+        "name": "Timber fin.003",
+        "min": [
+          -13.34,
+          0.755,
+          1.995
+        ],
+        "max": [
+          -13.1,
+          3.805,
+          2.085
+        ]
+      },
+      {
+        "name": "Timber fin.004",
+        "min": [
+          -13.34,
+          0.755,
+          1.825
+        ],
+        "max": [
+          -13.1,
+          3.805,
+          1.915
+        ]
+      },
+      {
+        "name": "Timber fin.005",
+        "min": [
+          -13.34,
+          0.755,
+          1.655
+        ],
+        "max": [
+          -13.1,
+          3.805,
+          1.745
+        ]
+      },
+      {
+        "name": "Timber fin.006",
+        "min": [
+          -13.34,
+          0.755,
+          7.405
+        ],
+        "max": [
+          -13.1,
+          3.805,
+          7.495
+        ]
+      },
+      {
+        "name": "Timber fin.007",
+        "min": [
+          -13.34,
+          0.755,
+          7.575
+        ],
+        "max": [
+          -13.1,
+          3.805,
+          7.665
+        ]
+      },
+      {
+        "name": "Timber fin.008",
+        "min": [
+          -13.34,
+          0.755,
+          7.745
+        ],
+        "max": [
+          -13.1,
+          3.805,
+          7.835
+        ]
+      },
+      {
+        "name": "Timber fin.009",
+        "min": [
+          -13.34,
+          0.755,
+          7.915
+        ],
+        "max": [
+          -13.1,
+          3.805,
+          8.005
+        ]
+      },
+      {
+        "name": "Timber fin.010",
+        "min": [
+          -13.34,
+          0.755,
+          8.085
+        ],
+        "max": [
+          -13.1,
+          3.805,
+          8.175
+        ]
+      },
+      {
+        "name": "Timber fin.011",
+        "min": [
+          -13.34,
+          0.755,
+          8.255
+        ],
+        "max": [
+          -13.1,
+          3.805,
+          8.345
+        ]
+      },
+      {
+        "name": "Veranda column",
+        "min": [
+          -12.31,
+          0.045,
+          0.81
+        ],
+        "max": [
+          -12.13,
+          3.395,
+          0.99
+        ]
+      },
+      {
+        "name": "Veranda column.001",
+        "min": [
+          -12.31,
+          0.045,
+          9.01
+        ],
+        "max": [
+          -12.13,
+          3.395,
+          9.19
+        ]
+      },
+      {
+        "name": "Veranda roof",
+        "min": [
+          -13.195,
+          3.19,
+          0.55
+        ],
+        "max": [
+          -12.045,
+          3.41,
+          9.45
+        ]
+      },
+      {
+        "name": "Window",
+        "min": [
+          -13.465,
+          0.25,
+          1.79
+        ],
+        "max": [
+          -13.415,
+          3.75,
+          2.91
+        ]
+      },
+      {
+        "name": "Window.001",
+        "min": [
+          -13.465,
+          0.25,
+          3.09
+        ],
+        "max": [
+          -13.415,
+          3.75,
+          4.21
+        ]
+      },
+      {
+        "name": "Window.002",
+        "min": [
+          -13.465,
+          0.25,
+          5.79
+        ],
+        "max": [
+          -13.415,
+          3.75,
+          6.91
+        ]
+      },
+      {
+        "name": "Window.003",
+        "min": [
+          -13.465,
+          0.25,
+          7.09
+        ],
+        "max": [
+          -13.415,
+          3.75,
+          8.21
+        ]
+      }
+    ],
+    "interaction": {
+      "xMin": -13.6,
+      "xMax": -10.8,
+      "zMin": 3.55,
+      "zMax": 6.45
+    },
+    "homeTeleport": [
+      -12.4,
+      5
+    ],
+    "buildingCollider": {
+      "xMin": -20.6,
+      "xMax": -13.4,
+      "zMin": 1.9,
+      "zMax": 8.1
+    },
+    "fountain": {
+      "x": 0,
+      "z": 4,
+      "radius": 1.8
+    },
+    "walkingSpeed": 2.8,
+    "currentChaseCameraHeight": 3.25
+  },
+  "candidate": {
+    "bounds": {
+      "minX": -24,
+      "maxX": 5.5,
+      "minZ": -6,
+      "maxZ": 22
+    },
+    "studioCenter": [
+      -17,
+      5
+    ],
+    "route": [
+      [
+        -4,
+        5
+      ],
+      [
+        -6.4,
+        5
+      ],
+      [
+        -12.4,
+        5
+      ]
+    ],
+    "pathWidth": 3.2,
+    "landing": [
+      -12.4,
+      5
+    ],
+    "plazaPickup": [
+      -4,
+      5
+    ],
+    "ramp": {
+      "start": [
+        -6.4,
+        0,
+        5
+      ],
+      "end": [
+        -12.4,
+        0.24,
+        5
+      ],
+      "run": 6,
+      "rise": 0.24,
+      "ratio": "1:25 proposal; not a compliance finding"
+    },
+    "cameras": [
+      {
+        "id": "A",
+        "purpose": "Plaza arrival at eye height",
+        "position": [
+          -4,
+          1.65,
+          7.8
+        ],
+        "lookAt": [
+          -13.3,
+          1.8,
+          5
+        ]
+      },
+      {
+        "id": "B",
+        "purpose": "Near approach at eye height",
+        "position": [
+          -8,
+          1.65,
+          6.8
+        ],
+        "lookAt": [
+          -13.3,
+          1.8,
+          5
+        ]
+      },
+      {
+        "id": "C",
+        "purpose": "Match existing Home Base chase view",
+        "position": [
+          -6.4,
+          3.25,
+          5
+        ],
+        "lookAt": [
+          -13.5,
+          2.1,
+          5
+        ]
+      },
+      {
+        "id": "D",
+        "purpose": "Dimensioned aerial overview",
+        "position": [
+          -7,
+          28,
+          10
+        ],
+        "lookAt": [
+          -10,
+          0,
+          6
+        ]
+      }
+    ]
+  },
+  "checks": {
+    "routeLength": 8.4,
+    "theoreticalWalkingSeconds": 3.0,
+    "oldStartInsideFountain": true,
+    "oldPlazaOverrun": 0.5,
+    "landingInExistingTrigger": true,
+    "landingOutsideBuildingCollider": true,
+    "candidatePathFountainClearance": 0.723,
+    "remaining": [
+      "Candidate not run in physics engine; planting/prop collision and camera clipping still need isolated workbench review.",
+      "Existing plinth and decorative steps require a real step-free mesh/collision solution in a later build stage.",
+      "Eye-height cameras are proposed review cameras; existing runtime uses chase camera height 3.25.",
+      "No modular textured kit, new pavilion mesh or full precinct produced at this stage."
+    ]
+  }
+}

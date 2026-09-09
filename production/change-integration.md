@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: Publish local-folder safeguards and the authorised staged production handoff; remote CI activation is outside required scope.
+Release scope: V2.12 publication close-out and stage-one dimensioned layout evidence; this publishes the study, not a finished precinct or live game change.
 
-Publication verification is pending. Account-dependent availability remains unverified; remote CI activation is not required. Precinct, EST/teacher loop and learning pilot acceptance remain separate.
+Stage-one layout is a review candidate. Workbench camera/collision and level-transition checks precede the textured kit. Remote CI is outside required scope; blazer remains paused.
 
 ## CE-CHANGE-20260910-17 — Change-driven Blueprint update workflow
 
@@ -901,7 +901,7 @@ Next: Check the final close-out manifest independently; later evidence/metadata 
 
 ## CE-CHANGE-20260910-20 — Install continuous Blueprint safeguards across Career Empire projects
 
-Integration: **ready-for-publication**. Types: governance. Owner: Blueprint maintainer.
+Integration: **complete**. Types: governance. Owner: Blueprint maintainer.
 
 **Objective:** Every participating project records changes and blocks unsupported completion until the actual Blueprint surfaces are reconciled.
 
@@ -911,7 +911,7 @@ Integration: **ready-for-publication**. Types: governance. Owner: Blueprint main
 
 **Source:** Tania's current request: take over setup in Career Empire ChatGPT and Codex projects; automate checks so reconciliation is not repeatedly left to the user.
 
-**Next:** Publish reviewed source/output and independently verify live content before beginning dimensioned Studio layout.
+**Next:** Publication verified; maintain local safeguards and continue the authorised dimensioned Studio layout under change 22.
 
 ### Start Here — updated
 
@@ -1003,23 +1003,21 @@ Verification: passed / Canonical exports regenerated and parity checked. The new
 
 Next: Preserve this verified scope and recheck after affected edits.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Publish only reviewed generated output, then independently compare live manifest/record/current media and inspect desktop/mobile reader routes.
+Published V2.12 to the existing Pages destination; exact manifest and all 131 file hashes match. Full local/live desktop/mobile browser suites passed.
 
 Records: CE-CHANGE-20260910-20. Owner: Blueprint maintainer.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Independent live verification follows deployment.
+Verification: passed / Independent HTTP hash comparison, full live browser suite and inspected 1280/390px reader screenshots.
 
-- [Evidence](/career-empire-blueprint/production/project-automation-setup-2026-09-10.md)
-- [Evidence](/career-empire-blueprint/production/project-work-contract.md)
-- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/production/v212-release-receipt-2026-09-10.md)
 
-Next: Commit scoped source, build through the release gate, publish reviewed output and verify live hashes plus reader pages.
+Next: Verify the later metadata close-out independently; keep product acceptance separate.
 
 ### Decisions and superseded rules — checked-unchanged
 
@@ -1095,7 +1093,7 @@ Next: Preserve this verified scope and recheck after affected edits.
 
 ## CE-CHANGE-20260910-21 — Publish current safeguards, then begin staged Avatar Studio layout
 
-Integration: **ready-for-publication**. Types: governance, release. Owner: Blueprint maintainer.
+Integration: **complete**. Types: governance, release. Owner: Blueprint maintainer.
 
 **Objective:** V2.8 advice was stale: V2.11 is already verified live. Publish the existing local safeguards with remote CI outside the required scope, then advance the existing approved precinct sequence without a one-pass world rebuild.
 
@@ -1105,7 +1103,7 @@ Integration: **ready-for-publication**. Types: governance, release. Owner: Bluep
 
 **Source:** Tania, 10 September 2026, current Career Empire continuation: "publication do that. remote checks not necessary. once publication done, move to step 2". Supersedes obsolete V2.8 advice and remote-CI activation as a release dependency.
 
-**Next:** Publish reviewed source/output and independently verify live content before beginning dimensioned Studio layout.
+**Next:** Publication verified; maintain local safeguards and continue the authorised dimensioned Studio layout under change 22.
 
 ### Start Here — updated
 
@@ -1187,21 +1185,21 @@ Verification: passed / Canonical exports regenerated and parity checked. The new
 
 Next: Preserve this verified scope and recheck after affected edits.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Publish only reviewed generated output, then independently compare live manifest/record/current media and inspect desktop/mobile reader routes.
+Published V2.12 to the existing Pages destination; exact manifest and all 131 file hashes match. Full local/live desktop/mobile browser suites passed.
 
 Records: CE-CHANGE-20260910-21, CE-GOV-02, CE-ENV-01. Owner: Blueprint maintainer.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Independent live verification follows deployment.
+Verification: passed / Independent HTTP hash comparison, full live browser suite and inspected 1280/390px reader screenshots.
 
-- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/production/v212-release-receipt-2026-09-10.md)
 
-Next: Commit scoped source, build through the release gate, publish reviewed output and verify live hashes plus reader pages.
+Next: Verify the later metadata close-out independently; keep product acceptance separate.
 
 ### Implementation and test evidence — updated
 
@@ -1282,6 +1280,260 @@ Verification: passed / The protected 17 decisions, four approvals, curriculum, e
 - [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
 
 Next: Preserve this verified scope and recheck after affected edits.
+
+## CE-CHANGE-20260910-22 — Begin Avatar Studio dimensioned layout study
+
+Integration: **ready-for-publication**. Types: building, visual. Owner: Blueprint maintainer and environment integrator.
+
+**Objective:** Existing design sketch and runtime disagree on Studio position. Reconcile measured prototype, approach/collision and camera before any textured kit or whole precinct build.
+
+**Before:** Earlier sketch at (-15,7) and runtime Studio at (-17,5); dimensional and approach review unfinished.
+
+**Required result:** Measured source facts and proposed dimensions distinguished in one stage-one candidate with matched camera plan; no kit or game deployment.
+
+**Source:** Tania, 10 September 2026: after Blueprint publication, move to step 2. Approved campus/pavilion direction and staged sequence retained.
+
+**Next:** Publish the stage-one study and verify its live diagram/link; then perform isolated camera/approach review before the textured kit.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Current action and summary now report verified V2.12 publication and stage-one layout underway, with kit and precinct work still ahead.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Current action and summary now report verified V2.12 publication and stage-one layout underway, with kit and precinct work still ahead. Source-specific comparison and inspected diagram/static reader evidence retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Recheck after further candidate or reader changes.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+CE-GOV-02 is Done for the authorised scope; CE-ENV-01 remains the sole Now item at stage one, with workbench review required before kit production.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / CE-GOV-02 is Done for the authorised scope; CE-ENV-01 remains the sole Now item at stage one, with workbench review required before kit production. Source-specific comparison and inspected diagram/static reader evidence retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Recheck after further candidate or reader changes.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Appended change 22 for the dimensioned candidate after publication; retained original sketch/source and all preceding material history.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Appended change 22 for the dimensioned candidate after publication; retained original sketch/source and all preceding material history. Source-specific comparison and inspected diagram/static reader evidence retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Recheck after further candidate or reader changes.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Updated canonical AGENTS, README, Start Here, production plan and publication guidance with the stage-one checkpoint and exact next workbench action.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Updated canonical AGENTS, README, Start Here, production plan and publication guidance with the stage-one checkpoint and exact next workbench action. Source-specific comparison and inspected diagram/static reader evidence retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Recheck after further candidate or reader changes.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Export generator includes the verified release receipt and stage-one study; regenerated public/private records and guide views pass parity checks.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Export generator includes the verified release receipt and stage-one study; regenerated public/private records and guide views pass parity checks. Source-specific comparison and inspected diagram/static reader evidence retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Recheck after further candidate or reader changes.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish the stage-one review document and diagram to the existing Blueprint; no game runtime publication is included.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Live document, diagram and world-section link checks follow publication.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Verify published study/diagram hashes and the world-section link at desktop/mobile widths.
+
+### Look and feel — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Six registered concept/built originals remain byte-identical. Stage-one diagram is labelled dimensional candidate and does not replace semi-realistic campus/pavilion appearance.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / Six registered concept/built originals remain byte-identical. Stage-one diagram is labelled dimensional candidate and does not replace semi-realistic campus/pavilion appearance. Source-specific comparison and inspected diagram/static reader evidence retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Recheck after further candidate or reader changes.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Current hero, video/poster, concept and built-image placements remain intact. Only a separate source-hashed dimensioned SVG is added, visibly labelled as candidate.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / Current hero, video/poster, concept and built-image placements remain intact. Only a separate source-hashed dimensioned SVG is added, visibly labelled as candidate. Source-specific comparison and inspected diagram/static reader evidence retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Recheck after further candidate or reader changes.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Registered CE-ENV-LAYOUT-01 in visual manifest and register with exact SVG/source/model hashes; JSON separates observed geometry from proposed route and cameras.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Registered CE-ENV-LAYOUT-01 in visual manifest and register with exact SVG/source/model hashes; JSON separates observed geometry from proposed route and cameras. Source-specific comparison and inspected diagram/static reader evidence retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Recheck after further candidate or reader changes.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+World section shows the approved pavilion versus built Studio plus a direct stage-one study link. Measured envelope, anchor, trigger and proposed approach are documented without changing the runtime.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / World section shows the approved pavilion versus built Studio plus a direct stage-one study link. Measured envelope, anchor, trigger and proposed approach are documented without changing the runtime. Source-specific comparison and inspected diagram/static reader evidence retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Recheck after further candidate or reader changes.
+
+### Avatar and wardrobe references — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+The accepted first-pass blazer remains paused and six source references unchanged; no identity, rig, wardrobe or animation source was modified.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / The accepted first-pass blazer remains paused and six source references unchanged; no identity, rig, wardrobe or animation source was modified. Source-specific comparison and inspected diagram/static reader evidence retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Recheck after further candidate or reader changes.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+World candidate preserves Studio identity and portal interaction, moves pickup outside the existing fountain collider and records boundary/height issues. No economy or progression rule changed.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / World candidate preserves Studio identity and portal interaction, moves pickup outside the existing fountain collider and records boundary/height issues. No economy or progression rule changed. Source-specific comparison and inspected diagram/static reader evidence retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Recheck after further candidate or reader changes.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+All 17 V2 decisions, four approvals, curriculum and mappings retain exact checks. Stage-one dimensions remain proposals; no new appearance, pilot, economy or blazer acceptance is inferred.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / All 17 V2 decisions, four approvals, curriculum and mappings retain exact checks. Stage-one dimensions remain proposals; no new appearance, pilot, economy or blazer acceptance is inferred. Source-specific comparison and inspected diagram/static reader evidence retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Recheck after further candidate or reader changes.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Measured GLB vertices and node transforms; analytic route, fountain and trigger checks pass. 57 Blueprint tests, type check and corrected focused lint pass; static reader reviewed at 1280/390px. No game-performance acceptance claimed.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / Measured GLB vertices and node transforms; analytic route, fountain and trigger checks pass. 57 Blueprint tests, type check and corrected focused lint pass; static reader reviewed at 1280/390px. No game-performance acceptance claimed. Source-specific comparison and inspected diagram/static reader evidence retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Recheck after further candidate or reader changes.
+
+### Activities and learning flow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Existing Home Base teleport and Studio trigger are preserved; candidate landing is analytically inside trigger and outside building collider plus player radius. No saved-avatar/learning behavior changed; runtime review remains ahead.
+
+Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Existing Home Base teleport and Studio trigger are preserved; candidate landing is analytically inside trigger and outside building collider plus player radius. No saved-avatar/learning behavior changed; runtime review remains ahead. Source-specific comparison and inspected diagram/static reader evidence retained.
+
+- [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
+
+Next: Recheck after further candidate or reader changes.
 
 ## Historical boundary
 

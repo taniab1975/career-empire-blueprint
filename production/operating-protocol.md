@@ -1,5 +1,7 @@
 # Blueprint operating protocol
 
+**Current checkpoint:** V2.12 publication is independently verified; remote CI is outside required scope. [Release receipt](v212-release-receipt-2026-09-10.md). CE-ENV-01 Stage 1 has begun: [dimensioned layout study](avatar-precinct-layout-stage1-2026-09-10.md). Next is isolated camera/approach review before the textured kit. No kit, finished precinct or live game change is claimed. Earlier pending-publication statements below are historical checkpoints.
+
 **Latest instruction — 10 September 2026:** Tania authorises publication; remote CI/branch-protection activation is not required. Keep local safeguards and independently verify the live release. Then begin CE-ENV-01 at the dimensioned Avatar Studio layout stage, followed separately by kit, Studio, assembled precinct and review. The blazer stays paused. [Scope and sequence](publication-and-production-2026-09-10.md). Earlier pending-authority/remote-blocker statements below are historical checkpoints superseded by CE-CHANGE-20260910-21.
 
 ## Change-to-page integration — mandatory from 10 September 2026

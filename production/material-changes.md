@@ -368,17 +368,35 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** Publication scope and production continuation
 - **source:** Tania, 10 September 2026, current Career Empire continuation: "publication do that. remote checks not necessary. once publication done, move to step 2". Supersedes obsolete V2.8 advice and remote-CI activation as a release dependency.
 - **owner:** Blueprint maintainer; environment integrator after live verification
-- **status:** Ready for publication; live verification pending
+- **status:** Publication verified; stage-one continuation authorised
 - **rationale:** V2.8 advice was stale: V2.11 is already verified live. Publish the existing local safeguards with remote CI outside the required scope, then advance the existing approved precinct sequence without a one-pass world rebuild.
 - **dependencies:** CE-CHANGE-20260910-20 / CE-CHANGE-20260910-19
-- **evidence:** /production/publication-and-production-2026-09-10.md
-- **nextAction:** Validate and publish this exact source, independently verify live bytes and desktop/mobile reader pages, then begin dimensioned Avatar Studio layout in the separate candidate.
+- **evidence:** /production/v212-release-receipt-2026-09-10.md / /production/publication-and-production-2026-09-10.md
+- **nextAction:** Begin dimensioned Studio layout under CE-CHANGE-20260910-22; keep staged production and blazer pause.
 - **supersededRecord:** CE-CHANGE-20260910-20
 - **designApproval:** Tania authorises Blueprint publication and subsequent stage-one precinct work. Remote CI/branch-protection activation is not required. Local safeguards, release checks, protected decisions and blazer pause remain.
 - **implementation:** Release preparation; no new precinct work before verified publication.
-- **deployment:** Pending independent publication verification; prior V2.11 remains the verified baseline.
-- **testing:** 57 tests passed; TypeScript, focused lint and normal build passed. Targeted static reader review at 1280/390px passed. Development-preview smoke timed out in decision navigation; full static smoke is required before upload.
+- **deployment:** V2.12 verified live: source 776b2ec42e5aec4557a4b196b80119d2532f4a1b; public e92327d9c9ec5d20db79a99a648bdfd875a42bb1.
+- **testing:** 57 tests, TypeScript, lint, normal/static builds and full local/live browser suites pass; exact manifest and 131 file hashes match.
 - **taniaAcceptance:** Sequence and publication authorised; finished precinct, classroom and pilot acceptance remain separate.
+
+## CE-CHANGE-20260910-22 — Begin Avatar Studio dimensioned layout study
+
+- **date:** 2026-09-10
+- **domain:** Stage-one environment layout, source reconciliation and review evidence
+- **source:** Tania, 10 September 2026: after Blueprint publication, move to step 2. Approved campus/pavilion direction and staged sequence retained.
+- **owner:** Environment integrator; Tania accepts layout and appearance
+- **status:** Stage one underway; measured-source comparison and candidate layout
+- **rationale:** Existing design sketch and runtime disagree on Studio position. Reconcile measured prototype, approach/collision and camera before any textured kit or whole precinct build.
+- **dependencies:** CE-CHANGE-20260910-21 / CE-CHANGE-20260909-05
+- **evidence:** /production/avatar-precinct-layout-stage1-2026-09-10.md / /production/v212-release-receipt-2026-09-10.md
+- **nextAction:** Inspect the dimensioned candidate in the isolated workbench at cameras A–D before building the textured kit.
+- **supersededRecord:** None
+- **designApproval:** Campus visual direction and stepped production authorised; candidate dimensions are proposals, not accepted layout.
+- **implementation:** Measured existing GLB vertices and runtime transforms; created dimensioned SVG and JSON candidate, reconciled Studio centre, fountain-start conflict and plaza-bound overrun; added the visible world-section link.
+- **deployment:** No game runtime or new precinct deployed.
+- **testing:** Source measurements and analytic route/trigger checks complete. Candidate reader review pending; runtime/camera/prop collision and school-device checks are still ahead.
+- **taniaAcceptance:** No stage-one candidate acceptance inferred.
 
 ## Retained Atlas principles
 

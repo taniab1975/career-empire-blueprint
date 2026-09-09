@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="930" viewBox="0 0 1200 930" role="img" aria-label="Stage one dimensioned Avatar Studio approach candidate">
+<rect width="1200" height="930" fill="#f6f4ed"/>
+<style>text{font-family:Arial,sans-serif;fill:#193544}.title{font-size:30px;font-weight:700}.h{font-size:19px;font-weight:700}.body{font-size:15px}.small{font-size:12px}.dim{font-size:13px;fill:#365763}</style>
+<text x="55" y="48" class="title">Avatar Studio · dimensioned approach</text>
+<text x="55" y="77" class="body">STAGE 1 REVIEW CANDIDATE · existing geometry measured · no new kit or precinct build</text>
+<rect x="70" y="125" width="590.0" height="560" fill="#e5eadf" stroke="#a4b0a0" stroke-width="1.5" stroke-dasharray=""/>
+<path d="M70 125 V685" stroke="#d4dccc"/>
+<path d="M110 125 V685" stroke="#d4dccc"/>
+<path d="M150 125 V685" stroke="#d4dccc"/>
+<path d="M190 125 V685" stroke="#d4dccc"/>
+<path d="M230 125 V685" stroke="#d4dccc"/>
+<path d="M270 125 V685" stroke="#d4dccc"/>
+<path d="M310 125 V685" stroke="#d4dccc"/>
+<path d="M350 125 V685" stroke="#d4dccc"/>
+<path d="M390 125 V685" stroke="#d4dccc"/>
+<path d="M430 125 V685" stroke="#d4dccc"/>
+<path d="M470 125 V685" stroke="#d4dccc"/>
+<path d="M510 125 V685" stroke="#d4dccc"/>
+<path d="M550 125 V685" stroke="#d4dccc"/>
+<path d="M590 125 V685" stroke="#d4dccc"/>
+<path d="M630 125 V685" stroke="#d4dccc"/>
+<path d="M70 125 H660.0" stroke="#d4dccc"/>
+<path d="M70 165 H660.0" stroke="#d4dccc"/>
+<path d="M70 205 H660.0" stroke="#d4dccc"/>
+<path d="M70 245 H660.0" stroke="#d4dccc"/>
+<path d="M70 285 H660.0" stroke="#d4dccc"/>
+<path d="M70 325 H660.0" stroke="#d4dccc"/>
+<path d="M70 365 H660.0" stroke="#d4dccc"/>
+<path d="M70 405 H660.0" stroke="#d4dccc"/>
+<path d="M70 445 H660.0" stroke="#d4dccc"/>
+<path d="M70 485 H660.0" stroke="#d4dccc"/>
+<path d="M70 525 H660.0" stroke="#d4dccc"/>
+<path d="M70 565 H660.0" stroke="#d4dccc"/>
+<path d="M70 605 H660.0" stroke="#d4dccc"/>
+<path d="M70 645 H660.0" stroke="#d4dccc"/>
+<path d="M70 685 H660.0" stroke="#d4dccc"/>
+<rect x="460.0" y="245" width="180" height="200" fill="#d6d0c0" stroke="#a4b0a0" stroke-width="1.5" stroke-dasharray=""/>
+<text x="478.0" y="261.0" class="small">Plaza connection</text>
+<rect x="122.00000000000003" y="255.0" width="187.1" height="180" fill="#c4b795" stroke="#8f825f" stroke-width="1.5" stroke-dasharray=""/>
+<rect x="137.99999999999997" y="283.0" width="144.0" height="124.0" fill="#243e50" stroke="#a4b0a0" stroke-width="1.5" stroke-dasharray=""/>
+<text x="147.99999999999997" y="325" fill="white" style="fill:white;font:700 14px Arial">STUDIO</text>
+<text x="147.99999999999997" y="349.0" style="fill:white;font:12px Arial">(-17, 5)</text>
+<rect x="165.0" y="305" width="170.0" height="160" fill="none" stroke="#b66542" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="130" y="485" class="small">Dashed: earlier sketch (-15, 7)</text>
+<circle cx="550" cy="325" r="36" fill="#8db7b1" stroke="#527f78"/><text x="514.0" y="375.0" class="small">Fountain collider</text>
+<polyline points="470,345 422.0,345 302.0,345" fill="none" stroke="#f0e9d2" stroke-width="64" stroke-linecap="butt"/>
+<polyline points="470,345 422.0,345 302.0,345" fill="none" stroke="#177e78" stroke-width="3" stroke-dasharray="7 4"/>
+<rect x="278.0" y="316.0" width="56.0" height="58.0" fill="none" stroke="#177e78" stroke-width="1.5" stroke-dasharray="3 3"/>
+<circle cx="302.0" cy="345" r="6" fill="#177e78"/>
+<text x="318.0" y="295.0" class="small">3.2 m clear path</text>
+<path d="M470 401.0 L284.0 345" stroke="#748b93" stroke-width="1"/><circle cx="470" cy="401.0" r="10" fill="#fff" stroke="#243e50"/><text x="466" y="405.0" class="small">A</text>
+<path d="M390 381.0 L284.0 345" stroke="#748b93" stroke-width="1"/><circle cx="390" cy="381.0" r="10" fill="#fff" stroke="#243e50"/><text x="386" y="385.0" class="small">B</text>
+<path d="M422.0 345 L280.0 345" stroke="#748b93" stroke-width="1"/><circle cx="422.0" cy="345" r="10" fill="#fff" stroke="#243e50"/><text x="418.0" y="349" class="small">C</text>
+<text x="70" y="724" class="dim">29.5 m candidate boundary · +1.5 m east margin fixes the sketch overrun</text>
+<path d="M70 750 H170 M70 744 V756 M170 744 V756" stroke="#193544" stroke-width="2"/><text x="106" y="773" class="small">5 m</text>
+<text x="510" y="773" class="small">+X east →   +Z south ↓</text>
+<text x="710" y="135" class="h">Measured conflicts</text>
+<text x="710" y="162" class="body">Sketch centre: (-15, 7). Runtime: (-17, 5).</text>
+<text x="710" y="186" class="body">Use the working runtime anchor for this study.</text>
+<text x="710" y="210" class="body">The sketch starts inside the fountain collider.</text>
+<text x="710" y="234" class="body">Move pickup to the west plaza edge (-4, 5).</text>
+<text x="710" y="258" class="body">Its plaza exceeds the original bounds by 0.5 m.</text>
+<text x="710" y="282" class="body"></text>
+<text x="710" y="306" class="h">Approach candidate</text>
+<text x="710" y="333" class="body">8.4 m route · about 3.0 s at current walk speed.</text>
+<text x="710" y="357" class="body">3.2 m path; final landing stays in the existing</text>
+<text x="710" y="381" class="body">Studio interaction zone at (-12.4, 5).</text>
+<text x="710" y="405" class="body">Propose 0.24 m rise over 6 m (1:25).</text>
+<text x="710" y="429" class="body">Mesh/collision and access still need testing.</text>
+<text x="710" y="453" class="body"></text>
+<text x="710" y="477" class="h">Matched camera plan</text>
+<text x="710" y="504" class="body">A  Plaza arrival · eye height 1.65 m</text>
+<text x="710" y="528" class="body">B  Near approach · eye height 1.65 m</text>
+<text x="710" y="552" class="body">C  Existing chase view · height 3.25 m</text>
+<text x="710" y="576" class="body">D  Aerial · height 28 m (see JSON)</text>
+<text x="710" y="600" class="body"></text>
+<text x="710" y="624" class="h">Next gate</text>
+<text x="710" y="651" class="body">Review approach, scale and camera sightlines</text>
+<text x="710" y="675" class="body">in the isolated candidate before textured kit.</text>
+<text x="710" y="699" class="body">Keep limestone, navy, glass and native gardens.</text>
+<text x="710" y="723" class="body">Blazer remains paused. No live game change.</text>
+<rect x="55" y="802" width="1090" height="90" rx="8" fill="#fff"/>
+<text x="75" y="829" class="h">Level study · proposal, not an accepted accessibility solution</text>
+<path d="M80 868 H245 L455 850 H570" stroke="#177e78" stroke-width="4" fill="none"/>
+<text x="275" y="886" class="small">6 m run / 0.24 m rise</text>
+<text x="600" y="858" class="body">Existing decorative steps and raised plinth need a later mesh/collision fix.</text>
+<text x="600" y="881" class="small">This diagram is dimensional evidence. The approved pavilion image still controls appearance.</text>
+</svg>

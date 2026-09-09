@@ -67,6 +67,7 @@ Limits: A still does not prove every animation or deformation passes. The paused
 Next: Retain evidence with the matching model; future motion acceptance requires supported clips and complete-body checks.
 Source: Inspect blazer-only GLB asset task, studio-jacket-walking.png; shared-skeleton synthetic walking test, not the incompatible independent Tripo clip.
 SHA-256: 63103349fda80bd82c3955c2b3beec5b36bd245e52390b2a15b6a6311271d473
+Open integration CE-CHANGE-20260910-22: Existing design sketch and runtime disagree on Studio position. Reconcile measured prototype, approach/collision and camera before any textured kit or whole precinct build. Next: Publish the stage-one study and verify its live diagram/link; then perform isolated camera/approach review before the textured kit.
 
 ## Retained earlier reference family and prompt pack — historical, not a replacement for the current direction
 
