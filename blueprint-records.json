@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "revision": "V2.10 / 10 September 2026",
+  "revision": "V2.11 / 10 September 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -12,13 +12,13 @@
     "currentEstPrepLabel": "Open current EST Prep module",
     "recordHref": "/blueprint-records.json",
     "recordLabel": "Download Blueprint record",
-    "screenshot": "/evidence/3d-walkthrough-start-2026-09-07.jpg",
-    "screenshotAlt": "Playable Career Empire 3D review build: student avatar in the learning district with EST Prep available from the destination bar",
+    "screenshot": "/references/current/studio-door-approach.png",
+    "screenshotAlt": "9 September built Avatar Studio prototype: student at the corrected entrance; not the approved finished pavilion",
     "conceptVideoHref": "/references/style/town-hall-entry-start-here.mp4",
     "conceptVideoPoster": "/references/style/entry-original-poster.jpg",
     "conceptVideoCaptions": "/references/style/town-hall-entry-original.vtt",
     "conceptVideoTitle": "ElevenLabs end-result concept film",
-    "conceptVideoSummary": "Earlier sound-enabled Town Hall approach, doorway and interior reference. Retained as history, not the current ECC campus or Avatar Studio target. The intended current poster/clip pairing remains part of the open visual integration checklist.",
+    "conceptVideoSummary": "Earlier sound-enabled Town Hall approach, doorway and interior reference. This matching historical clip/poster is retained for comparison only. No current campus film has been recovered or is claimed; the approved campus and pavilion stills are the current direction.",
     "reviewScope": "Public reviewers can walk the 3D district, use Avatar Studio, approach EST Prep and compare the intended 3D entry with the current public Demo Student EST Prep flow. School planning documents and the Blueprint record are public; credentials and real student data stay out of reviewer files."
   },
   "sampleOutlineUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0019/1202338/Careers-and-Employability-General-Year-12-Sample-course-outline-For-teaching-from-2026.PDF",
@@ -27,7 +27,7 @@
     "release": {
       "id": "V2.10",
       "date": "2026-09-10",
-      "label": "V2.10 / 10 September 2026",
+      "label": "V2.11 / 10 September 2026",
       "status": "Scoped workflow repair; visual integration remains incomplete",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
@@ -98,7 +98,7 @@
       {
         "id": "world",
         "label": "World & rewards",
-        "summary": "How players progress, what they receive, and how tax, community choices and town improvements connect.",
+        "summary": "Current campus places and their build status, alongside the retained open progression and community rules.",
         "image": "/references/topics/world-rewards.png",
         "imageAlt": "Existing community concept artwork linking a shared fund to people, learning and town improvements"
       },
@@ -113,8 +113,8 @@
         "id": "visuals",
         "label": "Look & feel",
         "summary": "The cinematic 3D style, selected references, and guidance for creating consistent images, video and game assets.",
-        "image": "/references/style/town-hall-approach.png",
-        "imageAlt": "Selected Town Hall reference with a character approaching warm windows and cyan architectural lighting"
+        "image": "/references/current/ecc-career-campus.png",
+        "imageAlt": "ECC Career Campus — approved visual foundation; concept, not live construction"
       }
     ],
     "areaTopics": {
@@ -130,8 +130,8 @@
           "id": "year",
           "label": "The year-long journey",
           "summary": "Explore how the story could develop across Units 3 and 4, with flexible curriculum timing.",
-          "image": "/references/style/town-hall-approach.png",
-          "imageAlt": "Selected cinematic reference of a character approaching Town Hall"
+          "image": "/references/current/campus-career-corridor.png",
+          "imageAlt": "Campus-to-Career Corridor — approved aerial structure; not an approved year timetable"
         },
         {
           "id": "method",
@@ -189,7 +189,7 @@
     "currentStep": {
       "id": "CE-GOV-01",
       "title": "Reconcile changes across every affected Blueprint section",
-      "status": "Workflow repair; visual integration still incomplete",
+      "status": "Content reconciled locally; live verification pending",
       "owner": "Blueprint maintainer",
       "href": "/production/change-integration.md",
       "actionLabel": "See affected sections and remaining updates",
@@ -198,8 +198,8 @@
         "V2-D08",
         "V2-D17"
       ],
-      "nextAction": "Use the change impact checklist, not only the log. Verify exact approved visual originals and media pairing; update Look and feel, buildings, Start Here and next actions together. Do not restart production or reopen approved direction.",
-      "doneWhen": "GitHub public records match validated source, release evidence is recorded, and future maintenance uses one canonical Blueprint.",
+      "nextAction": "Reconcile actual content across every reader section, including concepts versus built assets, classroom status, learning/assessment boundaries and delivery. Verify the published views against source evidence, not just working navigation.",
+      "doneWhen": "Every reader section has source-specific content verification, affected placements match the recovered evidence, and the published result is inspected; remaining design/classroom/access gaps are named.",
       "boundary": "This documentation update does not approve a new game build, paid asset generation, curriculum edition change or final design acceptance."
     },
     "roadmap": [
@@ -208,8 +208,8 @@
         "horizon": "Now",
         "title": "Complete change-to-page integration",
         "owner": "Blueprint maintainer",
-        "status": "Visual integration defect open; workflow repair in progress",
-        "dependency": "Exact accepted source references and per-surface reader checks",
+        "status": "Ready for publication; verify exact live content",
+        "dependency": "Reader/source comparisons across all sections; no new artwork or game production",
         "doneWhen": "Each affected surface agrees with its source change; no missing or unverified surface is labelled complete",
         "href": "/production/change-integration.md"
       },
@@ -554,7 +554,7 @@
       "pipeline": [
         {
           "tool": "Existing references / Tripo / historical Meshy-Hunyuan trials",
-          "role": "Reuse selected ElevenLabs direction and supplied individual assets. Generated art is reference; generator previews are not production acceptance."
+          "role": "Reuse the recovered approved campus/corridor/Avatar Studio originals and supplied avatar assets. ElevenLabs civic films are historical camera/feeling references, not the current campus target. Generator output is not production acceptance."
         },
         {
           "tool": "Avatar / wearable pipeline",
@@ -666,16 +666,16 @@
       "asOf": "2026-09-10",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.10 workflow repair",
+        "sourceRevision": "V2.11 / 10 September 2026",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.9 / GitHub Pages",
-        "checkedAt": "2026-09-09",
-        "observedLiveSha256": "fb4d2bd685df40de3bdec5b72a2f7404df73062d29dbb5e42eb5e17bbb804953",
+        "observedLiveRevision": "V2.10 / GitHub Pages",
+        "checkedAt": "2026-09-10",
+        "observedLiveSha256": "1ad47ea05a1c7ab8441d63bf600c4205b9c2b464817c58a236235c836cfae34b",
         "accessCheck": "GitHub delivery repository PUBLIC and Pages built successfully; source mirror PRIVATE. Existing Sites project still returns HTTP 404 NOT_FOUND / project_not_found.",
         "validationReceipt": "/production/github-migration-2026-09-09.md",
-        "status": "Scoped workflow repair; accepted campus visual integration remains incomplete",
+        "status": "Reader reconciliation in progress; publication receipt will record actual verified release",
         "savedVersionId": null,
-        "deploymentId": "GitHub Pages build 1204465234",
+        "deploymentId": "GitHub Pages build 1204515871",
         "parity": "Previous GitHub publication was verified byte-for-byte; that did not establish that every page reflected the accepted changes",
         "resume": "Use the private canonical source and existing recovery branch; publish only validated generated output to the existing Pages repository. Read the current manifest/receipt, preserve newer history, and log material work. Legacy redirect waits for the owning Sites account.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
@@ -686,8 +686,8 @@
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
         },
-        "observedPublicCommit": "e3e067fd844b18a5a7959e24dfaf2acf8099577d",
-        "hashScope": "Observed first verified V2.9 deployment, not a self-hash of this later close-out record. Compare the live publication-manifest.json with blueprint-records.json for current exact parity.",
+        "observedPublicCommit": "ebbc8852b38884fb58907378b4fa39dce33a94aa",
+        "hashScope": "Observed V2.10 publication before this reconciliation; the deployed manifest identifies the exact current build. Technical parity alone does not establish content currency.",
         "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
@@ -1164,7 +1164,7 @@
           "domain": "Visual direction, media and buildings",
           "source": "Tania's 10 September report: Look and feel, Avatar Studio/buildings, aerial references, future actions and Start Here media do not reflect the agreed direction.",
           "owner": "Blueprint maintainer",
-          "status": "Incomplete integration; exact newer source images/poster selection requires reconciliation",
+          "status": "Exact originals recovered and integrated locally; live verification pending",
           "rationale": "Approval of the campus direction was recorded, but the actual reader-facing visual placements were not updated together. Earlier daytime-campus filenames inspected here depict civic concepts and are not proof of the newer references.",
           "dependencies": [
             "CE-CHANGE-20260909-05",
@@ -1172,15 +1172,41 @@
           ],
           "evidence": [
             "/production/change-integration.md",
-            "/production/visual-register.md"
+            "/production/visual-register.md",
+            "/production/current-assets.md",
+            "/production/reader-reconciliation-2026-09-10.md"
           ],
-          "nextAction": "Recover exact approved Avatar Studio/aerial references and intended front poster/clip pairing, then update every required surface and inspect it. Do not generate substitutes or reopen the direction approval.",
+          "nextAction": "Verify this integrated content in the existing GitHub publication; finished precinct and wardrobe remain separate product gaps.",
           "supersededRecord": null,
           "designApproval": "Campus/precinct direction retained; image integration and asset completion are separate.",
-          "implementation": "Missing propagation explicitly tracked. Earlier films/civic references labelled historical, not current visual targets; no replacement assets invented.",
+          "implementation": "Recovered original campus/corridor/pavilion bytes and separately registered actual Studio/avatar proof; updated current galleries, building records, Start Here, thumbnails, prompts and next actions.",
           "deployment": "Known visual integration gap disclosed in the scoped workflow release; not claimed complete by publishing.",
           "testing": "Workflow must reject visual completion with omitted media, building, asset or next-action checks.",
           "taniaAcceptance": "User rejected current presentation as representative; no visual acceptance claimed."
+        },
+        {
+          "id": "CE-CHANGE-20260910-19",
+          "date": "2026-09-10",
+          "title": "Reconcile the whole reader-facing Blueprint, not only reported images",
+          "domain": "All reader sections, visual/building/avatar and learning/classroom status",
+          "source": "Tania clarified that the first two stale images were examples and rejected the claim that everything was updated; current task 10 September.",
+          "owner": "Blueprint maintainer",
+          "status": "Source/reader reconciliation locally verified; live check pending",
+          "rationale": "Workflow records and functioning pages did not ensure the published content matched actual decisions and built work.",
+          "dependencies": [
+            "CE-CHANGE-20260910-18"
+          ],
+          "evidence": [
+            "/production/reader-reconciliation-2026-09-10.md",
+            "/production/current-assets.md"
+          ],
+          "nextAction": "Publish reviewed output and verify actual live pages and exact source/records/image bytes.",
+          "supersededRecord": null,
+          "designApproval": "No new design approval; retain all 17 decisions, four production approvals and unapproved pilot.",
+          "implementation": "Shared current-evidence gallery, recovered exact concepts, actual built proof and place status; classroom and decision visibility corrections.",
+          "deployment": "Not yet verified for this reconciliation",
+          "testing": "46/46 data/governance/source tests, TypeScript, focused lint, original and static builds; full local desktop/mobile navigation and semantic image/status checks passed. Initial incomplete screenshots rejected and recaptured after rendering settled.",
+          "taniaAcceptance": "User requested correction; neither final presentation nor game/classroom readiness accepted."
         }
       ],
       "sessionStart": [
@@ -3162,6 +3188,24 @@
   ],
   "buildRecords": [
     {
+      "id": "BUILD-BP-READER-20260910",
+      "title": "Whole-Blueprint reader reconciliation",
+      "status": "Content verified locally; independent live release check pending",
+      "owner": "Blueprint maintainer; Tania retains design and classroom acceptance",
+      "date": "10 September 2026",
+      "decision": "Tania clarified that stale visual examples expose a whole-Blueprint failure; CE-CHANGE-20260910-18/19",
+      "done": "Recovered exact campus/corridor/pavilion originals; shared current concept/built records across Start Here, visuals, buildings and builds; corrected topic thumbnails, prompts, classroom status, production-decision visibility and historical screenshot dates. All reader sections source-checked; protected records unchanged.",
+      "evidence": [
+        "/evidence/reader-reconciliation-20260910/current-overview-1280.png",
+        "/evidence/reader-reconciliation-20260910/current-visuals-390.png",
+        "/evidence/reader-reconciliation-20260910/current-world-1280.png",
+        "/evidence/reader-reconciliation-20260910/current-build-390.png"
+      ],
+      "checks": "Data/governance/source regression tests, TypeScript, focused lint, original/static builds and full local semantic desktop/mobile browser checks. Inspected rendered current images and status; rejected early incomplete captures. Exact source and section findings in /production/reader-reconciliation-2026-09-10.md.",
+      "limits": "Screenshots are local pre-publication checkpoints. Campus stills are approved concepts; Studio and schoolboy/blazer are built prototypes. Wardrobe paused; kit/precinct, full classroom loop, cohort/pilot/progression and legacy redirect remain open.",
+      "acceptance": "Correction requested, not final asset/game/classroom acceptance. Public completeness requires independent live inspection; final release receipt is recorded separately."
+    },
+    {
       "id": "BUILD-BP-WORKFLOW-20260910",
       "title": "Change-to-page integration workflow",
       "status": "Workflow repaired; campus visual integration remains open",
@@ -3389,10 +3433,10 @@
     "translation": "Rebuild the selected designs as spatially believable, walkable 3D environments. Do not simply place the existing isometric pictures on planes, rotate a flat facade, or keep white-background display platforms. A generated 3D-looking image or film is a visual reference, not a mesh, rig or finished playable asset.",
     "authority": "This guide records Tania's selected references and a proposed reusable interpretation. V2-D17 separately records her 7 September approval of the first generated ECC avatar's visual direction and proceeding with model preparation. The original 16 decision records remain unchanged. Approval does not extend to exact generated crest artwork, inferred side/back geometry, the whole style standard or a completed game asset. The mistakenly attached 5-6 September screenshots are excluded. This guide itself is reference work. Subsequent imported meshes, walk animation, fixed-shirt prototype and failed component runs are recorded in the 8 September current-state record; they do not establish acceptance of the whole style standard.",
     "preferences": [
-      "Use the newer contemporary building family as the everyday architectural direction.",
-      "Keep the supplied Town Hall appearance and immersive entry as a principal visual reference.",
-      "Translate the selected buildings, characters, landscape and reward references into the cinematic 3D treatment of the ElevenLabs videos.",
-      "Keep selected existing visual strengths; do not inherit flat map presentation or every old building requirement."
+      "Use CE-CAMPUS-01/02 and CE-STUDIO-CONCEPT-01 as the current architectural targets.",
+      "Keep built evidence separate from concept approval; the Studio prototype and paused blazer exist but are unfinished.",
+      "Review the Avatar Studio approach at player height before expanding to other destinations.",
+      "Retain earlier civic films and portrait/turnaround as clearly dated history, not current implementation proof."
     ],
     "references": [
       {
@@ -3516,7 +3560,7 @@
     "principles": [
       {
         "title": "Modern by default; distinctive by purpose",
-        "body": "Use contemporary glass, pale stone or concrete, dark metal and timber with visible activity inside. Solar panels, shade and greenery should have believable uses. Keep the preferred Town Hall as a civic landmark with modern accents. Match quality and materials across buildings, not identical roof shapes. Avoid making every service a monument, generic office block or futuristic pod."
+        "body": "Use the approved ECC campus and pavilion family: warm limestone/pale brick, navy framing, timber fins, generous glass, verandas and layered native planting. Historic Town Hall art is retained comparison, not the everyday architecture target. Match material quality and human scale without duplicating every roof."
       },
       {
         "title": "Detailed and tactile, not photographically literal",
@@ -3549,14 +3593,14 @@
     ],
     "palette": [
       {
-        "name": "Stone",
-        "hex": "#B9B8B0",
-        "role": "Quiet architectural mass"
+        "name": "Warm limestone",
+        "hex": "#D8C6A7",
+        "role": "Working campus stone interpretation; exact value not a newly approved colour specification"
       },
       {
-        "name": "Graphite",
-        "hex": "#343C43",
-        "role": "Frames, roofs and contrast"
+        "name": "Navy",
+        "hex": "#243F51",
+        "role": "Campus frames, canopies and roofs; working interpretation"
       },
       {
         "name": "Leaf",
@@ -3591,7 +3635,7 @@
     "workflow": [
       "Choose a named reference for each job: architecture, character identity, material/lighting and camera. Attach the actual files; filenames in a prompt alone do not give a generator access to them.",
       "Write the asset's purpose and intended experience. Lock identity, silhouette, dimensions/scale, entrance position, materials, lighting and exclusions before requesting variations.",
-      "Generate a small reference set: daytime approach, side/rear view, doorway/interior relationship and one optional cinematic lighting variant. Check that views agree; AI-generated turnarounds are not guaranteed geometry.",
+      "Reuse the approved source set first. Develop the dimensioned approach and modular kit in the separate candidate; additional reference generation or vendor spending requires explicit scope and approval.",
       "Approve one reference set, then build or commission the actual mesh, materials, rig and animation. Reuse the same geometry for states and camera shots; do not generate a different building for every frame.",
       "Compare a rendered film reference with a real-time engine test on target school hardware. Agree measurable asset, lighting and performance budgets before production; no frame-rate or film-quality promise is made by this guide.",
       "Record source, prompt, tool/model/version where available, date, rights, parent references, output, approval status and runtime test evidence. Keep original references and editable source aligned with the live Blueprint record."
@@ -3600,12 +3644,12 @@
       {
         "id": "PROMPT-CORE",
         "title": "Core style block",
-        "text": "Career Empire: cinematic stylised realism for a Year 12 career-and-life simulation. Match the attached ElevenLabs Town Hall frame/clip for rendering treatment, depth, material response, character presence and cinematic clarity. Create a recognisable, welcoming, optimistic near-future place, with substantial architecture, expressive original characters, tactile stone, timber, metal and glass, layered greenery and selective cyan/teal technology accents. Keep natural colour variation, warm occupied interiors, believable contact shadows and consistent human scale. Modern architecture is the town default; retain the supplied Town Hall's civic design when that is the subject. This is a full dimensional environment, not an isometric sprite on a white platform. Preserve every specifically supplied identity and architecture lock. No unrelated restyling, illegible generated text, invented logo, constant neon wash, toy-like simplification or photographic human faces."
+        "text": "Career Empire: semi-realistic ECC Career Campus + Campus-to-Career Corridor for a career-and-life simulation. Attach the current CE-CAMPUS-01, CE-CAMPUS-02 and relevant CE-STUDIO-CONCEPT-01 originals; these control architecture and material treatment. Warm limestone/pale brick, navy frames, timber fins, large glass, native planting and shaded walking paths. Restrained teal interaction; warm Western Australian daylight; believable human scale, entrance and ground contact. No toy-like blockouts, constant neon, copied civic monuments, invented logos or literal claims about ECC geography. Preserve selected character identity separately. A concept is not a mesh or finished playable scene. These templates do not authorise new generation or spending."
       },
       {
         "id": "PROMPT-BUILDING",
         "title": "Selected building to 3D concept",
-        "text": "Use the Core style block. SUBJECT: [named building and reference ID]. PURPOSE: [approved experience or reference study]. Reference A controls the selected building's recognisable silhouette, materials and activity; reference B, an ElevenLabs Town Hall frame, controls cinematic 3D treatment, not the building's shape. Reinterpret this design as a complete walkable building at human scale. Keep [roof profile, material accents and distinctive features]. Show [ground-level three-quarter approach / side-rear view / one step inside the entrance] in [clear daylight / agreed evening light]. Keep the entrance usable and visible, integrate continuous ground and planting, and provide credible interior depth. Preserve the same building geometry across the set. [State] changes maintenance and activity, not footprint or doorway location. No detached display base, fake paper cut-out, copied Town Hall columns on every building, or conversion into a different architectural design. This output is concept reference only, not a production model."
+        "text": "Use the Core style block. SUBJECT: [named building and reference ID]. PURPOSE: [approved experience or reference study]. Reference A controls the selected building's recognisable silhouette, materials and activity; reference B, the approved campus/pavilion concept, controls the shared material and architectural quality. Older Town Hall frames are optional historical camera studies, not current building authority. Reinterpret this design as a complete walkable building at human scale. Keep [roof profile, material accents and distinctive features]. Show [ground-level three-quarter approach / side-rear view / one step inside the entrance] in [clear daylight / agreed evening light]. Keep the entrance usable and visible, integrate continuous ground and planting, and provide credible interior depth. Preserve the same building geometry across the set. [State] changes maintenance and activity, not footprint or doorway location. No detached display base, fake paper cut-out, copied Town Hall columns on every building, or conversion into a different architectural design. This output is concept reference only, not a production model."
       },
       {
         "id": "PROMPT-CHARACTER",
@@ -3615,7 +3659,7 @@
       {
         "id": "PROMPT-FILM",
         "title": "Building-entry video brief",
-        "text": "Use the Core style block. Attach the approved character reference, building exterior, matching interior and the selected Town Hall clip. Produce a proposed 8-10 second 16:9 reference film at the tool's supported output settings. Begin behind and slightly to one side of the character, looking towards the readable entrance. Move forward smoothly with grounded footsteps; let the destination fill more of the frame. Include a short, natural reaction only if it serves the moment. Cross the actual doorway into the matching interior without passing through a wall or changing the floor plan. Keep face, hair, outfit, badge, backpack, light direction and architecture consistent. ENTRY EFFECT: [restrained doorway light by default under existing guidance; use a stronger portal only after explicit approval]. If an effect is chosen, keep it local to the doorway and keep interior depth legible. No automatic aerial opening: request that as a separate connecting shot if needed. No teleport cut, sudden day/night swap, fisheye, camera shake, foot sliding, hard strobe, geometry morph, generated captions or invented interface. This is a visual reference; game timing and interaction remain separately designed."
+        "text": "Use the Core style block. Attach the approved character reference, building exterior, matching interior and, only for historical camera comparison, the selected Town Hall clip. No current campus film is supplied or approved by this template. Produce a proposed 8-10 second 16:9 reference film at the tool's supported output settings. Begin behind and slightly to one side of the character, looking towards the readable entrance. Move forward smoothly with grounded footsteps; let the destination fill more of the frame. Include a short, natural reaction only if it serves the moment. Cross the actual doorway into the matching interior without passing through a wall or changing the floor plan. Keep face, hair, outfit, badge, backpack, light direction and architecture consistent. ENTRY EFFECT: [restrained doorway light by default under existing guidance; use a stronger portal only after explicit approval]. If an effect is chosen, keep it local to the doorway and keep interior depth legible. No automatic aerial opening: request that as a separate connecting shot if needed. No teleport cut, sudden day/night swap, fisheye, camera shake, foot sliding, hard strobe, geometry morph, generated captions or invented interface. This is a visual reference; game timing and interaction remain separately designed."
       },
       {
         "id": "PROMPT-REWARD",
@@ -3633,10 +3677,10 @@
       "Are reference preference, proposed interpretation, accepted design and tested implementation labelled separately?"
     ],
     "openChoices": [
-      "Portal intensity: the supplied films use a large vortex; earlier guidance prefers restraint. Tania's enthusiasm records a positive reference, but does not yet settle everyday versus special-entry effects.",
-      "Character production: V2-D17 approves the first ECC avatar's appearance direction. Preserve that portrait; no separate age redesign was requested. Reconcile derived side/back details and apply verified crest artwork before accepting the actual model.",
-      "Production benchmark: one shared avatar is the current bounded step. Its model-production route and runtime quality remain to be proven. A whole-town upgrade, building catalogue or new gameplay is not authorised by the character approval.",
-      "Confirm the proposed swatches and material balance after a matched daylight/evening reference pair. No exact palette or performance budget is locked here."
+      "Current entry direction: restrained teal identity/wayfinding from the approved pavilion. The older film vortex does not set the everyday portal effect.",
+      "Built avatars now exist. Preserve identity references and separate Tripo/fixed-shirt, modular Body A/B and segmented schoolboy/blazer lines; no complete modular wardrobe accepted.",
+      "Current production sequence: dimensioned layout, modular kit, Avatar Studio, assembled precinct, review and deliberate release. This audit does not begin production; blazer work remains paused.",
+      "Exact measured performance budgets, faithful ECC landmarks and verified branding remain review dependencies, not settled by concept approval."
     ],
     "currentDirection": {
       "date": "2026-09-09",
@@ -3646,8 +3690,112 @@
       "sequence": "Visual references → dimensioned playable layout → textured modular kit → Avatar Studio → assembled precinct → review and deliberate release. Arrival → EST Prep → Civic Heart follows.",
       "boundary": "The older civic concepts and prompt pack below are retained history and supporting references. They do not override this campus direction or approve new buildings, RPG mechanics, an economy formula or a faithful reconstruction of ECC.",
       "evidenceHref": "/production/visual-register.md",
-      "source": "Refine Career Empire Blender master, 9 September; Tania supplied the production list and approved continuing it."
-    }
+      "source": "Recovered exact originals from archived task 01a0808f-c02e-7a40-af94-7538beb5ab57: image events 2483, 2490, 2760; user responses 9 September 07:05 and 07:52 UTC and later approved production sequence."
+    },
+    "currentReferences": [
+      {
+        "id": "CE-CAMPUS-01",
+        "title": "ECC Career Campus — approved visual foundation",
+        "image": "/references/current/ecc-career-campus.png",
+        "kind": "concept",
+        "date": "2026-09-09",
+        "sha256": "49a72f63ed395aef4efaa0804fc7f4b7bf56b1ae4bd76ddf6a89fb29df7d675a",
+        "summary": "Warm limestone, navy framing, glass, timber shade and layered native gardens; the recovered 9 September courtyard concept.",
+        "source": "Generated 9 September 06:41:56 UTC; Refine Career Empire Blender master, image event 2483. Tania welcomed the campus/corridor direction at 07:05 UTC.",
+        "limits": "A concept target, not a live map or a faithful reconstruction of ECC. Its skyline and waterfront are not evidence of the real school.",
+        "nextAction": "Keep the approved family; dimension a smaller walkable layout before the modular kit.",
+        "placements": [
+          "start",
+          "visuals",
+          "world",
+          "journey"
+        ]
+      },
+      {
+        "id": "CE-CAMPUS-02",
+        "title": "Campus-to-Career Corridor — approved aerial structure",
+        "image": "/references/current/campus-career-corridor.png",
+        "kind": "concept",
+        "date": "2026-09-09",
+        "sha256": "a04ca8ee06d621c26d731bb713b10cbe321fc0353c89ceac28e42bb7cae95d01",
+        "summary": "The recovered 9 September elevated view connects school learning, civic life and future work with one readable walking spine.",
+        "source": "Generated 9 September 06:42:58 UTC; same task, image event 2490; campus/corridor direction welcomed by Tania at 07:05 UTC.",
+        "limits": "The aerial explains direction, not final coordinates, semester order, unlock thresholds or completed construction.",
+        "nextAction": "Avatar Studio precinct first; Arrival → EST Prep → Civic Heart is the next learning expansion.",
+        "placements": [
+          "start",
+          "visuals",
+          "world",
+          "journey"
+        ]
+      },
+      {
+        "id": "CE-STUDIO-CONCEPT-01",
+        "title": "Avatar Studio — approved pavilion target",
+        "image": "/references/current/avatar-studio-pavilion.png",
+        "kind": "concept",
+        "date": "2026-09-09",
+        "sha256": "9ed24babb6abcfa9eacabc67149e9374173e2ade62508ccb8e1a1b98dc685582",
+        "summary": "Recessed glass entry, limestone walls, navy canopy, timber fins, solar roof and a restrained teal identity feature.",
+        "source": "Generated 9 September 07:49:54 UTC; same task, image event 2760. Tania at 07:52 UTC: semi-realistic exactly like that image is the goal.",
+        "limits": "Appearance direction approved; the complete building, step-free approach, interior, kit and precinct have not passed final review.",
+        "nextAction": "Dimensioned approach → textured modular kit → full Studio → garden/path/plaza → player-height review → deliberate release.",
+        "placements": [
+          "visuals",
+          "world"
+        ]
+      },
+      {
+        "id": "CE-STUDIO-BUILT-01",
+        "title": "Avatar Studio — built technical prototype",
+        "image": "/references/current/studio-door-approach.png",
+        "kind": "built",
+        "date": "2026-09-09",
+        "sha256": "71710490e09e2efaba243fd4b0e0ef38525c56082afecf44bd08f952a1ac589c",
+        "summary": "9 September browser screenshot shows the actual Studio entrance, avatar and Open Avatar Studio interaction after the approach/orientation work.",
+        "source": "Inspect blazer-only GLB asset task, studio-door-approach.png. Runtime world.js loads assets/scenery/ecc-avatar-studio-v1.glb.",
+        "limits": "This is the built prototype, visibly below the approved pavilion target. Screenshot evidence is dated, not a new classroom/performance acceptance test.",
+        "nextAction": "Preserve the working entrance; compare façade, glass, planting, scale and approach against CE-STUDIO-CONCEPT-01 in the separate candidate.",
+        "placements": [
+          "start",
+          "visuals",
+          "world",
+          "build"
+        ]
+      },
+      {
+        "id": "CE-AVATAR-BUILT-01",
+        "title": "Built schoolboy and navy blazer — first pass paused",
+        "image": "/references/current/studio-jacket-on.png",
+        "kind": "built",
+        "date": "2026-09-09",
+        "sha256": "2f30936e59d69cd127ca9163c10bd72eb8dd8e19036730027284494435414d86",
+        "summary": "9 September Avatar Studio screenshot shows the actual segmented schoolboy and repaired jacket, not the earlier concept drawing.",
+        "source": "Inspect blazer-only GLB asset task, studio-jacket-on.png; player-jacket-test-20260909.glb. Tania accepted the first pass for publication and asked to leave it for a while.",
+        "limits": "Not a complete body or finished wardrobe: covered torso/upper-arm geometry is missing and sleeve contours remain imperfect. Separate from the older Tripo/fixed-shirt line.",
+        "nextAction": "Keep the first pass paused. Resume only when Tania lifts the pause; do not restart paid garment experiments.",
+        "placements": [
+          "visuals",
+          "build"
+        ]
+      },
+      {
+        "id": "CE-AVATAR-BUILT-02",
+        "title": "Built avatar — walking-preview evidence",
+        "image": "/references/current/studio-jacket-walking.png",
+        "kind": "built",
+        "date": "2026-09-09",
+        "sha256": "63103349fda80bd82c3955c2b3beec5b36bd245e52390b2a15b6a6311271d473",
+        "summary": "Dated browser walking-preview capture of the built schoolboy/jacket demonstration.",
+        "source": "Inspect blazer-only GLB asset task, studio-jacket-walking.png; shared-skeleton synthetic walking test, not the incompatible independent Tripo clip.",
+        "limits": "A still does not prove every animation or deformation passes. The paused first-pass acceptance does not certify the wardrobe.",
+        "nextAction": "Retain evidence with the matching model; future motion acceptance requires supported clips and complete-body checks.",
+        "placements": [
+          "visuals",
+          "build"
+        ]
+      }
+    ]
   },
   "changeWorkflows": {
     "version": 1,
@@ -3671,7 +3819,8 @@
         "sourceFiles": [
           "data/operations.json",
           "data/blueprint.ts",
-          "app/blueprint-surfaces.tsx"
+          "app/blueprint-surfaces.tsx",
+          "app/current-evidence.tsx"
         ]
       },
       {
@@ -3681,7 +3830,8 @@
         "requiredUpdate": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
         "sourceFiles": [
           "data/blueprint.ts",
-          "app/blueprint-surfaces.tsx"
+          "app/blueprint-surfaces.tsx",
+          "app/current-evidence.tsx"
         ]
       },
       {
@@ -3700,7 +3850,8 @@
         "requiredUpdate": "Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.",
         "sourceFiles": [
           "data/curriculum.json",
-          "data/blueprint.ts"
+          "data/blueprint.ts",
+          "app/learning-map.tsx"
         ]
       },
       {
@@ -3709,7 +3860,8 @@
         "href": "#learning",
         "requiredUpdate": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
         "sourceFiles": [
-          "data/blueprint.ts"
+          "data/blueprint.ts",
+          "app/learning-map.tsx"
         ]
       },
       {
@@ -3750,7 +3902,8 @@
         "requiredUpdate": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
         "sourceFiles": [
           "data/blueprint.ts",
-          "app/blueprint-detail.tsx"
+          "app/blueprint-detail.tsx",
+          "app/current-evidence.tsx"
         ]
       },
       {
@@ -3761,7 +3914,8 @@
         "sourceFiles": [
           "data/blueprint.ts",
           "app/blueprint-detail.tsx",
-          "data/style-guide.json"
+          "data/style-guide.json",
+          "app/current-evidence.tsx"
         ]
       },
       {
@@ -3771,7 +3925,8 @@
         "requiredUpdate": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
         "sourceFiles": [
           "data/style-guide.json",
-          "app/style-guide.tsx"
+          "app/style-guide.tsx",
+          "app/current-evidence.tsx"
         ]
       },
       {
@@ -3781,7 +3936,8 @@
         "requiredUpdate": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
         "sourceFiles": [
           "data/style-guide.json",
-          "app/style-guide.tsx"
+          "app/style-guide.tsx",
+          "app/current-evidence.tsx"
         ]
       },
       {
@@ -3801,7 +3957,8 @@
         "requiredUpdate": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
         "sourceFiles": [
           "data/blueprint.ts",
-          "app/blueprint-detail.tsx"
+          "app/blueprint-detail.tsx",
+          "app/current-evidence.tsx"
         ]
       },
       {
@@ -4046,17 +4203,18 @@
       "checked-unchanged",
       "blocked"
     ],
-    "completionRule": "Each required surface needs a specific action or reasoned no-change result, source record IDs, owner, acceptance check and evidence. Completed changes need passed source/reader checks for every surface. Blocked or pending surfaces keep the change incomplete.",
+    "completionRule": "Each required surface needs a specific action or reasoned no-change result, source record IDs, owner, acceptance check and evidence. Completed changes need passed source/reader checks for every surface. Blocked or pending surfaces keep the change incomplete. Ready-for-publication is not complete: only publication may remain pending after every other required source/reader target passes. Completion requires the independent live check.",
     "limits": "These checks enforce impact coverage and evidence/freshness, not the truth of an approval or the quality of a human visual judgement. Missing originals cannot be replaced with guessed images. Unseen chats still require intake."
   },
   "changeIntegrations": {
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20260910-17"
+        "CE-CHANGE-20260910-18",
+        "CE-CHANGE-20260910-19"
       ],
-      "scope": "Workflow repair and honest integration status, not completion of the campus visual reconciliation.",
-      "disclosure": "The accepted campus/Avatar Studio direction is not yet consistently represented by the Blueprint images and building references. This remains an open integration defect; the earlier publication checks did not prove content currency.",
+      "scope": "Whole-Blueprint reader reconciliation: exact approved concepts, actual built evidence and cross-section status, without game production.",
+      "disclosure": "The cross-section corrections are implemented and locally checked. Public-release verification is pending; no whole-Blueprint live completion is claimed yet. Product/classroom/design gaps remain separately listed.",
       "requiredReviewFiles": [
         "data/change-workflows.json",
         "docs/production/change-workflows.md",
@@ -4064,112 +4222,112 @@
         "app/style-guide.tsx",
         "app/blueprint-surfaces.tsx",
         "scripts/validate-impact.mjs",
-        "tests/change-impact.test.mjs"
+        "tests/change-impact.test.mjs",
+        "app/current-evidence.tsx",
+        "app/learning-map.tsx",
+        "tests/reader-currency.test.mjs",
+        "docs/production/reader-reconciliation-2026-09-10.md"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "db7546444c2d0c26e728836dca2d3b905c37d8a1ec5b0214ac6a30f2b06d54b4"
+          "sha256": "72407324fc6315737f435a70f7ffb6259e9058e326518dd1b8bb52e04c128e1e"
         },
         {
           "path": "README.md",
-          "sha256": "a5f1d4c563f94939f98fdb0440567177d1580907b4f43c63b16e8277de51b595"
+          "sha256": "0ee6ed10f8d9987bdc9a285697aa2e89b33184623dcfa5a8ff42ddfbfc096340"
         },
         {
           "path": "app/blueprint-detail.tsx",
-          "sha256": "a88a558b52b9cae33d81b92840f5301d332fee4ba2caddb535e4f0e0b32cf1bb"
+          "sha256": "5356b3515a9b9fabd1987866988e131241dc7fa27dd855fdd4d1d59391a9a3d2"
         },
         {
           "path": "app/blueprint-surfaces.tsx",
-          "sha256": "e55380715ee927d387ad51e06c1824f0a28e2750cf220be62bfa069dad5e3649"
+          "sha256": "cc3305d62307ad93bf641c4ca39d5488274d4eabc7ac519efaa56b5d65a60961"
         },
         {
           "path": "app/change-integration.tsx",
           "sha256": "f11e93315c12a594448515c5539cca84491712d02d0a2f51bb9c1faa9c27502f"
         },
         {
+          "path": "app/current-evidence.tsx",
+          "sha256": "fd091e42d11837af967f735abd4837d874d4c66915ceb828420758b113cc8474"
+        },
+        {
+          "path": "app/learning-map.tsx",
+          "sha256": "b50f60865a95f3dcf3d6d8bc9f0f77873b51f6642819912f33a51a6b187c9d7e"
+        },
+        {
           "path": "app/style-guide.tsx",
-          "sha256": "396e0f3d93dd3726065bfdb12fddd0a189988e272b4e0f1d740d2c30bac33692"
+          "sha256": "959714da60bf679d303f9f051a78ad3c878bd238609c38213e53b19e8b86eed4"
         },
         {
           "path": "data/blueprint.ts",
-          "sha256": "9e815714505370c2680a8360ae49b732e71b104d271e728a4696887dc7c7375f"
+          "sha256": "f234941abaa94680003eed050d6f42acb7f58fd9c7c48f41e491e4a36bc3fc15"
         },
         {
           "path": "data/change-workflows.json",
-          "sha256": "1b1f98b18dc16dfc1019e946fdca83a7612e6f45dc15e14056e2a035429cf13e"
+          "sha256": "8505064977e6ae3015b82be253923e6bf2c32ae4f44b8e3081e034b8b78db99a"
+        },
+        {
+          "path": "data/curriculum.json",
+          "sha256": "deffe191fd780f9374b5c9b813f92bcad2aec94756284949c695cc938fe99e00"
         },
         {
           "path": "data/operations.json",
-          "sha256": "a164a71088e73f94d235f2088eb6a048d802e6a264092315cc3395db042e6a35"
+          "sha256": "5788c1c3e75af62cdabfe174cbcc6778cf18fdd341d66488418b2f4cf699e0ad"
         },
         {
           "path": "data/style-guide.json",
-          "sha256": "9e6ea60a73a2867381a9b0fab3f1f2162a936f925a1de18cf0e44b9a88c383b5"
+          "sha256": "66e8c8c09a0c2e9dbecd9ff3fd0891dff746720eb8401910681c22d2d1ef5b3f"
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "daf7892d3c7fce1a170d8199d09c2f848aba6b84ae4bf4804e495aa8086ad562"
+          "sha256": "8f81ac74ec8317125305ddc3c9df450f9b267a6d1e6b13ddbd0103781dfcd30a"
         },
         {
           "path": "docs/production/change-workflows.md",
-          "sha256": "ed83211eb7699b432e09b2adef90c1d2836afc5027279cd0b77baaff9fda6a54"
-        },
-        {
-          "path": "docs/production/current-state.md",
-          "sha256": "7b926e1409fdabc7d64bc68486581cd8c617ac6829ac2b456f2e361f4c23049d"
+          "sha256": "8b485cfefa4bec5797858ff01a54b0c4a4580e4f6261b024bc629d2232b7d179"
         },
         {
           "path": "docs/production/operating-protocol.md",
-          "sha256": "b401a3b893e354fd747e5cf1978a67ceba5429152f3a4521cd323f6489bfcb17"
+          "sha256": "fcdb83565e68d74c8630db0c5c7dba879bf1b74b3344ef308deaf2296b4bbe10"
         },
         {
-          "path": "docs/production/production-plan.md",
-          "sha256": "ddb2d23639b2ef96d1ddab8edb41aafa644954d92c0206e1d93f6bc9d182a0e8"
-        },
-        {
-          "path": "docs/production/session-log-2026-09-10.md",
-          "sha256": "e8700880c24c55c24013114fdb8d4978177a8c9a735d6f790d9903fb5abc8a52"
+          "path": "docs/production/reader-reconciliation-2026-09-10.md",
+          "sha256": "c288f416f9bfc69577e283eb10efa9f584f5a25915b60fd13f1fd5bc2fb3d76d"
         },
         {
           "path": "docs/production/visual-evidence-manifest.json",
-          "sha256": "816221756c89e054c98064aa072d7e0212289dd98b58f11f52c5ac962ad89ec8"
+          "sha256": "94a7f0366a50cf26b2719a109954b39dccc7370bb70680bb898d89fcf41a7844"
         },
         {
           "path": "docs/production/visual-register.md",
-          "sha256": "7d9748b7f0fbc1358ab9552dec9cecd71c8ed54a8cf00e36084dd0ea6b7f24bf"
+          "sha256": "63d7f7b87a40ba27f9b273a9426c4e215cc7880c34d4256bace6720eb0073f85"
         },
         {
           "path": "package.json",
-          "sha256": "7ef74362326195c6ebcd090545d0c8de874400adbb388a866ab466c722a7e1f4"
+          "sha256": "86a066a73179b602e6d2f09adfcc5cacf5987e1f11652a7001e28940f6c53d5a"
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "8c90a11837e68a957aa58938204abdc503ef93bd4cbf9be12257b66396350c15"
-        },
-        {
-          "path": "scripts/plan-change.mjs",
-          "sha256": "f9127986820fc19826d582e35b212cdca2cf40a44e4327a3575f69b8cd4bb33e"
+          "sha256": "27217fdb51bdc400290cc6c21268386c2a19302e7812804278dccab80e148c86"
         },
         {
           "path": "scripts/prepare-pages.mjs",
           "sha256": "71affe3da44b7c1cf7612e3c4d55d92a2d5654ad5a481dffe3fffded4863b836"
         },
         {
-          "path": "scripts/validate-governance.mjs",
-          "sha256": "be360683e2c757d668e5973f50c64439eb48216a86729356846029fb0a0bcefa"
-        },
-        {
           "path": "scripts/validate-impact.mjs",
-          "sha256": "313d3ec2fc4d931d03cbc75996c554c6b6508875c3de840a7ae206e2f45356a0"
-        },
-        {
-          "path": "tests/browser-smoke.mjs",
-          "sha256": "21af0bf63febae2628419cc4723d51a5ed82733030d902176986faf96699eb43"
+          "sha256": "41cf1257d560e2be31e61a80e65fa98dce42018f971b2d676610bdf7ce687059"
         },
         {
           "path": "tests/change-impact.test.mjs",
-          "sha256": "8ba7790113d299e2965d3ee7146cb7e37e02cda6440403bd228376a0d2f36350"
+          "sha256": "359d7dd077e8af88000c93a19dfdfcd512bb7bc945b4380d3810aef57e080b80"
+        },
+        {
+          "path": "tests/reader-currency.test.mjs",
+          "sha256": "fbf0dc13df3e6fe3242906b6f2eb51232ad03b85d3d8493830d265800f29616a"
         },
         {
           "path": "vite.pages.config.ts",
@@ -4497,298 +4655,755 @@
           "visual",
           "building"
         ],
-        "status": "blocked",
+        "status": "ready-for-publication",
         "objective": "Look and feel, Avatar Studio/building references, aerial views, Start Here media and agreed next actions must all represent the same accepted campus direction.",
         "before": "Campus direction was described in text, while older civic imagery remained prominent and the front film was labelled Planned feel.",
         "after": "Exact accepted concepts should occupy their current placements; historical films and images remain clearly separated. Approval of direction must not be confused with finished game assets.",
         "source": "Tania's 10 September visual mismatch report, compared with current Start Here, Look and feel and the retained 9 September audit gap.",
         "owner": "Blueprint maintainer",
-        "nextAction": "Verify the exact newer Avatar Studio and aerial originals plus the intended front poster/clip pairing; earlier daytime-campus filenames were inspected and show older civic concepts, so cannot be promoted as the newer references.",
+        "nextAction": "Publish reviewed public-only output to the existing Pages repository, then compare the manifest and inspect all affected reader routes before marking complete.",
         "targets": [
           {
             "surface": "start",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in Start Here; do not substitute older civic images or infer a completed asset.",
+            "disposition": "updated",
+            "action": "Replaced leading historical visual identity with CE-CAMPUS-01/02 and a dated actual Studio preview; source/status and open product gates remain explicit.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Purpose, current direction, status and next action must agree with the change.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
           },
           {
             "surface": "roadmap",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in Priorities and linked execution tasks; do not substitute older civic images or infer a completed asset.",
+            "disposition": "updated",
+            "action": "Replaced hash-only current-task acceptance with source-specific reader checks; retained approved precinct sequence, EST/teacher checks, cohort/pilot decisions and blazer pause.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
           },
           {
             "surface": "history",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in Material changes and history; do not substitute older civic images or infer a completed asset.",
+            "disposition": "updated",
+            "action": "Appended record 19 and updated ongoing record 18 without rewriting the first 17 material records; corrected the old overbroad audit currency claim and retained dated prior release evidence.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
           },
           {
             "surface": "protocol",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in Workflows and handoff; do not substitute older civic images or infer a completed asset.",
+            "disposition": "updated",
+            "action": "Updated README, AGENTS, handoff and operating protocol. Added exact-image/current-status tests and a ready-for-publication stage so live verification is not falsely marked done before deployment.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
           },
           {
             "surface": "exports",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in Generated views and downloads; do not substitute older civic images or infer a completed asset.",
+            "disposition": "updated",
+            "action": "Regenerated canonical public/private records, current assets, style prompts, handoff, change coverage and production documents; parity checks pass with protected data unchanged.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
           },
           {
             "surface": "publication",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in Publication verification; do not substitute older civic images or infer a completed asset.",
+            "disposition": "pending",
+            "action": "Pre-release source/reader checks pass; existing GitHub target and private recovery verified. The new public release must still be published and checked live.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
               "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "method": "New public release not yet independently inspected",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Compare deployed manifest/source/image hashes and run live desktop/mobile semantic checks; retain the final live receipt separately."
           },
           {
             "surface": "visuals",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in Look and feel; do not substitute older civic images or infer a completed asset.",
+            "disposition": "updated",
+            "action": "Recovered and visually inspected original image events 2483/2490/2760; all six concept/built records render on the page. Corrected prompts, material guidance, topic thumbnails and older reference labels.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
           },
           {
             "surface": "media",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in Start Here images and video; do not substitute older civic images or infer a completed asset.",
+            "disposition": "updated",
+            "action": "Current front images come from the recovered campus/corridor and built Studio records. The original Town Hall video/poster is collapsed history; no new campus film is claimed.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
           },
           {
             "surface": "assets",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in Visual/asset register and production brief; do not substitute older civic images or infer a completed asset.",
+            "disposition": "updated",
+            "action": "Registered six exact image hashes, sources, statuses, placements, limitations and next actions; generated current-assets view from canonical style data. No new images or models generated.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
           },
           {
             "surface": "buildings",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in Buildings and places; do not substitute older civic images or infer a completed asset.",
+            "disposition": "updated",
+            "action": "Added approved Studio pavilion versus actual built prototype, Home/Identity purpose, current entry, future step-free approach and kit/garden/path/plaza sequence; no final footprint or building acceptance invented.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
           },
           {
             "surface": "avatars",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in Avatar and wardrobe references; do not substitute older civic images or infer a completed asset.",
+            "disposition": "updated",
+            "action": "Actual schoolboy/blazer and walking-preview evidence precede historical portrait/turnaround. Kept Tripo/fixed-shirt and modular body lines distinct; missing-body/sleeve limits and pause remain explicit.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
           },
           {
             "surface": "world",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in World, rewards and progression; do not substitute older civic images or infer a completed asset.",
+            "disposition": "updated",
+            "action": "Added current campus place hierarchy before retained progression discussion. Kept tax and plural-success principles, candidate thresholds and economy rules separate from visual direction.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
           },
           {
             "surface": "decisions",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in Decisions and superseded rules; do not substitute older civic images or infer a completed asset.",
+            "disposition": "updated",
+            "action": "Made all four dated production approvals and later campus direction visible. All 17 V2 decisions are unchanged by exact JSON hash; no curriculum, genre or economy approval inferred.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
           },
           {
             "surface": "build",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in Implementation and test evidence; do not substitute older civic images or infer a completed asset.",
+            "disposition": "updated",
+            "action": "Current dated Studio and built-avatar evidence now leads the build page. Fixed hard-coded 6 September image alt dates; historical build records remain attributed, not latest-state claims.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
           },
           {
             "surface": "flow",
-            "disposition": "blocked",
-            "action": "Reconcile the accepted campus/Avatar Studio change in Activities and learning flow; do not substitute older civic images or infer a completed asset.",
+            "disposition": "updated",
+            "action": "Checked each existing experience retains hook, stakes, theory, action, evidence, recovery, prerequisites, time and candidate payoff; learning status distinguishes proposed content from implementation.",
             "records": [
-              "CE-CHANGE-20260910-18",
-              "CE-CHANGE-20260909-05",
-              "CE-ART-01"
+              "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
-            "evidence": [],
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Reader/source verification not yet performed",
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
               "date": "2026-09-10"
             },
-            "nextAction": "Recover and verify the exact selected source images and poster/video pairing, then update this surface and record reader checks."
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-19",
+        "title": "Whole-Blueprint source-to-reader reconciliation",
+        "types": [
+          "decision",
+          "curriculum",
+          "activity",
+          "visual",
+          "building",
+          "avatar",
+          "governance"
+        ],
+        "status": "ready-for-publication",
+        "owner": "Blueprint maintainer",
+        "source": "Tania clarified that the first two stale images were examples and rejected the claim that everything was updated; current task 10 September.",
+        "objective": "Every reader section represents actual existing work and approved direction; technical tests cannot substitute for content review.",
+        "before": "Old visual placements, missing built proof and incomplete status propagation survived successful publication checks.",
+        "after": "Current concepts, built evidence, place records and learning/classroom boundaries agree across pages; remaining external gaps are specific.",
+        "nextAction": "Publish reviewed public-only output to the existing Pages repository, then compare the manifest and inspect all affected reader routes before marking complete.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Replaced leading historical visual identity with CE-CAMPUS-01/02 and a dated actual Studio preview; source/status and open product gates remain explicit.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Current front images come from the recovered campus/corridor and built Studio records. The original Town Hall video/poster is collapsed history; no new campus film is claimed.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Made all four dated production approvals and later campus direction visible. All 17 V2 decisions are unchanged by exact JSON hash; no curriculum, genre or economy approval inferred.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "updated",
+            "action": "Exact curriculum text, IDs, detail bullets and reciprocal experience mappings are unchanged by hash. Added explicit 2026/2027 cohort and annual EST boundary on the learning page.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Checked each existing experience retains hook, stakes, theory, action, evidence, recovery, prerequisites, time and candidate payoff; learning status distinguishes proposed content from implementation.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Replaced old year-topic thumbnail with current corridor reference and distinguished physical production sequence from unapproved lesson/chapter order. Worked-example beats remain exact.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "Checked unchanged: Unit 3 Semester 1, Unit 4 Semester 2, sample timing and separate assessment mapping; cohort, rubric, time and learning thresholds remain unresolved rather than invented.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Fresh public/local comparison confirms renderTeacherESTPrepMatrix is local-only while older matrices are public. The classroom page now states that distinction and the unverified saved-review/identity/return loop.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Added current campus place hierarchy before retained progression discussion. Kept tax and plural-success principles, candidate thresholds and economy rules separate from visual direction.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Added approved Studio pavilion versus actual built prototype, Home/Identity purpose, current entry, future step-free approach and kit/garden/path/plaza sequence; no final footprint or building acceptance invented.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "updated",
+            "action": "Actual schoolboy/blazer and walking-preview evidence precede historical portrait/turnaround. Kept Tripo/fixed-shirt and modular body lines distinct; missing-body/sleeve limits and pause remain explicit.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Recovered and visually inspected original image events 2483/2490/2760; all six concept/built records render on the page. Corrected prompts, material guidance, topic thumbnails and older reference labels.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Registered six exact image hashes, sources, statuses, placements, limitations and next actions; generated current-assets view from canonical style data. No new images or models generated.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Current dated Studio and built-avatar evidence now leads the build page. Fixed hard-coded 6 September image alt dates; historical build records remain attributed, not latest-state claims.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Preserved canonical checkout and existing recovery branch, verified recovery repository private and public delivery public. Successor instructions point to recovered sources; legacy Sites/Projects access limits remain.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "Checked unchanged official/sample editions, school-original document hashes, research attribution and simulation terminology. Current-assets and section-review links supplement, not replace, source authority.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Replaced hash-only current-task acceptance with source-specific reader checks; retained approved precinct sequence, EST/teacher checks, cohort/pilot decisions and blazer pause.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Appended record 19 and updated ongoing record 18 without rewriting the first 17 material records; corrected the old overbroad audit currency claim and retained dated prior release evidence.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Updated README, AGENTS, handoff and operating protocol. Added exact-image/current-status tests and a ready-for-publication stage so live verification is not falsely marked done before deployment.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Regenerated canonical public/private records, current assets, style prompts, handoff, change coverage and production documents; parity checks pass with protected data unchanged.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source-specific section comparison, 46 data/governance/source tests and full local desktop/mobile semantic reader checks; final-local screenshots visually inspected.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain the checked source and inspect again if its linked evidence changes."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Pre-release source/reader checks pass; existing GitHub target and private recovery verified. The new public release must still be published and checked live.",
+            "records": [
+              "CE-CHANGE-20260910-19"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "/production/reader-reconciliation-2026-09-10.md",
+              "/production/current-assets.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "New public release not yet independently inspected",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Compare deployed manifest/source/image hashes and run live desktop/mobile semantic checks; retain the final live receipt separately."
           }
         ]
       }

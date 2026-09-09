@@ -12,7 +12,7 @@ The user-confirmed production order in the archived **Refine Career Empire Blend
 
 | Asset/reference | Current role | Remaining gate |
 |---|---|---|
-| Approved courtyard/corridor/Studio concept set | Later visual target corroborated by user text and visual brief | Exact three original image binaries/stable IDs were not recovered in this audit. Recover from originating task attachments; do not regenerate or substitute older civic art silently. |
+| Approved courtyard/corridor/Studio concept set | Exact originals recovered 10 September from image events 2483/2490/2760 | CE-CAMPUS-01, CE-CAMPUS-02, CE-STUDIO-CONCEPT-01: public/references/current; inspect current-assets.md for images, sources, hashes and placements. Not live geometry. |
 | CE-AVATAR-CONCEPT-001 and existing ECC turnaround | V2-D17 first avatar appearance direction | Derived side/back, crest, rig/animation and actual runtime fidelity remain distinct checks. |
 | 41-joint Tripo base and fixed shirt | Existing separate avatar line and failed component-fit evidence | Not the same asset as the later segmented schoolboy/blazer test or unrecovered HERO-001. |
 | Segmented schoolboy/blazer test | Published source integration; first-pass acceptance; paused | Complete torso/upper arms, sleeve deformation, reversible component behavior and supported walk remain incomplete. |
@@ -23,7 +23,7 @@ The user-confirmed production order in the archived **Refine Career Empire Blend
 
 ## Visual integration correction — 10 September 2026
 
-Tania reports that the accepted campus/Avatar Studio direction did not propagate to Look and feel, building references, aerial views, front media and agreed next actions. This is tracked in CE-CHANGE-20260910-18, not covered by the earlier deployment success. Current exact source images and the intended front poster/clip pair must be reconciled across all placements. Three files named daytime-campus-1/2/3 were inspected in the earlier handover: they show the older civic/neon aerial concepts, not verified newer ECC/Studio concepts. Do not substitute them based on their filenames. The old civic gallery and entry-film caption are now clearly historical; that relabelling does not complete the missing current-image integration. See [required impact coverage](change-integration.md).
+Tania identified missing propagation to Look and feel, buildings, aerial views, front media and next actions, then clarified these were examples of a whole-Blueprint failure. Records 18–19 now reconcile the exact recovered originals and built evidence across all reader sections. The old daytime-campus-1/2/3 civic images were not substituted. Start Here shows current approved stills and actual Studio proof; its older film is collapsed history. The original historical clip first frame and poster were separately inspected and match the daylight Town Hall approach. No current-campus film is claimed. See [section checks](reader-reconciliation-2026-09-10.md) and [impact coverage](change-integration.md).
 
 ## Visual evidence retained
 
@@ -55,7 +55,7 @@ Inspected: civic facade, open paving, repeated simple trees and older avatar. Th
 
 Record stable asset ID, source image/model hash, original/editable path, export revision, dimensions/pivot/entrance/collision, material/UV/texture roles, rig/bind/weights for garments, bytes/triangles/draw calls, renderer and review views, approval scope, deployment and acceptance separately. Use exact measurements from the supported master. Separate garment fitting from static-environment optimization. Compare materials and silhouette before reducing geometry/textures; no blind size targets or stripped PBR maps.
 
-No new imagery, asset generation or paid experiment was performed by this audit. Existing concept direction is retained; missing originals remain an explicit retrieval dependency.
+No new imagery, asset generation or paid experiment was performed by this audit. The original three concepts were recovered byte-for-byte, not recreated. Six current concept/built records and their exact hashes are in the visual-evidence manifest and [current asset view](current-assets.md). The earlier missing-original dependency is resolved; kit, precinct and wardrobe acceptance remain separate.
 
 ## GitHub publication evidence — CE-VIS-GITHUB-1 / CE-VIS-GITHUB-2
 

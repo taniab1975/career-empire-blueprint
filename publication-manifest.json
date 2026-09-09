@@ -1,20 +1,20 @@
 {
-  "sourceCommit": "c9806d28a5ec89be5dfc22edcecf58f0221042b7",
-  "generatedAt": "2026-09-09T16:21:55.104Z",
-  "revision": "V2.10 / 10 September 2026",
-  "recordSha256": "1ad47ea05a1c7ab8441d63bf600c4205b9c2b464817c58a236235c836cfae34b",
+  "sourceCommit": "9adf1a3431c711203895f9c1d67651387c149ac5",
+  "generatedAt": "2026-09-09T16:46:08.249Z",
+  "revision": "V2.11 / 10 September 2026",
+  "recordSha256": "67af537d47e8d92b38cad9df5cf968c542d9bd3bc2cf3ad0534d6ef6716d0b7e",
   "files": [
     {
-      "path": "assets/index-C_2ZDBYW.css",
-      "sha256": "cc37d579c165abbfbd934325aa759bcb75705ca9370e3ff614596b91319b0de9"
+      "path": "assets/index-Bx3wrKfa.css",
+      "sha256": "479198b16004dd1fcd103a4e8c7e3123230a974844cf31f0c39345b4f92e3f19"
     },
     {
-      "path": "assets/index-CnAzOVAu.js",
-      "sha256": "02097edf5bd0e9095a42d47c0f32e2423e23c0949ef641803f0017bd777bf95a"
+      "path": "assets/index-D9b83Chh.js",
+      "sha256": "0cc69cff6cf319331276f0093be15e6ed0da89c26018f8c3532a2fe7329d62a7"
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "1ad47ea05a1c7ab8441d63bf600c4205b9c2b464817c58a236235c836cfae34b"
+      "sha256": "67af537d47e8d92b38cad9df5cf968c542d9bd3bc2cf3ad0534d6ef6716d0b7e"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -125,6 +125,22 @@
       "sha256": "46475e17e43a7e9f8b391a9576edc6a7ffdd13cec003aafc53ac6cfde3cf9a22"
     },
     {
+      "path": "evidence/reader-reconciliation-20260910/current-build-390.png",
+      "sha256": "bae15aaf16d89826c8a6c06816fa62ed36f4aeb0ec7cee4ba42e8adf9e70afe8"
+    },
+    {
+      "path": "evidence/reader-reconciliation-20260910/current-overview-1280.png",
+      "sha256": "db17d4b3b596cda5cdfdaaac7ff76cae4e9cc6cf70caa49ed8a5673681f57a5b"
+    },
+    {
+      "path": "evidence/reader-reconciliation-20260910/current-visuals-390.png",
+      "sha256": "93747f6259556749d65679c8986bf0818a9e76a73f1609eb5fe0d291cdda6011"
+    },
+    {
+      "path": "evidence/reader-reconciliation-20260910/current-world-1280.png",
+      "sha256": "56cae1bdc9998ec340980065ac39e00f60aa521d6cda453a7c20404ffbdeed1f"
+    },
+    {
       "path": "evidence/strategy-audit-20260909/earlier-district.png",
       "sha256": "590870576da15a9cb76856c81462dad4a6aa2b2c4ff7c847cf7155e9efe08aea"
     },
@@ -218,7 +234,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "c139ccf844ea45f04a75eefbcef3abea945b748f859ce67e5b839941faa0c17e"
+      "sha256": "f9fae6e95891d16ca06c10af0f87f395c02c652cb9ea89d95f340eddc2e9ebc6"
     },
     {
       "path": "playable-3d/app.js",
@@ -326,15 +342,19 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "2a0e107212f6ed331ecbd66f8f0d9992ed5c1ea206c188fc3e3fc04af2e9dd6c"
+      "sha256": "b969d231f8dee6191cb782efacd0a411dda6ad4423e6ac2fe53dcb8bc3b0b916"
     },
     {
       "path": "production/change-workflows.md",
-      "sha256": "69a28166bfc2b984c2a8ff3fbd9ca36f7de3fe69c5f73a471ba3db93f9d331d5"
+      "sha256": "bfa7d94e2954850e465914f34fa249a581a78f6eccf96885f9f31e12d5e04a39"
+    },
+    {
+      "path": "production/current-assets.md",
+      "sha256": "69fbacbc7cf2dc1330f3f725efecaaf31603998d7ca6424ef87db72537bc4f82"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "7b926e1409fdabc7d64bc68486581cd8c617ac6829ac2b456f2e361f4c23049d"
+      "sha256": "e96947ec39c03fbe6b06a3c1f982278a9130eac54a5ef69d384dbfeac425a406"
     },
     {
       "path": "production/github-migration-2026-09-09.md",
@@ -354,23 +374,27 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "a9e8e74ca577a77e21c3654d736b1185b4509f08be6fb77bb0c86e43b4d9cb8f"
+      "sha256": "5c32ba9c8dc9f8ad71c4bbf33557ef87714b8c9284451001eb07028c88bd5916"
     },
     {
       "path": "production/operating-protocol.md",
-      "sha256": "b401a3b893e354fd747e5cf1978a67ceba5429152f3a4521cd323f6489bfcb17"
+      "sha256": "fcdb83565e68d74c8630db0c5c7dba879bf1b74b3344ef308deaf2296b4bbe10"
     },
     {
       "path": "production/production-plan.md",
-      "sha256": "ddb2d23639b2ef96d1ddab8edb41aafa644954d92c0206e1d93f6bc9d182a0e8"
+      "sha256": "21fb8e1a4a35705b50c498502147134d7f1349ab2a35ac6b6643d7e22e84c34c"
+    },
+    {
+      "path": "production/reader-reconciliation-2026-09-10.md",
+      "sha256": "c288f416f9bfc69577e283eb10efa9f584f5a25915b60fd13f1fd5bc2fb3d76d"
     },
     {
       "path": "production/strategy-audit-2026-09-09.md",
-      "sha256": "2fad3081f47615cac29146ef2aafe8ce66ee084bc93ee8201fbfe27d95ac7b08"
+      "sha256": "a75a5818111085de2c9044f89d11e60e990983d6cfbffaa6afa5852c25bab8ec"
     },
     {
       "path": "production/visual-register.md",
-      "sha256": "4f162fcade53337e2d914aee00f1c3ef502ad627516b1b7763558407bce4cd63"
+      "sha256": "09c8eda5644dadaa00802d96e5bb7821d212649518bff548c37c415add54139e"
     },
     {
       "path": "references/CE-BLDG-001-home-base.png",
@@ -383,6 +407,30 @@
     {
       "path": "references/CE-BLDG-008-town-hall.png",
       "sha256": "550588b473c265515905462d086b1f315f65bfc8837441a249378c0513c9edc8"
+    },
+    {
+      "path": "references/current/avatar-studio-pavilion.png",
+      "sha256": "9ed24babb6abcfa9eacabc67149e9374173e2ade62508ccb8e1a1b98dc685582"
+    },
+    {
+      "path": "references/current/campus-career-corridor.png",
+      "sha256": "a04ca8ee06d621c26d731bb713b10cbe321fc0353c89ceac28e42bb7cae95d01"
+    },
+    {
+      "path": "references/current/ecc-career-campus.png",
+      "sha256": "49a72f63ed395aef4efaa0804fc7f4b7bf56b1ae4bd76ddf6a89fb29df7d675a"
+    },
+    {
+      "path": "references/current/studio-door-approach.png",
+      "sha256": "71710490e09e2efaba243fd4b0e0ef38525c56082afecf44bd08f952a1ac589c"
+    },
+    {
+      "path": "references/current/studio-jacket-on.png",
+      "sha256": "2f30936e59d69cd127ca9163c10bd72eb8dd8e19036730027284494435414d86"
+    },
+    {
+      "path": "references/current/studio-jacket-walking.png",
+      "sha256": "63103349fda80bd82c3955c2b3beec5b36bd245e52390b2a15b6a6311271d473"
     },
     {
       "path": "references/style/avatar-studio.png",

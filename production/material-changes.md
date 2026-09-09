@@ -314,17 +314,35 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** Visual direction, media and buildings
 - **source:** Tania's 10 September report: Look and feel, Avatar Studio/buildings, aerial references, future actions and Start Here media do not reflect the agreed direction.
 - **owner:** Blueprint maintainer
-- **status:** Incomplete integration; exact newer source images/poster selection requires reconciliation
+- **status:** Exact originals recovered and integrated locally; live verification pending
 - **rationale:** Approval of the campus direction was recorded, but the actual reader-facing visual placements were not updated together. Earlier daytime-campus filenames inspected here depict civic concepts and are not proof of the newer references.
 - **dependencies:** CE-CHANGE-20260909-05 / CE-CHANGE-20260910-17
-- **evidence:** /production/change-integration.md / /production/visual-register.md
-- **nextAction:** Recover exact approved Avatar Studio/aerial references and intended front poster/clip pairing, then update every required surface and inspect it. Do not generate substitutes or reopen the direction approval.
+- **evidence:** /production/change-integration.md / /production/visual-register.md / /production/current-assets.md / /production/reader-reconciliation-2026-09-10.md
+- **nextAction:** Verify this integrated content in the existing GitHub publication; finished precinct and wardrobe remain separate product gaps.
 - **supersededRecord:** None
 - **designApproval:** Campus/precinct direction retained; image integration and asset completion are separate.
-- **implementation:** Missing propagation explicitly tracked. Earlier films/civic references labelled historical, not current visual targets; no replacement assets invented.
+- **implementation:** Recovered original campus/corridor/pavilion bytes and separately registered actual Studio/avatar proof; updated current galleries, building records, Start Here, thumbnails, prompts and next actions.
 - **deployment:** Known visual integration gap disclosed in the scoped workflow release; not claimed complete by publishing.
 - **testing:** Workflow must reject visual completion with omitted media, building, asset or next-action checks.
 - **taniaAcceptance:** User rejected current presentation as representative; no visual acceptance claimed.
+
+## CE-CHANGE-20260910-19 — Reconcile the whole reader-facing Blueprint, not only reported images
+
+- **date:** 2026-09-10
+- **domain:** All reader sections, visual/building/avatar and learning/classroom status
+- **source:** Tania clarified that the first two stale images were examples and rejected the claim that everything was updated; current task 10 September.
+- **owner:** Blueprint maintainer
+- **status:** Source/reader reconciliation locally verified; live check pending
+- **rationale:** Workflow records and functioning pages did not ensure the published content matched actual decisions and built work.
+- **dependencies:** CE-CHANGE-20260910-18
+- **evidence:** /production/reader-reconciliation-2026-09-10.md / /production/current-assets.md
+- **nextAction:** Publish reviewed output and verify actual live pages and exact source/records/image bytes.
+- **supersededRecord:** None
+- **designApproval:** No new design approval; retain all 17 decisions, four production approvals and unapproved pilot.
+- **implementation:** Shared current-evidence gallery, recovered exact concepts, actual built proof and place status; classroom and decision visibility corrections.
+- **deployment:** Not yet verified for this reconciliation
+- **testing:** 46/46 data/governance/source tests, TypeScript, focused lint, original and static builds; full local desktop/mobile navigation and semantic image/status checks passed. Initial incomplete screenshots rejected and recaptured after rendering settled.
+- **taniaAcceptance:** User requested correction; neither final presentation nor game/classroom readiness accepted.
 
 ## Retained Atlas principles
 

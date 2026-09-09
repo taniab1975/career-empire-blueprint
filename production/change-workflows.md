@@ -166,7 +166,7 @@ Repair the update mechanism and explicitly report inherited integration gaps ins
 
 ## Evidence and completion
 
-Each required surface needs a specific action or reasoned no-change result, source record IDs, owner, acceptance check and evidence. Completed changes need passed source/reader checks for every surface. Blocked or pending surfaces keep the change incomplete.
+Each required surface needs a specific action or reasoned no-change result, source record IDs, owner, acceptance check and evidence. Completed changes need passed source/reader checks for every surface. Blocked or pending surfaces keep the change incomplete. Ready-for-publication is not complete: only publication may remain pending after every other required source/reader target passes. Completion requires the independent live check.
 
 Updated means the reader-facing record and all its current placements agree with the change. Checked-unchanged requires a specific reason and actual review; it is not a shortcut for missing source. Pending/blocked requires an owner and next step. Design approval, Blueprint integration, software implementation, publication and Tania acceptance are independent.
 
