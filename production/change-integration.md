@@ -2445,7 +2445,7 @@ Next: Review all ten complete items together; record named exceptions without in
 
 ## CE-CHANGE-20260910-26 — Assess Batch 1 against the supplied campus vision
 
-Integration: **ready-for-publication**. Types: governance, visual, building. Owner: Blueprint maintainer.
+Integration: **complete**. Types: governance, visual, building. Owner: Blueprint maintainer.
 
 **Objective:** Record supported visual gaps without inferring acceptance or changing assets.
 
@@ -2455,7 +2455,7 @@ Integration: **ready-for-publication**. Types: governance, visual, building. Own
 
 **Source:** Tania asks whether Batch 1 aligns with attached campus vision; CE-DISCUSSION-52b4e208-084e-4834-8be0-93aeb871b759.
 
-**Next:** Propagate assessment to current reader claims and review criteria before another production/release pass.
+**Next:** Review the live playable area and retain the separate whole-batch and classroom gates.
 
 ### Start Here — updated
 
@@ -2537,7 +2537,7 @@ Verification: passed / Record generator carries the current action, release limi
 
 Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -2547,11 +2547,11 @@ Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Exact manifest parity and live player/reader checks follow push.
+Verification: passed / V2.16 playable Arrival Gardens is published and independently verified at https://taniab1975.github.io/career-empire-blueprint/playable-3d/. Actual live keyboard walking, Studio save/return, reload persistence and mobile layout passed; all 270 public files matched. First verified content source 73607ddd4a880bbecd5501cc6beb0ca184e448b8; final metadata has its own manifest. Wider campus and Batch 1 approval remain pending; paused experimental wardrobe choices are excluded from the public package.
 
 - [Evidence](docs/production/arrival-playable-release-20260910.md)
 
-Next: Publish the reviewed source build, compare every live file hash, and repeat live player and reader checks.
+Next: Maintain current live destination; record final metadata manifest independently.
 
 ### Decisions and superseded rules — checked-unchanged
 
@@ -2731,7 +2731,7 @@ Next: Maintain bounded scope and preserve pending appearance and classroom accep
 
 ## CE-CHANGE-20260910-27 — Playable Arrival to Studio vision demonstration
 
-Integration: **ready-for-publication**. Types: visual, building, implementation, activity, release. Owner: Blueprint maintainer.
+Integration: **complete**. Types: visual, building, implementation, activity, release. Owner: Blueprint maintainer.
 
 **Objective:** Prioritise one playable connected precinct with existing movement, character editing and save; separate architecture, landscape and experience checks.
 
@@ -2741,7 +2741,7 @@ Integration: **ready-for-publication**. Types: visual, building, implementation,
 
 **Source:** Tania: do what you can; wants one bit showing the vision is possible in the playable world. CE-DISCUSSION-0231dd24-c64a-40b9-ab97-2266b5d5b696. Tania explicitly requested Push to live after positive local feedback. Tania explicitly requested Push to live after positive local feedback.
 
-**Next:** Review local playable demonstration and complete per-surface integration before publication.
+**Next:** Review the live playable area and retain the separate whole-batch and classroom gates.
 
 ### Start Here — updated
 
@@ -2823,7 +2823,7 @@ Verification: passed / Record generator carries the current action, release limi
 
 Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -2833,11 +2833,11 @@ Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Exact manifest parity and live player/reader checks follow push.
+Verification: passed / V2.16 playable Arrival Gardens is published and independently verified at https://taniab1975.github.io/career-empire-blueprint/playable-3d/. Actual live keyboard walking, Studio save/return, reload persistence and mobile layout passed; all 270 public files matched. First verified content source 73607ddd4a880bbecd5501cc6beb0ca184e448b8; final metadata has its own manifest. Wider campus and Batch 1 approval remain pending; paused experimental wardrobe choices are excluded from the public package.
 
 - [Evidence](docs/production/arrival-playable-release-20260910.md)
 
-Next: Publish the reviewed source build, compare every live file hash, and repeat live player and reader checks.
+Next: Maintain current live destination; record final metadata manifest independently.
 
 ### Look and feel — updated
 

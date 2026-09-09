@@ -458,17 +458,17 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** Visual alignment assessment
 - **source:** Tania asks whether Batch 1 aligns with attached campus vision; CE-DISCUSSION-52b4e208-084e-4834-8be0-93aeb871b759.
 - **owner:** Blueprint maintainer
-- **status:** Ready for publication; live verification pending
+- **status:** Published and verified; appearance and classroom acceptance remain separate
 - **rationale:** Visual assessment, 10 September 2026: Batch 1 shares limestone, dark roofs/frames, timber and glazing with the supplied campus vision, but does not yet achieve its architecture or landscape quality. Repeated small single-storey forms, sparse planting and isolated paved pads need refinement; lighting alone is insufficient. Treat the ten items as prototypes requiring refinement, not vision-matched finished assets. This is an assistant assessment, not Tania approval or rejection. Keep grouped review of ten whole items. Recommended sequence: architecture/proportions, landscape and connected precinct, then materials/lighting and comparison. No new modelling authorised by this assessment.
 - **dependencies:** CE-CHANGE-20260910-25
 - **supersededRecord:** None
 - **designApproval:** No new approval or rejection inferred.
 - **implementation:** Direct visual comparison of supplied vision and actual final batch renders; no models changed.
-- **deployment:** Prepared for V2.16 publication; independent live verification pending.
+- **deployment:** V2.16 published and independently verified; actual live walk and save checks passed.
 - **testing:** Visual inspection performed; no new runtime behavior.
 - **taniaAcceptance:** Pending.
 - **evidence:** Supplied campus vision image codex-clipboard-92228b67-2c57-4566-b359-8f9d88e09164.png / Actual Batch 1 overview renders and final refined EST, Civic Hall, Workplace and Garden renders inspected.
-- **nextAction:** Integrate comparison into current reader review criteria; preserve pending approval and ten-item grouping.
+- **nextAction:** Review the live playable area before wider production; preserve pending whole-batch and classroom acceptance.
 
 ## CE-CHANGE-20260910-27 — Playable Arrival to Studio vision demonstration
 
@@ -476,17 +476,17 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** Visual alignment assessment
 - **source:** Tania: do what you can; wants one bit showing the vision is possible in the playable world. CE-DISCUSSION-0231dd24-c64a-40b9-ab97-2266b5d5b696. Tania: that is looking much better. Push to live? Explicit publication authorisation, not blanket asset acceptance.
 - **owner:** Blueprint maintainer
-- **status:** Ready for publication; live verification pending
+- **status:** Published and verified; appearance and classroom acceptance remain separate
 - **rationale:** Prioritise one playable connected precinct with existing movement, character editing and save; separate architecture, landscape and experience checks.
 - **dependencies:** CE-CHANGE-20260910-26
 - **supersededRecord:** None
 - **designApproval:** No new approval or rejection inferred.
 - **implementation:** Playable Arrival Gardens to Avatar Studio is implemented locally in game-live/playable-3d. Two-storey Studio façade, corrected stone scale, slatted shade walk, planted beds, fine-leaf trees and first-day objective reuse existing movement and character editing. Walking, Studio entry, Save & return, completion after reload and 390px layout passed in the browser; six existing unit tests and game checks passed. No public deployment or appearance acceptance. The source image remains the target, not an achieved realism claim. Start local game server on port 4210 and open /playable-3d/. Review this bounded area before further asset production. Batch 1 remains unapproved; 26 and 27 reader/publication integration remain pending.
-- **deployment:** Prepared for V2.16 publication; independent live verification pending.
+- **deployment:** V2.16 published and independently verified; actual live walk and save checks passed.
 - **testing:** Game check and 6 unit tests pass. Accelerated browser keyboard walk, Studio save/return, reload persistence and mobile no-overflow pass; no page errors.
 - **taniaAcceptance:** Pending.
 - **evidence:** Existing game-live/playable-3d source inspected; supplied campus vision compared.
-- **nextAction:** Tania tries the local playable area; complete reader integration and release review before any public deployment.
+- **nextAction:** Review the live playable area before wider production; preserve pending whole-batch and classroom acceptance.
 
 ## Retained Atlas principles
 

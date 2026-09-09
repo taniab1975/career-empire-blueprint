@@ -71,8 +71,6 @@ Limits: A still does not prove every animation or deformation passes. The paused
 Next: Retain evidence with the matching model; future motion acceptance requires supported clips and complete-body checks.
 Source: Inspect blazer-only GLB asset task, studio-jacket-walking.png; shared-skeleton synthetic walking test, not the incompatible independent Tripo clip.
 SHA-256: 63103349fda80bd82c3955c2b3beec5b36bd245e52390b2a15b6a6311271d473
-Open integration CE-CHANGE-20260910-26: Record supported visual gaps without inferring acceptance or changing assets. Next: Propagate assessment to current reader claims and review criteria before another production/release pass.
-Open integration CE-CHANGE-20260910-27: Prioritise one playable connected precinct with existing movement, character editing and save; separate architecture, landscape and experience checks. Next: Review local playable demonstration and complete per-surface integration before publication.
 
 ## Retained earlier reference family and prompt pack — historical, not a replacement for the current direction
 

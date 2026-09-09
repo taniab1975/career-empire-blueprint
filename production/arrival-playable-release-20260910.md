@@ -8,7 +8,7 @@ A connected planted path and slatted shade structures lead to a two-storey limes
 
 ## Evidence and limits
 
-The keyboard walk, doorway interaction, Save & return, reload persistence and 390px layout passed locally. Six game tests and 61 Blueprint tests passed before packaging. Public packaging must repeat these checks; publication remains pending. Screenshots in /evidence/arrival-playable-20260910/ show the actual renderer, not generated reference art. The campus vision remains the target; Batch 1 is still unapproved.
+The keyboard walk, doorway interaction, Save & return, reload persistence and 390px layout passed locally. Six game tests and 61 Blueprint tests passed before packaging. The packaged release repeated these checks successfully on the live website. All 270 public files matched the reviewed manifest. Screenshots in /evidence/arrival-playable-20260910/ show the actual renderer, not generated reference art. The campus vision remains the target; Batch 1 is still unapproved.
 
 ## Deployment adaptations
 
@@ -17,3 +17,8 @@ The public package retains the existing EST review handoff because the local rel
 ## Next action
 
 Play the published area and review its quality before wider production. Teacher evidence, curriculum changes, the full campus and whole-batch acceptance are outside this release.
+
+
+## Verified publication
+
+V2.16 playable Arrival Gardens is published and independently verified at https://taniab1975.github.io/career-empire-blueprint/playable-3d/. Actual live keyboard walking, Studio save/return, reload persistence and mobile layout passed; all 270 public files matched. First verified content source 73607ddd4a880bbecd5501cc6beb0ca184e448b8; final metadata has its own manifest. Wider campus and Batch 1 approval remain pending; paused experimental wardrobe choices are excluded from the public package.

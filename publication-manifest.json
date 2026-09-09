@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "73607ddd4a880bbecd5501cc6beb0ca184e448b8",
-  "generatedAt": "2026-09-09T22:27:40.394Z",
+  "sourceCommit": "b1e88019e90d25824b7527b3e11399baaa38de51",
+  "generatedAt": "2026-09-09T22:30:37.947Z",
   "revision": "V2.16 / 10 September 2026",
-  "recordSha256": "0223bb5ff404082b694fa086751059312768f6fe7d08d62e16bd7854d5fe5e5d",
+  "recordSha256": "a129d7a951844578a450c2dee1c87565d7763beaf072523e162ba1e87c4dee12",
   "files": [
     {
       "path": "assets/index-AXaFbLtA.js",
@@ -14,7 +14,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "0223bb5ff404082b694fa086751059312768f6fe7d08d62e16bd7854d5fe5e5d"
+      "sha256": "a129d7a951844578a450c2dee1c87565d7763beaf072523e162ba1e87c4dee12"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -866,7 +866,7 @@
     },
     {
       "path": "production/arrival-playable-release-20260910.md",
-      "sha256": "ed95dc0a20f98aed218e5802801324e4e92aaa749d5e38e1603701b422ee546a"
+      "sha256": "9db3dec31a0fcf047051b9f78364f8593e45b3c4ef00c51b2e108891956bb9dc"
     },
     {
       "path": "production/asset-batch-review-2026-09-10.md",
@@ -894,7 +894,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "06dccb899d477289fb8900bad16f51d7587c9344a2b068599bcb6da685f2c8c4"
+      "sha256": "5d0be866ab04b8466631d089b5d0a88f65fe6aa511b7fca79108d96bab103e8d"
     },
     {
       "path": "production/change-workflows.md",
@@ -902,7 +902,7 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "f1b48f4c1b01fcae868f53e77ee9f002e541ec09ba203cce256265d156f8b36a"
+      "sha256": "768f645683412ed52313bd428604da50c2167af03ca96a110d4f65b37da315e8"
     },
     {
       "path": "production/current-state.md",
@@ -926,7 +926,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "adfa81b2e5a6530801154180990db0588e8965492ef4c5de2cdc1eec935757df"
+      "sha256": "20082f4c82143ab65635b40762f4dd6aff4066a5ab2c0c3939e72f380954cc8a"
     },
     {
       "path": "production/operating-protocol.md",

@@ -28,7 +28,7 @@
       "id": "V2.16",
       "date": "2026-09-10",
       "label": "V2.16 / 10 September 2026",
-      "status": "Arrival-to-Studio release prepared; live verification pending",
+      "status": "V2.16 playable Arrival Gardens published and independently verified",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -189,7 +189,7 @@
     "currentStep": {
       "id": "CE-ENV-01",
       "title": "Play Arrival Gardens and Avatar Studio",
-      "status": "Playable demonstration tested; publication authorised",
+      "status": "Published playable demonstration; live checks passed",
       "owner": "Environment integrator; Tania: appearance and placement acceptance",
       "href": "/playable-3d/",
       "actionLabel": "Play the updated world",
@@ -498,7 +498,7 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "Current V2.16 release: playable Arrival Gardens to Avatar Studio. Tania said the local result looks much better and explicitly requested publication. The release carries the tested arrival walk, two-storey Studio, character editing and browser-local completion. It does not approve all ten Batch 1 items, complete the campus reference or certify classroom evidence. Paused experimental wardrobe choices are excluded. Existing public EST handoff is retained; end-to-end classroom integration is still outstanding. V2.15 publication is verified; V2.16 checks are underway.",
+      "summary": "Current V2.16 release: playable Arrival Gardens to Avatar Studio. Tania said the local result looks much better and explicitly requested publication. The release carries the tested arrival walk, two-storey Studio, character editing and browser-local completion. It does not approve all ten Batch 1 items, complete the campus reference or certify classroom evidence. Paused experimental wardrobe choices are excluded. Existing public EST handoff is retained; end-to-end classroom integration is still outstanding. V2.16 publication is verified, including the live walking and saved-return flow.",
       "facts": [
         {
           "label": "WHOLE-ITEM REVIEW / PARTS INCLUDED",
@@ -684,17 +684,17 @@
       "asOf": "2026-09-10",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.15 / Batch 1 ten complete places",
+        "sourceRevision": "V2.16 / playable Arrival Gardens",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.15 / GitHub Pages",
+        "observedLiveRevision": "V2.16 / GitHub Pages",
         "checkedAt": "2026-09-10",
-        "observedLiveSha256": "5bd81252eb6500c622eb0dc2cb53c81c9767c59d60b1444ea15fd895b2d1cb44",
+        "observedLiveSha256": "0223bb5ff404082b694fa086751059312768f6fe7d08d62e16bd7854d5fe5e5d",
         "accessCheck": "GitHub delivery repository PUBLIC and Pages built successfully; source mirror PRIVATE. Existing Sites project still returns HTTP 404 NOT_FOUND / project_not_found.",
-        "validationReceipt": "/production/batch-01-ten-items-2026-09-10.md",
-        "status": "V2.15 ten-item batch independently verified live",
+        "validationReceipt": "/production/arrival-playable-release-20260910.md",
+        "status": "V2.16 playable release independently verified live",
         "savedVersionId": null,
-        "deploymentId": "GitHub Pages / 016a3e9f017dfd8b617e4cc7ec5823409caaaa63 / verified 10 September 2026",
-        "parity": "All 249 published files matched. Ten complete items and twenty views passed live desktop/mobile review, including optional parts and model inspection. Full local reader suite passed.",
+        "deploymentId": "GitHub Pages / 0a42ff5e3881d07c98e053439e9ec4c8c9433fcd",
+        "parity": "All 270 public files match. Live keyboard walk, Studio save/return, reload persistence and 390px layout passed. Blueprint action and visual links checked at desktop/mobile sizes.",
         "resume": "Use the private canonical source and existing recovery branch; publish only validated generated output to the existing Pages repository. Read the current manifest/receipt, preserve newer history, and log material work. Legacy redirect waits for the owning Sites account.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
@@ -704,8 +704,8 @@
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
         },
-        "observedPublicCommit": "016a3e9f017dfd8b617e4cc7ec5823409caaaa63",
-        "hashScope": "First verified V2.15 content release from 76e3bfd6caf7c6dead73bf0243c83a9081e491fc; final metadata close-out has its own manifest.",
+        "observedPublicCommit": "0a42ff5e3881d07c98e053439e9ec4c8c9433fcd",
+        "hashScope": "First verified V2.16 content source 73607ddd4a880bbecd5501cc6beb0ca184e448b8; final metadata closeout has a separate manifest.",
         "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
@@ -1380,7 +1380,7 @@
           "domain": "Visual alignment assessment",
           "source": "Tania asks whether Batch 1 aligns with attached campus vision; CE-DISCUSSION-52b4e208-084e-4834-8be0-93aeb871b759.",
           "owner": "Blueprint maintainer",
-          "status": "Ready for publication; live verification pending",
+          "status": "Published and verified; appearance and classroom acceptance remain separate",
           "rationale": "Visual assessment, 10 September 2026: Batch 1 shares limestone, dark roofs/frames, timber and glazing with the supplied campus vision, but does not yet achieve its architecture or landscape quality. Repeated small single-storey forms, sparse planting and isolated paved pads need refinement; lighting alone is insufficient. Treat the ten items as prototypes requiring refinement, not vision-matched finished assets. This is an assistant assessment, not Tania approval or rejection. Keep grouped review of ten whole items. Recommended sequence: architecture/proportions, landscape and connected precinct, then materials/lighting and comparison. No new modelling authorised by this assessment.",
           "dependencies": [
             "CE-CHANGE-20260910-25"
@@ -1388,14 +1388,14 @@
           "supersededRecord": null,
           "designApproval": "No new approval or rejection inferred.",
           "implementation": "Direct visual comparison of supplied vision and actual final batch renders; no models changed.",
-          "deployment": "Prepared for V2.16 publication; independent live verification pending.",
+          "deployment": "V2.16 published and independently verified; actual live walk and save checks passed.",
           "testing": "Visual inspection performed; no new runtime behavior.",
           "taniaAcceptance": "Pending.",
           "evidence": [
             "Supplied campus vision image codex-clipboard-92228b67-2c57-4566-b359-8f9d88e09164.png",
             "Actual Batch 1 overview renders and final refined EST, Civic Hall, Workplace and Garden renders inspected."
           ],
-          "nextAction": "Integrate comparison into current reader review criteria; preserve pending approval and ten-item grouping."
+          "nextAction": "Review the live playable area before wider production; preserve pending whole-batch and classroom acceptance."
         },
         {
           "id": "CE-CHANGE-20260910-27",
@@ -1404,7 +1404,7 @@
           "domain": "Visual alignment assessment",
           "source": "Tania: do what you can; wants one bit showing the vision is possible in the playable world. CE-DISCUSSION-0231dd24-c64a-40b9-ab97-2266b5d5b696. Tania: that is looking much better. Push to live? Explicit publication authorisation, not blanket asset acceptance.",
           "owner": "Blueprint maintainer",
-          "status": "Ready for publication; live verification pending",
+          "status": "Published and verified; appearance and classroom acceptance remain separate",
           "rationale": "Prioritise one playable connected precinct with existing movement, character editing and save; separate architecture, landscape and experience checks.",
           "dependencies": [
             "CE-CHANGE-20260910-26"
@@ -1412,13 +1412,13 @@
           "supersededRecord": null,
           "designApproval": "No new approval or rejection inferred.",
           "implementation": "Playable Arrival Gardens to Avatar Studio is implemented locally in game-live/playable-3d. Two-storey Studio façade, corrected stone scale, slatted shade walk, planted beds, fine-leaf trees and first-day objective reuse existing movement and character editing. Walking, Studio entry, Save & return, completion after reload and 390px layout passed in the browser; six existing unit tests and game checks passed. No public deployment or appearance acceptance. The source image remains the target, not an achieved realism claim. Start local game server on port 4210 and open /playable-3d/. Review this bounded area before further asset production. Batch 1 remains unapproved; 26 and 27 reader/publication integration remain pending.",
-          "deployment": "Prepared for V2.16 publication; independent live verification pending.",
+          "deployment": "V2.16 published and independently verified; actual live walk and save checks passed.",
           "testing": "Game check and 6 unit tests pass. Accelerated browser keyboard walk, Studio save/return, reload persistence and mobile no-overflow pass; no page errors.",
           "taniaAcceptance": "Pending.",
           "evidence": [
             "Existing game-live/playable-3d source inspected; supplied campus vision compared."
           ],
-          "nextAction": "Tania tries the local playable area; complete reader integration and release review before any public deployment."
+          "nextAction": "Review the live playable area before wider production; preserve pending whole-batch and classroom acceptance."
         }
       ],
       "sessionStart": [
@@ -4581,7 +4581,7 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "b51a76bac9183481c42e5a74aa5ce899bff70b97a703f19e9a28f8a2a0f7cfc5"
+          "sha256": "f9f18d44330a1aab3ad449005cf6f79e9d67b9775bb26ca95f1e04affd2a698f"
         },
         {
           "path": "README.md",
@@ -4633,7 +4633,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "790881cc8a4e143d95110cf56398376c12765f6308fb13be3fb23f678738d847"
+          "sha256": "2da25177ad3eb49db4d19694383695205289677d2cdc2cb228d698a94939b56d"
         },
         {
           "path": "data/style-guide.json",
@@ -4645,7 +4645,7 @@
         },
         {
           "path": "docs/production/arrival-playable-release-20260910.md",
-          "sha256": "ed95dc0a20f98aed218e5802801324e4e92aaa749d5e38e1603701b422ee546a"
+          "sha256": "9db3dec31a0fcf047051b9f78364f8593e45b3c4ef00c51b2e108891956bb9dc"
         },
         {
           "path": "docs/production/asset-batch-review-2026-09-10.md",
@@ -8330,13 +8330,13 @@
           "visual",
           "building"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Record supported visual gaps without inferring acceptance or changing assets.",
         "before": "Ten published candidates await review.",
         "after": "Visual assessment, 10 September 2026: Batch 1 shares limestone, dark roofs/frames, timber and glazing with the supplied campus vision, but does not yet achieve its architecture or landscape quality. Repeated small single-storey forms, sparse planting and isolated paved pads need refinement; lighting alone is insufficient. Treat the ten items as prototypes requiring refinement, not vision-matched finished assets. This is an assistant assessment, not Tania approval or rejection. Keep grouped review of ten whole items. Recommended sequence: architecture/proportions, landscape and connected precinct, then materials/lighting and comparison. No new modelling authorised by this assessment.",
         "source": "Tania asks whether Batch 1 aligns with attached campus vision; CE-DISCUSSION-52b4e208-084e-4834-8be0-93aeb871b759.",
         "owner": "Blueprint maintainer",
-        "nextAction": "Propagate assessment to current reader claims and review criteria before another production/release pass.",
+        "nextAction": "Review the live playable area and retain the separate whole-batch and classroom gates.",
         "targets": [
           {
             "surface": "start",
@@ -8440,7 +8440,7 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
+            "disposition": "updated",
             "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "records": [
               "CE-CHANGE-20260910-26",
@@ -8452,11 +8452,11 @@
               "docs/production/arrival-playable-release-20260910.md"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Exact manifest parity and live player/reader checks follow push.",
-              "date": "2026-09-10"
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "V2.16 playable Arrival Gardens is published and independently verified at https://taniab1975.github.io/career-empire-blueprint/playable-3d/. Actual live keyboard walking, Studio save/return, reload persistence and mobile layout passed; all 270 public files matched. First verified content source 73607ddd4a880bbecd5501cc6beb0ca184e448b8; final metadata has its own manifest. Wider campus and Batch 1 approval remain pending; paused experimental wardrobe choices are excluded from the public package."
             },
-            "nextAction": "Publish the reviewed source build, compare every live file hash, and repeat live player and reader checks."
+            "nextAction": "Maintain current live destination; record final metadata manifest independently."
           },
           {
             "surface": "decisions",
@@ -8690,13 +8690,13 @@
           "activity",
           "release"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Prioritise one playable connected precinct with existing movement, character editing and save; separate architecture, landscape and experience checks.",
         "before": "Working basic world and Studio; vision gap.",
         "after": "Playable Arrival Gardens to Avatar Studio is implemented locally in game-live/playable-3d. Two-storey Studio façade, corrected stone scale, slatted shade walk, planted beds, fine-leaf trees and first-day objective reuse existing movement and character editing. Walking, Studio entry, Save & return, completion after reload and 390px layout passed in the browser; six existing unit tests and game checks passed. No public deployment or appearance acceptance. The source image remains the target, not an achieved realism claim. Start local game server on port 4210 and open /playable-3d/. Review this bounded area before further asset production. Batch 1 remains unapproved; 26 and 27 reader/publication integration remain pending.",
         "source": "Tania: do what you can; wants one bit showing the vision is possible in the playable world. CE-DISCUSSION-0231dd24-c64a-40b9-ab97-2266b5d5b696. Tania explicitly requested Push to live after positive local feedback. Tania explicitly requested Push to live after positive local feedback.",
         "owner": "Blueprint maintainer",
-        "nextAction": "Review local playable demonstration and complete per-surface integration before publication.",
+        "nextAction": "Review the live playable area and retain the separate whole-batch and classroom gates.",
         "targets": [
           {
             "surface": "start",
@@ -8800,7 +8800,7 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
+            "disposition": "updated",
             "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "records": [
               "CE-CHANGE-20260910-27",
@@ -8812,11 +8812,11 @@
               "docs/production/arrival-playable-release-20260910.md"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Exact manifest parity and live player/reader checks follow push.",
-              "date": "2026-09-10"
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "V2.16 playable Arrival Gardens is published and independently verified at https://taniab1975.github.io/career-empire-blueprint/playable-3d/. Actual live keyboard walking, Studio save/return, reload persistence and mobile layout passed; all 270 public files matched. First verified content source 73607ddd4a880bbecd5501cc6beb0ca184e448b8; final metadata has its own manifest. Wider campus and Batch 1 approval remain pending; paused experimental wardrobe choices are excluded from the public package."
             },
-            "nextAction": "Publish the reviewed source build, compare every live file hash, and repeat live player and reader checks."
+            "nextAction": "Maintain current live destination; record final metadata manifest independently."
           },
           {
             "surface": "visuals",
@@ -9118,7 +9118,21 @@
               "date": "2026-09-10"
             }
           }
-        ]
+        ],
+        "projectChanges": {
+          "game-live": {
+            "AGENTS.md": "100644:86ceedd5a1d862231f22dd23b6eaa4964af4b2fc",
+            "playable-3d/arrival-precinct.js": "100644:d1443bcb0878d79a31f42d963cb1cba21e2ee1fc",
+            "playable-3d/world.js": "100644:86ca4c639015259398123d0da1d93ea652c412ea",
+            "playable-3d/app.js": "100644:4e3870d0033c65860ddec1df53c9d4abca79bb8b",
+            "playable-3d/index.html": "100644:24c966527529fbc3549ec03233488a93b1887c5c",
+            "playable-3d/style.css": "100644:84ddc4fed06f3e401e585e16ede8bc3fc3c76de6",
+            "docs/production/arrival-playable-20260910.md": "100644:fb2b263b0b3061c43ca320d67284e72fcf147727"
+          },
+          "megatrends": {
+            "AGENTS.md": "100644:93f00d05f059fc5b57264a282c559386d1e5517a"
+          }
+        }
       }
     ]
   },
