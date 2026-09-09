@@ -36,3 +36,8 @@ All ten model/parts snapshots and twenty render hashes pass. 61 Blueprint tests,
 
 
 The current public Blueprint is https://taniab1975.github.io/career-empire-blueprint/, including its Visuals topic. The editable authority is the existing local canonical checkout. Old GPT/Sites Blueprint and Design Atlas links are historical/source references, not publication destinations. The live manifest identifies the exact current source; final close-out evidence is stored separately to avoid recursive hashes.
+
+
+## Batch 1 vision comparison — unpublished assessment
+
+Visual assessment, 10 September 2026: Batch 1 shares limestone, dark roofs/frames, timber and glazing with the supplied campus vision, but does not yet achieve its architecture or landscape quality. Repeated small single-storey forms, sparse planting and isolated paved pads need refinement; lighting alone is insufficient. Treat the ten items as prototypes requiring refinement, not vision-matched finished assets. This is an assistant assessment, not Tania approval or rejection. Keep grouped review of ten whole items. Recommended sequence: architecture/proportions, landscape and connected precinct, then materials/lighting and comparison. No new modelling authorised by this assessment. See CE-CHANGE-20260910-26; public reader integration remains pending.

@@ -1,12 +1,12 @@
 {
-  "sourceCommit": "66700a5e493f86dc6e29452c15452ce0a62f1f43",
-  "generatedAt": "2026-09-09T22:05:16.409Z",
-  "revision": "V2.15 / 10 September 2026",
-  "recordSha256": "6bcdc76b77fdc7d3002ea11d913ac45797f6dcdbb7a115baa36df803013d25ed",
+  "sourceCommit": "73607ddd4a880bbecd5501cc6beb0ca184e448b8",
+  "generatedAt": "2026-09-09T22:27:40.394Z",
+  "revision": "V2.16 / 10 September 2026",
+  "recordSha256": "0223bb5ff404082b694fa086751059312768f6fe7d08d62e16bd7854d5fe5e5d",
   "files": [
     {
-      "path": "assets/index-CiQNYCTx.js",
-      "sha256": "29bb7df6ed314a0f2e8c7a6df517b53813b120ed8be7e94af5d5250f8582f6b8"
+      "path": "assets/index-AXaFbLtA.js",
+      "sha256": "838c3ba37d96af9c19edea119e30aa1e2f4693b1040f9b8f957d4eb7a3d4d801"
     },
     {
       "path": "assets/index-CjQKDqwD.css",
@@ -14,7 +14,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "6bcdc76b77fdc7d3002ea11d913ac45797f6dcdbb7a115baa36df803013d25ed"
+      "sha256": "0223bb5ff404082b694fa086751059312768f6fe7d08d62e16bd7854d5fe5e5d"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -39,6 +39,14 @@
     {
       "path": "evidence/3d-walkthrough-start-2026-09-07.jpg",
       "sha256": "7472c779ecfb6262276b7ccf59742b6bfc1deae9989e93b83c02567ad1be72ce"
+    },
+    {
+      "path": "evidence/arrival-playable-20260910/arrival.png",
+      "sha256": "47e5c778716f334e73fb7381881db05125f9f18e3706faacd6c40dfe170e2cb1"
+    },
+    {
+      "path": "evidence/arrival-playable-20260910/studio.png",
+      "sha256": "ded272cb0c5b0fab51098ab777d2faec2af1dacf7ef0fc2be16e7694794ceebc"
     },
     {
       "path": "evidence/asset-review-20260910/index.html",
@@ -686,11 +694,15 @@
     },
     {
       "path": "index.html",
-      "sha256": "b429afd8a2b9e969280d085e500f01ac89f0f56043e4f5dae8006f4dc4dc5706"
+      "sha256": "a82cf488a52d2502a5f8e7120eaf0fb259913eb1067cf74f7c6e856053deb1d2"
     },
     {
       "path": "playable-3d/app.js",
-      "sha256": "d036e59b3da32dfc56031459ab98b9ae7a68ae339f4036c117a4313d1a6cd3e4"
+      "sha256": "df4ced2e46aaebf3f2b1b9416f652be745b5927d0c371ebfe192d85d268da46c"
+    },
+    {
+      "path": "playable-3d/arrival-precinct.js",
+      "sha256": "837fafd444ccb3bba0e94b1e1ede190f8331fa15f722e7d920c2854fed88e0f6"
     },
     {
       "path": "playable-3d/assets/avatar-a.glb",
@@ -713,8 +725,56 @@
       "sha256": "856893d1166812b8102eb406ee4b6665c71270da7b148619e8d65fe80e7eddc7"
     },
     {
+      "path": "playable-3d/assets/player-schoolboy-20260909.glb",
+      "sha256": "02ea0f8485d4e263c27b11b731c77006c5b3e73212b33c2a510ea500e9861991"
+    },
+    {
+      "path": "playable-3d/assets/plaza/asphalt_dash_overlay.png",
+      "sha256": "cb9e41ad3d7533deebb12ac758dc4e53cd462589787a6fb2a776928f5bd4a395"
+    },
+    {
+      "path": "playable-3d/assets/plaza/asphalt_day.png",
+      "sha256": "3a904d5ed377ccfdf483b6c62e9564113a73fc18aecb15b694f182cccdf87787"
+    },
+    {
+      "path": "playable-3d/assets/plaza/crosswalk_overlay.png",
+      "sha256": "43fc6f244777cdf48cd8ad9502bf2a616cacbf2d148f3521958cf4c3b12ecd33"
+    },
+    {
+      "path": "playable-3d/assets/plaza/curb_cyan_trim.png",
+      "sha256": "ed5719bda5031d0985d5815e56f668e471e14b65b8bba150657ad59d3a9a45f3"
+    },
+    {
+      "path": "playable-3d/assets/plaza/grass-ecc-campus-v1.png",
+      "sha256": "a2cc32568c2095977b6685990983d216cd19bbe19fa2762c035060be7ed1f8d7"
+    },
+    {
+      "path": "playable-3d/assets/plaza/limestone-ecc-campus-v1.png",
+      "sha256": "73e9c90b16d616068a5bbc8394f3fa6828b129275ac6f5e7fe69ce7a2b524508"
+    },
+    {
+      "path": "playable-3d/assets/scenery/ecc-avatar-studio-v1.glb",
+      "sha256": "1a6e8803e5949919396adf13b82c301af62184aaddd54076e83dbe29d273c631"
+    },
+    {
+      "path": "playable-3d/assets/scenery/future-careers-hub.glb",
+      "sha256": "70768b9b929f9bac31d62f246153345b4cf8fb502acac8de17ee7947d2e001de"
+    },
+    {
+      "path": "playable-3d/assets/scenery/modern-campus-building.glb",
+      "sha256": "aaf68ad86f0218444c3e86c625308708817718afeb773d85bcf7622bfb9354a7"
+    },
+    {
+      "path": "playable-3d/assets/scenery/tree-low.glb",
+      "sha256": "574e50d6153450220a792c0ef2c257570dc3ea415d3bc83d3a9e1c8de0da0e8c"
+    },
+    {
+      "path": "playable-3d/assets/scenery/tree.glb",
+      "sha256": "3a07dddacabcd4a4ea3fa6bedf69c704a44fe3eb9cb8e59a289cbb6405718a47"
+    },
+    {
       "path": "playable-3d/characters.js",
-      "sha256": "a1618e0c43cd7d818cc776e4ed0e30c71513322fb15bb06486a5f3f1d5ec57cb"
+      "sha256": "d90795d81c456e9f41e2cf7762cd8d0b522f4adf73f1485552eeb08f00afd687"
     },
     {
       "path": "playable-3d/est-prep-review/index.html",
@@ -726,15 +786,31 @@
     },
     {
       "path": "playable-3d/index.html",
-      "sha256": "b950147d829833cc264f02bb72eea97c759fdbfd96c035b315849e2e6f3a38c3"
+      "sha256": "877ae58dbd7b8bf41b91b44e394ce875b37302e50c0a536395e228a17f3df21d"
     },
     {
       "path": "playable-3d/profiles.js",
-      "sha256": "625db0d4b168c7d390d58dbbcdcc3dcc0834d2dfc6dcd6ad5a32b845d6a5410b"
+      "sha256": "1eb513e56685968c8fe0422eba1a04a1c01f4592129f3e12ece4c610c570f2a1"
+    },
+    {
+      "path": "playable-3d/scenery.js",
+      "sha256": "7fa832316fc6b22b7335581759e92c9ccebb1a01446158acfd360cbc221b9a2e"
     },
     {
       "path": "playable-3d/style.css",
-      "sha256": "cd20ae0f212dba7cff3d452f8e7d36e3788dfd0ac05b6d51831d58f975a8bd5c"
+      "sha256": "40d7eeb2ff35f9da8e235f9b68601d8656bf3985996a944949251a2e2fa240f1"
+    },
+    {
+      "path": "playable-3d/vendor/draco/draco_decoder.js",
+      "sha256": "5656ccaf1f50300e3c318e15c3313430483f3866cd9c25f22fbf9d6f229e6728"
+    },
+    {
+      "path": "playable-3d/vendor/draco/draco_decoder.wasm",
+      "sha256": "2516a4e43526d71787bf2f678f951329f7f858f8f15f42d4bc9e370b31a0da3a"
+    },
+    {
+      "path": "playable-3d/vendor/draco/draco_wasm_wrapper.js",
+      "sha256": "e8049906ef3f8f75d3456c22a3f31bfdfe5b5b5bd09ccdec613b9e9a49d554d8"
     },
     {
       "path": "playable-3d/vendor/lucide/lucide.min.js",
@@ -769,6 +845,10 @@
       "sha256": "c20f0b4677f6128a138d7152b85cbef9091f4f45cdfa05adca04d40c1697c7ae"
     },
     {
+      "path": "playable-3d/vendor/three/examples/jsm/loaders/DRACOLoader.js",
+      "sha256": "7a4a51c694a6c9f983be452cc82b365e69ce08424654e3f245b4115e6efef258"
+    },
+    {
       "path": "playable-3d/vendor/three/examples/jsm/loaders/GLTFLoader.js",
       "sha256": "67ac5551fdafa6e349bd80c8f8e5e39c136d6b2fb1ad647db9abb21dc86f9e4a"
     },
@@ -782,7 +862,11 @@
     },
     {
       "path": "playable-3d/world.js",
-      "sha256": "23cde9ba85037b7c9e25db2545fdf16310bb8cd75f822329c6aa0b63ddf07451"
+      "sha256": "6587b87f51b240a641126975329c2e9e93e7d07bb5ff240778518bb6dcaae1d5"
+    },
+    {
+      "path": "production/arrival-playable-release-20260910.md",
+      "sha256": "ed95dc0a20f98aed218e5802801324e4e92aaa749d5e38e1603701b422ee546a"
     },
     {
       "path": "production/asset-batch-review-2026-09-10.md",
@@ -806,11 +890,11 @@
     },
     {
       "path": "production/batch-01-ten-items-2026-09-10.md",
-      "sha256": "aba160b78e3205de27f6a7a1715087f7db7c844840ccbfef3195fdcfc44317df"
+      "sha256": "7a30ea73297c76df410e51328d9f719717db7aee275760e5dd3975c23ed58e16"
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "2291971aa1212f93127e0656d6691395dbd16fb93715805f3702b6e089a361cc"
+      "sha256": "06dccb899d477289fb8900bad16f51d7587c9344a2b068599bcb6da685f2c8c4"
     },
     {
       "path": "production/change-workflows.md",
@@ -818,11 +902,11 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "768f645683412ed52313bd428604da50c2167af03ca96a110d4f65b37da315e8"
+      "sha256": "f1b48f4c1b01fcae868f53e77ee9f002e541ec09ba203cce256265d156f8b36a"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "a138a1c123182f561540162abb1e6b0427cf02eb4aef5c46594495e05cc0b1a5"
+      "sha256": "d2e70641d2a318692adca657fcd5c3c232b7105a0edc08a5824c08ca3ea82f3a"
     },
     {
       "path": "production/github-migration-2026-09-09.md",
@@ -842,15 +926,15 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "10260009f29c87f69a99387cf349682cd52a2c5920e5bfbe6020f8b41e15fb3e"
+      "sha256": "adfa81b2e5a6530801154180990db0588e8965492ef4c5de2cdc1eec935757df"
     },
     {
       "path": "production/operating-protocol.md",
-      "sha256": "8ff703de8eeac94d8c123968ffedf6c9568ad93d525ed50895e5b3ad3483fab3"
+      "sha256": "b6d002b5a6df5e9d19d2ca84c4653d37fed311bb40f3b20977fd120f70e61b0f"
     },
     {
       "path": "production/production-plan.md",
-      "sha256": "9a140eeaf5b94778939514459fada3630d84a8e74fa63da61bdc85a6911b8cce"
+      "sha256": "f36aeb4d264fcebb5f55d52083cbdfbded805aafdd44df9d2bb1583455c1b1f8"
     },
     {
       "path": "production/project-automation-setup-2026-09-10.md",
@@ -882,7 +966,7 @@
     },
     {
       "path": "production/visual-register.md",
-      "sha256": "22ef2445ecbcb79053b89d48254fb243579e734b8f3815a116438b90a18b63a6"
+      "sha256": "1c444ba53e6d7a10ba21facdf69d23183313fdec1e9b6f05b22d77805713cc58"
     },
     {
       "path": "references/CE-BLDG-001-home-base.png",

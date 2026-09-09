@@ -1,5 +1,7 @@
 # Visual production register — 9 September 2026
 
+**Current playable release — V2.16:** Current V2.16 release: playable Arrival Gardens to Avatar Studio. Tania said the local result looks much better and explicitly requested publication. The release carries the tested arrival walk, two-storey Studio, character editing and browser-local completion. It does not approve all ten Batch 1 items, complete the campus reference or certify classroom evidence. Paused experimental wardrobe choices are excluded. Existing public EST handoff is retained; end-to-end classroom integration is still outstanding. [Play the updated world](https://taniab1975.github.io/career-empire-blueprint/playable-3d/).
+
 **Current checkpoint — Batch 1:** Ten complete appearance candidates are built for one grouped review: Avatar Studio, Arrival Pavilion, EST Prep Lab, Civic Hall, Careers Advice Centre, First Workplace, Community Garden, Learning Courtyard, Transport Stop and Community Market. Each includes all its parts and surroundings. Review all ten together; no item is accepted yet. [Batch review](/career-empire-blueprint/evidence/asset-review-20260910/index.html).
 
 

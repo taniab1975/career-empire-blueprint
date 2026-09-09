@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.15: Batch 1 contains ten complete appearance candidates for one grouped review.
+Release scope: V2.16: publish the tested Arrival-to-Studio playable demonstration and visual assessment.
 
-Ten confirmed places are produced for appearance review. No appearance acceptance, live map/runtime deployment, school-device or classroom acceptance is inferred. Blazer remains paused.
+Publication authorised after positive local feedback. Wider campus, Batch 1 acceptance and classroom integration remain incomplete; paused wardrobe tests excluded.
 
 ## CE-CHANGE-20260910-17 — Change-driven Blueprint update workflow
 
@@ -2442,6 +2442,642 @@ Verification: passed / Teacher code and assessment behavior are unchanged; this 
 - [Evidence](/career-empire-blueprint/production/batch-01-ten-items-2026-09-10.md)
 
 Next: Review all ten complete items together; record named exceptions without inferring approval.
+
+## CE-CHANGE-20260910-26 — Assess Batch 1 against the supplied campus vision
+
+Integration: **ready-for-publication**. Types: governance, visual, building. Owner: Blueprint maintainer.
+
+**Objective:** Record supported visual gaps without inferring acceptance or changing assets.
+
+**Before:** Ten published candidates await review.
+
+**Required result:** Visual assessment, 10 September 2026: Batch 1 shares limestone, dark roofs/frames, timber and glazing with the supplied campus vision, but does not yet achieve its architecture or landscape quality. Repeated small single-storey forms, sparse planting and isolated paved pads need refinement; lighting alone is insufficient. Treat the ten items as prototypes requiring refinement, not vision-matched finished assets. This is an assistant assessment, not Tania approval or rejection. Keep grouped review of ten whole items. Recommended sequence: architecture/proportions, landscape and connected precinct, then materials/lighting and comparison. No new modelling authorised by this assessment.
+
+**Source:** Tania asks whether Batch 1 aligns with attached campus vision; CE-DISCUSSION-52b4e208-084e-4834-8be0-93aeb871b759.
+
+**Next:** Propagate assessment to current reader claims and review criteria before another production/release pass.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Current action and summary point to playable Arrival-to-Studio rather than asking for Batch 1 approval.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Current action and summary point to playable Arrival-to-Studio rather than asking for Batch 1 approval.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+CE-ENV-01 now points to the playable demonstration; later EST integration remains separately outstanding.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / CE-ENV-01 now points to the playable demonstration; later EST integration remains separately outstanding.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Material records 26 and 27 retain the visual-gap assessment, local production evidence and explicit publication request.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Material records 26 and 27 retain the visual-gap assessment, local production evidence and explicit publication request.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+AGENTS, README and operating protocol identify the bounded release; earlier local-only notes remain historical.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / AGENTS, README and operating protocol identify the bounded release; earlier local-only notes remain historical.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Record generator carries the current action, release limits and both integration records into public exports.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Record generator carries the current action, release limits and both integration records into public exports.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Exact manifest parity and live player/reader checks follow push.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Publish the reviewed source build, compare every live file hash, and repeat live player and reader checks.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+All 17 protected V2 decision records retain exact data/blueprint.ts bytes; publication request does not approve the full asset batch.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / All 17 protected V2 decision records retain exact data/blueprint.ts bytes; publication request does not approve the full asset batch.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Original reference/source library in data/blueprint.ts unchanged; actual screenshot provenance added only in visual manifest.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Original reference/source library in data/blueprint.ts unchanged; actual screenshot provenance added only in visual manifest.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+The exact packaged runtime is checked for keyboard walking, Studio saving, reload and mobile layout; public EST adaptation is explicit.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / The exact packaged runtime is checked for keyboard walking, Studio saving, reload and mobile layout; public EST adaptation is explicit.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Existing canonical checkout and private mirror are retained; handoff points to the existing public playable route.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Existing canonical checkout and private mirror are retained; handoff points to the existing public playable route.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Actual Studio screenshot and playable link precede retained batch review evidence; original campus references remain intact.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / Actual Studio screenshot and playable link precede retained batch review evidence; original campus references remain intact.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Actual arrival and Studio screenshots have source hashes in the visual manifest; no concept art is represented as gameplay.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / Actual arrival and Studio screenshots have source hashes in the visual manifest; no concept art is represented as gameplay.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Visual register records the playable release; original 10-item register and approval history remain unchanged.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Visual register records the playable release; original 10-item register and approval history remain unchanged.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+The playable Studio and connected landscape are shown in current evidence; no other Batch 1 item is accepted.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / The playable Studio and connected landscape are shown in current evidence; no other Batch 1 item is accepted.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Avatar and wardrobe references — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Public options retain School student and Body A/B; paused jacket and experimental choices are excluded. Original avatar reference approvals unchanged.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / Public options retain School student and Body A/B; paused jacket and experimental choices are excluded. Original avatar reference approvals unchanged.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Current evidence points to the connected playable area and explicitly retains unfinished-campus limits.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / Current evidence points to the connected playable area and explicitly retains unfinished-campus limits.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Activities and learning flow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Existing curriculum experience records are unchanged; the bounded arrival and character-save objective is documented in the release note.
+
+Records: CE-CHANGE-20260910-26, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Existing curriculum experience records are unchanged; the bounded arrival and character-save objective is documented in the release note.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+## CE-CHANGE-20260910-27 — Playable Arrival to Studio vision demonstration
+
+Integration: **ready-for-publication**. Types: visual, building, implementation, activity, release. Owner: Blueprint maintainer.
+
+**Objective:** Prioritise one playable connected precinct with existing movement, character editing and save; separate architecture, landscape and experience checks.
+
+**Before:** Working basic world and Studio; vision gap.
+
+**Required result:** Playable Arrival Gardens to Avatar Studio is implemented locally in game-live/playable-3d. Two-storey Studio façade, corrected stone scale, slatted shade walk, planted beds, fine-leaf trees and first-day objective reuse existing movement and character editing. Walking, Studio entry, Save & return, completion after reload and 390px layout passed in the browser; six existing unit tests and game checks passed. No public deployment or appearance acceptance. The source image remains the target, not an achieved realism claim. Start local game server on port 4210 and open /playable-3d/. Review this bounded area before further asset production. Batch 1 remains unapproved; 26 and 27 reader/publication integration remain pending.
+
+**Source:** Tania: do what you can; wants one bit showing the vision is possible in the playable world. CE-DISCUSSION-0231dd24-c64a-40b9-ab97-2266b5d5b696. Tania explicitly requested Push to live after positive local feedback. Tania explicitly requested Push to live after positive local feedback.
+
+**Next:** Review local playable demonstration and complete per-surface integration before publication.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Current action and summary point to playable Arrival-to-Studio rather than asking for Batch 1 approval.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Current action and summary point to playable Arrival-to-Studio rather than asking for Batch 1 approval.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+CE-ENV-01 now points to the playable demonstration; later EST integration remains separately outstanding.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / CE-ENV-01 now points to the playable demonstration; later EST integration remains separately outstanding.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Material records 26 and 27 retain the visual-gap assessment, local production evidence and explicit publication request.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Material records 26 and 27 retain the visual-gap assessment, local production evidence and explicit publication request.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+AGENTS, README and operating protocol identify the bounded release; earlier local-only notes remain historical.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / AGENTS, README and operating protocol identify the bounded release; earlier local-only notes remain historical.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Record generator carries the current action, release limits and both integration records into public exports.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Record generator carries the current action, release limits and both integration records into public exports.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Exact manifest parity and live player/reader checks follow push.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Publish the reviewed source build, compare every live file hash, and repeat live player and reader checks.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Actual Studio screenshot and playable link precede retained batch review evidence; original campus references remain intact.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / Actual Studio screenshot and playable link precede retained batch review evidence; original campus references remain intact.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Actual arrival and Studio screenshots have source hashes in the visual manifest; no concept art is represented as gameplay.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / Actual arrival and Studio screenshots have source hashes in the visual manifest; no concept art is represented as gameplay.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Visual register records the playable release; original 10-item register and approval history remain unchanged.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Visual register records the playable release; original 10-item register and approval history remain unchanged.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+The playable Studio and connected landscape are shown in current evidence; no other Batch 1 item is accepted.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / The playable Studio and connected landscape are shown in current evidence; no other Batch 1 item is accepted.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Avatar and wardrobe references — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Public options retain School student and Body A/B; paused jacket and experimental choices are excluded. Original avatar reference approvals unchanged.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / Public options retain School student and Body A/B; paused jacket and experimental choices are excluded. Original avatar reference approvals unchanged.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Current evidence points to the connected playable area and explicitly retains unfinished-campus limits.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / Current evidence points to the connected playable area and explicitly retains unfinished-campus limits.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+All 17 protected V2 decision records retain exact data/blueprint.ts bytes; publication request does not approve the full asset batch.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / All 17 protected V2 decision records retain exact data/blueprint.ts bytes; publication request does not approve the full asset batch.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+The exact packaged runtime is checked for keyboard walking, Studio saving, reload and mobile layout; public EST adaptation is explicit.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / The exact packaged runtime is checked for keyboard walking, Studio saving, reload and mobile layout; public EST adaptation is explicit.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Activities and learning flow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Existing curriculum experience records are unchanged; the bounded arrival and character-save objective is documented in the release note.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Existing curriculum experience records are unchanged; the bounded arrival and character-save objective is documented in the release note.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Teacher workflow and dashboard code remain unchanged; release note explicitly discloses no teacher evidence integration.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / Teacher workflow and dashboard code remain unchanged; release note explicitly discloses no teacher evidence integration.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Existing canonical checkout and private mirror are retained; handoff points to the existing public playable route.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Existing canonical checkout and private mirror are retained; handoff points to the existing public playable route.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Player Journey and worked example — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+No approved course journey is rewritten: this release adds browser-local onboarding feedback only, documented in the release note.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: passed / No approved course journey is rewritten: this release adds browser-local onboarding feedback only, documented in the release note.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Curriculum and reciprocal mappings — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+data/curriculum.json and data/blueprint.ts remain byte-identical to published source; no syllabus or learning mapping changes.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: passed / data/curriculum.json and data/blueprint.ts remain byte-identical to published source; no syllabus or learning mapping changes.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Year plan and assessment — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+No assessment criteria or evidence routing changed; completion is browser-local and not teacher-visible assessment.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: passed / No assessment criteria or evidence routing changed; completion is browser-local and not teacher-visible assessment.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Original reference/source library in data/blueprint.ts unchanged; actual screenshot provenance added only in visual manifest.
+
+Records: CE-CHANGE-20260910-27, CE-ENV-01. Owner: Blueprint release maintainer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Original reference/source library in data/blueprint.ts unchanged; actual screenshot provenance added only in visual manifest.
+
+- [Evidence](docs/production/arrival-playable-release-20260910.md)
+
+Next: Maintain bounded scope and preserve pending appearance and classroom acceptance.
 
 ## Historical boundary
 

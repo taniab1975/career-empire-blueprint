@@ -1,5 +1,7 @@
 # Start Here — Career Empire, 10 September 2026
 
+**Current playable release — V2.16:** Current V2.16 release: playable Arrival Gardens to Avatar Studio. Tania said the local result looks much better and explicitly requested publication. The release carries the tested arrival walk, two-storey Studio, character editing and browser-local completion. It does not approve all ten Batch 1 items, complete the campus reference or certify classroom evidence. Paused experimental wardrobe choices are excluded. Existing public EST handoff is retained; end-to-end classroom integration is still outstanding. [Play the updated world](https://taniab1975.github.io/career-empire-blueprint/playable-3d/).
+
 **Current checkpoint — Batch 1:** Ten complete appearance candidates are built for one grouped review: Avatar Studio, Arrival Pavilion, EST Prep Lab, Civic Hall, Careers Advice Centre, First Workplace, Community Garden, Learning Courtyard, Transport Stop and Community Market. Each includes all its parts and surroundings. Review all ten together; no item is accepted yet. [Batch review](/career-empire-blueprint/evidence/asset-review-20260910/index.html).
 
 
@@ -44,3 +46,13 @@ Career Empire remains an experience-first career/life simulation for Year 12 Car
 5. Leave blazer work paused; defer extra hero buildings, gameplay mechanics and spending.
 
 All 17 V2 decisions, four production approvals, curriculum wording, experience mappings and the unapproved pilot are preserved. Fourteen kit modules were produced in an isolated workbench; no live game was changed. Historical states remain in dated records; they must not override the current source.
+
+
+## Batch 1 vision comparison — unpublished assessment
+
+Visual assessment, 10 September 2026: Batch 1 shares limestone, dark roofs/frames, timber and glazing with the supplied campus vision, but does not yet achieve its architecture or landscape quality. Repeated small single-storey forms, sparse planting and isolated paved pads need refinement; lighting alone is insufficient. Treat the ten items as prototypes requiring refinement, not vision-matched finished assets. This is an assistant assessment, not Tania approval or rejection. Keep grouped review of ten whole items. Recommended sequence: architecture/proportions, landscape and connected precinct, then materials/lighting and comparison. No new modelling authorised by this assessment. See CE-CHANGE-20260910-26; public reader integration remains pending.
+
+
+## Playable arrival demonstration — local
+
+Playable Arrival Gardens to Avatar Studio is implemented locally in game-live/playable-3d. Two-storey Studio façade, corrected stone scale, slatted shade walk, planted beds, fine-leaf trees and first-day objective reuse existing movement and character editing. Walking, Studio entry, Save & return, completion after reload and 390px layout passed in the browser; six existing unit tests and game checks passed. No public deployment or appearance acceptance. The source image remains the target, not an achieved realism claim. Start local game server on port 4210 and open /playable-3d/. Review this bounded area before further asset production. Batch 1 remains unapproved; 26 and 27 reader/publication integration remain pending.

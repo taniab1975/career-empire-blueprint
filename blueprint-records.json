@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "revision": "V2.15 / 10 September 2026",
+  "revision": "V2.16 / 10 September 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -25,10 +25,10 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.15",
+      "id": "V2.16",
       "date": "2026-09-10",
-      "label": "V2.15 / 10 September 2026",
-      "status": "Batch 1 published and independently verified; ten complete items await grouped appearance review",
+      "label": "V2.16 / 10 September 2026",
+      "status": "Arrival-to-Studio release prepared; live verification pending",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -188,19 +188,19 @@
     },
     "currentStep": {
       "id": "CE-ENV-01",
-      "title": "Review Batch 1: ten complete places",
-      "status": "10 complete appearance candidates; 0 approved",
+      "title": "Play Arrival Gardens and Avatar Studio",
+      "status": "Playable demonstration tested; publication authorised",
       "owner": "Environment integrator; Tania: appearance and placement acceptance",
-      "href": "/evidence/asset-review-20260910/index.html",
-      "actionLabel": "Review all 10 items",
+      "href": "/playable-3d/",
+      "actionLabel": "Play the updated world",
       "decisionIds": [
         "V2-D07",
         "V2-D08",
         "V2-D17"
       ],
-      "nextAction": "Review all ten complete places together. Approve Batch 1 or name exceptions by item number; each decision covers its included parts. Resolve named changes before later map/runtime integration.",
-      "doneWhen": "All ten complete items have paired overview/walking views and model evidence; Tania records the batch decision and any named exceptions. No wall or flower needs separate approval.",
-      "boundary": "Blazer remains paused. Existing campus references control appearance. No paid generation, classroom acceptance, economy changes or live game release is implied. This does not approve a finished precinct or resume wardrobe production."
+      "nextAction": "Try the arrival walk, Studio editing and saved return. Review this playable area before further whole-campus production.",
+      "doneWhen": "Exact published build passes walking, Studio save/return, reload and mobile checks; Tania reviews the playable area.",
+      "boundary": "This is not blanket Batch 1 acceptance, a wardrobe restart, or curriculum/economy change. Progress is browser-local; teacher/classroom integration remains outstanding."
     },
     "roadmap": [
       {
@@ -226,12 +226,12 @@
       {
         "id": "CE-ENV-01",
         "horizon": "Now",
-        "title": "Review the first ten complete Career World places",
+        "title": "Try the playable Arrival-to-Studio area",
         "owner": "Environment integrator; Tania: appearance and placement acceptance",
-        "status": "Batch 1 built: 10 items awaiting grouped appearance review",
-        "dependency": "Confirmed ten-item scope; layout, assembly, surroundings and checks remain distinct stages",
-        "doneWhen": "All ten complete items have paired overview/walking views and model evidence; Tania records the batch decision and any named exceptions. No wall or flower needs separate approval.",
-        "href": "/evidence/asset-review-20260910/index.html"
+        "status": "Tested demonstration; publication authorised",
+        "dependency": "Separate architecture, landscape and player-flow stages completed locally; live verification follows publication.",
+        "doneWhen": "Exact published build passes walking, Studio save/return, reload and mobile checks; Tania reviews the playable area.",
+        "href": "/playable-3d/"
       },
       {
         "id": "CE-EST-BRIDGE-01",
@@ -498,7 +498,7 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "V2.15 Batch 1 publication is verified. Batch 1 contains ten complete appearance candidates produced through separate layout, assembly, surroundings and review stages. Avatar Studio is one whole item, including its parts. All ten await one grouped review with named exceptions; no appearance, runtime or classroom acceptance is inferred. Blazer remains paused.",
+      "summary": "Current V2.16 release: playable Arrival Gardens to Avatar Studio. Tania said the local result looks much better and explicitly requested publication. The release carries the tested arrival walk, two-storey Studio, character editing and browser-local completion. It does not approve all ten Batch 1 items, complete the campus reference or certify classroom evidence. Paused experimental wardrobe choices are excluded. Existing public EST handoff is retained; end-to-end classroom integration is still outstanding. V2.15 publication is verified; V2.16 checks are underway.",
       "facts": [
         {
           "label": "WHOLE-ITEM REVIEW / PARTS INCLUDED",
@@ -1372,6 +1372,53 @@
           "deployment": "Published to the existing GitHub Pages Blueprint. No live game runtime changed.",
           "testing": "61 tests, TypeScript, focused lint, normal and guarded builds, full local reader suite and targeted live desktop/mobile checks passed. Exact 249-file live parity verified.",
           "taniaAcceptance": "Pending complete batch review."
+        },
+        {
+          "id": "CE-CHANGE-20260910-26",
+          "date": "2026-09-10",
+          "title": "Assess Batch 1 against the supplied campus vision",
+          "domain": "Visual alignment assessment",
+          "source": "Tania asks whether Batch 1 aligns with attached campus vision; CE-DISCUSSION-52b4e208-084e-4834-8be0-93aeb871b759.",
+          "owner": "Blueprint maintainer",
+          "status": "Ready for publication; live verification pending",
+          "rationale": "Visual assessment, 10 September 2026: Batch 1 shares limestone, dark roofs/frames, timber and glazing with the supplied campus vision, but does not yet achieve its architecture or landscape quality. Repeated small single-storey forms, sparse planting and isolated paved pads need refinement; lighting alone is insufficient. Treat the ten items as prototypes requiring refinement, not vision-matched finished assets. This is an assistant assessment, not Tania approval or rejection. Keep grouped review of ten whole items. Recommended sequence: architecture/proportions, landscape and connected precinct, then materials/lighting and comparison. No new modelling authorised by this assessment.",
+          "dependencies": [
+            "CE-CHANGE-20260910-25"
+          ],
+          "supersededRecord": null,
+          "designApproval": "No new approval or rejection inferred.",
+          "implementation": "Direct visual comparison of supplied vision and actual final batch renders; no models changed.",
+          "deployment": "Prepared for V2.16 publication; independent live verification pending.",
+          "testing": "Visual inspection performed; no new runtime behavior.",
+          "taniaAcceptance": "Pending.",
+          "evidence": [
+            "Supplied campus vision image codex-clipboard-92228b67-2c57-4566-b359-8f9d88e09164.png",
+            "Actual Batch 1 overview renders and final refined EST, Civic Hall, Workplace and Garden renders inspected."
+          ],
+          "nextAction": "Integrate comparison into current reader review criteria; preserve pending approval and ten-item grouping."
+        },
+        {
+          "id": "CE-CHANGE-20260910-27",
+          "date": "2026-09-10",
+          "title": "Playable Arrival to Studio vision demonstration",
+          "domain": "Visual alignment assessment",
+          "source": "Tania: do what you can; wants one bit showing the vision is possible in the playable world. CE-DISCUSSION-0231dd24-c64a-40b9-ab97-2266b5d5b696. Tania: that is looking much better. Push to live? Explicit publication authorisation, not blanket asset acceptance.",
+          "owner": "Blueprint maintainer",
+          "status": "Ready for publication; live verification pending",
+          "rationale": "Prioritise one playable connected precinct with existing movement, character editing and save; separate architecture, landscape and experience checks.",
+          "dependencies": [
+            "CE-CHANGE-20260910-26"
+          ],
+          "supersededRecord": null,
+          "designApproval": "No new approval or rejection inferred.",
+          "implementation": "Playable Arrival Gardens to Avatar Studio is implemented locally in game-live/playable-3d. Two-storey Studio façade, corrected stone scale, slatted shade walk, planted beds, fine-leaf trees and first-day objective reuse existing movement and character editing. Walking, Studio entry, Save & return, completion after reload and 390px layout passed in the browser; six existing unit tests and game checks passed. No public deployment or appearance acceptance. The source image remains the target, not an achieved realism claim. Start local game server on port 4210 and open /playable-3d/. Review this bounded area before further asset production. Batch 1 remains unapproved; 26 and 27 reader/publication integration remain pending.",
+          "deployment": "Prepared for V2.16 publication; independent live verification pending.",
+          "testing": "Game check and 6 unit tests pass. Accelerated browser keyboard walk, Studio save/return, reload persistence and mobile no-overflow pass; no page errors.",
+          "taniaAcceptance": "Pending.",
+          "evidence": [
+            "Existing game-live/playable-3d source inspected; supplied campus vision compared."
+          ],
+          "nextAction": "Tania tries the local playable area; complete reader integration and release review before any public deployment."
         }
       ],
       "sessionStart": [
@@ -4375,10 +4422,11 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20260910-25"
+        "CE-CHANGE-20260910-26",
+        "CE-CHANGE-20260910-27"
       ],
-      "scope": "V2.15: Batch 1 contains ten complete appearance candidates for one grouped review.",
-      "disclosure": "Ten confirmed places are produced for appearance review. No appearance acceptance, live map/runtime deployment, school-device or classroom acceptance is inferred. Blazer remains paused.",
+      "scope": "V2.16: publish the tested Arrival-to-Studio playable demonstration and visual assessment.",
+      "disclosure": "Publication authorised after positive local feedback. Wider campus, Batch 1 acceptance and classroom integration remain incomplete; paused wardrobe tests excluded.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -4396,6 +4444,7 @@
         "data/operations.json",
         "data/style-guide.json",
         "docs/handoff-guide.md",
+        "docs/production/arrival-playable-release-20260910.md",
         "docs/production/asset-batch-review-2026-09-10.md",
         "docs/production/avatar-campus-textured-kit-2026-09-10.md",
         "docs/production/avatar-precinct-layout-stage1-2026-09-10.md",
@@ -4476,6 +4525,48 @@
         "public/evidence/batch-01-20260910/previews/workplace-walking.png",
         "public/evidence/batch-01-20260910/production-manifest.json",
         "public/evidence/batch-01-20260910/validation.json",
+        "public/playable-3d/app.js",
+        "public/playable-3d/arrival-precinct.js",
+        "public/playable-3d/assets/avatar-a.glb",
+        "public/playable-3d/assets/avatar-b.glb",
+        "public/playable-3d/assets/career-empire-asset-kit.blend",
+        "public/playable-3d/assets/est-exterior.glb",
+        "public/playable-3d/assets/est-interior.glb",
+        "public/playable-3d/assets/player-schoolboy-20260909.glb",
+        "public/playable-3d/assets/plaza/asphalt_dash_overlay.png",
+        "public/playable-3d/assets/plaza/asphalt_day.png",
+        "public/playable-3d/assets/plaza/crosswalk_overlay.png",
+        "public/playable-3d/assets/plaza/curb_cyan_trim.png",
+        "public/playable-3d/assets/plaza/grass-ecc-campus-v1.png",
+        "public/playable-3d/assets/plaza/limestone-ecc-campus-v1.png",
+        "public/playable-3d/assets/scenery/ecc-avatar-studio-v1.glb",
+        "public/playable-3d/assets/scenery/future-careers-hub.glb",
+        "public/playable-3d/assets/scenery/modern-campus-building.glb",
+        "public/playable-3d/assets/scenery/tree-low.glb",
+        "public/playable-3d/assets/scenery/tree.glb",
+        "public/playable-3d/characters.js",
+        "public/playable-3d/est-prep-review/index.html",
+        "public/playable-3d/est-prep-review/review.css",
+        "public/playable-3d/index.html",
+        "public/playable-3d/profiles.js",
+        "public/playable-3d/scenery.js",
+        "public/playable-3d/style.css",
+        "public/playable-3d/vendor/draco/draco_decoder.js",
+        "public/playable-3d/vendor/draco/draco_decoder.wasm",
+        "public/playable-3d/vendor/draco/draco_wasm_wrapper.js",
+        "public/playable-3d/vendor/lucide/lucide.min.js",
+        "public/playable-3d/vendor/rapier/rapier.mjs",
+        "public/playable-3d/vendor/rapier/rapier_wasm3d.js",
+        "public/playable-3d/vendor/rapier/rapier_wasm3d_bg.wasm",
+        "public/playable-3d/vendor/three/build/three.core.js",
+        "public/playable-3d/vendor/three/build/three.module.js",
+        "public/playable-3d/vendor/three/examples/jsm/controls/OrbitControls.js",
+        "public/playable-3d/vendor/three/examples/jsm/environments/RoomEnvironment.js",
+        "public/playable-3d/vendor/three/examples/jsm/loaders/DRACOLoader.js",
+        "public/playable-3d/vendor/three/examples/jsm/loaders/GLTFLoader.js",
+        "public/playable-3d/vendor/three/examples/jsm/utils/BufferGeometryUtils.js",
+        "public/playable-3d/vendor/three/examples/jsm/utils/SkeletonUtils.js",
+        "public/playable-3d/world.js",
         "scripts/export-blueprint.mjs",
         "scripts/prepare-pages.mjs",
         "scripts/project-guard.mjs",
@@ -4490,11 +4581,11 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "9fb548f30625237b48ca9b738ea8c7478ebd0b93d205dbe5fca49fcde9acfc32"
+          "sha256": "b51a76bac9183481c42e5a74aa5ce899bff70b97a703f19e9a28f8a2a0f7cfc5"
         },
         {
           "path": "README.md",
-          "sha256": "d19b89ec5e27590fea4a44b2ea1c127ddeda557e5e3fa6af60bd2a0343d927dc"
+          "sha256": "caf366a900c999c7a09e21c1e5b20385b4e1ceca900f56306af6abd8bba9fef4"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -4510,7 +4601,7 @@
         },
         {
           "path": "app/current-evidence.tsx",
-          "sha256": "f645c1ab2134621eb7e8128314a0be447c0afe42e194c93829f8d411871954bd"
+          "sha256": "91fa745d5b6e3c9ca920af8bbb66032a150fc02972272339cc162f98d49cb8bd"
         },
         {
           "path": "app/globals.css",
@@ -4542,7 +4633,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "bd99eef5cbe1a5766c771275001bf985ad6419652e56437fde10ce33a6f2f08a"
+          "sha256": "790881cc8a4e143d95110cf56398376c12765f6308fb13be3fb23f678738d847"
         },
         {
           "path": "data/style-guide.json",
@@ -4550,7 +4641,11 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "d713edd7c66cd79aed79347847aaff76d320a2311f7ae1f20eda225902011b9b"
+          "sha256": "ed2b00a1f8b952fda40b907ea80350adde9a7f926576bba2f51514afec95ad5e"
+        },
+        {
+          "path": "docs/production/arrival-playable-release-20260910.md",
+          "sha256": "ed95dc0a20f98aed218e5802801324e4e92aaa749d5e38e1603701b422ee546a"
         },
         {
           "path": "docs/production/asset-batch-review-2026-09-10.md",
@@ -4566,7 +4661,7 @@
         },
         {
           "path": "docs/production/batch-01-ten-items-2026-09-10.md",
-          "sha256": "4df3d31bdd0ba2c69ddc0f29cf94d866b577c387417deb7e1e441536138db953"
+          "sha256": "ddf48752ab76cefdd78a31dc041a2b6dbba3832bdc572a3bd4fe7099c633a153"
         },
         {
           "path": "docs/production/change-workflows.md",
@@ -4574,15 +4669,15 @@
         },
         {
           "path": "docs/production/current-state.md",
-          "sha256": "fffbf7c285eacc1bf3339e0f018b393b49603a52151ade8938b487e5cb7fff28"
+          "sha256": "f50f7c48e9fdd18d558df4ac00237745317bd0a77dc316357d7c5b958e20de92"
         },
         {
           "path": "docs/production/operating-protocol.md",
-          "sha256": "8ff703de8eeac94d8c123968ffedf6c9568ad93d525ed50895e5b3ad3483fab3"
+          "sha256": "b6d002b5a6df5e9d19d2ca84c4653d37fed311bb40f3b20977fd120f70e61b0f"
         },
         {
           "path": "docs/production/production-plan.md",
-          "sha256": "bc707823bdb521f90f75e263a90d9109f30216e89427f5e59912cbcd9f21a597"
+          "sha256": "9171056653430fb286f1e9e341c05b2fd25ce5b5b3b4cb26292ad8de7d78a17a"
         },
         {
           "path": "docs/production/project-automation-setup-2026-09-10.md",
@@ -4610,11 +4705,11 @@
         },
         {
           "path": "docs/production/visual-evidence-manifest.json",
-          "sha256": "a0e10fe1849e9ba783bc0ace261e85f50ec252a571b835454dcf4f29146ea74f"
+          "sha256": "33ca4b12ddaadb8dff5c74d3f541ebaeef1f66d5af00fbe8975fb37ac36a67be"
         },
         {
           "path": "docs/production/visual-register.md",
-          "sha256": "38facf7fd6d04d20f78bbfea0e943360d119fbaf30bdd18a918a9f564191840e"
+          "sha256": "4fd462a4de634b54a9a92177213896cfe45e46ace45b9ed46a897f3addd0e219"
         },
         {
           "path": "package.json",
@@ -4871,6 +4966,174 @@
         {
           "path": "public/evidence/batch-01-20260910/validation.json",
           "sha256": "b4f6e97a72624ca48f72712ca92056e6389db0da53f7167912349d248531f2f7"
+        },
+        {
+          "path": "public/playable-3d/app.js",
+          "sha256": "df4ced2e46aaebf3f2b1b9416f652be745b5927d0c371ebfe192d85d268da46c"
+        },
+        {
+          "path": "public/playable-3d/arrival-precinct.js",
+          "sha256": "837fafd444ccb3bba0e94b1e1ede190f8331fa15f722e7d920c2854fed88e0f6"
+        },
+        {
+          "path": "public/playable-3d/assets/avatar-a.glb",
+          "sha256": "082b6a59e34190c2eaf7a6247a8aa2b580b47a0de59b4de8094c54318c464569"
+        },
+        {
+          "path": "public/playable-3d/assets/avatar-b.glb",
+          "sha256": "bb497602ad6283f441477f3697d81d8e06fe3bd43e6f53d5898e0fa9260cf9f1"
+        },
+        {
+          "path": "public/playable-3d/assets/career-empire-asset-kit.blend",
+          "sha256": "f61582410805031c1788b4e479e29b2ddfa979815c3b377d0c949415fe277a52"
+        },
+        {
+          "path": "public/playable-3d/assets/est-exterior.glb",
+          "sha256": "57d8d0d877ca75b192b2e3e71d0e9aca97e308fc789ebbe5c8061f7021008134"
+        },
+        {
+          "path": "public/playable-3d/assets/est-interior.glb",
+          "sha256": "856893d1166812b8102eb406ee4b6665c71270da7b148619e8d65fe80e7eddc7"
+        },
+        {
+          "path": "public/playable-3d/assets/player-schoolboy-20260909.glb",
+          "sha256": "02ea0f8485d4e263c27b11b731c77006c5b3e73212b33c2a510ea500e9861991"
+        },
+        {
+          "path": "public/playable-3d/assets/plaza/asphalt_dash_overlay.png",
+          "sha256": "cb9e41ad3d7533deebb12ac758dc4e53cd462589787a6fb2a776928f5bd4a395"
+        },
+        {
+          "path": "public/playable-3d/assets/plaza/asphalt_day.png",
+          "sha256": "3a904d5ed377ccfdf483b6c62e9564113a73fc18aecb15b694f182cccdf87787"
+        },
+        {
+          "path": "public/playable-3d/assets/plaza/crosswalk_overlay.png",
+          "sha256": "43fc6f244777cdf48cd8ad9502bf2a616cacbf2d148f3521958cf4c3b12ecd33"
+        },
+        {
+          "path": "public/playable-3d/assets/plaza/curb_cyan_trim.png",
+          "sha256": "ed5719bda5031d0985d5815e56f668e471e14b65b8bba150657ad59d3a9a45f3"
+        },
+        {
+          "path": "public/playable-3d/assets/plaza/grass-ecc-campus-v1.png",
+          "sha256": "a2cc32568c2095977b6685990983d216cd19bbe19fa2762c035060be7ed1f8d7"
+        },
+        {
+          "path": "public/playable-3d/assets/plaza/limestone-ecc-campus-v1.png",
+          "sha256": "73e9c90b16d616068a5bbc8394f3fa6828b129275ac6f5e7fe69ce7a2b524508"
+        },
+        {
+          "path": "public/playable-3d/assets/scenery/ecc-avatar-studio-v1.glb",
+          "sha256": "1a6e8803e5949919396adf13b82c301af62184aaddd54076e83dbe29d273c631"
+        },
+        {
+          "path": "public/playable-3d/assets/scenery/future-careers-hub.glb",
+          "sha256": "70768b9b929f9bac31d62f246153345b4cf8fb502acac8de17ee7947d2e001de"
+        },
+        {
+          "path": "public/playable-3d/assets/scenery/modern-campus-building.glb",
+          "sha256": "aaf68ad86f0218444c3e86c625308708817718afeb773d85bcf7622bfb9354a7"
+        },
+        {
+          "path": "public/playable-3d/assets/scenery/tree-low.glb",
+          "sha256": "574e50d6153450220a792c0ef2c257570dc3ea415d3bc83d3a9e1c8de0da0e8c"
+        },
+        {
+          "path": "public/playable-3d/assets/scenery/tree.glb",
+          "sha256": "3a07dddacabcd4a4ea3fa6bedf69c704a44fe3eb9cb8e59a289cbb6405718a47"
+        },
+        {
+          "path": "public/playable-3d/characters.js",
+          "sha256": "d90795d81c456e9f41e2cf7762cd8d0b522f4adf73f1485552eeb08f00afd687"
+        },
+        {
+          "path": "public/playable-3d/est-prep-review/index.html",
+          "sha256": "1564a5173e32bf0d5aec217e7dcf58389cc80fca3a31ebb8b28baa8f099ffd50"
+        },
+        {
+          "path": "public/playable-3d/est-prep-review/review.css",
+          "sha256": "419fc289703e081914423a62c90607fda24e8a779b4712ccf468754e10edc24f"
+        },
+        {
+          "path": "public/playable-3d/index.html",
+          "sha256": "877ae58dbd7b8bf41b91b44e394ce875b37302e50c0a536395e228a17f3df21d"
+        },
+        {
+          "path": "public/playable-3d/profiles.js",
+          "sha256": "1eb513e56685968c8fe0422eba1a04a1c01f4592129f3e12ece4c610c570f2a1"
+        },
+        {
+          "path": "public/playable-3d/scenery.js",
+          "sha256": "7fa832316fc6b22b7335581759e92c9ccebb1a01446158acfd360cbc221b9a2e"
+        },
+        {
+          "path": "public/playable-3d/style.css",
+          "sha256": "40d7eeb2ff35f9da8e235f9b68601d8656bf3985996a944949251a2e2fa240f1"
+        },
+        {
+          "path": "public/playable-3d/vendor/draco/draco_decoder.js",
+          "sha256": "5656ccaf1f50300e3c318e15c3313430483f3866cd9c25f22fbf9d6f229e6728"
+        },
+        {
+          "path": "public/playable-3d/vendor/draco/draco_decoder.wasm",
+          "sha256": "2516a4e43526d71787bf2f678f951329f7f858f8f15f42d4bc9e370b31a0da3a"
+        },
+        {
+          "path": "public/playable-3d/vendor/draco/draco_wasm_wrapper.js",
+          "sha256": "e8049906ef3f8f75d3456c22a3f31bfdfe5b5b5bd09ccdec613b9e9a49d554d8"
+        },
+        {
+          "path": "public/playable-3d/vendor/lucide/lucide.min.js",
+          "sha256": "3411692820cb8d47543f69496aa25fd603a358f4498046f41c508a5a3342210e"
+        },
+        {
+          "path": "public/playable-3d/vendor/rapier/rapier.mjs",
+          "sha256": "1ade6875c663c1398f490d4fa67837386b2d7e0aad45fe54e9b7af52b8198a49"
+        },
+        {
+          "path": "public/playable-3d/vendor/rapier/rapier_wasm3d.js",
+          "sha256": "6e15d8a85f96c3d80e9eb0fd5d9e78d15e3c3a70a3088a39a685117d5ffb1730"
+        },
+        {
+          "path": "public/playable-3d/vendor/rapier/rapier_wasm3d_bg.wasm",
+          "sha256": "c8cf07035996629dbf6156c82fec836ddc1c6cff78cf6afde726c30585da2bfd"
+        },
+        {
+          "path": "public/playable-3d/vendor/three/build/three.core.js",
+          "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+        },
+        {
+          "path": "public/playable-3d/vendor/three/build/three.module.js",
+          "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+        },
+        {
+          "path": "public/playable-3d/vendor/three/examples/jsm/controls/OrbitControls.js",
+          "sha256": "b97879c748170baadeb3fb84cea1ffdf4674e283dc06042f34e2acb95a76042c"
+        },
+        {
+          "path": "public/playable-3d/vendor/three/examples/jsm/environments/RoomEnvironment.js",
+          "sha256": "c20f0b4677f6128a138d7152b85cbef9091f4f45cdfa05adca04d40c1697c7ae"
+        },
+        {
+          "path": "public/playable-3d/vendor/three/examples/jsm/loaders/DRACOLoader.js",
+          "sha256": "7a4a51c694a6c9f983be452cc82b365e69ce08424654e3f245b4115e6efef258"
+        },
+        {
+          "path": "public/playable-3d/vendor/three/examples/jsm/loaders/GLTFLoader.js",
+          "sha256": "67ac5551fdafa6e349bd80c8f8e5e39c136d6b2fb1ad647db9abb21dc86f9e4a"
+        },
+        {
+          "path": "public/playable-3d/vendor/three/examples/jsm/utils/BufferGeometryUtils.js",
+          "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
+        },
+        {
+          "path": "public/playable-3d/vendor/three/examples/jsm/utils/SkeletonUtils.js",
+          "sha256": "0761b1e003917b215d25dd81439d854b36034b5a57ce84c2cfe3b02428d7b253"
+        },
+        {
+          "path": "public/playable-3d/world.js",
+          "sha256": "6587b87f51b240a641126975329c2e9e93e7d07bb5ff240778518bb6dcaae1d5"
         },
         {
           "path": "scripts/export-blueprint.mjs",
@@ -8058,6 +8321,804 @@
             "docs/current-workspace-status.md": "100644:aecb1c4ace6cc03aa8b627104d13bd279c3da5fe"
           }
         }
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-26",
+        "title": "Assess Batch 1 against the supplied campus vision",
+        "types": [
+          "governance",
+          "visual",
+          "building"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Record supported visual gaps without inferring acceptance or changing assets.",
+        "before": "Ten published candidates await review.",
+        "after": "Visual assessment, 10 September 2026: Batch 1 shares limestone, dark roofs/frames, timber and glazing with the supplied campus vision, but does not yet achieve its architecture or landscape quality. Repeated small single-storey forms, sparse planting and isolated paved pads need refinement; lighting alone is insufficient. Treat the ten items as prototypes requiring refinement, not vision-matched finished assets. This is an assistant assessment, not Tania approval or rejection. Keep grouped review of ten whole items. Recommended sequence: architecture/proportions, landscape and connected precinct, then materials/lighting and comparison. No new modelling authorised by this assessment.",
+        "source": "Tania asks whether Batch 1 aligns with attached campus vision; CE-DISCUSSION-52b4e208-084e-4834-8be0-93aeb871b759.",
+        "owner": "Blueprint maintainer",
+        "nextAction": "Propagate assessment to current reader claims and review criteria before another production/release pass.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Current action and summary point to playable Arrival-to-Studio rather than asking for Batch 1 approval.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current action and summary point to playable Arrival-to-Studio rather than asking for Batch 1 approval.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "CE-ENV-01 now points to the playable demonstration; later EST integration remains separately outstanding.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "CE-ENV-01 now points to the playable demonstration; later EST integration remains separately outstanding.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Material records 26 and 27 retain the visual-gap assessment, local production evidence and explicit publication request.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Material records 26 and 27 retain the visual-gap assessment, local production evidence and explicit publication request.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "AGENTS, README and operating protocol identify the bounded release; earlier local-only notes remain historical.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "AGENTS, README and operating protocol identify the bounded release; earlier local-only notes remain historical.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Record generator carries the current action, release limits and both integration records into public exports.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Record generator carries the current action, release limits and both integration records into public exports.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Exact manifest parity and live player/reader checks follow push.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish the reviewed source build, compare every live file hash, and repeat live player and reader checks."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "All 17 protected V2 decision records retain exact data/blueprint.ts bytes; publication request does not approve the full asset batch.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All 17 protected V2 decision records retain exact data/blueprint.ts bytes; publication request does not approve the full asset batch.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "Original reference/source library in data/blueprint.ts unchanged; actual screenshot provenance added only in visual manifest.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Original reference/source library in data/blueprint.ts unchanged; actual screenshot provenance added only in visual manifest.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "The exact packaged runtime is checked for keyboard walking, Studio saving, reload and mobile layout; public EST adaptation is explicit.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The exact packaged runtime is checked for keyboard walking, Studio saving, reload and mobile layout; public EST adaptation is explicit.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Existing canonical checkout and private mirror are retained; handoff points to the existing public playable route.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing canonical checkout and private mirror are retained; handoff points to the existing public playable route.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Actual Studio screenshot and playable link precede retained batch review evidence; original campus references remain intact.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual Studio screenshot and playable link precede retained batch review evidence; original campus references remain intact.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Actual arrival and Studio screenshots have source hashes in the visual manifest; no concept art is represented as gameplay.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual arrival and Studio screenshots have source hashes in the visual manifest; no concept art is represented as gameplay.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Visual register records the playable release; original 10-item register and approval history remain unchanged.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Visual register records the playable release; original 10-item register and approval history remain unchanged.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "The playable Studio and connected landscape are shown in current evidence; no other Batch 1 item is accepted.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The playable Studio and connected landscape are shown in current evidence; no other Batch 1 item is accepted.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "updated",
+            "action": "Public options retain School student and Body A/B; paused jacket and experimental choices are excluded. Original avatar reference approvals unchanged.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Public options retain School student and Body A/B; paused jacket and experimental choices are excluded. Original avatar reference approvals unchanged.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Current evidence points to the connected playable area and explicitly retains unfinished-campus limits.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current evidence points to the connected playable area and explicitly retains unfinished-campus limits.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "flow",
+            "disposition": "checked-unchanged",
+            "action": "Existing curriculum experience records are unchanged; the bounded arrival and character-save objective is documented in the release note.",
+            "records": [
+              "CE-CHANGE-20260910-26",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing curriculum experience records are unchanged; the bounded arrival and character-save objective is documented in the release note.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-27",
+        "title": "Playable Arrival to Studio vision demonstration",
+        "types": [
+          "visual",
+          "building",
+          "implementation",
+          "activity",
+          "release"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Prioritise one playable connected precinct with existing movement, character editing and save; separate architecture, landscape and experience checks.",
+        "before": "Working basic world and Studio; vision gap.",
+        "after": "Playable Arrival Gardens to Avatar Studio is implemented locally in game-live/playable-3d. Two-storey Studio façade, corrected stone scale, slatted shade walk, planted beds, fine-leaf trees and first-day objective reuse existing movement and character editing. Walking, Studio entry, Save & return, completion after reload and 390px layout passed in the browser; six existing unit tests and game checks passed. No public deployment or appearance acceptance. The source image remains the target, not an achieved realism claim. Start local game server on port 4210 and open /playable-3d/. Review this bounded area before further asset production. Batch 1 remains unapproved; 26 and 27 reader/publication integration remain pending.",
+        "source": "Tania: do what you can; wants one bit showing the vision is possible in the playable world. CE-DISCUSSION-0231dd24-c64a-40b9-ab97-2266b5d5b696. Tania explicitly requested Push to live after positive local feedback. Tania explicitly requested Push to live after positive local feedback.",
+        "owner": "Blueprint maintainer",
+        "nextAction": "Review local playable demonstration and complete per-surface integration before publication.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Current action and summary point to playable Arrival-to-Studio rather than asking for Batch 1 approval.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current action and summary point to playable Arrival-to-Studio rather than asking for Batch 1 approval.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "CE-ENV-01 now points to the playable demonstration; later EST integration remains separately outstanding.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "CE-ENV-01 now points to the playable demonstration; later EST integration remains separately outstanding.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Material records 26 and 27 retain the visual-gap assessment, local production evidence and explicit publication request.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Material records 26 and 27 retain the visual-gap assessment, local production evidence and explicit publication request.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "AGENTS, README and operating protocol identify the bounded release; earlier local-only notes remain historical.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "AGENTS, README and operating protocol identify the bounded release; earlier local-only notes remain historical.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Record generator carries the current action, release limits and both integration records into public exports.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Record generator carries the current action, release limits and both integration records into public exports.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Exact manifest parity and live player/reader checks follow push.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish the reviewed source build, compare every live file hash, and repeat live player and reader checks."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Actual Studio screenshot and playable link precede retained batch review evidence; original campus references remain intact.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual Studio screenshot and playable link precede retained batch review evidence; original campus references remain intact.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Actual arrival and Studio screenshots have source hashes in the visual manifest; no concept art is represented as gameplay.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual arrival and Studio screenshots have source hashes in the visual manifest; no concept art is represented as gameplay.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Visual register records the playable release; original 10-item register and approval history remain unchanged.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Visual register records the playable release; original 10-item register and approval history remain unchanged.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "The playable Studio and connected landscape are shown in current evidence; no other Batch 1 item is accepted.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The playable Studio and connected landscape are shown in current evidence; no other Batch 1 item is accepted.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "updated",
+            "action": "Public options retain School student and Body A/B; paused jacket and experimental choices are excluded. Original avatar reference approvals unchanged.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Public options retain School student and Body A/B; paused jacket and experimental choices are excluded. Original avatar reference approvals unchanged.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Current evidence points to the connected playable area and explicitly retains unfinished-campus limits.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current evidence points to the connected playable area and explicitly retains unfinished-campus limits.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "All 17 protected V2 decision records retain exact data/blueprint.ts bytes; publication request does not approve the full asset batch.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All 17 protected V2 decision records retain exact data/blueprint.ts bytes; publication request does not approve the full asset batch.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "The exact packaged runtime is checked for keyboard walking, Studio saving, reload and mobile layout; public EST adaptation is explicit.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The exact packaged runtime is checked for keyboard walking, Studio saving, reload and mobile layout; public EST adaptation is explicit.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "flow",
+            "disposition": "checked-unchanged",
+            "action": "Existing curriculum experience records are unchanged; the bounded arrival and character-save objective is documented in the release note.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing curriculum experience records are unchanged; the bounded arrival and character-save objective is documented in the release note.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "Teacher workflow and dashboard code remain unchanged; release note explicitly discloses no teacher evidence integration.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Teacher workflow and dashboard code remain unchanged; release note explicitly discloses no teacher evidence integration.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Existing canonical checkout and private mirror are retained; handoff points to the existing public playable route.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing canonical checkout and private mirror are retained; handoff points to the existing public playable route.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "journey",
+            "disposition": "checked-unchanged",
+            "action": "No approved course journey is rewritten: this release adds browser-local onboarding feedback only, documented in the release note.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No approved course journey is rewritten: this release adds browser-local onboarding feedback only, documented in the release note.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "data/curriculum.json and data/blueprint.ts remain byte-identical to published source; no syllabus or learning mapping changes.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "data/curriculum.json and data/blueprint.ts remain byte-identical to published source; no syllabus or learning mapping changes.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "No assessment criteria or evidence routing changed; completion is browser-local and not teacher-visible assessment.",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.",
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No assessment criteria or evidence routing changed; completion is browser-local and not teacher-visible assessment.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance."
+          },
+          {
+            "surface": "sources",
+            "action": "Original reference/source library in data/blueprint.ts unchanged; actual screenshot provenance added only in visual manifest.",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "owner": "Blueprint release maintainer",
+            "records": [
+              "CE-CHANGE-20260910-27",
+              "CE-ENV-01"
+            ],
+            "evidence": [
+              "docs/production/arrival-playable-release-20260910.md"
+            ],
+            "nextAction": "Maintain bounded scope and preserve pending appearance and classroom acceptance.",
+            "disposition": "checked-unchanged",
+            "verification": {
+              "result": "passed",
+              "method": "Original reference/source library in data/blueprint.ts unchanged; actual screenshot provenance added only in visual manifest.",
+              "date": "2026-09-10"
+            }
+          }
+        ]
       }
     ]
   },
