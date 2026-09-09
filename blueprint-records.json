@@ -3102,6 +3102,22 @@
   ],
   "buildRecords": [
     {
+      "id": "BUILD-BP-GITHUB-20260909",
+      "title": "V2.9 GitHub publication and linked tracking",
+      "status": "Published on GitHub Pages; legacy redirect remains blocked",
+      "owner": "Blueprint maintainer; Tania retains design and classroom acceptance",
+      "date": "2026-09-09",
+      "decision": "Tania authorised GitHub hosting and accepted single-Blueprint authority with linked execution tickets; CE-CHANGE-20260909-16",
+      "done": "Published the same canonical Blueprint through a public-only static delivery build, preserved audited source in the private recovery branch, reconciled nine open issues and added preserving authority notices to ten historical planning files.",
+      "evidence": [
+        "/evidence/github-pages-20260909/first-live-desktop.png",
+        "/evidence/github-pages-20260909/first-live-mobile.png"
+      ],
+      "checks": "30/30 data/governance/path tests, TypeScript, focused lint, original and static builds, full local/static and live desktop/mobile/keyboard/navigation/privacy checks passed. First live records matched source byte-for-byte; the generated manifest identifies each later exact source and record hash.",
+      "limits": "Supersedes the pre-migration publication blocker in BUILD-BP-AUDIT-20260909 for GitHub only. Old Sites redirect still requires owning-account access. Projects boards remain uninspected; teacher matrix/classroom loop and curriculum/learning choices remain open. No new game or asset production.",
+      "acceptance": "Migration and linked tracking authorised by Tania; no final design, game, asset, educational or classroom acceptance inferred. Read /production/github-migration-2026-09-09.md for the successor and release boundaries."
+    },
+    {
       "id": "BUILD-BP-AUDIT-20260909",
       "title": "Production-strategy audit and continuity system",
       "status": "Implemented in canonical source; publication blocked",
