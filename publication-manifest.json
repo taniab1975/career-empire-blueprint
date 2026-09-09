@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "9bab0ad06c478bcbc57258bf2ac6ef505db051bc",
-  "generatedAt": "2026-09-09T20:30:45.156Z",
+  "sourceCommit": "e87253f9e4bcde9a4a53a7737cd0eb32c0f54704",
+  "generatedAt": "2026-09-09T20:33:37.164Z",
   "revision": "V2.14 / 10 September 2026",
-  "recordSha256": "27fb162aeb920a016dbfeb3eed6c2ac5a6cfe4006fca8b15d45c8837e58deccf",
+  "recordSha256": "bf304332cb329843dbdd7b3b6ac7f85b4117e53668a45fc6e44bf7fa5088822b",
   "files": [
     {
       "path": "assets/index-CjQKDqwD.css",
@@ -14,7 +14,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "27fb162aeb920a016dbfeb3eed6c2ac5a6cfe4006fca8b15d45c8837e58deccf"
+      "sha256": "bf304332cb329843dbdd7b3b6ac7f85b4117e53668a45fc6e44bf7fa5088822b"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -570,7 +570,7 @@
     },
     {
       "path": "production/asset-batch-review-2026-09-10.md",
-      "sha256": "cbced465f0ffaf77613fb0ac03e9d97ed14f856c84879723e1c767efbb9ee5e8"
+      "sha256": "17d96f06f9b8afde8306c272f3bfad5f9ff137d22b9ca3c8a1b8b777a242e418"
     },
     {
       "path": "production/astra-research.md",
@@ -590,7 +590,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "b3afec4744d392e11cca149010d0569b85c42d82b473a05dbe0080dfe4e2877e"
+      "sha256": "d4ea50bb4427584f283b245d9e707ddf540ed55a4feabc4c0f734700cfef6e94"
     },
     {
       "path": "production/change-workflows.md",
@@ -598,11 +598,11 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "659760720cc1c188e48f36396b0c6b99244c5bb6e182ae3c61c230e4e6c4d8e0"
+      "sha256": "bc7f8b76a6cdc7e3c04d4a2645e4cd0c0f883a8d037e13dfc30b4a6e37de210e"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "b0b86b4f86fe730b5609d29dd2bc8fdaa3bf501b5feb28d1733b26aa8e4d6f86"
+      "sha256": "794dfa937912659fd4a3a093cd951b3873764c106a5fc630f561ceb89b70b715"
     },
     {
       "path": "production/github-migration-2026-09-09.md",
@@ -622,7 +622,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "91ea481a1fc3142572f048577f373f89950f0f44ff248b54ae2a06c7c6865aa6"
+      "sha256": "84ae21df03ead3d524aaa0852c8fe60a7eb2481957bc9c724e5958af78788539"
     },
     {
       "path": "production/operating-protocol.md",
@@ -630,7 +630,7 @@
     },
     {
       "path": "production/production-plan.md",
-      "sha256": "6e5d3b46001f54149ffd78f9c6088adcb1fbb81068475b17a2dc9a28a22f9d89"
+      "sha256": "9b7fa9b7a5ad90872ea4a651b9471d8012f647fbf6c59a6bacece27fe9e0e751"
     },
     {
       "path": "production/project-automation-setup-2026-09-10.md",

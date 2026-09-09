@@ -1857,7 +1857,7 @@ Next: Maintain this verified scope; kit appearance acceptance remains pending.
 
 ## CE-CHANGE-20260910-24 — Review complete asset items with their component parts included
 
-Integration: **ready-for-publication**. Types: governance, visual, building. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+Integration: **complete**. Types: governance, visual, building. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
 
 **Objective:** Approve an assembled building/asset/scene as one item. Track components underneath, covered by overall approval unless explicitly excepted. Replace the unpublished ten-loose-parts proposal. Material visual changes return for review; routine equivalent technical changes need verification rather than repeated aesthetic approval.
 
@@ -1949,7 +1949,7 @@ Verification: passed / Generated canonical/public register snapshots, records an
 
 Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -1959,11 +1959,11 @@ Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATC
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Registry and reader review pending.
+Verification: passed / Content source 9bab0ad06c478bcbc57258bf2ac6ef505db051bc / public 408a1198408a827dbb9dfeb08c75f01728830235: all 194 live file hashes exact; whole-item board, optional 14 previews, GLB viewer and affected reader routes passed at 1280/390px. First browser attempt preceded propagation; repeat passed after manifest parity.
 
 - [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
 
-Next: Publish reviewed generated output; compare every live file and inspect grouped review plus affected desktop/mobile reader pages before marking complete.
+Next: Verify metadata close-out separately; retain incomplete Studio and no approval state.
 
 ### Look and feel — updated
 

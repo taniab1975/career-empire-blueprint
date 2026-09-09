@@ -421,8 +421,8 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **date:** 2026-09-10
 - **domain:** Asset acceptance and review workflow
 - **source:** Tania: can we approve assets in groups/batches, maybe10 at a time; then clarified "batches should be items eg building and its component parts" and "i dont want to approve every wall or flower". Her earlier no cancelled the assistant inference of kit approval and Studio construction. Discussions CE-DISCUSSION-fc0f166e-7c88-4b08-864f-9f363fb801e5, CE-DISCUSSION-c90ac140-6725-4f06-9640-e00b80f612b9 and CE-DISCUSSION-9a49e452-c4f0-4d30-a147-145dce00f89c.
-- **owner:** Blueprint maintainer; Tania approves named asset versions
-- **status:** Review register underway; no asset approvals recorded
+- **owner:** Blueprint maintainer; Tania approves whole items with their parts included
+- **status:** Whole-item register published; no asset approvals recorded
 - **rationale:** Approve an assembled building/asset/scene as one item. Track components underneath, covered by overall approval unless explicitly excepted. Replace the unpublished ten-loose-parts proposal. Material visual changes return for review; routine equivalent technical changes need verification rather than repeated aesthetic approval.
 - **dependencies:** CE-CHANGE-20260910-23
 - **evidence:** /production/asset-batch-review-2026-09-10.md
@@ -430,8 +430,8 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **supersededRecord:** None
 - **designApproval:** Approval workflow requested; no current item, individual component or Studio production approval inferred.
 - **implementation:** One Avatar Studio package with14 unchanged nested kit parts; existing parts are supporting detail, not14 approval tasks. Full assembly is missing and labelled incomplete.
-- **deployment:** Local work underway; last verified public release V2.13.
-- **testing:** Pending registry/hash, preview and reader checks.
+- **deployment:** V2.14 content publication verified at 408a1198408a827dbb9dfeb08c75f01728830235; final close-out manifest identifies subsequent metadata.
+- **testing:** 60 tests, TypeScript, focused lint, normal and guarded Pages builds passed. Full local reader suite and targeted live desktop/mobile review passed. All 194 live files matched.
 - **taniaAcceptance:** No item accepted. Future whole-item acceptance includes its listed unflagged parts; no separate wall/flower approvals.
 
 ## Retained Atlas principles

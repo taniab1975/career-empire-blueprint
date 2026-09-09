@@ -28,7 +28,7 @@
       "id": "V2.14",
       "date": "2026-09-10",
       "label": "V2.14 / 10 September 2026",
-      "status": "Whole-item asset review register prepared; publication checks underway",
+      "status": "Whole-item review register published and independently verified; no asset approvals recorded",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -686,15 +686,15 @@
       "publication": {
         "sourceRevision": "V2.14 / whole-item review with component parts included",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.13 / GitHub Pages",
+        "observedLiveRevision": "V2.14 / GitHub Pages",
         "checkedAt": "2026-09-10",
-        "observedLiveSha256": "88d06b19e3666067208d99cb74c948140719c34b8c2b4b223cedc4fa9b10a880",
+        "observedLiveSha256": "27fb162aeb920a016dbfeb3eed6c2ac5a6cfe4006fca8b15d45c8837e58deccf",
         "accessCheck": "GitHub delivery repository PUBLIC and Pages built successfully; source mirror PRIVATE. Existing Sites project still returns HTTP 404 NOT_FOUND / project_not_found.",
-        "validationReceipt": "/production/avatar-campus-textured-kit-2026-09-10.md",
-        "status": "V2.14 batch workflow publication pending; V2.13 last independently verified release",
+        "validationReceipt": "/production/asset-batch-review-2026-09-10.md",
+        "status": "V2.14 whole-item workflow independently verified live",
         "savedVersionId": null,
-        "deploymentId": "GitHub Pages / 3316eb9d56e5491b2e4f32b4f1c6d6587926119b / verified 10 September 2026",
-        "parity": "Exact manifest and all 174 public file hashes verified; full live reader suite, targeted kit placements and desktop/mobile 3D workbench checked.",
+        "deploymentId": "GitHub Pages / 408a1198408a827dbb9dfeb08c75f01728830235 / verified 10 September 2026",
+        "parity": "All 194 published files matched. Grouped review and affected reader pages passed desktop/mobile checks; complete local reader suite passed.",
         "resume": "Use the private canonical source and existing recovery branch; publish only validated generated output to the existing Pages repository. Read the current manifest/receipt, preserve newer history, and log material work. Legacy redirect waits for the owning Sites account.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
@@ -704,8 +704,8 @@
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
         },
-        "observedPublicCommit": "3316eb9d56e5491b2e4f32b4f1c6d6587926119b",
-        "hashScope": "First verified V2.13 kit release from 007ebb2c69caa3230c707b0924e077e21ee2a9eb; final metadata close-out has its own live manifest.",
+        "observedPublicCommit": "408a1198408a827dbb9dfeb08c75f01728830235",
+        "hashScope": "First verified V2.14 content publication from 9bab0ad06c478bcbc57258bf2ac6ef505db051bc; final metadata close-out has its own manifest.",
         "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
@@ -1332,8 +1332,8 @@
           "title": "Review complete asset items with their component parts included",
           "domain": "Asset acceptance and review workflow",
           "source": "Tania: can we approve assets in groups/batches, maybe10 at a time; then clarified \"batches should be items eg building and its component parts\" and \"i dont want to approve every wall or flower\". Her earlier no cancelled the assistant inference of kit approval and Studio construction. Discussions CE-DISCUSSION-fc0f166e-7c88-4b08-864f-9f363fb801e5, CE-DISCUSSION-c90ac140-6725-4f06-9640-e00b80f612b9 and CE-DISCUSSION-9a49e452-c4f0-4d30-a147-145dce00f89c.",
-          "owner": "Blueprint maintainer; Tania approves named asset versions",
-          "status": "Review register underway; no asset approvals recorded",
+          "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+          "status": "Whole-item register published; no asset approvals recorded",
           "rationale": "Approve an assembled building/asset/scene as one item. Track components underneath, covered by overall approval unless explicitly excepted. Replace the unpublished ten-loose-parts proposal. Material visual changes return for review; routine equivalent technical changes need verification rather than repeated aesthetic approval.",
           "dependencies": [
             "CE-CHANGE-20260910-23"
@@ -1345,8 +1345,8 @@
           "supersededRecord": null,
           "designApproval": "Approval workflow requested; no current item, individual component or Studio production approval inferred.",
           "implementation": "One Avatar Studio package with14 unchanged nested kit parts; existing parts are supporting detail, not14 approval tasks. Full assembly is missing and labelled incomplete.",
-          "deployment": "Local work underway; last verified public release V2.13.",
-          "testing": "Pending registry/hash, preview and reader checks.",
+          "deployment": "V2.14 content publication verified at 408a1198408a827dbb9dfeb08c75f01728830235; final close-out manifest identifies subsequent metadata.",
+          "testing": "60 tests, TypeScript, focused lint, normal and guarded Pages builds passed. Full local reader suite and targeted live desktop/mobile review passed. All 194 live files matched.",
           "taniaAcceptance": "No item accepted. Future whole-item acceptance includes its listed unflagged parts; no separate wall/flower approvals."
         }
       ],
@@ -4411,11 +4411,11 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "25f4c5e5ef93650aff9edd897968fe55723a161ec6e2709d8267faa798d5a523"
+          "sha256": "6bf7b65708eb140d0c62c5df8e54108832ef9e8ac34bba57a0e5759d80d8c000"
         },
         {
           "path": "README.md",
-          "sha256": "6708089257225d572987838182bc4660a7643a7987b470a5f8414b9aae37566e"
+          "sha256": "2a208eea31e129d086dbc8c5b4c8ba9e9643056cd4b09ed53ab5be793e4c083a"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -4463,7 +4463,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "2fe02c94c935b95e2205181b45ab8559fd63165e8aefba3130e52416cdc6fb82"
+          "sha256": "6a75de32876a091dbca894095240a9a94197e4b1b00a7605e35e8a60a4f28d59"
         },
         {
           "path": "data/style-guide.json",
@@ -4475,7 +4475,7 @@
         },
         {
           "path": "docs/production/asset-batch-review-2026-09-10.md",
-          "sha256": "be99797fe873c85b4d3dc8514566e74a50884a2ecb8ff893c128a5c5b54eddb6"
+          "sha256": "896d489d67bbfe110878f2f70306d3a78e9c73c2be05a2dc269eceeabbad1405"
         },
         {
           "path": "docs/production/avatar-campus-textured-kit-2026-09-10.md",
@@ -4491,7 +4491,7 @@
         },
         {
           "path": "docs/production/current-state.md",
-          "sha256": "b0b86b4f86fe730b5609d29dd2bc8fdaa3bf501b5feb28d1733b26aa8e4d6f86"
+          "sha256": "794dfa937912659fd4a3a093cd951b3873764c106a5fc630f561ceb89b70b715"
         },
         {
           "path": "docs/production/operating-protocol.md",
@@ -4499,7 +4499,7 @@
         },
         {
           "path": "docs/production/production-plan.md",
-          "sha256": "6e5d3b46001f54149ffd78f9c6088adcb1fbb81068475b17a2dc9a28a22f9d89"
+          "sha256": "9b7fa9b7a5ad90872ea4a651b9471d8012f647fbf6c59a6bacece27fe9e0e751"
         },
         {
           "path": "docs/production/project-automation-setup-2026-09-10.md",
@@ -6984,7 +6984,7 @@
           "visual",
           "building"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Approve an assembled building/asset/scene as one item. Track components underneath, covered by overall approval unless explicitly excepted. Replace the unpublished ten-loose-parts proposal. Material visual changes return for review; routine equivalent technical changes need verification rather than repeated aesthetic approval.",
         "before": "Kit-level evidence existed; the initial unpublished proposal split loose components into10+4 and incorrectly suggested separate approval tasks.",
         "after": "Whole-item register: one Avatar Studio building package with14 nested parts. No separate component approvals; item incomplete until fully assembled. Explicit item decisions cover unflagged parts.",
@@ -7104,7 +7104,7 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
+            "disposition": "updated",
             "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "records": [
               "CE-CHANGE-20260910-24",
@@ -7118,11 +7118,11 @@
               "/production/asset-batch-review-2026-09-10.md"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Registry and reader review pending.",
-              "date": "2026-09-10"
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Content source 9bab0ad06c478bcbc57258bf2ac6ef505db051bc / public 408a1198408a827dbb9dfeb08c75f01728830235: all 194 live file hashes exact; whole-item board, optional 14 previews, GLB viewer and affected reader routes passed at 1280/390px. First browser attempt preceded propagation; repeat passed after manifest parity."
             },
-            "nextAction": "Publish reviewed generated output; compare every live file and inspect grouped review plus affected desktop/mobile reader pages before marking complete."
+            "nextAction": "Verify metadata close-out separately; retain incomplete Studio and no approval state."
           },
           {
             "surface": "visuals",

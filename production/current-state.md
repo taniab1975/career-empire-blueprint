@@ -1,6 +1,6 @@
 # Start Here — Career Empire, 10 September 2026
 
-**Current checkpoint:** [Whole-item asset review](asset-batch-review-2026-09-10.md): approve the complete building/asset/scene with its parts included, not every wall or flower. The current Avatar Studio item has14 supporting parts but no full assembly; no overall approval or Studio construction has occurred. Any later material appearance change returns for review. V2.14 publication checks are underway; V2.13 remains last verified.
+**Current checkpoint:** [Whole-item asset review](asset-batch-review-2026-09-10.md): approve the complete building/asset/scene with its parts included, not every wall or flower. The current Avatar Studio item has 14 supporting parts but no full assembly; no overall approval or Studio construction has occurred. Any later material appearance change returns for review. V2.14 whole-item review is published and independently verified; the live manifest identifies exact source.
 
 **Latest instruction — 10 September 2026:** Tania authorises publication; remote CI/branch-protection activation is not required. Keep local safeguards and independently verify the live release. Then begin CE-ENV-01 at the dimensioned Avatar Studio layout stage, followed separately by kit, Studio, assembled precinct and review. The blazer stays paused. [Scope and sequence](publication-and-production-2026-09-10.md). Earlier pending-authority/remote-blocker statements below are historical checkpoints superseded by CE-CHANGE-20260910-21.
 

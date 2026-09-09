@@ -71,7 +71,6 @@ Limits: A still does not prove every animation or deformation passes. The paused
 Next: Retain evidence with the matching model; future motion acceptance requires supported clips and complete-body checks.
 Source: Inspect blazer-only GLB asset task, studio-jacket-walking.png; shared-skeleton synthetic walking test, not the incompatible independent Tripo clip.
 SHA-256: 63103349fda80bd82c3955c2b3beec5b36bd245e52390b2a15b6a6311271d473
-Open integration CE-CHANGE-20260910-24: Approve an assembled building/asset/scene as one item. Track components underneath, covered by overall approval unless explicitly excepted. Replace the unpublished ten-loose-parts proposal. Material visual changes return for review; routine equivalent technical changes need verification rather than repeated aesthetic approval. Next: Review complete buildings/assets/scenes as whole items, up to10 items per batch. Overall approval covers their component parts unless Tania flags exceptions. The current Avatar Studio package contains14 existing parts but no complete Studio assembly; it is not ready for whole-building approval. No new construction is started by this workflow.
 
 ## Retained earlier reference family and prompt pack — historical, not a replacement for the current direction
 

@@ -36,4 +36,4 @@ The page is read-only. It does not save approval decisions in browser storage; t
 
 All 14 kit GLBs and the six original references are unchanged. The 17 V2 decisions, four production approvals, curriculum, experience mappings, pilot, session protocols and Definition of Done are preserved. Blazer remains paused.
 
-Publication is undergoing the existing local checks; V2.13 is the last verified release until this grouped workflow is independently verified live.
+V2.14 content publication is independently verified: 60 tests, TypeScript, focused lint, both builds and the full local reader suite passed. Whole-item review, optional component previews and affected reader pages passed live desktop/mobile checks; all 194 published files matched. The live publication manifest identifies the exact final source. No appearance approval or Studio construction is implied.
