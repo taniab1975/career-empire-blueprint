@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Career Empire | EST Prep Review</title>
+    <link rel="stylesheet" href="./review.css" />
+  </head>
+  <body>
+    <main class="review-shell">
+      <p class="eyebrow">Public Demo Student reference</p>
+      <h1>EST Prep</h1>
+      <p class="lead">
+        The 3D hall points to the current public Career Empire EST Prep module.
+        The highlighted station shows which part of the live module the 3D space
+        is referencing.
+      </p>
+      <div class="action-row">
+        <a
+          id="module-link"
+          href="https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/modules/est-prep/index.html"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open current EST Prep module
+        </a>
+        <a
+          href="https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/dashboards/student.html"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open Demo Student dashboard
+        </a>
+      </div>
+      <section class="lab-grid" aria-label="EST Prep component map">
+        <article data-station="content">
+          <span>CORE</span>
+          <h2>Core Knowledge</h2>
+          <p>
+            Maps to the content and foundation checks in the current module.
+          </p>
+        </article>
+        <article data-station="glossary">
+          <span>TERM</span>
+          <h2>Terms</h2>
+          <p>Maps to vocabulary, command-word and glossary practice.</p>
+        </article>
+        <article data-station="decoder">
+          <span>VTCS</span>
+          <h2>Visual Thinking</h2>
+          <p>Maps to question-decoding and visual thinking support.</p>
+        </article>
+        <article data-station="boss">
+          <span>BOSS</span>
+          <h2>Challenge</h2>
+          <p>Maps to the challenge/review component in the current module.</p>
+        </article>
+      </section>
+      <section class="live-module" aria-label="Current public EST Prep module">
+        <div>
+          <p class="eyebrow">Live reference</p>
+          <p id="station-note">
+            Choose the highlighted component inside the embedded public module.
+          </p>
+        </div>
+        <iframe
+          id="live-est-prep-frame"
+          src="https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/modules/est-prep/index.html"
+          title="Current public Career Empire EST Prep module"
+          loading="eager"
+        ></iframe>
+      </section>
+    </main>
+    <script>
+      const labels = {
+        content: 'CORE',
+        glossary: 'TERM',
+        decoder: 'VTCS',
+        boss: 'BOSS',
+      };
+      const station = new URLSearchParams(location.search).get('station');
+      const active = labels[station] ? station : '';
+      if (active) {
+        document
+          .querySelector(`[data-station="${active}"]`)
+          ?.classList.add('active');
+        document.getElementById('station-note').textContent =
+          `${labels[active]} is the 3D station being mapped. Choose that component inside the current public EST Prep module.`;
+        document.getElementById('module-link').textContent =
+          `Open current EST Prep module / ${labels[active]}`;
+      }
+    </script>
+  </body>
+</html>

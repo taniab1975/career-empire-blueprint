@@ -1,0 +1,440 @@
+{
+  "sourceCommit": "709818558356bd154494bb02c4046799bbb92a47",
+  "generatedAt": "2026-09-09T15:52:50.995Z",
+  "revision": "V2.9 / 9 September 2026",
+  "recordSha256": "fb4d2bd685df40de3bdec5b72a2f7404df73062d29dbb5e42eb5e17bbb804953",
+  "files": [
+    {
+      "path": "assets/index-0KNKWyxU.js",
+      "sha256": "5d16fcfdc7fd40b03990612605d1d580a4482b6fd40a53829b6d3b9dfc689c36"
+    },
+    {
+      "path": "assets/index-C_2ZDBYW.css",
+      "sha256": "cc37d579c165abbfbd934325aa759bcb75705ca9370e3ff614596b91319b0de9"
+    },
+    {
+      "path": "blueprint-records.json",
+      "sha256": "fb4d2bd685df40de3bdec5b72a2f7404df73062d29dbb5e42eb5e17bbb804953"
+    },
+    {
+      "path": "documents/tania-2026-cem-assessment-schedule.docx",
+      "sha256": "828b5ffe9529ae984d28904f868146d13017d967070949a22f575663edee922e"
+    },
+    {
+      "path": "documents/tania-2026-cem-program.docx",
+      "sha256": "e4f1ca5feea0e622c8fb599d1180b4a7275bc050ee80fc03cd71b7ea1a17dc47"
+    },
+    {
+      "path": "evidence/3d-aerial-2026-09-06.jpg",
+      "sha256": "117b73a8f9c96d16b2040a95befa5a27154a6bda9f50bf74f505470026b74474"
+    },
+    {
+      "path": "evidence/3d-avatar-2026-09-06.jpg",
+      "sha256": "aff00bd63b792187a7e182beff5c46d0b4a6da3d5732086fe58c8eda1121bf88"
+    },
+    {
+      "path": "evidence/3d-town-2026-09-06.jpg",
+      "sha256": "7472c779ecfb6262276b7ccf59742b6bfc1deae9989e93b83c02567ad1be72ce"
+    },
+    {
+      "path": "evidence/3d-walkthrough-start-2026-09-07.jpg",
+      "sha256": "7472c779ecfb6262276b7ccf59742b6bfc1deae9989e93b83c02567ad1be72ce"
+    },
+    {
+      "path": "evidence/blueprint-v22-start-desktop.png",
+      "sha256": "14cf973e2839e64c60547538baaa03d3cf447802216e028ef4d7e6d4c9e1026c"
+    },
+    {
+      "path": "evidence/blueprint-v22-start-mobile.png",
+      "sha256": "fe317e5e4aeee7652b216fd0608a2489c9fe395cb2ee94e2cdc53740ad2bff55"
+    },
+    {
+      "path": "evidence/blueprint-v22-worked-example.png",
+      "sha256": "556843c70e898c5e9b399e646a798eb90c0318d60da180ea2ac5f831320aeefc"
+    },
+    {
+      "path": "evidence/blueprint-v24-delivery-desktop.png",
+      "sha256": "77e6ccdd96dc8074d3dafc899c0643601aa50c48f77928208dfcbe20904d8529"
+    },
+    {
+      "path": "evidence/blueprint-v24-delivery-mobile.png",
+      "sha256": "5a93f548f6bdba85a2e562d7b2ce67fe929a39b6d339db62a63375ec000413d9"
+    },
+    {
+      "path": "evidence/blueprint-v24-journey-desktop.png",
+      "sha256": "102114dc9f4324392a4e818e8f32343d30345f7df4596a13ce79c7733c21ef0b"
+    },
+    {
+      "path": "evidence/blueprint-v24-journey-mobile.png",
+      "sha256": "7ff9900afc74e92df03a207b06253af758e6586749969efdbeba433d8bac7e5e"
+    },
+    {
+      "path": "evidence/blueprint-v24-library-desktop.png",
+      "sha256": "c8ba619b0f968df67990ffd8b009872eb16ebe71af99047a5a1bb1a835719181"
+    },
+    {
+      "path": "evidence/blueprint-v24-library-mobile.png",
+      "sha256": "5af041110f31943d220c7cbb7edc2da0e4ddccbce227572d54afa480a18150e0"
+    },
+    {
+      "path": "evidence/blueprint-v24-start-desktop.png",
+      "sha256": "3cc4f36876664231f827d79e60f975aa4381a51dcccd32afef19af4307e94fd5"
+    },
+    {
+      "path": "evidence/blueprint-v24-start-mobile.png",
+      "sha256": "6b411405ede2cca2215e19d451a5ccce2b675e6780ba7a49fe4e9bda5c1d763b"
+    },
+    {
+      "path": "evidence/blueprint-v24-topics-desktop.png",
+      "sha256": "c6091bcca8d07b9773069220cc6e65f2224930bcf1c289e59f441d2d0541824d"
+    },
+    {
+      "path": "evidence/blueprint-v24-topics-mobile.png",
+      "sha256": "c359a289fef4c40986e3c770db17b4f64bca69c935cf1383125e0fb6569a2d0f"
+    },
+    {
+      "path": "evidence/blueprint-v24-worked-example.png",
+      "sha256": "92549373ef6a95f4afd90da5ae8336eab3c43397cde5196e323f0d212c8309f8"
+    },
+    {
+      "path": "evidence/blueprint-v24-world-desktop.png",
+      "sha256": "3e51c648c5b34857f67c4ea05e678be5921ef4a9b7749bea5a7c35c25d708d97"
+    },
+    {
+      "path": "evidence/blueprint-v25-avatar-references-desktop.png",
+      "sha256": "37030f777cbceb378dffe3bb4e2684d3c8866ed3061018bf0f266f063e4c1146"
+    },
+    {
+      "path": "evidence/current-state-fixed-shirt-20260908.png",
+      "sha256": "c3900a2ea1f3c5e6c99af7fc0f572a56cb48efcb36f9706601d649bd7a03c670"
+    },
+    {
+      "path": "evidence/production-avatar-sprite.jpg",
+      "sha256": "a2f13a0e2020ef283dc5f734391ba6760b251ffabccd3ed19d4e79810dbf35a3"
+    },
+    {
+      "path": "evidence/production-hero-proof.png",
+      "sha256": "46475e17e43a7e9f8b391a9576edc6a7ffdd13cec003aafc53ac6cfde3cf9a22"
+    },
+    {
+      "path": "evidence/strategy-audit-20260909/earlier-district.png",
+      "sha256": "590870576da15a9cb76856c81462dad4a6aa2b2c4ff7c847cf7155e9efe08aea"
+    },
+    {
+      "path": "evidence/strategy-audit-20260909/jacket-repair-comparison.jpg",
+      "sha256": "763ac6e099f55a691cca68f8021a5e621fb22ae6ae8cbd5edac449cf4098817f"
+    },
+    {
+      "path": "evidence/strategy-audit-20260909/repaired-walking-preview.gif",
+      "sha256": "58cd170166c8c0c90903243ea20396c5c7a315d65fb3391d066e2f22010c1701"
+    },
+    {
+      "path": "evidence/strategy-dashboard-20260909/start-desktop.png",
+      "sha256": "8cc1a63e1dcc54c6bee80aac4e43cf80e3880cec46b16c8923dedacf6a9b46cd"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v24-delivery-desktop.png",
+      "sha256": "6b324d6078d0c67a4d67fa695be36476ce35a11b65fc479c5f19adc6e66023bc"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v24-delivery-mobile.png",
+      "sha256": "cd2bab8dbbed656f3d1419d355ec4149f2a02d15f98be185f03c34f60ddafa34"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v24-journey-desktop.png",
+      "sha256": "8a59c6e3224e6b88a81b0aa23ccd11ec836d71327c27c1d60279720ff3345d8f"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v24-journey-mobile.png",
+      "sha256": "53b09e5a20428dc2d1ea5d1e614353873fa24105c20707ee477366699072ca46"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v24-library-desktop.png",
+      "sha256": "7cf8d6e0324642c766379d3c783f7660255d89551094559a6efd8c333b0f9362"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v24-library-mobile.png",
+      "sha256": "8f1dc5182844ad78cad8be2cbad26073c340ded1648a8ee27cc993a45d78146c"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v24-start-desktop.png",
+      "sha256": "25408a672bd39c9259bc281a380be95d58cbdcceb498b8ff443844b2f0cbac58"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v24-start-mobile.png",
+      "sha256": "110109b4bb65ddb2b564eebc5d8c10ff15b1f1415e51516a56d22eeff40cbc5d"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v24-topics-desktop.png",
+      "sha256": "18509e8f2c9ae8c4b12e18cde89722ad46280c0a554ad6ae8416407f279808db"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v24-topics-mobile.png",
+      "sha256": "356897761e3928b22261f5bf424ad8447e3047839d288cf3fff5068fec2cf37e"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v24-worked-example.png",
+      "sha256": "2b11e2ea43c15b2d414f94881074af972b986d67915ab2693e5b5d3e3e070313"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v24-world-desktop.png",
+      "sha256": "3d8481e8443c18f85d0955d2f4d1351f6a96b82ec9ab283cbaaae9c880b34bd9"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v25-avatar-references-desktop.png",
+      "sha256": "b6842d6c40befce339cc6f823177e0c971521729f5f5b400988223c69982dbc4"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v26-production-desktop.png",
+      "sha256": "a3f010599ea42941722dce7d046485bef9408edf4601215d45bafad12a930bf7"
+    },
+    {
+      "path": "evidence/strategy-release-20260909-final/blueprint-v26-production-mobile.png",
+      "sha256": "6608e53d0f5299232c67feda396bb77aa158e96f6c9911271bd3ea008da1d1f5"
+    },
+    {
+      "path": "favicon.svg",
+      "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7"
+    },
+    {
+      "path": "index.html",
+      "sha256": "94cdb3743d63c9a7290901629a7e94e52e1c06289974f4585196b13147f1e993"
+    },
+    {
+      "path": "playable-3d/app.js",
+      "sha256": "d036e59b3da32dfc56031459ab98b9ae7a68ae339f4036c117a4313d1a6cd3e4"
+    },
+    {
+      "path": "playable-3d/assets/avatar-a.glb",
+      "sha256": "082b6a59e34190c2eaf7a6247a8aa2b580b47a0de59b4de8094c54318c464569"
+    },
+    {
+      "path": "playable-3d/assets/avatar-b.glb",
+      "sha256": "bb497602ad6283f441477f3697d81d8e06fe3bd43e6f53d5898e0fa9260cf9f1"
+    },
+    {
+      "path": "playable-3d/assets/career-empire-asset-kit.blend",
+      "sha256": "f61582410805031c1788b4e479e29b2ddfa979815c3b377d0c949415fe277a52"
+    },
+    {
+      "path": "playable-3d/assets/est-exterior.glb",
+      "sha256": "57d8d0d877ca75b192b2e3e71d0e9aca97e308fc789ebbe5c8061f7021008134"
+    },
+    {
+      "path": "playable-3d/assets/est-interior.glb",
+      "sha256": "856893d1166812b8102eb406ee4b6665c71270da7b148619e8d65fe80e7eddc7"
+    },
+    {
+      "path": "playable-3d/characters.js",
+      "sha256": "a1618e0c43cd7d818cc776e4ed0e30c71513322fb15bb06486a5f3f1d5ec57cb"
+    },
+    {
+      "path": "playable-3d/est-prep-review/index.html",
+      "sha256": "1564a5173e32bf0d5aec217e7dcf58389cc80fca3a31ebb8b28baa8f099ffd50"
+    },
+    {
+      "path": "playable-3d/est-prep-review/review.css",
+      "sha256": "419fc289703e081914423a62c90607fda24e8a779b4712ccf468754e10edc24f"
+    },
+    {
+      "path": "playable-3d/index.html",
+      "sha256": "b950147d829833cc264f02bb72eea97c759fdbfd96c035b315849e2e6f3a38c3"
+    },
+    {
+      "path": "playable-3d/profiles.js",
+      "sha256": "625db0d4b168c7d390d58dbbcdcc3dcc0834d2dfc6dcd6ad5a32b845d6a5410b"
+    },
+    {
+      "path": "playable-3d/style.css",
+      "sha256": "cd20ae0f212dba7cff3d452f8e7d36e3788dfd0ac05b6d51831d58f975a8bd5c"
+    },
+    {
+      "path": "playable-3d/vendor/lucide/lucide.min.js",
+      "sha256": "3411692820cb8d47543f69496aa25fd603a358f4498046f41c508a5a3342210e"
+    },
+    {
+      "path": "playable-3d/vendor/rapier/rapier_wasm3d_bg.wasm",
+      "sha256": "c8cf07035996629dbf6156c82fec836ddc1c6cff78cf6afde726c30585da2bfd"
+    },
+    {
+      "path": "playable-3d/vendor/rapier/rapier_wasm3d.js",
+      "sha256": "6e15d8a85f96c3d80e9eb0fd5d9e78d15e3c3a70a3088a39a685117d5ffb1730"
+    },
+    {
+      "path": "playable-3d/vendor/rapier/rapier.mjs",
+      "sha256": "1ade6875c663c1398f490d4fa67837386b2d7e0aad45fe54e9b7af52b8198a49"
+    },
+    {
+      "path": "playable-3d/vendor/three/build/three.core.js",
+      "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+    },
+    {
+      "path": "playable-3d/vendor/three/build/three.module.js",
+      "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+    },
+    {
+      "path": "playable-3d/vendor/three/examples/jsm/controls/OrbitControls.js",
+      "sha256": "b97879c748170baadeb3fb84cea1ffdf4674e283dc06042f34e2acb95a76042c"
+    },
+    {
+      "path": "playable-3d/vendor/three/examples/jsm/environments/RoomEnvironment.js",
+      "sha256": "c20f0b4677f6128a138d7152b85cbef9091f4f45cdfa05adca04d40c1697c7ae"
+    },
+    {
+      "path": "playable-3d/vendor/three/examples/jsm/loaders/GLTFLoader.js",
+      "sha256": "67ac5551fdafa6e349bd80c8f8e5e39c136d6b2fb1ad647db9abb21dc86f9e4a"
+    },
+    {
+      "path": "playable-3d/vendor/three/examples/jsm/utils/BufferGeometryUtils.js",
+      "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
+    },
+    {
+      "path": "playable-3d/vendor/three/examples/jsm/utils/SkeletonUtils.js",
+      "sha256": "0761b1e003917b215d25dd81439d854b36034b5a57ce84c2cfe3b02428d7b253"
+    },
+    {
+      "path": "playable-3d/world.js",
+      "sha256": "23cde9ba85037b7c9e25db2545fdf16310bb8cd75f822329c6aa0b63ddf07451"
+    },
+    {
+      "path": "production/astra-research.md",
+      "sha256": "a3f1baf9004d831188eab9a9f060ad43e52aef94f9982a233450cd2e56e9b306"
+    },
+    {
+      "path": "production/audit-release-check-2026-09-09.md",
+      "sha256": "6c10bc0150a5409ad8bfb64be70b1ba132ced00cb0c681f7dd4628222ea99038"
+    },
+    {
+      "path": "production/current-state.md",
+      "sha256": "65da280e6dcab735880931d0044ce361037e6c39741a6c79c32a475d5756a43d"
+    },
+    {
+      "path": "production/github-migration-2026-09-09.md",
+      "sha256": "cc4d7b71945070cf24a18e7ed18b8cd3cc91326875f8440e1cae054862d9ca64"
+    },
+    {
+      "path": "production/github-tracking-audit-2026-09-09.md",
+      "sha256": "ed645f8095a1f8c5b3da772a3164dffca14a932a96b2507e073d6e5dd44e797d"
+    },
+    {
+      "path": "production/history/current-state-2026-09-08.md",
+      "sha256": "59a22e59ca918abda4d1114d6ccb23ee90952127e3e3cde5103a91499625bf24"
+    },
+    {
+      "path": "production/history/production-plan-2026-09-08.md",
+      "sha256": "117877666f2002cbcc5f5ea057c3981af85f51c044f15b94dfd77e8e53c83e55"
+    },
+    {
+      "path": "production/material-changes.md",
+      "sha256": "82ddd11be5c6082e2adada2f9d822efd5001f7e558d83d903a1084413c7907e1"
+    },
+    {
+      "path": "production/operating-protocol.md",
+      "sha256": "be9fd021f0c024cd28e61b2d2047b4ab4743552dbb9ec2a97770e20a04f55dcf"
+    },
+    {
+      "path": "production/production-plan.md",
+      "sha256": "fdef527d44374ce3b745074a8366433cb4d319b59378ca8feab5c3f6d047c35e"
+    },
+    {
+      "path": "production/strategy-audit-2026-09-09.md",
+      "sha256": "941a295f4b18a2f77b9456387203e8e25690e4bb0c9d6939032c59fe6e5b8da6"
+    },
+    {
+      "path": "production/visual-register.md",
+      "sha256": "9100fb07355151b1149d5cd69e2ad27f77775dede8458e0b7d8d195cab57bcde"
+    },
+    {
+      "path": "references/CE-BLDG-001-home-base.png",
+      "sha256": "6dff0798cb4f28604501ef161a65e72f65a7e04b63d3846cf5d2dfbca68b969e"
+    },
+    {
+      "path": "references/CE-BLDG-002-est-prep-lab.png",
+      "sha256": "dcce93f743e7c60389ea849bbfce7b46b18190f02dc68e67803c0d166dc86aa1"
+    },
+    {
+      "path": "references/CE-BLDG-008-town-hall.png",
+      "sha256": "550588b473c265515905462d086b1f315f65bfc8837441a249378c0513c9edc8"
+    },
+    {
+      "path": "references/style/avatar-studio.png",
+      "sha256": "d363ef4091171df4d7effcd830267c54fb88d40bfb0f3687de4a809de73fd449"
+    },
+    {
+      "path": "references/style/chamber-complete.png",
+      "sha256": "9c46d52c860eff17cea4fd58f2576a62bdcb1843a48cabe36afa9e2fa780df03"
+    },
+    {
+      "path": "references/style/ecc-avatar-concept-v1.png",
+      "sha256": "efea140de64fe871a1f770484a74f7f26b21364617da4cb8865d2e2c7fa23c6a"
+    },
+    {
+      "path": "references/style/ecc-avatar-turnaround-v1.png",
+      "sha256": "0782a859c0ecf2672e5506af5220255c4f1ce567ccc06204195e1df411ba8cf1"
+    },
+    {
+      "path": "references/style/ecc-priority-sheet.jpg",
+      "sha256": "11d4081beccaa6b5ff89d8561845a2cff307ff469ca8c63a48f5f44b20cb9f2d"
+    },
+    {
+      "path": "references/style/entry-edited-poster.jpg",
+      "sha256": "ebe461c2281f506fa4cbe78337dbcabf9e5ed8c1b37c50eb32d9febe61c328c4"
+    },
+    {
+      "path": "references/style/entry-original-poster.jpg",
+      "sha256": "778f65844cc9fe1e16cbe8454858ee20616bcc748a7a724f8ebf0e6a26c21418"
+    },
+    {
+      "path": "references/style/road-corner.png",
+      "sha256": "02ef9e216fad1ae08e74fe1a243799472b2b3be3881065dd07d424c24925a8f7"
+    },
+    {
+      "path": "references/style/shop.png",
+      "sha256": "de903254d40140a6c7520050f23d187a97fb9c69a95643cb2ac55c5d8c16fd38"
+    },
+    {
+      "path": "references/style/student-characters.png",
+      "sha256": "f5cc7ef0a7dcb683eb82f337c87559ed72a1010abf3d41417d681f38eb5d6640"
+    },
+    {
+      "path": "references/style/town-hall-approach.png",
+      "sha256": "0f56c0f43085d85b6034ad5aabf8b739dacf6761dd5e5d8faeee1b51bef251f0"
+    },
+    {
+      "path": "references/style/town-hall-entry-edited.mp4",
+      "sha256": "a73c3b06055d7b8c94599a98a8a27159ee1d3f7657e612bf91f024a4c0964aa0"
+    },
+    {
+      "path": "references/style/town-hall-entry-original.mp4",
+      "sha256": "39828ae861553d96aab28459ef696cff9ae4d411a211536a67987f450254a99c"
+    },
+    {
+      "path": "references/style/town-hall-entry-original.vtt",
+      "sha256": "de4dbba1faa98501e88de253066d944f4a8759244198686e553405b7e1519c05"
+    },
+    {
+      "path": "references/style/town-hall-entry-start-here.mp4",
+      "sha256": "928d353b3fb6740a3bb4af195dd83509aaf19f9cf8e2cf3b23f425f6d10e20db"
+    },
+    {
+      "path": "references/style/waterfall.png",
+      "sha256": "7661971650aad7616c2659dff02cc712d3b9274290cc0081c471f44db4fbc6f8"
+    },
+    {
+      "path": "references/style/workshop.png",
+      "sha256": "b0a2d180dc5137cef2675f6bafdc59c00ca6643cfe063be8fdc698aed9aea0d0"
+    },
+    {
+      "path": "references/topics/classroom.jpg",
+      "sha256": "e0ad7019270c33b22765a9876751c0761f5ad410c2cd4224b56d40e1dec271b0"
+    },
+    {
+      "path": "references/topics/experiences.jpg",
+      "sha256": "19cd7478704eb9e938c737946179574e190fb647b11cd2005ad412485ac82a98"
+    },
+    {
+      "path": "references/topics/world-rewards.png",
+      "sha256": "9733c86bbc4b003ad0237aafbfa7103a9e4a0787dedb08f4092f2415cac4576a"
+    }
+  ]
+}

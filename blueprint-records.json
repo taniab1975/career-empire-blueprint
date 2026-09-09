@@ -1,0 +1,3774 @@
+{
+  "schemaVersion": 2,
+  "revision": "V2.9 / 9 September 2026",
+  "publicReview": {
+    "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
+    "launchLabel": "Launch 3D Career Empire",
+    "currentGameHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/",
+    "currentGameLabel": "Open current Career Empire game",
+    "currentStudentHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/dashboards/student.html",
+    "currentStudentLabel": "Open Demo Student dashboard",
+    "currentEstPrepHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/modules/est-prep/index.html",
+    "currentEstPrepLabel": "Open current EST Prep module",
+    "recordHref": "/blueprint-records.json",
+    "recordLabel": "Download Blueprint record",
+    "screenshot": "/evidence/3d-walkthrough-start-2026-09-07.jpg",
+    "screenshotAlt": "Playable Career Empire 3D review build: student avatar in the learning district with EST Prep available from the destination bar",
+    "conceptVideoHref": "/references/style/town-hall-entry-start-here.mp4",
+    "conceptVideoPoster": "/references/style/entry-original-poster.jpg",
+    "conceptVideoCaptions": "/references/style/town-hall-entry-original.vtt",
+    "conceptVideoTitle": "ElevenLabs end-result concept film",
+    "conceptVideoSummary": "Sound-enabled Town Hall entry reference showing the cinematic building approach, doorway activation and interior reveal that the playable world is being designed toward.",
+    "reviewScope": "Public reviewers can walk the 3D district, use Avatar Studio, approach EST Prep and compare the intended 3D entry with the current public Demo Student EST Prep flow. School planning documents and the Blueprint record are public; credentials and real student data stay out of reviewer files."
+  },
+  "sampleOutlineUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0019/1202338/Careers-and-Employability-General-Year-12-Sample-course-outline-For-teaching-from-2026.PDF",
+  "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
+  "operations": {
+    "release": {
+      "id": "V2.9",
+      "date": "2026-09-09",
+      "label": "V2.9 / 9 September 2026",
+      "status": "GitHub Pages migration authorised; publication being validated",
+      "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
+      "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
+      "owner": "Tania Byrnes",
+      "scope": "This release keeps one public Blueprint review point: the Blueprint, public school planning documents, current Career Empire game, playable 3D route and design references. Credentials, real student data and rebuild mechanics do not belong in reviewer downloads. Approved Design Atlas decisions remain in force."
+    },
+    "navigation": [
+      {
+        "id": "overview",
+        "label": "Start Here",
+        "sections": [
+          "overview"
+        ]
+      },
+      {
+        "id": "journey",
+        "label": "Player Journey",
+        "sections": [
+          "journey",
+          "worked-example",
+          "method",
+          "year"
+        ]
+      },
+      {
+        "id": "blueprint",
+        "label": "Blueprint",
+        "sections": [
+          "blueprint",
+          "learning",
+          "world",
+          "classroom",
+          "visuals"
+        ]
+      },
+      {
+        "id": "delivery",
+        "label": "Delivery",
+        "sections": [
+          "delivery",
+          "roadmap",
+          "decisions",
+          "build",
+          "handover"
+        ]
+      },
+      {
+        "id": "source-documents",
+        "label": "Reference Library",
+        "overview": "library",
+        "sections": [
+          "library",
+          "source-documents",
+          "sources",
+          "history",
+          "glossary"
+        ]
+      }
+    ],
+    "blueprintTopics": [
+      {
+        "id": "learning",
+        "label": "Experiences & curriculum",
+        "summary": "What students experience, why they want to learn, and how each experience connects to the syllabus.",
+        "image": "/references/topics/experiences.jpg",
+        "imageAlt": "Existing concept artwork of students and a teacher with learning profiles"
+      },
+      {
+        "id": "world",
+        "label": "World & rewards",
+        "summary": "How players progress, what they receive, and how tax, community choices and town improvements connect.",
+        "image": "/references/topics/world-rewards.png",
+        "imageAlt": "Existing community concept artwork linking a shared fund to people, learning and town improvements"
+      },
+      {
+        "id": "classroom",
+        "label": "Classroom",
+        "summary": "How lessons run, how teachers review learning, and how every student can take part.",
+        "image": "/references/topics/classroom.jpg",
+        "imageAlt": "Existing concept artwork of educators reviewing curriculum and assessment together"
+      },
+      {
+        "id": "visuals",
+        "label": "Look & feel",
+        "summary": "The cinematic 3D style, selected references, and guidance for creating consistent images, video and game assets.",
+        "image": "/references/style/town-hall-approach.png",
+        "imageAlt": "Selected Town Hall reference with a character approaching warm windows and cyan architectural lighting"
+      }
+    ],
+    "areaTopics": {
+      "journey": [
+        {
+          "id": "worked-example",
+          "label": "One complete experience",
+          "summary": "Follow a proposed lesson from the first opportunity through learning, choices, feedback and recovery.",
+          "image": "/references/topics/experiences.jpg",
+          "imageAlt": "Existing concept artwork of students and a teacher with learning profiles"
+        },
+        {
+          "id": "year",
+          "label": "The year-long journey",
+          "summary": "Explore how the story could develop across Units 3 and 4, with flexible curriculum timing.",
+          "image": "/references/style/town-hall-approach.png",
+          "imageAlt": "Selected cinematic reference of a character approaching Town Hall"
+        },
+        {
+          "id": "method",
+          "label": "Learning principles",
+          "summary": "The experience-first learning loop, supported challenge, player choice and room to try again.",
+          "image": "/references/topics/classroom.jpg",
+          "imageAlt": "Existing concept artwork of educators reviewing learning together"
+        }
+      ],
+      "delivery": [
+        {
+          "id": "roadmap",
+          "label": "Now, next & later",
+          "summary": "The work queue, its owners and dependencies, and how a proposal becomes an approved game change."
+        },
+        {
+          "id": "decisions",
+          "label": "Decisions",
+          "summary": "What is confirmed, what is retained from the Atlas, and what still needs Tania's decision."
+        },
+        {
+          "id": "build",
+          "label": "Build evidence",
+          "summary": "What has actually been delivered, with dated screenshots, checks and remaining limitations."
+        },
+        {
+          "id": "handover",
+          "label": "Project continuity",
+          "summary": "How the live Blueprint stays aligned with the public game, source files and next build decisions."
+        }
+      ],
+      "source-documents": [
+        {
+          "id": "source-documents",
+          "label": "Source documents",
+          "summary": "SCSA syllabuses, sample outlines, public school planning documents and live game/prototype references."
+        },
+        {
+          "id": "sources",
+          "label": "Research & context",
+          "summary": "Supporting educational research and project history, kept separate from approved requirements."
+        },
+        {
+          "id": "history",
+          "label": "Earlier ideas audit",
+          "summary": "The 16 earlier Codex ideas, their current treatment and why they were retained, deferred or reframed."
+        },
+        {
+          "id": "glossary",
+          "label": "Terms",
+          "summary": "Plain-language meanings for course abbreviations, planning terms and approval states."
+        }
+      ]
+    },
+    "currentStep": {
+      "id": "CE-GOV-01",
+      "title": "Publish and maintain the GitHub Blueprint",
+      "status": "GitHub migration in progress",
+      "owner": "Blueprint maintainer",
+      "href": "/production/github-migration-2026-09-09.md",
+      "actionLabel": "Read publication and update protocol",
+      "decisionIds": [
+        "V2-D07",
+        "V2-D08",
+        "V2-D17"
+      ],
+      "nextAction": "Publish the validated canonical Blueprint to GitHub Pages with private source recovery. Link reconciled GitHub tasks to Blueprint records. Redirect the old ChatGPT site only when owning-account access returns.",
+      "doneWhen": "GitHub public records match validated source, release evidence is recorded, and future maintenance uses one canonical Blueprint.",
+      "boundary": "This documentation update does not approve a new game build, paid asset generation, curriculum edition change or final design acceptance."
+    },
+    "roadmap": [
+      {
+        "id": "CE-GOV-01",
+        "horizon": "Now",
+        "title": "Publish and maintain the GitHub Blueprint",
+        "owner": "Blueprint maintainer",
+        "status": "GitHub migration in progress",
+        "dependency": "Validated static build; reviewed public-only output; GitHub repository access",
+        "doneWhen": "GitHub public records match validated source, release evidence is recorded, and future maintenance uses one canonical Blueprint.",
+        "href": "/production/github-migration-2026-09-09.md"
+      },
+      {
+        "id": "CE-ENV-01",
+        "horizon": "Next",
+        "title": "Complete the Avatar Studio precinct candidate",
+        "owner": "Environment integrator; Tania: appearance and placement acceptance",
+        "status": "Direction approved; layout/kit/precinct unfinished",
+        "dependency": "Approved campus references; isolated layout and modular kit; named school device",
+        "doneWhen": "Player-height Studio/garden/path/plaza candidate matches approved concepts, passes functional/performance review and receives explicit precinct acceptance before release.",
+        "href": "#delivery"
+      },
+      {
+        "id": "CE-EST-BRIDGE-01",
+        "horizon": "Next",
+        "title": "Verify the repaired 3D → EST learning loop",
+        "owner": "Game integrator",
+        "status": "URL fixed in published source; full loop unverified",
+        "dependency": "Current stage IDs, demo/auth identity and evidence ownership",
+        "doneWhen": "All four hall stations launch the correct activity, save appropriate evidence and return to the same avatar/world.",
+        "href": "#delivery"
+      },
+      {
+        "id": "CE-TEACHER-01",
+        "horizon": "Next",
+        "title": "Reconcile and release the existing teacher matrix",
+        "owner": "Learning-platform maintainer; Tania: workflow acceptance",
+        "status": "IMPLEMENTED locally; public deployment pending",
+        "dependency": "Review uncommitted Megatrends changes; preserve unrelated work",
+        "doneWhen": "Real saved reviews persist; demo/evidence-only rows stay inspect-only; student → teacher → resume tested.",
+        "href": "#delivery"
+      },
+      {
+        "id": "CE-LEARNING-01",
+        "horizon": "Next",
+        "title": "Align one complete experience and its payoff",
+        "owner": "Tania with implementation support",
+        "status": "PLANNED — pilot and edition decision open",
+        "dependency": "2026/2027 curriculum edition reconciliation; retained semester boundary",
+        "doneWhen": "Choose and approve an experience, evidence and payoff; specify only necessary stage/treasury rules and test learning separately from engagement.",
+        "href": "#learning"
+      },
+      {
+        "id": "CE-ART-01",
+        "horizon": "Later",
+        "title": "Resume wardrobe only when the pause is lifted",
+        "owner": "Avatar integrator; Tania: appearance acceptance",
+        "status": "PAUSED — first-pass blazer test left in place",
+        "dependency": "Tania resumption; complete-body and shared-skeleton plan retained",
+        "doneWhen": "Equip/unequip, fabric HEX, save/reload, Studio/town identity and supported animation pass without unacceptable clipping.",
+        "href": "#delivery"
+      },
+      {
+        "id": "CE-LATER-01",
+        "horizon": "Later",
+        "title": "Expand only after the pilot earns its place",
+        "owner": "Tania and assigned development team",
+        "status": "Deferred",
+        "dependency": "Pilot review",
+        "href": "#world",
+        "doneWhen": "Approve the next experience before adding its locations, shared progression or new rewards."
+      }
+    ],
+    "pilot": {
+      "id": "CE-PILOT-01",
+      "experienceId": "CE-EXP-V2-01",
+      "title": "The opportunity I might miss",
+      "status": "Proposed worked example",
+      "approval": "Not approved for build",
+      "position": "An example of the learning loop, not the agreed first chapter or week.",
+      "minutes": 30,
+      "premise": "Avery wants a weekend role helping a community venue. The employer cannot see evidence of teamwork in Avery's first response. The opportunity matters, but the character has a supported chance to revise.",
+      "focus": "One job-ad requirement and one evidence-based response. This is not a complete application, full selection-criteria unit or summative assessment.",
+      "curriculumIds": [
+        "CEM12-U3-CB-02",
+        "CEM12-U3-CB-06",
+        "CEM12-U3-ES-COM-02"
+      ],
+      "detailFocus": [
+        "Identify the selected requirement in a job advertisement.",
+        "Use STAR (situation, task, action, result) for one response; SAO and CAR remain for later teaching.",
+        "Communicate relevant evidence to the intended employer."
+      ],
+      "choices": "Choose between two fictional roles with the same learning demand, then choose a truthful example from school, home, volunteering or a supplied fictional case. Paid-work experience is not required.",
+      "safeStakes": "The first response is returned for clarification. No real countdown, public failure ranking, permanent career lockout or loss of friendship/health points. Pause and retry remain possible.",
+      "fun": "A role the player actually wants, a character who responds to their choices, visible improvement after a retry and a small optional original noticeboard joke. The appeal is agency and discovery, not a quiz with decorative travel.",
+      "beats": [
+        {
+          "id": "HOOK",
+          "minutes": 3,
+          "title": "Something I want",
+          "player": "Choose a role and notice the opportunity it could open for Avery.",
+          "teacher": "Introduce the fictional setting and confirm the shared learning focus; offer a ready-made character.",
+          "evidence": "The chosen role and a short reason. Engagement information only."
+        },
+        {
+          "id": "TRY",
+          "minutes": 4,
+          "title": "My first response is not enough",
+          "player": "Inspect the ad and try a short response. The employer asks: 'What did you actually do?'",
+          "teacher": "Observe what students notice before instruction. Do not grade the first attempt as a penalty.",
+          "evidence": "Save the first attempt and the requirement the student selected."
+        },
+        {
+          "id": "LEARN",
+          "minutes": 6,
+          "title": "Now I need the technique",
+          "player": "Compare a vague claim with a specific example; learn STAR and identify its four parts.",
+          "teacher": "Give explicit instruction, model one response and check understanding. Supply text and spoken alternatives.",
+          "evidence": "A brief practice response and feedback identifying the next improvement."
+        },
+        {
+          "id": "APPLY",
+          "minutes": 9,
+          "title": "Make a stronger case",
+          "player": "Write or dictate a new response, select relevant evidence and explain why it fits the requirement.",
+          "teacher": "Check relevance, the student's own contribution and the stated outcome. A sentence frame supports students who need it.",
+          "evidence": "Revised response, matched requirement and short explanation of the change."
+        },
+        {
+          "id": "FEEDBACK",
+          "minutes": 5,
+          "title": "See what changed, then recover",
+          "player": "Receive a specific acknowledgement or a clear next revision. Revise without losing access to the opportunity.",
+          "teacher": "Review the response as meets / developing / needs support. Any future automatic checks assist, not replace, teacher judgement.",
+          "evidence": "Teacher review, feedback and any retry. Story acknowledgement is provisional, not an automatic cash award."
+        },
+        {
+          "id": "TRANSFER",
+          "minutes": 3,
+          "title": "Could I do this somewhere else?",
+          "player": "Match the approach to a different fictional ad and name one strategy worth keeping.",
+          "teacher": "Check transfer and ask whether the player cared about improving. Note confusion, friction and support needed.",
+          "evidence": "Exit response and a separate engagement observation. This does not establish whole-unit mastery."
+        }
+      ],
+      "proof": [
+        {
+          "kind": "Learning",
+          "check": "The response addresses the chosen requirement, identifies the student's action and gives a relevant outcome.",
+          "method": "Compare first and revised responses using a teacher-agreed rubric; include a different-ad exit check.",
+          "threshold": "Tania must set the pilot success threshold before classroom testing."
+        },
+        {
+          "kind": "Engagement",
+          "check": "The player can explain what they wanted, chooses to improve after feedback and notices a consequence.",
+          "method": "Observe voluntary revision, confusion and off-task friction; ask a short private reflection. Time on screen alone is not success.",
+          "threshold": "Agree observation criteria with Tania; no arbitrary retention target is claimed."
+        },
+        {
+          "kind": "Access and safety",
+          "check": "The same learning can be completed without 3D navigation, paid-work history or timed pressure.",
+          "method": "Test keyboard, reduced motion, text alternative, pause/resume and absence/catch-up on target school devices.",
+          "threshold": "No learner is blocked from the required learning; unresolved access failures block release."
+        },
+        {
+          "kind": "Technical integrity",
+          "check": "Attempts, review and progress belong to the right student and class and survive resume.",
+          "method": "Test save/reload, identity, permissions, teacher review and repeat submissions with fictional accounts.",
+          "threshold": "No lost evidence, cross-student exposure or duplicate reward transaction in the agreed checks."
+        }
+      ],
+      "needs": [
+        "Approve this candidate or choose another experience.",
+        "Confirm the selected syllabus details, terminology and response rubric.",
+        "Agree whether 30 minutes is realistic, plus catch-up and feedback arrangements.",
+        "Choose the smallest believable setting and any story acknowledgement; no new building or financial reward is automatically approved."
+      ],
+      "nonGoals": [
+        "A new city map or asset collection",
+        "A full-year release",
+        "A complete application assessment",
+        "Multiplayer, leaderboards or trading",
+        "A final salary, tax or wellbeing formula"
+      ]
+    },
+    "changeProcess": [
+      {
+        "title": "Record the proposal",
+        "detail": "Give it an ID, purpose, source decision, curriculum links, scope and dependencies. Name what it changes and what remains untouched."
+      },
+      {
+        "title": "Agree the brief",
+        "detail": "Tania approves learning and design choices. Name the implementer, acceptance checks and stop point. A published suggestion is not approval."
+      },
+      {
+        "title": "Build and verify",
+        "detail": "Use the existing project and approved visual references. Check the complete player/teacher loop, not only an isolated screen."
+      },
+      {
+        "title": "Record the evidence",
+        "detail": "Attach dated screenshots or a useful short clip, build identifier, checks, deviations and unresolved limitations. Keep real student data out of examples."
+      },
+      {
+        "title": "Accept or revise",
+        "detail": "Record who accepted it, when and the approval source. An implementer cannot silently supply Tania's acceptance."
+      },
+      {
+        "title": "Update the living record",
+        "detail": "Update canonical records, material-change register, affected documentation and AGENTS.md; regenerate exports and run checks. Record source/publication parity or a blocked release with exact resume steps. Never erase prior rationale or infer Tania acceptance."
+      }
+    ],
+    "recovery": [
+      {
+        "id": "REC-BLUEPRINT",
+        "name": "Blueprint source and planning records",
+        "status": "GitHub migration authorised; public output being validated",
+        "location": "https://taniab1975.github.io/career-empire-blueprint/",
+        "owner": "Tania Byrnes",
+        "gap": "Legacy ChatGPT site remains V2.6 and cannot yet redirect. GitHub hosting does not automatically synchronise uncommitted changes.",
+        "next": "Build/check/publish only public output; verify live hash and record the receipt. Keep canonical source in private recovery."
+      },
+      {
+        "id": "REC-3D",
+        "name": "Current 3D prototype",
+        "status": "Published prototype; corrected EST URL",
+        "location": "Public review: https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
+        "owner": "Tania; developer to be assigned",
+        "gap": "App.js and destination are reachable; full student/evidence/teacher/resume loop unverified. Blazer test has missing covered body and sleeve limitations.",
+        "next": "Verify all four stages and identity/persistence with fictional accounts; retain paused blazer."
+      },
+      {
+        "id": "REC-PLATFORM",
+        "name": "Current Career Empire learning flow",
+        "status": "EST reachable; teacher matrix remains local",
+        "location": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/dashboards/student.html",
+        "owner": "Tania; school-approved custodian to be nominated",
+        "gap": "Fresh public teacher.html/dashboard.js lack the matrix found locally. Persisted review actions and permissions need verification.",
+        "next": "Reconcile local matrix diff and verify fictional class review/save/reload before release."
+      },
+      {
+        "id": "REC-ACCESS",
+        "name": "Accounts and real student data",
+        "status": "Keep out of public examples",
+        "location": "School-approved systems only",
+        "owner": "Tania with authorised school support",
+        "gap": "A public Blueprint can share curriculum, design intent and prototype links, but it should not contain passwords, tokens or real student records.",
+        "next": "Use demo/public examples for review. Confirm account ownership and student-data handling only when preparing a real classroom release."
+      }
+    ],
+    "glossary": [
+      [
+        "CEM",
+        "Careers and Employability, the school course this game supports."
+      ],
+      [
+        "SCSA",
+        "School Curriculum and Standards Authority, the official WA curriculum and assessment source."
+      ],
+      [
+        "EST",
+        "Externally set task. The annual selected content must be checked separately from the syllabus."
+      ],
+      [
+        "CPD",
+        "Continuing professional development: planning, undertaking, applying and reflecting on learning for work."
+      ],
+      [
+        "Candidate mapping",
+        "A proposed link between an experience and curriculum. It is not evidence of teaching, assessment or mastery."
+      ],
+      [
+        "Confirmed / retained",
+        "An agreed decision, or an earlier approved decision carried forward."
+      ],
+      [
+        "Open / proposed",
+        "A question awaiting a decision, or a suggested approach that has not been approved."
+      ],
+      [
+        "Build acceptance",
+        "An explicit decision that the delivered work meets its agreed brief. Passing code checks alone does not establish learning quality."
+      ]
+    ],
+    "production": {
+      "date": "9 September 2026",
+      "title": "Current state — 9 September 2026",
+      "summary": "The V2.9 Blueprint moves publication to GitHub Pages independently of ChatGPT accounts. The legacy V2.6 site still needs an owner-authorised redirect. The EST URL is repaired, teacher matrix remains local, blazer is paused, and the approved campus precinct is unfinished. Final learning, curriculum edition and classroom acceptance remain open.",
+      "facts": [
+        {
+          "label": "IMPLEMENTED LOCALLY",
+          "title": "One canonical source; publication is a dated copy",
+          "detail": "V2 source, public V2.6, Atlas and town brief use competing authority labels. Files cannot all own current state. Use this Start Here dashboard; integrate/publish with the owning account and verify downloaded records.",
+          "href": "/production/material-changes.md"
+        },
+        {
+          "label": "PARTLY VERIFIED",
+          "title": "EST route corrected; full learning loop remains unverified",
+          "detail": "The 8 September broken-route statement no longer describes live app.js. Test CORE/TERM/VTCS/BOSS launch, demo and signed-in context, saved evidence and return with fictional accounts.",
+          "href": "/production/material-changes.md"
+        },
+        {
+          "label": "RELEASE GAP",
+          "title": "Teacher matrix still absent from published dashboard",
+          "detail": "Local implementation cannot establish public availability or real review persistence. Isolate the matrix changes, test fictional class permissions/save/reload and inspect-only fallbacks, then deliberately release.",
+          "href": "/production/material-changes.md"
+        },
+        {
+          "label": "PROTOTYPE PAUSED",
+          "title": "Blazer test accepted as a first pass; pause retained",
+          "detail": "Acceptance of a limited demonstration does not certify reversible clothing or a complete body. Leave the demonstration in place. On authorised resumption, address missing torso/upper arms and sleeve deformation before claiming a complete wardrobe.",
+          "href": "/production/material-changes.md"
+        },
+        {
+          "label": "APPROVED DIRECTION / UNFINISHED PRODUCTION",
+          "title": "ECC campus plus career corridor; one precinct first",
+          "detail": "The later visual direction and six-step sequence refine older civic references without approving a generic city or more hero buildings. Resume candidate layout/approach study → modular textured kit → Studio → assembled precinct → visual/performance review → deliberate release.",
+          "href": "/production/material-changes.md"
+        },
+        {
+          "label": "OPEN",
+          "title": "RPG terminology remains an authority conflict",
+          "detail": "Town brief calls the product an RPG while V2-D13 explicitly retains career/life simulation, not RPG. Visual approval is not a terminology or mechanics change. Use career/life simulation in canonical current prose; ask Tania only if a genre/mechanics change is proposed. Add a superseding decision if she changes it.",
+          "href": "/production/material-changes.md"
+        },
+        {
+          "label": "OPEN",
+          "title": "Curriculum baseline and delivery cohort need reconciliation",
+          "detail": "Atlas is 2026; V2 uses 2027 alongside 2026 school documents and sample timing. Both official editions exist; latest does not identify the intended cohort. Tania confirms cohort/year; compare edition wording and annual EST selection before teaching approval. Preserve current exact IDs, details and semester boundaries.",
+          "href": "/production/material-changes.md"
+        },
+        {
+          "label": "OPEN",
+          "title": "Learning slice and whole-year journey remain proposals",
+          "detail": "A working world and many mapped points do not prove a coherent taught year. First learning slice, timing and thresholds remain unapproved. Choose one complete experience, required/optional time, access/catch-up, evidence, teacher rubric and separate engagement/learning thresholds; preserve Units 3/4 in their semesters.",
+          "href": "/production/material-changes.md"
+        },
+        {
+          "label": "OPEN",
+          "title": "Economy and progression principles are not final rules",
+          "detail": "Tax-funded class growth is approved; stage previews, historic 10% and later chapter/economy lists do not settle balances, triggers or wellbeing scores. For the selected pilot define earnings/tax/spend authority, idempotent reward event, treasury/stage interaction, absence and recovery. Keep class presence future; rankings/trading not approved.",
+          "href": "/production/material-changes.md"
+        },
+        {
+          "label": "INTEGRATION PENDING",
+          "title": "Retain Three.js/Rapier and existing learning services",
+          "detail": "Asset production, browser world, school identity, evidence, review and rewards are distinct systems. Old platform proposals do not authorise replacement. Specify and test student/class identity, profile ownership, session bridging, evidence/review permissions, reward duplication and resume. Source backup is not a tested database restore.",
+          "href": "/production/material-changes.md"
+        }
+      ],
+      "pipeline": [
+        {
+          "tool": "Existing references / Tripo / historical Meshy-Hunyuan trials",
+          "role": "Reuse selected ElevenLabs direction and supplied individual assets. Generated art is reference; generator previews are not production acceptance."
+        },
+        {
+          "tool": "Avatar / wearable pipeline",
+          "role": "Measured master geometry, landmarks, rest matrices and weights → deterministic fit → skin/clip/material checks → separate component GLB. Both shirt runs remain FAIL."
+        },
+        {
+          "tool": "Building / environment pipeline",
+          "role": "Inspect scale/pivot/materials → preserve quality → asset-specific weld/LOD/texture comparison → GLB → doors, collision and device validation. No avatar fitting logic."
+        },
+        {
+          "tool": "Blender visual master",
+          "role": "Keep clean master and editable copies; versioned scene/asset exports. Integrate approved individual changes into world.js; a Blender snapshot is not the runtime."
+        },
+        {
+          "tool": "Three.js / Rapier / existing learning platform",
+          "role": "Retain loader/collider contracts and local-profile limits. EST URL corrected; verify stage, identity, evidence and teacher-review integration."
+        }
+      ],
+      "gates": [
+        {
+          "id": "CE-ENV-01",
+          "title": "Complete the Avatar Studio precinct candidate",
+          "check": "Player-height Studio/garden/path/plaza candidate matches approved concepts, passes functional/performance review and receives explicit precinct acceptance before release."
+        },
+        {
+          "id": "CE-EST-BRIDGE-01",
+          "title": "Verify the repaired 3D → EST learning loop",
+          "check": "All four hall stations launch the correct activity, save appropriate evidence and return to the same avatar/world."
+        },
+        {
+          "id": "CE-TEACHER-01",
+          "title": "Reconcile and release the existing teacher matrix",
+          "check": "Real saved reviews persist; demo/evidence-only rows stay inspect-only; student → teacher → resume tested."
+        },
+        {
+          "id": "CE-LEARNING-01",
+          "title": "Align one complete experience and its payoff",
+          "check": "Choose and approve an experience, evidence and payoff; specify only necessary stage/treasury rules and test learning separately from engagement."
+        },
+        {
+          "id": "CE-ART-01",
+          "title": "Resume wardrobe only when the pause is lifted",
+          "check": "Equip/unequip, fabric HEX, save/reload, Studio/town identity and supported animation pass without unacceptable clipping."
+        }
+      ],
+      "spend": "Current additional asset/production spend authorised: zero. No new Tripo, Meshy, Hunyuan or separate Astra jobs. Future spending needs one named problem, exact quoted cost, a hard cap, one candidate and explicit approval; stop after a failed attempt.",
+      "avoid": [
+        "Do not repeat generated whole-map plates or uncontrolled bulk buildings.",
+        "Do not install failed separate-shirt exports or make one character per outfit permutation.",
+        "Do not strip PBR maps or decimate blindly to hit download-size targets.",
+        "Do not equate a Blender import, a local implementation or a passing export with deployed classroom readiness."
+      ],
+      "documents": [
+        {
+          "title": "Current state and source/publication status",
+          "href": "/production/current-state.md"
+        },
+        {
+          "title": "Prioritised next work",
+          "href": "/production/production-plan.md"
+        },
+        {
+          "title": "Full strategy audit and successor handoff",
+          "href": "/production/strategy-audit-2026-09-09.md"
+        },
+        {
+          "title": "Material-change register",
+          "href": "/production/material-changes.md"
+        },
+        {
+          "title": "Session protocol and Definition of Done",
+          "href": "/production/operating-protocol.md"
+        }
+      ],
+      "authority": "Canonical records govern design and current status. Published pages are dated copies. V2-D01–17 and all four 8 September production approvals retain their exact statuses; a later visual approval does not approve RPG terminology, economy rules or curriculum delivery."
+    },
+    "productionDecisions": [
+      {
+        "id": "PROD-20260908-01",
+        "status": "Confirmed",
+        "title": "Reusable digital-tailor and separate environment pipelines",
+        "detail": "Use the actual canonical avatar geometry, landmarks, dimensions, rest matrices and weights. Build reusable scripted avatar/wearable and building/environment pipelines; shirt is the first production run. Do not rely on repeated eyeballing.",
+        "source": "Tania, Build Career Empire asset pipeline, 8 September 2026; continuing Blender Overview."
+      },
+      {
+        "id": "PROD-20260908-02",
+        "status": "Confirmed",
+        "title": "Selectable components, not outfit permutations",
+        "detail": "One shared student character; selectable shirt with HEX fabric colour and saved appearance. A fixed dressed export is only a prototype.",
+        "source": "Tania, Consolidate Career Empire 3D, 8 September 2026: selectable layer correction."
+      },
+      {
+        "id": "PROD-20260908-03",
+        "status": "Confirmed",
+        "title": "Combined school shirt and tie with reversible base top",
+        "detail": "One School shirt with tie component. Equip hides the black base top; body, arms and head remain. Unequip restores the base top. Both current fit runs still fail.",
+        "source": "Tania, Build Career Empire asset pipeline, 8 September 2026: “Yes — make the shirt and tie one uniform top, and hide the black base top when equipped.”"
+      },
+      {
+        "id": "PROD-20260908-04",
+        "status": "Confirmed scope",
+        "title": "Separate editable Blender workbench",
+        "detail": "Use the actual playable assets/layout in a separate working .blend; preserve live playable-3d and export numbered non-live candidates for review.",
+        "source": "Tania, Blender World Editing and Refine Career Empire Blender master, 8 September 2026."
+      }
+    ],
+    "governance": {
+      "schemaVersion": 1,
+      "asOf": "2026-09-09",
+      "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
+      "publication": {
+        "sourceRevision": "V2.9 GitHub migration",
+        "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
+        "observedLiveRevision": "GitHub release not yet verified",
+        "checkedAt": "2026-09-09",
+        "observedLiveSha256": null,
+        "accessCheck": "Continuation connection: Sites get_site returned HTTP 404 NOT_FOUND / project_not_found. Owning-account/workspace access and remote source remain unverified.",
+        "validationReceipt": "/production/github-migration-2026-09-09.md",
+        "status": "GitHub migration being validated; legacy redirect awaits old-account access",
+        "savedVersionId": null,
+        "deploymentId": null,
+        "parity": "New publishing destination authorised; live parity pending",
+        "resume": "Maintain source in the private recovery repository; publish only validated dist-pages output to career-empire-blueprint. Preserve the original Sites project for a future redirect; do not restore it as a competing Blueprint.",
+        "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
+        "primaryHost": "GitHub Pages",
+        "legacySite": {
+          "url": "https://career-empire-3d-blueprint-v2.taniabyrnes.chatgpt.site/",
+          "observedRevision": "V2.6 / 8 September 2026",
+          "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
+          "redirect": "Requested; blocked by owning-account access"
+        }
+      },
+      "registers": [
+        {
+          "title": "Decisions and vetoes",
+          "href": "#decisions"
+        },
+        {
+          "title": "Learning map and honest gaps",
+          "href": "#learning"
+        },
+        {
+          "title": "Work queue and dependencies",
+          "href": "#roadmap"
+        },
+        {
+          "title": "Build and test evidence",
+          "href": "#build"
+        },
+        {
+          "title": "Visual direction and assets",
+          "href": "#visuals"
+        },
+        {
+          "title": "Material changes and contradictions",
+          "href": "/production/material-changes.md"
+        },
+        {
+          "title": "Session protocol and Definition of Done",
+          "href": "/production/operating-protocol.md"
+        },
+        {
+          "title": "Audit and successor handoff",
+          "href": "/production/strategy-audit-2026-09-09.md"
+        },
+        {
+          "title": "GitHub task reconciliation",
+          "href": "/production/github-tracking-audit-2026-09-09.md"
+        }
+      ],
+      "changes": [
+        {
+          "id": "CE-CHANGE-20260909-01",
+          "date": "2026-09-09",
+          "title": "One canonical source; publication is a dated copy",
+          "domain": "Authority",
+          "source": "README.md; data/operations.json; earlier Atlas README",
+          "owner": "Blueprint maintainer",
+          "status": "Implemented locally",
+          "rationale": "V2 source, public V2.6, Atlas and town brief use competing authority labels. Files cannot all own current state.",
+          "dependencies": [],
+          "evidence": [
+            "README.md; data/operations.json; earlier Atlas README",
+            "Fresh public blueprint-records.json: V2.6; canonical baseline 1fc998adcfbb365dc469cb5708be75880f1c57c5",
+            "Sites project_not_found in this account",
+            "All 131 handover manifest entries verified by SHA-256. Older 6 September checkout was dirty and at a different revision; it was not overwritten."
+          ],
+          "nextAction": "Use this Start Here dashboard; integrate/publish with the owning account and verify downloaded records.",
+          "supersededRecord": "REC-BLUEPRINT authority wording",
+          "designApproval": "Not a new design approval",
+          "implementation": "Documentation reconciliation",
+          "deployment": "Public V2.6 observed; audit update not published",
+          "testing": "Source/evidence inspection only",
+          "taniaAcceptance": "Not requested / not recorded"
+        },
+        {
+          "id": "CE-CHANGE-20260909-02",
+          "date": "2026-09-09",
+          "title": "EST route corrected; full learning loop remains unverified",
+          "domain": "EST",
+          "source": "Published playable-3d/app.js inspected 2026-09-09: new URL(../modules/est-prep/index.html, import.meta.url)",
+          "owner": "Game integrator",
+          "status": "Partly verified",
+          "rationale": "The 8 September broken-route statement no longer describes live app.js.",
+          "dependencies": [],
+          "evidence": [
+            "Published playable-3d/app.js inspected 2026-09-09: new URL(../modules/est-prep/index.html, import.meta.url)",
+            "Published modules/est-prep/index.html HTTP 200; app.js includes stage launch observer",
+            "Game source f2b48af; retained app.js local/live hash evidence",
+            "Published app.js SHA-256 37436168527238cf651aa9625892ba4bb04c0c301bfcaf2081c5398c7b40eb6c matches inspected local working file byte-for-byte."
+          ],
+          "nextAction": "Test CORE/TERM/VTCS/BOSS launch, demo and signed-in context, saved evidence and return with fictional accounts.",
+          "supersededRecord": "CE-EST-BRIDGE-01: public route returns 404",
+          "designApproval": "Not a new design approval",
+          "implementation": "Correct relative URL and stage launch code present",
+          "deployment": "Published app.js and destination inspected",
+          "testing": "HTTP/source checks passed; interactive and persistence tests not rerun",
+          "taniaAcceptance": "Not requested / not recorded"
+        },
+        {
+          "id": "CE-CHANGE-20260909-03",
+          "date": "2026-09-09",
+          "title": "Teacher matrix still absent from published dashboard",
+          "domain": "Teacher workflow",
+          "source": "Megatrends dashboards/dashboard.js: buildTeacherESTPrepDataset, renderTeacherESTPrepMatrix, student_response_reviews",
+          "owner": "Learning-platform maintainer; Tania reviews workflow",
+          "status": "Release gap",
+          "rationale": "Local implementation cannot establish public availability or real review persistence.",
+          "dependencies": [],
+          "evidence": [
+            "Megatrends dashboards/dashboard.js: buildTeacherESTPrepDataset, renderTeacherESTPrepMatrix, student_response_reviews",
+            "Published teacher.html and dashboard.js lack teacher-est-prep-progress-view and matrix functions, 2026-09-09",
+            "Implement EST Prep progress view: earlier focused tests reported"
+          ],
+          "nextAction": "Isolate the matrix changes, test fictional class permissions/save/reload and inspect-only fallbacks, then deliberately release.",
+          "supersededRecord": null,
+          "designApproval": "Not a new design approval",
+          "implementation": "Present in local Megatrends",
+          "deployment": "Not present in inspected public dashboard",
+          "testing": "Prior test reports retained; persistence not rerun",
+          "taniaAcceptance": "Not requested / not recorded"
+        },
+        {
+          "id": "CE-CHANGE-20260909-04",
+          "date": "2026-09-09",
+          "title": "Blazer test accepted as a first pass; pause retained",
+          "domain": "Avatar",
+          "source": "Inspect blazer-only GLB asset, 01a08500-39e1-7792-ae84-d54939d09264: “No jacket is weird. But for a first pass it is fine.”; “great! send to live and lets leave it for a while”",
+          "owner": "Avatar integrator",
+          "status": "Prototype paused",
+          "rationale": "Acceptance of a limited demonstration does not certify reversible clothing or a complete body.",
+          "dependencies": [],
+          "evidence": [
+            "Inspect blazer-only GLB asset, 01a08500-39e1-7792-ae84-d54939d09264: “No jacket is weird. But for a first pass it is fine.”; “great! send to live and lets leave it for a while”",
+            "Published app.js / characters.js include jackettest and jacket visibility controls",
+            "dressing-test-comparison.jpg; jacket-repair-comparison.jpg; repaired-walking-preview.gif",
+            "Published characters.js SHA-256 d90795d81c456e9f41e2cf7762cd8d0b522f4adf73f1485552eeb08f00afd687 matches inspected local working file byte-for-byte; this does not verify all assets."
+          ],
+          "nextAction": "Leave the demonstration in place. On authorised resumption, address missing torso/upper arms and sleeve deformation before claiming a complete wardrobe.",
+          "supersededRecord": "CE-ART-01 immediate work priority only; approved component requirement retained",
+          "designApproval": "Shared-skeleton clothing-swap direction; limited test integration authorised",
+          "implementation": "Jacket on/off proof with remaining body and sleeve limitations",
+          "deployment": "Published source confirms test path; binary/runtime not re-tested here",
+          "testing": "Earlier movement/Studio tests reported; broader scenery failures reported",
+          "taniaAcceptance": "First-pass limitation accepted; instruction to leave it for a while, not final wardrobe acceptance"
+        },
+        {
+          "id": "CE-CHANGE-20260909-05",
+          "date": "2026-09-09",
+          "title": "ECC campus plus career corridor; one precinct first",
+          "domain": "Visual production",
+          "source": "Refine Career Empire Blender master, 01a0808f-c02e-7a40-af94-7538beb5ab57: 9 September user list and “Yes great thats good we are on the same page. go ahead”",
+          "owner": "Environment integrator; Tania: finished precinct review",
+          "status": "Approved direction / unfinished production",
+          "rationale": "The later visual direction and six-step sequence refine older civic references without approving a generic city or more hero buildings.",
+          "dependencies": [
+            "Stable approved concept pack",
+            "Named school device and measured acceptance budget"
+          ],
+          "evidence": [
+            "Refine Career Empire Blender master, 01a0808f-c02e-7a40-af94-7538beb5ab57: 9 September user list and “Yes great thats good we are on the same page. go ahead”",
+            "Career-Empire-Visual-Bible.md and Town Rebuild Brief, revised 9 September",
+            "Game b2e4c88 / 3c9f1e7; current studio GLB and coordinate layout are prototypes"
+          ],
+          "nextAction": "Resume candidate layout/approach study → modular textured kit → Studio → assembled precinct → visual/performance review → deliberate release.",
+          "supersededRecord": "CE-ENV-01 latest Home Base/asset-selection priority; older civic imagery as sole visual target",
+          "designApproval": "ECC Career Campus + Campus-to-Career Corridor; Avatar Studio precinct first",
+          "implementation": "Technical Studio asset and layout sketch; modular kit/finished precinct unfinished",
+          "deployment": "Earlier Studio prototype reported live; finished precinct not released",
+          "testing": "No finished-precinct visual or school-device validation",
+          "taniaAcceptance": "Direction/production order accepted; finished precinct not accepted"
+        },
+        {
+          "id": "CE-CHANGE-20260909-06",
+          "date": "2026-09-09",
+          "title": "RPG terminology remains an authority conflict",
+          "domain": "Design",
+          "source": "data/blueprint.ts V2-D13",
+          "owner": "Tania: any design change",
+          "status": "Open",
+          "rationale": "Town brief calls the product an RPG while V2-D13 explicitly retains career/life simulation, not RPG. Visual approval is not a terminology or mechanics change.",
+          "dependencies": [
+            "V2-D13"
+          ],
+          "evidence": [
+            "data/blueprint.ts V2-D13",
+            "Town Rebuild Brief §1 career-life RPG"
+          ],
+          "nextAction": "Use career/life simulation in canonical current prose; ask Tania only if a genre/mechanics change is proposed. Add a superseding decision if she changes it.",
+          "supersededRecord": null,
+          "designApproval": "Not a new design approval",
+          "implementation": "Documentation reconciliation",
+          "deployment": "Not applicable",
+          "testing": "Source/evidence inspection only",
+          "taniaAcceptance": "Not requested / not recorded"
+        },
+        {
+          "id": "CE-CHANGE-20260909-07",
+          "date": "2026-09-09",
+          "title": "Curriculum baseline and delivery cohort need reconciliation",
+          "domain": "Curriculum",
+          "source": "data/blueprint.ts syllabusUrl/sourceDocuments; data/curriculum.json",
+          "owner": "Tania: curriculum owner",
+          "status": "Open",
+          "rationale": "Atlas is 2026; V2 uses 2027 alongside 2026 school documents and sample timing. Both official editions exist; latest does not identify the intended cohort.",
+          "dependencies": [
+            "Official edition and annual EST document",
+            "School program and assessment schedule"
+          ],
+          "evidence": [
+            "data/blueprint.ts syllabusUrl/sourceDocuments; data/curriculum.json",
+            "Earlier Atlas README and experienceData.ts",
+            "SCSA course hub checked 2026-09-09: 2026 syllabus and 2027 under What is changing; 2026 EST listed"
+          ],
+          "nextAction": "Tania confirms cohort/year; compare edition wording and annual EST selection before teaching approval. Preserve current exact IDs, details and semester boundaries.",
+          "supersededRecord": null,
+          "designApproval": "Not a new design approval",
+          "implementation": "Documentation reconciliation",
+          "deployment": "Not applicable",
+          "testing": "Course hub rechecked; no full edition-difference audit or classroom validation",
+          "taniaAcceptance": "Not requested / not recorded"
+        },
+        {
+          "id": "CE-CHANGE-20260909-08",
+          "date": "2026-09-09",
+          "title": "Learning slice and whole-year journey remain proposals",
+          "domain": "Learning",
+          "source": "data/blueprint.ts experiences/yearArc and V2-D01/02/03/15/16",
+          "owner": "Tania with learning designer",
+          "status": "Open",
+          "rationale": "A working world and many mapped points do not prove a coherent taught year. First learning slice, timing and thresholds remain unapproved.",
+          "dependencies": [
+            "CE-CHANGE-20260909-07"
+          ],
+          "evidence": [
+            "data/blueprint.ts experiences/yearArc and V2-D01/02/03/15/16",
+            "data/operations.json pilot: Not approved for build",
+            "docs/conversation-audit-2026-09-06.md A01–A06/A11–A13"
+          ],
+          "nextAction": "Choose one complete experience, required/optional time, access/catch-up, evidence, teacher rubric and separate engagement/learning thresholds; preserve Units 3/4 in their semesters.",
+          "supersededRecord": null,
+          "designApproval": "Experience-first purpose approved; example remains proposed",
+          "implementation": "Documentation reconciliation",
+          "deployment": "Not applicable",
+          "testing": "Source/evidence inspection only",
+          "taniaAcceptance": "Not requested / not recorded"
+        },
+        {
+          "id": "CE-CHANGE-20260909-09",
+          "date": "2026-09-09",
+          "title": "Economy and progression principles are not final rules",
+          "domain": "Economy",
+          "source": "V2-D04/05/06/11/13/14; legacyTracks and ideaRegister",
+          "owner": "Tania: rules; platform maintainer: integrity",
+          "status": "Open",
+          "rationale": "Tax-funded class growth is approved; stage previews, historic 10% and later chapter/economy lists do not settle balances, triggers or wellbeing scores.",
+          "dependencies": [
+            "CE-CHANGE-20260909-08"
+          ],
+          "evidence": [
+            "V2-D04/05/06/11/13/14; legacyTracks and ideaRegister",
+            "Game economy-ledger-standard.md; Town Rebuild Brief §§3,12,13",
+            "Current phase selector: Disrepair/Growth/Flourishing"
+          ],
+          "nextAction": "For the selected pilot define earnings/tax/spend authority, idempotent reward event, treasury/stage interaction, absence and recovery. Keep class presence future; rankings/trading not approved.",
+          "supersededRecord": null,
+          "designApproval": "Not a new design approval",
+          "implementation": "Existing module ledger and manual visual phases; integrated earned town progression not established",
+          "deployment": "Not applicable",
+          "testing": "Source/evidence inspection only",
+          "taniaAcceptance": "Not requested / not recorded"
+        },
+        {
+          "id": "CE-CHANGE-20260909-10",
+          "date": "2026-09-09",
+          "title": "Retain Three.js/Rapier and existing learning services",
+          "domain": "Architecture",
+          "source": "Game playable-3d README/app.js/profiles.js",
+          "owner": "Game and learning-platform maintainers",
+          "status": "Integration pending",
+          "rationale": "Asset production, browser world, school identity, evidence, review and rewards are distinct systems. Old platform proposals do not authorise replacement.",
+          "dependencies": [
+            "CE-CHANGE-20260909-02",
+            "CE-CHANGE-20260909-03"
+          ],
+          "evidence": [
+            "Game playable-3d README/app.js/profiles.js",
+            "Game auth-and-user-management.md, database-schema.md, permissions-map.md",
+            "Megatrends response-moderation and economy-ledger services"
+          ],
+          "nextAction": "Specify and test student/class identity, profile ownership, session bridging, evidence/review permissions, reward duplication and resume. Source backup is not a tested database restore.",
+          "supersededRecord": null,
+          "designApproval": "Not a new design approval",
+          "implementation": "3D local profiles and existing HTML/service platform; complete integration unverified",
+          "deployment": "Not applicable",
+          "testing": "Source/evidence inspection only",
+          "taniaAcceptance": "Not requested / not recorded"
+        },
+        {
+          "id": "CE-CHANGE-20260909-11",
+          "date": "2026-09-09",
+          "title": "Failed pipelines and earlier vetoes stay visible",
+          "domain": "Production learning",
+          "source": "V2-D08/09/10/12/13/15/17; PROD-20260908-01–04",
+          "owner": "All implementers",
+          "status": "Retained",
+          "rationale": "Export success, image approval and animation presence repeatedly overstated production readiness. Preserve failures to prevent repetition.",
+          "dependencies": [],
+          "evidence": [
+            "V2-D08/09/10/12/13/15/17; PROD-20260908-01–04",
+            "8 September current-state history: both shirt runs FAIL; whole-world export not approved",
+            "Blazer conversation: independent walking jacket curls like legs; shared skeleton retained"
+          ],
+          "nextAction": "Reuse actual masters/materials; keep garment and environment pipelines separate. Fit and render in actual runtime; do not buy/generate replacements without a named capped approval.",
+          "supersededRecord": null,
+          "designApproval": "Existing vetoes and four production approvals preserved",
+          "implementation": "Documentation reconciliation",
+          "deployment": "Not applicable",
+          "testing": "Historical failure evidence retained, not rerun",
+          "taniaAcceptance": "Not requested / not recorded"
+        },
+        {
+          "id": "CE-CHANGE-20260909-12",
+          "date": "2026-09-09",
+          "title": "Dashboard, living registers and mandatory session close",
+          "domain": "Governance",
+          "source": "Tania current production-strategy audit request",
+          "owner": "Blueprint maintainer",
+          "status": "Implemented locally",
+          "rationale": "A reliable entry point and enforced record completeness address stale summaries; instructions alone cannot guarantee other accounts or unattended synchronization.",
+          "dependencies": [],
+          "evidence": [
+            "Tania current production-strategy audit request",
+            "V2-D07; original Blueprint AGENTS.md"
+          ],
+          "nextAction": "Run records and checks, carry the exact patch to the owning account, reconcile remote head and publish; verify public parity and record Tania acceptance separately.",
+          "supersededRecord": null,
+          "designApproval": "Documentation/update-system implementation requested",
+          "implementation": "Documentation reconciliation",
+          "deployment": "Blocked: existing Sites project unavailable to this account",
+          "testing": "See session close validation record",
+          "taniaAcceptance": "Requested work; final acceptance pending"
+        },
+        {
+          "id": "CE-CHANGE-20260909-13",
+          "date": "2026-09-09",
+          "title": "Final audit validation and confirmed publication-access blocker",
+          "domain": "Governance and release",
+          "source": "Tania continuation request and concern about the stale live Blueprint, 9 September 2026",
+          "owner": "Blueprint maintainer; owning-account operator for publication",
+          "status": "Validated locally; publication blocked",
+          "rationale": "All 41 resume-package outputs already matched canonical source. Final validation must distinguish a working V2.8 source from the still-live V2.6 publication; neither a package nor a successful build proves deployment.",
+          "dependencies": [
+            "CE-CHANGE-20260909-12",
+            "Owning-account access to the existing Sites project"
+          ],
+          "evidence": [
+            "/production/audit-release-check-2026-09-09.md",
+            "/evidence/strategy-release-20260909-final/blueprint-v24-start-desktop.png",
+            "/evidence/strategy-release-20260909-final/blueprint-v24-start-mobile.png"
+          ],
+          "nextAction": "Restore access, inspect remote HEAD and existing audience, reconcile the newer canonical source, validate, push/save/deploy once, and compare the live public-record hash. Do not create a replacement Blueprint.",
+          "supersededRecord": null,
+          "designApproval": "Audit continuation authorised; no gameplay or asset-production approval added",
+          "implementation": "Reviewed audit diff, corrected outdated browser selectors, added V2.8 status/register/export/private-path checks and failure diagnostics; updated continuation records and handoff",
+          "deployment": "Not performed: HTTP 404 NOT_FOUND / project_not_found at Sites get_site; no source push or saved version",
+          "testing": "28/28 data tests, TypeScript, focused lint and production build pass. Full production-preview browser suite passes at 320/390/768/1024/1280 widths; no page errors or document overflow. See release check for limitations.",
+          "taniaAcceptance": "Continuation requested; final audit, classroom and visual acceptance remain pending"
+        },
+        {
+          "id": "CE-CHANGE-20260909-14",
+          "date": "2026-09-09",
+          "title": "GitHub tracking inventory and outdated planning authority",
+          "domain": "Governance and audit scope",
+          "source": "Tania asked about GitHub jobs/lists and possible md/mdb files after interrupting migration scaffolding",
+          "owner": "Blueprint maintainer; Tania decides tracking workflow",
+          "status": "Read-only inventory complete within access; Projects board gap explicit",
+          "rationale": "Recent code/automation does not mean old issue lists or planning prose are current. The original audit did not include a complete GitHub Issues/Projects inventory.",
+          "dependencies": [
+            "CE-CHANGE-20260909-13",
+            "read:project permission for board inventory"
+          ],
+          "evidence": [
+            "/production/github-tracking-audit-2026-09-09.md",
+            "https://github.com/taniab1975/GTCEM-Career-Empire/issues/20",
+            "https://github.com/taniab1975/GTCEM-Career-Empire/commits/main/docs/project-memory.md"
+          ],
+          "nextAction": "Keep Blueprint authority; reconcile nine open legacy issues against current decisions before linking active tickets. Add historical pointers to old plans only in a separately authorised repository update. Resume interrupted hosting migration without assuming its new scaffold is validated.",
+          "supersededRecord": null,
+          "designApproval": "No design approval changed; linked-issue workflow is a recommendation",
+          "implementation": "Recorded issue/document/job dates, concrete outdated guidance and board-access limitation; no remote tracker mutations",
+          "deployment": "No new publication; preceding GitHub migration remains unfinished",
+          "testing": "Read-only GitHub API inspection and document comparison; no new runtime or classroom test claim",
+          "taniaAcceptance": "Advice requested; tracking workflow decision pending"
+        },
+        {
+          "id": "CE-CHANGE-20260909-15",
+          "date": "2026-09-09",
+          "title": "GitHub publication and linked execution tracking authorised",
+          "domain": "Publication and governance",
+          "source": "Tania requested GitHub hosting and later accepted the Blueprint-authority/linked-issue recommendation, 9 September 2026",
+          "owner": "Blueprint maintainer; Tania retains design acceptance",
+          "status": "Authorised; implementation in progress",
+          "rationale": "Multiple ChatGPT accounts and Sites credit/access limits prevent reliable publication. One public GitHub delivery copy with private canonical source removes that dependency; old tasks must not compete with the Blueprint.",
+          "dependencies": [
+            "CE-CHANGE-20260909-14",
+            "Reviewed static output and GitHub Pages access"
+          ],
+          "evidence": [
+            "/production/github-migration-2026-09-09.md",
+            "/production/github-tracking-audit-2026-09-09.md"
+          ],
+          "nextAction": "Validate and publish public-only static output, record live hashes, link historical tasks to current Blueprint decisions, and retain the old-site redirect as blocked until account access returns.",
+          "supersededRecord": null,
+          "designApproval": "Hosting migration and single-authority linked-task workflow approved; no gameplay change",
+          "implementation": "Static adapter reuses existing React views and canonical JSON; private recovery/public build separation; legacy task triage",
+          "deployment": "Pending validation and GitHub publication; no old-site redirect yet",
+          "testing": "Data, static path, TypeScript, builds and desktop/mobile/live checks required before completion",
+          "taniaAcceptance": "Explicit approval to carry on with recommendation; final visual/classroom acceptance remains separate"
+        }
+      ],
+      "sessionStart": [
+        "Read README, current-state, operations and AGENTS.md.",
+        "Verify source checkout/revision, public revision and open changes; do not assume parity.",
+        "Read applicable decisions and source evidence; separate user approval from assistant reports.",
+        "Name bounded scope, owner, dependencies, acceptance checks and record the discussion before work."
+      ],
+      "sessionClose": [
+        "Append material-change record; preserve the superseded record and rationale.",
+        "Update current state, work queue, affected design/asset records, discussion log and AGENTS.md.",
+        "Regenerate exports; validate record completeness, links, baseline decisions, type/build and focused checks.",
+        "Record source, saved version, deployment, live parity, testing and Tania acceptance separately.",
+        "If blocked, provide exact patch/base hashes and resume steps; do not create another master."
+      ],
+      "definitionOfDone": [
+        "Approved scope or explicitly labelled proposal; evidence linked.",
+        "Implementation, deployment, testing and Tania acceptance individually recorded.",
+        "Blueprint registers/current summary/next action and AGENTS.md updated.",
+        "Generated views current; relevant checks pass or named limitations block readiness claims.",
+        "Publication verified or explicitly blocked with integration package and successor steps."
+      ],
+      "retainedPrinciples": [
+        "Engagement is essential to learning.",
+        "Learning is experienced, not merely tested.",
+        "The Career Learning Cycle drives the experience.",
+        "Agency must be genuine.",
+        "The game builds efficacy.",
+        "The player builds a life, not selects one fixed future.",
+        "Choices produce visible and meaningful consequences.",
+        "Growth changes both the learner and the world.",
+        "Career plans are provisional and adaptability is normal.",
+        "Success is broader than income, grades or occupational prestige.",
+        "Failure creates learning and recovery, not humiliation or permanent exclusion.",
+        "Every curriculum requirement is deliberately mapped and evidenced.",
+        "Students receive repeated opportunities to improve and demonstrate achievement.",
+        "Individual agency and collective responsibility coexist.",
+        "Classroom usability, inclusion and accessibility are design requirements.",
+        "The opening shows intriguing possibility, not finished abundance.",
+        "Complexity must earn its place.",
+        "Only approved, bounded work moves into production."
+      ],
+      "principlesSource": "Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries"
+    }
+  },
+  "curriculum": [
+    {
+      "id": "CEM12-U3-ES-COM-01",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Communication skills",
+      "text": "use appropriate terminology, spelling and grammar to convey information effectively and clearly",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 7,
+      "aliases": [
+        "CEM12-U3-COM-01"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-COM-02",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Communication skills",
+      "text": "apply written and verbal communication skills to communicate an intended message, taking into account purpose, target audience and suitable format/s",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 7,
+      "aliases": [
+        "CEM12-U3-COM-02"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-COM-03",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Communication skills",
+      "text": "use non-verbal communication skills, including body language, facial expressions and tone of voice, to build a connection with a target audience",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 7,
+      "aliases": [
+        "CEM12-U3-COM-03"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-COM-04",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Communication skills",
+      "text": "apply active listening skills by focusing on the speaker's words, asking questions to check for understanding and responding thoughtfully",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 7,
+      "aliases": [
+        "CEM12-U3-COM-04"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-DIG-01",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Digital literacy skills",
+      "text": "navigate the internet to locate reliable sources of information",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 7,
+      "aliases": [
+        "CEM12-U3-DIG-01"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-DIG-02",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Digital literacy skills",
+      "text": "apply online safety processes to prevent criminal activity and negative impacts on digital footprint",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 7,
+      "aliases": [
+        "CEM12-U3-DIG-02"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-DIG-03",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Digital literacy skills",
+      "text": "use electronic media to communicate information via email, text messages, video calls and/or webinars",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 7,
+      "aliases": [
+        "CEM12-U3-DIG-03"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-DIG-04",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Digital literacy skills",
+      "text": "use work-related software applications to create documents, presentations and spreadsheets",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 7,
+      "aliases": [
+        "CEM12-U3-DIG-04"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-TEAM-01",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Teamwork skills",
+      "text": "build rapport with team members",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 7,
+      "aliases": [
+        "CEM12-U3-TEAM-01"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-TEAM-02",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Teamwork skills",
+      "text": "perform team role/s and responsibilities",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 7,
+      "aliases": [
+        "CEM12-U3-TEAM-02"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-TEAM-03",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Teamwork skills",
+      "text": "act reliably by completing assigned tasks on time and to the expected standard",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 7,
+      "aliases": [
+        "CEM12-U3-TEAM-03"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-TEAM-04",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Teamwork skills",
+      "text": "consider the ideas and opinions of team members with the view to reaching a consensus",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 7,
+      "aliases": [
+        "CEM12-U3-TEAM-04"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-TIME-01",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Time management skills",
+      "text": "plan and prioritise tasks to meet specific deadlines",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 8,
+      "aliases": [
+        "CEM12-U3-TIME-01"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-TIME-02",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Time management skills",
+      "text": "use productivity tools and applications, where applicable",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 8,
+      "aliases": [
+        "CEM12-U3-TIME-02"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-TIME-03",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Time management skills",
+      "text": "track progress when completing tasks and reassess priorities for unexpected events",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 8,
+      "aliases": [
+        "CEM12-U3-TIME-03"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-CRIT-01",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Critical thinking skills",
+      "text": "apply research skills to collect reliable information that is relevant to a given task",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 8,
+      "aliases": [
+        "CEM12-U3-CRIT-01"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-CRIT-02",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Critical thinking skills",
+      "text": "analyse, compare and evaluate information to develop a solution for a given task",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 8,
+      "aliases": [
+        "CEM12-U3-CRIT-02"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-CRIT-03",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Critical thinking skills",
+      "text": "reflect on biases that may impact on decision-making",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 8,
+      "aliases": [
+        "CEM12-U3-CRIT-03"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-PROB-01",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Problem-solving skills",
+      "text": "use open and closed questioning techniques to determine the nature of a situation and/or issue",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 8,
+      "aliases": [
+        "CEM12-U3-PROB-01"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-PROB-02",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Problem-solving skills",
+      "text": "generate a list of possible solutions",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 8,
+      "aliases": [
+        "CEM12-U3-PROB-02"
+      ]
+    },
+    {
+      "id": "CEM12-U3-ES-PROB-03",
+      "unit": "Unit 3",
+      "component": "Employability skills",
+      "area": "Problem-solving skills",
+      "text": "apply a decision-making model to plan, implement and evaluate possible solutions",
+      "source": "SCSA Year 12 syllabus, Unit 3 Employability skills",
+      "syllabusYear": 2027,
+      "page": 8,
+      "aliases": [
+        "CEM12-U3-PROB-03"
+      ]
+    },
+    {
+      "id": "CEM12-U3-PM-01",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Personal management",
+      "text": "the concept of career adaptability",
+      "source": "SCSA Year 12 syllabus, Unit 3 Personal management",
+      "syllabusYear": 2027,
+      "page": 8,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-PM-02",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Personal management",
+      "text": "unexpected life events and their impact on career planning, including:",
+      "details": [
+        "breakdowns in relationships",
+        "geographic relocation",
+        "changes to financial circumstances",
+        "physical and mental health challenges"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 3 Personal management",
+      "syllabusYear": 2027,
+      "page": 8,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-PM-03",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Personal management",
+      "text": "the concepts of personal and professional risks",
+      "source": "SCSA Year 12 syllabus, Unit 3 Personal management",
+      "syllabusYear": 2027,
+      "page": 8,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-PM-04",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Personal management",
+      "text": "advantages and disadvantages of taking personal and professional risks, including:",
+      "details": [
+        "relocating",
+        "accepting less pay",
+        "taking a gap year",
+        "undergoing re-training"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 3 Personal management",
+      "syllabusYear": 2027,
+      "page": 8,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-PM-05",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Personal management",
+      "text": "strategies to manage personal finance, including:",
+      "details": [
+        "setting financial goals",
+        "tracking income and spending",
+        "budgeting",
+        "saving and investing",
+        "planning for the unexpected",
+        "seeking assistance"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 3 Personal management",
+      "syllabusYear": 2027,
+      "page": 8,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-LWE-01",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Learning and work exploration",
+      "text": "labour market information relating to a range of jobs, including:",
+      "details": [
+        "skills shortage areas",
+        "geographic location",
+        "industry growth areas",
+        "emerging industries",
+        "green industries",
+        "local, national and global trends"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 3 Learning and work exploration",
+      "syllabusYear": 2027,
+      "page": 9,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-LWE-02",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Learning and work exploration",
+      "text": "the concept of a growth industry",
+      "source": "SCSA Year 12 syllabus, Unit 3 Learning and work exploration",
+      "syllabusYear": 2027,
+      "page": 9,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-LWE-03",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Learning and work exploration",
+      "text": "advantages and disadvantages of seeking employment in strong growth, average growth and negative growth industries",
+      "source": "SCSA Year 12 syllabus, Unit 3 Learning and work exploration",
+      "syllabusYear": 2027,
+      "page": 9,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-EB-01",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Enterprising behaviours",
+      "text": "the concept of initiative",
+      "source": "SCSA Year 12 syllabus, Unit 3 Enterprising behaviours",
+      "syllabusYear": 2027,
+      "page": 9,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-EB-02",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Enterprising behaviours",
+      "text": "ways to show initiative at work, including:",
+      "details": [
+        "being proactive",
+        "identifying ways to improve current work practices",
+        "vocalising your opinions",
+        "helping fellow workers",
+        "seeking more responsibilities"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 3 Enterprising behaviours",
+      "syllabusYear": 2027,
+      "page": 9,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-EB-03",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Enterprising behaviours",
+      "text": "benefits of using initiative in the workplace, including:",
+      "details": [
+        "increased empowerment and recognition",
+        "increased efficiency",
+        "to create work opportunities (for example, promotion)"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 3 Enterprising behaviours",
+      "syllabusYear": 2027,
+      "page": 9,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-CB-01",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Career building",
+      "text": "the job application process",
+      "source": "SCSA Year 12 syllabus, Unit 3 Career building",
+      "syllabusYear": 2027,
+      "page": 9,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-CB-02",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Career building",
+      "text": "requirements specified in a job advertisement, including the:",
+      "details": [
+        "job description",
+        "job location",
+        "qualifications required",
+        "selection criteria",
+        "application process and deadline"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 3 Career building",
+      "syllabusYear": 2027,
+      "page": 9,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-CB-03",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Career building",
+      "text": "methods of responding to a job opportunity, including:",
+      "details": [
+        "online",
+        "written",
+        "verbal"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 3 Career building",
+      "syllabusYear": 2027,
+      "page": 9,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-CB-04",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Career building",
+      "text": "purpose of a cover letter in response to a specific job advertisement",
+      "source": "SCSA Year 12 syllabus, Unit 3 Career building",
+      "syllabusYear": 2027,
+      "page": 9,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-CB-05",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Career building",
+      "text": "format of a cover letter",
+      "source": "SCSA Year 12 syllabus, Unit 3 Career building",
+      "syllabusYear": 2027,
+      "page": 9,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-CB-06",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "Career building",
+      "text": "techniques for addressing selection criteria and interview questions, including:",
+      "details": [
+        "SAO (situation, action, outcome)",
+        "STAR (situation, task, action, result)",
+        "CAR (context, action, result)"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 3 Career building",
+      "syllabusYear": 2027,
+      "page": 9,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-NOW-01",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "The nature of work",
+      "text": "the concept of megatrends",
+      "source": "SCSA Year 12 syllabus, Unit 3 The nature of work",
+      "syllabusYear": 2027,
+      "page": 10,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-NOW-02",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "The nature of work",
+      "text": "types of megatrends, including:",
+      "details": [
+        "economic power shifts",
+        "demographic shifts",
+        "impactful technology",
+        "climate change"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 3 The nature of work",
+      "syllabusYear": 2027,
+      "page": 10,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-NOW-03",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "The nature of work",
+      "text": "the impact of megatrends on the future of work, including:",
+      "details": [
+        "work environments",
+        "types of employment",
+        "emerging and declining jobs"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 3 The nature of work",
+      "syllabusYear": 2027,
+      "page": 10,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-NOW-04",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "The nature of work",
+      "text": "importance of recognising and adjusting for diversity within a workplace",
+      "source": "SCSA Year 12 syllabus, Unit 3 The nature of work",
+      "syllabusYear": 2027,
+      "page": 10,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U3-NOW-05",
+      "unit": "Unit 3",
+      "component": "Career knowledge and understanding",
+      "area": "The nature of work",
+      "text": "strategies for working with diversity within a workplace, such as:",
+      "details": [
+        "encouraging cultural celebrations",
+        "developing anti-discrimination policies and enforcing them",
+        "actively seeking out new perspectives and ideas"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 3 The nature of work",
+      "syllabusYear": 2027,
+      "page": 10,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-ES-COM-01",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Communication skills",
+      "text": "use appropriate terminology, spelling and grammar to convey information effectively and clearly",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 11,
+      "aliases": [
+        "CEM12-U4-COM-01"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-COM-02",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Communication skills",
+      "text": "apply written and verbal communication skills to communicate an intended message, taking into account purpose, target audience and suitable format/s",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 11,
+      "aliases": [
+        "CEM12-U4-COM-02"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-COM-03",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Communication skills",
+      "text": "use non-verbal communication skills, including body language, facial expressions and tone of voice, to build a connection with a target audience",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 11,
+      "aliases": [
+        "CEM12-U4-COM-03"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-COM-04",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Communication skills",
+      "text": "apply active listening skills by focusing on the speaker's words, asking questions to check for understanding and responding thoughtfully",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 11,
+      "aliases": [
+        "CEM12-U4-COM-04"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-DIG-01",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Digital literacy skills",
+      "text": "navigate the internet to locate reliable sources of information",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 11,
+      "aliases": [
+        "CEM12-U4-DIG-01"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-DIG-02",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Digital literacy skills",
+      "text": "apply online safety processes to prevent criminal activity and negative impacts on digital footprint",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 11,
+      "aliases": [
+        "CEM12-U4-DIG-02"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-DIG-03",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Digital literacy skills",
+      "text": "use electronic media to communicate information via email, text messages, video calls and/or webinars",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 11,
+      "aliases": [
+        "CEM12-U4-DIG-03"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-DIG-04",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Digital literacy skills",
+      "text": "use work-related software applications to create documents, presentations and spreadsheets",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 11,
+      "aliases": [
+        "CEM12-U4-DIG-04"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-TEAM-01",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Teamwork skills",
+      "text": "build rapport with team members",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 11,
+      "aliases": [
+        "CEM12-U4-TEAM-01"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-TEAM-02",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Teamwork skills",
+      "text": "perform team role/s and responsibilities",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 11,
+      "aliases": [
+        "CEM12-U4-TEAM-02"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-TEAM-03",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Teamwork skills",
+      "text": "act reliably by completing assigned tasks on time and to the expected standard",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 11,
+      "aliases": [
+        "CEM12-U4-TEAM-03"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-TEAM-04",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Teamwork skills",
+      "text": "consider the ideas and opinions of team members with the view to reaching a consensus",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 11,
+      "aliases": [
+        "CEM12-U4-TEAM-04"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-TIME-01",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Time management skills",
+      "text": "plan and prioritise tasks to meet specific deadlines",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": [
+        "CEM12-U4-TIME-01"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-TIME-02",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Time management skills",
+      "text": "use productivity tools and applications, where applicable",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": [
+        "CEM12-U4-TIME-02"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-TIME-03",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Time management skills",
+      "text": "track progress when completing tasks and reassess priorities for unexpected events",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": [
+        "CEM12-U4-TIME-03"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-CRIT-01",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Critical thinking skills",
+      "text": "apply research skills to collect reliable information that is relevant to a given task",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": [
+        "CEM12-U4-CRIT-01"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-CRIT-02",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Critical thinking skills",
+      "text": "analyse, compare and evaluate information to develop a solution for a given task",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": [
+        "CEM12-U4-CRIT-02"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-CRIT-03",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Critical thinking skills",
+      "text": "reflect on biases that may impact on decision-making",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": [
+        "CEM12-U4-CRIT-03"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-PROB-01",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Problem-solving skills",
+      "text": "use open and closed questioning techniques to determine the nature of a situation and/or issue",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": [
+        "CEM12-U4-PROB-01"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-PROB-02",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Problem-solving skills",
+      "text": "generate a list of possible solutions",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": [
+        "CEM12-U4-PROB-02"
+      ]
+    },
+    {
+      "id": "CEM12-U4-ES-PROB-03",
+      "unit": "Unit 4",
+      "component": "Employability skills",
+      "area": "Problem-solving skills",
+      "text": "apply a decision-making model to plan, implement and evaluate possible solutions",
+      "source": "SCSA Year 12 syllabus, Unit 4 Employability skills",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": [
+        "CEM12-U4-PROB-03"
+      ]
+    },
+    {
+      "id": "CEM12-U4-PM-01",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "Personal management",
+      "text": "strategies for handling feedback on performance, including:",
+      "details": [
+        "using active listening",
+        "asking clarifying questions",
+        "taking time to process emotions",
+        "analysing the feedback",
+        "developing an action plan"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 4 Personal management",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-PM-02",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "Personal management",
+      "text": "the concept of resilience",
+      "source": "SCSA Year 12 syllabus, Unit 4 Personal management",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-PM-03",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "Personal management",
+      "text": "models of resilience, such as the:",
+      "details": [
+        "7 Cs (competence, confidence, connection, character, contribution, coping and control) of resilience",
+        "resilience doughnut"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 4 Personal management",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-LWE-01",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "Learning and work exploration",
+      "text": "the concept of lifelong learning",
+      "source": "SCSA Year 12 syllabus, Unit 4 Learning and work exploration",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-LWE-02",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "Learning and work exploration",
+      "text": "benefits of lifelong learning for career development",
+      "source": "SCSA Year 12 syllabus, Unit 4 Learning and work exploration",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-LWE-03",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "Learning and work exploration",
+      "text": "elements of continuing professional development, including:",
+      "details": [
+        "identifying personal needs",
+        "planning and participating in learning opportunities",
+        "reflecting on learning",
+        "applying learning",
+        "sharing learning with others"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 4 Learning and work exploration",
+      "syllabusYear": 2027,
+      "page": 12,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-EB-01",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "Enterprising behaviours",
+      "text": "the concept and importance of enterprise culture",
+      "source": "SCSA Year 12 syllabus, Unit 4 Enterprising behaviours",
+      "syllabusYear": 2027,
+      "page": 13,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-EB-02",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "Enterprising behaviours",
+      "text": "types of enterprise culture:",
+      "details": [
+        "clan/collaborative",
+        "adhocracy",
+        "hierarchy",
+        "market"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 4 Enterprising behaviours",
+      "syllabusYear": 2027,
+      "page": 13,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-EB-03",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "Enterprising behaviours",
+      "text": "characteristics of successful enterprise cultures, including:",
+      "details": [
+        "vision",
+        "values",
+        "practices",
+        "training and education",
+        "innovation",
+        "leadership",
+        "a culture of continuous improvement"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 4 Enterprising behaviours",
+      "syllabusYear": 2027,
+      "page": 13,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-EB-04",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "Enterprising behaviours",
+      "text": "benefits of aligning an individual's values with an organisation's enterprise culture, including:",
+      "details": [
+        "enhanced motivation and engagement",
+        "improved wellbeing",
+        "ethical decision-making"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 4 Enterprising behaviours",
+      "syllabusYear": 2027,
+      "page": 13,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-CB-01",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "Career building",
+      "text": "types of job interviews, including:",
+      "details": [
+        "face-to-face",
+        "telephone",
+        "one-way video",
+        "online",
+        "panel",
+        "individual",
+        "group"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 4 Career building",
+      "syllabusYear": 2027,
+      "page": 13,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-CB-02",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "Career building",
+      "text": "the job interview process, including:",
+      "details": [
+        "interview preparation",
+        "greeting the interviewers",
+        "responding to questions",
+        "asking questions",
+        "concluding the interview"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 4 Career building",
+      "syllabusYear": 2027,
+      "page": 13,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-CB-03",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "Career building",
+      "text": "nature and role of performance management, including to:",
+      "details": [
+        "assist employees with goal setting",
+        "establish accountability and transparency in the workplace",
+        "help employees make improvements",
+        "recognise and reward achievements"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 4 Career building",
+      "syllabusYear": 2027,
+      "page": 13,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-CB-04",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "Career building",
+      "text": "responding to change and how it may impact an individual's career, including:",
+      "details": [
+        "coping with unemployment",
+        "organisational restructuring",
+        "opportunities for promotion",
+        "feedback and review processes"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 4 Career building",
+      "syllabusYear": 2027,
+      "page": 13,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-NOW-01",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "The nature of work",
+      "text": "the nature and purpose of government legislation relating to employment, including:",
+      "details": [
+        "Work Health and Safety Act 2020",
+        "Equal Opportunity Act 1984 (WA)",
+        "Fair Work Act 2009"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 4 The nature of work",
+      "syllabusYear": 2027,
+      "page": 14,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-NOW-02",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "The nature of work",
+      "text": "understanding the conditions of employment for an industry award, including:",
+      "details": [
+        "wages and allowances",
+        "types of employment and classifications",
+        "leave entitlements",
+        "hours of work",
+        "breaks",
+        "superannuation",
+        "consultation and dispute resolution",
+        "termination of employment and redundancy"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 4 The nature of work",
+      "syllabusYear": 2027,
+      "page": 14,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-NOW-03",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "The nature of work",
+      "text": "the need for rights and protocols for the workplace, including:",
+      "details": [
+        "health and safety",
+        "equal opportunity",
+        "codes of conduct and standards",
+        "appropriate use of technology"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 4 The nature of work",
+      "syllabusYear": 2027,
+      "page": 14,
+      "aliases": []
+    },
+    {
+      "id": "CEM12-U4-NOW-04",
+      "unit": "Unit 4",
+      "component": "Career knowledge and understanding",
+      "area": "The nature of work",
+      "text": "grievance procedures and processes for dealing with issues in the workplace, including:",
+      "details": [
+        "pay and conditions (for example, underpayment of wages, leave entitlements)",
+        "unfair termination",
+        "bullying",
+        "sexual harassment",
+        "discrimination"
+      ],
+      "source": "SCSA Year 12 syllabus, Unit 4 The nature of work",
+      "syllabusYear": 2027,
+      "page": 14,
+      "aliases": []
+    }
+  ],
+  "experiences": [
+    {
+      "status": "Draft",
+      "time": "Bounded introduction; duration to agree",
+      "participation": "Optional personalisation; ready-made avatar available",
+      "purpose": "Engagement",
+      "depths": [],
+      "id": "CE-EXP-V2-00",
+      "name": "Someone I want to become",
+      "semester": 1,
+      "hook": "Arrive in a town full of unrealised potential and choose a character that feels like yours.",
+      "stakes": "Curiosity, identity and belonging; no penalty for skipping cosmetics.",
+      "theory": "No curriculum claim for appearance choices.",
+      "action": "Personalise an avatar, explore Home Base and choose a provisional aspiration.",
+      "evidence": "Usability and engagement observations only, not a curriculum mark.",
+      "recovery": "Change your appearance or aspiration later.",
+      "payoff": "Identity, ownership and a reason to return.",
+      "setting": "Existing Avatar Studio / Home Base",
+      "prerequisites": "None",
+      "curriculumIds": []
+    },
+    {
+      "status": "Draft",
+      "time": "Not estimated; lesson pilot required",
+      "participation": "Planned core experience; accessible equivalent required",
+      "purpose": "Learning",
+      "depths": [
+        "Teach",
+        "Practise",
+        "Apply"
+      ],
+      "id": "CE-EXP-V2-01",
+      "name": "The opportunity I might miss",
+      "semester": 1,
+      "hook": "A job you want is advertised, but your first application does not show why you fit.",
+      "stakes": "The character may miss this opportunity without recognising and addressing the requirements.",
+      "theory": "Job-ad requirements, response methods, cover-letter purpose and format, SAO / STAR / CAR.",
+      "action": "Inspect the ad, compare a weak and strong response, learn the structure, rehearse and submit a revised application.",
+      "evidence": "Annotated ad, matched criteria, cover letter and a reasoned structured response. Teacher checks relevance, not just submission.",
+      "recovery": "Specific feedback, another attempt and another suitable opening. No permanent career lockout.",
+      "payoff": "Greater readiness and possible story opportunity; earnings and item amounts undecided.",
+      "setting": "Employer notice / application service; physical building not fixed",
+      "prerequisites": "Arrival and a provisional goal",
+      "curriculumIds": [
+        "CEM12-U3-CB-01",
+        "CEM12-U3-CB-02",
+        "CEM12-U3-CB-03",
+        "CEM12-U3-CB-04",
+        "CEM12-U3-CB-05",
+        "CEM12-U3-CB-06",
+        "CEM12-U3-ES-COM-01",
+        "CEM12-U3-ES-COM-02",
+        "CEM12-U3-ES-DIG-03",
+        "CEM12-U3-ES-DIG-04",
+        "CEM12-U3-ES-TIME-01"
+      ]
+    },
+    {
+      "status": "Draft",
+      "time": "Not estimated; lesson pilot required",
+      "participation": "Planned core experience; accessible equivalent required",
+      "purpose": "Learning",
+      "depths": [
+        "Teach",
+        "Practise",
+        "Apply"
+      ],
+      "id": "CE-EXP-V2-02",
+      "name": "Which future should I trust?",
+      "semester": 1,
+      "hook": "Two town feeds give incompatible advice about the jobs likely to grow.",
+      "stakes": "A decision based on a misleading claim may cost time or narrow the character's options.",
+      "theory": "Reliable labour-market information, growth industries, comparison and bias.",
+      "action": "Check source, date, place and evidence; compare industries before recommending a pathway.",
+      "evidence": "Source comparison and justified recommendation, including limitations. All labour-market subtopics still need detailed task checks.",
+      "recovery": "New evidence allows a revised plan; the first guess is not a permanent score.",
+      "payoff": "Confidence in judgement and access to more informed options.",
+      "setting": "Town feed / career advice encounter",
+      "prerequisites": "A choice worth investigating",
+      "curriculumIds": [
+        "CEM12-U3-LWE-01",
+        "CEM12-U3-LWE-02",
+        "CEM12-U3-LWE-03",
+        "CEM12-U3-ES-DIG-01",
+        "CEM12-U3-ES-CRIT-01",
+        "CEM12-U3-ES-CRIT-02",
+        "CEM12-U3-ES-CRIT-03"
+      ]
+    },
+    {
+      "status": "Draft",
+      "time": "Not estimated; lesson pilot required",
+      "participation": "Planned core experience; accessible equivalent required",
+      "purpose": "Learning",
+      "depths": [
+        "Teach",
+        "Practise",
+        "Apply"
+      ],
+      "id": "CE-EXP-V2-03",
+      "name": "The town changes overnight",
+      "semester": 1,
+      "hook": "Automation, climate pressure, demographic change or economic shifts alter available work.",
+      "stakes": "The character's original plan may no longer be sufficient.",
+      "theory": "Megatrends, effects on work, adaptability, risk and decision-making.",
+      "action": "Investigate the change, generate alternatives and compare retraining, relocation or a different role.",
+      "evidence": "Trend-to-impact explanation and a decision model with reasons and a review point.",
+      "recovery": "Supported re-planning, not blame for an external shock.",
+      "payoff": "New pathways and visible changes to work in the town.",
+      "setting": "Events across existing workplaces; no mandatory Megatrends building",
+      "prerequisites": "A starter plan and source-checking experience",
+      "curriculumIds": [
+        "CEM12-U3-NOW-01",
+        "CEM12-U3-NOW-02",
+        "CEM12-U3-NOW-03",
+        "CEM12-U3-PM-01",
+        "CEM12-U3-PM-03",
+        "CEM12-U3-PM-04",
+        "CEM12-U3-ES-PROB-01",
+        "CEM12-U3-ES-PROB-02",
+        "CEM12-U3-ES-PROB-03"
+      ]
+    },
+    {
+      "status": "Draft",
+      "time": "Not estimated; lesson pilot required",
+      "participation": "Planned core experience; accessible equivalent required",
+      "purpose": "Learning",
+      "depths": [
+        "Teach",
+        "Practise",
+        "Apply"
+      ],
+      "id": "CE-EXP-V2-04",
+      "name": "Our team is about to let someone down",
+      "semester": 1,
+      "hook": "A shared task is slipping and one colleague's perspective has been overlooked.",
+      "stakes": "A missed promise or poorer outcome affects the fictional team.",
+      "theory": "Initiative, teamwork, diversity, active listening, non-verbal communication and time management.",
+      "action": "Listen to viewpoints, clarify roles, propose an improvement, agree a plan and complete a contribution.",
+      "evidence": "Teacher-observed communication and role performance, plan revisions and a reasoned reflection.",
+      "recovery": "Repair the plan and rebuild trust through actions; no public popularity score.",
+      "payoff": "Competence, team trust and a possible community contribution.",
+      "setting": "Workplace / shared project; scale and location follow the scenario",
+      "prerequisites": "A first work opportunity",
+      "curriculumIds": [
+        "CEM12-U3-EB-01",
+        "CEM12-U3-EB-02",
+        "CEM12-U3-EB-03",
+        "CEM12-U3-NOW-04",
+        "CEM12-U3-NOW-05",
+        "CEM12-U3-ES-COM-03",
+        "CEM12-U3-ES-COM-04",
+        "CEM12-U3-ES-TEAM-01",
+        "CEM12-U3-ES-TEAM-02",
+        "CEM12-U3-ES-TEAM-03",
+        "CEM12-U3-ES-TEAM-04",
+        "CEM12-U3-ES-TIME-02",
+        "CEM12-U3-ES-TIME-03"
+      ]
+    },
+    {
+      "status": "Draft",
+      "time": "Not estimated; lesson pilot required",
+      "participation": "Planned core experience; accessible equivalent required",
+      "purpose": "Learning",
+      "depths": [
+        "Teach",
+        "Practise",
+        "Apply",
+        "Reinforce"
+      ],
+      "id": "CE-EXP-V2-05",
+      "name": "My plan no longer adds up",
+      "semester": 1,
+      "hook": "Reduced shifts or an unexpected cost puts something the character cares about at risk.",
+      "stakes": "A planned purchase or opportunity may be delayed unless the character adapts.",
+      "theory": "Financial goals, tracking, budgeting, saving and investing, contingency and seeking assistance; life events and risk.",
+      "action": "Inspect a fictional budget, seek instruction, compare options and revise the plan with a contingency.",
+      "evidence": "Before/after budget, justified trade-off and support pathway. Fictional figures only; no personal family disclosure.",
+      "recovery": "Support, alternative routes and another attempt remain available even at zero funds.",
+      "payoff": "Preparedness and control over a revised plan; wealth is not the learning grade.",
+      "setting": "Home Base / support encounter",
+      "prerequisites": "Fictional income and commitments established",
+      "curriculumIds": [
+        "CEM12-U3-PM-02",
+        "CEM12-U3-PM-05",
+        "CEM12-U3-ES-TIME-01",
+        "CEM12-U3-ES-TIME-03",
+        "CEM12-U3-ES-PROB-03"
+      ]
+    },
+    {
+      "status": "Draft",
+      "time": "Not estimated; lesson pilot required",
+      "participation": "Planned core experience; accessible equivalent required",
+      "purpose": "Learning",
+      "depths": [
+        "Teach",
+        "Practise",
+        "Apply",
+        "Reinforce"
+      ],
+      "id": "CE-EXP-V2-06",
+      "name": "A public profile causes a problem",
+      "semester": 1,
+      "hook": "A fictional profile or suspicious message creates an avoidable obstacle to an opportunity.",
+      "stakes": "The character risks sharing information or being misunderstood.",
+      "theory": "Online safety, digital footprint, audience and bias.",
+      "action": "Audit the fictional profile, identify the risk and revise privacy and communication choices.",
+      "evidence": "Risk explanation and safer response. No access to students' real profiles is needed.",
+      "recovery": "Correct the record and practise a safer response without humiliation.",
+      "payoff": "Safer judgement and renewed opportunity.",
+      "setting": "In-world device / application encounter",
+      "prerequisites": "A fictional digital identity",
+      "curriculumIds": [
+        "CEM12-U3-ES-DIG-02",
+        "CEM12-U3-ES-COM-02",
+        "CEM12-U3-ES-CRIT-03"
+      ]
+    },
+    {
+      "status": "Draft",
+      "time": "Not estimated; lesson pilot required",
+      "participation": "Planned core experience; accessible equivalent required",
+      "purpose": "Learning",
+      "depths": [
+        "Practise",
+        "Apply",
+        "Reinforce"
+      ],
+      "id": "CE-EXP-V2-07",
+      "name": "What should our town fund?",
+      "semester": 1,
+      "hook": "The class treasury cannot afford every proposed improvement.",
+      "stakes": "Choosing one upgrade delays another; the town needs reasons, not just votes.",
+      "theory": "Consensus, evidence, communication, budgets and decision-making. The tax model is a simplified simulation, not Australian tax advice.",
+      "action": "Compare fictional costs and benefits, discuss access, propose an allocation and explain a vote.",
+      "evidence": "Proposal, budget and justification. Assess reasoning, not which project wins or who paid most tax.",
+      "recovery": "Deferred proposals remain visible; absent students can contribute through an equivalent task.",
+      "payoff": "A visible class-owned upgrade; interaction with town stage remains an open design decision.",
+      "setting": "Community Board / Design Council service",
+      "prerequisites": "Tax loop and teacher-controlled class treasury approved for a future build",
+      "curriculumIds": [
+        "CEM12-U3-ES-TEAM-04",
+        "CEM12-U3-ES-DIG-04",
+        "CEM12-U3-ES-CRIT-02",
+        "CEM12-U3-ES-PROB-03",
+        "CEM12-U3-PM-05"
+      ]
+    },
+    {
+      "status": "Draft",
+      "time": "Not estimated; lesson pilot required",
+      "participation": "Planned core experience; accessible equivalent required",
+      "purpose": "Learning",
+      "depths": [
+        "Teach",
+        "Practise",
+        "Apply"
+      ],
+      "id": "CE-EXP-V2-08",
+      "name": "The interview becomes real",
+      "semester": 2,
+      "hook": "An attractive next role requires an interview format the character has not used before.",
+      "stakes": "Poor preparation may cost an offer, but not the ability to keep learning.",
+      "theory": "Interview types and process, preparation, greeting, responses, questions and conclusion.",
+      "action": "Compare formats, rehearse with feedback and complete a teacher-observed interview.",
+      "evidence": "Preparation, interview performance and reflection. Simulated dialogue alone does not evidence all verbal/non-verbal skills.",
+      "recovery": "Targeted feedback and another interview opportunity.",
+      "payoff": "Greater capability and a possible role offer.",
+      "setting": "Workplace / interview setting; no fixed new building",
+      "prerequisites": "Semester 1 application techniques; Unit 4 teaching begins",
+      "curriculumIds": [
+        "CEM12-U4-CB-01",
+        "CEM12-U4-CB-02",
+        "CEM12-U4-ES-COM-01",
+        "CEM12-U4-ES-COM-02",
+        "CEM12-U4-ES-COM-03",
+        "CEM12-U4-ES-COM-04"
+      ]
+    },
+    {
+      "status": "Draft",
+      "time": "Not estimated; lesson pilot required",
+      "participation": "Planned core experience; accessible equivalent required",
+      "purpose": "Learning",
+      "depths": [
+        "Teach",
+        "Practise",
+        "Apply"
+      ],
+      "id": "CE-EXP-V2-09",
+      "name": "Feedback I did not want to hear",
+      "semester": 2,
+      "hook": "A performance review shows that effort alone has not met the role's expectations.",
+      "stakes": "A responsibility or promotion may be delayed until the character responds.",
+      "theory": "Handling feedback, resilience models, performance management and career change.",
+      "action": "Listen, clarify, process, analyse and form an improvement plan; practise applying a resilience model.",
+      "evidence": "Response to feedback, an action plan and review of progress. Not a judgement of personality or mental health.",
+      "recovery": "Coaching, adjusted goals and supported re-entry after setbacks.",
+      "payoff": "Growth in capability and an informed next step.",
+      "setting": "Workplace review / mentor encounter",
+      "prerequisites": "A shared record of fictional role expectations",
+      "curriculumIds": [
+        "CEM12-U4-PM-01",
+        "CEM12-U4-PM-02",
+        "CEM12-U4-PM-03",
+        "CEM12-U4-CB-03",
+        "CEM12-U4-CB-04",
+        "CEM12-U4-ES-TIME-01",
+        "CEM12-U4-ES-TIME-02",
+        "CEM12-U4-ES-TIME-03",
+        "CEM12-U4-ES-COM-04"
+      ]
+    },
+    {
+      "status": "Draft",
+      "time": "Not estimated; lesson pilot required",
+      "participation": "Planned core experience; accessible equivalent required",
+      "purpose": "Learning",
+      "depths": [
+        "Teach",
+        "Practise",
+        "Apply"
+      ],
+      "id": "CE-EXP-V2-10",
+      "name": "The next opportunity needs something new",
+      "semester": 2,
+      "hook": "A new role or changed workplace needs a capability the character does not yet have.",
+      "stakes": "The opportunity may be out of reach for now; training has time, cost and effort trade-offs.",
+      "theory": "Lifelong learning, its career benefits and the continuing professional development cycle.",
+      "action": "Identify needs, compare options, plan and undertake learning, reflect, apply and share it.",
+      "evidence": "A CPD plan and evidence of learning transfer and sharing. A training purchase alone is not mastery.",
+      "recovery": "Affordable alternatives, help and revised timing after setbacks.",
+      "payoff": "A wider range of possible futures and useful capability.",
+      "setting": "Workplace, mentor, online provider or community; dedicated hub not required",
+      "prerequisites": "A meaningful capability gap and accessible learning options",
+      "curriculumIds": [
+        "CEM12-U4-LWE-01",
+        "CEM12-U4-LWE-02",
+        "CEM12-U4-LWE-03",
+        "CEM12-U4-ES-DIG-01",
+        "CEM12-U4-ES-CRIT-01",
+        "CEM12-U4-ES-CRIT-02"
+      ]
+    },
+    {
+      "status": "Draft",
+      "time": "Not estimated; lesson pilot required",
+      "participation": "Planned core experience; accessible equivalent required",
+      "purpose": "Learning",
+      "depths": [
+        "Teach",
+        "Practise",
+        "Apply"
+      ],
+      "id": "CE-EXP-V2-11",
+      "name": "Two workplaces, two ways of living",
+      "semester": 2,
+      "hook": "Two plausible workplaces offer different cultures, responsibilities and ways of working.",
+      "stakes": "A good salary does not settle whether either role suits the character's priorities.",
+      "theory": "Enterprise culture, culture types, successful characteristics and alignment with individual values.",
+      "action": "Investigate workplace practices, compare evidence and explain a personally justified choice.",
+      "evidence": "Culture comparison and a reasoned recommendation that considers alternatives and bias.",
+      "recovery": "Plans can change; no single career, income or lifestyle earns a moral score.",
+      "payoff": "Agency, self-knowledge and a chosen direction.",
+      "setting": "Employer encounters / workplace project",
+      "prerequisites": "Unit 4 enterprise culture instruction",
+      "curriculumIds": [
+        "CEM12-U4-EB-01",
+        "CEM12-U4-EB-02",
+        "CEM12-U4-EB-03",
+        "CEM12-U4-EB-04",
+        "CEM12-U4-ES-CRIT-03",
+        "CEM12-U4-ES-TEAM-01",
+        "CEM12-U4-ES-TEAM-02",
+        "CEM12-U4-ES-TEAM-03",
+        "CEM12-U4-ES-TEAM-04",
+        "CEM12-U4-ES-DIG-03",
+        "CEM12-U4-ES-DIG-04"
+      ]
+    },
+    {
+      "status": "Draft",
+      "time": "Not estimated; lesson pilot required",
+      "participation": "Planned core experience; accessible equivalent required",
+      "purpose": "Learning",
+      "depths": [
+        "Teach",
+        "Practise",
+        "Apply"
+      ],
+      "id": "CE-EXP-V2-12",
+      "name": "Something at work is not right",
+      "semester": 2,
+      "hook": "A fictional payslip, unsafe request or unfair treatment raises a concern.",
+      "stakes": "Ignoring the issue can leave the character exposed to detriment; seeking advice is a valid action.",
+      "theory": "Employment legislation, award conditions, workplace protocols and grievance processes.",
+      "action": "Check appropriate current sources, document the issue, compare advice pathways and choose a justified response.",
+      "evidence": "Source-grounded case response. Specific law, award rates and advice services require a fresh authoritative check when the task is written.",
+      "recovery": "Teacher support, a non-personal alternative case and accessible advice; no forced trauma disclosure.",
+      "payoff": "Preparedness to recognise concerns and seek appropriate help.",
+      "setting": "Workplace / advice service; formal Unit 4 learning, not a Unit 3 arbitration module",
+      "prerequisites": "School-safe scenario review and current official sources",
+      "curriculumIds": [
+        "CEM12-U4-NOW-01",
+        "CEM12-U4-NOW-02",
+        "CEM12-U4-NOW-03",
+        "CEM12-U4-NOW-04",
+        "CEM12-U4-ES-DIG-02",
+        "CEM12-U4-ES-PROB-01",
+        "CEM12-U4-ES-PROB-02",
+        "CEM12-U4-ES-PROB-03"
+      ]
+    },
+    {
+      "status": "Draft",
+      "time": "Brief discovery; duration and frequency to test",
+      "participation": "Optional; can occur throughout the year",
+      "purpose": "Engagement",
+      "depths": [],
+      "id": "CE-EXP-V2-13",
+      "name": "A small surprise worth finding",
+      "semester": 2,
+      "hook": "A familiar sign, an unexpected detail or a playful action reveals an original inside joke.",
+      "stakes": "None; missing it never blocks learning.",
+      "theory": "No forced curriculum claim.",
+      "action": "Explore, notice a clue or perform an optional action.",
+      "evidence": "Observe delight and distraction separately; no assessment claim.",
+      "recovery": "No missable essential reward and no compulsory repeated search.",
+      "payoff": "Small treasure, cosmetic token or funny world response; exact rewards to approve.",
+      "setting": "World details chosen after the story and map are established",
+      "prerequisites": "Teacher approval of joke, trigger and original assets",
+      "curriculumIds": []
+    }
+  ],
+  "decisions": [
+    {
+      "id": "V2-D17",
+      "status": "Confirmed",
+      "title": "First shared 3D avatar visual direction",
+      "detail": "Use CE-AVATAR-CONCEPT-001 as the appearance direction for one initial ECC character, retaining the recognisable identity and uniform with cinematic 3D materials and lighting. Prepare the actual model for the existing shared Avatar Studio and world flow before expanding the wardrobe. A generated picture is not a rigged model or tested gameplay. The derived side/back reference, exact crest artwork, modelling route and runtime acceptance remain production checks; no silent age redesign is approved.",
+      "source": "Tania, 7 September 2026: \"yes!\" in response to whether the displayed first ECC concept was the right visual direction before developing the actual model",
+      "replaces": "Resolves the first character appearance-direction gate only. Existing Atlas, curriculum and reward decisions remain unchanged."
+    },
+    {
+      "id": "V2-D16",
+      "status": "Proposed",
+      "title": "Use SCSA sample timing as a flexible scaffold",
+      "detail": "Compare the sample course-outline week blocks with proposed experiences and actual lesson constraints. Keep official suggested timing distinct from the game sequence; Tania has not yet selected a final order. Her earlier program may help check workload and assessment timing.",
+      "source": "Tania, 6 September; SCSA sample course outline for teaching from 2026",
+      "replaces": "No fixed teaching sequence is being imposed."
+    },
+    {
+      "id": "V2-D01",
+      "status": "Confirmed",
+      "title": "Experience creates the need to learn",
+      "detail": "A meaningful encounter comes before explanation, then supported learning, application, consequences and recovery. Detriment may affect the fictional character; the purpose is a reason to learn, not compulsory distress.",
+      "source": "Tania, 6 September 2026; clarifies audit A01",
+      "replaces": "A01 wording that implied theory must always come first."
+    },
+    {
+      "id": "V2-D02",
+      "status": "Confirmed",
+      "title": "One learning map, two directions",
+      "detail": "One set of experience-to-curriculum links powers both views. Preserve exact syllabus points, detail bullets, repeat learning and honest gaps. A mapped proposal is not completed teaching.",
+      "source": "Tania, 6 September; Curriculum Experience Mapping, 4-5 September",
+      "replaces": "V2 initial paraphrased, one-way Unit 3 ledger."
+    },
+    {
+      "id": "V2-D03",
+      "status": "Confirmed",
+      "title": "Whole-year vision; staged delivery",
+      "detail": "Plan the full Year 12 journey. Unit 3 belongs in Semester 1 and Unit 4 in Semester 2. Design the first complete learning slice before expanding the world.",
+      "source": "Tania, 6 September; approved semester boundary retained",
+      "replaces": "Unit 4 as an unspecified parking list only."
+    },
+    {
+      "id": "V2-D04",
+      "status": "Confirmed",
+      "title": "Tax contributes to the shared town",
+      "detail": "Tax from simulated earnings funds class-owned infrastructure and building improvements. The rate, earning sources, spending authorisation and upgrade costs are not locked.",
+      "source": "Tania, 6 September; A09; prior EST setting is 10%",
+      "replaces": "General community rewards without a visible treasury loop."
+    },
+    {
+      "id": "V2-D05",
+      "status": "Open",
+      "title": "How two development layers interact",
+      "detail": "Keep town-wide Disrepair / Growth / Flourishing and consider tax-funded upgrades within each stage. Define what advances each layer, whether funds carry over, and how absence and uneven progress are handled. Cinema/nightclub were illustrative examples, not approved venues.",
+      "source": "Tania, 6 September: likes both layers, rules undecided",
+      "replaces": "No final rule yet."
+    },
+    {
+      "id": "V2-D06",
+      "status": "Open",
+      "title": "Success, values and rewards",
+      "detail": "Several kinds of success are protected. Decide how choices affect finances, relationships, wellbeing, capability and contribution in this Christian-school context. Salary penalties, volunteering benefits and any composite score are not approved.",
+      "source": "Tania, 6 September; earlier Atlas inspiration-over-competition principle",
+      "replaces": "Do not infer a final reward formula from examples."
+    },
+    {
+      "id": "V2-D07",
+      "status": "Confirmed",
+      "title": "Blueprint drives and records every change",
+      "detail": "An approved blueprint step authorises a bounded build. After verification, record what changed, evidence, screenshots or an optional clip, limitations and owner acceptance. A successor must be able to continue without relying on Tania's memory.",
+      "source": "Tania, 6 September; A13-A14",
+      "replaces": "A vision-only page with no implementation ledger."
+    },
+    {
+      "id": "V2-D08",
+      "status": "Confirmed",
+      "title": "Visual continuity from selected 2D work",
+      "detail": "Retain selected strong 2D artwork as inspiration, with source images, reasons and 3D translation notes. Existing artwork does not automatically become a finished 3D model or a locked building requirement.",
+      "source": "Tania, 6 September; A17",
+      "replaces": "Unreferenced new asset production."
+    },
+    {
+      "id": "V2-D09",
+      "status": "Confirmed",
+      "title": "Original inside jokes and discovery",
+      "detail": "Easter eggs mean subtle surprises found through exploration or actions, with little treasures or rewards. Original themes remain the default. The movie anecdote explains the effect, not permission to copy a franchise.",
+      "source": "Tania, 6 September; A15; Atlas CE-DEC-030 retained",
+      "replaces": "Vague movie-reference requirement."
+    },
+    {
+      "id": "V2-D10",
+      "status": "Confirmed",
+      "title": "Experiences determine the map",
+      "detail": "Define what happens to characters, the relevant learning, choices and support first. Derive believable services, zones, routes and asset requirements afterwards. Old building names do not create an automatic construction list.",
+      "source": "Tania, 6 September",
+      "replaces": "Production asset checklist as a driver of the design."
+    },
+    {
+      "id": "V2-D11",
+      "status": "Open",
+      "title": "Four earlier transformation tracks",
+      "detail": "Review Green Futures, Digital Access, Fairer Starts and Wider Horizons as optional project themes. The older map tied separate project stages to taxes and votes; it does not establish approval for their return in V2.",
+      "source": "Audit Phaser map environment; Megatrends world/world.js, inspected 6 September",
+      "replaces": "Assumption that all four tracks must be reinstated."
+    },
+    {
+      "id": "V2-D12",
+      "status": "Confirmed",
+      "title": "Lifelong learning without a forced container",
+      "detail": "Keep the Unit 4 learning obligations. Review a retraining / CPD experience in context; keep a dedicated campaign or building only if it earns its place in the design.",
+      "source": "Tania, 6 September; SCSA 2027 Unit 4, page 12",
+      "replaces": "Automatic restoration of the old Lifelong Learning Hub."
+    },
+    {
+      "id": "V2-D13",
+      "status": "Retained",
+      "title": "Agency, recovery and plural success",
+      "detail": "Career Empire is a career/life simulation, not an RPG. Plans are provisional, setbacks recoverable and the dormant town represents potential rather than personal deficiency. Learning and engagement are tested separately.",
+      "source": "Atlas CE-DEC-026 to 029, 039 to 041; A08/A10/A13",
+      "replaces": "No change to approved purpose."
+    },
+    {
+      "id": "V2-D14",
+      "status": "Retained",
+      "title": "Class presence is a future requirement",
+      "detail": "Same-class presence and visible earned progression were approved as a future direction. Direct chat, trading, rankings and cross-school participation have separate privacy, moderation and design decisions. Do not reopen presence as if never agreed.",
+      "source": "Atlas CE-DEC-034, 035 and 038; A07",
+      "replaces": "V2 initial question treating all visibility as unresolved."
+    },
+    {
+      "id": "V2-D15",
+      "status": "Retained",
+      "title": "Purpose, time and classroom access",
+      "detail": "Declare learning versus engagement, required versus optional, expected time, accessible alternatives and pause/resume/catch-up needs. Cosmetics do not manufacture curriculum evidence.",
+      "source": "Atlas CE-DEC-025; A04-A06",
+      "replaces": "Every feature must claim a curriculum point."
+    }
+  ],
+  "learningLoop": [
+    "Something happens",
+    "I care about the outcome",
+    "I notice what I do not know",
+    "Learn with explanation and examples",
+    "Practise and apply",
+    "See consequences and feedback",
+    "Recover, reflect and transfer"
+  ],
+  "yearArc": [
+    [
+      "Semester 1 / Unit 3",
+      "Arrival and possibility",
+      "Identity and a provisional ambition; curiosity before pressure.",
+      "00"
+    ],
+    [
+      "Semester 1 / Unit 3",
+      "Opportunity and judgement",
+      "A wanted role gives sources, applications and communication a purpose.",
+      "01, 02, 06"
+    ],
+    [
+      "Semester 1 / Unit 3",
+      "Disruption and adaptation",
+      "The town changes; plans and teamwork meet believable constraints. Alternate pressure with support and achievable wins.",
+      "03, 04, 05"
+    ],
+    [
+      "Semester 1 / Unit 3",
+      "Contribution and readiness",
+      "Use learning to help shape the town. EST Prep stays available as efficient direct practice; its annual CORE slot remains separate.",
+      "07"
+    ],
+    [
+      "Semester 2 / Unit 4",
+      "Participation and responsibility",
+      "Interviews, feedback and workplace culture complicate the first idea of success.",
+      "08, 09, 11"
+    ],
+    [
+      "Semester 2 / Unit 4",
+      "Renewal and informed agency",
+      "Retrain, recognise workplace concerns, seek advice and revise a chosen future.",
+      "10, 12"
+    ],
+    [
+      "Year-end / proposed payoff",
+      "Look back, then look ahead",
+      "Reflect on evidence, capability, contribution and changed aspirations. The town is a shared record of progress, not a wealth ranking.",
+      "Reflection experience still to design"
+    ]
+  ],
+  "sampleTiming": [
+    {
+      "semester": 1,
+      "weeks": "1-4",
+      "focus": "Megatrends and their effects on work",
+      "assessment": "Task 1: Investigation",
+      "experiences": [
+        "CE-EXP-V2-03"
+      ],
+      "note": "Could open with a town shock and a provisional ambition; no need to earn a first job before noticing the change."
+    },
+    {
+      "semester": 1,
+      "weeks": "5-6",
+      "focus": "Labour-market information and industry growth",
+      "assessment": "No task specified in this block",
+      "experiences": [
+        "CE-EXP-V2-02"
+      ],
+      "note": "Return to the opening shock and investigate credible future options."
+    },
+    {
+      "semester": 1,
+      "weeks": "7-8",
+      "focus": "Adaptability, life events, risk and personal finance",
+      "assessment": "Task 2: Response",
+      "experiences": [
+        "CE-EXP-V2-03",
+        "CE-EXP-V2-05"
+      ],
+      "note": "Bring the wider change into the character's own plan and budget."
+    },
+    {
+      "semester": 1,
+      "weeks": "9-11",
+      "focus": "Applications, cover letters and structured responses",
+      "assessment": "Task 3: Job application and interview",
+      "experiences": [
+        "CE-EXP-V2-01",
+        "CE-EXP-V2-06"
+      ],
+      "note": "SCSA uses the combined assessment-type name here; formal interview types/process are scheduled in Unit 4."
+    },
+    {
+      "semester": 1,
+      "weeks": "12-13",
+      "focus": "Initiative at work",
+      "assessment": "No task specified in this block",
+      "experiences": [
+        "CE-EXP-V2-04",
+        "CE-EXP-V2-07"
+      ],
+      "note": "An early team problem can now develop into an initiative and community contribution arc."
+    },
+    {
+      "semester": 1,
+      "weeks": "14-15",
+      "focus": "Workplace diversity",
+      "assessment": "Task 4: Externally set task",
+      "experiences": [
+        "CE-EXP-V2-04"
+      ],
+      "note": "EST placement is a sample, not the confirmed 2027 school assessment date or annual CORE content."
+    },
+    {
+      "semester": 2,
+      "weeks": "1-3",
+      "focus": "Interview types and process",
+      "assessment": "Task 5: Job application and interview",
+      "experiences": [
+        "CE-EXP-V2-08"
+      ],
+      "note": "Revisit Semester 1 applications with the complete Unit 4 interview experience."
+    },
+    {
+      "semester": 2,
+      "weeks": "4-6",
+      "focus": "Employment legislation and award conditions",
+      "assessment": "Task 6: Investigation",
+      "experiences": [
+        "CE-EXP-V2-12"
+      ],
+      "note": "First part of the workplace-concern arc; formal rights/protocols and grievances follow later in this sample."
+    },
+    {
+      "semester": 2,
+      "weeks": "7-8",
+      "focus": "Enterprise culture and values alignment",
+      "assessment": "Task 7: Response",
+      "experiences": [
+        "CE-EXP-V2-11"
+      ],
+      "note": "Compare plausible workplaces without prescribing a single ideal lifestyle."
+    },
+    {
+      "semester": 2,
+      "weeks": "9",
+      "focus": "Performance management and handling feedback",
+      "assessment": "No task specified in this block",
+      "experiences": [
+        "CE-EXP-V2-09"
+      ],
+      "note": "A review provides the immediate reason to seek strategies for responding."
+    },
+    {
+      "semester": 2,
+      "weeks": "10-12",
+      "focus": "Workplace rights, protocols and grievance procedures",
+      "assessment": "Task 8: Investigation",
+      "experiences": [
+        "CE-EXP-V2-12"
+      ],
+      "note": "Revisit the earlier concern with stronger knowledge and advice pathways."
+    },
+    {
+      "semester": 2,
+      "weeks": "13-15",
+      "focus": "Resilience, career change, lifelong learning and CPD",
+      "assessment": "No task specified in this block",
+      "experiences": [
+        "CE-EXP-V2-09",
+        "CE-EXP-V2-10"
+      ],
+      "note": "Recovery, renewed opportunity and year-end reflection can supply the payoff."
+    }
+  ],
+  "legacyTracks": [
+    [
+      "Green Futures",
+      "Coal plant offline → cleanup → solar park → waterfall gardens",
+      "Climate / sustainability theme"
+    ],
+    [
+      "Digital Access",
+      "Locked lab → devices → open tech hub → future skills campus",
+      "Access to technology and learning"
+    ],
+    [
+      "Fairer Starts",
+      "Empty lot → support desk → mentor centre → belonging precinct",
+      "Support and inclusion"
+    ],
+    [
+      "Wider Horizons",
+      "Closed road → departure board → airport link → global exchange",
+      "Access to wider opportunities"
+    ]
+  ],
+  "buildRecords": [
+    {
+      "id": "BUILD-BP-AUDIT-20260909",
+      "title": "Production-strategy audit and continuity system",
+      "status": "Implemented in canonical source; publication blocked",
+      "owner": "Blueprint maintainer; Tania retains design acceptance",
+      "date": "2026-09-09",
+      "decision": "Tania current audit request; V2-D07; no baseline design change",
+      "done": "Reconciled source/publication and later campus, blazer and EST evidence; Start Here dashboard, linked material/visual registers, change schema, session protocol, Definition of Done and successor integration handoff.",
+      "evidence": [
+        "/evidence/strategy-release-20260909-final/blueprint-v24-start-desktop.png",
+        "/evidence/strategy-release-20260909-final/blueprint-v24-start-mobile.png"
+      ],
+      "checks": "28/28 data/governance tests, TypeScript, focused lint, build and full production-preview desktop/mobile browser smoke pass. Audit documentation: /production/strategy-audit-2026-09-09.md; final validation, limitations and exact publication resume steps: /production/audit-release-check-2026-09-09.md.",
+      "limits": "Existing Sites project unavailable to this account. Public V2.6 remains unchanged. Selected game source parity only; no new game/classroom tests or final precinct/wardrobe acceptance.",
+      "acceptance": "Documentation implementation requested; Tania final review pending. Existing first-pass blazer acceptance and campus-direction approval remain separate."
+    },
+    {
+      "id": "BUILD-CURRENT-20260908",
+      "title": "Current State – 8 Sep 2026 reconciled",
+      "status": "IMPLEMENTED — Blueprint records; game gaps retained",
+      "owner": "Blueprint maintainer; Tania retains design and runtime acceptance",
+      "date": "8 September 2026",
+      "decision": "User-requested current-state update; existing V2-D01–17 unchanged; explicit production approvals in operations.productionDecisions",
+      "done": "Reconciled deployed Three.js/Rapier, Tripo fixed-shirt prototype, failed digital-tailor runs, separate environment pipeline, latest 120k Home Base, Blender edits, loading, EST bridge, local teacher matrix and curriculum/payoff requirements. Updated summary, next five actions and stale claims in place.",
+      "evidence": [
+        "/evidence/current-state-fixed-shirt-20260908.png"
+      ],
+      "checks": "Current remote main a17ff15; public app and EST URLs checked (obsolete route 404, current module 200); public dashboard lacks new matrix function. Local source, measured reports and relevant chats inspected. Blueprint record/decision integrity, TypeScript, lint and build are release checks.",
+      "limits": "Evidence image is the earlier live fixed-shirt capture, not a fresh audit screenshot or a passing modular garment. Full evidence: /production/current-state.md and /production/production-plan.md. No game changes, new game playtests or paid generation. Prior FPS/test results are attributed reports. Shirt fit, school-device performance, curriculum edition and classroom integration remain open.",
+      "acceptance": "Tania requested the audit. This does not grant visual/classroom acceptance or approve the proposed learning pilot."
+    },
+    {
+      "id": "BUILD-3D-AUDIT-20260908",
+      "title": "Earlier 8 September audit — superseded by current-state reconciliation",
+      "status": "Source audit complete; production slice proposed",
+      "owner": "Blueprint maintainer; Tania retains production acceptance",
+      "date": "8 September 2026",
+      "decision": "V2-D17 retained; user requested factual consolidation and no credit spending",
+      "done": "Reconciled live Three.js/Rapier source, modular ground, separate lighting branches, bald live avatar versus reported HERO-001, generator scorecard, sprite video and original handoff evidence. Added a bounded production strategy and dated Astra research.",
+      "evidence": [
+        "/evidence/production-hero-proof.png",
+        "/evidence/production-avatar-sprite.jpg"
+      ],
+      "checks": "Live JavaScript and GitHub merge metadata inspected; supplied reference images and extracted video frames inspected; original media and SHA-256 manifest preserved privately. This is source and evidence verification, not a new game playtest.",
+      "limits": "HERO and Hunyuan GLBs/.blend sources were not supplied. Vendor balances and queues, runtime performance and visual acceptance remain unverified. No game changes or paid generation were performed.",
+      "acceptance": "Consolidation requested by Tania. The new production plan and eventual runtime result still require her acceptance; CE-ART-01 remains open."
+    },
+    {
+      "id": "BUILD-AVATAR-01",
+      "title": "7 September avatar reference milestone — historical",
+      "status": "Reference preparation complete; model not built",
+      "owner": "Tania: visual approval; Codex: preparation and integration; modeller or conversion route not yet assigned",
+      "date": "7 September 2026",
+      "decision": "V2-D17 / V2-D08 / V2-D07",
+      "done": "One generated ECC character concept, explicit appearance-direction approval, a derived front/side/back reference and a production handoff grounded in the current shared character/profile code.",
+      "evidence": [
+        "/references/style/ecc-avatar-concept-v1.png",
+        "/references/style/ecc-avatar-turnaround-v1.png"
+      ],
+      "checks": "Images visually inspected; original files preserved. Production requirements and limitations are recorded in the avatar modelling handoff. These images demonstrate reference preparation, not runtime implementation.",
+      "limits": "No new mesh, skeleton, animation or playable demo. AI side/back views are inferred and not dimensionally exact; preserve the approved portrait if views disagree. Final crest must use approved artwork. No external 3D service has received files.",
+      "acceptance": "Tania approved the displayed concept as the visual direction. The derived turnaround and eventual model still require production validation; no blanket approval of the wider style standard or game systems is implied."
+    },
+    {
+      "id": "BUILD-BP-05",
+      "title": "Focused topic navigation",
+      "status": "Blueprint navigation revision",
+      "owner": "Blueprint source repository; Tania reviews the experience",
+      "date": "7 September 2026",
+      "decision": "V2-D07 / V2-D08; Tania requested the navigation and explicitly approved extending it to the other detailed areas",
+      "done": "Illustrated Blueprint and Player Journey overviews, concise Delivery and Reference Library category overviews, persistent side navigation and mobile topic selectors. One topic opens at a time; Start Here remains a concise welcome page.",
+      "evidence": [
+        "/evidence/blueprint-v24-topics-desktop.png",
+        "/evidence/blueprint-v24-journey-desktop.png",
+        "/evidence/blueprint-v24-delivery-desktop.png",
+        "/evidence/blueprint-v24-library-mobile.png"
+      ],
+      "checks": "21 record/navigation checks; TypeScript, lint, generated-export parity and production build. Browser checks cover all topics at 320/390/768/1024/1280 pixels, record links, downloads, history, keyboard access and overflow. See docs/revision-v2.4.md.",
+      "limits": "Presentation only. No game, curriculum, reward or approved Atlas decision changes. Long detailed topics may still require scrolling within that topic.",
+      "acceptance": "Tania liked the initial Blueprint preview and authorised extending the pattern and publishing privately. Final review of the extended presentation remains with Tania."
+    },
+    {
+      "id": "BUILD-BP-04",
+      "title": "Visual ethos and generation reference pack",
+      "status": "Draft style guide recorded",
+      "owner": "Tania: creative review; this repository: maintained source",
+      "date": "7 September 2026",
+      "decision": "V2-D08 and corrected references supplied by Tania",
+      "done": "Cinematic 3D ethos, selected modern architecture and Town Hall references, two original entry films, image/video prompt templates and source manifest. The same guide is in the planning export and visible Look & Feel page.",
+      "evidence": [],
+      "checks": "Reference byte hashes, source/export parity, decision preservation, TypeScript, lint and build are release gates. See docs/revision-v2.3.md; reference art is not implementation evidence.",
+      "limits": "No new image/video generation or game asset conversion. Portal intensity, final character sheets, palette and production budgets remain open. Existing game and Atlas source are unchanged.",
+      "acceptance": "Tania's supplied preferences are recorded; the detailed synthesis is proposed for her review, not final asset approval."
+    },
+    {
+      "id": "BUILD-BP-03",
+      "title": "Readable blueprint and delivery workflow",
+      "status": "Blueprint revision",
+      "owner": "Blueprint source repository; Tania approves design",
+      "date": "2026-09-08",
+      "decision": "V2-D02 / V2-D07 / V2-D08 / V2-D15; Tania requested the review recommendations",
+      "done": "Five reading areas, a proposed worked learning loop, a current action and staged work queue, shared source library, searchable mappings, generated handoff and recovery register.",
+      "evidence": [
+        "/evidence/blueprint-v22-start-desktop.png",
+        "/evidence/blueprint-v22-worked-example.png",
+        "/evidence/blueprint-v22-start-mobile.png"
+      ],
+      "checks": "Release checks and known limitations are recorded in docs/revision-v2.2.md. Existing game observations remain separately dated.",
+      "limits": "This is a planning-site change. The proposed pilot is not approved gameplay; no learning efficacy, complete project recovery or school deployment is claimed.",
+      "acceptance": "Blueprint improvement authorised; pilot selection and gameplay acceptance remain with Tania."
+    },
+    {
+      "id": "BUILD-3D-01",
+      "title": "3D EST District Review 01",
+      "status": "Existing prototype",
+      "owner": "Identify Blender MCP",
+      "date": "5 September 2026 build; 6 September observation",
+      "decision": "V2 3D baseline",
+      "done": "Town, aerial view, Avatar Studio and public review route are preserved in the Blueprint site. Reviewers can walk to EST Prep and use the current public Demo Student EST Prep flow as the reference for CORE, TERM, VTCS and BOSS components.",
+      "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
+      "evidence": [
+        "/evidence/3d-walkthrough-start-2026-09-07.jpg",
+        "/evidence/3d-town-2026-09-06.jpg",
+        "/evidence/3d-aerial-2026-09-06.jpg",
+        "/evidence/3d-avatar-2026-09-06.jpg"
+      ],
+      "checks": "This revision captured the town / aerial / studio views, preserved a public review route and ran the existing automated profile and asset tests. Earlier implementation checks remain attributed to its README.",
+      "limits": "The public EST Prep entry maps to the current public Demo Student reference, not a finished classroom evidence workflow. Phase Preview is not earned class progress. No production school identity, cross-device saving, multiplayer, tax-funded upgrades or validated learning loop. Screenshots do not prove classroom readiness.",
+      "acceptance": "Tania visual review pending; no classroom sign-off recorded."
+    },
+    {
+      "id": "BUILD-EST-01",
+      "title": "Existing EST Prep and teacher matrix",
+      "status": "Existing implementation",
+      "owner": "Megatrends repository",
+      "date": "History reviewed 6 September 2026",
+      "decision": "Retain separate efficient EST practice and teacher evidence",
+      "done": "Existing CORE / TERM / VTCS / BOSS and teacher progress/review matrix identified. Reuse these before replacing them.",
+      "evidence": [],
+      "checks": "Prior implementation history and source audit only. The matrix and real student submissions were not re-tested in this blueprint revision.",
+      "limits": "Current 3D fictional profile is not the signed-in EST student. Identity, permissions and evidence ownership require integration tests.",
+      "acceptance": "End-to-end 3D classroom integration pending."
+    },
+    {
+      "id": "BUILD-BP-02",
+      "title": "Blueprint reconciliation and source records",
+      "status": "Blueprint revision",
+      "owner": "This V2 source repository",
+      "date": "6 September 2026",
+      "decision": "V2-D01 to V2-D15",
+      "done": "Confirmed decisions, open questions, exact curriculum ledger, candidate experience pivot, whole-year arc, visual references and successor handoff.",
+      "evidence": [
+        "/evidence/3d-aerial-2026-09-06.jpg"
+      ],
+      "checks": "Data integrity tests, TypeScript and production build are the release checks; detailed results live in docs/revision-2026-09-06.md.",
+      "limits": "Draft scenarios and candidate mappings are not approved game mechanics or validated curriculum delivery. This update changes the blueprint, not gameplay.",
+      "acceptance": "Publication authorised by Tania; final design agreement remains pending."
+    }
+  ],
+  "visualReferences": [
+    {
+      "id": "CE-BLDG-008",
+      "name": "Town Hall",
+      "image": "/references/CE-BLDG-008-town-hall.png",
+      "keep": "Clear civic silhouette, stone entrance, columns, slate roof, visible glass and integrated landscaping.",
+      "translate": "Build readable volumes and a believable doorway; use restrained cyan accents. Reduce fine detail only after checking normal play distance.",
+      "status": "Existing 2D reference; proposed shortlist, not a new 3D asset approval"
+    },
+    {
+      "id": "CE-BLDG-001",
+      "name": "Home Base",
+      "image": "/references/CE-BLDG-001-home-base.png",
+      "keep": "Welcoming interior glimpses, social terraces, layered planting and a distinctive entrance.",
+      "translate": "Preserve warmth and identity without requiring this exact footprint or the luminous dome. Current 3D Home Base is a smaller reused civic shell.",
+      "status": "Existing 2D reference; final selection with Tania"
+    },
+    {
+      "id": "CE-BLDG-002",
+      "name": "EST Prep Lab",
+      "image": "/references/CE-BLDG-002-est-prep-lab.png",
+      "keep": "Recognisable learning place, transparent activity, readable approach and coordinated materials.",
+      "translate": "Current 3D EST interprets this with civic entrance references. Science-fiction glow is inspiration to moderate, not a required forcefield.",
+      "status": "Existing 2D reference; not proof of current 3D fidelity"
+    }
+  ],
+  "styleGuide": {
+    "id": "CE-STYLE-01",
+    "version": "Draft 0.2 / first avatar direction approved / 7 September 2026",
+    "status": "First avatar visual direction approved under V2-D17; wider detailed standard proposed",
+    "title": "A believable world, with a sense of possibility",
+    "direction": "Cinematic stylised realism",
+    "ethos": "Career Empire should feel like a place a young person wants to step into: recognisable, welcoming and full of possibility. Its people have warmth and personality; its buildings have substance, purpose and life inside them. Contemporary architecture, rich planting, natural materials and carefully placed technology create an optimistic near-future town. The camera brings us close enough to care. Light invites us towards an opportunity; movement makes a discovery feel earned. The world can struggle, recover and flourish without losing its identity. The ambition is the depth, craft and emotional presence of the supplied ElevenLabs Town Hall films, translated into a coherent, playable 3D world.",
+    "translation": "Rebuild the selected designs as spatially believable, walkable 3D environments. Do not simply place the existing isometric pictures on planes, rotate a flat facade, or keep white-background display platforms. A generated 3D-looking image or film is a visual reference, not a mesh, rig or finished playable asset.",
+    "authority": "This guide records Tania's selected references and a proposed reusable interpretation. V2-D17 separately records her 7 September approval of the first generated ECC avatar's visual direction and proceeding with model preparation. The original 16 decision records remain unchanged. Approval does not extend to exact generated crest artwork, inferred side/back geometry, the whole style standard or a completed game asset. The mistakenly attached 5-6 September screenshots are excluded. This guide itself is reference work. Subsequent imported meshes, walk animation, fixed-shirt prototype and failed component runs are recorded in the 8 September current-state record; they do not establish acceptance of the whole style standard.",
+    "preferences": [
+      "Use the newer contemporary building family as the everyday architectural direction.",
+      "Keep the supplied Town Hall appearance and immersive entry as a principal visual reference.",
+      "Translate the selected buildings, characters, landscape and reward references into the cinematic 3D treatment of the ElevenLabs videos.",
+      "Keep selected existing visual strengths; do not inherit flat map presentation or every old building requirement."
+    ],
+    "references": [
+      {
+        "id": "STYLE-TOWNHALL",
+        "name": "Town Hall approach",
+        "role": "Civic landmark and cinematic composition",
+        "image": "/references/style/town-hall-approach.png",
+        "source": "Megatrends: Assets/Images and Animations/Career Empire World/buildings/3d/CE-TOWNHALL-3D-approach-target.png; matches the corrected Town Hall screenshots",
+        "keep": "Substantial civic silhouette, central arch, visible warm interior, stone detail, charcoal roof, precise cyan light and a character-relative approach.",
+        "translate": "Keep this landmark's classical civic character. It is not a rule that all buildings become classical, or that gameplay is always at night."
+      },
+      {
+        "id": "STYLE-WORKSHOP",
+        "name": "Workshop",
+        "role": "Everyday modern architecture",
+        "image": "/references/style/workshop.png",
+        "source": "Megatrends: Assets/Images and Animations/Career Empire World/buildings/CE-BLDG-005-initiative-workshop.png",
+        "keep": "Glass, practical workspaces, sawtooth roofs, timber screens, solar panels, planted terraces and useful outdoor space.",
+        "translate": "Build full side and rear volumes, plausible doors, safe circulation and an interior tied to the experience. Replace the isolated display base with connected ground."
+      },
+      {
+        "id": "STYLE-AVATAR",
+        "name": "Avatar Studio",
+        "role": "Everyday modern architecture",
+        "image": "/references/style/avatar-studio.png",
+        "source": "Megatrends: Assets/Images and Animations/Career Empire World/buildings/CE-BLDG-006-avatar-studio.png",
+        "keep": "Layered glass volumes, a recognisable entry, visible creative activity, roof terrace and one distinctive technology feature.",
+        "translate": "Make rooms and entrances spatially consistent. Treat the holographic display as a local feature, not a demand for glowing objects everywhere."
+      },
+      {
+        "id": "STYLE-SHOP",
+        "name": "Shop pavilion",
+        "role": "Everyday modern architecture",
+        "image": "/references/style/shop.png",
+        "source": "Megatrends: Assets/Images and Animations/Career Empire World/buildings/CE-BLDG-007-global-shop.png",
+        "keep": "Curved glass, welcoming displays, warm interior, shade, benches and greenery.",
+        "translate": "Create a human-scale shop with coherent interior and exterior. The silhouette is inspiration, not approval of its exact footprint or shop economy."
+      },
+      {
+        "id": "STYLE-CHARACTERS",
+        "name": "Student character family",
+        "role": "Expression and character continuity",
+        "image": "/references/style/student-characters.png",
+        "source": "Megatrends: Assets/Images and Animations/Emmanuel Student Characters/Girl Avatar 1.png; corrected character screenshots also include Boy avatar.png and MacKillop poses",
+        "keep": "Expressive faces, welcoming gestures, recognisable school identity and consistent character design.",
+        "translate": "Carry personality into dimensional faces, cloth, hair and natural animation. Aim for the Year 12 audience; do not reproduce a younger-looking face just because it occurs in a film. Existing per-character face, wardrobe, badge and asymmetry locks still apply."
+      },
+      {
+        "id": "STYLE-WATER",
+        "name": "Water and planted banks",
+        "role": "Landscape detail",
+        "image": "/references/style/waterfall.png",
+        "source": "Megatrends: Assets/Images and Animations/Career Empire World/water/CE-WATER-003-waterfall-small.png",
+        "keep": "Clear water, planted edges, textured rocks and integrated built edges.",
+        "translate": "Connect water, banks and bridges to continuous terrain. Use plausible depth and restrained motion, not detached ornamental islands."
+      },
+      {
+        "id": "STYLE-PATH",
+        "name": "Roads and routes",
+        "role": "Readable civic infrastructure",
+        "image": "/references/style/road-corner.png",
+        "source": "Megatrends: Assets/Images and Animations/Career Empire World/paths/CE-PATH-004-road-corner.png; corrected terrain and plaza screenshots are companion references",
+        "keep": "Clear road edges, pedestrian routes, crossings, planting and controlled light accents.",
+        "translate": "Build connected surfaces at character scale. Keep routes navigable across development states; no miniature display plinths or compulsory glowing grid."
+      },
+      {
+        "id": "STYLE-REWARD",
+        "name": "Completion feedback",
+        "role": "Celebration and information layer",
+        "image": "/references/style/chamber-complete.png",
+        "source": "Megatrends: Assets/Images and Animations/Celebration Reward Icons/Chamber complete.png; corrected screenshot also shows salary, signal and tax motifs",
+        "keep": "Distinctive symbols, crisp luminous edges and a satisfying sense of achievement.",
+        "translate": "Use stronger glow briefly in rewards and focused tools, not across the whole town. Render labels, amounts and interactive controls in the interface, not baked into generated artwork. Pictured numbers do not set rewards or tax rates."
+      },
+      {
+        "id": "STYLE-ECC",
+        "name": "Existing ECC reference sheet",
+        "role": "Supporting school identity and future-facing tone",
+        "image": "/references/style/ecc-priority-sheet.jpg",
+        "source": "Megatrends: Assets/ECC Branding/ECC_priority_style_reference_sheet.jpg",
+        "keep": "School identity, real-world connection, optimistic technology and human collaboration.",
+        "translate": "This is a mixed reference sheet, not a single rendering style. Translate its photographic scenes into the chosen character/world treatment. It is not permission to invent logos, copy real student likenesses or regenerate First Nations artwork. Use authorised original brand and cultural assets with appropriate permission."
+      },
+      {
+        "id": "CE-AVATAR-CONCEPT-001",
+        "name": "First ECC avatar / approved visual direction",
+        "role": "Approved appearance direction, not a completed 3D model",
+        "image": "/references/style/ecc-avatar-concept-v1.png",
+        "source": "Built-in image generation, 7 September 2026, using the existing ECC boy model sheet for identity/uniform and the supplied Town Hall film for rendering. Tania replied yes! to the visual-direction question. See V2-D17 and the avatar modelling handoff.",
+        "keep": "Recognisable brown swept hair, blue-teal eyes, warm expression, navy ECC uniform, teal jumper and tie, dimensional hair and textured cloth. Preserve this accepted direction rather than silently redesigning his age or face.",
+        "translate": "Create a real mesh, materials, skeleton and animation for the shared studio/world system. Use verified crest artwork. Approval of this portrait is not acceptance of a rig, runtime performance or every generated detail."
+      },
+      {
+        "id": "CE-AVATAR-REF-001",
+        "name": "Front, side and back / modelling reference",
+        "role": "Derived production reference; not independently approved geometry",
+        "image": "/references/style/ecc-avatar-turnaround-v1.png",
+        "source": "Built-in image generation, 7 September 2026, derived only from CE-AVATAR-CONCEPT-001. Exact prompt and limitations are preserved in the avatar modelling handoff.",
+        "keep": "Uniform layering, overall proportions and recognisable silhouette across three views. The portrait remains the likeness authority.",
+        "translate": "Use for modelling, not automatic tracing of exact dimensions. Side/back surfaces are inferred; hairstyle volume and pose differ slightly across views. Reconcile against the portrait in a real turntable. This sheet does not imply a mesh exists."
+      }
+    ],
+    "videos": [
+      {
+        "id": "STYLE-FILM-A",
+        "title": "Town Hall entry / first supplied film",
+        "href": "/references/style/town-hall-entry-original.mp4",
+        "poster": "/references/style/entry-original-poster.jpg",
+        "source": "ElevenLabs_video_gemini-omni-flash-1-1_Try again - the_2026-09-04T05_16_17.mp4",
+        "observed": "About 10 seconds: daylight approach, doorway activation, character reaction, threshold crossing and a warm civic interior. Visual reference, not implemented gameplay."
+      },
+      {
+        "id": "STYLE-FILM-B",
+        "title": "Town Hall entry / supplied edited film",
+        "href": "/references/style/town-hall-entry-edited.mp4",
+        "poster": "/references/style/entry-edited-poster.jpg",
+        "source": "ElevenLabs_video_seedance-2-5-video-edit_This is awesome_2026-09-04T05_30_21.mp4",
+        "observed": "About 9.7 seconds, no audio stream: a closely related approach and entry with visible interior through the effect. Both supplied films contain a conspicuous swirling cyan portal; neither is a restrained-effect example."
+      }
+    ],
+    "principles": [
+      {
+        "title": "Modern by default; distinctive by purpose",
+        "body": "Use contemporary glass, pale stone or concrete, dark metal and timber with visible activity inside. Solar panels, shade and greenery should have believable uses. Keep the preferred Town Hall as a civic landmark with modern accents. Match quality and materials across buildings, not identical roof shapes. Avoid making every service a monument, generic office block or futuristic pod."
+      },
+      {
+        "title": "Detailed and tactile, not photographically literal",
+        "body": "Use convincing stone, glass, cloth, timber, water and foliage with softened, deliberately designed forms. Keep contact shadows, consistent scale and readable silhouettes. Avoid low-detail clay placeholders as final art, shiny plastic surfaces, photographic people in a stylised town, and excessive micro-detail that disappears at play distance."
+      },
+      {
+        "title": "Warm people, teen-appropriate presence",
+        "body": "Characters should convey curiosity, concern, confidence and recovery through expression and body language. Preserve identity from shot to shot and between studio and world. Translate the supplied pose-sheet warmth into natural 3D movement without making every character constantly smile or cheer. Do not silently replace the existing explorer's jacket with a blazer; approve wardrobe by character and context. Broaden representation through approved character designs, not random regeneration."
+      },
+      {
+        "title": "Nature belongs to the town",
+        "body": "Use layered planting, varied grass, garden edges, water and places to pause. Integrate paths, ramps, crossings and bridges into continuous terrain. Retain the crafted richness of the selected 2D environment references, but remove their isolated tile presentation. A place should look explorable from ground level as well as understandable from above."
+      },
+      {
+        "title": "Light reveals opportunity",
+        "body": "Use clear daylight for ordinary exploration and warm interiors against cooler exteriors for selected evening scenes. Maintain visible doors, faces and route surfaces. Cyan or teal marks useful technology and interaction; warm light suggests occupancy. Do not make every view dark blue, coat every edge in neon, or let bloom hide architecture. Night scenes are a lighting variant, not the universal palette."
+      },
+      {
+        "title": "Three related visual layers",
+        "body": "The town is grounded and spacious. Learning tools and displays may use more focused technology effects. Rewards may briefly use stronger green, gold, cyan or violet celebration cues. Keep them recognisably related without putting a glowing reward-frame around the entire world. Colour is accompanied by symbols and readable text; the reward artwork does not determine game economics."
+      },
+      {
+        "title": "The camera brings the player into the experience",
+        "body": "Use an aerial view to understand the town, then character-relative perspective to approach a place. Keep the destination readable, show a purposeful reaction where useful, and cross a believable threshold into a consistent interior. The supplied clips begin at ground level; the aerial-to-shoulder connection comes from earlier project guidance. Prefer steady movement over whip pans, excessive blur or unexplained cuts. Cinematics need a skip/reduced-motion alternative in the eventual game."
+      },
+      {
+        "title": "Development changes care and activity, not identity",
+        "body": "Disrepair, Growth and Flourishing should retain the same underlying architecture, route graph and character proportions. Show weathering and reduced activity, then repair, then maintenance and life. A disruption is a separate temporary layer and personal progression is separate again. Do not turn disadvantage into ugliness or make a crisis erase all visual evidence of earned progress."
+      }
+    ],
+    "palette": [
+      {
+        "name": "Stone",
+        "hex": "#B9B8B0",
+        "role": "Quiet architectural mass"
+      },
+      {
+        "name": "Graphite",
+        "hex": "#343C43",
+        "role": "Frames, roofs and contrast"
+      },
+      {
+        "name": "Leaf",
+        "hex": "#4D7842",
+        "role": "Living landscape"
+      },
+      {
+        "name": "Water",
+        "hex": "#278EA3",
+        "role": "Water and environmental variation"
+      },
+      {
+        "name": "Cyan",
+        "hex": "#43CBE8",
+        "role": "Focused technology and interaction"
+      },
+      {
+        "name": "Amber",
+        "hex": "#E8B55F",
+        "role": "Interior warmth and selected rewards"
+      }
+    ],
+    "paletteNote": "Proposed working swatches, not sampled values or official ECC brand colours. Material, lighting and skin tones must keep their natural variation. Use the authorised ECC brand source for logos and exact institutional colours; do not infer them from this small contact sheet. Violet belongs mainly to selected interface/reward accents, not a global colour wash.",
+    "avoid": [
+      "Flat isometric cut-outs presented as finished 3D conversion; single textured facades used for unrestricted orbit.",
+      "A uniform town of old-fashioned civic buildings, or an equally uniform town of glass boxes.",
+      "A constantly dark neon city, permanent portal spectacle, floating holograms without purpose or strong bloom over every edge.",
+      "Miniature white display islands, oversized toy proportions, blank interiors, floating feet and doors that cannot be approached.",
+      "Uncontrolled changes to faces, hair, uniforms, badges, building footprints, doorway locations or time of day between shots.",
+      "Baked-in generated text, invented school crests, copied cultural motifs, arbitrary reward values or new gameplay mechanics hidden inside an art brief."
+    ],
+    "workflow": [
+      "Choose a named reference for each job: architecture, character identity, material/lighting and camera. Attach the actual files; filenames in a prompt alone do not give a generator access to them.",
+      "Write the asset's purpose and intended experience. Lock identity, silhouette, dimensions/scale, entrance position, materials, lighting and exclusions before requesting variations.",
+      "Generate a small reference set: daytime approach, side/rear view, doorway/interior relationship and one optional cinematic lighting variant. Check that views agree; AI-generated turnarounds are not guaranteed geometry.",
+      "Approve one reference set, then build or commission the actual mesh, materials, rig and animation. Reuse the same geometry for states and camera shots; do not generate a different building for every frame.",
+      "Compare a rendered film reference with a real-time engine test on target school hardware. Agree measurable asset, lighting and performance budgets before production; no frame-rate or film-quality promise is made by this guide.",
+      "Record source, prompt, tool/model/version where available, date, rights, parent references, output, approval status and runtime test evidence. Keep original references and editable source aligned with the live Blueprint record."
+    ],
+    "prompts": [
+      {
+        "id": "PROMPT-CORE",
+        "title": "Core style block",
+        "text": "Career Empire: cinematic stylised realism for a Year 12 career-and-life simulation. Match the attached ElevenLabs Town Hall frame/clip for rendering treatment, depth, material response, character presence and cinematic clarity. Create a recognisable, welcoming, optimistic near-future place, with substantial architecture, expressive original characters, tactile stone, timber, metal and glass, layered greenery and selective cyan/teal technology accents. Keep natural colour variation, warm occupied interiors, believable contact shadows and consistent human scale. Modern architecture is the town default; retain the supplied Town Hall's civic design when that is the subject. This is a full dimensional environment, not an isometric sprite on a white platform. Preserve every specifically supplied identity and architecture lock. No unrelated restyling, illegible generated text, invented logo, constant neon wash, toy-like simplification or photographic human faces."
+      },
+      {
+        "id": "PROMPT-BUILDING",
+        "title": "Selected building to 3D concept",
+        "text": "Use the Core style block. SUBJECT: [named building and reference ID]. PURPOSE: [approved experience or reference study]. Reference A controls the selected building's recognisable silhouette, materials and activity; reference B, an ElevenLabs Town Hall frame, controls cinematic 3D treatment, not the building's shape. Reinterpret this design as a complete walkable building at human scale. Keep [roof profile, material accents and distinctive features]. Show [ground-level three-quarter approach / side-rear view / one step inside the entrance] in [clear daylight / agreed evening light]. Keep the entrance usable and visible, integrate continuous ground and planting, and provide credible interior depth. Preserve the same building geometry across the set. [State] changes maintenance and activity, not footprint or doorway location. No detached display base, fake paper cut-out, copied Town Hall columns on every building, or conversion into a different architectural design. This output is concept reference only, not a production model."
+      },
+      {
+        "id": "PROMPT-CHARACTER",
+        "title": "Character to cinematic 3D reference",
+        "text": "Use the Core style block. CHARACTER: [approved character ID]. Attach the identity reference and outfit reference separately. Preserve the approved face, hair, skin tone, approximate age, body proportions and identity-specific details. Match the warmth and expressive clarity of the supplied character poses while using dimensional facial forms, believable cloth, groomed stylised hair and grounded contact shadows. Keep the result appropriate for a Year 12 audience; do not silently de-age the character. Outfit: [approved outfit], with the exact badge placement and left/right accessories retained. Pose/action: [one natural action]. Camera: [full-body three-quarter reference / shoulder approach / expression close-up]. No face drift, random uniform redesign, mirrored badge/watch or permanently exaggerated grin. A reference image is not a rigged 3D character."
+      },
+      {
+        "id": "PROMPT-FILM",
+        "title": "Building-entry video brief",
+        "text": "Use the Core style block. Attach the approved character reference, building exterior, matching interior and the selected Town Hall clip. Produce a proposed 8-10 second 16:9 reference film at the tool's supported output settings. Begin behind and slightly to one side of the character, looking towards the readable entrance. Move forward smoothly with grounded footsteps; let the destination fill more of the frame. Include a short, natural reaction only if it serves the moment. Cross the actual doorway into the matching interior without passing through a wall or changing the floor plan. Keep face, hair, outfit, badge, backpack, light direction and architecture consistent. ENTRY EFFECT: [restrained doorway light by default under existing guidance; use a stronger portal only after explicit approval]. If an effect is chosen, keep it local to the doorway and keep interior depth legible. No automatic aerial opening: request that as a separate connecting shot if needed. No teleport cut, sudden day/night swap, fisheye, camera shake, foot sliding, hard strobe, geometry morph, generated captions or invented interface. This is a visual reference; game timing and interaction remain separately designed."
+      },
+      {
+        "id": "PROMPT-REWARD",
+        "title": "Reward or tool graphic",
+        "text": "Use the same Career Empire visual family but the focused interface/celebration layer. PURPOSE: [confirmed feedback state]. Create one clear [symbol or motif] with dimensional material, a restrained luminous edge and a clean silhouette. Use [approved role colour] against [transparent or specified background]. Preserve generous clear space for separately rendered text and values. No words, numbers, school logo or invented reward amount inside the generated image. Stronger glow is allowed locally for this brief celebration, not as the environment's permanent look. Keep the symbol readable without colour alone. Confirm the requested file format and transparency from the output, not from the prompt's promise."
+      }
+    ],
+    "checks": [
+      "Could this asset and the supplied Town Hall film plausibly belong in the same world?",
+      "Does it preserve the selected design while adding credible depth, scale, material and movement?",
+      "Is the important action or entrance immediately readable, with the world still visible around it?",
+      "Do the character, lighting, doorway and interior stay consistent across views and frames?",
+      "Does technology support meaning, with stronger effects reserved for a purpose?",
+      "Can the eventual playable version meet access, camera, collision, rig and school-device requirements?",
+      "Are reference preference, proposed interpretation, accepted design and tested implementation labelled separately?"
+    ],
+    "openChoices": [
+      "Portal intensity: the supplied films use a large vortex; earlier guidance prefers restraint. Tania's enthusiasm records a positive reference, but does not yet settle everyday versus special-entry effects.",
+      "Character production: V2-D17 approves the first ECC avatar's appearance direction. Preserve that portrait; no separate age redesign was requested. Reconcile derived side/back details and apply verified crest artwork before accepting the actual model.",
+      "Production benchmark: one shared avatar is the current bounded step. Its model-production route and runtime quality remain to be proven. A whole-town upgrade, building catalogue or new gameplay is not authorised by the character approval.",
+      "Confirm the proposed swatches and material balance after a matched daylight/evening reference pair. No exact palette or performance budget is locked here."
+    ],
+    "currentDirection": {
+      "date": "2026-09-09",
+      "title": "ECC Career Campus + Campus-to-Career Corridor",
+      "status": "Direction and candidate production approved; finished precinct not accepted",
+      "summary": "Warm limestone or pale brick, navy framing, timber fins, glass, native gardens and shaded paths. Teal is restrained wayfinding and interaction. Character-level walking views lead; aerial views explain context. The first quality slice is Avatar Studio with its garden, approach and plaza edge.",
+      "sequence": "Visual references → dimensioned playable layout → textured modular kit → Avatar Studio → assembled precinct → review and deliberate release. Arrival → EST Prep → Civic Heart follows.",
+      "boundary": "The older civic concepts and prompt pack below are retained history and supporting references. They do not override this campus direction or approve new buildings, RPG mechanics, an economy formula or a faithful reconstruction of ECC.",
+      "evidenceHref": "/production/visual-register.md",
+      "source": "Refine Career Empire Blender master, 9 September; Tania supplied the production list and approved continuing it."
+    }
+  },
+  "ideaRegister": [
+    [
+      "C01",
+      "Full-year player journey",
+      "Included as a draft arc",
+      "Two semesters and a year-end reflection; emotional pacing still needs student testing."
+    ],
+    [
+      "C02",
+      "Global comparison / leaderboards",
+      "Deferred; boundaries open",
+      "Same-class presence retained. Interschool cooperation and rankings are not a single approved feature."
+    ],
+    [
+      "C03",
+      "Economy and shop detail",
+      "Principle confirmed; balance open",
+      "Track earnings, spending, savings, tax and treasury; review salary, net worth, job security, assets and work-life indicators."
+    ],
+    [
+      "C04",
+      "Companions",
+      "Optional candidate",
+      "Cosmetic or engagement reward only; not a foundational system."
+    ],
+    [
+      "C05",
+      "Earlier named buildings",
+      "Purpose crosswalk retained",
+      "Skills Centre / Initiative Workshop → workplace learning; Megatrends Centre → world signals; Lifelong Learning Hub → CPD events; Community Board / Careers Archon → advice and co-design services; Global Portal → deferred wider world; First Workplace → work experience setting."
+    ],
+    [
+      "C06",
+      "Four transformation tracks",
+      "Open / V2-D11",
+      "Historical tax-and-vote projects, not approved new town phases."
+    ],
+    [
+      "C07",
+      "Production map requirements",
+      "Derived after experience design",
+      "Retain readable orientation, continuous paths, thresholds, terrain transitions and performance quality; commission only needed assets."
+    ],
+    [
+      "C08",
+      "Environmental discoveries",
+      "Meaning confirmed; triggers draft",
+      "Subtle original jokes and small treasures; action triggers remain optional and testable."
+    ],
+    [
+      "C09",
+      "Town Hall entry",
+      "Experience quality retained",
+      "Readable aerial destination, shoulder approach, visible doorway/interior and restrained activation; Town Hall-first and the old hybrid map are superseded."
+    ],
+    [
+      "C10",
+      "Blender / Three.js workflow",
+      "Existing prototype pipeline",
+      "Greybox, modular Blender GLBs, Three.js and Rapier. Asset production stays separate from progression and evidence."
+    ],
+    [
+      "C11",
+      "Avatar pipeline",
+      "Existing prototype; integration open",
+      "Shared 3D rig and appearance schema. Legacy builder overlays and map sprites remain separate specifications; occupational wardrobe is a roadmap."
+    ],
+    [
+      "C12",
+      "EST mini-games",
+      "Existing mechanisms to review",
+      "CORE / TERM / VTCS / BOSS; Vault Bridge glossary, resets/drop states, Forensics Lab, loadout, marking pressure, rescue and reward banking. Keep useful practice; test friction and recovery before carrying all mechanics forward."
+    ],
+    [
+      "C13",
+      "Teacher matrix",
+      "Reuse and verify integration",
+      "Active time, Q/A completion, auto-marked percentage, answer status, comparison by question, student drill-down and approve/reject/needs-review."
+    ],
+    [
+      "C14",
+      "Lifelong Learning campaign",
+      "Curriculum retained; container open",
+      "Time, money, energy, momentum and delayed payoff can support a CPD event; a dedicated module must justify itself."
+    ],
+    [
+      "C15",
+      "Extra disruptions",
+      "Candidate seeds",
+      "Cost-of-living, policy changes, unsafe work, underpayment, union/advice pathways, a friend seeking advice and readiness-gated industries. Formal legislation/grievance teaching belongs in Unit 4."
+    ],
+    [
+      "C16",
+      "Backend architecture",
+      "Integration requirement",
+      "Inspect/reuse shared progression, economy, skills and module APIs, Supabase/auth, class permissions and evidence records. Local 3D example profiles are not production accounts."
+    ]
+  ],
+  "sourceDocumentGroups": [
+    {
+      "id": "official",
+      "title": "Official SCSA sources"
+    },
+    {
+      "id": "samples",
+      "title": "SCSA sample outlines"
+    },
+    {
+      "id": "builds",
+      "title": "Live game and prototype references"
+    },
+    {
+      "id": "school",
+      "title": "Tania's 2026 school documents"
+    }
+  ],
+  "sourceDocuments": [
+    {
+      "id": "SCSA-SYLLABUS-2027",
+      "group": "official",
+      "title": "Year 12 General syllabus",
+      "edition": "For teaching from 2027",
+      "format": "PDF",
+      "href": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
+      "note": "Primary curriculum source for this blueprint. Effective 1 January 2027."
+    },
+    {
+      "id": "SCSA-SYLLABUS-2026",
+      "group": "official",
+      "title": "Year 12 General syllabus",
+      "edition": "For teaching from 2026",
+      "format": "PDF",
+      "href": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1126385/Careers-and-Employability-General-Year-12_Syllabus-for-teaching-from-January-2026.PDF",
+      "note": "Reference alongside the 2026 school program; not the blueprint's 2027 syllabus baseline."
+    },
+    {
+      "id": "SCSA-EST-2026",
+      "group": "official",
+      "title": "EST selected Unit 3 content",
+      "edition": "2026 only",
+      "format": "PDF",
+      "href": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0007/1215565/2026-CEMGT-EST-Unit-3-Content.PDF",
+      "note": "Annual assessment reference. Do not carry this selection into 2027 without the relevant annual SCSA document."
+    },
+    {
+      "id": "SCSA-COURSE-HUB",
+      "group": "official",
+      "title": "Careers and Employability course page",
+      "edition": "Current publications and updates",
+      "format": "Website",
+      "href": "https://senior-secondary.scsa.wa.edu.au/syllabus-and-support-materials/humanities-and-social-sciences/careers-and-employability",
+      "note": "Official index for checking newer editions and finding other support materials if a direct document link changes."
+    },
+    {
+      "id": "SCSA-SAMPLE-COURSE-2026",
+      "group": "samples",
+      "title": "Year 12 sample course outline",
+      "edition": "For teaching from 2026",
+      "format": "PDF",
+      "href": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0019/1202338/Careers-and-Employability-General-Year-12-Sample-course-outline-For-teaching-from-2026.PDF",
+      "note": "Suggested sequencing and semester-relative weeks. A potential base for experience planning, not mandated timing or an approved school program."
+    },
+    {
+      "id": "SCSA-SAMPLE-ASSESSMENT-2026",
+      "group": "samples",
+      "title": "Year 12 sample assessment outline",
+      "edition": "For teaching from 2026",
+      "format": "PDF",
+      "href": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0017/1202336/Careers-and-Employability-General-Year-12-Sample-assessment-outline-For-teaching-from-2026.PDF",
+      "note": "Example task design, weights and placement. Distinct from the mandatory assessment requirements in the applicable syllabus."
+    },
+    {
+      "id": "CURRENT-CAREER-EMPIRE-GAME",
+      "group": "builds",
+      "title": "Current Career Empire game",
+      "edition": "Current public build",
+      "format": "Website",
+      "href": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/",
+      "note": "Public live game reference for existing player-facing behaviour. Use alongside the 3D review prototype when comparing what exists now with the Blueprint direction."
+    },
+    {
+      "id": "TANIA-PROGRAM-2026",
+      "group": "school",
+      "title": "Year 12 CEM program",
+      "edition": "2026 / Units 3 and 4",
+      "format": "Word",
+      "href": "/documents/tania-2026-cem-program.docx",
+      "originalFilename": "12CEM Program 2026.docx",
+      "sha256": "e4f1ca5feea0e622c8fb599d1180b4a7275bc050ee80fc03cd71b7ea1a17dc47",
+      "note": "Public school planning reference supplied by Tania on 7 September 2026, unchanged. It summarises the 2026 course sequence and is not automatically adopted as the new game sequence."
+    },
+    {
+      "id": "TANIA-ASSESSMENT-2026",
+      "group": "school",
+      "title": "Year-long CEM assessment schedule",
+      "edition": "2026 / Units 3 and 4",
+      "format": "Word",
+      "href": "/documents/tania-2026-cem-assessment-schedule.docx",
+      "originalFilename": "12 General CEM Year Long Assessment Schedule 2026 (1).docx",
+      "sha256": "828b5ffe9529ae984d28904f868146d13017d967070949a22f575663edee922e",
+      "note": "Public school assessment summary supplied by Tania on 7 September 2026, unchanged. It records task, weighting and due-date context for 2026, not 2027."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Productive Failure in Learning Math (Kapur, 2014)",
+      "url": "https://www.cse.iitk.ac.in/users/se367/14/Readings/papers/kapur-14_productive-failure-in-learning-math.pdf",
+      "note": "Problem-solving before instruction improved conceptual understanding and transfer in the reported mathematics studies. This informs a hypothesis for Career Empire, not proof that simulated harm improves motivation or that this game works."
+    },
+    {
+      "title": "Self-Determination Theory (Ryan and Deci, 2000)",
+      "url": "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf",
+      "note": "Autonomy, competence and relatedness inform the design of meaningful choice, achievable challenge and belonging. Threat and extrinsic rewards alone are not an educational strategy."
+    },
+    {
+      "title": "Career Empire Design Atlas",
+      "url": "https://career-empire-design-atlas.taniabyrnes.chatgpt.site/",
+      "note": "Historical approvals and visual/curriculum records. Only incompatible Phaser-first / Town Hall-first / 3D-proof-only direction is superseded; other approved decisions remain unless explicitly changed."
+    },
+    {
+      "title": "Curriculum Experience Mapping",
+      "url": "https://chatgpt.com/c/6a9a23f2-b920-83ec-83a2-4a682320ee9b",
+      "note": "Source of canonical experience records and two-way mapping, with learning depth and honest coverage."
+    },
+    {
+      "title": "Career Empire Design Atlas discussion",
+      "url": "https://chatgpt.com/c/6a953e53-5278-83ec-ac9e-743c925e1bbb",
+      "note": "Approved social, classroom, purpose and evidence-before-expansion principles."
+    },
+    {
+      "title": "MDA framework / MIT readings",
+      "url": "https://ocw.mit.edu/courses/cms-608-game-design-spring-2014/pages/readings/",
+      "note": "Retained V2 design vocabulary: feelings, behaviour and mechanics. Not a guarantee of effective learning."
+    },
+    {
+      "title": "Game Design Workshop",
+      "url": "https://www.gamedesignworkshop.com/",
+      "note": "Retained playcentric prototype / observe / revise reference."
+    },
+    {
+      "title": "Roblox prototyping guide",
+      "url": "https://create.roblox.com/docs/production/game-design/prototyping",
+      "note": "Retained V2 production reference, not a platform commitment."
+    }
+  ]
+}
