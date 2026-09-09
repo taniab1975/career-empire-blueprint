@@ -4218,6 +4218,7 @@
       "scope": "Whole-Blueprint reader reconciliation: exact approved concepts, actual built evidence and cross-section status, without game production.",
       "disclosure": "Reader reconciliation has independent live evidence. Finished precinct/wardrobe, classroom loop, cohort/pilot/progression and legacy redirect remain explicitly open product/access work.",
       "requiredReviewFiles": [
+        "app/globals.css",
         "docs/production/reader-release-receipt-2026-09-10.md",
         "docs/production/current-state.md",
         "docs/production/production-plan.md",
@@ -4236,8 +4237,12 @@
       ],
       "reviews": [
         {
+          "path": "app/globals.css",
+          "sha256": "7588568497729e28be17cc7c7e850756d332caf3093e28f3042c813ce399ff50"
+        },
+        {
           "path": "AGENTS.md",
-          "sha256": "d2c2e89c4af851d0a1bf1d1199586d9a65866444178e0795261aea36dc1942f3"
+          "sha256": "aa218b9bbba1ad9012ed5a60560a49d7669e120e4304fc3116c338533b4dc24a"
         },
         {
           "path": "README.md",
@@ -4309,7 +4314,7 @@
         },
         {
           "path": "docs/production/reader-reconciliation-2026-09-10.md",
-          "sha256": "3a9c164202c4c5fc7e39707cb77fd83415dff67f96841916f14063004bd6f608"
+          "sha256": "4adb845e25f2748a327f3f774f29b22eb1ef1c780ee613951f9ef8194e9d474f"
         },
         {
           "path": "docs/production/reader-release-receipt-2026-09-10.md",
@@ -4672,7 +4677,7 @@
       },
       {
         "changeId": "CE-CHANGE-20260910-18",
-        "title": "Accepted campus direction: incomplete page integration",
+        "title": "Campus, Avatar Studio and built-avatar page integration",
         "types": [
           "visual",
           "building"

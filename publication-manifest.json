@@ -1,20 +1,20 @@
 {
-  "sourceCommit": "8260448ac5e0ebe2d8e9596fafe7d9eb2f6055b4",
-  "generatedAt": "2026-09-09T16:51:10.470Z",
+  "sourceCommit": "010f31ad7e66bf6860320ac95c961166e5baf041",
+  "generatedAt": "2026-09-09T16:56:11.868Z",
   "revision": "V2.11 / 10 September 2026",
-  "recordSha256": "be80eb1e9e67cb71fdbcb1a296c7387810d6cb51cfc28eedffffa0d13602bde0",
+  "recordSha256": "52e840c0a20521ebd97df7eb8694d4b0be9c9edf75e52cdc4e59984376024763",
   "files": [
     {
-      "path": "assets/index-Bx3wrKfa.css",
-      "sha256": "479198b16004dd1fcd103a4e8c7e3123230a974844cf31f0c39345b4f92e3f19"
-    },
-    {
-      "path": "assets/index-D9b83Chh.js",
+      "path": "assets/index-BYwgKF6_.js",
       "sha256": "0cc69cff6cf319331276f0093be15e6ed0da89c26018f8c3532a2fe7329d62a7"
     },
     {
+      "path": "assets/index-CjQKDqwD.css",
+      "sha256": "9426a1c53962c7d98e2a28c90cf90d37c9badb0e9e6be044e3e60926795a7e42"
+    },
+    {
       "path": "blueprint-records.json",
-      "sha256": "be80eb1e9e67cb71fdbcb1a296c7387810d6cb51cfc28eedffffa0d13602bde0"
+      "sha256": "52e840c0a20521ebd97df7eb8694d4b0be9c9edf75e52cdc4e59984376024763"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -234,7 +234,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "f9fae6e95891d16ca06c10af0f87f395c02c652cb9ea89d95f340eddc2e9ebc6"
+      "sha256": "0d4a3f589dc6af8e65d856cdc4b66f8712d44cce5a60cc7a8977dd7af9c3beb8"
     },
     {
       "path": "playable-3d/app.js",
@@ -342,7 +342,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "671884aba1e11fd2f4540d90c97f57753d41a97d181a8282a5f1c58e7e925fef"
+      "sha256": "de516df8d87b7975aedd699b084ca6cd2a5806c3124506f264d852d076face9c"
     },
     {
       "path": "production/change-workflows.md",
@@ -386,7 +386,7 @@
     },
     {
       "path": "production/reader-reconciliation-2026-09-10.md",
-      "sha256": "3a9c164202c4c5fc7e39707cb77fd83415dff67f96841916f14063004bd6f608"
+      "sha256": "4adb845e25f2748a327f3f774f29b22eb1ef1c780ee613951f9ef8194e9d474f"
     },
     {
       "path": "production/reader-release-receipt-2026-09-10.md",

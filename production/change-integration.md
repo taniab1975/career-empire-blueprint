@@ -259,7 +259,7 @@ Verification: passed / Reviewed canonical source/diff and the linked workflow or
 
 Next: No remaining action within this change.
 
-## CE-CHANGE-20260910-18 — Accepted campus direction: incomplete page integration
+## CE-CHANGE-20260910-18 — Campus, Avatar Studio and built-avatar page integration
 
 Integration: **complete**. Types: visual, building. Owner: Blueprint maintainer.
 

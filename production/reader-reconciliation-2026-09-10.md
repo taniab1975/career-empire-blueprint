@@ -73,6 +73,8 @@ EST destination returned 200. The new EST matrix function is local-only; earlier
 
 ## What the workflow now checks
 
+Final close-out regression: after the first verified release, the expanded mobile impact checklist exposed a 7px horizontal overflow when the new full commit hashes were displayed. The exact-hash checks still passed. The evidence card now wraps long identifiers rather than allowing horizontal overflow. The final live browser suite must be rerun; the first successful content release is not being used to waive this layout defect.
+
 The eleven change types still determine affected surfaces. This reconciliation adds real shared asset records and reader assertions: exact source image bytes, current versus built distinction, primary images on Start Here/visuals/world/build, topic-card selection, all four visible production approvals, cohort/classroom status, and unchanged protected design/learning data. This is more than successful navigation or a log entry.
 
 Remaining product gaps are not Blueprint defects to fabricate away: finished kit/precinct and wardrobe, classroom integration/acceptance, cohort/edition, pilot, progression rules, old-site redirect and optional Projects access. Unseen future chats still need intake; no automatic cross-account synchronisation is promised.
