@@ -30,7 +30,7 @@ Career Empire remains an experience-first career/life simulation for Year 12 Car
 
 ## Priorities after reconciliation
 
-1. Verify the corrected public reader pages, images and exact release manifest; do not call a push alone completion.
+1. Maintain the verified reader pages and exact release manifest. [Independent V2.11 release checks](reader-release-receipt-2026-09-10.md) passed; repeat them after future changes rather than treating a push as completion.
 2. Continue the separately authorised Avatar Studio candidate sequence: dimensioned layout → textured kit → Studio → assembled precinct → matched player-height and performance review → deliberate release. Arrival → EST Prep → Civic Heart follows.
 3. Verify the complete EST/new-teacher-matrix evidence loop using fictional accounts.
 4. Confirm cohort/edition and the first learning pilot before classroom claims.

@@ -4,7 +4,7 @@ Generated from data/change-integrations.json; edit the canonical record, not thi
 
 Release scope: Whole-Blueprint reader reconciliation: exact approved concepts, actual built evidence and cross-section status, without game production.
 
-The cross-section corrections are implemented and locally checked. Public-release verification is pending; no whole-Blueprint live completion is claimed yet. Product/classroom/design gaps remain separately listed.
+Reader reconciliation has independent live evidence. Finished precinct/wardrobe, classroom loop, cohort/pilot/progression and legacy redirect remain explicitly open product/access work.
 
 ## CE-CHANGE-20260910-17 — Change-driven Blueprint update workflow
 
@@ -261,7 +261,7 @@ Next: No remaining action within this change.
 
 ## CE-CHANGE-20260910-18 — Accepted campus direction: incomplete page integration
 
-Integration: **ready-for-publication**. Types: visual, building. Owner: Blueprint maintainer.
+Integration: **complete**. Types: visual, building. Owner: Blueprint maintainer.
 
 **Objective:** Look and feel, Avatar Studio/building references, aerial views, Start Here media and agreed next actions must all represent the same accepted campus direction.
 
@@ -271,7 +271,7 @@ Integration: **ready-for-publication**. Types: visual, building. Owner: Blueprin
 
 **Source:** Tania's 10 September visual mismatch report, compared with current Start Here, Look and feel and the retained 9 September audit gap.
 
-**Next:** Publish reviewed public-only output to the existing Pages repository, then compare the manifest and inspect all affected reader routes before marking complete.
+**Next:** Maintain the shared source records; future changes must repeat source-specific affected-page and independent live checks. Continue separately authorised product work only within its existing gates.
 
 ### Start Here — updated
 
@@ -358,22 +358,22 @@ Verification: passed / Source-specific section comparison, 46 data/governance/so
 
 Next: Retain the checked source and inspect again if its linked evidence changes.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Pre-release source/reader checks pass; existing GitHub target and private recovery verified. The new public release must still be published and checked live.
+Published the reviewed output to the existing GitHub site. Exact source/record and all six current image hashes matched; full live desktop/mobile semantic and navigation checks passed; reader screenshots visually inspected.
 
 Records: CE-CHANGE-20260910-18. Owner: Blueprint maintainer.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / New public release not yet independently inspected
+Verification: passed / Independent GitHub Pages read at source 9adf1a3431c711203895f9c1d67651387c149ac5 / public commit 3b7e842a4efa09d78fe50b6b283058f0df81c169; full live desktop/mobile smoke, exact six image hashes and screenshot inspection.
 
-- [Evidence](/career-empire-blueprint/production/reader-reconciliation-2026-09-10.md)
-- [Evidence](/career-empire-blueprint/production/current-assets.md)
+- [Evidence](/career-empire-blueprint/production/reader-release-receipt-2026-09-10.md)
+- [Evidence](https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json)
 
-Next: Compare deployed manifest/source/image hashes and run live desktop/mobile semantic checks; retain the final live receipt separately.
+Next: Check the final close-out manifest independently; later evidence/metadata changes do not grant product acceptance.
 
 ### Look and feel — updated
 
@@ -530,7 +530,7 @@ Next: Retain the checked source and inspect again if its linked evidence changes
 
 ## CE-CHANGE-20260910-19 — Whole-Blueprint source-to-reader reconciliation
 
-Integration: **ready-for-publication**. Types: decision, curriculum, activity, visual, building, avatar, governance. Owner: Blueprint maintainer.
+Integration: **complete**. Types: decision, curriculum, activity, visual, building, avatar, governance. Owner: Blueprint maintainer.
 
 **Objective:** Every reader section represents actual existing work and approved direction; technical tests cannot substitute for content review.
 
@@ -540,7 +540,7 @@ Integration: **ready-for-publication**. Types: decision, curriculum, activity, v
 
 **Source:** Tania clarified that the first two stale images were examples and rejected the claim that everything was updated; current task 10 September.
 
-**Next:** Publish reviewed public-only output to the existing Pages repository, then compare the manifest and inspect all affected reader routes before marking complete.
+**Next:** Maintain the shared source records; future changes must repeat source-specific affected-page and independent live checks. Continue separately authorised product work only within its existing gates.
 
 ### Start Here — updated
 
@@ -882,22 +882,22 @@ Verification: passed / Source-specific section comparison, 46 data/governance/so
 
 Next: Retain the checked source and inspect again if its linked evidence changes.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Pre-release source/reader checks pass; existing GitHub target and private recovery verified. The new public release must still be published and checked live.
+Published the reviewed output to the existing GitHub site. Exact source/record and all six current image hashes matched; full live desktop/mobile semantic and navigation checks passed; reader screenshots visually inspected.
 
 Records: CE-CHANGE-20260910-19. Owner: Blueprint maintainer.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / New public release not yet independently inspected
+Verification: passed / Independent GitHub Pages read at source 9adf1a3431c711203895f9c1d67651387c149ac5 / public commit 3b7e842a4efa09d78fe50b6b283058f0df81c169; full live desktop/mobile smoke, exact six image hashes and screenshot inspection.
 
-- [Evidence](/career-empire-blueprint/production/reader-reconciliation-2026-09-10.md)
-- [Evidence](/career-empire-blueprint/production/current-assets.md)
+- [Evidence](/career-empire-blueprint/production/reader-release-receipt-2026-09-10.md)
+- [Evidence](https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json)
 
-Next: Compare deployed manifest/source/image hashes and run live desktop/mobile semantic checks; retain the final live receipt separately.
+Next: Check the final close-out manifest independently; later evidence/metadata changes do not grant product acceptance.
 
 ## Historical boundary
 

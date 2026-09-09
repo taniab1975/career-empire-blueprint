@@ -187,35 +187,35 @@
       ]
     },
     "currentStep": {
-      "id": "CE-GOV-01",
-      "title": "Reconcile changes across every affected Blueprint section",
-      "status": "Content reconciled locally; live verification pending",
-      "owner": "Blueprint maintainer",
-      "href": "/production/change-integration.md",
-      "actionLabel": "See affected sections and remaining updates",
+      "id": "CE-ENV-01",
+      "title": "Next approved production stage: Avatar Studio precinct candidate",
+      "status": "Direction approved; production unfinished — not started by this audit",
+      "owner": "Environment integrator; Tania: appearance and placement acceptance",
+      "href": "#world",
+      "actionLabel": "Review the Studio target and current prototype",
       "decisionIds": [
         "V2-D07",
         "V2-D08",
         "V2-D17"
       ],
-      "nextAction": "Reconcile actual content across every reader section, including concepts versus built assets, classroom status, learning/assessment boundaries and delivery. Verify the published views against source evidence, not just working navigation.",
-      "doneWhen": "Every reader section has source-specific content verification, affected placements match the recovered evidence, and the published result is inspected; remaining design/classroom/access gaps are named.",
-      "boundary": "This documentation update does not approve a new game build, paid asset generation, curriculum edition change or final design acceptance."
+      "nextAction": "In the separate workbench, continue dimensioned approach → textured modular kit → Studio → garden/path/plaza → player-height and performance review → deliberate release. Arrival → EST Prep → Civic Heart follows. Keep blazer work paused; test EST/teacher integration and resolve cohort/pilot before classroom claims.",
+      "doneWhen": "Player-height Studio/garden/path/plaza candidate matches approved concepts, passes functional/performance review and receives explicit precinct acceptance before release.",
+      "boundary": "This completed Blueprint reconciliation does not build or release the precinct, resume the blazer, authorise paid generation, change the curriculum edition or grant classroom acceptance."
     },
     "roadmap": [
       {
         "id": "CE-GOV-01",
-        "horizon": "Now",
+        "horizon": "Done",
         "title": "Complete change-to-page integration",
         "owner": "Blueprint maintainer",
-        "status": "Ready for publication; verify exact live content",
+        "status": "Reader reconciliation verified live; maintained through the change workflow",
         "dependency": "Reader/source comparisons across all sections; no new artwork or game production",
-        "doneWhen": "Each affected surface agrees with its source change; no missing or unverified surface is labelled complete",
+        "doneWhen": "Every reader section has source-specific content verification, affected placements match the recovered evidence, and the published result is inspected; remaining design/classroom/access gaps are named.",
         "href": "/production/change-integration.md"
       },
       {
         "id": "CE-ENV-01",
-        "horizon": "Next",
+        "horizon": "Now",
         "title": "Complete the Avatar Studio precinct candidate",
         "owner": "Environment integrator; Tania: appearance and placement acceptance",
         "status": "Direction approved; layout/kit/precinct unfinished",
@@ -666,17 +666,17 @@
       "asOf": "2026-09-10",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.11 / 10 September 2026",
+        "sourceRevision": "V2.11 / reader reconciliation",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.10 / GitHub Pages",
+        "observedLiveRevision": "V2.11 / GitHub Pages",
         "checkedAt": "2026-09-10",
-        "observedLiveSha256": "1ad47ea05a1c7ab8441d63bf600c4205b9c2b464817c58a236235c836cfae34b",
+        "observedLiveSha256": "67af537d47e8d92b38cad9df5cf968c542d9bd3bc2cf3ad0534d6ef6716d0b7e",
         "accessCheck": "GitHub delivery repository PUBLIC and Pages built successfully; source mirror PRIVATE. Existing Sites project still returns HTTP 404 NOT_FOUND / project_not_found.",
-        "validationReceipt": "/production/github-migration-2026-09-09.md",
-        "status": "Reader reconciliation in progress; publication receipt will record actual verified release",
+        "validationReceipt": "/production/reader-release-receipt-2026-09-10.md",
+        "status": "Reader reconciliation verified live; final product/design and classroom gates remain open",
         "savedVersionId": null,
-        "deploymentId": "GitHub Pages build 1204515871",
-        "parity": "Previous GitHub publication was verified byte-for-byte; that did not establish that every page reflected the accepted changes",
+        "deploymentId": "GitHub Pages / 3b7e842 / built 2026-09-09T16:47:34Z",
+        "parity": "Exact live source, record and six current image hashes verified, with independent desktop/mobile reader checks across all areas",
         "resume": "Use the private canonical source and existing recovery branch; publish only validated generated output to the existing Pages repository. Read the current manifest/receipt, preserve newer history, and log material work. Legacy redirect waits for the owning Sites account.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
@@ -686,8 +686,8 @@
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
         },
-        "observedPublicCommit": "ebbc8852b38884fb58907378b4fa39dce33a94aa",
-        "hashScope": "Observed V2.10 publication before this reconciliation; the deployed manifest identifies the exact current build. Technical parity alone does not establish content currency.",
+        "observedPublicCommit": "3b7e842a4efa09d78fe50b6b283058f0df81c169",
+        "hashScope": "Observed first verified V2.11 content release before this metadata close-out. The current deployed manifest identifies each exact later source/record; final live receipt is retained separately to avoid self-hash loops.",
         "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
@@ -1164,7 +1164,7 @@
           "domain": "Visual direction, media and buildings",
           "source": "Tania's 10 September report: Look and feel, Avatar Studio/buildings, aerial references, future actions and Start Here media do not reflect the agreed direction.",
           "owner": "Blueprint maintainer",
-          "status": "Exact originals recovered and integrated locally; live verification pending",
+          "status": "Reader integration published and independently verified; product gates remain open",
           "rationale": "Approval of the campus direction was recorded, but the actual reader-facing visual placements were not updated together. Earlier daytime-campus filenames inspected here depict civic concepts and are not proof of the newer references.",
           "dependencies": [
             "CE-CHANGE-20260909-05",
@@ -1174,14 +1174,15 @@
             "/production/change-integration.md",
             "/production/visual-register.md",
             "/production/current-assets.md",
-            "/production/reader-reconciliation-2026-09-10.md"
+            "/production/reader-reconciliation-2026-09-10.md",
+            "/production/reader-release-receipt-2026-09-10.md"
           ],
-          "nextAction": "Verify this integrated content in the existing GitHub publication; finished precinct and wardrobe remain separate product gaps.",
+          "nextAction": "Maintain the single Blueprint and repeat actual reader verification for new changes. Prioritise the separately authorised precinct candidate, EST/teacher loop and cohort/pilot decisions; leave blazer paused.",
           "supersededRecord": null,
           "designApproval": "Campus/precinct direction retained; image integration and asset completion are separate.",
           "implementation": "Recovered original campus/corridor/pavilion bytes and separately registered actual Studio/avatar proof; updated current galleries, building records, Start Here, thumbnails, prompts and next actions.",
-          "deployment": "Known visual integration gap disclosed in the scoped workflow release; not claimed complete by publishing.",
-          "testing": "Workflow must reject visual completion with omitted media, building, asset or next-action checks.",
+          "deployment": "Existing GitHub Pages verified at public 3b7e842a4efa09d78fe50b6b283058f0df81c169 / private source 9adf1a3431c711203895f9c1d67651387c149ac5. Final close-out identity is in the current manifest.",
+          "testing": "48/48 data/governance/source/phase tests; TypeScript, focused lint, both builds; full local and live desktop/mobile semantic/navigation checks passed. All six current images matched exact original hashes and rendered reader screenshots were inspected.",
           "taniaAcceptance": "User rejected current presentation as representative; no visual acceptance claimed."
         },
         {
@@ -1191,21 +1192,22 @@
           "domain": "All reader sections, visual/building/avatar and learning/classroom status",
           "source": "Tania clarified that the first two stale images were examples and rejected the claim that everything was updated; current task 10 September.",
           "owner": "Blueprint maintainer",
-          "status": "Source/reader reconciliation locally verified; live check pending",
+          "status": "Reader integration published and independently verified; product gates remain open",
           "rationale": "Workflow records and functioning pages did not ensure the published content matched actual decisions and built work.",
           "dependencies": [
             "CE-CHANGE-20260910-18"
           ],
           "evidence": [
             "/production/reader-reconciliation-2026-09-10.md",
-            "/production/current-assets.md"
+            "/production/current-assets.md",
+            "/production/reader-release-receipt-2026-09-10.md"
           ],
-          "nextAction": "Publish reviewed output and verify actual live pages and exact source/records/image bytes.",
+          "nextAction": "Maintain the single Blueprint and repeat actual reader verification for new changes. Prioritise the separately authorised precinct candidate, EST/teacher loop and cohort/pilot decisions; leave blazer paused.",
           "supersededRecord": null,
           "designApproval": "No new design approval; retain all 17 decisions, four production approvals and unapproved pilot.",
           "implementation": "Shared current-evidence gallery, recovered exact concepts, actual built proof and place status; classroom and decision visibility corrections.",
-          "deployment": "Not yet verified for this reconciliation",
-          "testing": "46/46 data/governance/source tests, TypeScript, focused lint, original and static builds; full local desktop/mobile navigation and semantic image/status checks passed. Initial incomplete screenshots rejected and recaptured after rendering settled.",
+          "deployment": "Existing GitHub Pages verified at public 3b7e842a4efa09d78fe50b6b283058f0df81c169 / private source 9adf1a3431c711203895f9c1d67651387c149ac5. Final close-out identity is in the current manifest.",
+          "testing": "48/48 data/governance/source/phase tests; TypeScript, focused lint, both builds; full local and live desktop/mobile semantic/navigation checks passed. All six current images matched exact original hashes and rendered reader screenshots were inspected.",
           "taniaAcceptance": "User requested correction; neither final presentation nor game/classroom readiness accepted."
         }
       ],
@@ -3190,7 +3192,7 @@
     {
       "id": "BUILD-BP-READER-20260910",
       "title": "Whole-Blueprint reader reconciliation",
-      "status": "Content verified locally; independent live release check pending",
+      "status": "Reader reconciliation published and independently verified",
       "owner": "Blueprint maintainer; Tania retains design and classroom acceptance",
       "date": "10 September 2026",
       "decision": "Tania clarified that stale visual examples expose a whole-Blueprint failure; CE-CHANGE-20260910-18/19",
@@ -3203,7 +3205,7 @@
       ],
       "checks": "Data/governance/source regression tests, TypeScript, focused lint, original/static builds and full local semantic desktop/mobile browser checks. Inspected rendered current images and status; rejected early incomplete captures. Exact source and section findings in /production/reader-reconciliation-2026-09-10.md.",
       "limits": "Screenshots are local pre-publication checkpoints. Campus stills are approved concepts; Studio and schoolboy/blazer are built prototypes. Wardrobe paused; kit/precinct, full classroom loop, cohort/pilot/progression and legacy redirect remain open.",
-      "acceptance": "Correction requested, not final asset/game/classroom acceptance. Public completeness requires independent live inspection; final release receipt is recorded separately."
+      "acceptance": "Correction requested; independent live image/record and desktop/mobile reader checks passed. See /production/reader-release-receipt-2026-09-10.md. Final asset/game/classroom acceptance is not claimed."
     },
     {
       "id": "BUILD-BP-WORKFLOW-20260910",
@@ -4214,8 +4216,12 @@
         "CE-CHANGE-20260910-19"
       ],
       "scope": "Whole-Blueprint reader reconciliation: exact approved concepts, actual built evidence and cross-section status, without game production.",
-      "disclosure": "The cross-section corrections are implemented and locally checked. Public-release verification is pending; no whole-Blueprint live completion is claimed yet. Product/classroom/design gaps remain separately listed.",
+      "disclosure": "Reader reconciliation has independent live evidence. Finished precinct/wardrobe, classroom loop, cohort/pilot/progression and legacy redirect remain explicitly open product/access work.",
       "requiredReviewFiles": [
+        "docs/production/reader-release-receipt-2026-09-10.md",
+        "docs/production/current-state.md",
+        "docs/production/production-plan.md",
+        "tests/browser-smoke.mjs",
         "data/change-workflows.json",
         "docs/production/change-workflows.md",
         "app/change-integration.tsx",
@@ -4231,7 +4237,7 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "72407324fc6315737f435a70f7ffb6259e9058e326518dd1b8bb52e04c128e1e"
+          "sha256": "d2c2e89c4af851d0a1bf1d1199586d9a65866444178e0795261aea36dc1942f3"
         },
         {
           "path": "README.md",
@@ -4263,7 +4269,7 @@
         },
         {
           "path": "data/blueprint.ts",
-          "sha256": "f234941abaa94680003eed050d6f42acb7f58fd9c7c48f41e491e4a36bc3fc15"
+          "sha256": "c2af407274006e3ae1212b89b6f98f4ca91b31ad785fc2bac07e385ac3b2ae1a"
         },
         {
           "path": "data/change-workflows.json",
@@ -4275,7 +4281,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "5788c1c3e75af62cdabfe174cbcc6778cf18fdd341d66488418b2f4cf699e0ad"
+          "sha256": "3290aed5e4381d9f8d991e5b1502d73ae7e9bb08a6b8c0f09ae544a37472519d"
         },
         {
           "path": "data/style-guide.json",
@@ -4283,19 +4289,31 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "8f81ac74ec8317125305ddc3c9df450f9b267a6d1e6b13ddbd0103781dfcd30a"
+          "sha256": "9af91ee2d7c35541c14b2edd9e5e1991738014001b09761553d5f51bdb06998d"
         },
         {
           "path": "docs/production/change-workflows.md",
           "sha256": "8b485cfefa4bec5797858ff01a54b0c4a4580e4f6261b024bc629d2232b7d179"
         },
         {
+          "path": "docs/production/current-state.md",
+          "sha256": "2470abbe1c01d5fca29f56cd3db5ed0ed66d6e76dbcf3301fd2374187c44a446"
+        },
+        {
           "path": "docs/production/operating-protocol.md",
-          "sha256": "fcdb83565e68d74c8630db0c5c7dba879bf1b74b3344ef308deaf2296b4bbe10"
+          "sha256": "58c74c7320f038f0782d8ae40a405fd8adc7691f133a0ed305b884b60ff10bd6"
+        },
+        {
+          "path": "docs/production/production-plan.md",
+          "sha256": "38178197aa1f5529555c57bcc381ec2bbb0b51dbf8db851af6bf15812013d0f9"
         },
         {
           "path": "docs/production/reader-reconciliation-2026-09-10.md",
-          "sha256": "c288f416f9bfc69577e283eb10efa9f584f5a25915b60fd13f1fd5bc2fb3d76d"
+          "sha256": "3a9c164202c4c5fc7e39707cb77fd83415dff67f96841916f14063004bd6f608"
+        },
+        {
+          "path": "docs/production/reader-release-receipt-2026-09-10.md",
+          "sha256": "4ec3ae8b6df237874b2acd9a28d68c0faa1e43e612b6493ffe4ac5a9118d412a"
         },
         {
           "path": "docs/production/visual-evidence-manifest.json",
@@ -4311,7 +4329,7 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "27217fdb51bdc400290cc6c21268386c2a19302e7812804278dccab80e148c86"
+          "sha256": "b31017a6174010c818a8985cb7664272d6d37aef6cbde3cab2c98a5b2a0e3d09"
         },
         {
           "path": "scripts/prepare-pages.mjs",
@@ -4322,12 +4340,16 @@
           "sha256": "41cf1257d560e2be31e61a80e65fa98dce42018f971b2d676610bdf7ce687059"
         },
         {
+          "path": "tests/browser-smoke.mjs",
+          "sha256": "70354e4691d561d4c40e1242d1bf216ec80ef19ddf9a44a3583876e7c8ea6155"
+        },
+        {
           "path": "tests/change-impact.test.mjs",
           "sha256": "359d7dd077e8af88000c93a19dfdfcd512bb7bc945b4380d3810aef57e080b80"
         },
         {
           "path": "tests/reader-currency.test.mjs",
-          "sha256": "fbf0dc13df3e6fe3242906b6f2eb51232ad03b85d3d8493830d265800f29616a"
+          "sha256": "98bf71cb94193cab640e0c8f799403b4d6ebea90a3e8344c6d1ae3f37884b82c"
         },
         {
           "path": "vite.pages.config.ts",
@@ -4655,13 +4677,13 @@
           "visual",
           "building"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Look and feel, Avatar Studio/building references, aerial views, Start Here media and agreed next actions must all represent the same accepted campus direction.",
         "before": "Campus direction was described in text, while older civic imagery remained prominent and the front film was labelled Planned feel.",
         "after": "Exact accepted concepts should occupy their current placements; historical films and images remain clearly separated. Approval of direction must not be confused with finished game assets.",
         "source": "Tania's 10 September visual mismatch report, compared with current Start Here, Look and feel and the retained 9 September audit gap.",
         "owner": "Blueprint maintainer",
-        "nextAction": "Publish reviewed public-only output to the existing Pages repository, then compare the manifest and inspect all affected reader routes before marking complete.",
+        "nextAction": "Maintain the shared source records; future changes must repeat source-specific affected-page and independent live checks. Continue separately authorised product work only within its existing gates.",
         "targets": [
           {
             "surface": "start",
@@ -4765,23 +4787,23 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Pre-release source/reader checks pass; existing GitHub target and private recovery verified. The new public release must still be published and checked live.",
+            "disposition": "updated",
+            "action": "Published the reviewed output to the existing GitHub site. Exact source/record and all six current image hashes matched; full live desktop/mobile semantic and navigation checks passed; reader screenshots visually inspected.",
             "records": [
               "CE-CHANGE-20260910-18"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "evidence": [
-              "/production/reader-reconciliation-2026-09-10.md",
-              "/production/current-assets.md"
+              "/production/reader-release-receipt-2026-09-10.md",
+              "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
             ],
             "verification": {
-              "result": "pending",
-              "method": "New public release not yet independently inspected",
+              "result": "passed",
+              "method": "Independent GitHub Pages read at source 9adf1a3431c711203895f9c1d67651387c149ac5 / public commit 3b7e842a4efa09d78fe50b6b283058f0df81c169; full live desktop/mobile smoke, exact six image hashes and screenshot inspection.",
               "date": "2026-09-10"
             },
-            "nextAction": "Compare deployed manifest/source/image hashes and run live desktop/mobile semantic checks; retain the final live receipt separately."
+            "nextAction": "Check the final close-out manifest independently; later evidence/metadata changes do not grant product acceptance."
           },
           {
             "surface": "visuals",
@@ -4977,13 +4999,13 @@
           "avatar",
           "governance"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "owner": "Blueprint maintainer",
         "source": "Tania clarified that the first two stale images were examples and rejected the claim that everything was updated; current task 10 September.",
         "objective": "Every reader section represents actual existing work and approved direction; technical tests cannot substitute for content review.",
         "before": "Old visual placements, missing built proof and incomplete status propagation survived successful publication checks.",
         "after": "Current concepts, built evidence, place records and learning/classroom boundaries agree across pages; remaining external gaps are specific.",
-        "nextAction": "Publish reviewed public-only output to the existing Pages repository, then compare the manifest and inspect all affected reader routes before marking complete.",
+        "nextAction": "Maintain the shared source records; future changes must repeat source-specific affected-page and independent live checks. Continue separately authorised product work only within its existing gates.",
         "targets": [
           {
             "surface": "start",
@@ -5387,23 +5409,23 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Pre-release source/reader checks pass; existing GitHub target and private recovery verified. The new public release must still be published and checked live.",
+            "disposition": "updated",
+            "action": "Published the reviewed output to the existing GitHub site. Exact source/record and all six current image hashes matched; full live desktop/mobile semantic and navigation checks passed; reader screenshots visually inspected.",
             "records": [
               "CE-CHANGE-20260910-19"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "evidence": [
-              "/production/reader-reconciliation-2026-09-10.md",
-              "/production/current-assets.md"
+              "/production/reader-release-receipt-2026-09-10.md",
+              "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
             ],
             "verification": {
-              "result": "pending",
-              "method": "New public release not yet independently inspected",
+              "result": "passed",
+              "method": "Independent GitHub Pages read at source 9adf1a3431c711203895f9c1d67651387c149ac5 / public commit 3b7e842a4efa09d78fe50b6b283058f0df81c169; full live desktop/mobile smoke, exact six image hashes and screenshot inspection.",
               "date": "2026-09-10"
             },
-            "nextAction": "Compare deployed manifest/source/image hashes and run live desktop/mobile semantic checks; retain the final live receipt separately."
+            "nextAction": "Check the final close-out manifest independently; later evidence/metadata changes do not grant product acceptance."
           }
         ]
       }

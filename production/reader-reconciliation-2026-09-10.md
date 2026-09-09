@@ -1,6 +1,6 @@
 # Whole-Blueprint reader reconciliation — 10 September 2026
 
-Status: source/reader reconciliation locally verified; ready for publication. No new public-release completion is claimed until independent live verification.
+Status: reader reconciliation published and independently verified. The [release receipt](reader-release-receipt-2026-09-10.md) records exact source/record/image parity and live desktop/mobile checks. Product acceptance and the named open decisions remain separate.
 
 ## Request and correction
 
@@ -10,7 +10,7 @@ Objective: reconcile every reader section against the existing decisions, curric
 
 Before: current-direction prose coexists with old visual references and incomplete built-asset representation. After required: exact recovered current concept images and separately labelled built evidence; consistent buildings, avatar, Start Here, learning, roadmap and source records; section-specific evidence for unchanged content; explicit remaining source or acceptance gaps.
 
-Existing change CE-CHANGE-20260910-18 remains incomplete. The expanded whole-Blueprint review must not be closed as only an image replacement. Owner: Blueprint maintainer. Protected decisions V2-D01–17, four production approvals, curriculum text and unapproved pilot remain unchanged unless actual later user evidence establishes otherwise.
+Changes CE-CHANGE-20260910-18/19 are reconciled against the sections below, not closed merely as an image replacement. Owner: Blueprint maintainer. Protected decisions V2-D01–17, four production approvals, curriculum text and unapproved pilot remain unchanged.
 
 ## Evidence retrieval
 
@@ -21,7 +21,7 @@ Existing change CE-CHANGE-20260910-18 remains incomplete. The expanded whole-Blu
 
 ## Completion evidence
 
-Source recovery and reader content corrections implemented; 46 data/governance/source tests, TypeScript, focused lint and both builds passed before the two added publication-state regression tests. Full local semantic desktop/mobile browser smoke passed; complete final-local captures of current Start Here, visuals, buildings and build evidence were visually inspected. Early partial/blank captures were rejected, and screenshot timing was corrected to wait for rendering. Final release and live inspection remain pending at this checkpoint. No work continues in the background after a final response unless an explicit supported automation/task has been started.
+Source recovery and reader corrections are implemented and published. All 48 data/governance/source/publication-state tests, TypeScript, focused lint and both builds passed. Full local and live semantic desktop/mobile browser smoke passed; complete captures of current Start Here, visuals, buildings and build evidence were visually inspected. Early partial/blank captures were rejected and timing corrected. The live manifest and all six source-image hashes matched exactly; see the release receipt. No background continuation or unseen-chat synchronisation is promised.
 
 ## Recovered original assets
 

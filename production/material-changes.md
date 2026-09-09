@@ -314,16 +314,16 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** Visual direction, media and buildings
 - **source:** Tania's 10 September report: Look and feel, Avatar Studio/buildings, aerial references, future actions and Start Here media do not reflect the agreed direction.
 - **owner:** Blueprint maintainer
-- **status:** Exact originals recovered and integrated locally; live verification pending
+- **status:** Reader integration published and independently verified; product gates remain open
 - **rationale:** Approval of the campus direction was recorded, but the actual reader-facing visual placements were not updated together. Earlier daytime-campus filenames inspected here depict civic concepts and are not proof of the newer references.
 - **dependencies:** CE-CHANGE-20260909-05 / CE-CHANGE-20260910-17
-- **evidence:** /production/change-integration.md / /production/visual-register.md / /production/current-assets.md / /production/reader-reconciliation-2026-09-10.md
-- **nextAction:** Verify this integrated content in the existing GitHub publication; finished precinct and wardrobe remain separate product gaps.
+- **evidence:** /production/change-integration.md / /production/visual-register.md / /production/current-assets.md / /production/reader-reconciliation-2026-09-10.md / /production/reader-release-receipt-2026-09-10.md
+- **nextAction:** Maintain the single Blueprint and repeat actual reader verification for new changes. Prioritise the separately authorised precinct candidate, EST/teacher loop and cohort/pilot decisions; leave blazer paused.
 - **supersededRecord:** None
 - **designApproval:** Campus/precinct direction retained; image integration and asset completion are separate.
 - **implementation:** Recovered original campus/corridor/pavilion bytes and separately registered actual Studio/avatar proof; updated current galleries, building records, Start Here, thumbnails, prompts and next actions.
-- **deployment:** Known visual integration gap disclosed in the scoped workflow release; not claimed complete by publishing.
-- **testing:** Workflow must reject visual completion with omitted media, building, asset or next-action checks.
+- **deployment:** Existing GitHub Pages verified at public 3b7e842a4efa09d78fe50b6b283058f0df81c169 / private source 9adf1a3431c711203895f9c1d67651387c149ac5. Final close-out identity is in the current manifest.
+- **testing:** 48/48 data/governance/source/phase tests; TypeScript, focused lint, both builds; full local and live desktop/mobile semantic/navigation checks passed. All six current images matched exact original hashes and rendered reader screenshots were inspected.
 - **taniaAcceptance:** User rejected current presentation as representative; no visual acceptance claimed.
 
 ## CE-CHANGE-20260910-19 — Reconcile the whole reader-facing Blueprint, not only reported images
@@ -332,16 +332,16 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** All reader sections, visual/building/avatar and learning/classroom status
 - **source:** Tania clarified that the first two stale images were examples and rejected the claim that everything was updated; current task 10 September.
 - **owner:** Blueprint maintainer
-- **status:** Source/reader reconciliation locally verified; live check pending
+- **status:** Reader integration published and independently verified; product gates remain open
 - **rationale:** Workflow records and functioning pages did not ensure the published content matched actual decisions and built work.
 - **dependencies:** CE-CHANGE-20260910-18
-- **evidence:** /production/reader-reconciliation-2026-09-10.md / /production/current-assets.md
-- **nextAction:** Publish reviewed output and verify actual live pages and exact source/records/image bytes.
+- **evidence:** /production/reader-reconciliation-2026-09-10.md / /production/current-assets.md / /production/reader-release-receipt-2026-09-10.md
+- **nextAction:** Maintain the single Blueprint and repeat actual reader verification for new changes. Prioritise the separately authorised precinct candidate, EST/teacher loop and cohort/pilot decisions; leave blazer paused.
 - **supersededRecord:** None
 - **designApproval:** No new design approval; retain all 17 decisions, four production approvals and unapproved pilot.
 - **implementation:** Shared current-evidence gallery, recovered exact concepts, actual built proof and place status; classroom and decision visibility corrections.
-- **deployment:** Not yet verified for this reconciliation
-- **testing:** 46/46 data/governance/source tests, TypeScript, focused lint, original and static builds; full local desktop/mobile navigation and semantic image/status checks passed. Initial incomplete screenshots rejected and recaptured after rendering settled.
+- **deployment:** Existing GitHub Pages verified at public 3b7e842a4efa09d78fe50b6b283058f0df81c169 / private source 9adf1a3431c711203895f9c1d67651387c149ac5. Final close-out identity is in the current manifest.
+- **testing:** 48/48 data/governance/source/phase tests; TypeScript, focused lint, both builds; full local and live desktop/mobile semantic/navigation checks passed. All six current images matched exact original hashes and rendered reader screenshots were inspected.
 - **taniaAcceptance:** User requested correction; neither final presentation nor game/classroom readiness accepted.
 
 ## Retained Atlas principles

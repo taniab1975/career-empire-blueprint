@@ -67,8 +67,6 @@ Limits: A still does not prove every animation or deformation passes. The paused
 Next: Retain evidence with the matching model; future motion acceptance requires supported clips and complete-body checks.
 Source: Inspect blazer-only GLB asset task, studio-jacket-walking.png; shared-skeleton synthetic walking test, not the incompatible independent Tripo clip.
 SHA-256: 63103349fda80bd82c3955c2b3beec5b36bd245e52390b2a15b6a6311271d473
-Open integration CE-CHANGE-20260910-18: Look and feel, Avatar Studio/building references, aerial views, Start Here media and agreed next actions must all represent the same accepted campus direction. Next: Publish reviewed public-only output to the existing Pages repository, then compare the manifest and inspect all affected reader routes before marking complete.
-Open integration CE-CHANGE-20260910-19: Every reader section represents actual existing work and approved direction; technical tests cannot substitute for content review. Next: Publish reviewed public-only output to the existing Pages repository, then compare the manifest and inspect all affected reader routes before marking complete.
 
 ## Retained earlier reference family and prompt pack — historical, not a replacement for the current direction
 
