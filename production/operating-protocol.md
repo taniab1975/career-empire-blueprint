@@ -1,5 +1,7 @@
 # Blueprint operating protocol
 
+**Latest instruction — 10 September 2026:** Tania authorises publication; remote CI/branch-protection activation is not required. Keep local safeguards and independently verify the live release. Then begin CE-ENV-01 at the dimensioned Avatar Studio layout stage, followed separately by kit, Studio, assembled precinct and review. The blazer stays paused. [Scope and sequence](publication-and-production-2026-09-10.md). Earlier pending-authority/remote-blocker statements below are historical checkpoints superseded by CE-CHANGE-20260910-21.
+
 ## Change-to-page integration — mandatory from 10 September 2026
 
 The complete type-specific rules are generated in [What each change must update](change-workflows.md), and actual change coverage is in [Change integration](change-integration.md). These rules apply to every task, not only visuals. Select all relevant types: decision/approval/veto, curriculum/assessment, activity flow, visual/media, building/environment, avatar/wardrobe, gameplay/progression, implementation/bug fix, release/recovery, research/terminology, and governance/tracking.

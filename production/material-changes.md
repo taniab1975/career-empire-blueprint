@@ -344,6 +344,42 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **testing:** 48/48 data/governance/source/phase tests; TypeScript, focused lint, both builds; full local and live desktop/mobile semantic/navigation checks passed. All six current images matched exact original hashes and rendered reader screenshots were inspected.
 - **taniaAcceptance:** User requested correction; neither final presentation nor game/classroom readiness accepted.
 
+## CE-CHANGE-20260910-20 — Install continuous Blueprint safeguards across Career Empire projects
+
+- **date:** 2026-09-10
+- **domain:** Cross-project instructions, automatic intake, publication guards and scheduled stewardship
+- **source:** Tania's current request: take over setup in Career Empire ChatGPT and Codex projects; automate checks so reconciliation is not repeatedly left to the user. Tania then clarified that her normal workflow uses desktop project folders while switching work, personal or Hotmail sign-in; browser project configuration is optional.
+- **owner:** Blueprint maintainer
+- **status:** Local folder safeguards installed and tested; remote publication pending
+- **rationale:** A canonical repository instruction does not automatically apply to unrelated project folders or cloud chats. Local hooks and scheduled intake reduce silent divergence, but cannot read inaccessible accounts or replace semantic review.
+- **dependencies:** CE-CHANGE-20260910-17 / CE-CHANGE-20260910-19
+- **evidence:** /production/project-work-contract.md / /production/project-automation-setup-2026-09-10.md
+- **nextAction:** Use the same registered Career Empire desktop folders across sign-ins. Verify folder access and scheduled-task availability after switching accounts; obtain explicit scoped commit/publication authority, activate remote checks where configured, and independently verify the Blueprint release.
+- **supersededRecord:** None
+- **designApproval:** User authorises workflow setup only; protected product decisions and production pause boundaries unchanged.
+- **implementation:** Shared extensive contract, exact published-source receipt guard and private idempotent intake scanner installed. Four working repositories have active pre-push hooks; the canonical Blueprint retains its own release gate. Daily stewardship is active.
+- **deployment:** Local setup only at this checkpoint. Public V2.11 is unchanged. CI definitions are not proof of active remote enforcement.
+- **testing:** 56/56 data/governance/source/guard tests, type check, focused lint and normal build passed. Repeated scans detect no duplicate changes in unchanged projects. The installed guard rejected unreviewed file versions; Pages release correctly rejects unfinished CE-CHANGE-20260910-20.
+- **taniaAcceptance:** Setup requested; no final acceptance or promise of perfect cross-account memory inferred.
+
+## CE-CHANGE-20260910-21 — Publish current safeguards, then begin staged Avatar Studio layout
+
+- **date:** 2026-09-10
+- **domain:** Publication scope and production continuation
+- **source:** Tania, 10 September 2026, current Career Empire continuation: "publication do that. remote checks not necessary. once publication done, move to step 2". Supersedes obsolete V2.8 advice and remote-CI activation as a release dependency.
+- **owner:** Blueprint maintainer; environment integrator after live verification
+- **status:** Ready for publication; live verification pending
+- **rationale:** V2.8 advice was stale: V2.11 is already verified live. Publish the existing local safeguards with remote CI outside the required scope, then advance the existing approved precinct sequence without a one-pass world rebuild.
+- **dependencies:** CE-CHANGE-20260910-20 / CE-CHANGE-20260910-19
+- **evidence:** /production/publication-and-production-2026-09-10.md
+- **nextAction:** Validate and publish this exact source, independently verify live bytes and desktop/mobile reader pages, then begin dimensioned Avatar Studio layout in the separate candidate.
+- **supersededRecord:** CE-CHANGE-20260910-20
+- **designApproval:** Tania authorises Blueprint publication and subsequent stage-one precinct work. Remote CI/branch-protection activation is not required. Local safeguards, release checks, protected decisions and blazer pause remain.
+- **implementation:** Release preparation; no new precinct work before verified publication.
+- **deployment:** Pending independent publication verification; prior V2.11 remains the verified baseline.
+- **testing:** 57 tests passed; TypeScript, focused lint and normal build passed. Targeted static reader review at 1280/390px passed. Development-preview smoke timed out in decision navigation; full static smoke is required before upload.
+- **taniaAcceptance:** Sequence and publication authorised; finished precinct, classroom and pilot acceptance remain separate.
+
 ## Retained Atlas principles
 
 Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries

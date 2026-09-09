@@ -1,5 +1,9 @@
 # Start Here — Career Empire, 10 September 2026
 
+**Latest instruction — 10 September 2026:** Tania authorises publication; remote CI/branch-protection activation is not required. Keep local safeguards and independently verify the live release. Then begin CE-ENV-01 at the dimensioned Avatar Studio layout stage, followed separately by kit, Studio, assembled precinct and review. The blazer stays paused. [Scope and sequence](publication-and-production-2026-09-10.md). Earlier pending-authority/remote-blocker statements below are historical checkpoints superseded by CE-CHANGE-20260910-21.
+
+**Current governance work:** Local folder safeguards are installed. Tania has authorised their Blueprint publication and removed remote CI activation from required scope. Independently verify this release, then begin CE-ENV-01 at its dimensioned-layout stage. Cross-account availability remains a disclosed limitation.
+
 **Reader reconciliation, V2.11.** The earlier whole-Blueprint currency claim was withdrawn after stale content was found. The exact approved campus, corridor and Avatar Studio originals are now recovered, and built Studio/schoolboy/blazer evidence is separately displayed. [Section-by-section findings](reader-reconciliation-2026-09-10.md) distinguish content corrections from unverified game/classroom acceptance. The current live build is identified by its [publication manifest](https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json), not by a previous version label.
 
 Career Empire remains an experience-first career/life simulation for Year 12 Careers and Employability. Meaningful choice, supported learning, application, feedback, recovery and personal/community growth are retained.

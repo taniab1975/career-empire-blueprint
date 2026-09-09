@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "010f31ad7e66bf6860320ac95c961166e5baf041",
-  "generatedAt": "2026-09-09T16:56:11.868Z",
-  "revision": "V2.11 / 10 September 2026",
-  "recordSha256": "52e840c0a20521ebd97df7eb8694d4b0be9c9edf75e52cdc4e59984376024763",
+  "sourceCommit": "776b2ec42e5aec4557a4b196b80119d2532f4a1b",
+  "generatedAt": "2026-09-09T17:39:57.261Z",
+  "revision": "V2.12 / 10 September 2026",
+  "recordSha256": "a82f87fe8c34dfe5e956dc6d44db2d8631d22f61aab4ca59391eea8f76be7dfe",
   "files": [
     {
       "path": "assets/index-BYwgKF6_.js",
@@ -14,7 +14,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "52e840c0a20521ebd97df7eb8694d4b0be9c9edf75e52cdc4e59984376024763"
+      "sha256": "a82f87fe8c34dfe5e956dc6d44db2d8631d22f61aab4ca59391eea8f76be7dfe"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -342,7 +342,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "de516df8d87b7975aedd699b084ca6cd2a5806c3124506f264d852d076face9c"
+      "sha256": "db31bafb311cd8a2220e517f966b5bc48a8eaaf0e7922923d057922a939f3c18"
     },
     {
       "path": "production/change-workflows.md",
@@ -354,7 +354,7 @@
     },
     {
       "path": "production/current-state.md",
-      "sha256": "2470abbe1c01d5fca29f56cd3db5ed0ed66d6e76dbcf3301fd2374187c44a446"
+      "sha256": "705cb7de916710af0f2746f8d02744ed0615e875128cb357432c84a2607a8a6f"
     },
     {
       "path": "production/github-migration-2026-09-09.md",
@@ -374,15 +374,27 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "89490d9ab2c3e2983ad0e9d1281b49ef56808e947ec9fa267b7e98e25cb91f43"
+      "sha256": "7eff9ab9f1b8cc08aaa22153c7ef5e260e7a1bbe6292f056265b94669a35ef39"
     },
     {
       "path": "production/operating-protocol.md",
-      "sha256": "58c74c7320f038f0782d8ae40a405fd8adc7691f133a0ed305b884b60ff10bd6"
+      "sha256": "e895c6888b07075191fec11ab1bffe9848212393bad9e09b1a4337781336c46a"
     },
     {
       "path": "production/production-plan.md",
-      "sha256": "38178197aa1f5529555c57bcc381ec2bbb0b51dbf8db851af6bf15812013d0f9"
+      "sha256": "3bd2d03bd096acee109f0a453d3b8f83147f08c745fb92dc55c1bfc1301fcbaa"
+    },
+    {
+      "path": "production/project-automation-setup-2026-09-10.md",
+      "sha256": "692f2370bd271e03ed52b076a5bcc8bc3b8bb0f51b6bccd495c7a2b8ccc9a432"
+    },
+    {
+      "path": "production/project-work-contract.md",
+      "sha256": "f089ce726d67e6892b4b0528aee4a1a079d72c648e06befe8c51ffcf7f6abe77"
+    },
+    {
+      "path": "production/publication-and-production-2026-09-10.md",
+      "sha256": "a6cc172c4f3307ce52b14288995c179f642c53eb3af09afc4e70f1429b262cc0"
     },
     {
       "path": "production/reader-reconciliation-2026-09-10.md",

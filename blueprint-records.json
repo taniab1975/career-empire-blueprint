@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "revision": "V2.11 / 10 September 2026",
+  "revision": "V2.12 / 10 September 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -25,10 +25,10 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.10",
+      "id": "V2.12",
       "date": "2026-09-10",
-      "label": "V2.11 / 10 September 2026",
-      "status": "Scoped workflow repair; visual integration remains incomplete",
+      "label": "V2.12 / 10 September 2026",
+      "status": "Publication authorised; local safeguards retained; staged precinct next",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -188,8 +188,8 @@
     },
     "currentStep": {
       "id": "CE-ENV-01",
-      "title": "Next approved production stage: Avatar Studio precinct candidate",
-      "status": "Direction approved; production unfinished — not started by this audit",
+      "title": "After publication: dimension the Avatar Studio precinct",
+      "status": "Authorised next stage; waits for verified Blueprint publication",
       "owner": "Environment integrator; Tania: appearance and placement acceptance",
       "href": "#world",
       "actionLabel": "Review the Studio target and current prototype",
@@ -198,11 +198,21 @@
         "V2-D08",
         "V2-D17"
       ],
-      "nextAction": "In the separate workbench, continue dimensioned approach → textured modular kit → Studio → garden/path/plaza → player-height and performance review → deliberate release. Arrival → EST Prep → Civic Heart follows. Keep blazer work paused; test EST/teacher integration and resolve cohort/pilot before classroom claims.",
-      "doneWhen": "Player-height Studio/garden/path/plaza candidate matches approved concepts, passes functional/performance review and receives explicit precinct acceptance before release.",
-      "boundary": "This completed Blueprint reconciliation does not build or release the precinct, resume the blazer, authorise paid generation, change the curriculum edition or grant classroom acceptance."
+      "nextAction": "After this Blueprint release is verified live, inspect the existing coordinate sketch and working entrance, then dimension the Studio footprint, step-free approach, paths/plaza and matched camera views in the separate candidate. Review this layout before the textured kit, Studio and assembled precinct stages. Do not update the whole world in one pass.",
+      "doneWhen": "A dimensioned candidate and matched aerial/player-height views expose scale, entrance, path and camera decisions for review before kit production.",
+      "boundary": "Blazer remains paused. Existing campus references control appearance. No paid generation, classroom acceptance, economy changes or live game release is implied. This does not approve a finished precinct or resume wardrobe production."
     },
     "roadmap": [
+      {
+        "id": "CE-GOV-02",
+        "horizon": "Next",
+        "title": "Complete project-wide automatic Blueprint safeguards",
+        "owner": "Blueprint maintainer",
+        "status": "Local safeguards active; authorised publication pending",
+        "dependency": "Independent live verification; remote CI activation is not required by Tania",
+        "doneWhen": "Publish and independently verify the local-folder safeguard record; retain local checks and disclose account-dependent availability.",
+        "href": "/production/project-automation-setup-2026-09-10.md"
+      },
       {
         "id": "CE-GOV-01",
         "horizon": "Done",
@@ -218,8 +228,8 @@
         "horizon": "Now",
         "title": "Complete the Avatar Studio precinct candidate",
         "owner": "Environment integrator; Tania: appearance and placement acceptance",
-        "status": "Direction approved; layout/kit/precinct unfinished",
-        "dependency": "Approved campus references; isolated layout and modular kit; named school device",
+        "status": "Authorised after publication; dimensioned layout first, then kit and precinct stages",
+        "dependency": "Verified Blueprint publication, approved campus references, isolated layout and modular kit; named school device before performance acceptance",
         "doneWhen": "Player-height Studio/garden/path/plaza candidate matches approved concepts, passes functional/performance review and receives explicit precinct acceptance before release.",
         "href": "#delivery"
       },
@@ -486,14 +496,14 @@
       ]
     ],
     "production": {
-      "date": "9 September 2026",
-      "title": "Current state — 9 September 2026",
-      "summary": "The GitHub migration is live, but Tania identified a content-integration failure: the accepted campus direction did not propagate to every image, building reference and Start Here media placement. V2.10 adds a change-to-page workflow and visible coverage checks. The exact current visual reconciliation remains open; no new game or asset work is implied.",
+      "date": "10 September 2026",
+      "title": "Current state — 10 September 2026",
+      "summary": "V2.11 reader reconciliation is verified live. This V2.12 update publishes the local folder safeguards and records Tania's instruction that remote CI activation is not required. Local release checks remain. After independent publication verification, begin the dimensioned Avatar Studio precinct layout, then the textured kit, Studio and assembled precinct in separate stages. This candidate is not yet published; no new game production has started.",
       "facts": [
         {
-          "label": "IMPLEMENTED LOCALLY",
+          "label": "PUBLICATION AUTHORISED",
           "title": "One canonical source; publication is a dated copy",
-          "detail": "V2 source, public V2.6, Atlas and town brief use competing authority labels. Files cannot all own current state. Use this Start Here dashboard; integrate/publish with the owning account and verify downloaded records.",
+          "detail": "V2.11 is the verified baseline. V2.12 publishes the local safeguards; remote CI is outside required scope. After live verification, CE-ENV-01 begins with dimensioned layout. Use the publication manifest for the actual released source.",
           "href": "/production/material-changes.md"
         },
         {
@@ -504,8 +514,8 @@
         },
         {
           "label": "RELEASE GAP",
-          "title": "Teacher matrix still absent from published dashboard",
-          "detail": "Local implementation cannot establish public availability or real review persistence. Isolate the matrix changes, test fictional class permissions/save/reload and inspect-only fallbacks, then deliberately release.",
+          "title": "New EST teacher matrix remains local-only",
+          "detail": "Older comparison matrices are already public; the newer EST preparation matrix is the local-only gap. Isolate its changes, test fictional class permissions/save/reload and inspect-only fallbacks, then deliberately release. Full review persistence and classroom acceptance remain unverified.",
           "href": "/production/material-changes.md"
         },
         {
@@ -1209,6 +1219,55 @@
           "deployment": "Existing GitHub Pages verified at public 3b7e842a4efa09d78fe50b6b283058f0df81c169 / private source 9adf1a3431c711203895f9c1d67651387c149ac5. Final close-out identity is in the current manifest.",
           "testing": "48/48 data/governance/source/phase tests; TypeScript, focused lint, both builds; full local and live desktop/mobile semantic/navigation checks passed. All six current images matched exact original hashes and rendered reader screenshots were inspected.",
           "taniaAcceptance": "User requested correction; neither final presentation nor game/classroom readiness accepted."
+        },
+        {
+          "id": "CE-CHANGE-20260910-20",
+          "date": "2026-09-10",
+          "title": "Install continuous Blueprint safeguards across Career Empire projects",
+          "domain": "Cross-project instructions, automatic intake, publication guards and scheduled stewardship",
+          "source": "Tania's current request: take over setup in Career Empire ChatGPT and Codex projects; automate checks so reconciliation is not repeatedly left to the user. Tania then clarified that her normal workflow uses desktop project folders while switching work, personal or Hotmail sign-in; browser project configuration is optional.",
+          "owner": "Blueprint maintainer",
+          "status": "Local folder safeguards installed and tested; remote publication pending",
+          "rationale": "A canonical repository instruction does not automatically apply to unrelated project folders or cloud chats. Local hooks and scheduled intake reduce silent divergence, but cannot read inaccessible accounts or replace semantic review.",
+          "dependencies": [
+            "CE-CHANGE-20260910-17",
+            "CE-CHANGE-20260910-19"
+          ],
+          "evidence": [
+            "/production/project-work-contract.md",
+            "/production/project-automation-setup-2026-09-10.md"
+          ],
+          "nextAction": "Use the same registered Career Empire desktop folders across sign-ins. Verify folder access and scheduled-task availability after switching accounts; obtain explicit scoped commit/publication authority, activate remote checks where configured, and independently verify the Blueprint release.",
+          "supersededRecord": null,
+          "designApproval": "User authorises workflow setup only; protected product decisions and production pause boundaries unchanged.",
+          "implementation": "Shared extensive contract, exact published-source receipt guard and private idempotent intake scanner installed. Four working repositories have active pre-push hooks; the canonical Blueprint retains its own release gate. Daily stewardship is active.",
+          "deployment": "Local setup only at this checkpoint. Public V2.11 is unchanged. CI definitions are not proof of active remote enforcement.",
+          "testing": "56/56 data/governance/source/guard tests, type check, focused lint and normal build passed. Repeated scans detect no duplicate changes in unchanged projects. The installed guard rejected unreviewed file versions; Pages release correctly rejects unfinished CE-CHANGE-20260910-20.",
+          "taniaAcceptance": "Setup requested; no final acceptance or promise of perfect cross-account memory inferred."
+        },
+        {
+          "id": "CE-CHANGE-20260910-21",
+          "date": "2026-09-10",
+          "title": "Publish current safeguards, then begin staged Avatar Studio layout",
+          "domain": "Publication scope and production continuation",
+          "source": "Tania, 10 September 2026, current Career Empire continuation: \"publication do that. remote checks not necessary. once publication done, move to step 2\". Supersedes obsolete V2.8 advice and remote-CI activation as a release dependency.",
+          "owner": "Blueprint maintainer; environment integrator after live verification",
+          "status": "Ready for publication; live verification pending",
+          "rationale": "V2.8 advice was stale: V2.11 is already verified live. Publish the existing local safeguards with remote CI outside the required scope, then advance the existing approved precinct sequence without a one-pass world rebuild.",
+          "dependencies": [
+            "CE-CHANGE-20260910-20",
+            "CE-CHANGE-20260910-19"
+          ],
+          "evidence": [
+            "/production/publication-and-production-2026-09-10.md"
+          ],
+          "nextAction": "Validate and publish this exact source, independently verify live bytes and desktop/mobile reader pages, then begin dimensioned Avatar Studio layout in the separate candidate.",
+          "supersededRecord": "CE-CHANGE-20260910-20",
+          "designApproval": "Tania authorises Blueprint publication and subsequent stage-one precinct work. Remote CI/branch-protection activation is not required. Local safeguards, release checks, protected decisions and blazer pause remain.",
+          "implementation": "Release preparation; no new precinct work before verified publication.",
+          "deployment": "Pending independent publication verification; prior V2.11 remains the verified baseline.",
+          "testing": "57 tests passed; TypeScript, focused lint and normal build passed. Targeted static reader review at 1280/390px passed. Development-preview smoke timed out in decision navigation; full static smoke is required before upload.",
+          "taniaAcceptance": "Sequence and publication authorised; finished precinct, classroom and pilot acceptance remain separate."
         }
       ],
       "sessionStart": [
@@ -4212,11 +4271,11 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20260910-18",
-        "CE-CHANGE-20260910-19"
+        "CE-CHANGE-20260910-20",
+        "CE-CHANGE-20260910-21"
       ],
-      "scope": "Whole-Blueprint reader reconciliation: exact approved concepts, actual built evidence and cross-section status, without game production.",
-      "disclosure": "Reader reconciliation has independent live evidence. Finished precinct/wardrobe, classroom loop, cohort/pilot/progression and legacy redirect remain explicitly open product/access work.",
+      "scope": "Publish local-folder safeguards and the authorised staged production handoff; remote CI activation is outside required scope.",
+      "disclosure": "Publication verification is pending. Account-dependent availability remains unverified; remote CI activation is not required. Precinct, EST/teacher loop and learning pilot acceptance remain separate.",
       "requiredReviewFiles": [
         "app/globals.css",
         "docs/production/reader-release-receipt-2026-09-10.md",
@@ -4233,20 +4292,21 @@
         "app/current-evidence.tsx",
         "app/learning-map.tsx",
         "tests/reader-currency.test.mjs",
-        "docs/production/reader-reconciliation-2026-09-10.md"
+        "docs/production/reader-reconciliation-2026-09-10.md",
+        "scripts/project-guard.mjs",
+        "tests/project-guard.test.mjs",
+        "docs/production/project-work-contract.md",
+        "docs/production/project-automation-setup-2026-09-10.md",
+        "docs/production/publication-and-production-2026-09-10.md"
       ],
       "reviews": [
         {
-          "path": "app/globals.css",
-          "sha256": "7588568497729e28be17cc7c7e850756d332caf3093e28f3042c813ce399ff50"
-        },
-        {
           "path": "AGENTS.md",
-          "sha256": "aa218b9bbba1ad9012ed5a60560a49d7669e120e4304fc3116c338533b4dc24a"
+          "sha256": "7219b241aed614c24665b5f7fb2ecb449f13a2801689b4817650c2a7c2af3e8f"
         },
         {
           "path": "README.md",
-          "sha256": "0ee6ed10f8d9987bdc9a285697aa2e89b33184623dcfa5a8ff42ddfbfc096340"
+          "sha256": "7d7e9006de4514d0ce4c5cbbdd99820cfde763e6a73f328177c4f47a6adae37d"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -4263,6 +4323,10 @@
         {
           "path": "app/current-evidence.tsx",
           "sha256": "fd091e42d11837af967f735abd4837d874d4c66915ceb828420758b113cc8474"
+        },
+        {
+          "path": "app/globals.css",
+          "sha256": "7588568497729e28be17cc7c7e850756d332caf3093e28f3042c813ce399ff50"
         },
         {
           "path": "app/learning-map.tsx",
@@ -4286,7 +4350,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "3290aed5e4381d9f8d991e5b1502d73ae7e9bb08a6b8c0f09ae544a37472519d"
+          "sha256": "caa5af90ff595b490127f9c1ad67061cac3527deec9686fe3ff3260c6a0c4461"
         },
         {
           "path": "data/style-guide.json",
@@ -4302,15 +4366,27 @@
         },
         {
           "path": "docs/production/current-state.md",
-          "sha256": "2470abbe1c01d5fca29f56cd3db5ed0ed66d6e76dbcf3301fd2374187c44a446"
+          "sha256": "705cb7de916710af0f2746f8d02744ed0615e875128cb357432c84a2607a8a6f"
         },
         {
           "path": "docs/production/operating-protocol.md",
-          "sha256": "58c74c7320f038f0782d8ae40a405fd8adc7691f133a0ed305b884b60ff10bd6"
+          "sha256": "e895c6888b07075191fec11ab1bffe9848212393bad9e09b1a4337781336c46a"
         },
         {
           "path": "docs/production/production-plan.md",
-          "sha256": "38178197aa1f5529555c57bcc381ec2bbb0b51dbf8db851af6bf15812013d0f9"
+          "sha256": "3bd2d03bd096acee109f0a453d3b8f83147f08c745fb92dc55c1bfc1301fcbaa"
+        },
+        {
+          "path": "docs/production/project-automation-setup-2026-09-10.md",
+          "sha256": "692f2370bd271e03ed52b076a5bcc8bc3b8bb0f51b6bccd495c7a2b8ccc9a432"
+        },
+        {
+          "path": "docs/production/project-work-contract.md",
+          "sha256": "f089ce726d67e6892b4b0528aee4a1a079d72c648e06befe8c51ffcf7f6abe77"
+        },
+        {
+          "path": "docs/production/publication-and-production-2026-09-10.md",
+          "sha256": "a6cc172c4f3307ce52b14288995c179f642c53eb3af09afc4e70f1429b262cc0"
         },
         {
           "path": "docs/production/reader-reconciliation-2026-09-10.md",
@@ -4330,15 +4406,19 @@
         },
         {
           "path": "package.json",
-          "sha256": "86a066a73179b602e6d2f09adfcc5cacf5987e1f11652a7001e28940f6c53d5a"
+          "sha256": "77e3da1c9a66ee03c895b562f559d9df1053b81d45c2cf537d79b3e24a08c098"
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "b31017a6174010c818a8985cb7664272d6d37aef6cbde3cab2c98a5b2a0e3d09"
+          "sha256": "4d13951fdf1cf05ca9e9ffb5b4f040db90433c42e1c5cbe3f37b53175aeaa08c"
         },
         {
           "path": "scripts/prepare-pages.mjs",
           "sha256": "71affe3da44b7c1cf7612e3c4d55d92a2d5654ad5a481dffe3fffded4863b836"
+        },
+        {
+          "path": "scripts/project-guard.mjs",
+          "sha256": "3849393b57c96979927da43e3b9176cfde1360e23b664b5446f113aa064e08fd"
         },
         {
           "path": "scripts/validate-impact.mjs",
@@ -4350,7 +4430,11 @@
         },
         {
           "path": "tests/change-impact.test.mjs",
-          "sha256": "359d7dd077e8af88000c93a19dfdfcd512bb7bc945b4380d3810aef57e080b80"
+          "sha256": "afe7cd9a8831ee484215320daefce350db463b34acc54b324dd79c601dbb3618"
+        },
+        {
+          "path": "tests/project-guard.test.mjs",
+          "sha256": "c57e435459b4502cc1e72b38fcba87b56e065bd1055d73afa2dba49ee0d81a6f"
         },
         {
           "path": "tests/reader-currency.test.mjs",
@@ -5431,6 +5515,518 @@
               "date": "2026-09-10"
             },
             "nextAction": "Check the final close-out manifest independently; later evidence/metadata changes do not grant product acceptance."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-20",
+        "title": "Install continuous Blueprint safeguards across Career Empire projects",
+        "types": [
+          "governance"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Every participating project records changes and blocks unsupported completion until the actual Blueprint surfaces are reconciled.",
+        "before": "Only the canonical Blueprint had scoped rules and release checks; other projects and new cloud chats could bypass that workflow.",
+        "after": "Local desktop safeguards installed. Per CE-CHANGE-20260910-21, remote CI activation is outside required scope; publication is authorised and still needs independent verification.",
+        "source": "Tania's current request: take over setup in Career Empire ChatGPT and Codex projects; automate checks so reconciliation is not repeatedly left to the user.",
+        "owner": "Blueprint maintainer",
+        "nextAction": "Publish reviewed source/output and independently verify live content before beginning dimensioned Studio layout.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Start Here shows V2.12 publication scope, preserves campus/current prototype images and makes dimensioned Studio layout conditional on verified release.",
+            "records": [
+              "CE-CHANGE-20260910-20"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "/production/project-automation-setup-2026-09-10.md",
+              "/production/project-work-contract.md",
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Start Here shows V2.12 publication scope, preserves campus/current prototype images and makes dimensioned Studio layout conditional on verified release. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "CE-ENV-01 is the sole Now item with publication dependency; CE-GOV-02 retains publication work without remote CI as a blocker. The existing EST, teacher, pilot and paused wardrobe items remain.",
+            "records": [
+              "CE-CHANGE-20260910-20"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "/production/project-automation-setup-2026-09-10.md",
+              "/production/project-work-contract.md",
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "CE-ENV-01 is the sole Now item with publication dependency; CE-GOV-02 retains publication work without remote CI as a blocker. The existing EST, teacher, pilot and paused wardrobe items remain. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Appended change 21 and incorporated the advice-correction intake. Prior material records, including change 20, remain unchanged as historical evidence.",
+            "records": [
+              "CE-CHANGE-20260910-20"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "/production/project-automation-setup-2026-09-10.md",
+              "/production/project-work-contract.md",
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Appended change 21 and incorporated the advice-correction intake. Prior material records, including change 20, remain unchanged as historical evidence. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "README, canonical AGENTS, current-state, operating protocol and installation guide now identify user-authorised publication and optional remote CI. Shared local contract and guards remain byte-identical.",
+            "records": [
+              "CE-CHANGE-20260910-20"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "/production/project-automation-setup-2026-09-10.md",
+              "/production/project-work-contract.md",
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "README, canonical AGENTS, current-state, operating protocol and installation guide now identify user-authorised publication and optional remote CI. Shared local contract and guards remain byte-identical. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Canonical exports regenerated and parity checked. The new publication/production scope document is included in the public-safe export allowlist.",
+            "records": [
+              "CE-CHANGE-20260910-20"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "/production/project-automation-setup-2026-09-10.md",
+              "/production/project-work-contract.md",
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical exports regenerated and parity checked. The new publication/production scope document is included in the public-safe export allowlist. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish only reviewed generated output, then independently compare live manifest/record/current media and inspect desktop/mobile reader routes.",
+            "records": [
+              "CE-CHANGE-20260910-20"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "/production/project-automation-setup-2026-09-10.md",
+              "/production/project-work-contract.md",
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Independent live verification follows deployment.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Commit scoped source, build through the release gate, publish reviewed output and verify live hashes plus reader pages."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "The protected 17 decisions, four approvals, curriculum, experience mappings and proposed pilot pass exact preservation checks; publication approval changes no product decision.",
+            "records": [
+              "CE-CHANGE-20260910-20"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "/production/project-automation-setup-2026-09-10.md",
+              "/production/project-work-contract.md",
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The protected 17 decisions, four approvals, curriculum, experience mappings and proposed pilot pass exact preservation checks; publication approval changes no product decision. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "The new scope document attributes the current user instruction and links current source/release evidence; no curriculum or research source changes.",
+            "records": [
+              "CE-CHANGE-20260910-20"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "/production/project-automation-setup-2026-09-10.md",
+              "/production/project-work-contract.md",
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The new scope document attributes the current user instruction and links current source/release evidence; no curriculum or research source changes. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "57 data/governance tests, TypeScript, focused lint and normal build passed. Targeted static reader checks passed at 1280/390px; development smoke timeout retained for static retest before release.",
+            "records": [
+              "CE-CHANGE-20260910-20"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "/production/project-automation-setup-2026-09-10.md",
+              "/production/project-work-contract.md",
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "57 data/governance tests, TypeScript, focused lint and normal build passed. Targeted static reader checks passed at 1280/390px; development smoke timeout retained for static retest before release. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Existing recovery branch matches source 010f31a and GitHub confirms PRIVATE. Existing Pages is V2.11 with recorded hash. Remote CI is explicitly outside required scope; account access limits are disclosed.",
+            "records": [
+              "CE-CHANGE-20260910-20"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "/production/project-automation-setup-2026-09-10.md",
+              "/production/project-work-contract.md",
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing recovery branch matches source 010f31a and GitHub confirms PRIVATE. Existing Pages is V2.11 with recorded hash. Remote CI is explicitly outside required scope; account access limits are disclosed. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          }
+        ],
+        "projectChanges": {
+          "design-atlas": {
+            "AGENTS.md": "100644:d3c79ceb3397d5db35d9d1a9759871ca0a16edd5",
+            "CAREER-EMPIRE-WORKFLOW.md": "100644:6576157a3fa0e852aa61199f9e8be7eb91c20d05",
+            ".career-empire/check.mjs": "100644:2cdc50f42eb88eaeedaee20d33697f167b70f407",
+            ".career-empire/guard.mjs": "100644:1b9c8857ceff3e093dfaa5924092b07d9377149f",
+            ".career-empire/project-id": "100644:097ecbab4d64b83403fb80b07550fb2082d3dd87",
+            ".career-empire/hooks/pre-push": "100755:fc027de48ad849c57935f67909d9e7b1375cbe30",
+            ".github/workflows/blueprint-coverage.yml": "100644:ee7f9d6f729150ad85de8988819cbcf00151a1ec"
+          },
+          "megatrends": {
+            "AGENTS.md": "100644:4d8082c3518a7a6f0b04297cd5c1aa0e4a42af37",
+            "CAREER-EMPIRE-WORKFLOW.md": "100644:6576157a3fa0e852aa61199f9e8be7eb91c20d05",
+            ".career-empire/check.mjs": "100644:2cdc50f42eb88eaeedaee20d33697f167b70f407",
+            ".career-empire/guard.mjs": "100644:1b9c8857ceff3e093dfaa5924092b07d9377149f",
+            ".career-empire/project-id": "100644:9011692e671905c71edb46e396267e0541369147",
+            ".career-empire/hooks/pre-push": "100755:fc027de48ad849c57935f67909d9e7b1375cbe30",
+            ".github/workflows/blueprint-coverage.yml": "100644:ee7f9d6f729150ad85de8988819cbcf00151a1ec"
+          },
+          "avatar-creator": {
+            "AGENTS.md": "100644:d3c79ceb3397d5db35d9d1a9759871ca0a16edd5",
+            "CAREER-EMPIRE-WORKFLOW.md": "100644:6576157a3fa0e852aa61199f9e8be7eb91c20d05",
+            ".career-empire/check.mjs": "100644:2cdc50f42eb88eaeedaee20d33697f167b70f407",
+            ".career-empire/guard.mjs": "100644:1b9c8857ceff3e093dfaa5924092b07d9377149f",
+            ".career-empire/project-id": "100644:a24abb0c789015f8bf8cb3d9e821ca07a93027d4",
+            ".career-empire/hooks/pre-push": "100755:fc027de48ad849c57935f67909d9e7b1375cbe30",
+            ".github/workflows/blueprint-coverage.yml": "100644:ee7f9d6f729150ad85de8988819cbcf00151a1ec"
+          },
+          "game-live": {
+            "AGENTS.md": "100644:4d8082c3518a7a6f0b04297cd5c1aa0e4a42af37",
+            "CAREER-EMPIRE-WORKFLOW.md": "100644:6576157a3fa0e852aa61199f9e8be7eb91c20d05",
+            ".career-empire/check.mjs": "100644:2cdc50f42eb88eaeedaee20d33697f167b70f407",
+            ".career-empire/guard.mjs": "100644:1b9c8857ceff3e093dfaa5924092b07d9377149f",
+            ".career-empire/project-id": "100644:7b8b66c81c0181068f4c47ec17e01af8d98ff64d",
+            ".career-empire/hooks/pre-push": "100755:fc027de48ad849c57935f67909d9e7b1375cbe30",
+            ".github/workflows/blueprint-coverage.yml": "100644:ee7f9d6f729150ad85de8988819cbcf00151a1ec"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-21",
+        "title": "Publish current safeguards, then begin staged Avatar Studio layout",
+        "types": [
+          "governance",
+          "release"
+        ],
+        "status": "ready-for-publication",
+        "objective": "V2.8 advice was stale: V2.11 is already verified live. Publish the existing local safeguards with remote CI outside the required scope, then advance the existing approved precinct sequence without a one-pass world rebuild.",
+        "before": "Local safeguards unpublished; remote activation and publication authority listed as blockers.",
+        "after": "Publication authorised, remote activation excluded, staged Avatar Studio layout next after verified release.",
+        "source": "Tania, 10 September 2026, current Career Empire continuation: \"publication do that. remote checks not necessary. once publication done, move to step 2\". Supersedes obsolete V2.8 advice and remote-CI activation as a release dependency.",
+        "owner": "Blueprint maintainer",
+        "nextAction": "Publish reviewed source/output and independently verify live content before beginning dimensioned Studio layout.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Start Here shows V2.12 publication scope, preserves campus/current prototype images and makes dimensioned Studio layout conditional on verified release.",
+            "records": [
+              "CE-CHANGE-20260910-21",
+              "CE-GOV-02",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Start Here shows V2.12 publication scope, preserves campus/current prototype images and makes dimensioned Studio layout conditional on verified release. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "CE-ENV-01 is the sole Now item with publication dependency; CE-GOV-02 retains publication work without remote CI as a blocker. The existing EST, teacher, pilot and paused wardrobe items remain.",
+            "records": [
+              "CE-CHANGE-20260910-21",
+              "CE-GOV-02",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "CE-ENV-01 is the sole Now item with publication dependency; CE-GOV-02 retains publication work without remote CI as a blocker. The existing EST, teacher, pilot and paused wardrobe items remain. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Appended change 21 and incorporated the advice-correction intake. Prior material records, including change 20, remain unchanged as historical evidence.",
+            "records": [
+              "CE-CHANGE-20260910-21",
+              "CE-GOV-02",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Appended change 21 and incorporated the advice-correction intake. Prior material records, including change 20, remain unchanged as historical evidence. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "README, canonical AGENTS, current-state, operating protocol and installation guide now identify user-authorised publication and optional remote CI. Shared local contract and guards remain byte-identical.",
+            "records": [
+              "CE-CHANGE-20260910-21",
+              "CE-GOV-02",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "README, canonical AGENTS, current-state, operating protocol and installation guide now identify user-authorised publication and optional remote CI. Shared local contract and guards remain byte-identical. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Canonical exports regenerated and parity checked. The new publication/production scope document is included in the public-safe export allowlist.",
+            "records": [
+              "CE-CHANGE-20260910-21",
+              "CE-GOV-02",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical exports regenerated and parity checked. The new publication/production scope document is included in the public-safe export allowlist. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish only reviewed generated output, then independently compare live manifest/record/current media and inspect desktop/mobile reader routes.",
+            "records": [
+              "CE-CHANGE-20260910-21",
+              "CE-GOV-02",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Independent live verification follows deployment.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Commit scoped source, build through the release gate, publish reviewed output and verify live hashes plus reader pages."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "57 data/governance tests, TypeScript, focused lint and normal build passed. Targeted static reader checks passed at 1280/390px; development smoke timeout retained for static retest before release.",
+            "records": [
+              "CE-CHANGE-20260910-21",
+              "CE-GOV-02",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "57 data/governance tests, TypeScript, focused lint and normal build passed. Targeted static reader checks passed at 1280/390px; development smoke timeout retained for static retest before release. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Existing recovery branch matches source 010f31a and GitHub confirms PRIVATE. Existing Pages is V2.11 with recorded hash. Remote CI is explicitly outside required scope; account access limits are disclosed.",
+            "records": [
+              "CE-CHANGE-20260910-21",
+              "CE-GOV-02",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing recovery branch matches source 010f31a and GitHub confirms PRIVATE. Existing Pages is V2.11 with recorded hash. Remote CI is explicitly outside required scope; account access limits are disclosed. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "The new scope document attributes the current user instruction and links current source/release evidence; no curriculum or research source changes.",
+            "records": [
+              "CE-CHANGE-20260910-21",
+              "CE-GOV-02",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The new scope document attributes the current user instruction and links current source/release evidence; no curriculum or research source changes. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "Static desktop/mobile world and visuals show the original pavilion versus built prototype and paused avatar evidence. No image, video, poster or asset source changed; six original hashes remain protected.",
+            "records": [
+              "CE-CHANGE-20260910-21",
+              "CE-GOV-02",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Static desktop/mobile world and visuals show the original pavilion versus built prototype and paused avatar evidence. No image, video, poster or asset source changed; six original hashes remain protected. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "The protected 17 decisions, four approvals, curriculum, experience mappings and proposed pilot pass exact preservation checks; publication approval changes no product decision.",
+            "records": [
+              "CE-CHANGE-20260910-21",
+              "CE-GOV-02",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "/production/publication-and-production-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The protected 17 decisions, four approvals, curriculum, experience mappings and proposed pilot pass exact preservation checks; publication approval changes no product decision. Evidence: current source review and static reader captures at 1280/390px.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve this verified scope and recheck after affected edits."
           }
         ]
       }

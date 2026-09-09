@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: Whole-Blueprint reader reconciliation: exact approved concepts, actual built evidence and cross-section status, without game production.
+Release scope: Publish local-folder safeguards and the authorised staged production handoff; remote CI activation is outside required scope.
 
-Reader reconciliation has independent live evidence. Finished precinct/wardrobe, classroom loop, cohort/pilot/progression and legacy redirect remain explicitly open product/access work.
+Publication verification is pending. Account-dependent availability remains unverified; remote CI activation is not required. Precinct, EST/teacher loop and learning pilot acceptance remain separate.
 
 ## CE-CHANGE-20260910-17 — Change-driven Blueprint update workflow
 
@@ -898,6 +898,390 @@ Verification: passed / Independent GitHub Pages read at source 9adf1a3431c711203
 - [Evidence](https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json)
 
 Next: Check the final close-out manifest independently; later evidence/metadata changes do not grant product acceptance.
+
+## CE-CHANGE-20260910-20 — Install continuous Blueprint safeguards across Career Empire projects
+
+Integration: **ready-for-publication**. Types: governance. Owner: Blueprint maintainer.
+
+**Objective:** Every participating project records changes and blocks unsupported completion until the actual Blueprint surfaces are reconciled.
+
+**Before:** Only the canonical Blueprint had scoped rules and release checks; other projects and new cloud chats could bypass that workflow.
+
+**Required result:** Local desktop safeguards installed. Per CE-CHANGE-20260910-21, remote CI activation is outside required scope; publication is authorised and still needs independent verification.
+
+**Source:** Tania's current request: take over setup in Career Empire ChatGPT and Codex projects; automate checks so reconciliation is not repeatedly left to the user.
+
+**Next:** Publish reviewed source/output and independently verify live content before beginning dimensioned Studio layout.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Start Here shows V2.12 publication scope, preserves campus/current prototype images and makes dimensioned Studio layout conditional on verified release.
+
+Records: CE-CHANGE-20260910-20. Owner: Blueprint maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Start Here shows V2.12 publication scope, preserves campus/current prototype images and makes dimensioned Studio layout conditional on verified release. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/project-automation-setup-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/production/project-work-contract.md)
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+CE-ENV-01 is the sole Now item with publication dependency; CE-GOV-02 retains publication work without remote CI as a blocker. The existing EST, teacher, pilot and paused wardrobe items remain.
+
+Records: CE-CHANGE-20260910-20. Owner: Blueprint maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / CE-ENV-01 is the sole Now item with publication dependency; CE-GOV-02 retains publication work without remote CI as a blocker. The existing EST, teacher, pilot and paused wardrobe items remain. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/project-automation-setup-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/production/project-work-contract.md)
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Appended change 21 and incorporated the advice-correction intake. Prior material records, including change 20, remain unchanged as historical evidence.
+
+Records: CE-CHANGE-20260910-20. Owner: Blueprint maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Appended change 21 and incorporated the advice-correction intake. Prior material records, including change 20, remain unchanged as historical evidence. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/project-automation-setup-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/production/project-work-contract.md)
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+README, canonical AGENTS, current-state, operating protocol and installation guide now identify user-authorised publication and optional remote CI. Shared local contract and guards remain byte-identical.
+
+Records: CE-CHANGE-20260910-20. Owner: Blueprint maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / README, canonical AGENTS, current-state, operating protocol and installation guide now identify user-authorised publication and optional remote CI. Shared local contract and guards remain byte-identical. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/project-automation-setup-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/production/project-work-contract.md)
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Canonical exports regenerated and parity checked. The new publication/production scope document is included in the public-safe export allowlist.
+
+Records: CE-CHANGE-20260910-20. Owner: Blueprint maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Canonical exports regenerated and parity checked. The new publication/production scope document is included in the public-safe export allowlist. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/project-automation-setup-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/production/project-work-contract.md)
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish only reviewed generated output, then independently compare live manifest/record/current media and inspect desktop/mobile reader routes.
+
+Records: CE-CHANGE-20260910-20. Owner: Blueprint maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Independent live verification follows deployment.
+
+- [Evidence](/career-empire-blueprint/production/project-automation-setup-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/production/project-work-contract.md)
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Commit scoped source, build through the release gate, publish reviewed output and verify live hashes plus reader pages.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+The protected 17 decisions, four approvals, curriculum, experience mappings and proposed pilot pass exact preservation checks; publication approval changes no product decision.
+
+Records: CE-CHANGE-20260910-20. Owner: Blueprint maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / The protected 17 decisions, four approvals, curriculum, experience mappings and proposed pilot pass exact preservation checks; publication approval changes no product decision. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/project-automation-setup-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/production/project-work-contract.md)
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+The new scope document attributes the current user instruction and links current source/release evidence; no curriculum or research source changes.
+
+Records: CE-CHANGE-20260910-20. Owner: Blueprint maintainer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / The new scope document attributes the current user instruction and links current source/release evidence; no curriculum or research source changes. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/project-automation-setup-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/production/project-work-contract.md)
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+57 data/governance tests, TypeScript, focused lint and normal build passed. Targeted static reader checks passed at 1280/390px; development smoke timeout retained for static retest before release.
+
+Records: CE-CHANGE-20260910-20. Owner: Blueprint maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / 57 data/governance tests, TypeScript, focused lint and normal build passed. Targeted static reader checks passed at 1280/390px; development smoke timeout retained for static retest before release. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/project-automation-setup-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/production/project-work-contract.md)
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Existing recovery branch matches source 010f31a and GitHub confirms PRIVATE. Existing Pages is V2.11 with recorded hash. Remote CI is explicitly outside required scope; account access limits are disclosed.
+
+Records: CE-CHANGE-20260910-20. Owner: Blueprint maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Existing recovery branch matches source 010f31a and GitHub confirms PRIVATE. Existing Pages is V2.11 with recorded hash. Remote CI is explicitly outside required scope; account access limits are disclosed. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/project-automation-setup-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/production/project-work-contract.md)
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+## CE-CHANGE-20260910-21 — Publish current safeguards, then begin staged Avatar Studio layout
+
+Integration: **ready-for-publication**. Types: governance, release. Owner: Blueprint maintainer.
+
+**Objective:** V2.8 advice was stale: V2.11 is already verified live. Publish the existing local safeguards with remote CI outside the required scope, then advance the existing approved precinct sequence without a one-pass world rebuild.
+
+**Before:** Local safeguards unpublished; remote activation and publication authority listed as blockers.
+
+**Required result:** Publication authorised, remote activation excluded, staged Avatar Studio layout next after verified release.
+
+**Source:** Tania, 10 September 2026, current Career Empire continuation: "publication do that. remote checks not necessary. once publication done, move to step 2". Supersedes obsolete V2.8 advice and remote-CI activation as a release dependency.
+
+**Next:** Publish reviewed source/output and independently verify live content before beginning dimensioned Studio layout.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Start Here shows V2.12 publication scope, preserves campus/current prototype images and makes dimensioned Studio layout conditional on verified release.
+
+Records: CE-CHANGE-20260910-21, CE-GOV-02, CE-ENV-01. Owner: Blueprint maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Start Here shows V2.12 publication scope, preserves campus/current prototype images and makes dimensioned Studio layout conditional on verified release. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+CE-ENV-01 is the sole Now item with publication dependency; CE-GOV-02 retains publication work without remote CI as a blocker. The existing EST, teacher, pilot and paused wardrobe items remain.
+
+Records: CE-CHANGE-20260910-21, CE-GOV-02, CE-ENV-01. Owner: Blueprint maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / CE-ENV-01 is the sole Now item with publication dependency; CE-GOV-02 retains publication work without remote CI as a blocker. The existing EST, teacher, pilot and paused wardrobe items remain. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Appended change 21 and incorporated the advice-correction intake. Prior material records, including change 20, remain unchanged as historical evidence.
+
+Records: CE-CHANGE-20260910-21, CE-GOV-02, CE-ENV-01. Owner: Blueprint maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Appended change 21 and incorporated the advice-correction intake. Prior material records, including change 20, remain unchanged as historical evidence. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+README, canonical AGENTS, current-state, operating protocol and installation guide now identify user-authorised publication and optional remote CI. Shared local contract and guards remain byte-identical.
+
+Records: CE-CHANGE-20260910-21, CE-GOV-02, CE-ENV-01. Owner: Blueprint maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / README, canonical AGENTS, current-state, operating protocol and installation guide now identify user-authorised publication and optional remote CI. Shared local contract and guards remain byte-identical. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Canonical exports regenerated and parity checked. The new publication/production scope document is included in the public-safe export allowlist.
+
+Records: CE-CHANGE-20260910-21, CE-GOV-02, CE-ENV-01. Owner: Blueprint maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Canonical exports regenerated and parity checked. The new publication/production scope document is included in the public-safe export allowlist. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish only reviewed generated output, then independently compare live manifest/record/current media and inspect desktop/mobile reader routes.
+
+Records: CE-CHANGE-20260910-21, CE-GOV-02, CE-ENV-01. Owner: Blueprint maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Independent live verification follows deployment.
+
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Commit scoped source, build through the release gate, publish reviewed output and verify live hashes plus reader pages.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+57 data/governance tests, TypeScript, focused lint and normal build passed. Targeted static reader checks passed at 1280/390px; development smoke timeout retained for static retest before release.
+
+Records: CE-CHANGE-20260910-21, CE-GOV-02, CE-ENV-01. Owner: Blueprint maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / 57 data/governance tests, TypeScript, focused lint and normal build passed. Targeted static reader checks passed at 1280/390px; development smoke timeout retained for static retest before release. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Existing recovery branch matches source 010f31a and GitHub confirms PRIVATE. Existing Pages is V2.11 with recorded hash. Remote CI is explicitly outside required scope; account access limits are disclosed.
+
+Records: CE-CHANGE-20260910-21, CE-GOV-02, CE-ENV-01. Owner: Blueprint maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Existing recovery branch matches source 010f31a and GitHub confirms PRIVATE. Existing Pages is V2.11 with recorded hash. Remote CI is explicitly outside required scope; account access limits are disclosed. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+The new scope document attributes the current user instruction and links current source/release evidence; no curriculum or research source changes.
+
+Records: CE-CHANGE-20260910-21, CE-GOV-02, CE-ENV-01. Owner: Blueprint maintainer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / The new scope document attributes the current user instruction and links current source/release evidence; no curriculum or research source changes. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Static desktop/mobile world and visuals show the original pavilion versus built prototype and paused avatar evidence. No image, video, poster or asset source changed; six original hashes remain protected.
+
+Records: CE-CHANGE-20260910-21, CE-GOV-02, CE-ENV-01. Owner: Blueprint maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / Static desktop/mobile world and visuals show the original pavilion versus built prototype and paused avatar evidence. No image, video, poster or asset source changed; six original hashes remain protected. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+The protected 17 decisions, four approvals, curriculum, experience mappings and proposed pilot pass exact preservation checks; publication approval changes no product decision.
+
+Records: CE-CHANGE-20260910-21, CE-GOV-02, CE-ENV-01. Owner: Blueprint maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / The protected 17 decisions, four approvals, curriculum, experience mappings and proposed pilot pass exact preservation checks; publication approval changes no product decision. Evidence: current source review and static reader captures at 1280/390px.
+
+- [Evidence](/career-empire-blueprint/production/publication-and-production-2026-09-10.md)
+
+Next: Preserve this verified scope and recheck after affected edits.
 
 ## Historical boundary
 
