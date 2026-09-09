@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "76e3bfd6caf7c6dead73bf0243c83a9081e491fc",
-  "generatedAt": "2026-09-09T21:59:07.742Z",
+  "sourceCommit": "66700a5e493f86dc6e29452c15452ce0a62f1f43",
+  "generatedAt": "2026-09-09T22:05:16.409Z",
   "revision": "V2.15 / 10 September 2026",
-  "recordSha256": "5bd81252eb6500c622eb0dc2cb53c81c9767c59d60b1444ea15fd895b2d1cb44",
+  "recordSha256": "6bcdc76b77fdc7d3002ea11d913ac45797f6dcdbb7a115baa36df803013d25ed",
   "files": [
     {
       "path": "assets/index-CiQNYCTx.js",
@@ -14,7 +14,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "5bd81252eb6500c622eb0dc2cb53c81c9767c59d60b1444ea15fd895b2d1cb44"
+      "sha256": "6bcdc76b77fdc7d3002ea11d913ac45797f6dcdbb7a115baa36df803013d25ed"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -806,11 +806,11 @@
     },
     {
       "path": "production/batch-01-ten-items-2026-09-10.md",
-      "sha256": "1facfb0a04458ea3fc489ed09d6ccfc7792428d6978dde94061e59e8e41519e1"
+      "sha256": "aba160b78e3205de27f6a7a1715087f7db7c844840ccbfef3195fdcfc44317df"
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "8fb899340d92e7ff85cbb42a98c057b23007627a42c5c042012a570dea344625"
+      "sha256": "2291971aa1212f93127e0656d6691395dbd16fb93715805f3702b6e089a361cc"
     },
     {
       "path": "production/change-workflows.md",
@@ -818,7 +818,7 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "89a06205154583740f33213386d2ed256bad342fd6e57aff8deb87a1d5e5cba6"
+      "sha256": "768f645683412ed52313bd428604da50c2167af03ca96a110d4f65b37da315e8"
     },
     {
       "path": "production/current-state.md",
@@ -842,11 +842,11 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "d564b8e4fffb728281c01e264baabc4b20a4a3202539dac3fd4d9f0aa9e0ba1b"
+      "sha256": "10260009f29c87f69a99387cf349682cd52a2c5920e5bfbe6020f8b41e15fb3e"
     },
     {
       "path": "production/operating-protocol.md",
-      "sha256": "5e30d875845c6cb1760e8b6e345ff80f37367e4eed2e5396bda53ccb28fd6397"
+      "sha256": "8ff703de8eeac94d8c123968ffedf6c9568ad93d525ed50895e5b3ad3483fab3"
     },
     {
       "path": "production/production-plan.md",

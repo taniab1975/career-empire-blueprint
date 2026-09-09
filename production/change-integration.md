@@ -2143,7 +2143,7 @@ Next: Maintain whole-item decisions with optional part detail; no approval or pr
 
 ## CE-CHANGE-20260910-25 — Produce Batch 1: ten complete Career World review items
 
-Integration: **ready-for-publication**. Types: governance, visual, building, implementation, release. Owner: Blueprint maintainer; Tania reviews the batch.
+Integration: **complete**. Types: governance, visual, building, implementation, release. Owner: Blueprint maintainer; Tania reviews the batch.
 
 **Objective:** Create ten assembled review items, preserving whole-item boundaries and staged quality checks.
 
@@ -2235,7 +2235,7 @@ Verification: passed / Canonical/public register and record/Markdown views regen
 
 Next: Review all ten complete items together; record named exceptions without inferring approval.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -2245,11 +2245,11 @@ Records: CE-CHANGE-20260910-25, CE-ASSET-BATCH-001. Owner: Blueprint maintainer;
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Pending stage-specific evidence
+Verification: passed / Verified source 76e3bfd6caf7c6dead73bf0243c83a9081e491fc / public 016a3e9f017dfd8b617e4cc7ec5823409caaaa63: all 249 files exact; ten-item board and linked reader routes passed desktop/mobile checks. First checks encountered the prior V2.14 during propagation; repeat passed after parity.
 
 - [Evidence](/career-empire-blueprint/production/batch-01-ten-items-2026-09-10.md)
 
-Next: Publish exact reviewed generated output, compare every live hash and inspect batch plus affected reader pages; only then mark complete.
+Next: Maintain GitHub Pages as the only current public Blueprint; final metadata manifest and receipt remain separate.
 
 ### Decisions and superseded rules — updated
 

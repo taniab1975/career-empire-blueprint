@@ -32,4 +32,7 @@ Each item has a self-contained GLB, complete parts manifest and exact file hashe
 
 ## Verification
 
-All ten model/parts snapshots and twenty render hashes pass. 61 Blueprint tests, TypeScript, focused lint and the normal build pass. The grouped page passed desktop/mobile checks: ten whole items, two views each, optional component details, reload and complete-model inspection. All twenty images were inspected, including the eight replacement views after identity/planting corrections. Publication remains pending independent live checks.
+All ten model/parts snapshots and twenty render hashes pass. 61 Blueprint tests, TypeScript, focused lint and the normal build pass. The grouped page passed desktop/mobile checks: ten whole items, two views each, optional component details, reload and complete-model inspection. All twenty images were inspected, including the eight replacement views after identity/planting corrections. V2.15 publication is independently verified: all 249 public files match; the ten-item review and linked reader pages pass live desktop/mobile checks. Appearance acceptance is still pending.
+
+
+The current public Blueprint is https://taniab1975.github.io/career-empire-blueprint/, including its Visuals topic. The editable authority is the existing local canonical checkout. Old GPT/Sites Blueprint and Design Atlas links are historical/source references, not publication destinations. The live manifest identifies the exact current source; final close-out evidence is stored separately to avoid recursive hashes.

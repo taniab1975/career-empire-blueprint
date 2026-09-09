@@ -28,7 +28,7 @@
       "id": "V2.15",
       "date": "2026-09-10",
       "label": "V2.15 / 10 September 2026",
-      "status": "Ten complete appearance candidates prepared; publication checks underway",
+      "status": "Batch 1 published and independently verified; ten complete items await grouped appearance review",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -498,7 +498,7 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "V2.14 publication is verified. Batch 1 contains ten complete appearance candidates produced through separate layout, assembly, surroundings and review stages. Avatar Studio is one whole item, including its parts. All ten await one grouped review with named exceptions; no appearance, runtime or classroom acceptance is inferred. Blazer remains paused.",
+      "summary": "V2.15 Batch 1 publication is verified. Batch 1 contains ten complete appearance candidates produced through separate layout, assembly, surroundings and review stages. Avatar Studio is one whole item, including its parts. All ten await one grouped review with named exceptions; no appearance, runtime or classroom acceptance is inferred. Blazer remains paused.",
       "facts": [
         {
           "label": "WHOLE-ITEM REVIEW / PARTS INCLUDED",
@@ -686,15 +686,15 @@
       "publication": {
         "sourceRevision": "V2.15 / Batch 1 ten complete places",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.14 / GitHub Pages",
+        "observedLiveRevision": "V2.15 / GitHub Pages",
         "checkedAt": "2026-09-10",
-        "observedLiveSha256": "27fb162aeb920a016dbfeb3eed6c2ac5a6cfe4006fca8b15d45c8837e58deccf",
+        "observedLiveSha256": "5bd81252eb6500c622eb0dc2cb53c81c9767c59d60b1444ea15fd895b2d1cb44",
         "accessCheck": "GitHub delivery repository PUBLIC and Pages built successfully; source mirror PRIVATE. Existing Sites project still returns HTTP 404 NOT_FOUND / project_not_found.",
-        "validationReceipt": "/production/asset-batch-review-2026-09-10.md",
-        "status": "V2.15 publication checks underway; V2.14 last independently verified",
+        "validationReceipt": "/production/batch-01-ten-items-2026-09-10.md",
+        "status": "V2.15 ten-item batch independently verified live",
         "savedVersionId": null,
-        "deploymentId": "GitHub Pages / 408a1198408a827dbb9dfeb08c75f01728830235 / verified 10 September 2026",
-        "parity": "All 194 published files matched. Grouped review and affected reader pages passed desktop/mobile checks; complete local reader suite passed.",
+        "deploymentId": "GitHub Pages / 016a3e9f017dfd8b617e4cc7ec5823409caaaa63 / verified 10 September 2026",
+        "parity": "All 249 published files matched. Ten complete items and twenty views passed live desktop/mobile review, including optional parts and model inspection. Full local reader suite passed.",
         "resume": "Use the private canonical source and existing recovery branch; publish only validated generated output to the existing Pages repository. Read the current manifest/receipt, preserve newer history, and log material work. Legacy redirect waits for the owning Sites account.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
@@ -704,8 +704,8 @@
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
         },
-        "observedPublicCommit": "408a1198408a827dbb9dfeb08c75f01728830235",
-        "hashScope": "First verified V2.14 content publication from 9bab0ad06c478bcbc57258bf2ac6ef505db051bc; final metadata close-out has its own manifest.",
+        "observedPublicCommit": "016a3e9f017dfd8b617e4cc7ec5823409caaaa63",
+        "hashScope": "First verified V2.15 content release from 76e3bfd6caf7c6dead73bf0243c83a9081e491fc; final metadata close-out has its own manifest.",
         "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
@@ -1354,9 +1354,9 @@
           "date": "2026-09-10",
           "title": "Produce Batch 1: ten complete Career World review items",
           "domain": "Whole-item asset production",
-          "source": "Tania corrected single-building approval: batches of 10, building was one item; then authorised ys go to identifying and producing the first 10 complete items through established stages for batch approval. Parts are included; no appearance acceptance inferred. Tania explicitly selected Use these 10 complete places; CE-DISCUSSION-1b87e6c1-d0b0-4e7b-ba6b-a8bc3e568ae7.",
+          "source": "Tania corrected single-building approval: batches of 10, building was one item; then authorised ys go to identifying and producing the first 10 complete items through established stages for batch approval. Parts are included; no appearance acceptance inferred. Tania explicitly selected Use these 10 complete places; CE-DISCUSSION-1b87e6c1-d0b0-4e7b-ba6b-a8bc3e568ae7. Tania confirmed the GitHub Pages Blueprint URL during publication close-out; GPT/Sites and old Design Atlas links are historical references (CE-DISCUSSION-6678595e-a326-4aa9-80a2-374c529a0d37).",
           "owner": "Blueprint maintainer; Tania reviews complete batch",
-          "status": "Ten complete candidates prepared; awaiting batch review",
+          "status": "Ten complete candidates published; awaiting grouped appearance review",
           "rationale": "Review ten complete items together. Do not count walls, flowers or a building component as separate review items.",
           "dependencies": [
             "CE-CHANGE-20260910-24",
@@ -1369,8 +1369,8 @@
           "supersededRecord": null,
           "designApproval": "Batch production authorised; appearance acceptance remains pending.",
           "implementation": "Ten separate whole-place GLBs and parts registers; two actual export renders per item. Angular foliage revised after the first Studio quality check. Original kit exports preserved.",
-          "deployment": "Review publication pending; game runtime unchanged.",
-          "testing": "Geometry/hash and desktop/mobile review checks underway.",
+          "deployment": "Published to the existing GitHub Pages Blueprint. No live game runtime changed.",
+          "testing": "61 tests, TypeScript, focused lint, normal and guarded builds, full local reader suite and targeted live desktop/mobile checks passed. Exact 249-file live parity verified.",
           "taniaAcceptance": "Pending complete batch review."
         }
       ],
@@ -4490,11 +4490,11 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "f8cc5f193e809503055da52bee6b85dd143b6b6b2c65c11a8d4021d294d04190"
+          "sha256": "9fb548f30625237b48ca9b738ea8c7478ebd0b93d205dbe5fca49fcde9acfc32"
         },
         {
           "path": "README.md",
-          "sha256": "38bf5b7da4f8ec7e8165109e701c2039578eff37d464c3f33c502185b6c76681"
+          "sha256": "d19b89ec5e27590fea4a44b2ea1c127ddeda557e5e3fa6af60bd2a0343d927dc"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -4542,7 +4542,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "2565454ce12a42114a9ae779237dfe7b12b5cc941df6871ad25c836267f2e336"
+          "sha256": "bd99eef5cbe1a5766c771275001bf985ad6419652e56437fde10ce33a6f2f08a"
         },
         {
           "path": "data/style-guide.json",
@@ -4566,7 +4566,7 @@
         },
         {
           "path": "docs/production/batch-01-ten-items-2026-09-10.md",
-          "sha256": "af7dce894b07044eaa8624bebe0899aebac4df6a17c48cdcf978c4ec61ae1721"
+          "sha256": "4df3d31bdd0ba2c69ddc0f29cf94d866b577c387417deb7e1e441536138db953"
         },
         {
           "path": "docs/production/change-workflows.md",
@@ -4578,7 +4578,7 @@
         },
         {
           "path": "docs/production/operating-protocol.md",
-          "sha256": "5e30d875845c6cb1760e8b6e345ff80f37367e4eed2e5396bda53ccb28fd6397"
+          "sha256": "8ff703de8eeac94d8c123968ffedf6c9568ad93d525ed50895e5b3ad3483fab3"
         },
         {
           "path": "docs/production/production-plan.md",
@@ -7683,7 +7683,7 @@
           "implementation",
           "release"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Create ten assembled review items, preserving whole-item boundaries and staged quality checks.",
         "before": "One incomplete Studio entry and 14 kit modules; no complete review batch.",
         "after": "Ten complete appearance candidates shown together, with components included and no approvals inferred.",
@@ -7793,7 +7793,7 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
+            "disposition": "updated",
             "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "records": [
               "CE-CHANGE-20260910-25",
@@ -7805,11 +7805,11 @@
               "/production/batch-01-ten-items-2026-09-10.md"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Pending stage-specific evidence",
-              "date": "2026-09-10"
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Verified source 76e3bfd6caf7c6dead73bf0243c83a9081e491fc / public 016a3e9f017dfd8b617e4cc7ec5823409caaaa63: all 249 files exact; ten-item board and linked reader routes passed desktop/mobile checks. First checks encountered the prior V2.14 during propagation; repeat passed after parity."
             },
-            "nextAction": "Publish exact reviewed generated output, compare every live hash and inspect batch plus affected reader pages; only then mark complete."
+            "nextAction": "Maintain GitHub Pages as the only current public Blueprint; final metadata manifest and receipt remain separate."
           },
           {
             "surface": "decisions",
@@ -8054,8 +8054,8 @@
         ],
         "projectChanges": {
           "megatrends": {
-            "AGENTS.md": "100644:d83c2aa49e8c81bc1449c80ff5147411bf4faa5d",
-            "docs/current-workspace-status.md": "100644:869d7ffaf557fed32fedc34024a4b0d3ba359d1d"
+            "AGENTS.md": "100644:0d92dbbb7ddbec876a66f5432a0243f29783365e",
+            "docs/current-workspace-status.md": "100644:aecb1c4ace6cc03aa8b627104d13bd279c3da5fe"
           }
         }
       }

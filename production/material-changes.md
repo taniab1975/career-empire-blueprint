@@ -438,9 +438,9 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 
 - **date:** 2026-09-10
 - **domain:** Whole-item asset production
-- **source:** Tania corrected single-building approval: batches of 10, building was one item; then authorised ys go to identifying and producing the first 10 complete items through established stages for batch approval. Parts are included; no appearance acceptance inferred. Tania explicitly selected Use these 10 complete places; CE-DISCUSSION-1b87e6c1-d0b0-4e7b-ba6b-a8bc3e568ae7.
+- **source:** Tania corrected single-building approval: batches of 10, building was one item; then authorised ys go to identifying and producing the first 10 complete items through established stages for batch approval. Parts are included; no appearance acceptance inferred. Tania explicitly selected Use these 10 complete places; CE-DISCUSSION-1b87e6c1-d0b0-4e7b-ba6b-a8bc3e568ae7. Tania confirmed the GitHub Pages Blueprint URL during publication close-out; GPT/Sites and old Design Atlas links are historical references (CE-DISCUSSION-6678595e-a326-4aa9-80a2-374c529a0d37).
 - **owner:** Blueprint maintainer; Tania reviews complete batch
-- **status:** Ten complete candidates prepared; awaiting batch review
+- **status:** Ten complete candidates published; awaiting grouped appearance review
 - **rationale:** Review ten complete items together. Do not count walls, flowers or a building component as separate review items.
 - **dependencies:** CE-CHANGE-20260910-24 / CE-CHANGE-20260910-23
 - **evidence:** /production/batch-01-ten-items-2026-09-10.md
@@ -448,8 +448,8 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **supersededRecord:** None
 - **designApproval:** Batch production authorised; appearance acceptance remains pending.
 - **implementation:** Ten separate whole-place GLBs and parts registers; two actual export renders per item. Angular foliage revised after the first Studio quality check. Original kit exports preserved.
-- **deployment:** Review publication pending; game runtime unchanged.
-- **testing:** Geometry/hash and desktop/mobile review checks underway.
+- **deployment:** Published to the existing GitHub Pages Blueprint. No live game runtime changed.
+- **testing:** 61 tests, TypeScript, focused lint, normal and guarded builds, full local reader suite and targeted live desktop/mobile checks passed. Exact 249-file live parity verified.
 - **taniaAcceptance:** Pending complete batch review.
 
 ## Retained Atlas principles
