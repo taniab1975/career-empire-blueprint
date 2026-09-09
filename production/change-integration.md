@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.13 textured modular kit candidate, measured exports and current reader integration. No game runtime release.
+Release scope: V2.14 whole-item asset register and grouped review workflow; no model or Studio production.
 
-Kit appearance acceptance remains pending; full Studio, assembled precinct, collision and school-device review follow separately. Blazer remains paused; remote CI activation outside required scope.
+One incomplete Avatar Studio item contains 14 supporting parts; no separate wall or flower approvals are required. No kit acceptance, Studio assembly or game release is authorised by this workflow.
 
 ## CE-CHANGE-20260910-17 — Change-driven Blueprint update workflow
 
@@ -1854,6 +1854,292 @@ Verification: passed / Editable packed Blender source and deterministic scripts 
 - [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
 
 Next: Maintain this verified scope; kit appearance acceptance remains pending.
+
+## CE-CHANGE-20260910-24 — Review complete asset items with their component parts included
+
+Integration: **ready-for-publication**. Types: governance, visual, building. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+**Objective:** Approve an assembled building/asset/scene as one item. Track components underneath, covered by overall approval unless explicitly excepted. Replace the unpublished ten-loose-parts proposal. Material visual changes return for review; routine equivalent technical changes need verification rather than repeated aesthetic approval.
+
+**Before:** Kit-level evidence existed; the initial unpublished proposal split loose components into10+4 and incorrectly suggested separate approval tasks.
+
+**Required result:** Whole-item register: one Avatar Studio building package with14 nested parts. No separate component approvals; item incomplete until fully assembled. Explicit item decisions cover unflagged parts.
+
+**Source:** Tania: can we approve assets in groups/batches, maybe10 at a time; then clarified "batches should be items eg building and its component parts" and "i dont want to approve every wall or flower". Her earlier no cancelled the assistant inference of kit approval and Studio construction. Discussions CE-DISCUSSION-fc0f166e-7c88-4b08-864f-9f363fb801e5, CE-DISCUSSION-c90ac140-6725-4f06-9640-e00b80f612b9 and CE-DISCUSSION-9a49e452-c4f0-4d30-a147-145dce00f89c.
+
+**Next:** Review complete buildings/assets/scenes as whole items, up to10 items per batch. Overall approval covers their component parts unless Tania flags exceptions. The current Avatar Studio package contains14 existing parts but no complete Studio assembly; it is not ready for whole-building approval. No new construction is started by this workflow.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Start Here current action opens the whole-item register; desktop/mobile checks show one incomplete Studio and no per-part approval tasks.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / CE-ENV-01 now states whole-item review and zero accepted items; later Studio/precinct stages remain separate.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Record 24 retains the exact grouping correction and earlier no; baseline comparison preserves all previous 23 material records.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Canonical and Megatrends instructions, handover, current state and operating protocol specify whole-item decisions covering unflagged parts.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Generated canonical/public register snapshots, records and Markdown views match source; exporter check and 60 tests passed.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Registry and reader review pending.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Publish reviewed generated output; compare every live file and inspect grouped review plus affected desktop/mobile reader pages before marking complete.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / World and visual pages link the grouped register; desktop/mobile inspection confirms kit evidence remains separate from a completed Studio.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / Fourteen previews rendered from unchanged GLBs; all decode at 800x600. The parent image is explicitly the kit overview, not the assembled building. Original six reference hashes remain exact.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Stable item/component IDs, version and SHA snapshots bind every optional preview/model. Tests confirm a batch counts whole items and does not demand component approval.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / Avatar Studio is explicitly incomplete with assembly null; its 14 components are supporting evidence. No full building construction or acceptance is claimed.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### Avatar and wardrobe references — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / No avatar rig, clothing or identity files changed; exact blueprint/reference baseline retained, including paused blazer boundary.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / World reader displays whole-item workflow; game geometry, access rules, progression and economy remain unchanged in the exact protected blueprint source.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### Decisions and superseded rules — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / No asset approval inferred from the cancelled yes; all 17 V2 decisions and four production approvals are baseline-exact. Register histories remain empty.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / 60 tests, TypeScript, focused lint and build passed. Desktop/mobile grouped review, optional 14 image renders, reload and GLB inspection passed; this is review UI only.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### Activities and learning flow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Protected experience mappings and curriculum remain byte-identical. No student action, evidence, feedback, teacher or learning-flow behavior changed.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Existing 14 GLBs and six selected reference bytes verified against their recorded hashes. New previews derive from the original exported models; no substitute concept generated.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20260910-24, CE-ITEM-STUDIO-001, CE-ENV-KIT-01, CE-ASSET-BATCH-001. Owner: Blueprint maintainer; Tania approves whole items with their parts included.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Same canonical checkout and generated-only public destination retained; handoff locates the new register and explicitly incomplete Studio. Commit and live identities remain a publication check.
+
+- [Evidence](/career-empire-blueprint/production/asset-batch-review-2026-09-10.md)
+
+Next: Maintain whole-item decisions with optional part detail; no approval or production inferred.
 
 ## Historical boundary
 

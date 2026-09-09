@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "revision": "V2.13 / 10 September 2026",
+  "revision": "V2.14 / 10 September 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -25,10 +25,10 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.13",
+      "id": "V2.14",
       "date": "2026-09-10",
-      "label": "V2.13 / 10 September 2026",
-      "status": "V2.13 textured kit candidate published and verified; appearance review next",
+      "label": "V2.14 / 10 September 2026",
+      "status": "Whole-item asset review register prepared; publication checks underway",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -188,18 +188,18 @@
     },
     "currentStep": {
       "id": "CE-ENV-01",
-      "title": "Stage 2: review the textured campus kit",
-      "status": "Built and published candidate — appearance review next",
+      "title": "Review complete items, with their parts included",
+      "status": "Avatar Studio package incomplete; no overall approval recorded",
       "owner": "Environment integrator; Tania: appearance and placement acceptance",
-      "href": "#world",
-      "actionLabel": "Inspect the textured kit and production evidence",
+      "href": "/evidence/asset-review-20260910/index.html",
+      "actionLabel": "Open the whole-item asset register",
       "decisionIds": [
         "V2-D07",
         "V2-D08",
         "V2-D17"
       ],
-      "nextAction": "Review the limestone, navy frame, timber, glazing and paving modules in the isolated workbench. Resolve kit appearance before assembling the full Avatar Studio as Stage 3; precinct landscaping and school-device review remain later. Blazer stays paused.",
-      "doneWhen": "Reusable textured modules have measured exports, reimport checks, readable desktop/mobile evidence and explicit appearance acceptance before full Studio assembly.",
+      "nextAction": "Review complete buildings/assets/scenes as whole items, up to10 items per batch. Overall approval covers their component parts unless Tania flags exceptions. The current Avatar Studio package contains14 existing parts but no complete Studio assembly; it is not ready for whole-building approval. No new construction is started by this workflow.",
+      "doneWhen": "A complete item is shown and Tania approves its overall appearance or gives exceptions. No separate approval is required for each wall, flower or component. Later material appearance changes return for review; routine technical changes retain documented design lineage.",
       "boundary": "Blazer remains paused. Existing campus references control appearance. No paid generation, classroom acceptance, economy changes or live game release is implied. This does not approve a finished precinct or resume wardrobe production."
     },
     "roadmap": [
@@ -228,8 +228,8 @@
         "horizon": "Now",
         "title": "Complete the Avatar Studio precinct candidate",
         "owner": "Environment integrator; Tania: appearance and placement acceptance",
-        "status": "Stage 2 textured kit built as candidate; appearance review next",
-        "dependency": "Approved references and isolated layout check; kit review before full Studio, then precinct and target-device review",
+        "status": "Whole-item register: Avatar Studio assembly incomplete; 0 items approved",
+        "dependency": "A complete assembled item for overall visual review; no wall-by-wall or flower-by-flower approvals",
         "doneWhen": "Player-height Studio/garden/path/plaza candidate matches approved concepts, passes functional/performance review and receives explicit precinct acceptance before release.",
         "href": "#delivery"
       },
@@ -498,13 +498,13 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "V2.13 publication is verified. It adds the separately authorised textured campus kit: 14 reusable modules and a small join specimen, following the isolated dimensioned-layout review. Review the kit appearance before full Studio assembly, then the precinct. Remote CI is outside required scope; blazer remains paused; classroom and finished-precinct acceptance remain separate.",
+      "summary": "V2.13 publication is verified. V2.14 organises review around whole buildings, assets or scenes, with component parts nested for reference. A batch can contain up to10 whole items; Tania does not approve every wall or flower. One Avatar Studio package currently contains14 unchanged kit parts but no full assembly, so overall building approval remains pending. No Studio production is inferred; blazer stays paused.",
       "facts": [
         {
-          "label": "STAGE 2 / TEXTURED KIT CANDIDATE",
+          "label": "WHOLE-ITEM REVIEW / PARTS INCLUDED",
           "title": "One canonical source; publication is a dated copy",
-          "detail": "The dimensioned approach has been checked in isolated cameras A–D. Fourteen textured modules and a facade join sample are built for review. Kit publication and exact live files are verified; no live game change is claimed.",
-          "href": "/production/avatar-campus-textured-kit-2026-09-10.md"
+          "detail": "One building or scene is one approval item. Its component list is supporting information, not14 separate approval tasks. The current Avatar Studio assembly is incomplete and has no overall acceptance.",
+          "href": "/production/asset-batch-review-2026-09-10.md"
         },
         {
           "label": "PARTLY VERIFIED",
@@ -527,7 +527,7 @@
         {
           "label": "APPROVED DIRECTION / UNFINISHED PRODUCTION",
           "title": "ECC campus plus career corridor; one precinct first",
-          "detail": "Approved campus references remain the target. Isolated layout review → textured kit candidate now built → appearance review → full Studio → assembled precinct → visual/performance review → deliberate game release.",
+          "detail": "Review complete items with all their parts together. Overall approval includes unflagged parts. Only requested revisions or material changes to the accepted look return for review; any next production stage remains separate.",
           "href": "/production/material-changes.md"
         },
         {
@@ -619,6 +619,10 @@
       ],
       "documents": [
         {
+          "title": "Whole-item asset register and grouped review",
+          "href": "/production/asset-batch-review-2026-09-10.md"
+        },
+        {
           "title": "Textured campus kit — assets, workbench and checks",
           "href": "/production/avatar-campus-textured-kit-2026-09-10.md"
         },
@@ -680,14 +684,14 @@
       "asOf": "2026-09-10",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.13 / textured campus kit candidate",
+        "sourceRevision": "V2.14 / whole-item review with component parts included",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
         "observedLiveRevision": "V2.13 / GitHub Pages",
         "checkedAt": "2026-09-10",
         "observedLiveSha256": "88d06b19e3666067208d99cb74c948140719c34b8c2b4b223cedc4fa9b10a880",
         "accessCheck": "GitHub delivery repository PUBLIC and Pages built successfully; source mirror PRIVATE. Existing Sites project still returns HTTP 404 NOT_FOUND / project_not_found.",
         "validationReceipt": "/production/avatar-campus-textured-kit-2026-09-10.md",
-        "status": "V2.13 kit candidate publication independently verified; appearance acceptance remains pending",
+        "status": "V2.14 batch workflow publication pending; V2.13 last independently verified release",
         "savedVersionId": null,
         "deploymentId": "GitHub Pages / 3316eb9d56e5491b2e4f32b4f1c6d6587926119b / verified 10 September 2026",
         "parity": "Exact manifest and all 174 public file hashes verified; full live reader suite, targeted kit placements and desktop/mobile 3D workbench checked.",
@@ -1321,6 +1325,29 @@
           "deployment": "Candidate kit and workbench verified live: source 007ebb2c69caa3230c707b0924e077e21ee2a9eb / public 3316eb9d56e5491b2e4f32b4f1c6d6587926119b. No live game runtime changed.",
           "testing": "14 GLB reimports with measured dimensions/UV/normals/glass/entry/ramp checks pass. Final textures, Blender render and local/live desktop/mobile workbench inspected. 57 Blueprint tests, TypeScript, focused lint, normal and guarded Pages builds, full local/live browser suites and all 174 public file hashes pass.",
           "taniaAcceptance": "Production authorised; concrete kit appearance acceptance remains pending. Full Studio and precinct are separate later stages."
+        },
+        {
+          "id": "CE-CHANGE-20260910-24",
+          "date": "2026-09-10",
+          "title": "Review complete asset items with their component parts included",
+          "domain": "Asset acceptance and review workflow",
+          "source": "Tania: can we approve assets in groups/batches, maybe10 at a time; then clarified \"batches should be items eg building and its component parts\" and \"i dont want to approve every wall or flower\". Her earlier no cancelled the assistant inference of kit approval and Studio construction. Discussions CE-DISCUSSION-fc0f166e-7c88-4b08-864f-9f363fb801e5, CE-DISCUSSION-c90ac140-6725-4f06-9640-e00b80f612b9 and CE-DISCUSSION-9a49e452-c4f0-4d30-a147-145dce00f89c.",
+          "owner": "Blueprint maintainer; Tania approves named asset versions",
+          "status": "Review register underway; no asset approvals recorded",
+          "rationale": "Approve an assembled building/asset/scene as one item. Track components underneath, covered by overall approval unless explicitly excepted. Replace the unpublished ten-loose-parts proposal. Material visual changes return for review; routine equivalent technical changes need verification rather than repeated aesthetic approval.",
+          "dependencies": [
+            "CE-CHANGE-20260910-23"
+          ],
+          "evidence": [
+            "/production/asset-batch-review-2026-09-10.md"
+          ],
+          "nextAction": "Review complete buildings/assets/scenes as whole items, up to10 items per batch. Overall approval covers their component parts unless Tania flags exceptions. The current Avatar Studio package contains14 existing parts but no complete Studio assembly; it is not ready for whole-building approval. No new construction is started by this workflow.",
+          "supersededRecord": null,
+          "designApproval": "Approval workflow requested; no current item, individual component or Studio production approval inferred.",
+          "implementation": "One Avatar Studio package with14 unchanged nested kit parts; existing parts are supporting detail, not14 approval tasks. Full assembly is missing and labelled incomplete.",
+          "deployment": "Local work underway; last verified public release V2.13.",
+          "testing": "Pending registry/hash, preview and reader checks.",
+          "taniaAcceptance": "No item accepted. Future whole-item acceptance includes its listed unflagged parts; no separate wall/flower approvals."
         }
       ],
       "sessionStart": [
@@ -3817,7 +3844,7 @@
         "summary": "Warm limestone, navy framing, glass, timber shade and layered native gardens; the recovered 9 September courtyard concept.",
         "source": "Generated 9 September 06:41:56 UTC; Refine Career Empire Blender master, image event 2483. Tania welcomed the campus/corridor direction at 07:05 UTC.",
         "limits": "A concept target, not a live map or a faithful reconstruction of ECC. Its skyline and waterfront are not evidence of the real school.",
-        "nextAction": "Review CE-ENV-KIT-01 textured modules after the isolated layout check, then assemble the full Studio and precinct as separate stages. This original remains a reference, not finished-precinct acceptance.",
+        "nextAction": "Review the complete building/scene as one item with its component parts included; no separate wall or flower approvals. Current Studio assembly is incomplete. Any next construction instruction is separate.",
         "placements": [
           "start",
           "visuals",
@@ -3835,7 +3862,7 @@
         "summary": "The recovered 9 September elevated view connects school learning, civic life and future work with one readable walking spine.",
         "source": "Generated 9 September 06:42:58 UTC; same task, image event 2490; campus/corridor direction welcomed by Tania at 07:05 UTC.",
         "limits": "The aerial explains direction, not final coordinates, semester order, unlock thresholds or completed construction.",
-        "nextAction": "Review CE-ENV-KIT-01 textured modules after the isolated layout check, then assemble the full Studio and precinct as separate stages. This original remains a reference, not finished-precinct acceptance.",
+        "nextAction": "Review the complete building/scene as one item with its component parts included; no separate wall or flower approvals. Current Studio assembly is incomplete. Any next construction instruction is separate.",
         "placements": [
           "start",
           "visuals",
@@ -3853,7 +3880,7 @@
         "summary": "Recessed glass entry, limestone walls, navy canopy, timber fins, solar roof and a restrained teal identity feature.",
         "source": "Generated 9 September 07:49:54 UTC; same task, image event 2760. Tania at 07:52 UTC: semi-realistic exactly like that image is the goal.",
         "limits": "Appearance direction approved; the complete building, step-free approach, interior, kit and precinct have not passed final review.",
-        "nextAction": "Review CE-ENV-KIT-01 textured modules after the isolated layout check, then assemble the full Studio and precinct as separate stages. This original remains a reference, not finished-precinct acceptance.",
+        "nextAction": "Review the complete building/scene as one item with its component parts included; no separate wall or flower approvals. Current Studio assembly is incomplete. Any next construction instruction is separate.",
         "placements": [
           "visuals",
           "world"
@@ -3869,7 +3896,7 @@
         "summary": "9 September browser screenshot shows the actual Studio entrance, avatar and Open Avatar Studio interaction after the approach/orientation work.",
         "source": "Inspect blazer-only GLB asset task, studio-door-approach.png. Runtime world.js loads assets/scenery/ecc-avatar-studio-v1.glb.",
         "limits": "This is the built prototype, visibly below the approved pavilion target. Screenshot evidence is dated, not a new classroom/performance acceptance test.",
-        "nextAction": "Review CE-ENV-KIT-01 textured modules after the isolated layout check, then assemble the full Studio and precinct as separate stages. This original remains a reference, not finished-precinct acceptance.",
+        "nextAction": "Review the complete building/scene as one item with its component parts included; no separate wall or flower approvals. Current Studio assembly is incomplete. Any next construction instruction is separate.",
         "placements": [
           "start",
           "visuals",
@@ -4324,10 +4351,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20260910-23"
+        "CE-CHANGE-20260910-24"
       ],
-      "scope": "V2.13 textured modular kit candidate, measured exports and current reader integration. No game runtime release.",
-      "disclosure": "Kit appearance acceptance remains pending; full Studio, assembled precinct, collision and school-device review follow separately. Blazer remains paused; remote CI activation outside required scope.",
+      "scope": "V2.14 whole-item asset register and grouped review workflow; no model or Studio production.",
+      "disclosure": "One incomplete Avatar Studio item contains 14 supporting parts; no separate wall or flower approvals are required. No kit acceptance, Studio assembly or game release is authorised by this workflow.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -4338,12 +4365,14 @@
         "app/globals.css",
         "app/learning-map.tsx",
         "app/style-guide.tsx",
+        "data/asset-register.json",
         "data/blueprint.ts",
         "data/change-workflows.json",
         "data/curriculum.json",
         "data/operations.json",
         "data/style-guide.json",
         "docs/handoff-guide.md",
+        "docs/production/asset-batch-review-2026-09-10.md",
         "docs/production/avatar-campus-textured-kit-2026-09-10.md",
         "docs/production/avatar-precinct-layout-stage1-2026-09-10.md",
         "docs/production/change-workflows.md",
@@ -4359,6 +4388,10 @@
         "docs/production/visual-evidence-manifest.json",
         "docs/production/visual-register.md",
         "package.json",
+        "public/evidence/asset-review-20260910/index.html",
+        "public/evidence/asset-review-20260910/review.js",
+        "public/evidence/asset-review-20260910/viewer.html",
+        "public/evidence/asset-review-20260910/viewer.js",
         "public/evidence/avatar-campus-kit-20260910/README.md",
         "public/evidence/avatar-campus-kit-20260910/index.html",
         "public/evidence/avatar-campus-kit-20260910/kit-manifest.json",
@@ -4368,6 +4401,7 @@
         "scripts/prepare-pages.mjs",
         "scripts/project-guard.mjs",
         "scripts/validate-impact.mjs",
+        "tests/asset-register.test.mjs",
         "tests/browser-smoke.mjs",
         "tests/change-impact.test.mjs",
         "tests/project-guard.test.mjs",
@@ -4377,11 +4411,11 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "1ca68a92bbeb7f35ddafbae722cf89e8e01ce9cadcb3680cc850a8179fa36dbd"
+          "sha256": "25f4c5e5ef93650aff9edd897968fe55723a161ec6e2709d8267faa798d5a523"
         },
         {
           "path": "README.md",
-          "sha256": "39e92d2285e66805433343f5dec4c3eb8c8b2fb3d95282fe4a7e3db33c70cd8e"
+          "sha256": "6708089257225d572987838182bc4660a7643a7987b470a5f8414b9aae37566e"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -4397,7 +4431,7 @@
         },
         {
           "path": "app/current-evidence.tsx",
-          "sha256": "b8701ec0cb798cbf6a1ab16ae6c8154045f93257a034995e9d911c6a6ed5412b"
+          "sha256": "034a8764d6afc4f2f80e088b2c905d7982546174af137d7a3dba5ea35bb4231f"
         },
         {
           "path": "app/globals.css",
@@ -4410,6 +4444,10 @@
         {
           "path": "app/style-guide.tsx",
           "sha256": "5dd6d416707c14ac4cf3f2667bd89929caf2d200892c514eab2b99d112696b9e"
+        },
+        {
+          "path": "data/asset-register.json",
+          "sha256": "f7836a8e75c21d26c0a8e9bf1c62b5791cbaa0292682d2dc8921ae86ad623305"
         },
         {
           "path": "data/blueprint.ts",
@@ -4425,19 +4463,23 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "6a5e27941911194e502dcecd83bec3c7dbae16e996e1610a9fa686304dfe58b4"
+          "sha256": "2fe02c94c935b95e2205181b45ab8559fd63165e8aefba3130e52416cdc6fb82"
         },
         {
           "path": "data/style-guide.json",
-          "sha256": "b15410736a676d677c79c9cd53c3792aea7d65f0618640cec45126e496281f36"
+          "sha256": "125aec5d89eb35167c51c73d713b10e65c3bebdc8a57f454c30f85f9c18366bb"
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "96e3d4b0c8b0570a132ab56081c79804ff14366789905a3e939d9cc30aedb3b3"
+          "sha256": "39787954758643750eacdacc1c4b373e6386825db11be7bbc3290762cf8cea96"
+        },
+        {
+          "path": "docs/production/asset-batch-review-2026-09-10.md",
+          "sha256": "be99797fe873c85b4d3dc8514566e74a50884a2ecb8ff893c128a5c5b54eddb6"
         },
         {
           "path": "docs/production/avatar-campus-textured-kit-2026-09-10.md",
-          "sha256": "c8c91bd1a5ba49eb9f2967d08fef78b6e75f49a47f95b49d2eafee675c793be2"
+          "sha256": "3174d606000efcd90265ee152895589c54c33f1ada024c0196a9dd60ef5cb8ca"
         },
         {
           "path": "docs/production/avatar-precinct-layout-stage1-2026-09-10.md",
@@ -4449,15 +4491,15 @@
         },
         {
           "path": "docs/production/current-state.md",
-          "sha256": "d28171872e312f937d82ddebbe9657d7d07356c27eca0275eaffc2dd5028b70f"
+          "sha256": "b0b86b4f86fe730b5609d29dd2bc8fdaa3bf501b5feb28d1733b26aa8e4d6f86"
         },
         {
           "path": "docs/production/operating-protocol.md",
-          "sha256": "6c76d993a0087c34a5fb66d887d03608c30d5ea4d70eb86c217e11270bdd7000"
+          "sha256": "45b53e1ac61ef07ad4e63803173c4f11dad3ff42dc69fa092666959d854387bd"
         },
         {
           "path": "docs/production/production-plan.md",
-          "sha256": "00e46791d5b019f61801d44d6907931961530dd4d52b27571c39d133ce83bce0"
+          "sha256": "6e5d3b46001f54149ffd78f9c6088adcb1fbb81068475b17a2dc9a28a22f9d89"
         },
         {
           "path": "docs/production/project-automation-setup-2026-09-10.md",
@@ -4485,15 +4527,31 @@
         },
         {
           "path": "docs/production/visual-evidence-manifest.json",
-          "sha256": "be43c5478cd5f8e4133fcccd0d6adea5fa89ba22dc7a7cc198a3cf53324902ab"
+          "sha256": "4fc7ffb34a9f8794841622d10c93dc58a405813247e851586c3b98fc8f2eb19c"
         },
         {
           "path": "docs/production/visual-register.md",
-          "sha256": "2615390a69bffc8fd91e395693f11babaa3fb86186a29588f9499ae859f22650"
+          "sha256": "b8ef956f58b554a968c70ef09c20571b804a41c1df922dda44a6ea6554beee83"
         },
         {
           "path": "package.json",
-          "sha256": "77e3da1c9a66ee03c895b562f559d9df1053b81d45c2cf537d79b3e24a08c098"
+          "sha256": "0f2ebd283b05d8f4ec63e9ff1c0df9ba4df23789fbb5acefe1e0786bc36e5bb2"
+        },
+        {
+          "path": "public/evidence/asset-review-20260910/index.html",
+          "sha256": "b6218873352c051bf18b79b24ea60a8cb52d5fb65f6e61afc4fdc18845c13a59"
+        },
+        {
+          "path": "public/evidence/asset-review-20260910/review.js",
+          "sha256": "e64ba823bf87f2e6155735c08a0a8756e971182d82705c75916b07cbc78b2569"
+        },
+        {
+          "path": "public/evidence/asset-review-20260910/viewer.html",
+          "sha256": "5db844faa941f351218bc23f1dbb84f020155cca6e31aec532f03b98a13916d1"
+        },
+        {
+          "path": "public/evidence/asset-review-20260910/viewer.js",
+          "sha256": "3a4e293974782fe27f579919107f964fa1933cac189ac5c21c5c3c62046df1ad"
         },
         {
           "path": "public/evidence/avatar-campus-kit-20260910/README.md",
@@ -4517,7 +4575,7 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "caa1023016d9989e86a3f5aa763253be1cd76e7b711feec9693db2b98b5e4216"
+          "sha256": "eb39fbcb844cd524273df54029d93f32bff0f49d043ed36e80c66892c253d24c"
         },
         {
           "path": "scripts/prepare-pages.mjs",
@@ -4530,6 +4588,10 @@
         {
           "path": "scripts/validate-impact.mjs",
           "sha256": "41cf1257d560e2be31e61a80e65fa98dce42018f971b2d676610bdf7ce687059"
+        },
+        {
+          "path": "tests/asset-register.test.mjs",
+          "sha256": "4a6d8b8404705c2d2c922702c4fd9b9a59cb77e5f72d85123e5bb3dc689e1a38"
         },
         {
           "path": "tests/browser-smoke.mjs",
@@ -6911,6 +6973,404 @@
           "megatrends": {
             "AGENTS.md": "100644:2ce9eea0db4311d370d74e948222cb260e673b30",
             "docs/current-workspace-status.md": "100644:b01b24bf638497e71024033b574260ad5c5db3c8"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-24",
+        "title": "Review complete asset items with their component parts included",
+        "types": [
+          "governance",
+          "visual",
+          "building"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Approve an assembled building/asset/scene as one item. Track components underneath, covered by overall approval unless explicitly excepted. Replace the unpublished ten-loose-parts proposal. Material visual changes return for review; routine equivalent technical changes need verification rather than repeated aesthetic approval.",
+        "before": "Kit-level evidence existed; the initial unpublished proposal split loose components into10+4 and incorrectly suggested separate approval tasks.",
+        "after": "Whole-item register: one Avatar Studio building package with14 nested parts. No separate component approvals; item incomplete until fully assembled. Explicit item decisions cover unflagged parts.",
+        "source": "Tania: can we approve assets in groups/batches, maybe10 at a time; then clarified \"batches should be items eg building and its component parts\" and \"i dont want to approve every wall or flower\". Her earlier no cancelled the assistant inference of kit approval and Studio construction. Discussions CE-DISCUSSION-fc0f166e-7c88-4b08-864f-9f363fb801e5, CE-DISCUSSION-c90ac140-6725-4f06-9640-e00b80f612b9 and CE-DISCUSSION-9a49e452-c4f0-4d30-a147-145dce00f89c.",
+        "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+        "nextAction": "Review complete buildings/assets/scenes as whole items, up to10 items per batch. Overall approval covers their component parts unless Tania flags exceptions. The current Avatar Studio package contains14 existing parts but no complete Studio assembly; it is not ready for whole-building approval. No new construction is started by this workflow.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Purpose, current direction, status and next action must agree with the change.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Start Here current action opens the whole-item register; desktop/mobile checks show one incomplete Studio and no per-part approval tasks."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "CE-ENV-01 now states whole-item review and zero accepted items; later Studio/precinct stages remain separate."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Record 24 retains the exact grouping correction and earlier no; baseline comparison preserves all previous 23 material records."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Canonical and Megatrends instructions, handover, current state and operating protocol specify whole-item decisions covering unflagged parts."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Generated canonical/public register snapshots, records and Markdown views match source; exporter check and 60 tests passed."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Registry and reader review pending.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish reviewed generated output; compare every live file and inspect grouped review plus affected desktop/mobile reader pages before marking complete."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "World and visual pages link the grouped register; desktop/mobile inspection confirms kit evidence remains separate from a completed Studio."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Fourteen previews rendered from unchanged GLBs; all decode at 800x600. The parent image is explicitly the kit overview, not the assembled building. Original six reference hashes remain exact."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Stable item/component IDs, version and SHA snapshots bind every optional preview/model. Tests confirm a batch counts whole items and does not demand component approval."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Avatar Studio is explicitly incomplete with assembly null; its 14 components are supporting evidence. No full building construction or acceptance is claimed."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "No avatar rig, clothing or identity files changed; exact blueprint/reference baseline retained, including paused blazer boundary."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "World reader displays whole-item workflow; game geometry, access rules, progression and economy remain unchanged in the exact protected blueprint source."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "No asset approval inferred from the cancelled yes; all 17 V2 decisions and four production approvals are baseline-exact. Register histories remain empty."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "60 tests, TypeScript, focused lint and build passed. Desktop/mobile grouped review, optional 14 image renders, reload and GLB inspection passed; this is review UI only."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "flow",
+            "disposition": "checked-unchanged",
+            "action": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Protected experience mappings and curriculum remain byte-identical. No student action, evidence, feedback, teacher or learning-flow behavior changed."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Existing 14 GLBs and six selected reference bytes verified against their recorded hashes. New previews derive from the original exported models; no substitute concept generated."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "records": [
+              "CE-CHANGE-20260910-24",
+              "CE-ITEM-STUDIO-001",
+              "CE-ENV-KIT-01",
+              "CE-ASSET-BATCH-001"
+            ],
+            "owner": "Blueprint maintainer; Tania approves whole items with their parts included",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "/production/asset-batch-review-2026-09-10.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Same canonical checkout and generated-only public destination retained; handoff locates the new register and explicitly incomplete Studio. Commit and live identities remain a publication check."
+            },
+            "nextAction": "Maintain whole-item decisions with optional part detail; no approval or production inferred."
+          }
+        ],
+        "projectChanges": {
+          "megatrends": {
+            "AGENTS.md": "100644:97e464031e3d61e85fdddc24c94e00cffe4e7dda",
+            "docs/current-workspace-status.md": "100644:b456d2dd2a01b74646e6c68f0b95f5dadb15375e"
           }
         }
       }

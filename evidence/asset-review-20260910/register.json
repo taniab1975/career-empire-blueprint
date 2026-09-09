@@ -1,0 +1,588 @@
+{
+  "schemaVersion": 1,
+  "id": "CE-ASSET-REGISTER",
+  "title": "Career Empire asset review register",
+  "changeId": "CE-CHANGE-20260910-24",
+  "reviewPolicy": {
+    "batchSizeLimit": 10,
+    "approvalScope": "Overall appearance of the complete building/asset/scene item, including its listed parts unless Tania names exceptions",
+    "batchApprovalAuthorisesNextProductionStage": false,
+    "ambiguousReply": "Do not infer asset approval or production authority. Resolve the named batch/assets first.",
+    "revisionRule": "Track every file/version change. Return materially changed appearance to whole-item review; routine changes that preserve accepted appearance need documented technical verification, not a new wall-by-wall approval. Preserve the original decision and exact reviewed item snapshot.",
+    "states": [
+      "awaiting-review",
+      "approved",
+      "changes-requested",
+      "on-hold",
+      "rejected",
+      "superseded",
+      "included-in-item-review"
+    ],
+    "requiredEvidence": "Exact user instruction, date, approver, item/batch revision and reviewed assembly/component snapshot; named exceptions if any.",
+    "batchUnit": "Complete review item/package, not individual component parts",
+    "incompleteItemRule": "An item without its full assembly cannot receive whole-item approval. Component-specific decisions may be recorded explicitly; they do not imply item approval.",
+    "exceptionRule": "Only named exceptions need component-specific follow-up. An unflagged wall, flower or other listed part does not require a separate approval.",
+    "componentApprovalRequired": false,
+    "itemApprovalCoversListedComponents": true
+  },
+  "assets": [
+    {
+      "id": "CE-KIT-001",
+      "number": 1,
+      "name": "Limestone wall — 2 m",
+      "family": "Campus modular kit",
+      "moduleId": "wall-2m",
+      "version": "0.1.0",
+      "sourceKit": "CE-ENV-KIT-01",
+      "model": "/evidence/avatar-campus-kit-20260910/exports/wall-2m.glb",
+      "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa",
+      "preview": "/evidence/asset-review-20260910/previews/wall-2m.png",
+      "dimensionsMetres": [
+        1.992,
+        0.24,
+        3.0
+      ],
+      "notes": "Snap X at +/- half width; base Z=0, height3m.",
+      "buildStatus": "Built and export-tested",
+      "approval": {
+        "status": "included-in-item-review",
+        "scope": "Covered by the parent whole-item review; no separate approval required unless explicitly flagged",
+        "history": []
+      },
+      "productionStage": "Kit only; no full Studio or precinct acceptance",
+      "previewSha256": "356e560db0fb2bc59921363dc090c83fb39f12730da21f3b0b805c660428c299"
+    },
+    {
+      "id": "CE-KIT-002",
+      "number": 2,
+      "name": "Limestone wall — 1 m",
+      "family": "Campus modular kit",
+      "moduleId": "wall-1m",
+      "version": "0.1.0",
+      "sourceKit": "CE-ENV-KIT-01",
+      "model": "/evidence/avatar-campus-kit-20260910/exports/wall-1m.glb",
+      "sha256": "6dc0d5593bdea391ae9a916c5aa0ad6293e899a404a66b9f498765308b59b29d",
+      "preview": "/evidence/asset-review-20260910/previews/wall-1m.png",
+      "dimensionsMetres": [
+        0.992,
+        0.24,
+        3.0
+      ],
+      "notes": "Snap X at +/- half width; base Z=0, height3m.",
+      "buildStatus": "Built and export-tested",
+      "approval": {
+        "status": "included-in-item-review",
+        "scope": "Covered by the parent whole-item review; no separate approval required unless explicitly flagged",
+        "history": []
+      },
+      "productionStage": "Kit only; no full Studio or precinct acceptance",
+      "previewSha256": "23012e7b10fb9810a3d78e3bce5227b705d62fbbabdd0b79fb66b313ace56220"
+    },
+    {
+      "id": "CE-KIT-003",
+      "number": 3,
+      "name": "Limestone pier",
+      "family": "Campus modular kit",
+      "moduleId": "pier",
+      "version": "0.1.0",
+      "sourceKit": "CE-ENV-KIT-01",
+      "model": "/evidence/avatar-campus-kit-20260910/exports/pier.glb",
+      "sha256": "e2c87abe043f66b74be6372c9e37cb3e634e4e0769f01a6cb6271111d2a36ded",
+      "preview": "/evidence/asset-review-20260910/previews/pier.png",
+      "dimensionsMetres": [
+        0.392,
+        0.4,
+        3.0
+      ],
+      "notes": "Base-centre pivot, 3m high.",
+      "buildStatus": "Built and export-tested",
+      "approval": {
+        "status": "included-in-item-review",
+        "scope": "Covered by the parent whole-item review; no separate approval required unless explicitly flagged",
+        "history": []
+      },
+      "productionStage": "Kit only; no full Studio or precinct acceptance",
+      "previewSha256": "704e4528d9326cb08073917453c4dfd4c80aedc504a7c06bb9086c0b56b73261"
+    },
+    {
+      "id": "CE-KIT-004",
+      "number": 4,
+      "name": "Clear glazed window",
+      "family": "Campus modular kit",
+      "moduleId": "window-2m",
+      "version": "0.1.0",
+      "sourceKit": "CE-ENV-KIT-01",
+      "model": "/evidence/avatar-campus-kit-20260910/exports/window-2m.glb",
+      "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8",
+      "preview": "/evidence/asset-review-20260910/previews/window-2m.png",
+      "dimensionsMetres": [
+        2.0,
+        0.14,
+        3.0
+      ],
+      "notes": "Transmission glass, 12mm visual thickness, explicit navy frame.",
+      "buildStatus": "Built and export-tested",
+      "approval": {
+        "status": "included-in-item-review",
+        "scope": "Covered by the parent whole-item review; no separate approval required unless explicitly flagged",
+        "history": []
+      },
+      "productionStage": "Kit only; no full Studio or precinct acceptance",
+      "previewSha256": "fe30f3fb98b48b5ed494056362eb3394b0ebda80eaf461448aa3ea6a60144220"
+    },
+    {
+      "id": "CE-KIT-005",
+      "number": 5,
+      "name": "Open entry frame",
+      "family": "Campus modular kit",
+      "moduleId": "entry-2m",
+      "version": "0.1.0",
+      "sourceKit": "CE-ENV-KIT-01",
+      "model": "/evidence/avatar-campus-kit-20260910/exports/entry-2m.glb",
+      "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b",
+      "preview": "/evidence/asset-review-20260910/previews/entry-2m.png",
+      "dimensionsMetres": [
+        2.0,
+        0.14,
+        3.0
+      ],
+      "notes": "1.76m clear width / 2.88m clear height; no door leaf or threshold collision.",
+      "buildStatus": "Built and export-tested",
+      "approval": {
+        "status": "included-in-item-review",
+        "scope": "Covered by the parent whole-item review; no separate approval required unless explicitly flagged",
+        "history": []
+      },
+      "productionStage": "Kit only; no full Studio or precinct acceptance",
+      "previewSha256": "f27320d49a40a3162967fdab12752bf7eae95315b217b4947a7a09e03b4e92f5"
+    },
+    {
+      "id": "CE-KIT-006",
+      "number": 6,
+      "name": "Timber fin screen",
+      "family": "Campus modular kit",
+      "moduleId": "fin-screen-1m",
+      "version": "0.1.0",
+      "sourceKit": "CE-ENV-KIT-01",
+      "model": "/evidence/avatar-campus-kit-20260910/exports/fin-screen-1m.glb",
+      "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874",
+      "preview": "/evidence/asset-review-20260910/previews/fin-screen-1m.png",
+      "dimensionsMetres": [
+        1.0,
+        0.215,
+        3.0
+      ],
+      "notes": "1m snap spacing including side clearance; geometry width1m rail.",
+      "buildStatus": "Built and export-tested",
+      "approval": {
+        "status": "included-in-item-review",
+        "scope": "Covered by the parent whole-item review; no separate approval required unless explicitly flagged",
+        "history": []
+      },
+      "productionStage": "Kit only; no full Studio or precinct acceptance",
+      "previewSha256": "bbe73d4a028becab49c1b2a9f312cc42b46b24a96a0bd32e02bdaf00b2977fcf"
+    },
+    {
+      "id": "CE-KIT-007",
+      "number": 7,
+      "name": "Canopy with timber soffit",
+      "family": "Campus modular kit",
+      "moduleId": "canopy-2m",
+      "version": "0.1.0",
+      "sourceKit": "CE-ENV-KIT-01",
+      "model": "/evidence/avatar-campus-kit-20260910/exports/canopy-2m.glb",
+      "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10",
+      "preview": "/evidence/asset-review-20260910/previews/canopy-2m.png",
+      "dimensionsMetres": [
+        2.0,
+        1.6,
+        0.24
+      ],
+      "notes": "Pivot at facade ground line; spans front -Y1.6m at underside3.02m.",
+      "buildStatus": "Built and export-tested",
+      "approval": {
+        "status": "included-in-item-review",
+        "scope": "Covered by the parent whole-item review; no separate approval required unless explicitly flagged",
+        "history": []
+      },
+      "productionStage": "Kit only; no full Studio or precinct acceptance",
+      "previewSha256": "c9eae0a3052a4c9e8eb555e823e3e43b1fd6eefaf61f592a1e53ee91a2f2b328"
+    },
+    {
+      "id": "CE-KIT-008",
+      "number": 8,
+      "name": "Navy roof fascia",
+      "family": "Campus modular kit",
+      "moduleId": "fascia-2m",
+      "version": "0.1.0",
+      "sourceKit": "CE-ENV-KIT-01",
+      "model": "/evidence/avatar-campus-kit-20260910/exports/fascia-2m.glb",
+      "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca",
+      "preview": "/evidence/asset-review-20260910/previews/fascia-2m.png",
+      "dimensionsMetres": [
+        2.0,
+        0.2,
+        0.24
+      ],
+      "notes": "Pivot at ground line; fascia bottom3.10m.",
+      "buildStatus": "Built and export-tested",
+      "approval": {
+        "status": "included-in-item-review",
+        "scope": "Covered by the parent whole-item review; no separate approval required unless explicitly flagged",
+        "history": []
+      },
+      "productionStage": "Kit only; no full Studio or precinct acceptance",
+      "previewSha256": "3529a704e2effa197c9d8a2d2b13095fbe272299e3ea3d243ae459e35766cc4f"
+    },
+    {
+      "id": "CE-KIT-009",
+      "number": 9,
+      "name": "Navy post",
+      "family": "Campus modular kit",
+      "moduleId": "post",
+      "version": "0.1.0",
+      "sourceKit": "CE-ENV-KIT-01",
+      "model": "/evidence/avatar-campus-kit-20260910/exports/post.glb",
+      "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb",
+      "preview": "/evidence/asset-review-20260910/previews/post.png",
+      "dimensionsMetres": [
+        0.12,
+        0.12,
+        3.0
+      ],
+      "notes": "3m high; cap contact to canopy requires .02m shim or adjusted canopy.",
+      "buildStatus": "Built and export-tested",
+      "approval": {
+        "status": "included-in-item-review",
+        "scope": "Covered by the parent whole-item review; no separate approval required unless explicitly flagged",
+        "history": []
+      },
+      "productionStage": "Kit only; no full Studio or precinct acceptance",
+      "previewSha256": "dcce94112375c024e34874474d39c7b03def1070f451eeb7ea0b79a003dbb752"
+    },
+    {
+      "id": "CE-KIT-010",
+      "number": 10,
+      "name": "Paving tile",
+      "family": "Campus modular kit",
+      "moduleId": "paving-2m",
+      "version": "0.1.0",
+      "sourceKit": "CE-ENV-KIT-01",
+      "model": "/evidence/avatar-campus-kit-20260910/exports/paving-2m.glb",
+      "sha256": "6a174fea674a8833a3a83bd340b2adeac73711265ef60f56b4d4d6d787af1239",
+      "preview": "/evidence/asset-review-20260910/previews/paving-2m.png",
+      "dimensionsMetres": [
+        2.0,
+        2.0,
+        0.08
+      ],
+      "notes": "Walking face Z=0; 2m grid.",
+      "buildStatus": "Built and export-tested",
+      "approval": {
+        "status": "included-in-item-review",
+        "scope": "Covered by the parent whole-item review; no separate approval required unless explicitly flagged",
+        "history": []
+      },
+      "productionStage": "Kit only; no full Studio or precinct acceptance",
+      "previewSha256": "36702a57dad83df5e30ed224f1ac46fc773d80b416e2836d37b453d599168377"
+    },
+    {
+      "id": "CE-KIT-011",
+      "number": 11,
+      "name": "Ramp segment",
+      "family": "Campus modular kit",
+      "moduleId": "ramp-3p2x2",
+      "version": "0.1.0",
+      "sourceKit": "CE-ENV-KIT-01",
+      "model": "/evidence/avatar-campus-kit-20260910/exports/ramp-3p2x2.glb",
+      "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0",
+      "preview": "/evidence/asset-review-20260910/previews/ramp-3p2x2.png",
+      "dimensionsMetres": [
+        3.2,
+        2.0,
+        0.16
+      ],
+      "notes": "3.2m width; run2m; rise.08m. Repeat with Y+2/Z+.08; three give6m/.24. No compliance certification.",
+      "buildStatus": "Built and export-tested",
+      "approval": {
+        "status": "included-in-item-review",
+        "scope": "Covered by the parent whole-item review; no separate approval required unless explicitly flagged",
+        "history": []
+      },
+      "productionStage": "Kit only; no full Studio or precinct acceptance",
+      "previewSha256": "b7dcd92d36d0f353e8d1e262b86f1118ef3aa8bf4252988fb6d39f57b4bc0010"
+    },
+    {
+      "id": "CE-KIT-012",
+      "number": 12,
+      "name": "Raised landing",
+      "family": "Campus modular kit",
+      "moduleId": "landing",
+      "version": "0.1.0",
+      "sourceKit": "CE-ENV-KIT-01",
+      "model": "/evidence/avatar-campus-kit-20260910/exports/landing.glb",
+      "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3",
+      "preview": "/evidence/asset-review-20260910/previews/landing.png",
+      "dimensionsMetres": [
+        3.2,
+        1.2,
+        0.24
+      ],
+      "notes": "Top .24m; width3.2m depth1.2m.",
+      "buildStatus": "Built and export-tested",
+      "approval": {
+        "status": "included-in-item-review",
+        "scope": "Covered by the parent whole-item review; no separate approval required unless explicitly flagged",
+        "history": []
+      },
+      "productionStage": "Kit only; no full Studio or precinct acceptance",
+      "previewSha256": "a1efb45dd06a9cbf8f3329bb3838ceb818a3ea8ae65a764a2a486baab1ef86a2"
+    },
+    {
+      "id": "CE-KIT-013",
+      "number": 13,
+      "name": "Limestone planter",
+      "family": "Campus modular kit",
+      "moduleId": "planter",
+      "version": "0.1.0",
+      "sourceKit": "CE-ENV-KIT-01",
+      "model": "/evidence/avatar-campus-kit-20260910/exports/planter.glb",
+      "sha256": "74c4ed854d63f44b884fd900d190ec1f1245a3f2070fb78248c9d01b5edc7f0c",
+      "preview": "/evidence/asset-review-20260910/previews/planter.png",
+      "dimensionsMetres": [
+        1.6,
+        0.8,
+        0.6
+      ],
+      "notes": "1.6 x .8m; soil inset, planting is later precinct stage.",
+      "buildStatus": "Built and export-tested",
+      "approval": {
+        "status": "included-in-item-review",
+        "scope": "Covered by the parent whole-item review; no separate approval required unless explicitly flagged",
+        "history": []
+      },
+      "productionStage": "Kit only; no full Studio or precinct acceptance",
+      "previewSha256": "8b066aaad798aafc765a232afd1d25f64ec4a70a06f186150930fe28225c3f50"
+    },
+    {
+      "id": "CE-KIT-014",
+      "number": 14,
+      "name": "Timber bench",
+      "family": "Campus modular kit",
+      "moduleId": "bench",
+      "version": "0.1.0",
+      "sourceKit": "CE-ENV-KIT-01",
+      "model": "/evidence/avatar-campus-kit-20260910/exports/bench.glb",
+      "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a",
+      "preview": "/evidence/asset-review-20260910/previews/bench.png",
+      "dimensionsMetres": [
+        1.6,
+        0.52,
+        0.47
+      ],
+      "notes": "1.6 x .52m, seat top.47m.",
+      "buildStatus": "Built and export-tested",
+      "approval": {
+        "status": "included-in-item-review",
+        "scope": "Covered by the parent whole-item review; no separate approval required unless explicitly flagged",
+        "history": []
+      },
+      "productionStage": "Kit only; no full Studio or precinct acceptance",
+      "previewSha256": "97524432bff309e33355c18a3ab67b0d27bd953e6fb8fe770766a65cf1a4c09b"
+    }
+  ],
+  "batches": [
+    {
+      "id": "CE-ASSET-BATCH-001",
+      "label": "Batch 1",
+      "revision": 1,
+      "status": "awaiting-assembly",
+      "scope": "Complete asset items and their component parts",
+      "items": [
+        {
+          "itemId": "CE-ITEM-STUDIO-001",
+          "revision": 1,
+          "assemblySha256": null,
+          "componentVersions": [
+            {
+              "assetId": "CE-KIT-001",
+              "version": "0.1.0",
+              "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa"
+            },
+            {
+              "assetId": "CE-KIT-002",
+              "version": "0.1.0",
+              "sha256": "6dc0d5593bdea391ae9a916c5aa0ad6293e899a404a66b9f498765308b59b29d"
+            },
+            {
+              "assetId": "CE-KIT-003",
+              "version": "0.1.0",
+              "sha256": "e2c87abe043f66b74be6372c9e37cb3e634e4e0769f01a6cb6271111d2a36ded"
+            },
+            {
+              "assetId": "CE-KIT-004",
+              "version": "0.1.0",
+              "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8"
+            },
+            {
+              "assetId": "CE-KIT-005",
+              "version": "0.1.0",
+              "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b"
+            },
+            {
+              "assetId": "CE-KIT-006",
+              "version": "0.1.0",
+              "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874"
+            },
+            {
+              "assetId": "CE-KIT-007",
+              "version": "0.1.0",
+              "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10"
+            },
+            {
+              "assetId": "CE-KIT-008",
+              "version": "0.1.0",
+              "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca"
+            },
+            {
+              "assetId": "CE-KIT-009",
+              "version": "0.1.0",
+              "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb"
+            },
+            {
+              "assetId": "CE-KIT-010",
+              "version": "0.1.0",
+              "sha256": "6a174fea674a8833a3a83bd340b2adeac73711265ef60f56b4d4d6d787af1239"
+            },
+            {
+              "assetId": "CE-KIT-011",
+              "version": "0.1.0",
+              "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0"
+            },
+            {
+              "assetId": "CE-KIT-012",
+              "version": "0.1.0",
+              "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3"
+            },
+            {
+              "assetId": "CE-KIT-013",
+              "version": "0.1.0",
+              "sha256": "74c4ed854d63f44b884fd900d190ec1f1245a3f2070fb78248c9d01b5edc7f0c"
+            },
+            {
+              "assetId": "CE-KIT-014",
+              "version": "0.1.0",
+              "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "CE-ITEM-STUDIO-001",
+      "number": 1,
+      "name": "Avatar Studio",
+      "revision": 1,
+      "description": "One Avatar Studio package, reviewed as a whole. Walls, glazing, roof, approach and furniture are supporting parts, not separate approval tasks.",
+      "buildStatus": "incomplete",
+      "readiness": "Full building assembly is not built. The image shows its existing component kit only.",
+      "assembly": null,
+      "preview": "/evidence/avatar-campus-kit-20260910/kit-overview.png",
+      "previewSha256": "53f9d669eb5fe7f3d20f2c62bc23f4285c1fe144ffb2c2159d1bde56e2589d62",
+      "previewKind": "Component kit overview — not the assembled building",
+      "components": [
+        {
+          "assetId": "CE-KIT-001",
+          "version": "0.1.0",
+          "sha256": "3d9b4a7112fdfe466364ca99a8971cfed8e9f2807d381ecf1a7ffb40dbba8ffa",
+          "group": "Building components"
+        },
+        {
+          "assetId": "CE-KIT-002",
+          "version": "0.1.0",
+          "sha256": "6dc0d5593bdea391ae9a916c5aa0ad6293e899a404a66b9f498765308b59b29d",
+          "group": "Building components"
+        },
+        {
+          "assetId": "CE-KIT-003",
+          "version": "0.1.0",
+          "sha256": "e2c87abe043f66b74be6372c9e37cb3e634e4e0769f01a6cb6271111d2a36ded",
+          "group": "Building components"
+        },
+        {
+          "assetId": "CE-KIT-004",
+          "version": "0.1.0",
+          "sha256": "492f1b8bb1b9d60233e3264720500e3a34ef7b004e4bd0acbbb87eeb9b1ed8a8",
+          "group": "Building components"
+        },
+        {
+          "assetId": "CE-KIT-005",
+          "version": "0.1.0",
+          "sha256": "5f4f6daaae51eea36b48a8cc58c695d6afd0aaeb378ebea9b707e5423f90ca2b",
+          "group": "Building components"
+        },
+        {
+          "assetId": "CE-KIT-006",
+          "version": "0.1.0",
+          "sha256": "47739a995e18f85f300e2bc2ea33758faf9ed71e90bbcd4939c87874f0e2e874",
+          "group": "Building components"
+        },
+        {
+          "assetId": "CE-KIT-007",
+          "version": "0.1.0",
+          "sha256": "2b82752f0796d27f236f6cf496c5dc3944c979546b1ad0156156f198bb6b2e10",
+          "group": "Building components"
+        },
+        {
+          "assetId": "CE-KIT-008",
+          "version": "0.1.0",
+          "sha256": "47de1e6f1a4e83f29f980569f4e62c992e4ce06fa78cd21c18dcdfa9d7fcc6ca",
+          "group": "Building components"
+        },
+        {
+          "assetId": "CE-KIT-009",
+          "version": "0.1.0",
+          "sha256": "bde0c47e84e9c34dcefa7b9ceb299b0c2aaecb83db2e4720a5ce4cf7a5f950eb",
+          "group": "Building components"
+        },
+        {
+          "assetId": "CE-KIT-010",
+          "version": "0.1.0",
+          "sha256": "6a174fea674a8833a3a83bd340b2adeac73711265ef60f56b4d4d6d787af1239",
+          "group": "Building components"
+        },
+        {
+          "assetId": "CE-KIT-011",
+          "version": "0.1.0",
+          "sha256": "bbabb11d404a875f8251435208a6882b18bb035dcc01ecea511b41a8401b62f0",
+          "group": "Entry and approach components"
+        },
+        {
+          "assetId": "CE-KIT-012",
+          "version": "0.1.0",
+          "sha256": "03063baf9a69122e22a590893359403d5db4d8bf922415012ed89a8b8a614fc3",
+          "group": "Entry and approach components"
+        },
+        {
+          "assetId": "CE-KIT-013",
+          "version": "0.1.0",
+          "sha256": "74c4ed854d63f44b884fd900d190ec1f1245a3f2070fb78248c9d01b5edc7f0c",
+          "group": "Associated furniture"
+        },
+        {
+          "assetId": "CE-KIT-014",
+          "version": "0.1.0",
+          "sha256": "b946624684ab49c408da32eaca6c007575814fc16c98c1893677e8c98577a62a",
+          "group": "Associated furniture"
+        }
+      ],
+      "approval": {
+        "status": "awaiting-review",
+        "scope": "Whole Avatar Studio item revision with its listed parts",
+        "history": []
+      }
+    }
+  ]
+}

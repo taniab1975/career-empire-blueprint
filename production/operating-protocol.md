@@ -73,3 +73,6 @@ V2.9/V2.10 proved publication and workflow mechanics but did not prove every pag
 
 
 10 September kit handoff: CE-CHANGE-20260910-23 produces isolated assets only. Inspect actual exported textures and geometry, then accept appearance before Studio assembly. Keep subsequent precinct, interaction/collision and device gates; no change to the Definition of Done.
+
+
+Asset review protocol, CE-CHANGE-20260910-24: use up to10 complete items per batch, with component details nested for tracking. Overall item approval includes unflagged parts. Do not require individual wall/flower approval. Record item revision, exact reviewed snapshot and any exceptions. Return requested/material visual changes for review; verify routine equivalent technical changes without another aesthetic approval. No automatic next-stage authority.

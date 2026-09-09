@@ -416,6 +416,24 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **testing:** 14 GLB reimports with measured dimensions/UV/normals/glass/entry/ramp checks pass. Final textures, Blender render and local/live desktop/mobile workbench inspected. 57 Blueprint tests, TypeScript, focused lint, normal and guarded Pages builds, full local/live browser suites and all 174 public file hashes pass.
 - **taniaAcceptance:** Production authorised; concrete kit appearance acceptance remains pending. Full Studio and precinct are separate later stages.
 
+## CE-CHANGE-20260910-24 — Review complete asset items with their component parts included
+
+- **date:** 2026-09-10
+- **domain:** Asset acceptance and review workflow
+- **source:** Tania: can we approve assets in groups/batches, maybe10 at a time; then clarified "batches should be items eg building and its component parts" and "i dont want to approve every wall or flower". Her earlier no cancelled the assistant inference of kit approval and Studio construction. Discussions CE-DISCUSSION-fc0f166e-7c88-4b08-864f-9f363fb801e5, CE-DISCUSSION-c90ac140-6725-4f06-9640-e00b80f612b9 and CE-DISCUSSION-9a49e452-c4f0-4d30-a147-145dce00f89c.
+- **owner:** Blueprint maintainer; Tania approves named asset versions
+- **status:** Review register underway; no asset approvals recorded
+- **rationale:** Approve an assembled building/asset/scene as one item. Track components underneath, covered by overall approval unless explicitly excepted. Replace the unpublished ten-loose-parts proposal. Material visual changes return for review; routine equivalent technical changes need verification rather than repeated aesthetic approval.
+- **dependencies:** CE-CHANGE-20260910-23
+- **evidence:** /production/asset-batch-review-2026-09-10.md
+- **nextAction:** Review complete buildings/assets/scenes as whole items, up to10 items per batch. Overall approval covers their component parts unless Tania flags exceptions. The current Avatar Studio package contains14 existing parts but no complete Studio assembly; it is not ready for whole-building approval. No new construction is started by this workflow.
+- **supersededRecord:** None
+- **designApproval:** Approval workflow requested; no current item, individual component or Studio production approval inferred.
+- **implementation:** One Avatar Studio package with14 unchanged nested kit parts; existing parts are supporting detail, not14 approval tasks. Full assembly is missing and labelled incomplete.
+- **deployment:** Local work underway; last verified public release V2.13.
+- **testing:** Pending registry/hash, preview and reader checks.
+- **taniaAcceptance:** No item accepted. Future whole-item acceptance includes its listed unflagged parts; no separate wall/flower approvals.
+
 ## Retained Atlas principles
 
 Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries

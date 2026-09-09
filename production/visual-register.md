@@ -1,5 +1,7 @@
 # Visual production register — 9 September 2026
 
+**Current whole-item review:** [Asset packages and their parts](asset-batch-review-2026-09-10.md). Review a complete building/scene as one item. Its unflagged parts are included in overall approval; no separate wall or flower decisions. The Studio is not yet assembled or accepted.
+
 This is a linked register within the canonical Blueprint. Current direction is in data/style-guide.json → currentDirection; the old style synthesis and selected assets remain intact as history.
 
 ## Current approval

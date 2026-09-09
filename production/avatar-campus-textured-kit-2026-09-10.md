@@ -1,5 +1,7 @@
 # Avatar Campus — textured modular kit
 
+**Current whole-item review:** [Asset packages and their parts](asset-batch-review-2026-09-10.md). Review a complete building/scene as one item. Its unflagged parts are included in overall approval; no separate wall or flower decisions. The Studio is not yet assembled or accepted.
+
 CE-CHANGE-20260910-23 / CE-ENV-KIT-01. Tania authorised “yes good textured kit production please” on 10 September 2026. Stage 2 is built as a review candidate; appearance acceptance remains Tania's. No live game was changed.
 
 [Explore the isolated 3D workbench](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/index.html) · [Download 14 modules and textures](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/campus-kit-v0.1.zip) · [Measured manifest](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json) · [Export checks](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/validation.json)
@@ -55,7 +57,7 @@ Every GLB was reimported into Blender 5.2.1; dimensions match within 0.2mm, ever
 
 Current Start Here/action, roadmap, world/building and look-and-feel placements link the kit; visual register and exact output hashes, material record 23, workflow checklist, handoff, README and AGENTS are updated. The 17 protected V2 decisions, four production approvals, curriculum, experience mappings and proposed learning pilot remain unchanged. New kit evidence is separate from the six original concept/built references. Existing session protocols and Definition of Done remain in force.
 
-Next: review this concrete material/part family with Tania; resolve any appearance changes, then build the complete Avatar Studio as Stage 3. Only after that assemble gardens/path/plaza as the precinct stage and carry out matched camera, interaction/collision and school-device checks. Production backlog and playable learning slice remain downstream; no whole-world pass or classroom acceptance is implied.
+Next: review exact asset versions in [batches of up to 10](asset-batch-review-2026-09-10.md), with individual approvals, changes or holds. Any full Studio assembly requires a separate next-step instruction. No Studio construction, live game deployment or classroom acceptance is implied.
 
 Publication: the candidate kit is independently verified live. All 174 files match the guarded manifest; full local/live reader smoke and targeted desktop/mobile gallery/workbench checks pass. 57 Blueprint tests, TypeScript, focused lint, normal and Pages builds passed. Remote CI activation remains outside required scope.
 
