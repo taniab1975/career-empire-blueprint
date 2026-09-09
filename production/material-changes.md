@@ -386,7 +386,7 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** Stage-one environment layout, source reconciliation and review evidence
 - **source:** Tania, 10 September 2026: after Blueprint publication, move to step 2. Approved campus/pavilion direction and staged sequence retained.
 - **owner:** Environment integrator; Tania accepts layout and appearance
-- **status:** Stage one underway; measured-source comparison and candidate layout
+- **status:** Stage one underway; dimensioned study published and integrated
 - **rationale:** Existing design sketch and runtime disagree on Studio position. Reconcile measured prototype, approach/collision and camera before any textured kit or whole precinct build.
 - **dependencies:** CE-CHANGE-20260910-21 / CE-CHANGE-20260909-05
 - **evidence:** /production/avatar-precinct-layout-stage1-2026-09-10.md / /production/v212-release-receipt-2026-09-10.md
@@ -394,8 +394,8 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **supersededRecord:** None
 - **designApproval:** Campus visual direction and stepped production authorised; candidate dimensions are proposals, not accepted layout.
 - **implementation:** Measured existing GLB vertices and runtime transforms; created dimensioned SVG and JSON candidate, reconciled Studio centre, fountain-start conflict and plaza-bound overrun; added the visible world-section link.
-- **deployment:** No game runtime or new precinct deployed.
-- **testing:** Source measurements and analytic route/trigger checks complete. Candidate reader review pending; runtime/camera/prop collision and school-device checks are still ahead.
+- **deployment:** Study, diagram and JSON verified live from source 7f21484d36a1d1b9d02a52809227bb8f25a35f3b / public f9b25550bfc3e2f69d2261570494397a5c6ea506. No game runtime or new precinct deployed.
+- **testing:** Measured GLB/route/trigger checks and 57 Blueprint tests pass; TypeScript, focused lint and builds pass. All 135 live file hashes match; actual study link/document/diagram checked at 1280/390px. Camera/collision gameplay and school-device review remain ahead.
 - **taniaAcceptance:** No stage-one candidate acceptance inferred.
 
 ## Retained Atlas principles

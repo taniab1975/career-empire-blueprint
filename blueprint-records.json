@@ -1277,7 +1277,7 @@
           "domain": "Stage-one environment layout, source reconciliation and review evidence",
           "source": "Tania, 10 September 2026: after Blueprint publication, move to step 2. Approved campus/pavilion direction and staged sequence retained.",
           "owner": "Environment integrator; Tania accepts layout and appearance",
-          "status": "Stage one underway; measured-source comparison and candidate layout",
+          "status": "Stage one underway; dimensioned study published and integrated",
           "rationale": "Existing design sketch and runtime disagree on Studio position. Reconcile measured prototype, approach/collision and camera before any textured kit or whole precinct build.",
           "dependencies": [
             "CE-CHANGE-20260910-21",
@@ -1291,8 +1291,8 @@
           "supersededRecord": null,
           "designApproval": "Campus visual direction and stepped production authorised; candidate dimensions are proposals, not accepted layout.",
           "implementation": "Measured existing GLB vertices and runtime transforms; created dimensioned SVG and JSON candidate, reconciled Studio centre, fountain-start conflict and plaza-bound overrun; added the visible world-section link.",
-          "deployment": "No game runtime or new precinct deployed.",
-          "testing": "Source measurements and analytic route/trigger checks complete. Candidate reader review pending; runtime/camera/prop collision and school-device checks are still ahead.",
+          "deployment": "Study, diagram and JSON verified live from source 7f21484d36a1d1b9d02a52809227bb8f25a35f3b / public f9b25550bfc3e2f69d2261570494397a5c6ea506. No game runtime or new precinct deployed.",
+          "testing": "Measured GLB/route/trigger checks and 57 Blueprint tests pass; TypeScript, focused lint and builds pass. All 135 live file hashes match; actual study link/document/diagram checked at 1280/390px. Camera/collision gameplay and school-device review remain ahead.",
           "taniaAcceptance": "No stage-one candidate acceptance inferred."
         }
       ],
@@ -4301,8 +4301,8 @@
         "CE-CHANGE-20260910-21",
         "CE-CHANGE-20260910-22"
       ],
-      "scope": "V2.12 publication close-out and stage-one dimensioned layout evidence; this publishes the study, not a finished precinct or live game change.",
-      "disclosure": "Stage-one layout is a review candidate. Workbench camera/collision and level-transition checks precede the textured kit. Remote CI is outside required scope; blazer remains paused.",
+      "scope": "Verified V2.12 publication close-out and published stage-one dimensioned study. Precinct production remains at the layout-review stage.",
+      "disclosure": "The stage-one study is published; workbench camera/collision/level review remains before kit production. Remote CI is outside required scope and blazer remains paused.",
       "requiredReviewFiles": [
         "app/globals.css",
         "docs/production/reader-release-receipt-2026-09-10.md",
@@ -4379,7 +4379,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "75559d8eb74d95ebd446bc8ace8a8343804e521e6a14a07bc5ca3bcc1a6aebe0"
+          "sha256": "5368e4156625440c957285c53d0a485d8dbf92a05b9ce7c1a97223c4a80eadae"
         },
         {
           "path": "data/style-guide.json",
@@ -4431,7 +4431,7 @@
         },
         {
           "path": "docs/production/v212-release-receipt-2026-09-10.md",
-          "sha256": "d4c13ddec45371d7379beeeadddedca27a8a3755ce79a251ff8e402843a3730f"
+          "sha256": "a81525965f168f4d2d41f07c78d0d2ee9e3e3b16e3b657000666a50f478f6c98"
         },
         {
           "path": "docs/production/visual-evidence-manifest.json",
@@ -6072,13 +6072,13 @@
           "building",
           "visual"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Existing design sketch and runtime disagree on Studio position. Reconcile measured prototype, approach/collision and camera before any textured kit or whole precinct build.",
         "before": "Earlier sketch at (-15,7) and runtime Studio at (-17,5); dimensional and approach review unfinished.",
         "after": "Measured source facts and proposed dimensions distinguished in one stage-one candidate with matched camera plan; no kit or game deployment.",
         "source": "Tania, 10 September 2026: after Blueprint publication, move to step 2. Approved campus/pavilion direction and staged sequence retained.",
         "owner": "Blueprint maintainer and environment integrator",
-        "nextAction": "Publish the stage-one study and verify its live diagram/link; then perform isolated camera/approach review before the textured kit.",
+        "nextAction": "The stage-one study is published and integrated. Continue isolated camera, approach, collision and level-transition review before textured kit production; this does not complete the precinct.",
         "targets": [
           {
             "surface": "start",
@@ -6192,8 +6192,8 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Publish the stage-one review document and diagram to the existing Blueprint; no game runtime publication is included.",
+            "disposition": "updated",
+            "action": "Published the dimensioned study, SVG and measured JSON to the existing Blueprint. All 135 output hashes and manifest match source 7f21484; live world-section link and documents pass desktop/mobile inspection.",
             "records": [
               "CE-CHANGE-20260910-22",
               "CE-ENV-01",
@@ -6206,11 +6206,11 @@
               "/production/avatar-precinct-layout-stage1-2026-09-10.md"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Live document, diagram and world-section link checks follow publication.",
+              "result": "passed",
+              "method": "Independent live manifest/all-file hashes plus inspected stage-one world link at 1280 and 390px; document and diagram HTTP/content checks passed.",
               "date": "2026-09-10"
             },
-            "nextAction": "Verify published study/diagram hashes and the world-section link at desktop/mobile widths."
+            "nextAction": "Maintain this published study; subsequent candidate work needs its own source and reader evidence."
           },
           {
             "surface": "visuals",

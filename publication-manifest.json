@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "7f21484d36a1d1b9d02a52809227bb8f25a35f3b",
-  "generatedAt": "2026-09-09T17:47:59.166Z",
+  "sourceCommit": "ed2bff2c35490ffbe007fbf0cd179b8ebe72c226",
+  "generatedAt": "2026-09-09T17:49:57.489Z",
   "revision": "V2.12 / 10 September 2026",
-  "recordSha256": "6e5b73a12c85745a4385c6cfbb1306a5fe177829c90657af1a328e5f349e636f",
+  "recordSha256": "c0676502dc12bbfd6e31100c409dc33bbcdd36a105f8766b58666169d5a82b1d",
   "files": [
     {
       "path": "assets/index-Cjcc2veV.js",
@@ -14,7 +14,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "6e5b73a12c85745a4385c6cfbb1306a5fe177829c90657af1a328e5f349e636f"
+      "sha256": "c0676502dc12bbfd6e31100c409dc33bbcdd36a105f8766b58666169d5a82b1d"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -354,7 +354,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "b7b8f9fc02bae8c1c998635cac1a91e68c76049ad9156a86860cd1fd406cd086"
+      "sha256": "7d7381e0423f45ce02d9990712afddc9bedfa01d99e4363d98e1a539ecc7550b"
     },
     {
       "path": "production/change-workflows.md",
@@ -362,7 +362,7 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "fc70d95620e3b8d9dfdccd4c8aee4838321f7aa7db43345496944f6bd78ed90e"
+      "sha256": "e0cb6b0714beee2a0f3dfb58ca35781c7ae7f05ac9bbbbdec524fa710f693ea1"
     },
     {
       "path": "production/current-state.md",
@@ -386,7 +386,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "9bcb44c726c5a8f0d4a52505277d4c4ad0130f6b674fcaefafdbb345c4d58f24"
+      "sha256": "36cac919c016352d2ae6e771e2b82cd1e61ace47fd8bf927987f631dc149846d"
     },
     {
       "path": "production/operating-protocol.md",
@@ -422,7 +422,7 @@
     },
     {
       "path": "production/v212-release-receipt-2026-09-10.md",
-      "sha256": "d4c13ddec45371d7379beeeadddedca27a8a3755ce79a251ff8e402843a3730f"
+      "sha256": "a81525965f168f4d2d41f07c78d0d2ee9e3e3b16e3b657000666a50f478f6c98"
     },
     {
       "path": "production/visual-register.md",

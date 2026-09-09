@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.12 publication close-out and stage-one dimensioned layout evidence; this publishes the study, not a finished precinct or live game change.
+Release scope: Verified V2.12 publication close-out and published stage-one dimensioned study. Precinct production remains at the layout-review stage.
 
-Stage-one layout is a review candidate. Workbench camera/collision and level-transition checks precede the textured kit. Remote CI is outside required scope; blazer remains paused.
+The stage-one study is published; workbench camera/collision/level review remains before kit production. Remote CI is outside required scope and blazer remains paused.
 
 ## CE-CHANGE-20260910-17 — Change-driven Blueprint update workflow
 
@@ -1283,7 +1283,7 @@ Next: Preserve this verified scope and recheck after affected edits.
 
 ## CE-CHANGE-20260910-22 — Begin Avatar Studio dimensioned layout study
 
-Integration: **ready-for-publication**. Types: building, visual. Owner: Blueprint maintainer and environment integrator.
+Integration: **complete**. Types: building, visual. Owner: Blueprint maintainer and environment integrator.
 
 **Objective:** Existing design sketch and runtime disagree on Studio position. Reconcile measured prototype, approach/collision and camera before any textured kit or whole precinct build.
 
@@ -1293,7 +1293,7 @@ Integration: **ready-for-publication**. Types: building, visual. Owner: Blueprin
 
 **Source:** Tania, 10 September 2026: after Blueprint publication, move to step 2. Approved campus/pavilion direction and staged sequence retained.
 
-**Next:** Publish the stage-one study and verify its live diagram/link; then perform isolated camera/approach review before the textured kit.
+**Next:** The stage-one study is published and integrated. Continue isolated camera, approach, collision and level-transition review before textured kit production; this does not complete the precinct.
 
 ### Start Here — updated
 
@@ -1375,21 +1375,21 @@ Verification: passed / Export generator includes the verified release receipt an
 
 Next: Recheck after further candidate or reader changes.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Publish the stage-one review document and diagram to the existing Blueprint; no game runtime publication is included.
+Published the dimensioned study, SVG and measured JSON to the existing Blueprint. All 135 output hashes and manifest match source 7f21484; live world-section link and documents pass desktop/mobile inspection.
 
 Records: CE-CHANGE-20260910-22, CE-ENV-01, CE-STUDIO-CONCEPT-01, CE-STUDIO-BUILT-01. Owner: Blueprint maintainer and environment integrator.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Live document, diagram and world-section link checks follow publication.
+Verification: passed / Independent live manifest/all-file hashes plus inspected stage-one world link at 1280 and 390px; document and diagram HTTP/content checks passed.
 
 - [Evidence](/career-empire-blueprint/production/avatar-precinct-layout-stage1-2026-09-10.md)
 
-Next: Verify published study/diagram hashes and the world-section link at desktop/mobile widths.
+Next: Maintain this published study; subsequent candidate work needs its own source and reader evidence.
 
 ### Look and feel — checked-unchanged
 
