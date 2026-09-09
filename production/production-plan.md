@@ -1,6 +1,6 @@
 # Next production work — 9 September 2026
 
-**Current checkpoint:** V2.13 textured kit candidate is built under CE-CHANGE-20260910-23; publication checks are underway. [Kit, evidence and next action](avatar-campus-textured-kit-2026-09-10.md). The isolated layout review precedes this kit. Next is kit appearance review, then full Studio assembly, then the precinct. Blazer remains paused. V2.12 remains the last verified public release until the new manifest is checked. Earlier stage-one-only statements below are historical checkpoints.
+**Current checkpoint:** V2.13 textured kit candidate is built and independently verified live under CE-CHANGE-20260910-23. [Kit, evidence and next action](avatar-campus-textured-kit-2026-09-10.md). The isolated layout review precedes this kit. Next is kit appearance review, then full Studio assembly, then the precinct. Blazer remains paused. The current live manifest identifies the exact verified source. Earlier stage-one-only statements below are historical checkpoints.
 
 **Latest instruction — 10 September 2026:** Tania authorises publication; remote CI/branch-protection activation is not required. Keep local safeguards and independently verify the live release. Then begin CE-ENV-01 at the dimensioned Avatar Studio layout stage, followed separately by kit, Studio, assembled precinct and review. The blazer stays paused. [Scope and sequence](publication-and-production-2026-09-10.md). Earlier pending-authority/remote-blocker statements below are historical checkpoints superseded by CE-CHANGE-20260910-21.
 

@@ -1537,7 +1537,7 @@ Next: Recheck after further candidate or reader changes.
 
 ## CE-CHANGE-20260910-23 — Produce the textured campus modular kit
 
-Integration: **ready-for-publication**. Types: visual, building, implementation. Owner: Blueprint maintainer and environment integrator.
+Integration: **complete**. Types: visual, building, implementation. Owner: Blueprint maintainer and environment integrator.
 
 **Objective:** Turn approved limestone, navy framing, timber fins, glass and paving into reusable dimensioned meshes/materials. Check the preceding layout in an isolated viewer before kit acceptance; preserve separate Studio and precinct stages.
 
@@ -1547,7 +1547,7 @@ Integration: **ready-for-publication**. Types: visual, building, implementation.
 
 **Source:** Tania, current task 10 September 2026: "yes good textured kit production please". Continue from the published dimensioned Studio study and approved campus/pavilion references. Discussion CE-DISCUSSION-b27fa486-fcec-45e3-b585-53c54918b048.
 
-**Next:** Publish reviewed candidate assets and reader updates, compare all live hashes and inspect desktop/mobile pages. Kit appearance acceptance remains pending before full Studio assembly.
+**Next:** Review the limestone, navy frame, timber, glazing and paving modules in the isolated workbench. Resolve kit appearance before assembling the full Avatar Studio as Stage 3; precinct landscaping and school-device review remain later. Blazer stays paused.
 
 ### Start Here — updated
 
@@ -1639,21 +1639,23 @@ Verification: passed / Regenerated canonical record, handoff, current-assets and
 
 Next: Maintain this verified scope; kit appearance acceptance remains pending.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Publish only reviewed dist-pages output; independently compare all files and inspect current kit reader and workbench.
+Published the reviewed kit candidate and current reader; independently checked 174 exact live file hashes and desktop/mobile reader/workbench.
 
 Records: CE-CHANGE-20260910-23, CE-ENV-KIT-01, CE-ENV-01, CE-STUDIO-CONCEPT-01. Owner: Blueprint maintainer and environment integrator.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Production and source/reader review pending.
+Verification: passed / Live source 007ebb2c69caa3230c707b0924e077e21ee2a9eb / public 3316eb9d56e5491b2e4f32b4f1c6d6587926119b; exact 174 file hashes, full live reader suite, targeted kit gallery and desktop/mobile GLB workbench.
 
 - [Evidence](/career-empire-blueprint/production/avatar-campus-textured-kit-2026-09-10.md)
+- [Evidence](/career-empire-blueprint/publication-manifest.json)
+- [Evidence](/career-empire-blueprint/evidence/avatar-campus-kit-20260910/kit-manifest.json)
 
-Next: Verify live manifest, file hashes, downloadable kit and desktop/mobile reader before completing integration.
+Next: Keep final metadata-manifest receipt separately; appearance review before Stage 3 Studio assembly.
 
 ### Look and feel — updated
 

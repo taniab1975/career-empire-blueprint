@@ -404,7 +404,7 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** Stage-two textured environment assets and isolated engine review
 - **source:** Tania, current task 10 September 2026: "yes good textured kit production please". Continue from the published dimensioned Studio study and approved campus/pavilion references. Discussion CE-DISCUSSION-b27fa486-fcec-45e3-b585-53c54918b048.
 - **owner:** Environment integrator; Tania accepts appearance
-- **status:** Built candidate; ready for Blueprint publication
+- **status:** Kit candidate built, published and reader integration verified; appearance review next
 - **rationale:** Turn approved limestone, navy framing, timber fins, glass and paving into reusable dimensioned meshes/materials. Check the preceding layout in an isolated viewer before kit acceptance; preserve separate Studio and precinct stages.
 - **dependencies:** CE-CHANGE-20260910-22
 - **evidence:** /production/avatar-campus-textured-kit-2026-09-10.md
@@ -412,9 +412,9 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **supersededRecord:** None
 - **designApproval:** Tania authorises textured kit production. This is not acceptance of the finished kit, Studio, precinct, wardrobe or classroom release.
 - **implementation:** Fourteen separate UV-mapped GLBs, authored stone/timber PBR textures, reused original paving, editable Blender source, manifest and isolated Three.js assembly viewer. No live game files changed.
-- **deployment:** No new kit or game release yet.
-- **testing:** 14 GLB reimports and geometry/material checks, corrected texture visual inspection,57 Blueprint tests, TypeScript, focused lint, normal build and targeted desktop/mobile reader checks pass. Full release smoke and live comparison remain publication checks.
-- **taniaAcceptance:** Production requested; appearance acceptance remains for the concrete result.
+- **deployment:** Candidate kit and workbench verified live: source 007ebb2c69caa3230c707b0924e077e21ee2a9eb / public 3316eb9d56e5491b2e4f32b4f1c6d6587926119b. No live game runtime changed.
+- **testing:** 14 GLB reimports with measured dimensions/UV/normals/glass/entry/ramp checks pass. Final textures, Blender render and local/live desktop/mobile workbench inspected. 57 Blueprint tests, TypeScript, focused lint, normal and guarded Pages builds, full local/live browser suites and all 174 public file hashes pass.
+- **taniaAcceptance:** Production authorised; concrete kit appearance acceptance remains pending. Full Studio and precinct are separate later stages.
 
 ## Retained Atlas principles
 

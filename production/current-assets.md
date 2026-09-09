@@ -70,7 +70,6 @@ Limits: A still does not prove every animation or deformation passes. The paused
 Next: Retain evidence with the matching model; future motion acceptance requires supported clips and complete-body checks.
 Source: Inspect blazer-only GLB asset task, studio-jacket-walking.png; shared-skeleton synthetic walking test, not the incompatible independent Tripo clip.
 SHA-256: 63103349fda80bd82c3955c2b3beec5b36bd245e52390b2a15b6a6311271d473
-Open integration CE-CHANGE-20260910-23: Turn approved limestone, navy framing, timber fins, glass and paving into reusable dimensioned meshes/materials. Check the preceding layout in an isolated viewer before kit acceptance; preserve separate Studio and precinct stages. Next: Publish reviewed candidate assets and reader updates, compare all live hashes and inspect desktop/mobile pages. Kit appearance acceptance remains pending before full Studio assembly.
 
 ## Retained earlier reference family and prompt pack — historical, not a replacement for the current direction
 

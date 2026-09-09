@@ -57,4 +57,6 @@ Current Start Here/action, roadmap, world/building and look-and-feel placements 
 
 Next: review this concrete material/part family with Tania; resolve any appearance changes, then build the complete Avatar Studio as Stage 3. Only after that assemble gardens/path/plaza as the precinct stage and carry out matched camera, interaction/collision and school-device checks. Production backlog and playable learning slice remain downstream; no whole-world pass or classroom acceptance is implied.
 
-Publication: V2.13 candidate assets and reader updates are undergoing the existing local release checks. V2.12 is the last verified release until the live manifest and exact files are independently compared. Remote CI activation remains outside required scope.
+Publication: the candidate kit is independently verified live. All 174 files match the guarded manifest; full local/live reader smoke and targeted desktop/mobile gallery/workbench checks pass. 57 Blueprint tests, TypeScript, focused lint, normal and Pages builds passed. Remote CI activation remains outside required scope.
+
+First verified kit source: `007ebb2c69caa3230c707b0924e077e21ee2a9eb`; public delivery: `3316eb9d56e5491b2e4f32b4f1c6d6587926119b`; record SHA-256: `88d06b19e3666067208d99cb74c948140719c34b8c2b4b223cedc4fa9b10a880`. The final metadata close-out has its own public manifest and a separate private verification receipt, avoiding self-referential hashes. Documentation integration is complete; kit appearance acceptance is not inferred.

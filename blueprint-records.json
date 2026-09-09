@@ -28,7 +28,7 @@
       "id": "V2.13",
       "date": "2026-09-10",
       "label": "V2.13 / 10 September 2026",
-      "status": "Textured modular kit candidate built; publication checks underway",
+      "status": "V2.13 textured kit candidate published and verified; appearance review next",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -189,7 +189,7 @@
     "currentStep": {
       "id": "CE-ENV-01",
       "title": "Stage 2: review the textured campus kit",
-      "status": "Built candidate — geometry and visual review",
+      "status": "Built and published candidate — appearance review next",
       "owner": "Environment integrator; Tania: appearance and placement acceptance",
       "href": "#world",
       "actionLabel": "Inspect the textured kit and production evidence",
@@ -498,12 +498,12 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "V2.12 publication is verified. V2.13 adds the separately authorised textured campus kit: 14 reusable modules and a small join specimen, following the isolated dimensioned-layout review. Review the kit appearance before full Studio assembly, then the precinct. Remote CI is outside required scope; blazer remains paused; classroom and finished-precinct acceptance remain separate.",
+      "summary": "V2.13 publication is verified. It adds the separately authorised textured campus kit: 14 reusable modules and a small join specimen, following the isolated dimensioned-layout review. Review the kit appearance before full Studio assembly, then the precinct. Remote CI is outside required scope; blazer remains paused; classroom and finished-precinct acceptance remain separate.",
       "facts": [
         {
           "label": "STAGE 2 / TEXTURED KIT CANDIDATE",
           "title": "One canonical source; publication is a dated copy",
-          "detail": "The dimensioned approach has been checked in isolated cameras A–D. Fourteen textured modules and a facade join sample are built for review. Publication verification is pending; no live game change is claimed.",
+          "detail": "The dimensioned approach has been checked in isolated cameras A–D. Fourteen textured modules and a facade join sample are built for review. Kit publication and exact live files are verified; no live game change is claimed.",
           "href": "/production/avatar-campus-textured-kit-2026-09-10.md"
         },
         {
@@ -682,15 +682,15 @@
       "publication": {
         "sourceRevision": "V2.13 / textured campus kit candidate",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.12 / GitHub Pages",
+        "observedLiveRevision": "V2.13 / GitHub Pages",
         "checkedAt": "2026-09-10",
-        "observedLiveSha256": "a82f87fe8c34dfe5e956dc6d44db2d8631d22f61aab4ca59391eea8f76be7dfe",
+        "observedLiveSha256": "88d06b19e3666067208d99cb74c948140719c34b8c2b4b223cedc4fa9b10a880",
         "accessCheck": "GitHub delivery repository PUBLIC and Pages built successfully; source mirror PRIVATE. Existing Sites project still returns HTTP 404 NOT_FOUND / project_not_found.",
-        "validationReceipt": "/production/v212-release-receipt-2026-09-10.md",
-        "status": "V2.13 kit publication checks underway; V2.12 is the last independently verified live release",
+        "validationReceipt": "/production/avatar-campus-textured-kit-2026-09-10.md",
+        "status": "V2.13 kit candidate publication independently verified; appearance acceptance remains pending",
         "savedVersionId": null,
-        "deploymentId": "GitHub Pages / e92327d / independently verified 10 September 2026",
-        "parity": "Exact manifest and all 131 public file hashes verified with full local/live desktop/mobile browser checks",
+        "deploymentId": "GitHub Pages / 3316eb9d56e5491b2e4f32b4f1c6d6587926119b / verified 10 September 2026",
+        "parity": "Exact manifest and all 174 public file hashes verified; full live reader suite, targeted kit placements and desktop/mobile 3D workbench checked.",
         "resume": "Use the private canonical source and existing recovery branch; publish only validated generated output to the existing Pages repository. Read the current manifest/receipt, preserve newer history, and log material work. Legacy redirect waits for the owning Sites account.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
@@ -700,8 +700,8 @@
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
         },
-        "observedPublicCommit": "e92327d9c9ec5d20db79a99a648bdfd875a42bb1",
-        "hashScope": "First verified V2.12 release; later metadata close-out has its own live manifest.",
+        "observedPublicCommit": "3316eb9d56e5491b2e4f32b4f1c6d6587926119b",
+        "hashScope": "First verified V2.13 kit release from 007ebb2c69caa3230c707b0924e077e21ee2a9eb; final metadata close-out has its own live manifest.",
         "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
@@ -1306,7 +1306,7 @@
           "domain": "Stage-two textured environment assets and isolated engine review",
           "source": "Tania, current task 10 September 2026: \"yes good textured kit production please\". Continue from the published dimensioned Studio study and approved campus/pavilion references. Discussion CE-DISCUSSION-b27fa486-fcec-45e3-b585-53c54918b048.",
           "owner": "Environment integrator; Tania accepts appearance",
-          "status": "Built candidate; ready for Blueprint publication",
+          "status": "Kit candidate built, published and reader integration verified; appearance review next",
           "rationale": "Turn approved limestone, navy framing, timber fins, glass and paving into reusable dimensioned meshes/materials. Check the preceding layout in an isolated viewer before kit acceptance; preserve separate Studio and precinct stages.",
           "dependencies": [
             "CE-CHANGE-20260910-22"
@@ -1318,9 +1318,9 @@
           "supersededRecord": null,
           "designApproval": "Tania authorises textured kit production. This is not acceptance of the finished kit, Studio, precinct, wardrobe or classroom release.",
           "implementation": "Fourteen separate UV-mapped GLBs, authored stone/timber PBR textures, reused original paving, editable Blender source, manifest and isolated Three.js assembly viewer. No live game files changed.",
-          "deployment": "No new kit or game release yet.",
-          "testing": "14 GLB reimports and geometry/material checks, corrected texture visual inspection,57 Blueprint tests, TypeScript, focused lint, normal build and targeted desktop/mobile reader checks pass. Full release smoke and live comparison remain publication checks.",
-          "taniaAcceptance": "Production requested; appearance acceptance remains for the concrete result."
+          "deployment": "Candidate kit and workbench verified live: source 007ebb2c69caa3230c707b0924e077e21ee2a9eb / public 3316eb9d56e5491b2e4f32b4f1c6d6587926119b. No live game runtime changed.",
+          "testing": "14 GLB reimports with measured dimensions/UV/normals/glass/entry/ramp checks pass. Final textures, Blender render and local/live desktop/mobile workbench inspected. 57 Blueprint tests, TypeScript, focused lint, normal and guarded Pages builds, full local/live browser suites and all 174 public file hashes pass.",
+          "taniaAcceptance": "Production authorised; concrete kit appearance acceptance remains pending. Full Studio and precinct are separate later stages."
         }
       ],
       "sessionStart": [
@@ -4377,11 +4377,11 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "4d13ec7e7689d950fc8ef927ed01717fabb6eb429c8cc88e5a734d140e2bd977"
+          "sha256": "1ca68a92bbeb7f35ddafbae722cf89e8e01ce9cadcb3680cc850a8179fa36dbd"
         },
         {
           "path": "README.md",
-          "sha256": "4f6535a8d6d5c82281816d0092c14324baca0c6a9a4e6059482194b5ec254ac4"
+          "sha256": "39e92d2285e66805433343f5dec4c3eb8c8b2fb3d95282fe4a7e3db33c70cd8e"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -4425,7 +4425,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "498be7544a683e2e1561c35a136a29980abef624075177d92ae4674b054bf08b"
+          "sha256": "6a5e27941911194e502dcecd83bec3c7dbae16e996e1610a9fa686304dfe58b4"
         },
         {
           "path": "data/style-guide.json",
@@ -4433,11 +4433,11 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "834ef8801abc673c44f33051aecc635c0eed9b530e258c8011dea65623b5c8dd"
+          "sha256": "96e3d4b0c8b0570a132ab56081c79804ff14366789905a3e939d9cc30aedb3b3"
         },
         {
           "path": "docs/production/avatar-campus-textured-kit-2026-09-10.md",
-          "sha256": "ca4237f1410ef7f23e0fd05f5c93fd6199c73d949544d294d5e034de90763cf5"
+          "sha256": "c8c91bd1a5ba49eb9f2967d08fef78b6e75f49a47f95b49d2eafee675c793be2"
         },
         {
           "path": "docs/production/avatar-precinct-layout-stage1-2026-09-10.md",
@@ -4449,7 +4449,7 @@
         },
         {
           "path": "docs/production/current-state.md",
-          "sha256": "c8d266ad261465672726d58d085404f741d7542218de0a78382b1e88c063d0fc"
+          "sha256": "d28171872e312f937d82ddebbe9657d7d07356c27eca0275eaffc2dd5028b70f"
         },
         {
           "path": "docs/production/operating-protocol.md",
@@ -4457,7 +4457,7 @@
         },
         {
           "path": "docs/production/production-plan.md",
-          "sha256": "8466483a87f29999159931e301b9da2f766a52c7d6a4761a634f3ebb007a4a2c"
+          "sha256": "00e46791d5b019f61801d44d6907931961530dd4d52b27571c39d133ce83bce0"
         },
         {
           "path": "docs/production/project-automation-setup-2026-09-10.md",
@@ -4489,7 +4489,7 @@
         },
         {
           "path": "docs/production/visual-register.md",
-          "sha256": "3247f5375a2f1d785cdea2bf942231f300e43b9327ccf35184aa16f005c37059"
+          "sha256": "2615390a69bffc8fd91e395693f11babaa3fb86186a29588f9499ae859f22650"
         },
         {
           "path": "package.json",
@@ -4541,7 +4541,7 @@
         },
         {
           "path": "tests/project-guard.test.mjs",
-          "sha256": "62ddc53b062057581cf9e594238e4560e36692d14a0bd787790ae7d413f37850"
+          "sha256": "403b7b90471efe3368f3d42b77f9cc4fe4b0185809fb3e1b7cf331f4ac6fe5c2"
         },
         {
           "path": "tests/reader-currency.test.mjs",
@@ -6490,13 +6490,13 @@
           "building",
           "implementation"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Turn approved limestone, navy framing, timber fins, glass and paving into reusable dimensioned meshes/materials. Check the preceding layout in an isolated viewer before kit acceptance; preserve separate Studio and precinct stages.",
         "before": "Dimensioned candidate published; actual textured modular kit and engine camera review remain unfinished.",
         "after": "Reusable textured modules, measured manifest and export/reimport proof, with visible kit images and a separate browser workbench. Finished precinct remains later.",
         "source": "Tania, current task 10 September 2026: \"yes good textured kit production please\". Continue from the published dimensioned Studio study and approved campus/pavilion references. Discussion CE-DISCUSSION-b27fa486-fcec-45e3-b585-53c54918b048.",
         "owner": "Blueprint maintainer and environment integrator",
-        "nextAction": "Publish reviewed candidate assets and reader updates, compare all live hashes and inspect desktop/mobile pages. Kit appearance acceptance remains pending before full Studio assembly.",
+        "nextAction": "Review the limestone, navy frame, timber, glazing and paving modules in the isolated workbench. Resolve kit appearance before assembling the full Avatar Studio as Stage 3; precinct landscaping and school-device review remain later. Blazer stays paused.",
         "targets": [
           {
             "surface": "start",
@@ -6620,8 +6620,8 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Publish only reviewed dist-pages output; independently compare all files and inspect current kit reader and workbench.",
+            "disposition": "updated",
+            "action": "Published the reviewed kit candidate and current reader; independently checked 174 exact live file hashes and desktop/mobile reader/workbench.",
             "records": [
               "CE-CHANGE-20260910-23",
               "CE-ENV-KIT-01",
@@ -6631,14 +6631,16 @@
             "owner": "Blueprint maintainer and environment integrator",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "evidence": [
-              "/production/avatar-campus-textured-kit-2026-09-10.md"
+              "/production/avatar-campus-textured-kit-2026-09-10.md",
+              "/publication-manifest.json",
+              "/evidence/avatar-campus-kit-20260910/kit-manifest.json"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Production and source/reader review pending.",
+              "result": "passed",
+              "method": "Live source 007ebb2c69caa3230c707b0924e077e21ee2a9eb / public 3316eb9d56e5491b2e4f32b4f1c6d6587926119b; exact 174 file hashes, full live reader suite, targeted kit gallery and desktop/mobile GLB workbench.",
               "date": "2026-09-10"
             },
-            "nextAction": "Verify live manifest, file hashes, downloadable kit and desktop/mobile reader before completing integration."
+            "nextAction": "Keep final metadata-manifest receipt separately; appearance review before Stage 3 Studio assembly."
           },
           {
             "surface": "visuals",

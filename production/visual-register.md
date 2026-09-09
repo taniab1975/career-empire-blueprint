@@ -68,6 +68,6 @@ These first-deployment screenshots retain the pending-verification wording serve
 [Stage-one study](avatar-precinct-layout-stage1-2026-09-10.md) records the source hashes, measured model envelope, corrected plaza pickup, proposed levels and camera coordinates. Candidate only; no new kit or live game deployment. It preserves the six approved/built reference records and the paused blazer. Review in the isolated workbench before the textured kit.
 
 
-## CE-ENV-KIT-01 — textured modular kit candidate,10 September2026
+## CE-ENV-KIT-01 — textured modular kit candidate, 10 September 2026
 
 Fourteen separate GLBs, packed editable Blender source, authored stone/timber maps and unchanged original paving. [Actual render, dimensions, source and review](avatar-campus-textured-kit-2026-09-10.md). Export/reimport and final material/browser inspection passed; Tania appearance acceptance pending. No completed Studio/precinct or live game change. Six original reference records and blazer pause preserved.
