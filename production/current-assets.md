@@ -75,12 +75,11 @@ SHA-256: 63103349fda80bd82c3955c2b3beec5b36bd245e52390b2a15b6a6311271d473
 ### CE-AVATAR-BUILT-03 — School student — approved original appearance and elbow repair
 ![School student — approved original appearance and elbow repair](https://taniab1975.github.io/career-empire-blueprint/evidence/avatar-polish-20260910/front.png)
 built / 2026-09-10
-Actual playable Studio capture. The intact supplied Schoolboy export restores clear hair/face and natural skin/navy/white materials; two forearm twist tracks are repaired. Tania approved this result and requested live publication.
-Limits: This capture is the tested local result. Game deployment is pending independent live verification; the paused jacket-test and modular wardrobe remain separate.
-Next: Publish only the approved avatar change on the current live game, then verify the live mesh, walking and save/return.
+Approved playable Studio capture. The intact supplied Schoolboy export restores clear hair/face and natural skin/navy/white materials; two forearm twist tracks are repaired. Tania approved this result and the same asset is now independently verified in the live game.
+Limits: This image is the approved local capture; the identical repaired asset is verified live at 78c6278. The paused jacket-test and modular wardrobe remain separate.
+Next: Play the live game: Avatar Studio → School student; use walking, turn and portrait controls. Continue the existing environment plan.
 Source: Update Avatar Appearance continuation, Tania: “Yey he is much better! Please go ahead and update to live”. CE-CHANGE-20260910-35; player-schoolboy-repaired-20260910.glb.
 SHA-256: 6f393115b27899b90c4ee2b73d1f3c8feff1aa00a052ef0c96854770937fb9d0
-Open integration CE-CHANGE-20260910-35: Improve existing playable avatar and natural elbow deformation. Next: Finish canonical reader verification and publish its source review; then publish and verify approved game release.
 Open integration CE-CHANGE-20260910-34: Create the authorised model candidates for grouped review Next: Retain approved geometry; confirm bounded integration scope. Public reader release remains pending.
 Open integration CE-CHANGE-20260910-33: Agree environmental language before asset selection Next: Obtain specification agreement; complete affected reader verification before any release
 

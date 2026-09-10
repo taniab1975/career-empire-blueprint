@@ -8,17 +8,17 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** Avatar runtime
 - **source:** Tania, 10 September 2026: update the actual in-game school-uniform avatar using both supplied references; preserve identity, proportions and rig, repair elbows, verify movement and record evidence in the canonical Blueprint. Tania then approved the playable result: “Yey he is much better! Please go ahead and update to live”.
 - **owner:** Game and Blueprint maintainer
-- **status:** Appearance approved; live publication authorised
+- **status:** Approved avatar published and independently verified
 - **rationale:** Explicit bounded avatar repair alongside environment milestone; not a wardrobe redesign.
 - **dependencies:** CE-PLAN-01
 - **supersededRecord:** None
 - **designApproval:** Tania explicitly approved this exact locally tested avatar result on 10 September 2026.
 - **implementation:** Intact user-supplied model with only two forearm rotation tracks corrected; original materials restored.
-- **deployment:** Live publication authorised; independent verification pending.
-- **testing:** Front, side, rear walking, portrait, movement, save/reload, binary preservation, project check and six unit tests passed.
+- **deployment:** Live game 78c6278ec75b53b8a312752f939dc4862a84e017; all seven runtime/asset hashes matched.
+- **testing:** Six unit tests and all 30 browser tests pass (initial plus serial retry); live Studio appearance/walking, save-return, reload and mobile layout verified. Blueprint 72 tests pass.
 - **taniaAcceptance:** Appearance approved; publish requested.
 - **evidence:** docs/production/avatar-polish-20260910.md
-- **nextAction:** Publish approved avatar-only release on live game; independently verify deployment.
+- **nextAction:** Continue existing environment plan; retain approved schoolboy and paused separate wardrobe work.
 
 ## CE-CHANGE-20260910-34 — Landscape batch: nine model groups for collective review
 

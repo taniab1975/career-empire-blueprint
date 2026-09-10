@@ -4,7 +4,7 @@ Generated from data/change-integrations.json; edit the canonical record, not thi
 
 Release scope: Approved school-avatar repair and exact-source release review; existing landscape records retained without game integration.
 
-School-avatar appearance and publication approved; game deployment pending live verification. Landscape appearance approval is separate from runtime integration; old unfinished intake retained.
+Approved school avatar is live and independently verified. Landscape appearance approval remains separate from runtime integration; older unfinished intake is retained.
 
 ## CE-CHANGE-20260910-35 — Playable school avatar polish and elbow repair
 

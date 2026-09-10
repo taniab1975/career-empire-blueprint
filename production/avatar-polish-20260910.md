@@ -12,4 +12,4 @@ Local front/side/rear walking, portrait, town movement and Save & return/reload 
 
 Test at https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ → Avatar Studio → School student. The walking, portrait and turn controls exercise the repaired model.
 
-Current state: appearance approved and release authorised; independent game publication checks pending.
+Current state: approved and published at 78c6278ec75b53b8a312752f939dc4862a84e017. Seven live runtime/asset hashes match; live appearance, walking, save/reload and mobile checks passed.
