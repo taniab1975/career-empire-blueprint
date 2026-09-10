@@ -1,20 +1,20 @@
 {
-  "sourceCommit": "fe85ce5e992e1c9842eed31c16aad7daecded1d1",
-  "generatedAt": "2026-09-10T04:47:07.475Z",
-  "revision": "V2.19 / 10 September 2026",
-  "recordSha256": "f96af4dbea5ab4de219fda72e4f22372f3d5623f9cbd2eefdf7bfbc4367f3dad",
+  "sourceCommit": "7731b8771bf704b99a0eeabedb2c2951c349c37c",
+  "generatedAt": "2026-09-10T05:53:20.060Z",
+  "revision": "V2.20 / 10 September 2026",
+  "recordSha256": "9992b6b506405989e8aa86f73a60bc40ae5e5e1287ad576dd5b3afa0bb1c799f",
   "files": [
-    {
-      "path": "assets/index-BDPVo6nh.js",
-      "sha256": "7eb9d34181754947e906c8ac6468f5cacc9ba2864ed36d3cffed5339bcc9a44a"
-    },
     {
       "path": "assets/index-Bmky4qoT.css",
       "sha256": "3aab1a01ab929d16585fc05500dfa56992ec27573714c40b5a160bf4911458dd"
     },
     {
+      "path": "assets/index-CSxPQRFC.js",
+      "sha256": "81997801ab717a80ef63d5cea6cf6d63d79fb1de6b31a8007c08f22c619e4e0d"
+    },
+    {
       "path": "blueprint-records.json",
-      "sha256": "f96af4dbea5ab4de219fda72e4f22372f3d5623f9cbd2eefdf7bfbc4367f3dad"
+      "sha256": "9992b6b506405989e8aa86f73a60bc40ae5e5e1287ad576dd5b3afa0bb1c799f"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -114,7 +114,7 @@
     },
     {
       "path": "evidence/asset-review-20260910/register.json",
-      "sha256": "2b8966c4d581142063a9a8fe3c8eeffa9463d682dee382219646a426bce54500"
+      "sha256": "44404d0162f368fd301727bc1e897acaa16eb737eeca1ca795a152b9fd093caa"
     },
     {
       "path": "evidence/asset-review-20260910/review.js",
@@ -279,6 +279,22 @@
     {
       "path": "evidence/avatar-campus-kit-20260910/workbench.js",
       "sha256": "b9a6c6fa23589729a9175c8d95fe9c38a0c12aa787363465b78389c554a9095d"
+    },
+    {
+      "path": "evidence/avatar-polish-20260910/front.png",
+      "sha256": "6f393115b27899b90c4ee2b73d1f3c8feff1aa00a052ef0c96854770937fb9d0"
+    },
+    {
+      "path": "evidence/avatar-polish-20260910/portrait.png",
+      "sha256": "6c9d67048cc5bd48a676b839da1f6dca62be7bab2eab60aef2787ef25b220df0"
+    },
+    {
+      "path": "evidence/avatar-polish-20260910/rear-walk.png",
+      "sha256": "6f8181a100abd1151abb954c273fc326a29e35d9dfc5e02543084c84a2ee71d9"
+    },
+    {
+      "path": "evidence/avatar-polish-20260910/side-walk.png",
+      "sha256": "51962ae1b2197dd8b418563433f80765dec33ccfd6c6483770354508774cf50d"
     },
     {
       "path": "evidence/avatar-precinct-stage1-20260910/dimensioned-approach.svg",
@@ -698,7 +714,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "dae97922f4d8b3a5452150815b85e995685422300107fd1820c6d137f3bdd0c5"
+      "sha256": "29e9db166c108408570b538303cc923f24ace2dfc5ae8cb8e5c6f7c969307e4d"
     },
     {
       "path": "playable-3d/app.js",
@@ -897,6 +913,10 @@
       "sha256": "0058dfee17d8f49dc65ccb6d13cf6fce7b68a57c002de436f1bb405a8dc1d93d"
     },
     {
+      "path": "production/avatar-polish-20260910.md",
+      "sha256": "4b451a902f05ef76c9e4ff136725c658e2cc2602890923119134e1799eb837d4"
+    },
+    {
       "path": "production/avatar-precinct-layout-stage1-2026-09-10.md",
       "sha256": "6842fd75cb97b390eb552b117737a85074c22c2cb664cf01558b6afb601f1f09"
     },
@@ -906,7 +926,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "388c0c300c9bb0bb47c4538577cc7cf1f24489329aa36cfe187e63fb9426634a"
+      "sha256": "cb51d34d0502e2b0495f1404a1e318f0d2d34a24367dcb5b7930124d377b8dcc"
     },
     {
       "path": "production/change-workflows.md",
@@ -918,7 +938,7 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "768f645683412ed52313bd428604da50c2167af03ca96a110d4f65b37da315e8"
+      "sha256": "8eaeda0477a1624bda538fcd6810f91c41e497cfd4743556140a78ce5d2290ce"
     },
     {
       "path": "production/current-state.md",
@@ -950,7 +970,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "31550ce99e1d3011bbee25b0466f961eae70b40a761cdb5924f33df3456ea9cb"
+      "sha256": "16a410ef227f9988949f521299d7e9b8852c016cb42ddad79acfce495efed874"
     },
     {
       "path": "production/operating-protocol.md",

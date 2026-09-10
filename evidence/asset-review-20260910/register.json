@@ -31,7 +31,7 @@
     {
       "id": "CE-KIT-001",
       "number": 1,
-      "name": "Limestone wall — 2 m",
+      "name": "Limestone wall \u2014 2 m",
       "family": "Campus modular kit",
       "moduleId": "wall-2m",
       "version": "0.1.0",
@@ -57,7 +57,7 @@
     {
       "id": "CE-KIT-002",
       "number": 2,
-      "name": "Limestone wall — 1 m",
+      "name": "Limestone wall \u2014 1 m",
       "family": "Campus modular kit",
       "moduleId": "wall-1m",
       "version": "0.1.0",
@@ -1788,7 +1788,7 @@
       "assembly": null,
       "preview": "/evidence/avatar-campus-kit-20260910/kit-overview.png",
       "previewSha256": "53f9d669eb5fe7f3d20f2c62bc23f4285c1fe144ffb2c2159d1bde56e2589d62",
-      "previewKind": "Component kit overview — not the assembled building",
+      "previewKind": "Component kit overview \u2014 not the assembled building",
       "components": [
         {
           "assetId": "CE-KIT-001",
@@ -1880,6 +1880,646 @@
         "scope": "Whole Avatar Studio item revision with its listed parts",
         "history": []
       }
+    }
+  ],
+  "localCandidateBatches": [
+    {
+      "id": "CE-LANDSCAPE-BATCH-01",
+      "revision": 1,
+      "changeId": "CE-CHANGE-20260910-34",
+      "status": "appearance-approved-unpublished",
+      "documentation": "docs/production/landscape-batch-20260910.md",
+      "groups": [
+        {
+          "number": 1,
+          "name": "Mature shade trees",
+          "assemblySha256": "c6734e6add79dfc81f6bbde0a5d9a73a5d9c8a2591de74d570b8b3fd0818d4d2",
+          "previewSha256": "c342749f762ab2703c9bdb55f37e0abc1ab9987c62fc1fd89c1c41481147a725",
+          "triangles": 79828,
+          "components": [
+            {
+              "id": "mature-eucalypt-a",
+              "sha256": "7573a54bc3221a2fcf9172be4f4c409cb96594282b78bebe71dcc515fcd006f1"
+            },
+            {
+              "id": "mature-eucalypt-b",
+              "sha256": "ef6a06b660ac42971528cf8bc2fcee83b2a700f7154a350618d89a6b450f5294"
+            }
+          ],
+          "approval": {
+            "status": "approved",
+            "history": [
+              {
+                "decision": "approved",
+                "recordedAt": "2026-09-10T05:27:32.720570+00:00",
+                "approver": "Tania",
+                "source": "Yes I like all of those alot. You have my approval.",
+                "revision": 1,
+                "assemblySha256": "c6734e6add79dfc81f6bbde0a5d9a73a5d9c8a2591de74d570b8b3fd0818d4d2",
+                "scope": "Whole numbered group and included parts; no exceptions."
+              }
+            ]
+          }
+        },
+        {
+          "number": 2,
+          "name": "Small trees",
+          "assemblySha256": "6704737da5833482ae7cb60858f2ec243ca84606c0c1ef7803750a4240353efd",
+          "previewSha256": "277bb7acf11742dd99f878ad1a669c36c1c1aa451386988a03da73e9ce05d308",
+          "triangles": 67052,
+          "components": [
+            {
+              "id": "small-multistem-a",
+              "sha256": "011e673ba420f067141aa1e6ff58df90a811a06152817bb0184efae5bb636aea"
+            },
+            {
+              "id": "small-multistem-b",
+              "sha256": "364f6607b59538214e32f9ec475b5ddfe139fac923bda963c62d56166cd2d767"
+            }
+          ],
+          "approval": {
+            "status": "approved",
+            "history": [
+              {
+                "decision": "approved",
+                "recordedAt": "2026-09-10T05:27:32.720570+00:00",
+                "approver": "Tania",
+                "source": "Yes I like all of those alot. You have my approval.",
+                "revision": 1,
+                "assemblySha256": "6704737da5833482ae7cb60858f2ec243ca84606c0c1ef7803750a4240353efd",
+                "scope": "Whole numbered group and included parts; no exceptions."
+              }
+            ]
+          }
+        },
+        {
+          "number": 3,
+          "name": "Low shrubs",
+          "assemblySha256": "bf0b009030e74bd9b5c840b1457faa69ffc1674433fa33ecdadb8044206bcba2",
+          "previewSha256": "6830d99d764757451b4ef9bf741d505061dc59e89f96e89e307ef55dbe090190",
+          "triangles": 30456,
+          "components": [
+            {
+              "id": "olive-shrub",
+              "sha256": "091c05b4eac7c878fa589c37c29fe7dd41d7e975cde0920fa3d1e52378ecc9f3"
+            },
+            {
+              "id": "silver-shrub",
+              "sha256": "99e931a4c90e4550d7d685004d97863d7187eeb61688fffcafe7c396fe0054e0"
+            },
+            {
+              "id": "olive-shrub",
+              "sha256": "091c05b4eac7c878fa589c37c29fe7dd41d7e975cde0920fa3d1e52378ecc9f3"
+            }
+          ],
+          "approval": {
+            "status": "approved",
+            "history": [
+              {
+                "decision": "approved",
+                "recordedAt": "2026-09-10T05:27:32.720570+00:00",
+                "approver": "Tania",
+                "source": "Yes I like all of those alot. You have my approval.",
+                "revision": 1,
+                "assemblySha256": "bf0b009030e74bd9b5c840b1457faa69ffc1674433fa33ecdadb8044206bcba2",
+                "scope": "Whole numbered group and included parts; no exceptions."
+              }
+            ]
+          }
+        },
+        {
+          "number": 4,
+          "name": "Grasses and groundcover",
+          "assemblySha256": "b7c49ee71369228b40d97807b6f5adde661ca963ca26c4a5d1a04d49f5c9aa31",
+          "previewSha256": "c1c4e0b7a25ac11336f22d32d1019960df37f7615256b27f2b89bbd9352e5056",
+          "triangles": 2480,
+          "components": [
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "spreading-groundcover",
+              "sha256": "a000647ff53566bf7a7afd6389f9facbd6d60b83bd58bd65e203c473266199f7"
+            }
+          ],
+          "approval": {
+            "status": "approved",
+            "history": [
+              {
+                "decision": "approved",
+                "recordedAt": "2026-09-10T05:27:32.720570+00:00",
+                "approver": "Tania",
+                "source": "Yes I like all of those alot. You have my approval.",
+                "revision": 1,
+                "assemblySha256": "b7c49ee71369228b40d97807b6f5adde661ca963ca26c4a5d1a04d49f5c9aa31",
+                "scope": "Whole numbered group and included parts; no exceptions."
+              }
+            ]
+          }
+        },
+        {
+          "number": 5,
+          "name": "Flower accents",
+          "assemblySha256": "9cb169420d6307cedf7246cc082cffd553637eb1de3a7dd3b47d3539883565e8",
+          "previewSha256": "9625bb733f6262eb2e389678c8e568b3bb9303506f3d43290ced3c858b9f0102",
+          "triangles": 4604,
+          "components": [
+            {
+              "id": "yellow-flower-clump",
+              "sha256": "8655219094d14dfb1c34d25e5a2e3c3727b064a7563ebcbbb906692f292d62b7"
+            },
+            {
+              "id": "cream-flower-clump",
+              "sha256": "b8872ccec299a0b1b6aada29656ccf4a7230e3c43e1634e20f0bbd0a01969d52"
+            },
+            {
+              "id": "spreading-groundcover",
+              "sha256": "a000647ff53566bf7a7afd6389f9facbd6d60b83bd58bd65e203c473266199f7"
+            }
+          ],
+          "approval": {
+            "status": "approved",
+            "history": [
+              {
+                "decision": "approved",
+                "recordedAt": "2026-09-10T05:27:32.720570+00:00",
+                "approver": "Tania",
+                "source": "Yes I like all of those alot. You have my approval.",
+                "revision": 1,
+                "assemblySha256": "9cb169420d6307cedf7246cc082cffd553637eb1de3a7dd3b47d3539883565e8",
+                "scope": "Whole numbered group and included parts; no exceptions."
+              }
+            ]
+          }
+        },
+        {
+          "number": 6,
+          "name": "Rocks and ground",
+          "assemblySha256": "64202f675a927a2500e81041f09d99e478a517f786b8c28bc9329b5fce1fa51f",
+          "previewSha256": "7be857f2b4b6747fc5eae5c05fcb4a2eacd3f8023c5bc14e8f4ee4ac5c325049",
+          "triangles": 2424,
+          "components": [
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "gravel-patch",
+              "sha256": "302da8bb201277e0328371719e981bea18a62e42692032e39113ee49360d1138"
+            },
+            {
+              "id": "boulder-a",
+              "sha256": "70941240610426afe513e2e1ef096b6ffc9a0ff0843378fe8d346d8ca69eff00"
+            },
+            {
+              "id": "boulder-b",
+              "sha256": "0b34b8f5e49c7d0c9c8a2e0f0120916a47663b36f1c368a2a425f0318c4e0340"
+            },
+            {
+              "id": "boulder-c",
+              "sha256": "ecdaa5b9fb810d6ce10e51344279e21a675f38d12aab94b61dfb8f27d5576500"
+            }
+          ],
+          "approval": {
+            "status": "approved",
+            "history": [
+              {
+                "decision": "approved",
+                "recordedAt": "2026-09-10T05:27:32.720570+00:00",
+                "approver": "Tania",
+                "source": "Yes I like all of those alot. You have my approval.",
+                "revision": 1,
+                "assemblySha256": "64202f675a927a2500e81041f09d99e478a517f786b8c28bc9329b5fce1fa51f",
+                "scope": "Whole numbered group and included parts; no exceptions."
+              }
+            ]
+          }
+        },
+        {
+          "number": 7,
+          "name": "Bed edges and lawn",
+          "assemblySha256": "3efb96e195c319641e6329195147ff967669f7e048733cc91697c97ab370f819",
+          "previewSha256": "fc973c8a3b8f29c311dbd0017f0fa0cbfb604686ce0df139beb51043bb5f6d6b",
+          "triangles": 14608,
+          "components": [
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "limestone-edge-curve",
+              "sha256": "606ec24c58985e39b099718eefde4a88e86a80e246b41d923a4921bd05f23c9b"
+            },
+            {
+              "id": "lawn-patch",
+              "sha256": "ec8c9a820265afa9e84146acfb4eece8a19f838821c117b7aa249d08eea5ca67"
+            },
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "olive-shrub",
+              "sha256": "091c05b4eac7c878fa589c37c29fe7dd41d7e975cde0920fa3d1e52378ecc9f3"
+            }
+          ],
+          "approval": {
+            "status": "approved",
+            "history": [
+              {
+                "decision": "approved",
+                "recordedAt": "2026-09-10T05:27:32.720570+00:00",
+                "approver": "Tania",
+                "source": "Yes I like all of those alot. You have my approval.",
+                "revision": 1,
+                "assemblySha256": "3efb96e195c319641e6329195147ff967669f7e048733cc91697c97ab370f819",
+                "scope": "Whole numbered group and included parts; no exceptions."
+              }
+            ]
+          }
+        },
+        {
+          "number": 8,
+          "name": "Layered garden bed",
+          "assemblySha256": "86d4a8686cdabba5dbb7178ef5b2dd75ecdf858249e52e76a1adabf23930f1d1",
+          "previewSha256": "0e93f97e385b8e61e036b1c4f1e43d054c4f6f63936784e98dd1f5a3de9e4168",
+          "triangles": 82226,
+          "components": [
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "small-multistem-a",
+              "sha256": "011e673ba420f067141aa1e6ff58df90a811a06152817bb0184efae5bb636aea"
+            },
+            {
+              "id": "boulder-a",
+              "sha256": "70941240610426afe513e2e1ef096b6ffc9a0ff0843378fe8d346d8ca69eff00"
+            },
+            {
+              "id": "olive-shrub",
+              "sha256": "091c05b4eac7c878fa589c37c29fe7dd41d7e975cde0920fa3d1e52378ecc9f3"
+            },
+            {
+              "id": "silver-shrub",
+              "sha256": "99e931a4c90e4550d7d685004d97863d7187eeb61688fffcafe7c396fe0054e0"
+            },
+            {
+              "id": "olive-shrub",
+              "sha256": "091c05b4eac7c878fa589c37c29fe7dd41d7e975cde0920fa3d1e52378ecc9f3"
+            },
+            {
+              "id": "silver-shrub",
+              "sha256": "99e931a4c90e4550d7d685004d97863d7187eeb61688fffcafe7c396fe0054e0"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "yellow-flower-clump",
+              "sha256": "8655219094d14dfb1c34d25e5a2e3c3727b064a7563ebcbbb906692f292d62b7"
+            },
+            {
+              "id": "cream-flower-clump",
+              "sha256": "b8872ccec299a0b1b6aada29656ccf4a7230e3c43e1634e20f0bbd0a01969d52"
+            },
+            {
+              "id": "spreading-groundcover",
+              "sha256": "a000647ff53566bf7a7afd6389f9facbd6d60b83bd58bd65e203c473266199f7"
+            }
+          ],
+          "approval": {
+            "status": "approved",
+            "history": [
+              {
+                "decision": "approved",
+                "recordedAt": "2026-09-10T05:27:32.720570+00:00",
+                "approver": "Tania",
+                "source": "Yes I like all of those alot. You have my approval.",
+                "revision": 1,
+                "assemblySha256": "86d4a8686cdabba5dbb7178ef5b2dd75ecdf858249e52e76a1adabf23930f1d1",
+                "scope": "Whole numbered group and included parts; no exceptions."
+              }
+            ]
+          }
+        },
+        {
+          "number": 9,
+          "name": "Clear walking route",
+          "assemblySha256": "a5913ce4e04db8bdf9c0594f98aa91791447d024f2469766271dd1581bb4f1e9",
+          "previewSha256": "9c4976ae610aaf77b9ac9772b0f0dc55948dec29c0e23643b6b6741f5b613e65",
+          "triangles": 195008,
+          "components": [
+            {
+              "id": "paving-tile",
+              "sha256": "f6bd3cc22905b8853b7300b926546df289846a23e9b0369f8ec25a659c601a01"
+            },
+            {
+              "id": "paving-tile",
+              "sha256": "f6bd3cc22905b8853b7300b926546df289846a23e9b0369f8ec25a659c601a01"
+            },
+            {
+              "id": "paving-tile",
+              "sha256": "f6bd3cc22905b8853b7300b926546df289846a23e9b0369f8ec25a659c601a01"
+            },
+            {
+              "id": "paving-tile",
+              "sha256": "f6bd3cc22905b8853b7300b926546df289846a23e9b0369f8ec25a659c601a01"
+            },
+            {
+              "id": "paving-tile",
+              "sha256": "f6bd3cc22905b8853b7300b926546df289846a23e9b0369f8ec25a659c601a01"
+            },
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "silver-shrub",
+              "sha256": "99e931a4c90e4550d7d685004d97863d7187eeb61688fffcafe7c396fe0054e0"
+            },
+            {
+              "id": "yellow-flower-clump",
+              "sha256": "8655219094d14dfb1c34d25e5a2e3c3727b064a7563ebcbbb906692f292d62b7"
+            },
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "silver-shrub",
+              "sha256": "99e931a4c90e4550d7d685004d97863d7187eeb61688fffcafe7c396fe0054e0"
+            },
+            {
+              "id": "yellow-flower-clump",
+              "sha256": "8655219094d14dfb1c34d25e5a2e3c3727b064a7563ebcbbb906692f292d62b7"
+            },
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "silver-shrub",
+              "sha256": "99e931a4c90e4550d7d685004d97863d7187eeb61688fffcafe7c396fe0054e0"
+            },
+            {
+              "id": "yellow-flower-clump",
+              "sha256": "8655219094d14dfb1c34d25e5a2e3c3727b064a7563ebcbbb906692f292d62b7"
+            },
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "silver-shrub",
+              "sha256": "99e931a4c90e4550d7d685004d97863d7187eeb61688fffcafe7c396fe0054e0"
+            },
+            {
+              "id": "yellow-flower-clump",
+              "sha256": "8655219094d14dfb1c34d25e5a2e3c3727b064a7563ebcbbb906692f292d62b7"
+            },
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "silver-shrub",
+              "sha256": "99e931a4c90e4550d7d685004d97863d7187eeb61688fffcafe7c396fe0054e0"
+            },
+            {
+              "id": "yellow-flower-clump",
+              "sha256": "8655219094d14dfb1c34d25e5a2e3c3727b064a7563ebcbbb906692f292d62b7"
+            },
+            {
+              "id": "small-multistem-a",
+              "sha256": "011e673ba420f067141aa1e6ff58df90a811a06152817bb0184efae5bb636aea"
+            },
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "silver-shrub",
+              "sha256": "99e931a4c90e4550d7d685004d97863d7187eeb61688fffcafe7c396fe0054e0"
+            },
+            {
+              "id": "yellow-flower-clump",
+              "sha256": "8655219094d14dfb1c34d25e5a2e3c3727b064a7563ebcbbb906692f292d62b7"
+            },
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "silver-shrub",
+              "sha256": "99e931a4c90e4550d7d685004d97863d7187eeb61688fffcafe7c396fe0054e0"
+            },
+            {
+              "id": "yellow-flower-clump",
+              "sha256": "8655219094d14dfb1c34d25e5a2e3c3727b064a7563ebcbbb906692f292d62b7"
+            },
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "silver-shrub",
+              "sha256": "99e931a4c90e4550d7d685004d97863d7187eeb61688fffcafe7c396fe0054e0"
+            },
+            {
+              "id": "yellow-flower-clump",
+              "sha256": "8655219094d14dfb1c34d25e5a2e3c3727b064a7563ebcbbb906692f292d62b7"
+            },
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "silver-shrub",
+              "sha256": "99e931a4c90e4550d7d685004d97863d7187eeb61688fffcafe7c396fe0054e0"
+            },
+            {
+              "id": "yellow-flower-clump",
+              "sha256": "8655219094d14dfb1c34d25e5a2e3c3727b064a7563ebcbbb906692f292d62b7"
+            },
+            {
+              "id": "mulch-patch",
+              "sha256": "16300bde0383304eb4c8d460e762560a5a26bb4dc195bf46dbb0aef497367e6a"
+            },
+            {
+              "id": "limestone-edge-straight",
+              "sha256": "2e89e1c96469ed567055f5cb4154c6d6f9f5291bbeabc19f48436aa9475f2fe5"
+            },
+            {
+              "id": "tufted-grass",
+              "sha256": "0ce8674e14e73825fc672e4b490cb3dc81df33f61784a830985ba42a3d775e6c"
+            },
+            {
+              "id": "silver-shrub",
+              "sha256": "99e931a4c90e4550d7d685004d97863d7187eeb61688fffcafe7c396fe0054e0"
+            },
+            {
+              "id": "yellow-flower-clump",
+              "sha256": "8655219094d14dfb1c34d25e5a2e3c3727b064a7563ebcbbb906692f292d62b7"
+            },
+            {
+              "id": "small-multistem-a",
+              "sha256": "011e673ba420f067141aa1e6ff58df90a811a06152817bb0184efae5bb636aea"
+            }
+          ],
+          "approval": {
+            "status": "approved",
+            "history": [
+              {
+                "decision": "approved",
+                "recordedAt": "2026-09-10T05:27:32.720570+00:00",
+                "approver": "Tania",
+                "source": "Yes I like all of those alot. You have my approval.",
+                "revision": 1,
+                "assemblySha256": "a5913ce4e04db8bdf9c0594f98aa91791447d024f2469766271dd1581bb4f1e9",
+                "scope": "Whole numbered group and included parts; no exceptions."
+              }
+            ]
+          }
+        }
+      ],
+      "approvedBy": "Tania",
+      "approvedAt": "2026-09-10T05:27:32.720570+00:00"
     }
   ]
 }

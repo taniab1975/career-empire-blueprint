@@ -2,6 +2,60 @@
 
 Generated from data/operations.json. One canonical register; do not edit this view directly.
 
+## CE-CHANGE-20260910-35 — Playable school avatar polish and elbow repair
+
+- **date:** 2026-09-10
+- **domain:** Avatar runtime
+- **source:** Tania, 10 September 2026: update the actual in-game school-uniform avatar using both supplied references; preserve identity, proportions and rig, repair elbows, verify movement and record evidence in the canonical Blueprint. Tania then approved the playable result: “Yey he is much better! Please go ahead and update to live”.
+- **owner:** Game and Blueprint maintainer
+- **status:** Appearance approved; live publication authorised
+- **rationale:** Explicit bounded avatar repair alongside environment milestone; not a wardrobe redesign.
+- **dependencies:** CE-PLAN-01
+- **supersededRecord:** None
+- **designApproval:** Tania explicitly approved this exact locally tested avatar result on 10 September 2026.
+- **implementation:** Intact user-supplied model with only two forearm rotation tracks corrected; original materials restored.
+- **deployment:** Live publication authorised; independent verification pending.
+- **testing:** Front, side, rear walking, portrait, movement, save/reload, binary preservation, project check and six unit tests passed.
+- **taniaAcceptance:** Appearance approved; publish requested.
+- **evidence:** docs/production/avatar-polish-20260910.md
+- **nextAction:** Publish approved avatar-only release on live game; independently verify deployment.
+
+## CE-CHANGE-20260910-34 — Landscape batch: nine model groups for collective review
+
+- **date:** 2026-09-10
+- **domain:** World Environment & Ecosystem
+- **source:** Tania: create each of these 3d assets as a batch and ask for my approval on each one as a group.
+- **owner:** Blueprint maintainer
+- **status:** All nine group appearances approved; saved and checked locally; unpublished
+- **rationale:** One batch preserves a coherent appearance and supports per-group decisions.
+- **dependencies:** CE-CHANGE-20260910-33 / CE-ENV-01
+- **supersededRecord:** None
+- **designApproval:** All nine revision-1 group appearances approved. No geometry changed after review.
+- **implementation:** 19 reusable components and nine GLB review groups, packed Blender source, local viewer, actual-model JPG and ZIP saved.
+- **deployment:** No publication or live-game integration authorised by this request.
+- **testing:** 28 GLBs pass structural/hash checks; all nine load/render in desktop viewer; 390px layout and representative models pass; no page errors. No target-device benchmark or live game integration.
+- **taniaAcceptance:** Tania explicitly approved all nine reviewed revision-1 groups and their included components, with no exceptions. Yes I like all of those alot. You have my approval.
+- **evidence:** docs/production/landscape-batch-20260910.md
+- **nextAction:** Prepare bounded Spawn-to-Studio integration scope; live integration/publication remain separate authorisation.
+
+## CE-CHANGE-20260910-33 — Vegetation and landscape specification for agreement
+
+- **date:** 2026-09-10
+- **domain:** World Environment & Ecosystem
+- **source:** Tania requests reference-backed specification before asset selection in Update landscaping specification.
+- **owner:** Blueprint maintainer
+- **status:** Draft saved; agreement and reader verification pending
+- **rationale:** Define environmental language before replacing assets.
+- **dependencies:** CE-ENV-01
+- **supersededRecord:** None
+- **designApproval:** No new appearance acceptance inferred.
+- **implementation:** Specification and nine-category generated JPG review sheet saved; no 3D models or runtime changes.
+- **deployment:** Unpublished
+- **testing:** Three original image hashes matched and images visually reviewed.
+- **taniaAcceptance:** Awaiting specification agreement
+- **evidence:** docs/production/landscape-specification-20260910.md
+- **nextAction:** Tania reviews numbered visual categories before production scope is confirmed.
+
 ## CE-CHANGE-20260910-32 — Small continuation button and concise working handoff
 
 - **date:** 2026-09-10

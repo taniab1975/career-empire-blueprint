@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "revision": "V2.19 / 10 September 2026",
+  "revision": "V2.20 / 10 September 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -25,10 +25,10 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.18",
+      "id": "V2.20",
       "date": "2026-09-10",
-      "label": "V2.19 / 10 September 2026",
-      "status": "Reader reconciliation and local tracking published and verified",
+      "label": "V2.20 / 10 September 2026",
+      "status": "Approved avatar repair source review; game publication verification pending",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -192,8 +192,8 @@
       "phase": "World Environment & Ecosystem",
       "activeMilestoneId": "CE-ENV-01",
       "objective": "Establish the approved visual and environmental system for the Career Empire campus.",
-      "now": "Review the published paving and connected Spawn → Avatar Studio walk. The separate sky and lighting candidate is saved for review and remains unpublished.",
-      "next": "Vegetation, trees and landscaping: agree their environmental specification against the current campus references before choosing or replacing assets.",
+      "now": "All nine revision-1 landscape model groups and included components are approved by Tania. Models are saved and export/viewer checked; not integrated or published. The separately requested school-avatar repair is approved for live publication; verification pending under CE-CHANGE-20260910-35.",
+      "next": "Next proposed step: a bounded Spawn-to-Studio landscape integration, preserving paving, movement, collision and Studio save/return. Confirm implementation/release scope before live changes.",
       "then": "Building and ECC campus architecture: refine destinations as one coherent architectural family, not isolated buildings.",
       "later": "Avatar system → experiences → curriculum coverage and validation.",
       "sequence": [
@@ -539,6 +539,12 @@
       "summary": "Blueprint publication is verified separately from the live game. Current game paving is published; the sky and lighting candidate remains unpublished. Ten whole-item candidates exist but are not collectively accepted. This reader shows one shared production plan, current live evidence and explicit approval limits. Historical source observations remain tracked; they are not proof of completion.",
       "facts": [
         {
+          "label": "APPROVED AVATAR / RELEASE IN PROGRESS",
+          "title": "School student: original appearance restored and elbows repaired",
+          "detail": "Tania approved the playable school student and requested live publication. Intact original textures and rig; two forearm tracks repaired. Local checks passed; public deployment verification pending.",
+          "href": "/production/avatar-polish-20260910.md"
+        },
+        {
           "label": "WHOLE-ITEM REVIEW / PARTS INCLUDED",
           "title": "One canonical source; publication is a dated copy",
           "detail": "Batch 1 contains ten complete appearance candidates produced through separate layout, assembly, surroundings and review stages. Avatar Studio is one whole item, including its parts. All ten await one grouped review with named exceptions; no appearance, runtime or classroom acceptance is inferred. Blazer remains paused.",
@@ -656,6 +662,10 @@
         "Do not equate a Blender import, a local implementation or a passing export with deployed classroom readiness."
       ],
       "documents": [
+        {
+          "title": "Playable schoolboy repair and original export comparison",
+          "href": "/production/avatar-polish-20260910.md"
+        },
         {
           "title": "Whole-item asset register and grouped review",
           "href": "/production/asset-batch-review-2026-09-10.md"
@@ -793,6 +803,76 @@
         }
       ],
       "changes": [
+        {
+          "id": "CE-CHANGE-20260910-35",
+          "date": "2026-09-10",
+          "title": "Playable school avatar polish and elbow repair",
+          "domain": "Avatar runtime",
+          "source": "Tania, 10 September 2026: update the actual in-game school-uniform avatar using both supplied references; preserve identity, proportions and rig, repair elbows, verify movement and record evidence in the canonical Blueprint. Tania then approved the playable result: “Yey he is much better! Please go ahead and update to live”.",
+          "owner": "Game and Blueprint maintainer",
+          "status": "Appearance approved; live publication authorised",
+          "rationale": "Explicit bounded avatar repair alongside environment milestone; not a wardrobe redesign.",
+          "dependencies": [
+            "CE-PLAN-01"
+          ],
+          "supersededRecord": null,
+          "designApproval": "Tania explicitly approved this exact locally tested avatar result on 10 September 2026.",
+          "implementation": "Intact user-supplied model with only two forearm rotation tracks corrected; original materials restored.",
+          "deployment": "Live publication authorised; independent verification pending.",
+          "testing": "Front, side, rear walking, portrait, movement, save/reload, binary preservation, project check and six unit tests passed.",
+          "taniaAcceptance": "Appearance approved; publish requested.",
+          "evidence": [
+            "docs/production/avatar-polish-20260910.md"
+          ],
+          "nextAction": "Publish approved avatar-only release on live game; independently verify deployment."
+        },
+        {
+          "id": "CE-CHANGE-20260910-34",
+          "date": "2026-09-10",
+          "title": "Landscape batch: nine model groups for collective review",
+          "domain": "World Environment & Ecosystem",
+          "source": "Tania: create each of these 3d assets as a batch and ask for my approval on each one as a group.",
+          "owner": "Blueprint maintainer",
+          "status": "All nine group appearances approved; saved and checked locally; unpublished",
+          "rationale": "One batch preserves a coherent appearance and supports per-group decisions.",
+          "dependencies": [
+            "CE-CHANGE-20260910-33",
+            "CE-ENV-01"
+          ],
+          "supersededRecord": null,
+          "designApproval": "All nine revision-1 group appearances approved. No geometry changed after review.",
+          "implementation": "19 reusable components and nine GLB review groups, packed Blender source, local viewer, actual-model JPG and ZIP saved.",
+          "deployment": "No publication or live-game integration authorised by this request.",
+          "testing": "28 GLBs pass structural/hash checks; all nine load/render in desktop viewer; 390px layout and representative models pass; no page errors. No target-device benchmark or live game integration.",
+          "taniaAcceptance": "Tania explicitly approved all nine reviewed revision-1 groups and their included components, with no exceptions. Yes I like all of those alot. You have my approval.",
+          "evidence": [
+            "docs/production/landscape-batch-20260910.md"
+          ],
+          "nextAction": "Prepare bounded Spawn-to-Studio integration scope; live integration/publication remain separate authorisation."
+        },
+        {
+          "id": "CE-CHANGE-20260910-33",
+          "date": "2026-09-10",
+          "title": "Vegetation and landscape specification for agreement",
+          "domain": "World Environment & Ecosystem",
+          "source": "Tania requests reference-backed specification before asset selection in Update landscaping specification.",
+          "owner": "Blueprint maintainer",
+          "status": "Draft saved; agreement and reader verification pending",
+          "rationale": "Define environmental language before replacing assets.",
+          "dependencies": [
+            "CE-ENV-01"
+          ],
+          "supersededRecord": null,
+          "designApproval": "No new appearance acceptance inferred.",
+          "implementation": "Specification and nine-category generated JPG review sheet saved; no 3D models or runtime changes.",
+          "deployment": "Unpublished",
+          "testing": "Three original image hashes matched and images visually reviewed.",
+          "taniaAcceptance": "Awaiting specification agreement",
+          "evidence": [
+            "docs/production/landscape-specification-20260910.md"
+          ],
+          "nextAction": "Tania reviews numbered visual categories before production scope is confirmed."
+        },
         {
           "id": "CE-CHANGE-20260910-32",
           "date": "2026-09-10",
@@ -4176,6 +4256,23 @@
           "visuals",
           "build"
         ]
+      },
+      {
+        "id": "CE-AVATAR-BUILT-03",
+        "title": "School student — approved original appearance and elbow repair",
+        "image": "/evidence/avatar-polish-20260910/front.png",
+        "kind": "built",
+        "date": "2026-09-10",
+        "sha256": "6f393115b27899b90c4ee2b73d1f3c8feff1aa00a052ef0c96854770937fb9d0",
+        "summary": "Actual playable Studio capture. The intact supplied Schoolboy export restores clear hair/face and natural skin/navy/white materials; two forearm twist tracks are repaired. Tania approved this result and requested live publication.",
+        "source": "Update Avatar Appearance continuation, Tania: “Yey he is much better! Please go ahead and update to live”. CE-CHANGE-20260910-35; player-schoolboy-repaired-20260910.glb.",
+        "limits": "This capture is the tested local result. Game deployment is pending independent live verification; the paused jacket-test and modular wardrobe remain separate.",
+        "nextAction": "Publish only the approved avatar change on the current live game, then verify the live mesh, walking and save/return.",
+        "placements": [
+          "start",
+          "visuals",
+          "build"
+        ]
       }
     ]
   },
@@ -4592,10 +4689,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20260910-32"
+        "CE-CHANGE-20260910-35"
       ],
-      "scope": "Continuation helper, rolling handoff and evidence-backed historical intake housekeeping; no game changes.",
-      "disclosure": "Helper validated locally; independent publication verification pending. Historical intake and unpublished lighting remain separate.",
+      "scope": "Approved school-avatar repair and exact-source release review; existing landscape records retained without game integration.",
+      "disclosure": "School-avatar appearance and publication approved; game deployment pending live verification. Landscape appearance approval is separate from runtime integration; old unfinished intake retained.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -4759,12 +4856,14 @@
         "app/blueprint-app.tsx",
         "app/continue-work.tsx",
         "data/refresh-checkpoint.json",
-        "docs/production/continuation-helper-20260910.md"
+        "docs/production/continuation-helper-20260910.md",
+        "docs/production/avatar-polish-20260910.md",
+        "public/evidence/avatar-polish-20260910/front.png"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "73b1369a009e9014b4102940196a8c91597bd91665c705aa26bf88a2a61ec6bb"
+          "sha256": "9ec1a33f6eae5a1062d2442466e7d0609a293d6ceada9b36b5c118fd1e5c2198"
         },
         {
           "path": "README.md",
@@ -4772,11 +4871,11 @@
         },
         {
           "path": "app/blueprint-detail.tsx",
-          "sha256": "5356b3515a9b9fabd1987866988e131241dc7fa27dd855fdd4d1d59391a9a3d2"
+          "sha256": "b177ecbf8c0f90c010316a0c4bd11fd832502b0222d71401250c08421d3ec6c3"
         },
         {
           "path": "app/blueprint-surfaces.tsx",
-          "sha256": "df0b38d264effa4a761c0c071f7f21d3348abeb92e968ec8c98dd09b02fca2b5"
+          "sha256": "9985245b4a8d4db0a0eeec13e11a33eafa169589c4d746447189b6568dff2dd9"
         },
         {
           "path": "app/change-integration.tsx",
@@ -4796,11 +4895,11 @@
         },
         {
           "path": "app/style-guide.tsx",
-          "sha256": "5dd6d416707c14ac4cf3f2667bd89929caf2d200892c514eab2b99d112696b9e"
+          "sha256": "dfc6ace8c7dd3064a97b1b1c02b17d36aad7ea7d9eb7b718d6b50020b8dee008"
         },
         {
           "path": "data/asset-register.json",
-          "sha256": "2b8966c4d581142063a9a8fe3c8eeffa9463d682dee382219646a426bce54500"
+          "sha256": "44404d0162f368fd301727bc1e897acaa16eb737eeca1ca795a152b9fd093caa"
         },
         {
           "path": "data/blueprint.ts",
@@ -4816,15 +4915,15 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "09b1d3b0503eafdb8b80c0d1d7447097ca599d39deb1ab94ff9aef2dc012169f"
+          "sha256": "46fb3e8bcc7f2ab2098766416b8c4e1595a1e18d847bc3ff3727afcaa5d3e237"
         },
         {
           "path": "data/style-guide.json",
-          "sha256": "15db8f4edb9fb216dbb5cb0ac5ea57c987754d25ab8b12487738e6596c4db34d"
+          "sha256": "f80599066da9b9ee46e53176a701b90800b9a2a99a558e335045c07d16324138"
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "0e9e7be19cca73dd8f309eabcc67aaf6086a07f931f3244524869264eb64193e"
+          "sha256": "7d7c203652bef9c24153308154005fa33ef744b2aebfc3d2d7d146945da1f169"
         },
         {
           "path": "docs/production/arrival-playable-release-20260910.md",
@@ -5360,7 +5459,7 @@
         },
         {
           "path": "tests/reader-currency.test.mjs",
-          "sha256": "88efb8ff091dc34ebb33706256d715deefa1c4ca13b13978f7fa6852e58477e9"
+          "sha256": "a95aaa9d6236b730db5e779fc2814960883438010e738418b024f098deca8d2d"
         },
         {
           "path": "vite.pages.config.ts",
@@ -5417,10 +5516,1192 @@
           "path": "docs/production/continuation-helper-20260910.md",
           "sha256": "54138fd2cc4a2258b6ce6e4179de5808194d6ad51fb18c2d4669f4a457ee95bb",
           "method": "Continuation helper source and scope inspected during implementation."
+        },
+        {
+          "path": "docs/production/avatar-polish-20260910.md",
+          "sha256": "1ae16c624897e59afe7408f28651b84457f98c1138d39ce23f828d4daa61bbe8"
+        },
+        {
+          "path": "public/evidence/avatar-polish-20260910/front.png",
+          "sha256": "6f393115b27899b90c4ee2b73d1f3c8feff1aa00a052ef0c96854770937fb9d0"
         }
       ]
     },
     "changes": [
+      {
+        "changeId": "CE-CHANGE-20260910-35",
+        "title": "Playable school avatar polish and elbow repair",
+        "types": [
+          "avatar",
+          "visual",
+          "implementation",
+          "decision",
+          "release"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Improve existing playable avatar and natural elbow deformation.",
+        "before": "Dark uniform, softened face/hair normals and pinched elbow appearance.",
+        "after": "Approved local original avatar with corrected forearm tracks; game release pending independent live verification.",
+        "source": "Tania, 10 September 2026: update the actual in-game school-uniform avatar using both supplied references; preserve identity, proportions and rig, repair elbows, verify movement and record evidence in the canonical Blueprint. Tania explicitly approved the local result and requested live publication.",
+        "owner": "Game and Blueprint maintainer",
+        "nextAction": "Finish canonical reader verification and publish its source review; then publish and verify approved game release.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Start Here shows CE-AVATAR-BUILT-03, explicit appearance approval and pending game publication; desktop and mobile source/image checks passed.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Start Here shows CE-AVATAR-BUILT-03, explicit appearance approval and pending game publication; desktop and mobile source/image checks passed."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Shared productionPlan retains landscape sequence and records the separately approved avatar release without moving the strategic phase.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Shared productionPlan retains landscape sequence and records the separately approved avatar release without moving the strategic phase."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Material record 35 captures both repair request and explicit live-publication approval; earlier wardrobe and landscape records remain separate.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Material record 35 captures both repair request and explicit live-publication approval; earlier wardrobe and landscape records remain separate."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Canonical AGENTS and rolling handoff identify the bounded approved release and preserve the established game/Blueprint split.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Canonical AGENTS and rolling handoff identify the bounded approved release and preserve the established game/Blueprint split."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Regenerated records match canonical source; original-image hashes and public avatar evidence links are checked.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Regenerated records match canonical source; original-image hashes and public avatar evidence links are checked."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "records": [
+              "CE-CHANGE-20260910-35"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Awaiting independent live Blueprint manifest and desktop/mobile reader verification.",
+              "date": ""
+            },
+            "nextAction": "Publish this reviewed Blueprint record, verify manifest/record and affected desktop/mobile reader pages, then seal the source review before game deployment."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "updated",
+            "action": "CE-AVATAR-BUILT-03 and the runtime source bindings identify the intact supplied avatar and exactly two repaired forearm rotation tracks.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "CE-AVATAR-BUILT-03 and the runtime source bindings identify the intact supplied avatar and exactly two repaired forearm rotation tracks."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Look & feel displays the approved playable avatar with the exact screenshot and retains the three approved campus/Studio concepts.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Look & feel displays the approved playable avatar with the exact screenshot and retains the three approved campus/Studio concepts."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "New avatar screenshot is labelled a local built result. Existing historical film/poster and live paving screenshot retain their exact hashes and captions.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "New avatar screenshot is labelled a local built result. Existing historical film/poster and live paving screenshot retain their exact hashes and captions."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "The avatar GLB hash and reproducible repair are recorded; the landscape asset register remains appearance-approved but not integrated.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "The avatar GLB hash and reproducible repair are recorded; the landscape asset register remains appearance-approved but not integrated."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "world.js, style.css and arrival-precinct.js match published 1931e2c; avatar-only changes preserve campus layout and collision.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "world.js, style.css and arrival-precinct.js match published 1931e2c; avatar-only changes preserve campus layout and collision."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "The same Studio/town profile loader and Save & return are exercised. Game release app.js changes only the character-module cache token.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "The same Studio/town profile loader and Save & return are exercised. Game release app.js changes only the character-module cache token."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Delivery build evidence now includes the approved school avatar. Six unit tests and all 30 browser tests pass across initial and serial retry runs.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Delivery build evidence now includes the approved school avatar. Six unit tests and all 30 browser tests pass across initial and serial retry runs."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Exact avatar source identities and historical baseline versions are bound to their respective canonical records; private original and screenshots are retained.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Exact avatar source identities and historical baseline versions are bound to their respective canonical records; private original and screenshots are retained."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Tania’s approval and publish request are recorded verbatim in material record 35. Protected decisions and the paused jacket-test remain unchanged.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Tania’s approval and publish request are recorded verbatim in material record 35. Protected decisions and the paused jacket-test remain unchanged."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "No building asset or placement is changed; published arrival/Studio source matches the current live baseline exactly.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "No building asset or placement is changed; published arrival/Studio source matches the current live baseline exactly."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "No dashboard, authentication, teacher data or evidence-service file is changed. Classroom acceptance remains explicitly pending.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "No dashboard, authentication, teacher data or evidence-service file is changed. Classroom acceptance remains explicitly pending."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Curriculum JSON and mapping sources retain existing reviewed hashes; the cosmetic/rig repair adds no cohort or learning claims.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Curriculum JSON and mapping sources retain existing reviewed hashes; the cosmetic/rig repair adds no cohort or learning claims."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "journey",
+            "disposition": "checked-unchanged",
+            "action": "Existing journey and first-day flow remain; arrival navigation and profile persistence browser tests pass.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Existing journey and first-day flow remain; arrival navigation and profile persistence browser tests pass."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "No scoring, assessment or reward files change. Existing moderation/economy unit tests pass; no classroom acceptance inferred.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "No scoring, assessment or reward files change. Existing moderation/economy unit tests pass; no classroom acceptance inferred."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Original GLB SHA256, screenshot provenance, two forearm channels and exact runtime source paths are documented and preserved.",
+            "records": [
+              "CE-CHANGE-20260910-35",
+              "CE-AVATAR-BUILT-03"
+            ],
+            "owner": "Game and Blueprint maintainer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Original GLB SHA256, screenshot provenance, two forearm channels and exact runtime source paths are documented and preserved."
+            },
+            "nextAction": "Retain the verified scope; record independent live game checks after deployment."
+          }
+        ],
+        "projectChanges": {
+          "game-live": {
+            "AGENTS.md": "100644:264106c81ae20659fc6d285bfd76ada16692dfa6",
+            "playable-3d/app.js": "100644:71a43941de3f9c77ab61b668db92e5da06425b2d",
+            "playable-3d/characters.js": "100644:d1eaca78d516b8871186f134b68799179f13423d",
+            "playable-3d/index.html": "100644:252dc42f925ca93ebc0cfb0bc057d3a1be23c251",
+            "playable-3d/assets/player-schoolboy-repaired-20260910.glb": "100644:7bc6a9fbed78a86717e8a43b1f0c9f8b3f78e8d6",
+            "playable-3d/release-manifest.json": "100644:af62a0a18e0705b7bbeceef72163babd3680f3ca",
+            "scripts/repair-schoolboy-forearms.py": "100644:0583cea290de8b230b752d5384e3eea0a0eb2764",
+            "docs/production/avatar-polish-20260910.md": "100644:a1eb4f5750387900723895da1656f3263c7c6709",
+            "tests/e2e/playable-startup.spec.js": "100644:350ef78ff2b9a4732cac98115dde7daaf29d0260"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-34",
+        "title": "Nine-group landscape model production batch",
+        "types": [
+          "building",
+          "visual",
+          "implementation",
+          "governance"
+        ],
+        "status": "in-progress",
+        "objective": "Create the authorised model candidates for grouped review",
+        "before": "Generated visual targets only",
+        "after": "Nine actual model groups and all included components approved by Tania against revision-1 hashes; no model changes, integration or publication.",
+        "source": "Tania explicit batch production request",
+        "owner": "Blueprint maintainer",
+        "nextAction": "Retain approved geometry; confirm bounded integration scope. Public reader release remains pending.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "pending",
+            "action": "Purpose, current direction, status and next action must agree with the change.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await final source and candidate review checks.",
+              "date": ""
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "pending",
+            "action": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await final source and candidate review checks.",
+              "date": ""
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          },
+          {
+            "surface": "history",
+            "disposition": "pending",
+            "action": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await final source and candidate review checks.",
+              "date": ""
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "pending",
+            "action": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await final source and candidate review checks.",
+              "date": ""
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          },
+          {
+            "surface": "exports",
+            "disposition": "pending",
+            "action": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await final source and candidate review checks.",
+              "date": ""
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await final source and candidate review checks.",
+              "date": ""
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "pending",
+            "action": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await final source and candidate review checks.",
+              "date": ""
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          },
+          {
+            "surface": "world",
+            "disposition": "pending",
+            "action": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await final source and candidate review checks.",
+              "date": ""
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "pending",
+            "action": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await final source and candidate review checks.",
+              "date": ""
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          },
+          {
+            "surface": "media",
+            "disposition": "pending",
+            "action": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await final source and candidate review checks.",
+              "date": ""
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Exact local candidate groups/components and pending decisions recorded in asset register and batch manifest.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact local candidate groups/components and pending decisions recorded in asset register and batch manifest.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain evidence; follow up only on changed files or decisions."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Local model selection, orbit/zoom view controls and responsive viewer checked; live game flow unchanged.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Local model selection, orbit/zoom view controls and responsive viewer checked; live game flow unchanged.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain evidence; follow up only on changed files or decisions."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "All 28 GLBs structurally validated and hashes checked; local viewer loads all nine groups; no runtime benchmark claim.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All 28 GLBs structurally validated and hashes checked; local viewer loads all nine groups; no runtime benchmark claim.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain evidence; follow up only on changed files or decisions."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Recorded explicit approval for all nine revision-1 groups and included components; no exceptions or deployment authority.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Direct user approval bound to unchanged GLB/component and preview hashes.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "pending",
+            "action": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await final source and candidate review checks.",
+              "date": ""
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "pending",
+            "action": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await final source and candidate review checks.",
+              "date": ""
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "pending",
+            "action": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await final source and candidate review checks.",
+              "date": ""
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          },
+          {
+            "surface": "sources",
+            "disposition": "pending",
+            "action": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "records": [
+              "CE-CHANGE-20260910-34"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "docs/production/landscape-batch-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await final source and candidate review checks.",
+              "date": ""
+            },
+            "nextAction": "Final public reader integration/verification remains pending; do not imply this candidate batch is published."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-33",
+        "title": "Vegetation and landscape specification for agreement",
+        "types": [
+          "building",
+          "visual",
+          "governance"
+        ],
+        "status": "in-progress",
+        "objective": "Agree environmental language before asset selection",
+        "before": "Current campus references without a bounded vegetation specification",
+        "after": "Reference-backed proposed specification saved; awaiting agreement",
+        "source": "Tania request in Update landscaping specification",
+        "owner": "Blueprint maintainer",
+        "nextAction": "Obtain specification agreement; complete affected reader verification before any release",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "pending",
+            "action": "Purpose, current direction, status and next action must agree with the change.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "pending",
+            "action": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "history",
+            "disposition": "pending",
+            "action": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "protocol",
+            "disposition": "pending",
+            "action": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "exports",
+            "disposition": "pending",
+            "action": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "buildings",
+            "disposition": "pending",
+            "action": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "world",
+            "disposition": "pending",
+            "action": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "visuals",
+            "disposition": "pending",
+            "action": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "media",
+            "disposition": "pending",
+            "action": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "assets",
+            "disposition": "pending",
+            "action": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "flow",
+            "disposition": "pending",
+            "action": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "build",
+            "disposition": "pending",
+            "action": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "decisions",
+            "disposition": "pending",
+            "action": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "avatars",
+            "disposition": "pending",
+            "action": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "sources",
+            "disposition": "pending",
+            "action": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          },
+          {
+            "surface": "recovery",
+            "disposition": "pending",
+            "action": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "records": [
+              "CE-CHANGE-20260910-33"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "docs/production/landscape-specification-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending specification agreement and affected reader review.",
+              "date": ""
+            },
+            "nextAction": "Review proposed specification and verify affected reader surface before release"
+          }
+        ]
+      },
       {
         "changeId": "CE-CHANGE-20260910-32",
         "title": "Small continuation button and concise working handoff",
@@ -11112,7 +12393,24 @@
             },
             "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
           }
-        ]
+        ],
+        "projectChanges": {
+          "game-live": {
+            "README.md": "100644:e56b7031034cebbd1446361054ae1cfa42358b37",
+            "docs/platform-skeleton.md": "100644:eb75f51e07a7013ff861779aa91a22568007f83e",
+            "docs/production/arrival-live-20260910.md": "100644:eb51aa0b55b4e85a4f5bf91de04a55ec3cf78042",
+            "docs/production/arrival-paving-20260910.md": "100644:459394b1d56e56f966bc06ac9de59fb747ab4580",
+            "docs/project-memory.md": "100644:336ea4b9fc46d2f88ed9e00ac2a875f79a85e60d",
+            "docs/year12-careers-ecosystem-blueprint.md": "100644:ce121c4efc7473081d565baf6093d453b392012c",
+            "playable-3d/arrival-precinct.js": "100644:5ae20594ae4594f12d6284e3c4ca33497beeb17c",
+            "playable-3d/style.css": "100644:f5f58494d9927e487ff7fb2506c6f2c800392daf",
+            "playable-3d/world.js": "100644:83360998287118357647ce19e66509eeb9f34483",
+            "tests/e2e/arrival-gardens.spec.js": "100644:7f2029aabe779d25e1bb148183cb2eafb407fdd7",
+            "tests/e2e/avatar-jacket-test.spec.js": "100644:0bac83f68274a14e292adaf78b51d966c6063637",
+            "tests/e2e/avatar-studio-entry.spec.js": "100644:555977a9901d3719433744264e5a0b76bce79052",
+            "tests/e2e/playable-scenery.spec.js": "100644:9427eebf2fbef3f7fdc8be24dd74893a96cbbb42"
+          }
+        }
       }
     ]
   },
