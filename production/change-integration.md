@@ -8,7 +8,7 @@ School-avatar appearance and publication approved; game deployment pending live 
 
 ## CE-CHANGE-20260910-35 — Playable school avatar polish and elbow repair
 
-Integration: **ready-for-publication**. Types: avatar, visual, implementation, decision, release. Owner: Game and Blueprint maintainer.
+Integration: **complete**. Types: avatar, visual, implementation, decision, release. Owner: Game and Blueprint maintainer.
 
 **Objective:** Improve existing playable avatar and natural elbow deformation.
 
@@ -105,21 +105,22 @@ Verification: passed / Regenerated records match canonical source; original-imag
 
 Next: Retain the verified scope; record independent live game checks after deployment.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+Blueprint source review published and independently verified; game deployment remains separately pending in the material record.
 
 Records: CE-CHANGE-20260910-35. Owner: Game and Blueprint maintainer.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Awaiting independent live Blueprint manifest and desktop/mobile reader verification.
+Verification: passed / Public manifest/record SHA256 matched; live desktop and 390px reader render the approved avatar with its exact image and explicit game-deployment-pending caption.
 
 - [Evidence](/career-empire-blueprint/production/avatar-polish-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/avatar-polish-20260910/front.png)
 
-Next: Publish this reviewed Blueprint record, verify manifest/record and affected desktop/mobile reader pages, then seal the source review before game deployment.
+Next: Use the completed source review receipt for the approved game release, then verify the actual live game.
 
 ### Avatar and wardrobe references — updated
 

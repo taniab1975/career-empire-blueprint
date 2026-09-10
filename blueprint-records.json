@@ -5538,7 +5538,7 @@
           "decision",
           "release"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Improve existing playable avatar and natural elbow deformation.",
         "before": "Dark uniform, softened face/hair normals and pinched elbow appearance.",
         "after": "Approved local original avatar with corrected forearm tracks; game release pending independent live verification.",
@@ -5653,22 +5653,23 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "disposition": "updated",
+            "action": "Blueprint source review published and independently verified; game deployment remains separately pending in the material record.",
             "records": [
               "CE-CHANGE-20260910-35"
             ],
             "owner": "Game and Blueprint maintainer",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "evidence": [
-              "/production/avatar-polish-20260910.md"
+              "/production/avatar-polish-20260910.md",
+              "/evidence/avatar-polish-20260910/front.png"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Awaiting independent live Blueprint manifest and desktop/mobile reader verification.",
-              "date": ""
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Public manifest/record SHA256 matched; live desktop and 390px reader render the approved avatar with its exact image and explicit game-deployment-pending caption."
             },
-            "nextAction": "Publish this reviewed Blueprint record, verify manifest/record and affected desktop/mobile reader pages, then seal the source review before game deployment."
+            "nextAction": "Use the completed source review receipt for the approved game release, then verify the actual live game."
           },
           {
             "surface": "avatars",
