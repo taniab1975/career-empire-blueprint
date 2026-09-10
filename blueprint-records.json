@@ -5748,9 +5748,9 @@
         },
         {
           "path": "scripts/render-specification.mjs",
-          "sha256": "4e3b6ae0bca6ee73bda5402f7a9ed04304cc4e98722bb9db0149c8475fe8dd6d",
+          "sha256": "f3d4f13e8cee5429f1709783c823b2cd1bccff378d96beeab4234bd897f79a75",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed final Chapel/EST/entry scope, exact video reuse, verified source and actual desktop/mobile screenshots; unrelated protected decisions retained."
+          "method": "Verified specification uses relative image paths under the GitHub project site and long paths wrap on mobile."
         },
         {
           "path": "public/evidence/ecc-campus-hub-20260910/recognition-sheet.jpg",

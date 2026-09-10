@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "136b0d83e94ec420aba495c487eef121ea801276",
-  "generatedAt": "2026-09-10T11:48:14.590Z",
+  "sourceCommit": "70c0104f3908c40b852a06fea485ca9a20d0082c",
+  "generatedAt": "2026-09-10T11:50:34.991Z",
   "revision": "V2.20 / 10 September 2026",
-  "recordSha256": "2567a7de593fa42f51b1e5329dd12a04cbc0718a308aacd98c697f805ab1c3b5",
+  "recordSha256": "16f7738be7ffd4305aa82684c1938e34b66f54714c197c8b596497d97e2628cf",
   "files": [
     {
       "path": "assets/index-CItsirJh.js",
@@ -14,7 +14,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "2567a7de593fa42f51b1e5329dd12a04cbc0718a308aacd98c697f805ab1c3b5"
+      "sha256": "16f7738be7ffd4305aa82684c1938e34b66f54714c197c8b596497d97e2628cf"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1034,7 +1034,7 @@
     },
     {
       "path": "production/ecc-campus-hub-specification-20260910.html",
-      "sha256": "c9c2d31c07aa41a670fdfdf1148d843a030522ded5c979189848887b53fee0db"
+      "sha256": "cbf49107d26925e2d58b69968309c4c75b5693671b79d8b4f20cc781779f25fe"
     },
     {
       "path": "production/ecc-campus-hub-specification-20260910.md",
