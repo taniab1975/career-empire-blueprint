@@ -4,7 +4,7 @@ Generated from data/change-integrations.json; edit the canonical record, not thi
 
 Release scope: Accepted campus layout and selected existing building release source review
 
-Map update and building selection authorised; live game verification pending. Separate gait diagnosis, older intake and other batch approvals remain open.
+Campus map and selected buildings are live and independently verified. Separate avatar gait diagnosis, older intake and remaining batch approvals stay open.
 
 ## CE-CHANGE-20260910-36 — Whole-map landscape concept and arrival correction
 

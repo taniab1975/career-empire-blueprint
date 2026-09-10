@@ -8,17 +8,17 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** World Environment & Ecosystem
 - **source:** Tania requests whole-map paths, grass and greenery; concept first using existing assets, legacy water allocations and shade assets; future game start farther back before welcome sign. Tania now accepts the direction, authorises selection of two existing buildings facing paths, preserves town hall for future ECC, and explicitly requests live publication.
 - **owner:** Blueprint maintainer
-- **status:** Authorised game integration and release in progress
+- **status:** Authorised campus update published and independently verified
 - **rationale:** Agree a coherent layout from existing models before applying the broader map update.
 - **dependencies:** CE-CHANGE-20260910-34 / CE-CHANGE-20260910-35
 - **supersededRecord:** None
 - **designApproval:** Landscape concept accepted for this pass; existing Careers Advice Centre and First Workplace selected under delegated choice. Town hall retained; no wider batch acceptance.
 - **implementation:** Private whole-map scene with connected paving, lawn areas, approved instanced plants, two reused garden pergola/bench groups, existing pond/fountain and proposed clipped legacy northern water edge. Proposed spawn (-7,23.3), previously (-7,14); live game unchanged.
-- **deployment:** Live release explicitly authorised; not yet published.
-- **testing:** Actual Three.js renders captured; proposed starting sign inside camera frustum, old sign behind camera; desktop/mobile loading without page errors or mobile overflow. Gameplay collisions and target-device performance remain integration checks.
-- **taniaAcceptance:** Requested concept and later starting-position correction; map arrangement not yet accepted.
+- **deployment:** Published to existing game main at d85de9920f23f9f18288c42eed2e86dcfc9da1b1; release manifest/source/asset hashes and actual live browser verified.
+- **testing:** 31 browser tests and six unit tests passed; final doorway-offset regression passed. Actual live start, both building assets, movement, Studio save/return/reload and mobile checked. 20 live runtime/asset hashes match. Separate reported avatar gait is not changed or resolved.
+- **taniaAcceptance:** Landscape direction accepted; two existing building selections and game publication explicitly authorised. Future ECC and other batch items remain separate.
 - **evidence:** docs/production/map-landscape-concept-20260910.md
-- **nextAction:** Integrate, verify entrance approaches, movement, Studio save/reload and live hashes.
+- **nextAction:** Tania can play the updated campus; next retain the separate gait follow-up and scope the future ECC replacement when requested.
 
 ## CE-CHANGE-20260910-35 — Playable school avatar polish and elbow repair
 

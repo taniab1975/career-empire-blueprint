@@ -1,20 +1,20 @@
 {
-  "sourceCommit": "5bd98ca7a1ecc2f6766cf1b3bdd1d737415325aa",
-  "generatedAt": "2026-09-10T06:57:12.242Z",
+  "sourceCommit": "f43dd1409dfdedd650e96388212ebe02952cff72",
+  "generatedAt": "2026-09-10T07:14:15.455Z",
   "revision": "V2.20 / 10 September 2026",
-  "recordSha256": "0a462cf4ffac83dbed56f75df878640261cd4e7c7c3721f65bc5319d28994d37",
+  "recordSha256": "0407798103e3a57cc136d1e11d7424c2d227d05559eec9b9ca8e580197831bd6",
   "files": [
+    {
+      "path": "assets/index-B6KlxU1B.js",
+      "sha256": "8a5db1b772dfb2b1f078eea2cf8596be3d8a57f1381d68d19937d9e8df8dfca1"
+    },
     {
       "path": "assets/index-Bmky4qoT.css",
       "sha256": "3aab1a01ab929d16585fc05500dfa56992ec27573714c40b5a160bf4911458dd"
     },
     {
-      "path": "assets/index-gOhqPwp-.js",
-      "sha256": "61c567d08f668a8663ecee53d3e9815172832310ce076f1e3237240dd62a5359"
-    },
-    {
       "path": "blueprint-records.json",
-      "sha256": "0a462cf4ffac83dbed56f75df878640261cd4e7c7c3721f65bc5319d28994d37"
+      "sha256": "0407798103e3a57cc136d1e11d7424c2d227d05559eec9b9ca8e580197831bd6"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -593,6 +593,18 @@
       "sha256": "9751b89a35825e4a5d2e69316e47a859010b6bbafb896ddb7fd7650ba50bf27e"
     },
     {
+      "path": "evidence/campus-map-20260910/live-map.png",
+      "sha256": "3e5d6f6ad7c8ddfbf55b81697cc32d8786a6ff830447ea813889a9d1b646901d"
+    },
+    {
+      "path": "evidence/campus-map-20260910/live-mobile.png",
+      "sha256": "8b7781ca383e90deafaa46b9d964e4b0c9eb8fc3c60e299bee4d5197ddb9097b"
+    },
+    {
+      "path": "evidence/campus-map-20260910/live-start.png",
+      "sha256": "b73fedc644fbecc8c2745372c53fe832a219baefeaf931842e4d87eb130a458f"
+    },
+    {
       "path": "evidence/current-state-fixed-shirt-20260908.png",
       "sha256": "c3900a2ea1f3c5e6c99af7fc0f572a56cb48efcb36f9706601d649bd7a03c670"
     },
@@ -722,7 +734,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "42c8aba8cb88465795f0f00840ccc4d906b38b677919bb99683517da3f3cb9a4"
+      "sha256": "dfe2c02030ab00af66a0424ff7f938e938d7fc2d3fbefb02c77f2df585302204"
     },
     {
       "path": "playable-3d/app.js",
@@ -934,11 +946,11 @@
     },
     {
       "path": "production/campus-map-release-20260910.md",
-      "sha256": "94034c87af59a524cbf6063bdd554fcd5a2ef28eaa01122bce768fdeb7f493af"
+      "sha256": "efd4ae2e8da016439518079372d69151bace5260d97c02eda5943dd5530011ba"
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "4362b0d41c94f775d2c66d6f171b48aaa4962697110d72a182c8dd7d77b16454"
+      "sha256": "f03ba93279fcef1d2161b3d7f7e2323605c366496b32fa5c2791fcd0f7ad81c8"
     },
     {
       "path": "production/change-workflows.md",
@@ -950,7 +962,7 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "a81ae7baddab014408984152ed377b27842425c70845afdb20996cdae12e10cf"
+      "sha256": "907e442dcbf54467101c1f30b84ada37fb7dd624808f7751524fc8490c467d3c"
     },
     {
       "path": "production/current-state.md",
@@ -982,7 +994,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "b3900ec392f4da93a54d7588f6ef8f14d163a5236363815948d0327057f9ad0f"
+      "sha256": "8f26cf20f5054ef0702e14c0f94002225d6be99f47323e805362b8ade8242454"
     },
     {
       "path": "production/operating-protocol.md",

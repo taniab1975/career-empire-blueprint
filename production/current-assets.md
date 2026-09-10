@@ -19,13 +19,13 @@ Fourteen textured modules are reusable source assets for the ten complete Batch 
 ## Current recovered originals and built evidence
 
 ### CE-CAMPUS-BUILT-02 — Landscaped campus with Careers Advice Centre and First Workplace
-![Landscaped campus with Careers Advice Centre and First Workplace](https://taniab1975.github.io/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+![Landscaped campus with Careers Advice Centre and First Workplace](https://taniab1975.github.io/career-empire-blueprint/evidence/campus-map-20260910/live-map.png)
 built / 2026-09-10
 Actual playable campus: connected paving, lawns, approved plants, reused shade and two existing buildings with fronts toward the paths. Tania accepted the landscape direction and authorised the building selection and live release.
-Limits: Game publication awaiting independent verification. Town hall remains for future ECC replacement; Studio retained. Separate gait diagnosis and other unapproved batch items unchanged.
-Next: Publish the verified source to the existing live game and check the deployed result.
-Source: CE-CHANGE-20260910-36; Landscape Batch 01 and existing Batch 1 Careers Advice Centre / First Workplace. Actual local game capture.
-SHA-256: 0ac8527de2461049ca34ee0e1c58c5fa5764948e830ec3d6a9d986b4e3e02c16
+Limits: Live environmental update verified. Town hall retained for future ECC, native Studio retained. Separate avatar gait follow-up remains open; classroom activities and broader batch approval are not implied.
+Next: Play and review the live campus; scope the future ECC separately.
+Source: CE-CHANGE-20260910-36; actual live game d85de9920f23f9f18288c42eed2e86dcfc9da1b1. Existing approved plants and selected Careers Advice Centre / First Workplace source files preserved.
+SHA-256: 3e5d6f6ad7c8ddfbf55b81697cc32d8786a6ff830447ea813889a9d1b646901d
 
 ### CE-CAMPUS-01 — ECC Career Campus — approved visual foundation
 ![ECC Career Campus — approved visual foundation](https://taniab1975.github.io/career-empire-blueprint/references/current/ecc-career-campus.png)

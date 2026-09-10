@@ -11,3 +11,5 @@ Start moves from (-7,14) to (-7,23.3), putting the welcome sign ahead. Avatar ge
 Status: implementation saved; release authorised. Local checks and live verification are recorded separately. Classroom activities, unlock timing, broader Batch 1 acceptance and target-device performance are not inferred from this environmental release.
 
 Next: verify source, approaches, Studio save/return and deployed file hashes, then update the publication receipt. The canonical Blueprint remains the planning authority; game and Blueprint are separate releases.
+
+Published and independently verified at game commit d85de9920f23f9f18288c42eed2e86dcfc9da1b1. All manifest source/asset hashes match; live starting view, movement, Studio save/return/reload and mobile verified. Town hall and avatar source retained.
