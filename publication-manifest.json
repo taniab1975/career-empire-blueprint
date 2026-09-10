@@ -1,20 +1,20 @@
 {
-  "sourceCommit": "6830edd58ad512bf280dc0485d14ad06ab768b6c",
-  "generatedAt": "2026-09-09T22:48:50.153Z",
-  "revision": "V2.17 / 10 September 2026",
-  "recordSha256": "6d1be8951e9713a4b7f597e54c0319131aa4a16e3803fe50665c896ff73a6451",
+  "sourceCommit": "2f4e0971c84275575b142f871e5a8be570e7ba59",
+  "generatedAt": "2026-09-10T03:44:09.732Z",
+  "revision": "V2.18 / 10 September 2026",
+  "recordSha256": "2e19d16262a24795ebc76d71e758f41ca45dca05d865f042d1c46110748dd3b5",
   "files": [
+    {
+      "path": "assets/index-BrZ6B30q.js",
+      "sha256": "053465bc9342a9e3bf9befa1d6711b6fc62a3e8b5148556eea42a8653b438306"
+    },
     {
       "path": "assets/index-CjQKDqwD.css",
       "sha256": "9426a1c53962c7d98e2a28c90cf90d37c9badb0e9e6be044e3e60926795a7e42"
     },
     {
-      "path": "assets/index-DCQSJZS1.js",
-      "sha256": "374a3b63a36783f69ec601ab853468c318bef86a3fcacab3c7b6cb5373bffab5"
-    },
-    {
       "path": "blueprint-records.json",
-      "sha256": "6d1be8951e9713a4b7f597e54c0319131aa4a16e3803fe50665c896ff73a6451"
+      "sha256": "2e19d16262a24795ebc76d71e758f41ca45dca05d865f042d1c46110748dd3b5"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -43,6 +43,10 @@
     {
       "path": "evidence/arrival-playable-20260910/arrival.png",
       "sha256": "47e5c778716f334e73fb7381881db05125f9f18e3706faacd6c40dfe170e2cb1"
+    },
+    {
+      "path": "evidence/arrival-playable-20260910/current-live-arrival.png",
+      "sha256": "9aea8f71b9e8efd971d32d517a4f6e500079aba1ec326cbe3e5b1b90e7f9a5d6"
     },
     {
       "path": "evidence/arrival-playable-20260910/studio.png",
@@ -694,7 +698,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "aeeda4fb95c89ceac0b96b8f38e41a2612e0a9afa5ff23f37c8ec5306624fd22"
+      "sha256": "2829df4cf68138f80922d57eb0b26dd53c1a1db4438052b0117073cf48e1b5e7"
     },
     {
       "path": "playable-3d/app.js",
@@ -865,6 +869,10 @@
       "sha256": "6587b87f51b240a641126975329c2e9e93e7d07bb5ff240778518bb6dcaae1d5"
     },
     {
+      "path": "production/arrival-ground-stage1-20260910.md",
+      "sha256": "8aaf70421af631ee7105062257ab39da1b65943eb35c46f80cfb27c867dc99ba"
+    },
+    {
       "path": "production/arrival-playable-release-20260910.md",
       "sha256": "9db3dec31a0fcf047051b9f78364f8593e45b3c4ef00c51b2e108891956bb9dc"
     },
@@ -875,6 +883,10 @@
     {
       "path": "production/astra-research.md",
       "sha256": "a3f1baf9004d831188eab9a9f060ad43e52aef94f9982a233450cd2e56e9b306"
+    },
+    {
+      "path": "production/audit-recovery-20260910.md",
+      "sha256": "81705395eb906e80c7f3375dccc358ff8c7c9d0371d8e9e2794f81aeac97e8e1"
     },
     {
       "path": "production/audit-release-check-2026-09-09.md",
@@ -894,7 +906,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "4be9c8eca92a94e53e7aacaa8f677916ad63ac4e658538f761c12a9ce24f9022"
+      "sha256": "334905d09781c3eea2d42837613a9290644673df1c3c6f682a4c3732e698aba0"
     },
     {
       "path": "production/change-workflows.md",
@@ -902,15 +914,15 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "768f645683412ed52313bd428604da50c2167af03ca96a110d4f65b37da315e8"
+      "sha256": "68d87dc3a4436f9cb485879a014af6af6fa3a3a9dc3d2df27b752f9a78ffb0f8"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "3a661d10868bd5025af3346358f6fb78f9f6b6623abdd0ed5a97d92346b9cc56"
+      "sha256": "8cf468ea34fb1764c2f65e608e89796c32c59469b3e8dce19d894eea05f99bb2"
     },
     {
       "path": "production/game-hosting-correction-20260910.md",
-      "sha256": "a516ddf819a21653bd9223a001d2b310bba706b05c139851d91af91252598688"
+      "sha256": "f38899a0e4de8c7314a81baa589ac46734a9a1144065c27c0d88c10eeed8e5e9"
     },
     {
       "path": "production/github-migration-2026-09-09.md",
@@ -929,8 +941,12 @@
       "sha256": "117877666f2002cbcc5f5ea057c3981af85f51c044f15b94dfd77e8e53c83e55"
     },
     {
+      "path": "production/maintenance-20260910.md",
+      "sha256": "17336a867e373a3d35016cfea99228769396c1e8c8eac6ece50e84b68ef03ad0"
+    },
+    {
       "path": "production/material-changes.md",
-      "sha256": "8ee2329a35e609a1bba82514d81bafbe1698112007624a058d9a629561b10da1"
+      "sha256": "6fd52af6af4028f1ccb3e85c6b17375cb3fb222fb65831d2836315a62886a778"
     },
     {
       "path": "production/operating-protocol.md",
@@ -938,7 +954,7 @@
     },
     {
       "path": "production/production-plan.md",
-      "sha256": "0967546f283aef4460e4a49a7b7af691e85f51f2bf6a179d5eef216a4ea17805"
+      "sha256": "8a16269a9a87f08c985a47ced9baf6da09ede8c7b5f9458c39cf9df620fa457e"
     },
     {
       "path": "production/project-automation-setup-2026-09-10.md",
@@ -946,7 +962,7 @@
     },
     {
       "path": "production/project-work-contract.md",
-      "sha256": "f089ce726d67e6892b4b0528aee4a1a079d72c648e06befe8c51ffcf7f6abe77"
+      "sha256": "6c498f97d3b832454daa70687f2b583b23d2f8ac70ed66a2785c369b60d99ac9"
     },
     {
       "path": "production/publication-and-production-2026-09-10.md",
@@ -971,6 +987,10 @@
     {
       "path": "production/visual-register.md",
       "sha256": "6d2fdf8c59acb976567ffbc70c3dc490eaae171f95bdd06e27fe435e7b30c89f"
+    },
+    {
+      "path": "production/workflow-system-20260910.md",
+      "sha256": "8ec4c1f459778e7a3666a7e56cf25548eee6f29e523308b93ee8e80979403ff3"
     },
     {
       "path": "references/CE-BLDG-001-home-base.png",

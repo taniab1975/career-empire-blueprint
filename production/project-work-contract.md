@@ -8,6 +8,10 @@ The public reader is https://taniab1975.github.io/career-empire-blueprint/. The 
 
 ## Start every task, including a new chat
 
+Read data/operations.json productionPlan before choosing work. It supplies the current phase, bounded milestone, next/then/later, exact current visual targets and dated live evidence. Start Here, Delivery and Roadmap render that same record. A HERO asset recovery task must never replace the strategic phase. "Continue Career Empire" means continue its next approved bounded step, not invent a new priority. Before spending credits or implementing a request outside that milestone, explain the dependency/deviation and ask whether Tania intends to reprioritise or keep it in the backlog. Do not silently approve a proposed roadmap; record an explicit change of direction and propagate its effects. Curriculum constrains experience design from the outset, even though formal coverage validation is a later phase.
+
+Run npm run projects:scan from the canonical Blueprint (or the existing project wrapper scan). This now discovers Git-linked worktrees, checks actual local guard files, and writes private/governance/state/workflow-health.json. Exit 1 means unresolved coverage or integration, not permission to skip it. Zero newly changed files does not mean the Blueprint is reconciled: inspect the persistent pendingIntake and pendingChanges queues. Fix supported changes automatically; request only genuinely missing decisions/access. Do not claim overall completion while that report is unresolved. Independent clones and inaccessible chats still require explicit connection. The scheduled steward uses the same monitor and acknowledges only the exact fingerprint actually reported.
+
 1. Read this contract, the canonical AGENTS.md, README, current-state, operations, change workflows, change integrations and relevant protected decisions. Resolve exact source paths and revisions; inspect existing dirty work before editing. Project/worktree/account labels are not proof of source identity.
 2. Run the project's change scan before substantive work. Read unresolved intake, current work queue and handover. A baseline only records what existed: it does not approve, integrate or publish old work.
 3. State the requested outcome, what changes from before to after, exact user request or approval, owner, dependencies, change types and affected IDs. Use the union of every applicable change type. Do not infer approval from a tool result, assistant statement or generated image.
@@ -64,3 +68,6 @@ No system guarantees that unseen conversations or inaccessible accounts never di
 ## New-chat proof of readiness
 
 Before claiming continuity, identify the canonical source, current release, outstanding integrations and loaded project rules. If those cannot be read, say so and create a pending handoff. Do not ask Tania to repeat known decisions that are already accessible in the canonical evidence.
+
+## Proportionate maintenance — 10 September 2026
+Tania requests a balance of usability, currency and credit use. Apply docs/production/maintenance-20260910.md: change-first inspection, scoped context and tests, reuse exact-hash evidence, batch related releases, no repeated unchanged backlog audits. Keep all actual affected-surface and publication checks. Embedded chat is not enabled or authorised as a new service.

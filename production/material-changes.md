@@ -2,6 +2,24 @@
 
 Generated from data/operations.json. One canonical register; do not edit this view directly.
 
+## CE-CHANGE-20260910-30 — One production plan, current live evidence and continuously checked workflow
+
+- **date:** 2026-09-10
+- **domain:** Production management and change propagation
+- **source:** Tania, Continue Career Empire audit, 10 September 2026: requests a highly automated ongoing system, confirms the World Environment & Ecosystem front-page/sequence and deviation challenge, and says to continue. Pasted prior assistant proposals are evidence, not independent approval.
+- **owner:** Blueprint maintainer
+- **status:** Reader reconciled and source reviewed; publication verification pending
+- **rationale:** A logged change and successful scan did not guarantee current reader pages. Registered-only scanning missed linked working copies; strategic phase, visible screenshot and next actions drifted separately.
+- **dependencies:** CE-CHANGE-20260910-20 / CE-CHANGE-20260910-28 / CE-CHANGE-20260910-29
+- **supersededRecord:** None
+- **designApproval:** User requests the management sequence and explicit dependency challenges; this does not accept finished appearance, new mechanics or classroom readiness.
+- **implementation:** One productionPlan drives Start Here, Delivery and Roadmap; current live screenshot replaces the obsolete front image. Monitor discovers linked worktrees, retains pending integrations and reports actual protection failures. Shared project rules challenge deviations before spending.
+- **deployment:** Local candidate only; no new live Blueprint or game release claimed.
+- **testing:** Source review, exact protected-record integrity, active-copy protection and local desktop/mobile reader checks completed. Final test/build logs retained in reconciliation-v218.
+- **taniaAcceptance:** Requested workflow and front-page correction, not blanket game or asset acceptance.
+- **evidence:** docs/production/workflow-system-20260910.md / /evidence/arrival-playable-20260910/current-live-arrival.png / docs/production/audit-recovery-20260910.md
+- **nextAction:** Publish reviewed V2.18 output and independently verify live records and reader routes.
+
 ## CE-CHANGE-20260909-01 — One canonical source; publication is a dated copy
 
 - **date:** 2026-09-09
@@ -494,17 +512,53 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** Game hosting and release correction
 - **source:** Tania explicitly identifies https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ as the live game. Existing Push to live request authorises corrected deployment; CE-DISCUSSION-d068d069-12e8-47e7-9766-463db9c348db.
 - **owner:** Blueprint maintainer
-- **status:** Correct destination deployment underway
+- **status:** Correct actual-game deployment and Blueprint links verified
 - **rationale:** Previous publication reached only the Blueprint embedded preview; calling that the live game was incorrect. Correct the actual game deployment and all current destination guidance.
 - **dependencies:** CE-CHANGE-20260910-27
 - **supersededRecord:** None
 - **designApproval:** No new approval or rejection inferred.
-- **implementation:** Scoped arrival runtime update; preserve current game modules and existing avatar choices.
-- **deployment:** Not yet deployed to actual game; Blueprint copy is a preview only.
-- **testing:** Actual game package checks pending.
+- **implementation:** Scoped Arrival Gardens update applied to current actual game; obsolete Studio download removed from startup, existing modules and avatar choices preserved.
+- **deployment:** Actual game https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ verified at content commit 0b0e9505e14fdca6bfdbee6795bf157e881c4400; exact five runtime hashes and keyboard walk/Studio save/return/reload/mobile pass. Local CI: six unit tests and 30 browser tests pass. Blueprint correction source 6830edd58ad512bf280dc0485d14ad06ab768b6c: all 271 files match, desktop/mobile links pass, and the former preview redirects to the actual game.
+- **testing:** 30 browser tests, six unit tests, 61 Blueprint tests, exact runtime/publication hashes and actual live walking/save/redirect/reader checks pass.
 - **taniaAcceptance:** Positive local feedback and publication authorisation, not blanket asset acceptance.
 - **evidence:** GitHub Pages API confirms Emmanuel-ICT-Support/GTCEM-Career-Empire main root is live source. Clean checkout fast-forwarded to e3b7c1b; tested files will be applied only against matching base bytes.
-- **nextAction:** Run game checks, push exact scoped changes to Emmanuel ICT main and verify actual game URL; reconcile Blueprint links.
+- **nextAction:** Use the actual game URL for play and deployment; use the Blueprint separately for planning. Wider acceptance gates remain unchanged.
+
+## CE-CHANGE-20260910-29 — Arrival ground materials and connected Studio route
+
+- **date:** 2026-09-10
+- **domain:** Environment ground and routes
+- **source:** Tania, Continue Assess Upgrade Feasibility, 10 September 2026. Stage 1 only, approximately 2% remaining usage.
+- **owner:** Blueprint maintainer
+- **status:** Reader reconciled and source reviewed; publication verification pending
+- **rationale:** Use existing geometry/assets to improve visible ground quality and route continuity.
+- **dependencies:** CE-CHANGE-20260910-28
+- **supersededRecord:** None
+- **designApproval:** No new approval or rejection inferred.
+- **implementation:** Ground paving is present in the published game; separate sky and lighting candidate remains unpublished.
+- **deployment:** Fresh recovery verification: game main 1931e2c8818265057c3202316e113631e1170608; five live files match arrival-paving-20260910 manifest.
+- **testing:** Source review, exact protected-record integrity, active-copy protection and local desktop/mobile reader checks completed. Final test/build logs retained in reconciliation-v218.
+- **taniaAcceptance:** Implementation and deployment authorised; finished appearance not yet accepted.
+- **evidence:** docs/production/arrival-ground-stage1-20260910.md / docs/production/audit-recovery-20260910.md
+- **nextAction:** Publish reviewed V2.18 output and independently verify live records and reader routes.
+
+## CE-CHANGE-20260910-31 — Maintain an accurate Blueprint with proportionate automation
+
+- **date:** 2026-09-10
+- **domain:** Workflow cost and tracking recovery
+- **source:** Tania explicitly requests reader reconciliation, source reviews, tracking repair, validation and publication; asks for a balance of usability, currency and credit use and an assessment of an agentic Blueprint. Follow-up: Tania explicitly chooses to proceed without an agentic Blueprint; prioritise a working system and progress.
+- **owner:** Blueprint maintainer
+- **status:** Reader reconciled and source reviewed; publication verification pending
+- **rationale:** Repeated full audits and historical scan noise consume attention without advancing the active work.
+- **dependencies:** CE-CHANGE-20260910-29 / CE-CHANGE-20260910-30
+- **supersededRecord:** None
+- **designApproval:** No agentic Blueprint: explicitly deferred by Tania. Finish existing workflow and publish; preserve game and asset approval boundaries.
+- **implementation:** Repair worktree coverage; use changed-file review and a compact working approach while retaining evidence and release gates.
+- **deployment:** Pending exact-source Blueprint publication.
+- **testing:** Source review, exact protected-record integrity, active-copy protection and local desktop/mobile reader checks completed. Final test/build logs retained in reconciliation-v218.
+- **taniaAcceptance:** Publication and proportionate maintenance requested; no new game appearance approval.
+- **evidence:** docs/production/maintenance-20260910.md
+- **nextAction:** Publish reviewed V2.18 output and independently verify live records and reader routes.
 
 ## Retained Atlas principles
 

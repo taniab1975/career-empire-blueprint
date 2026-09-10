@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "revision": "V2.17 / 10 September 2026",
+  "revision": "V2.18 / 10 September 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -12,8 +12,8 @@
     "currentEstPrepLabel": "Open current EST Prep module",
     "recordHref": "/blueprint-records.json",
     "recordLabel": "Download Blueprint record",
-    "screenshot": "/references/current/studio-door-approach.png",
-    "screenshotAlt": "9 September built Avatar Studio prototype: student at the corrected entrance; not the approved finished pavilion",
+    "screenshot": "/evidence/arrival-playable-20260910/current-live-arrival.png",
+    "screenshotAlt": "10 September actual live Arrival Gardens: current paving, shaded walk and Avatar Studio approach; not the finished visual target",
     "conceptVideoHref": "/references/style/town-hall-entry-start-here.mp4",
     "conceptVideoPoster": "/references/style/entry-original-poster.jpg",
     "conceptVideoCaptions": "/references/style/town-hall-entry-original.vtt",
@@ -25,10 +25,10 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.17",
+      "id": "V2.18",
       "date": "2026-09-10",
-      "label": "V2.17 / 10 September 2026",
-      "status": "Correct live-game deployment and hosting clarification underway",
+      "label": "V2.18 / 10 September 2026",
+      "status": "Reconciled reader and local tracking; final publication verification pending",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -186,10 +186,47 @@
         }
       ]
     },
+    "productionPlan": {
+      "id": "CE-PLAN-01",
+      "changeId": "CE-CHANGE-20260910-30",
+      "phase": "World Environment & Ecosystem",
+      "activeMilestoneId": "CE-ENV-01",
+      "objective": "Establish the approved visual and environmental system for the Career Empire campus.",
+      "now": "Review the published paving and connected Spawn → Avatar Studio walk. The separate sky and lighting candidate is saved for review and remains unpublished.",
+      "next": "Vegetation, trees and landscaping: agree their environmental specification against the current campus references before choosing or replacing assets.",
+      "then": "Building and ECC campus architecture: refine destinations as one coherent architectural family, not isolated buildings.",
+      "later": "Avatar system → experiences → curriculum coverage and validation.",
+      "sequence": [
+        "World Environment & Ecosystem",
+        "Buildings & ECC Campus",
+        "Avatar System",
+        "Experiences",
+        "Curriculum Coverage & Validation"
+      ],
+      "curriculumBoundary": "Curriculum requirements inform experience design from the outset. The final phase validates reciprocal coverage and classroom evidence; it is not permission to postpone learning design.",
+      "dependencyRule": "Preserve existing movement, collision, accessible paths, Studio save/return and avatar interfaces throughout environmental work. Surface any technical dependency that changes this sequence before implementation.",
+      "deviationRule": "Before spending credits or implementing a request outside the active milestone, explain the deviation and ask whether to reprioritise or backlog it. Suggestions are not approvals. Continue Career Empire means read this plan and do only the next approved bounded step.",
+      "productionGate": "No further substantial game or asset production until the Blueprint workflow and affected reader updates are verified. For V2.18, consult the final release receipt; retained historical intake is separate from the next approved production milestone. Whole-campus appearance, Batch 1, paused wardrobe and classroom acceptance remain separate.",
+      "visualTargetIds": [
+        "CE-CAMPUS-01",
+        "CE-CAMPUS-02",
+        "CE-STUDIO-CONCEPT-01"
+      ],
+      "liveEvidence": {
+        "url": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
+        "repository": "https://github.com/Emmanuel-ICT-Support/GTCEM-Career-Empire",
+        "sourceCommit": "1931e2c8818265057c3202316e113631e1170608",
+        "verifiedAt": "2026-09-10",
+        "method": "Actual live capture dated 10 September; remote game main 1931e2c and all five live release-manifest file hashes independently verified during recovery. This is not new classroom or whole-campus acceptance.",
+        "image": "/evidence/arrival-playable-20260910/current-live-arrival.png",
+        "imageSha256": "9aea8f71b9e8efd971d32d517a4f6e500079aba1ec326cbe3e5b1b90e7f9a5d6",
+        "caption": "Actual live Arrival Gardens, captured 10 September 2026. Current paving and Spawn-to-Studio approach; not the unpublished lighting candidate or an accepted finished environment."
+      }
+    },
     "currentStep": {
       "id": "CE-ENV-01",
-      "title": "Play Arrival Gardens and Avatar Studio",
-      "status": "Published playable demonstration; live checks passed",
+      "title": "World Environment & Ecosystem",
+      "status": "Paving live; separate lighting and wider appearance review remain open",
       "owner": "Environment integrator; Tania: appearance and placement acceptance",
       "href": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
       "actionLabel": "Play the updated world",
@@ -198,7 +235,7 @@
         "V2-D08",
         "V2-D17"
       ],
-      "nextAction": "Try the arrival walk, Studio editing and saved return. Review this playable area before further whole-campus production.",
+      "nextAction": "Review the published paving and connected Spawn → Avatar Studio walk. The separate sky and lighting candidate is saved for review and remains unpublished.",
       "doneWhen": "Exact published build passes walking, Studio save/return, reload and mobile checks; Tania reviews the playable area.",
       "boundary": "This is not blanket Batch 1 acceptance, a wardrobe restart, or curriculum/economy change. Progress is browser-local; teacher/classroom integration remains outstanding."
     },
@@ -228,10 +265,11 @@
         "horizon": "Now",
         "title": "Try the playable Arrival-to-Studio area",
         "owner": "Environment integrator; Tania: appearance and placement acceptance",
-        "status": "Tested demonstration; publication authorised",
+        "status": "Paving live; review and specification next",
         "dependency": "Separate architecture, landscape and player-flow stages completed locally; live verification follows publication.",
         "doneWhen": "Exact published build passes walking, Studio save/return, reload and mobile checks; Tania reviews the playable area.",
-        "href": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/"
+        "href": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
+        "nextAction": "Vegetation, trees and landscaping: agree their environmental specification against the current campus references before choosing or replacing assets."
       },
       {
         "id": "CE-EST-BRIDGE-01",
@@ -498,7 +536,7 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "Hosting correction: the live game is https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ (Emmanuel-ICT-Support/GTCEM-Career-Empire, main, Pages root). The Blueprint is a separate planning website. Its former embedded playable route is a redirect to the game, not an independent live deployment. The V2.16 preview-only publication was incorrectly reported as a game release; CE-CHANGE-20260910-28 records the correction. Correct game deployment verification is underway. Batch 1 approval and classroom integration remain separate. Blueprint publication is verified; that does not prove the actual game update is deployed.",
+      "summary": "Blueprint publication is verified separately from the live game. Current game paving is published; the sky and lighting candidate remains unpublished. Ten whole-item candidates exist but are not collectively accepted. This reader shows one shared production plan, current live evidence and explicit approval limits. Historical source observations remain tracked; they are not proof of completion.",
       "facts": [
         {
           "label": "WHOLE-ITEM REVIEW / PARTS INCLUDED",
@@ -684,17 +722,17 @@
       "asOf": "2026-09-10",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.16 / playable Arrival Gardens",
+        "sourceRevision": "V2.18 / reader and workflow reconciliation",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.16 / GitHub Pages",
+        "observedLiveRevision": "V2.17 / Blueprint reader",
         "checkedAt": "2026-09-10",
-        "observedLiveSha256": "0223bb5ff404082b694fa086751059312768f6fe7d08d62e16bd7854d5fe5e5d",
+        "observedLiveSha256": "6d1be8951e9713a4b7f597e54c0319131aa4a16e3803fe50665c896ff73a6451",
         "accessCheck": "GitHub delivery repository PUBLIC and Pages built successfully; source mirror PRIVATE. Existing Sites project still returns HTTP 404 NOT_FOUND / project_not_found.",
-        "validationReceipt": "/production/arrival-playable-release-20260910.md",
-        "status": "V2.16 playable release independently verified live",
+        "validationReceipt": "/production/game-hosting-correction-20260910.md",
+        "status": "Blueprint links and redirect verified separately from actual game",
         "savedVersionId": null,
-        "deploymentId": "GitHub Pages / 0a42ff5e3881d07c98e053439e9ec4c8c9433fcd",
-        "parity": "All 270 public files match. Live keyboard walk, Studio save/return, reload persistence and 390px layout passed. Blueprint action and visual links checked at desktop/mobile sizes.",
+        "deploymentId": "GitHub Pages Blueprint / bfa3b1ca828c8089171c8aadffa2220564a80b22",
+        "parity": "271 exact files, desktop/mobile reader checks and redirect to actual game verified.",
         "resume": "Use the private canonical source and existing recovery branch; publish only validated generated output to the existing Pages repository. Read the current manifest/receipt, preserve newer history, and log material work. Legacy redirect waits for the owning Sites account.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
@@ -704,8 +742,8 @@
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
         },
-        "observedPublicCommit": "0a42ff5e3881d07c98e053439e9ec4c8c9433fcd",
-        "hashScope": "First verified V2.16 content source 73607ddd4a880bbecd5501cc6beb0ca184e448b8; final metadata closeout has a separate manifest.",
+        "observedPublicCommit": "bfa3b1ca828c8089171c8aadffa2220564a80b22",
+        "hashScope": "First V2.17 correction source 6830edd58ad512bf280dc0485d14ad06ab768b6c; final metadata manifest is independent.",
         "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
@@ -755,6 +793,33 @@
         }
       ],
       "changes": [
+        {
+          "id": "CE-CHANGE-20260910-30",
+          "date": "2026-09-10",
+          "title": "One production plan, current live evidence and continuously checked workflow",
+          "domain": "Production management and change propagation",
+          "source": "Tania, Continue Career Empire audit, 10 September 2026: requests a highly automated ongoing system, confirms the World Environment & Ecosystem front-page/sequence and deviation challenge, and says to continue. Pasted prior assistant proposals are evidence, not independent approval.",
+          "owner": "Blueprint maintainer",
+          "status": "Reader reconciled and source reviewed; publication verification pending",
+          "rationale": "A logged change and successful scan did not guarantee current reader pages. Registered-only scanning missed linked working copies; strategic phase, visible screenshot and next actions drifted separately.",
+          "dependencies": [
+            "CE-CHANGE-20260910-20",
+            "CE-CHANGE-20260910-28",
+            "CE-CHANGE-20260910-29"
+          ],
+          "supersededRecord": null,
+          "designApproval": "User requests the management sequence and explicit dependency challenges; this does not accept finished appearance, new mechanics or classroom readiness.",
+          "implementation": "One productionPlan drives Start Here, Delivery and Roadmap; current live screenshot replaces the obsolete front image. Monitor discovers linked worktrees, retains pending integrations and reports actual protection failures. Shared project rules challenge deviations before spending.",
+          "deployment": "Local candidate only; no new live Blueprint or game release claimed.",
+          "testing": "Source review, exact protected-record integrity, active-copy protection and local desktop/mobile reader checks completed. Final test/build logs retained in reconciliation-v218.",
+          "taniaAcceptance": "Requested workflow and front-page correction, not blanket game or asset acceptance.",
+          "evidence": [
+            "docs/production/workflow-system-20260910.md",
+            "/evidence/arrival-playable-20260910/current-live-arrival.png",
+            "docs/production/audit-recovery-20260910.md"
+          ],
+          "nextAction": "Publish reviewed V2.18 output and independently verify live records and reader routes."
+        },
         {
           "id": "CE-CHANGE-20260909-01",
           "date": "2026-09-09",
@@ -1427,21 +1492,69 @@
           "domain": "Game hosting and release correction",
           "source": "Tania explicitly identifies https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ as the live game. Existing Push to live request authorises corrected deployment; CE-DISCUSSION-d068d069-12e8-47e7-9766-463db9c348db.",
           "owner": "Blueprint maintainer",
-          "status": "Correct destination deployment underway",
+          "status": "Correct actual-game deployment and Blueprint links verified",
           "rationale": "Previous publication reached only the Blueprint embedded preview; calling that the live game was incorrect. Correct the actual game deployment and all current destination guidance.",
           "dependencies": [
             "CE-CHANGE-20260910-27"
           ],
           "supersededRecord": null,
           "designApproval": "No new approval or rejection inferred.",
-          "implementation": "Scoped arrival runtime update; preserve current game modules and existing avatar choices.",
-          "deployment": "Not yet deployed to actual game; Blueprint copy is a preview only.",
-          "testing": "Actual game package checks pending.",
+          "implementation": "Scoped Arrival Gardens update applied to current actual game; obsolete Studio download removed from startup, existing modules and avatar choices preserved.",
+          "deployment": "Actual game https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ verified at content commit 0b0e9505e14fdca6bfdbee6795bf157e881c4400; exact five runtime hashes and keyboard walk/Studio save/return/reload/mobile pass. Local CI: six unit tests and 30 browser tests pass. Blueprint correction source 6830edd58ad512bf280dc0485d14ad06ab768b6c: all 271 files match, desktop/mobile links pass, and the former preview redirects to the actual game.",
+          "testing": "30 browser tests, six unit tests, 61 Blueprint tests, exact runtime/publication hashes and actual live walking/save/redirect/reader checks pass.",
           "taniaAcceptance": "Positive local feedback and publication authorisation, not blanket asset acceptance.",
           "evidence": [
             "GitHub Pages API confirms Emmanuel-ICT-Support/GTCEM-Career-Empire main root is live source. Clean checkout fast-forwarded to e3b7c1b; tested files will be applied only against matching base bytes."
           ],
-          "nextAction": "Run game checks, push exact scoped changes to Emmanuel ICT main and verify actual game URL; reconcile Blueprint links."
+          "nextAction": "Use the actual game URL for play and deployment; use the Blueprint separately for planning. Wider acceptance gates remain unchanged."
+        },
+        {
+          "id": "CE-CHANGE-20260910-29",
+          "date": "2026-09-10",
+          "title": "Arrival ground materials and connected Studio route",
+          "domain": "Environment ground and routes",
+          "source": "Tania, Continue Assess Upgrade Feasibility, 10 September 2026. Stage 1 only, approximately 2% remaining usage.",
+          "owner": "Blueprint maintainer",
+          "status": "Reader reconciled and source reviewed; publication verification pending",
+          "rationale": "Use existing geometry/assets to improve visible ground quality and route continuity.",
+          "dependencies": [
+            "CE-CHANGE-20260910-28"
+          ],
+          "supersededRecord": null,
+          "designApproval": "No new approval or rejection inferred.",
+          "implementation": "Ground paving is present in the published game; separate sky and lighting candidate remains unpublished.",
+          "deployment": "Fresh recovery verification: game main 1931e2c8818265057c3202316e113631e1170608; five live files match arrival-paving-20260910 manifest.",
+          "testing": "Source review, exact protected-record integrity, active-copy protection and local desktop/mobile reader checks completed. Final test/build logs retained in reconciliation-v218.",
+          "taniaAcceptance": "Implementation and deployment authorised; finished appearance not yet accepted.",
+          "evidence": [
+            "docs/production/arrival-ground-stage1-20260910.md",
+            "docs/production/audit-recovery-20260910.md"
+          ],
+          "nextAction": "Publish reviewed V2.18 output and independently verify live records and reader routes."
+        },
+        {
+          "id": "CE-CHANGE-20260910-31",
+          "date": "2026-09-10",
+          "title": "Maintain an accurate Blueprint with proportionate automation",
+          "domain": "Workflow cost and tracking recovery",
+          "source": "Tania explicitly requests reader reconciliation, source reviews, tracking repair, validation and publication; asks for a balance of usability, currency and credit use and an assessment of an agentic Blueprint. Follow-up: Tania explicitly chooses to proceed without an agentic Blueprint; prioritise a working system and progress.",
+          "owner": "Blueprint maintainer",
+          "status": "Reader reconciled and source reviewed; publication verification pending",
+          "rationale": "Repeated full audits and historical scan noise consume attention without advancing the active work.",
+          "dependencies": [
+            "CE-CHANGE-20260910-29",
+            "CE-CHANGE-20260910-30"
+          ],
+          "supersededRecord": null,
+          "designApproval": "No agentic Blueprint: explicitly deferred by Tania. Finish existing workflow and publish; preserve game and asset approval boundaries.",
+          "implementation": "Repair worktree coverage; use changed-file review and a compact working approach while retaining evidence and release gates.",
+          "deployment": "Pending exact-source Blueprint publication.",
+          "testing": "Source review, exact protected-record integrity, active-copy protection and local desktop/mobile reader checks completed. Final test/build logs retained in reconciliation-v218.",
+          "taniaAcceptance": "Publication and proportionate maintenance requested; no new game appearance approval.",
+          "evidence": [
+            "docs/production/maintenance-20260910.md"
+          ],
+          "nextAction": "Publish reviewed V2.18 output and independently verify live records and reader routes."
         }
       ],
       "sessionStart": [
@@ -1487,7 +1600,18 @@
         "Complexity must earn its place.",
         "Only approved, bounded work moves into production."
       ],
-      "principlesSource": "Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries"
+      "principlesSource": "Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries",
+      "gamePublication": {
+        "url": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
+        "repository": "https://github.com/Emmanuel-ICT-Support/GTCEM-Career-Empire",
+        "branch": "main",
+        "pagesPath": "/",
+        "contentCommit": "1931e2c8818265057c3202316e113631e1170608",
+        "handoverCommit": "8c7b27e6d71686cfee1350628295abb49e803f1f",
+        "status": "Paving release independently hash-verified",
+        "manifestUrl": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/release-manifest.json",
+        "verification": "Actual live capture dated 10 September; remote game main 1931e2c and all five live release-manifest file hashes independently verified during recovery. This is not new classroom or whole-campus acceptance."
+      }
     }
   },
   "curriculum": [
@@ -4445,10 +4569,12 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20260910-28"
+        "CE-CHANGE-20260910-29",
+        "CE-CHANGE-20260910-30",
+        "CE-CHANGE-20260910-31"
       ],
-      "scope": "V2.17: correct the live game destination and deploy the tested arrival update to Emmanuel ICT.",
-      "disclosure": "V2.16 reached only the Blueprint preview. Actual game release and corrected links are verified separately; no wider asset or classroom acceptance.",
+      "scope": "V2.18: reconcile published paving, one production plan and proportionate workflow tracking. No game or asset production.",
+      "disclosure": "Publication verification is pending for this candidate. Unpublished lighting, wider asset acceptance, historical intake and classroom verification are separate open work; none is silently approved.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -4466,14 +4592,17 @@
         "data/operations.json",
         "data/style-guide.json",
         "docs/handoff-guide.md",
+        "docs/production/arrival-ground-stage1-20260910.md",
         "docs/production/arrival-playable-release-20260910.md",
         "docs/production/asset-batch-review-2026-09-10.md",
+        "docs/production/audit-recovery-20260910.md",
         "docs/production/avatar-campus-textured-kit-2026-09-10.md",
         "docs/production/avatar-precinct-layout-stage1-2026-09-10.md",
         "docs/production/batch-01-ten-items-2026-09-10.md",
         "docs/production/change-workflows.md",
         "docs/production/current-state.md",
         "docs/production/game-hosting-correction-20260910.md",
+        "docs/production/maintenance-20260910.md",
         "docs/production/operating-protocol.md",
         "docs/production/production-plan.md",
         "docs/production/project-automation-setup-2026-09-10.md",
@@ -4484,7 +4613,9 @@
         "docs/production/v212-release-receipt-2026-09-10.md",
         "docs/production/visual-evidence-manifest.json",
         "docs/production/visual-register.md",
+        "docs/production/workflow-system-20260910.md",
         "package.json",
+        "public/evidence/arrival-playable-20260910/current-live-arrival.png",
         "public/evidence/asset-review-20260910/index.html",
         "public/evidence/asset-review-20260910/review.js",
         "public/evidence/asset-review-20260910/viewer.html",
@@ -4594,22 +4725,25 @@
         "scripts/prepare-pages.mjs",
         "scripts/project-guard.mjs",
         "scripts/validate-impact.mjs",
+        "scripts/workflow-monitor.mjs",
         "tests/asset-register.test.mjs",
         "tests/blueprint.test.mjs",
         "tests/browser-smoke.mjs",
         "tests/change-impact.test.mjs",
+        "tests/production-plan.test.mjs",
         "tests/project-guard.test.mjs",
         "tests/reader-currency.test.mjs",
+        "tests/workflow-monitor.test.mjs",
         "vite.pages.config.ts"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "c63f34b28caff7a7f1c23b218f1fccf9d23a353df489288119135598b12c563b"
+          "sha256": "d74d9d088bfa1fc52dd6184afafe573c85dd940fd37200fce385fb8e08e1bfb8"
         },
         {
           "path": "README.md",
-          "sha256": "fb0a62bbe7ba70f377426826c454540dd640e4ba7ea74f3d085fe53bc0205119"
+          "sha256": "3d808b68e6cddafcb8ddef494c8e0a3416b1e6a8c547b153049ade9d200dce8d"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -4617,15 +4751,15 @@
         },
         {
           "path": "app/blueprint-surfaces.tsx",
-          "sha256": "cc3305d62307ad93bf641c4ca39d5488274d4eabc7ac519efaa56b5d65a60961"
+          "sha256": "df0b38d264effa4a761c0c071f7f21d3348abeb92e968ec8c98dd09b02fca2b5"
         },
         {
           "path": "app/change-integration.tsx",
-          "sha256": "f11e93315c12a594448515c5539cca84491712d02d0a2f51bb9c1faa9c27502f"
+          "sha256": "0d325722a9f41366deaab8d881dadfbc7c630c856a69add77570ebc1c5b31957"
         },
         {
           "path": "app/current-evidence.tsx",
-          "sha256": "1596d913802e36e9dc007391d4938ab4460a6330e746b03714415bfff29eb4a5"
+          "sha256": "72b62ecdfa183dbf37d1e96a9d8d318d464781ab7d30d2ba9268150e26710fd4"
         },
         {
           "path": "app/globals.css",
@@ -4645,7 +4779,7 @@
         },
         {
           "path": "data/blueprint.ts",
-          "sha256": "c2af407274006e3ae1212b89b6f98f4ca91b31ad785fc2bac07e385ac3b2ae1a"
+          "sha256": "1cbf4c6b761cc0bfedf86c3a0eb5b9174d11883b18faae0be2a79236942e0d97"
         },
         {
           "path": "data/change-workflows.json",
@@ -4657,7 +4791,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "2376e9248a417bd2f26b2356828fe77f81734cb9ca30a8dd017012e52fb8e7b2"
+          "sha256": "2b12ed6c1c022191653497fa9132bedd2f4231b695c295b0d819a06c6b5fa070"
         },
         {
           "path": "data/style-guide.json",
@@ -4665,7 +4799,7 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "fd1c3151d5f992f8c285879425dd3e66ca093b774c9136ce013d916c310f9c08"
+          "sha256": "b783b52ab6797e1594c8fe6b8830e5e1628ae58b804ffc1c6eee13f49489fe88"
         },
         {
           "path": "docs/production/arrival-playable-release-20260910.md",
@@ -4693,11 +4827,11 @@
         },
         {
           "path": "docs/production/current-state.md",
-          "sha256": "ab9920fb6f346f821f541497112bdc361352b40c5923f3a664249afe71929488"
+          "sha256": "8cf468ea34fb1764c2f65e608e89796c32c59469b3e8dce19d894eea05f99bb2"
         },
         {
           "path": "docs/production/game-hosting-correction-20260910.md",
-          "sha256": "a516ddf819a21653bd9223a001d2b310bba706b05c139851d91af91252598688"
+          "sha256": "f38899a0e4de8c7314a81baa589ac46734a9a1144065c27c0d88c10eeed8e5e9"
         },
         {
           "path": "docs/production/operating-protocol.md",
@@ -4705,7 +4839,7 @@
         },
         {
           "path": "docs/production/production-plan.md",
-          "sha256": "77c4e2bbecce241561e92bbce1e32db91c735687155cc6a1831e78e187e277e6"
+          "sha256": "8a16269a9a87f08c985a47ced9baf6da09ede8c7b5f9458c39cf9df620fa457e"
         },
         {
           "path": "docs/production/project-automation-setup-2026-09-10.md",
@@ -4713,7 +4847,7 @@
         },
         {
           "path": "docs/production/project-work-contract.md",
-          "sha256": "f089ce726d67e6892b4b0528aee4a1a079d72c648e06befe8c51ffcf7f6abe77"
+          "sha256": "6c498f97d3b832454daa70687f2b583b23d2f8ac70ed66a2785c369b60d99ac9"
         },
         {
           "path": "docs/production/publication-and-production-2026-09-10.md",
@@ -4741,7 +4875,7 @@
         },
         {
           "path": "package.json",
-          "sha256": "0f2ebd283b05d8f4ec63e9ff1c0df9ba4df23789fbb5acefe1e0786bc36e5bb2"
+          "sha256": "e62ec40b5a70716147eaa34d0531db5b69188e26fe949e868b8fae7587d7e4a1"
         },
         {
           "path": "public/evidence/asset-review-20260910/index.html",
@@ -5165,7 +5299,7 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "9c8ad5d5a4bb4f5c3d069bc8baecd316db03108e47cb832e99c346400ddc2ae6"
+          "sha256": "d4fd0b0fad8a76114938c7a06e53c593e8cf3aae21e5fc0c9a9cb8fb74ef0062"
         },
         {
           "path": "scripts/prepare-pages.mjs",
@@ -5173,7 +5307,7 @@
         },
         {
           "path": "scripts/project-guard.mjs",
-          "sha256": "3849393b57c96979927da43e3b9176cfde1360e23b664b5446f113aa064e08fd"
+          "sha256": "072295430e579bffd4b11030b6077295fd89f3cdadcb69147ca6c31587de4d15"
         },
         {
           "path": "scripts/validate-impact.mjs",
@@ -5189,7 +5323,7 @@
         },
         {
           "path": "tests/browser-smoke.mjs",
-          "sha256": "70354e4691d561d4c40e1242d1bf216ec80ef19ddf9a44a3583876e7c8ea6155"
+          "sha256": "f20a819a9b01fd9efdbc7b31c36f1856706f93c85bde7f16721d9973298be90b"
         },
         {
           "path": "tests/change-impact.test.mjs",
@@ -5197,19 +5331,763 @@
         },
         {
           "path": "tests/project-guard.test.mjs",
-          "sha256": "403b7b90471efe3368f3d42b77f9cc4fe4b0185809fb3e1b7cf331f4ac6fe5c2"
+          "sha256": "b16a981348f44ba9ee77484a6dd63e8724bd81d4f9b62efdff3ed757d18bca44"
         },
         {
           "path": "tests/reader-currency.test.mjs",
-          "sha256": "98bf71cb94193cab640e0c8f799403b4d6ebea90a3e8344c6d1ae3f37884b82c"
+          "sha256": "88efb8ff091dc34ebb33706256d715deefa1c4ca13b13978f7fa6852e58477e9"
         },
         {
           "path": "vite.pages.config.ts",
           "sha256": "c253d937f5e17c2ae1d4307844cff0de25cb8aa10509857103e6bfaedfc0d374"
+        },
+        {
+          "path": "scripts/workflow-monitor.mjs",
+          "sha256": "a988b8446802d5b2bcd9186e50980d821dc040afb60023e8ae5a365e981d1738"
+        },
+        {
+          "path": "tests/workflow-monitor.test.mjs",
+          "sha256": "3d797bbea4da50a483414bc40f49097069184761df6d700b7f5aadf829cbb5b5"
+        },
+        {
+          "path": "tests/production-plan.test.mjs",
+          "sha256": "c1dcb306405b0d96e50ecc8c785f061eeb5b606d973109b91fb2fe772608872d"
+        },
+        {
+          "path": "docs/production/maintenance-20260910.md",
+          "sha256": "17336a867e373a3d35016cfea99228769396c1e8c8eac6ece50e84b68ef03ad0"
+        },
+        {
+          "path": "docs/production/workflow-system-20260910.md",
+          "sha256": "8ec4c1f459778e7a3666a7e56cf25548eee6f29e523308b93ee8e80979403ff3"
+        },
+        {
+          "path": "docs/production/arrival-ground-stage1-20260910.md",
+          "sha256": "8aaf70421af631ee7105062257ab39da1b65943eb35c46f80cfb27c867dc99ba"
+        },
+        {
+          "path": "docs/production/audit-recovery-20260910.md",
+          "sha256": "81705395eb906e80c7f3375dccc358ff8c7c9d0371d8e9e2794f81aeac97e8e1"
+        },
+        {
+          "path": "public/evidence/arrival-playable-20260910/current-live-arrival.png",
+          "sha256": "9aea8f71b9e8efd971d32d517a4f6e500079aba1ec326cbe3e5b1b90e7f9a5d6"
         }
       ]
     },
     "changes": [
+      {
+        "changeId": "CE-CHANGE-20260910-31",
+        "title": "Maintain an accurate Blueprint with proportionate automation",
+        "types": [
+          "governance"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Reduce repeated maintenance while preserving accurate visible status and version-bound evidence.",
+        "before": "Historical observations, missing working-copy protection and stale reader summaries obstruct useful progress.",
+        "after": "Protected active copies, visible retained backlog, one production plan and bounded daily maintenance.",
+        "source": "Tania explicitly requests reader reconciliation, source reviews, tracking repair, validation and publication; asks for a balance of usability, currency and credit use and an assessment of an agentic Blueprint.",
+        "owner": "Blueprint maintainer",
+        "nextAction": "Publish reviewed V2.18 output and independently verify live records and affected reader routes.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Start Here displays the shared World Environment & Ecosystem plan, current paving screenshot, actual game link and unpublished lighting boundary.",
+            "records": [
+              "CE-CHANGE-20260910-31",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Start Here displays the shared World Environment & Ecosystem plan, current paving screenshot, actual game link and unpublished lighting boundary. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Start Here, Delivery and Roadmap all use ProductionPhase and the same operations.productionPlan; completed paving is not presented as new production.",
+            "records": [
+              "CE-CHANGE-20260910-31",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Start Here, Delivery and Roadmap all use ProductionPhase and the same operations.productionPlan; completed paving is not presented as new production. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Records 29–31 preserve the initial paving hold, later publication clarification and recovery findings; they separately record current deployment and deferred agentic work.",
+            "records": [
+              "CE-CHANGE-20260910-31",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Records 29–31 preserve the initial paving hold, later publication clarification and recovery findings; they separately record current deployment and deferred agentic work. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "AGENTS, README, successor entry and maintenance guidance now use current source identity and proportionate changed-file checks while retaining private recovery and release gates.",
+            "records": [
+              "CE-CHANGE-20260910-31",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "AGENTS, README, successor entry and maintenance guidance now use current source identity and proportionate changed-file checks while retaining private recovery and release gates. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Public and private records and production Markdown are regenerated from canonical inputs; the new evidence documents have real public export destinations.",
+            "records": [
+              "CE-CHANGE-20260910-31",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Public and private records and production Markdown are regenerated from canonical inputs; the new evidence documents have real public export destinations. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "records": [
+              "CE-CHANGE-20260910-31"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "docs/production/maintenance-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Awaiting independent live publication verification.",
+              "date": ""
+            },
+            "nextAction": "Compare the live manifest and downloaded files with this validated build, then inspect Start Here, Delivery, Roadmap and world on desktop/mobile."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "All 17 protected decisions and four production approvals retain their existing values; the maintenance request does not approve curriculum, mechanics or appearance.",
+            "records": [
+              "CE-CHANGE-20260910-31",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All 17 protected decisions and four production approvals retain their existing values; the maintenance request does not approve curriculum, mechanics or appearance. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "Current game and planning-reader URLs remain distinct. Evidence links resolve to generated production documents; private intake is not exposed as public source.",
+            "records": [
+              "CE-CHANGE-20260910-31",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current game and planning-reader URLs remain distinct. Evidence links resolve to generated production documents; private intake is not exposed as public source. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Paving source and five live runtime hashes were verified in recovery; this release reconciles that existing work, with no game source edits or new gameplay certification.",
+            "records": [
+              "CE-CHANGE-20260910-31",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Paving source and five live runtime hashes were verified in recovery; this release reconciles that existing work, with no game source edits or new gameplay certification. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Private source remains the existing recovery branch; live game 1931e2c is separate from Blueprint source. Successor entry now resumes the current plan instead of V2.8.",
+            "records": [
+              "CE-CHANGE-20260910-31",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Private source remains the existing recovery branch; live game 1931e2c is separate from Blueprint source. Successor entry now resumes the current plan instead of V2.8. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          }
+        ],
+        "projectChanges": {
+          "design-atlas": {
+            ".career-empire/check.mjs": "100644:2cdc50f42eb88eaeedaee20d33697f167b70f407",
+            ".career-empire/guard.mjs": "100644:89928356d2d7bad213363c52333d12b65bc3099e",
+            ".career-empire/hooks/pre-push": "100755:fc027de48ad849c57935f67909d9e7b1375cbe30",
+            ".career-empire/project-id": "100644:097ecbab4d64b83403fb80b07550fb2082d3dd87",
+            "CAREER-EMPIRE-WORKFLOW.md": "100644:1586541ee29219ec171f999631ac6dbad5cba4d6"
+          },
+          "megatrends": {
+            ".career-empire/check.mjs": "100644:2cdc50f42eb88eaeedaee20d33697f167b70f407",
+            ".career-empire/guard.mjs": "100644:89928356d2d7bad213363c52333d12b65bc3099e",
+            ".career-empire/hooks/pre-push": "100755:fc027de48ad849c57935f67909d9e7b1375cbe30",
+            ".career-empire/project-id": "100644:9011692e671905c71edb46e396267e0541369147",
+            "CAREER-EMPIRE-WORKFLOW.md": "100644:1586541ee29219ec171f999631ac6dbad5cba4d6"
+          },
+          "avatar-creator": {
+            ".career-empire/check.mjs": "100644:2cdc50f42eb88eaeedaee20d33697f167b70f407",
+            ".career-empire/guard.mjs": "100644:89928356d2d7bad213363c52333d12b65bc3099e",
+            ".career-empire/hooks/pre-push": "100755:fc027de48ad849c57935f67909d9e7b1375cbe30",
+            ".career-empire/project-id": "100644:a24abb0c789015f8bf8cb3d9e821ca07a93027d4",
+            "CAREER-EMPIRE-WORKFLOW.md": "100644:1586541ee29219ec171f999631ac6dbad5cba4d6"
+          },
+          "game-live": {
+            ".career-empire/check.mjs": "100644:2cdc50f42eb88eaeedaee20d33697f167b70f407",
+            ".career-empire/guard.mjs": "100644:89928356d2d7bad213363c52333d12b65bc3099e",
+            ".career-empire/hooks/pre-push": "100755:fc027de48ad849c57935f67909d9e7b1375cbe30",
+            ".career-empire/project-id": "100644:7b8b66c81c0181068f4c47ec17e01af8d98ff64d",
+            "CAREER-EMPIRE-WORKFLOW.md": "100644:1586541ee29219ec171f999631ac6dbad5cba4d6"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-30",
+        "title": "One production plan, current live evidence and continuously checked workflow",
+        "types": [
+          "governance",
+          "decision",
+          "visual",
+          "implementation"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Make the existing Blueprint the reliable shared production plan and detect missing integration continuously.",
+        "before": "Separate page summaries drifted; a registered-folder scan could report no new changes while linked working copies and pending intake were missed.",
+        "after": "One shared strategic plan and dated live evidence, tested linked-worktree discovery, persistent unresolved queues and explicit deviation rules.",
+        "source": "Tania, Continue Career Empire audit, 10 September 2026: requests a highly automated ongoing system, confirms the World Environment & Ecosystem front-page/sequence and deviation challenge, and says to continue. Pasted prior assistant proposals are evidence, not independent approval.",
+        "owner": "Blueprint maintainer",
+        "nextAction": "Publish reviewed V2.18 output and independently verify live records and affected reader routes.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Start Here displays the shared World Environment & Ecosystem plan, current paving screenshot, actual game link and unpublished lighting boundary.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Start Here displays the shared World Environment & Ecosystem plan, current paving screenshot, actual game link and unpublished lighting boundary. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Start Here, Delivery and Roadmap all use ProductionPhase and the same operations.productionPlan; completed paving is not presented as new production.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Start Here, Delivery and Roadmap all use ProductionPhase and the same operations.productionPlan; completed paving is not presented as new production. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Records 29–31 preserve the initial paving hold, later publication clarification and recovery findings; they separately record current deployment and deferred agentic work.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Records 29–31 preserve the initial paving hold, later publication clarification and recovery findings; they separately record current deployment and deferred agentic work. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "AGENTS, README, successor entry and maintenance guidance now use current source identity and proportionate changed-file checks while retaining private recovery and release gates.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "AGENTS, README, successor entry and maintenance guidance now use current source identity and proportionate changed-file checks while retaining private recovery and release gates. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Public and private records and production Markdown are regenerated from canonical inputs; the new evidence documents have real public export destinations.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Public and private records and production Markdown are regenerated from canonical inputs; the new evidence documents have real public export destinations. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "records": [
+              "CE-CHANGE-20260910-30"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "docs/production/workflow-system-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Awaiting source and affected reader comparisons",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Compare the live manifest and downloaded files with this validated build, then inspect Start Here, Delivery, Roadmap and world on desktop/mobile."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "All 17 protected decisions and four production approvals retain their existing values; the maintenance request does not approve curriculum, mechanics or appearance.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All 17 protected decisions and four production approvals retain their existing values; the maintenance request does not approve curriculum, mechanics or appearance. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "Current game and planning-reader URLs remain distinct. Evidence links resolve to generated production documents; private intake is not exposed as public source.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current game and planning-reader URLs remain distinct. Evidence links resolve to generated production documents; private intake is not exposed as public source. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Paving source and five live runtime hashes were verified in recovery; this release reconciles that existing work, with no game source edits or new gameplay certification.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Paving source and five live runtime hashes were verified in recovery; this release reconciles that existing work, with no game source edits or new gameplay certification. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Private source remains the existing recovery branch; live game 1931e2c is separate from Blueprint source. Successor entry now resumes the current plan instead of V2.8.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Private source remains the existing recovery branch; live game 1931e2c is separate from Blueprint source. Successor entry now resumes the current plan instead of V2.8. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "updated",
+            "action": "Exact curriculum ledger and reciprocal experience mappings are unchanged; the cohort/edition decision remains open and the release makes no coverage acceptance claim.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact curriculum ledger and reciprocal experience mappings are unchanged; the cohort/edition decision remains open and the release makes no coverage acceptance claim. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "flow",
+            "disposition": "checked-unchanged",
+            "action": "Experience mappings and current game/EST destinations are unchanged. Paving and reader maintenance do not complete the identity/evidence/return loop.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Experience mappings and current game/EST destinations are unchanged. Paving and reader maintenance do not complete the identity/evidence/return loop. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Existing proposed learning pilot and player journey retain their status; the production sequence is not presented as a newly approved lesson sequence.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing proposed learning pilot and player journey retain their status; the production sequence is not presented as a newly approved lesson sequence. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "updated",
+            "action": "The preserved Unit/semester and assessment source records are unchanged; a reader workflow release is not taught or assessed coverage.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The preserved Unit/semester and assessment source records are unchanged; a reader workflow release is not taught or assessed coverage. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "The classroom caveat remains visible. No teacher matrix, roles, saved review or real student records are modified or falsely certified.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The classroom caveat remains visible. No teacher matrix, roles, saved review or real student records are modified or falsely certified. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "Ground approach is published but the whole campus and Batch 1 remain prototypes. Existing access, economy and unlock decisions are unchanged.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Ground approach is published but the whole campus and Batch 1 remain prototypes. Existing access, economy and unlock decisions are unchanged. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Campus place card now states published paving and unpublished lighting. Existing Studio purpose, approach and unapproved wider-campus boundaries are preserved.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Campus place card now states published paving and unpublished lighting. Existing Studio purpose, approach and unapproved wider-campus boundaries are preserved. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Identity, fitting limitations and the paused blazer evidence retain their exact source records. No clothing or animation production is included in this reader release.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Identity, fitting limitations and the paused blazer evidence retain their exact source records. No clothing or animation production is included in this reader release. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "The exact six existing concept/built references remain byte-identical. Current live paving evidence is labelled separately from approved campus targets and the unpublished lighting candidate.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The exact six existing concept/built references remain byte-identical. Current live paving evidence is labelled separately from approved campus targets and the unpublished lighting candidate. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "No meshes, asset approvals or source originals were changed. Existing ten-item register and six-reference hashes remain intact; the live evidence hash is checked by the production-plan test.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No meshes, asset approvals or source originals were changed. Existing ten-item register and six-reference hashes remain intact; the live evidence hash is checked by the production-plan test. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "The inspected current Arrival Gardens screenshot shows the paved shaded approach; front page and campus place card share that evidence. Historical Studio and Town Hall film remain labelled historical.",
+            "records": [
+              "CE-CHANGE-20260910-30",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The inspected current Arrival Gardens screenshot shows the paved shaded approach; front page and campus place card share that evidence. Historical Studio and Town Hall film remain labelled historical. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          }
+        ]
+      },
       {
         "changeId": "CE-CHANGE-20260910-17",
         "title": "Change-driven Blueprint update workflow",
@@ -9174,13 +10052,13 @@
           "implementation",
           "release"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Previous publication reached only the Blueprint embedded preview; calling that the live game was incorrect. Correct the actual game deployment and all current destination guidance.",
         "before": "Blueprint preview was incorrectly presented as the live game.",
         "after": "Actual game URL receives tested arrival update; Blueprint retains its separate planning role.",
         "source": "Tania explicitly identifies https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ as the live game. Existing Push to live request authorises corrected deployment; CE-DISCUSSION-d068d069-12e8-47e7-9766-463db9c348db.",
         "owner": "Game and Blueprint maintainer",
-        "nextAction": "Verify actual game deployment, then publish corrected Blueprint links and redirect and inspect the live reader.",
+        "nextAction": "Maintain separate game and Blueprint destinations; preserve pending visual/classroom acceptance.",
         "targets": [
           {
             "surface": "start",
@@ -9284,7 +10162,7 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
+            "disposition": "updated",
             "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "records": [
               "CE-CHANGE-20260910-28",
@@ -9296,11 +10174,11 @@
               "docs/production/game-hosting-correction-20260910.md"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Actual game and corrected Blueprint deployments are independently checked.",
-              "date": "2026-09-10"
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Actual game https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ verified at content commit 0b0e9505e14fdca6bfdbee6795bf157e881c4400; exact five runtime hashes and keyboard walk/Studio save/return/reload/mobile pass. Local CI: six unit tests and 30 browser tests pass. Blueprint correction source 6830edd58ad512bf280dc0485d14ad06ab768b6c: all 271 files match, desktop/mobile links pass, and the former preview redirects to the actual game."
             },
-            "nextAction": "Verify actual game manifest and live walk/save flow, publish corrected Blueprint links, then verify redirect and reader."
+            "nextAction": "Keep independent game and Blueprint verification receipts."
           },
           {
             "surface": "decisions",
@@ -9461,6 +10339,435 @@
               "method": "No new assets or asset approvals in this correction; the arrival native module is deployed with its existing dependencies."
             },
             "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          }
+        ],
+        "externalDeployment": {
+          "repository": "https://github.com/Emmanuel-ICT-Support/GTCEM-Career-Empire",
+          "commit": "0b0e9505e14fdca6bfdbee6795bf157e881c4400",
+          "manifest": {
+            "release": "arrival-gardens-20260910",
+            "gameUrl": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
+            "baseCommit": "e3b7c1be950681fd95629ce9ea8a53f37082869b",
+            "files": [
+              {
+                "path": "app.js",
+                "sha256": "5f9642cc4905970730f3bdd53cc926c499b15a2e33c861d2f64af4ffb2c7b37f"
+              },
+              {
+                "path": "world.js",
+                "sha256": "bc5d47cf22a39864d5c0c18def01da9c7fcfd29d97ddecbe35e80c1192384229"
+              },
+              {
+                "path": "arrival-precinct.js",
+                "sha256": "837fafd444ccb3bba0e94b1e1ede190f8331fa15f722e7d920c2854fed88e0f6"
+              },
+              {
+                "path": "index.html",
+                "sha256": "c8a967365f4d2b09f97a7b26f2fbb8dd1b0c911c8302a3c53fa24b721e71db9e"
+              },
+              {
+                "path": "style.css",
+                "sha256": "f660228ef3aa7ec7a71f0b2756cc678db5ece9f2ced505f5e7fa5996a1260de7"
+              }
+            ]
+          }
+        },
+        "projectChanges": {
+          "megatrends": {
+            "AGENTS.md": "100644:2431eb5453d3efe2058aa6c26bc2ed73446a76b1"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-29",
+        "title": "Arrival ground materials and connected Studio route",
+        "types": [
+          "visual",
+          "building",
+          "implementation",
+          "release"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Maximum visible gain within about 2% remaining usage: stage 1 ground/path only.",
+        "before": "Shared wall-stone mapping on long walkway and isolated arrival route.",
+        "after": "Published paving is represented accurately across Blueprint current status; lighting remains an unpublished candidate.",
+        "source": "Tania, Continue Assess Upgrade Feasibility, 10 September 2026; two recovered campus reference screenshots.; Tania subsequently clarified element-by-element acceptance and said OK do that for paving publication, then sky/lighting.",
+        "owner": "Blueprint and game maintainer",
+        "nextAction": "Publish reviewed V2.18 output and independently verify live records and affected reader routes.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Start Here displays the shared World Environment & Ecosystem plan, current paving screenshot, actual game link and unpublished lighting boundary.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Start Here displays the shared World Environment & Ecosystem plan, current paving screenshot, actual game link and unpublished lighting boundary. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Start Here, Delivery and Roadmap all use ProductionPhase and the same operations.productionPlan; completed paving is not presented as new production.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Start Here, Delivery and Roadmap all use ProductionPhase and the same operations.productionPlan; completed paving is not presented as new production. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Records 29–31 preserve the initial paving hold, later publication clarification and recovery findings; they separately record current deployment and deferred agentic work.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Records 29–31 preserve the initial paving hold, later publication clarification and recovery findings; they separately record current deployment and deferred agentic work. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "AGENTS, README, successor entry and maintenance guidance now use current source identity and proportionate changed-file checks while retaining private recovery and release gates.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "AGENTS, README, successor entry and maintenance guidance now use current source identity and proportionate changed-file checks while retaining private recovery and release gates. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Public and private records and production Markdown are regenerated from canonical inputs; the new evidence documents have real public export destinations.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Public and private records and production Markdown are regenerated from canonical inputs; the new evidence documents have real public export destinations. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "records": [
+              "CE-CHANGE-20260910-29"
+            ],
+            "owner": "Blueprint release maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Pending source and reader reconciliation against the published paving release.",
+              "date": ""
+            },
+            "nextAction": "Compare the live manifest and downloaded files with this validated build, then inspect Start Here, Delivery, Roadmap and world on desktop/mobile."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "The exact six existing concept/built references remain byte-identical. Current live paving evidence is labelled separately from approved campus targets and the unpublished lighting candidate.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The exact six existing concept/built references remain byte-identical. Current live paving evidence is labelled separately from approved campus targets and the unpublished lighting candidate. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "The inspected current Arrival Gardens screenshot shows the paved shaded approach; front page and campus place card share that evidence. Historical Studio and Town Hall film remain labelled historical.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The inspected current Arrival Gardens screenshot shows the paved shaded approach; front page and campus place card share that evidence. Historical Studio and Town Hall film remain labelled historical. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "No meshes, asset approvals or source originals were changed. Existing ten-item register and six-reference hashes remain intact; the live evidence hash is checked by the production-plan test.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No meshes, asset approvals or source originals were changed. Existing ten-item register and six-reference hashes remain intact; the live evidence hash is checked by the production-plan test. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Campus place card now states published paving and unpublished lighting. Existing Studio purpose, approach and unapproved wider-campus boundaries are preserved.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Campus place card now states published paving and unpublished lighting. Existing Studio purpose, approach and unapproved wider-campus boundaries are preserved. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Identity, fitting limitations and the paused blazer evidence retain their exact source records. No clothing or animation production is included in this reader release.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Identity, fitting limitations and the paused blazer evidence retain their exact source records. No clothing or animation production is included in this reader release. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "Ground approach is published but the whole campus and Batch 1 remain prototypes. Existing access, economy and unlock decisions are unchanged.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Ground approach is published but the whole campus and Batch 1 remain prototypes. Existing access, economy and unlock decisions are unchanged. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "All 17 protected decisions and four production approvals retain their existing values; the maintenance request does not approve curriculum, mechanics or appearance.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All 17 protected decisions and four production approvals retain their existing values; the maintenance request does not approve curriculum, mechanics or appearance. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Paving source and five live runtime hashes were verified in recovery; this release reconciles that existing work, with no game source edits or new gameplay certification.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Paving source and five live runtime hashes were verified in recovery; this release reconciles that existing work, with no game source edits or new gameplay certification. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "flow",
+            "disposition": "checked-unchanged",
+            "action": "Experience mappings and current game/EST destinations are unchanged. Paving and reader maintenance do not complete the identity/evidence/return loop.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Experience mappings and current game/EST destinations are unchanged. Paving and reader maintenance do not complete the identity/evidence/return loop. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "The classroom caveat remains visible. No teacher matrix, roles, saved review or real student records are modified or falsely certified.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The classroom caveat remains visible. No teacher matrix, roles, saved review or real student records are modified or falsely certified. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Private source remains the existing recovery branch; live game 1931e2c is separate from Blueprint source. Successor entry now resumes the current plan instead of V2.8.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Private source remains the existing recovery branch; live game 1931e2c is separate from Blueprint source. Successor entry now resumes the current plan instead of V2.8. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "Current game and planning-reader URLs remain distinct. Evidence links resolve to generated production documents; private intake is not exposed as public source.",
+            "records": [
+              "CE-CHANGE-20260910-29",
+              "CE-PLAN-01"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "/production/maintenance-20260910.md",
+              "/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current game and planning-reader URLs remain distinct. Evidence links resolve to generated production documents; private intake is not exposed as public source. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this verified boundary; revisit only when its source or approved scope changes."
           }
         ]
       }

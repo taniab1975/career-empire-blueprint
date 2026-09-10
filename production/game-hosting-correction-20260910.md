@@ -8,4 +8,4 @@ Apply the tested arrival code to the latest actual game source, preserving exist
 
 ## Current status
 
-Actual game checks/deployment verification pending.
+Actual game https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ verified at content commit 0b0e9505e14fdca6bfdbee6795bf157e881c4400; exact five runtime hashes and keyboard walk/Studio save/return/reload/mobile pass. Local CI: six unit tests and 30 browser tests pass. Blueprint correction source 6830edd58ad512bf280dc0485d14ad06ab768b6c: all 271 files match, desktop/mobile links pass, and the former preview redirects to the actual game.

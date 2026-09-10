@@ -2,9 +2,562 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.17: correct the live game destination and deploy the tested arrival update to Emmanuel ICT.
+Release scope: V2.18: reconcile published paving, one production plan and proportionate workflow tracking. No game or asset production.
 
-V2.16 reached only the Blueprint preview. Actual game release and corrected links are verified separately; no wider asset or classroom acceptance.
+Publication verification is pending for this candidate. Unpublished lighting, wider asset acceptance, historical intake and classroom verification are separate open work; none is silently approved.
+
+## CE-CHANGE-20260910-31 — Maintain an accurate Blueprint with proportionate automation
+
+Integration: **ready-for-publication**. Types: governance. Owner: Blueprint maintainer.
+
+**Objective:** Reduce repeated maintenance while preserving accurate visible status and version-bound evidence.
+
+**Before:** Historical observations, missing working-copy protection and stale reader summaries obstruct useful progress.
+
+**Required result:** Protected active copies, visible retained backlog, one production plan and bounded daily maintenance.
+
+**Source:** Tania explicitly requests reader reconciliation, source reviews, tracking repair, validation and publication; asks for a balance of usability, currency and credit use and an assessment of an agentic Blueprint.
+
+**Next:** Publish reviewed V2.18 output and independently verify live records and affected reader routes.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Start Here displays the shared World Environment & Ecosystem plan, current paving screenshot, actual game link and unpublished lighting boundary.
+
+Records: CE-CHANGE-20260910-31, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Start Here displays the shared World Environment & Ecosystem plan, current paving screenshot, actual game link and unpublished lighting boundary. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Start Here, Delivery and Roadmap all use ProductionPhase and the same operations.productionPlan; completed paving is not presented as new production.
+
+Records: CE-CHANGE-20260910-31, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / Start Here, Delivery and Roadmap all use ProductionPhase and the same operations.productionPlan; completed paving is not presented as new production. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Records 29–31 preserve the initial paving hold, later publication clarification and recovery findings; they separately record current deployment and deferred agentic work.
+
+Records: CE-CHANGE-20260910-31, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Records 29–31 preserve the initial paving hold, later publication clarification and recovery findings; they separately record current deployment and deferred agentic work. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+AGENTS, README, successor entry and maintenance guidance now use current source identity and proportionate changed-file checks while retaining private recovery and release gates.
+
+Records: CE-CHANGE-20260910-31, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / AGENTS, README, successor entry and maintenance guidance now use current source identity and proportionate changed-file checks while retaining private recovery and release gates. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Public and private records and production Markdown are regenerated from canonical inputs; the new evidence documents have real public export destinations.
+
+Records: CE-CHANGE-20260910-31, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Public and private records and production Markdown are regenerated from canonical inputs; the new evidence documents have real public export destinations. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260910-31. Owner: Blueprint release maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Awaiting independent live publication verification.
+
+- [Evidence](docs/production/maintenance-20260910.md)
+
+Next: Compare the live manifest and downloaded files with this validated build, then inspect Start Here, Delivery, Roadmap and world on desktop/mobile.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+All 17 protected decisions and four production approvals retain their existing values; the maintenance request does not approve curriculum, mechanics or appearance.
+
+Records: CE-CHANGE-20260910-31, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / All 17 protected decisions and four production approvals retain their existing values; the maintenance request does not approve curriculum, mechanics or appearance. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Current game and planning-reader URLs remain distinct. Evidence links resolve to generated production documents; private intake is not exposed as public source.
+
+Records: CE-CHANGE-20260910-31, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Current game and planning-reader URLs remain distinct. Evidence links resolve to generated production documents; private intake is not exposed as public source. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Paving source and five live runtime hashes were verified in recovery; this release reconciles that existing work, with no game source edits or new gameplay certification.
+
+Records: CE-CHANGE-20260910-31, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / Paving source and five live runtime hashes were verified in recovery; this release reconciles that existing work, with no game source edits or new gameplay certification. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Private source remains the existing recovery branch; live game 1931e2c is separate from Blueprint source. Successor entry now resumes the current plan instead of V2.8.
+
+Records: CE-CHANGE-20260910-31, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Private source remains the existing recovery branch; live game 1931e2c is separate from Blueprint source. Successor entry now resumes the current plan instead of V2.8. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+## CE-CHANGE-20260910-30 — One production plan, current live evidence and continuously checked workflow
+
+Integration: **ready-for-publication**. Types: governance, decision, visual, implementation. Owner: Blueprint maintainer.
+
+**Objective:** Make the existing Blueprint the reliable shared production plan and detect missing integration continuously.
+
+**Before:** Separate page summaries drifted; a registered-folder scan could report no new changes while linked working copies and pending intake were missed.
+
+**Required result:** One shared strategic plan and dated live evidence, tested linked-worktree discovery, persistent unresolved queues and explicit deviation rules.
+
+**Source:** Tania, Continue Career Empire audit, 10 September 2026: requests a highly automated ongoing system, confirms the World Environment & Ecosystem front-page/sequence and deviation challenge, and says to continue. Pasted prior assistant proposals are evidence, not independent approval.
+
+**Next:** Publish reviewed V2.18 output and independently verify live records and affected reader routes.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Start Here displays the shared World Environment & Ecosystem plan, current paving screenshot, actual game link and unpublished lighting boundary.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Start Here displays the shared World Environment & Ecosystem plan, current paving screenshot, actual game link and unpublished lighting boundary. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Start Here, Delivery and Roadmap all use ProductionPhase and the same operations.productionPlan; completed paving is not presented as new production.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / Start Here, Delivery and Roadmap all use ProductionPhase and the same operations.productionPlan; completed paving is not presented as new production. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Records 29–31 preserve the initial paving hold, later publication clarification and recovery findings; they separately record current deployment and deferred agentic work.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Records 29–31 preserve the initial paving hold, later publication clarification and recovery findings; they separately record current deployment and deferred agentic work. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+AGENTS, README, successor entry and maintenance guidance now use current source identity and proportionate changed-file checks while retaining private recovery and release gates.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / AGENTS, README, successor entry and maintenance guidance now use current source identity and proportionate changed-file checks while retaining private recovery and release gates. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Public and private records and production Markdown are regenerated from canonical inputs; the new evidence documents have real public export destinations.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Public and private records and production Markdown are regenerated from canonical inputs; the new evidence documents have real public export destinations. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260910-30. Owner: Blueprint release maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Awaiting source and affected reader comparisons
+
+- [Evidence](docs/production/workflow-system-20260910.md)
+
+Next: Compare the live manifest and downloaded files with this validated build, then inspect Start Here, Delivery, Roadmap and world on desktop/mobile.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+All 17 protected decisions and four production approvals retain their existing values; the maintenance request does not approve curriculum, mechanics or appearance.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / All 17 protected decisions and four production approvals retain their existing values; the maintenance request does not approve curriculum, mechanics or appearance. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Current game and planning-reader URLs remain distinct. Evidence links resolve to generated production documents; private intake is not exposed as public source.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Current game and planning-reader URLs remain distinct. Evidence links resolve to generated production documents; private intake is not exposed as public source. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Paving source and five live runtime hashes were verified in recovery; this release reconciles that existing work, with no game source edits or new gameplay certification.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / Paving source and five live runtime hashes were verified in recovery; this release reconciles that existing work, with no game source edits or new gameplay certification. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Private source remains the existing recovery branch; live game 1931e2c is separate from Blueprint source. Successor entry now resumes the current plan instead of V2.8.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Private source remains the existing recovery branch; live game 1931e2c is separate from Blueprint source. Successor entry now resumes the current plan instead of V2.8. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Curriculum and reciprocal mappings — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Exact curriculum ledger and reciprocal experience mappings are unchanged; the cohort/edition decision remains open and the release makes no coverage acceptance claim.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: passed / Exact curriculum ledger and reciprocal experience mappings are unchanged; the cohort/edition decision remains open and the release makes no coverage acceptance claim. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Activities and learning flow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Experience mappings and current game/EST destinations are unchanged. Paving and reader maintenance do not complete the identity/evidence/return loop.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Experience mappings and current game/EST destinations are unchanged. Paving and reader maintenance do not complete the identity/evidence/return loop. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Existing proposed learning pilot and player journey retain their status; the production sequence is not presented as a newly approved lesson sequence.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: passed / Existing proposed learning pilot and player journey retain their status; the production sequence is not presented as a newly approved lesson sequence. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Year plan and assessment — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+The preserved Unit/semester and assessment source records are unchanged; a reader workflow release is not taught or assessed coverage.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: passed / The preserved Unit/semester and assessment source records are unchanged; a reader workflow release is not taught or assessed coverage. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+The classroom caveat remains visible. No teacher matrix, roles, saved review or real student records are modified or falsely certified.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / The classroom caveat remains visible. No teacher matrix, roles, saved review or real student records are modified or falsely certified. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### World, rewards and progression — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Ground approach is published but the whole campus and Batch 1 remain prototypes. Existing access, economy and unlock decisions are unchanged.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / Ground approach is published but the whole campus and Batch 1 remain prototypes. Existing access, economy and unlock decisions are unchanged. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Campus place card now states published paving and unpublished lighting. Existing Studio purpose, approach and unapproved wider-campus boundaries are preserved.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / Campus place card now states published paving and unpublished lighting. Existing Studio purpose, approach and unapproved wider-campus boundaries are preserved. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Avatar and wardrobe references — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Identity, fitting limitations and the paused blazer evidence retain their exact source records. No clothing or animation production is included in this reader release.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / Identity, fitting limitations and the paused blazer evidence retain their exact source records. No clothing or animation production is included in this reader release. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+The exact six existing concept/built references remain byte-identical. Current live paving evidence is labelled separately from approved campus targets and the unpublished lighting candidate.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / The exact six existing concept/built references remain byte-identical. Current live paving evidence is labelled separately from approved campus targets and the unpublished lighting candidate. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+No meshes, asset approvals or source originals were changed. Existing ten-item register and six-reference hashes remain intact; the live evidence hash is checked by the production-plan test.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / No meshes, asset approvals or source originals were changed. Existing ten-item register and six-reference hashes remain intact; the live evidence hash is checked by the production-plan test. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+The inspected current Arrival Gardens screenshot shows the paved shaded approach; front page and campus place card share that evidence. Historical Studio and Town Hall film remain labelled historical.
+
+Records: CE-CHANGE-20260910-30, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / The inspected current Arrival Gardens screenshot shows the paved shaded approach; front page and campus place card share that evidence. Historical Studio and Town Hall film remain labelled historical. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
 
 ## CE-CHANGE-20260910-17 — Change-driven Blueprint update workflow
 
@@ -3081,7 +3634,7 @@ Next: Maintain bounded scope and preserve pending appearance and classroom accep
 
 ## CE-CHANGE-20260910-28 — Correct game deployment destination
 
-Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Game and Blueprint maintainer.
+Integration: **complete**. Types: governance, implementation, release. Owner: Game and Blueprint maintainer.
 
 **Objective:** Previous publication reached only the Blueprint embedded preview; calling that the live game was incorrect. Correct the actual game deployment and all current destination guidance.
 
@@ -3091,7 +3644,7 @@ Integration: **ready-for-publication**. Types: governance, implementation, relea
 
 **Source:** Tania explicitly identifies https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ as the live game. Existing Push to live request authorises corrected deployment; CE-DISCUSSION-d068d069-12e8-47e7-9766-463db9c348db.
 
-**Next:** Verify actual game deployment, then publish corrected Blueprint links and redirect and inspect the live reader.
+**Next:** Maintain separate game and Blueprint destinations; preserve pending visual/classroom acceptance.
 
 ### Start Here — updated
 
@@ -3173,7 +3726,7 @@ Verification: passed / Generated public records and handover carry the corrected
 
 Next: Identify the exact affected records and complete the reader-facing update.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -3183,11 +3736,11 @@ Records: CE-CHANGE-20260910-28, CE-ENV-01. Owner: Game and Blueprint release mai
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Actual game and corrected Blueprint deployments are independently checked.
+Verification: passed / Actual game https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ verified at content commit 0b0e9505e14fdca6bfdbee6795bf157e881c4400; exact five runtime hashes and keyboard walk/Studio save/return/reload/mobile pass. Local CI: six unit tests and 30 browser tests pass. Blueprint correction source 6830edd58ad512bf280dc0485d14ad06ab768b6c: all 271 files match, desktop/mobile links pass, and the former preview redirects to the actual game.
 
 - [Evidence](docs/production/game-hosting-correction-20260910.md)
 
-Next: Verify actual game manifest and live walk/save flow, publish corrected Blueprint links, then verify redirect and reader.
+Next: Keep independent game and Blueprint verification receipts.
 
 ### Decisions and superseded rules — checked-unchanged
 
@@ -3316,6 +3869,324 @@ Verification: passed / No new assets or asset approvals in this correction; the 
 - [Evidence](docs/production/game-hosting-correction-20260910.md)
 
 Next: Identify the exact affected records and complete the reader-facing update.
+
+## CE-CHANGE-20260910-29 — Arrival ground materials and connected Studio route
+
+Integration: **ready-for-publication**. Types: visual, building, implementation, release. Owner: Blueprint and game maintainer.
+
+**Objective:** Maximum visible gain within about 2% remaining usage: stage 1 ground/path only.
+
+**Before:** Shared wall-stone mapping on long walkway and isolated arrival route.
+
+**Required result:** Published paving is represented accurately across Blueprint current status; lighting remains an unpublished candidate.
+
+**Source:** Tania, Continue Assess Upgrade Feasibility, 10 September 2026; two recovered campus reference screenshots.; Tania subsequently clarified element-by-element acceptance and said OK do that for paving publication, then sky/lighting.
+
+**Next:** Publish reviewed V2.18 output and independently verify live records and affected reader routes.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Start Here displays the shared World Environment & Ecosystem plan, current paving screenshot, actual game link and unpublished lighting boundary.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Start Here displays the shared World Environment & Ecosystem plan, current paving screenshot, actual game link and unpublished lighting boundary. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Start Here, Delivery and Roadmap all use ProductionPhase and the same operations.productionPlan; completed paving is not presented as new production.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / Start Here, Delivery and Roadmap all use ProductionPhase and the same operations.productionPlan; completed paving is not presented as new production. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Records 29–31 preserve the initial paving hold, later publication clarification and recovery findings; they separately record current deployment and deferred agentic work.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Records 29–31 preserve the initial paving hold, later publication clarification and recovery findings; they separately record current deployment and deferred agentic work. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+AGENTS, README, successor entry and maintenance guidance now use current source identity and proportionate changed-file checks while retaining private recovery and release gates.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / AGENTS, README, successor entry and maintenance guidance now use current source identity and proportionate changed-file checks while retaining private recovery and release gates. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Public and private records and production Markdown are regenerated from canonical inputs; the new evidence documents have real public export destinations.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Public and private records and production Markdown are regenerated from canonical inputs; the new evidence documents have real public export destinations. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260910-29. Owner: Blueprint release maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Pending source and reader reconciliation against the published paving release.
+
+
+Next: Compare the live manifest and downloaded files with this validated build, then inspect Start Here, Delivery, Roadmap and world on desktop/mobile.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+The exact six existing concept/built references remain byte-identical. Current live paving evidence is labelled separately from approved campus targets and the unpublished lighting candidate.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / The exact six existing concept/built references remain byte-identical. Current live paving evidence is labelled separately from approved campus targets and the unpublished lighting candidate. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+The inspected current Arrival Gardens screenshot shows the paved shaded approach; front page and campus place card share that evidence. Historical Studio and Town Hall film remain labelled historical.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / The inspected current Arrival Gardens screenshot shows the paved shaded approach; front page and campus place card share that evidence. Historical Studio and Town Hall film remain labelled historical. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+No meshes, asset approvals or source originals were changed. Existing ten-item register and six-reference hashes remain intact; the live evidence hash is checked by the production-plan test.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / No meshes, asset approvals or source originals were changed. Existing ten-item register and six-reference hashes remain intact; the live evidence hash is checked by the production-plan test. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Campus place card now states published paving and unpublished lighting. Existing Studio purpose, approach and unapproved wider-campus boundaries are preserved.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / Campus place card now states published paving and unpublished lighting. Existing Studio purpose, approach and unapproved wider-campus boundaries are preserved. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Avatar and wardrobe references — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Identity, fitting limitations and the paused blazer evidence retain their exact source records. No clothing or animation production is included in this reader release.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / Identity, fitting limitations and the paused blazer evidence retain their exact source records. No clothing or animation production is included in this reader release. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### World, rewards and progression — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Ground approach is published but the whole campus and Batch 1 remain prototypes. Existing access, economy and unlock decisions are unchanged.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / Ground approach is published but the whole campus and Batch 1 remain prototypes. Existing access, economy and unlock decisions are unchanged. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+All 17 protected decisions and four production approvals retain their existing values; the maintenance request does not approve curriculum, mechanics or appearance.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / All 17 protected decisions and four production approvals retain their existing values; the maintenance request does not approve curriculum, mechanics or appearance. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Paving source and five live runtime hashes were verified in recovery; this release reconciles that existing work, with no game source edits or new gameplay certification.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / Paving source and five live runtime hashes were verified in recovery; this release reconciles that existing work, with no game source edits or new gameplay certification. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Activities and learning flow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Experience mappings and current game/EST destinations are unchanged. Paving and reader maintenance do not complete the identity/evidence/return loop.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Experience mappings and current game/EST destinations are unchanged. Paving and reader maintenance do not complete the identity/evidence/return loop. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+The classroom caveat remains visible. No teacher matrix, roles, saved review or real student records are modified or falsely certified.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / The classroom caveat remains visible. No teacher matrix, roles, saved review or real student records are modified or falsely certified. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Private source remains the existing recovery branch; live game 1931e2c is separate from Blueprint source. Successor entry now resumes the current plan instead of V2.8.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Private source remains the existing recovery branch; live game 1931e2c is separate from Blueprint source. Successor entry now resumes the current plan instead of V2.8. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Current game and planning-reader URLs remain distinct. Evidence links resolve to generated production documents; private intake is not exposed as public source.
+
+Records: CE-CHANGE-20260910-29, CE-PLAN-01. Owner: Blueprint maintainer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Current game and planning-reader URLs remain distinct. Evidence links resolve to generated production documents; private intake is not exposed as public source. Source review and local desktop/mobile reader checks recorded in reconciliation-v218 evidence.
+
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/current-state.md)
+
+Next: Retain this verified boundary; revisit only when its source or approved scope changes.
 
 ## Historical boundary
 
