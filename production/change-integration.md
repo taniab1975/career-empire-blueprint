@@ -2,9 +2,377 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: Approved school-avatar repair and exact-source release review; existing landscape records retained without game integration.
+Release scope: Accepted campus layout and selected existing building release source review
 
-Approved school avatar is live and independently verified. Landscape appearance approval remains separate from runtime integration; older unfinished intake is retained.
+Map update and building selection authorised; live game verification pending. Separate gait diagnosis, older intake and other batch approvals remain open.
+
+## CE-CHANGE-20260910-36 — Whole-map landscape concept and arrival correction
+
+Integration: **ready-for-publication**. Types: building, visual, implementation, governance, decision, release. Owner: Blueprint maintainer.
+
+**Objective:** Publish authorised landscaped campus, selected building replacements and earlier arrival start
+
+**Before:** Approved isolated assets and existing paving route; starting avatar past sign
+
+**Required result:** Accepted playable campus and selected buildings, with clear north-facing entrances and earlier start; game deployment pending independent verification.
+
+**Source:** Tania explicitly requests two existing building replacements with entrances facing paths and live release; leave town hall for future ECC
+
+**Next:** Publish and independently verify the reviewed Blueprint source record, then bind and publish the authorised game update.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Start Here now presents CE-CAMPUS-BUILT-02 actual map evidence and the authorised combined pass; live evidence remains dated to the last verified release until deployment.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Start Here now presents CE-CAMPUS-BUILT-02 actual map evidence and the authorised combined pass; live evidence remains dated to the last verified release until deployment. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Shared productionPlan records this accepted map/building pass and preserves the separate gait follow-up and later ECC work.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / Shared productionPlan records this accepted map/building pass and preserves the separate gait follow-up and later ECC work. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Material record 36 preserves concept-first history and adds explicit delegated building choice and game publication authority.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Material record 36 preserves concept-first history and adds explicit delegated building choice and game publication authority. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Canonical AGENTS and rolling handoff now identify the exact authorised map pass, preserved town hall and independent game verification requirement.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Canonical AGENTS and rolling handoff now identify the exact authorised map pass, preserved town hall and independent game verification requirement. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Generated public/private planning records are regenerated from canonical sources; source-bound release manifest covers the actual game files.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Generated public/private planning records are regenerated from canonical sources; source-bound release manifest covers the actual game files. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Await source-grounded concept scene and view checks.
+
+- [Evidence](docs/production/map-landscape-concept-20260910.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Careers Advice Centre and First Workplace originals inspected; entrances face north, paths reach doorways and actual Rapier traversal passes. Town hall and native Studio retained.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / Careers Advice Centre and First Workplace originals inspected; entrances face north, paths reach doorways and actual Rapier traversal passes. Town hall and native Studio retained. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Five route checks cover arrival-to-Studio, hall, both new entrances and northern loop; wall and pond blocking are verified.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / Five route checks cover arrival-to-Studio, hall, both new entrances and northern loop; wall and pond blocking are verified. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+CE-CAMPUS-BUILT-02 uses actual game captures with explicit local/release-pending status; original campus concepts retained as targets.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / CE-CAMPUS-BUILT-02 uses actual game captures with explicit local/release-pending status; original campus concepts retained as targets. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Actual map and arrival screenshots are newly linked with hashes; older live screenshot remains dated and the concept video/poster pairing is unchanged.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / Actual map and arrival screenshots are newly linked with hashes; older live screenshot remains dated and the concept video/poster pairing is unchanged. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Only two existing building items receive scoped approval under delegated selection; original hashes retained. Approved landscape source GLBs copied byte-for-byte.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Only two existing building items receive scoped approval under delegated selection; original hashes retained. Approved landscape source GLBs copied byte-for-byte. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Studio and EST interaction code unchanged; earlier spawn exposes sign. Existing learning activities and entry/return logic remain, with regression checks.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Studio and EST interaction code unchanged; earlier spawn exposes sign. Existing learning activities and entry/return logic remain, with regression checks. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Delivery facts and built-evidence galleries show the authorised combined map pass rather than only isolated assets.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / Delivery facts and built-evidence galleries show the authorised combined map pass rather than only isolated assets. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Decisions and superseded rules — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Explicit layout acceptance, delegated two-building choice and live authority recorded; town hall reserved for future ECC, other batch items unapproved.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / Explicit layout acceptance, delegated two-building choice and live authority recorded; town hall reserved for future ECC, other batch items unapproved. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Avatar and wardrobe references — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+characters.js and repaired schoolboy GLB match 78c6278 hashes. No gait or wardrobe edits; separate reported gait diagnosis retained.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / characters.js and repaired schoolboy GLB match 78c6278 hashes. No gait or wardrobe edits; separate reported gait diagnosis retained. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+No teacher, curriculum, scoring or assessment source modified. This release adds environment and building appearance, not new learning activities.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / No teacher, curriculum, scoring or assessment source modified. This release adds environment and building appearance, not new learning activities. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Existing canonical checkout and private recovery branch retained; game source bindings and private evidence locate exact assets and code without exposing private originals.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Existing canonical checkout and private recovery branch retained; game source bindings and private evidence locate exact assets and code without exposing private originals. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Remote game main checked against 78c6278; source models and reused receipts checked by bytes. Unseen chats/accounts and older unresolved intake are not declared reviewed.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Remote game main checked against 78c6278; source models and reused receipts checked by bytes. Unseen chats/accounts and older unresolved intake are not declared reviewed. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Curriculum and reciprocal mappings — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Curriculum sources and mappings are unchanged; no new learning activities, cohort decisions or classroom acceptance in this environment release.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: passed / Curriculum sources and mappings are unchanged; no new learning activities, cohort decisions or classroom acceptance in this environment release. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+
+Next: Preserve verified scope and bind final live release evidence.
+
+### Year plan and assessment — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Curriculum sources and reciprocal mappings are unchanged by this environment-only pass; no new learning, cohort, assessment or classroom acceptance is introduced.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: passed / Curriculum sources and reciprocal mappings are unchanged by this environment-only pass; no new learning, cohort, assessment or classroom acceptance is introduced. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+
+Next: Retain existing curriculum and classroom decision boundaries.
+
+### Player Journey and worked example — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Curriculum sources and reciprocal mappings are unchanged by this environment-only pass; no new learning, cohort, assessment or classroom acceptance is introduced.
+
+Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: passed / Curriculum sources and reciprocal mappings are unchanged by this environment-only pass; no new learning, cohort, assessment or classroom acceptance is introduced. Affected reader views checked at 1280px and 390px; exact source evidence retained privately.
+
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+
+Next: Retain existing curriculum and classroom decision boundaries.
 
 ## CE-CHANGE-20260910-35 — Playable school avatar polish and elbow repair
 

@@ -2,6 +2,24 @@
 
 Generated from data/operations.json. One canonical register; do not edit this view directly.
 
+## CE-CHANGE-20260910-36 — Landscaped campus with two existing building replacements and earlier arrival start
+
+- **date:** 2026-09-10
+- **domain:** World Environment & Ecosystem
+- **source:** Tania requests whole-map paths, grass and greenery; concept first using existing assets, legacy water allocations and shade assets; future game start farther back before welcome sign. Tania now accepts the direction, authorises selection of two existing buildings facing paths, preserves town hall for future ECC, and explicitly requests live publication.
+- **owner:** Blueprint maintainer
+- **status:** Authorised game integration and release in progress
+- **rationale:** Agree a coherent layout from existing models before applying the broader map update.
+- **dependencies:** CE-CHANGE-20260910-34 / CE-CHANGE-20260910-35
+- **supersededRecord:** None
+- **designApproval:** Landscape concept accepted for this pass; existing Careers Advice Centre and First Workplace selected under delegated choice. Town hall retained; no wider batch acceptance.
+- **implementation:** Private whole-map scene with connected paving, lawn areas, approved instanced plants, two reused garden pergola/bench groups, existing pond/fountain and proposed clipped legacy northern water edge. Proposed spawn (-7,23.3), previously (-7,14); live game unchanged.
+- **deployment:** Live release explicitly authorised; not yet published.
+- **testing:** Actual Three.js renders captured; proposed starting sign inside camera frustum, old sign behind camera; desktop/mobile loading without page errors or mobile overflow. Gameplay collisions and target-device performance remain integration checks.
+- **taniaAcceptance:** Requested concept and later starting-position correction; map arrangement not yet accepted.
+- **evidence:** docs/production/map-landscape-concept-20260910.md
+- **nextAction:** Integrate, verify entrance approaches, movement, Studio save/reload and live hashes.
+
 ## CE-CHANGE-20260910-35 — Playable school avatar polish and elbow repair
 
 - **date:** 2026-09-10

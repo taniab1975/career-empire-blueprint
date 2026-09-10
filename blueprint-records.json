@@ -192,8 +192,8 @@
       "phase": "World Environment & Ecosystem",
       "activeMilestoneId": "CE-ENV-01",
       "objective": "Establish the approved visual and environmental system for the Career Empire campus.",
-      "now": "All nine revision-1 landscape model groups and included components are approved by Tania. Models are saved and export/viewer checked; not integrated or published. The separately approved school-avatar repair is published and independently verified under CE-CHANGE-20260910-35.",
-      "next": "Next proposed step: a bounded Spawn-to-Studio landscape integration, preserving paving, movement, collision and Studio save/return. Confirm implementation/release scope before live changes.",
+      "now": "Integrate accepted landscaping and two selected existing campus buildings, with entrances onto paths; retain town hall and correct arrival start.",
+      "next": "Verify and publish the authorised combined map update; retain separate avatar gait follow-up.",
       "then": "Building and ECC campus architecture: refine destinations as one coherent architectural family, not isolated buildings.",
       "later": "Avatar system → experiences → curriculum coverage and validation.",
       "sequence": [
@@ -539,9 +539,9 @@
       "summary": "Blueprint publication is verified separately from the live game. Current game paving is published; the sky and lighting candidate remains unpublished. Ten whole-item candidates exist but are not collectively accepted. This reader shows one shared production plan, current live evidence and explicit approval limits. Historical source observations remain tracked; they are not proof of completion.",
       "facts": [
         {
-          "label": "APPROVED AVATAR / LIVE VERIFIED",
+          "label": "CAMPUS MAP / AUTHORISED RELEASE",
           "title": "School student: original appearance restored and elbows repaired",
-          "detail": "The approved school student is live. Original textures and rig retained; two forearm animation tracks repaired. Public asset hashes and actual live walking/save/reload checks passed.",
+          "detail": "Accepted landscape layout, two selected existing buildings facing the paths, and earlier arrival start. Town hall retained for future ECC; live game verification pending.",
           "href": "/production/avatar-polish-20260910.md"
         },
         {
@@ -803,6 +803,30 @@
         }
       ],
       "changes": [
+        {
+          "id": "CE-CHANGE-20260910-36",
+          "date": "2026-09-10",
+          "title": "Landscaped campus with two existing building replacements and earlier arrival start",
+          "domain": "World Environment & Ecosystem",
+          "source": "Tania requests whole-map paths, grass and greenery; concept first using existing assets, legacy water allocations and shade assets; future game start farther back before welcome sign. Tania now accepts the direction, authorises selection of two existing buildings facing paths, preserves town hall for future ECC, and explicitly requests live publication.",
+          "owner": "Blueprint maintainer",
+          "status": "Authorised game integration and release in progress",
+          "rationale": "Agree a coherent layout from existing models before applying the broader map update.",
+          "dependencies": [
+            "CE-CHANGE-20260910-34",
+            "CE-CHANGE-20260910-35"
+          ],
+          "supersededRecord": null,
+          "designApproval": "Landscape concept accepted for this pass; existing Careers Advice Centre and First Workplace selected under delegated choice. Town hall retained; no wider batch acceptance.",
+          "implementation": "Private whole-map scene with connected paving, lawn areas, approved instanced plants, two reused garden pergola/bench groups, existing pond/fountain and proposed clipped legacy northern water edge. Proposed spawn (-7,23.3), previously (-7,14); live game unchanged.",
+          "deployment": "Live release explicitly authorised; not yet published.",
+          "testing": "Actual Three.js renders captured; proposed starting sign inside camera frustum, old sign behind camera; desktop/mobile loading without page errors or mobile overflow. Gameplay collisions and target-device performance remain integration checks.",
+          "taniaAcceptance": "Requested concept and later starting-position correction; map arrangement not yet accepted.",
+          "evidence": [
+            "docs/production/map-landscape-concept-20260910.md"
+          ],
+          "nextAction": "Integrate, verify entrance approaches, movement, Studio save/reload and live hashes."
+        },
         {
           "id": "CE-CHANGE-20260910-35",
           "date": "2026-09-10",
@@ -4156,6 +4180,24 @@
     },
     "currentReferences": [
       {
+        "id": "CE-CAMPUS-BUILT-02",
+        "title": "Landscaped campus with Careers Advice Centre and First Workplace",
+        "image": "/evidence/campus-map-20260910/integrated-map.png",
+        "kind": "built",
+        "date": "2026-09-10",
+        "sha256": "0ac8527de2461049ca34ee0e1c58c5fa5764948e830ec3d6a9d986b4e3e02c16",
+        "summary": "Actual playable campus: connected paving, lawns, approved plants, reused shade and two existing buildings with fronts toward the paths. Tania accepted the landscape direction and authorised the building selection and live release.",
+        "source": "CE-CHANGE-20260910-36; Landscape Batch 01 and existing Batch 1 Careers Advice Centre / First Workplace. Actual local game capture.",
+        "limits": "Game publication awaiting independent verification. Town hall remains for future ECC replacement; Studio retained. Separate gait diagnosis and other unapproved batch items unchanged.",
+        "nextAction": "Publish the verified source to the existing live game and check the deployed result.",
+        "placements": [
+          "start",
+          "visuals",
+          "world",
+          "build"
+        ]
+      },
+      {
         "id": "CE-CAMPUS-01",
         "title": "ECC Career Campus — approved visual foundation",
         "image": "/references/current/ecc-career-campus.png",
@@ -4689,10 +4731,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20260910-35"
+        "CE-CHANGE-20260910-36"
       ],
-      "scope": "Approved school-avatar repair and exact-source release review; existing landscape records retained without game integration.",
-      "disclosure": "Approved school avatar is live and independently verified. Landscape appearance approval remains separate from runtime integration; older unfinished intake is retained.",
+      "scope": "Accepted campus layout and selected existing building release source review",
+      "disclosure": "Map update and building selection authorised; live game verification pending. Separate gait diagnosis, older intake and other batch approvals remain open.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -4858,12 +4900,17 @@
         "data/refresh-checkpoint.json",
         "docs/production/continuation-helper-20260910.md",
         "docs/production/avatar-polish-20260910.md",
-        "public/evidence/avatar-polish-20260910/front.png"
+        "public/evidence/avatar-polish-20260910/front.png",
+        "docs/production/campus-map-release-20260910.md",
+        "public/evidence/campus-map-20260910/integrated-map.png",
+        "public/evidence/campus-map-20260910/integrated-start.png"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "16c20ac28a38fdb3aa6d9f597e5a53611478b0cc1fab4f3643ba339c7252c4c7"
+          "sha256": "53c29445d0c757a0e35160b176d355cfeaa238e4664572f4586454d8f16865b5",
+          "reviewedAt": "2026-09-10",
+          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
         },
         {
           "path": "README.md",
@@ -4871,11 +4918,15 @@
         },
         {
           "path": "app/blueprint-detail.tsx",
-          "sha256": "b177ecbf8c0f90c010316a0c4bd11fd832502b0222d71401250c08421d3ec6c3"
+          "sha256": "60cdb3c564ded7f4bf663d8400c70ecff5f35af6ec11b91b70c0f762e1acb966",
+          "reviewedAt": "2026-09-10",
+          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
         },
         {
           "path": "app/blueprint-surfaces.tsx",
-          "sha256": "9985245b4a8d4db0a0eeec13e11a33eafa169589c4d746447189b6568dff2dd9"
+          "sha256": "b69a6e2c18cdad3ce1eac6c5603a7622496b0031c6133ff5e421ac7927ef554a",
+          "reviewedAt": "2026-09-10",
+          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
         },
         {
           "path": "app/change-integration.tsx",
@@ -4883,7 +4934,9 @@
         },
         {
           "path": "app/current-evidence.tsx",
-          "sha256": "72b62ecdfa183dbf37d1e96a9d8d318d464781ab7d30d2ba9268150e26710fd4"
+          "sha256": "d36368f90a08752fcda9705935ac357dcba605bb1a3c1307828088467219f282",
+          "reviewedAt": "2026-09-10",
+          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
         },
         {
           "path": "app/globals.css",
@@ -4895,11 +4948,15 @@
         },
         {
           "path": "app/style-guide.tsx",
-          "sha256": "dfc6ace8c7dd3064a97b1b1c02b17d36aad7ea7d9eb7b718d6b50020b8dee008"
+          "sha256": "8ac47fee8944871912ccd1a049f7d5865da935474cd9e58237284fcff3a1e004",
+          "reviewedAt": "2026-09-10",
+          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
         },
         {
           "path": "data/asset-register.json",
-          "sha256": "44404d0162f368fd301727bc1e897acaa16eb737eeca1ca795a152b9fd093caa"
+          "sha256": "7da613f681886903d111fc4b2ef74c2848313840093a0ee051a3a909dc169325",
+          "reviewedAt": "2026-09-10",
+          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
         },
         {
           "path": "data/blueprint.ts",
@@ -4915,15 +4972,21 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "1a5c8760a5e32d997b8e440c481d24c50ba7f9de5970372afe421a678298c570"
+          "sha256": "22096952e3a46200a54ff893a2eb64c38aeb0d9e650bf5ef30034c59d7a5268e",
+          "reviewedAt": "2026-09-10",
+          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
         },
         {
           "path": "data/style-guide.json",
-          "sha256": "9fcb71107351f3fc4a8ae1ed6f9095bd51eb8a5cc467c65814eb8dc4587e1573"
+          "sha256": "4f60508217f98fcf140c3aabfa7e1f47868077fda23c49e33dc660dd9fcadf70",
+          "reviewedAt": "2026-09-10",
+          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "45d5ea6fc23e1bde9197caa2dc47e900c7e5c0ef09d730d022285803b2ddf968"
+          "sha256": "e38e1f8de6c438c23c48ce3ab0f12c14d752cd657f30ff0eccec2b0f7b9580e8",
+          "reviewedAt": "2026-09-10",
+          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
         },
         {
           "path": "docs/production/arrival-playable-release-20260910.md",
@@ -5459,7 +5522,9 @@
         },
         {
           "path": "tests/reader-currency.test.mjs",
-          "sha256": "a95aaa9d6236b730db5e779fc2814960883438010e738418b024f098deca8d2d"
+          "sha256": "bf5afc5c1b2f6090df03ee329e3946c31de91a7b0b9aef6aca129de464a98a64",
+          "reviewedAt": "2026-09-10",
+          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
         },
         {
           "path": "vite.pages.config.ts",
@@ -5519,15 +5584,498 @@
         },
         {
           "path": "docs/production/avatar-polish-20260910.md",
-          "sha256": "d3c7cc4ec4efb1dec5cc85fa7f8601fb96276a981a0d31cfd188392022234bd4"
+          "sha256": "d1d3b22ee2c9844c6f4aea2784b5681931a2301857cbe001fa461f11fe25a06a",
+          "reviewedAt": "2026-09-10",
+          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
         },
         {
           "path": "public/evidence/avatar-polish-20260910/front.png",
           "sha256": "6f393115b27899b90c4ee2b73d1f3c8feff1aa00a052ef0c96854770937fb9d0"
+        },
+        {
+          "path": "docs/production/campus-map-release-20260910.md",
+          "sha256": "94034c87af59a524cbf6063bdd554fcd5a2ef28eaa01122bce768fdeb7f493af",
+          "reviewedAt": "2026-09-10",
+          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
+        },
+        {
+          "path": "public/evidence/campus-map-20260910/integrated-map.png",
+          "sha256": "0ac8527de2461049ca34ee0e1c58c5fa5764948e830ec3d6a9d986b4e3e02c16",
+          "reviewedAt": "2026-09-10",
+          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
+        },
+        {
+          "path": "public/evidence/campus-map-20260910/integrated-start.png",
+          "sha256": "9751b89a35825e4a5d2e69316e47a859010b6bbafb896ddb7fd7650ba50bf27e",
+          "reviewedAt": "2026-09-10",
+          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
         }
       ]
     },
     "changes": [
+      {
+        "changeId": "CE-CHANGE-20260910-36",
+        "title": "Whole-map landscape concept and arrival correction",
+        "types": [
+          "building",
+          "visual",
+          "implementation",
+          "governance",
+          "decision",
+          "release"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Publish authorised landscaped campus, selected building replacements and earlier arrival start",
+        "before": "Approved isolated assets and existing paving route; starting avatar past sign",
+        "after": "Accepted playable campus and selected buildings, with clear north-facing entrances and earlier start; game deployment pending independent verification.",
+        "source": "Tania explicitly requests two existing building replacements with entrances facing paths and live release; leave town hall for future ECC",
+        "owner": "Blueprint maintainer",
+        "nextAction": "Publish and independently verify the reviewed Blueprint source record, then bind and publish the authorised game update.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Start Here now presents CE-CAMPUS-BUILT-02 actual map evidence and the authorised combined pass; live evidence remains dated to the last verified release until deployment.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Start Here now presents CE-CAMPUS-BUILT-02 actual map evidence and the authorised combined pass; live evidence remains dated to the last verified release until deployment. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Shared productionPlan records this accepted map/building pass and preserves the separate gait follow-up and later ECC work.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Shared productionPlan records this accepted map/building pass and preserves the separate gait follow-up and later ECC work. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Material record 36 preserves concept-first history and adds explicit delegated building choice and game publication authority.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Material record 36 preserves concept-first history and adds explicit delegated building choice and game publication authority. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Canonical AGENTS and rolling handoff now identify the exact authorised map pass, preserved town hall and independent game verification requirement.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Canonical AGENTS and rolling handoff now identify the exact authorised map pass, preserved town hall and independent game verification requirement. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Generated public/private planning records are regenerated from canonical sources; source-bound release manifest covers the actual game files.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Generated public/private planning records are regenerated from canonical sources; source-bound release manifest covers the actual game files. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "docs/production/map-landscape-concept-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await source-grounded concept scene and view checks.",
+              "date": ""
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Careers Advice Centre and First Workplace originals inspected; entrances face north, paths reach doorways and actual Rapier traversal passes. Town hall and native Studio retained.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Careers Advice Centre and First Workplace originals inspected; entrances face north, paths reach doorways and actual Rapier traversal passes. Town hall and native Studio retained. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Five route checks cover arrival-to-Studio, hall, both new entrances and northern loop; wall and pond blocking are verified.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Five route checks cover arrival-to-Studio, hall, both new entrances and northern loop; wall and pond blocking are verified. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "CE-CAMPUS-BUILT-02 uses actual game captures with explicit local/release-pending status; original campus concepts retained as targets.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "CE-CAMPUS-BUILT-02 uses actual game captures with explicit local/release-pending status; original campus concepts retained as targets. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Actual map and arrival screenshots are newly linked with hashes; older live screenshot remains dated and the concept video/poster pairing is unchanged.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Actual map and arrival screenshots are newly linked with hashes; older live screenshot remains dated and the concept video/poster pairing is unchanged. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Only two existing building items receive scoped approval under delegated selection; original hashes retained. Approved landscape source GLBs copied byte-for-byte.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Only two existing building items receive scoped approval under delegated selection; original hashes retained. Approved landscape source GLBs copied byte-for-byte. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Studio and EST interaction code unchanged; earlier spawn exposes sign. Existing learning activities and entry/return logic remain, with regression checks.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Studio and EST interaction code unchanged; earlier spawn exposes sign. Existing learning activities and entry/return logic remain, with regression checks. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Delivery facts and built-evidence galleries show the authorised combined map pass rather than only isolated assets.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Delivery facts and built-evidence galleries show the authorised combined map pass rather than only isolated assets. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Explicit layout acceptance, delegated two-building choice and live authority recorded; town hall reserved for future ECC, other batch items unapproved.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Explicit layout acceptance, delegated two-building choice and live authority recorded; town hall reserved for future ECC, other batch items unapproved. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "characters.js and repaired schoolboy GLB match 78c6278 hashes. No gait or wardrobe edits; separate reported gait diagnosis retained.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "characters.js and repaired schoolboy GLB match 78c6278 hashes. No gait or wardrobe edits; separate reported gait diagnosis retained. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "No teacher, curriculum, scoring or assessment source modified. This release adds environment and building appearance, not new learning activities.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "No teacher, curriculum, scoring or assessment source modified. This release adds environment and building appearance, not new learning activities. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Existing canonical checkout and private recovery branch retained; game source bindings and private evidence locate exact assets and code without exposing private originals.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Existing canonical checkout and private recovery branch retained; game source bindings and private evidence locate exact assets and code without exposing private originals. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Remote game main checked against 78c6278; source models and reused receipts checked by bytes. Unseen chats/accounts and older unresolved intake are not declared reviewed.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Remote game main checked against 78c6278; source models and reused receipts checked by bytes. Unseen chats/accounts and older unresolved intake are not declared reviewed. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "updated",
+            "action": "Curriculum sources and mappings are unchanged; no new learning activities, cohort decisions or classroom acceptance in this environment release.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Curriculum sources and mappings are unchanged; no new learning activities, cohort decisions or classroom acceptance in this environment release. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Preserve verified scope and bind final live release evidence."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "Curriculum sources and reciprocal mappings are unchanged by this environment-only pass; no new learning, cohort, assessment or classroom acceptance is introduced.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Curriculum sources and reciprocal mappings are unchanged by this environment-only pass; no new learning, cohort, assessment or classroom acceptance is introduced. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Retain existing curriculum and classroom decision boundaries."
+          },
+          {
+            "surface": "journey",
+            "disposition": "checked-unchanged",
+            "action": "Curriculum sources and reciprocal mappings are unchanged by this environment-only pass; no new learning, cohort, assessment or classroom acceptance is introduced.",
+            "records": [
+              "CE-CHANGE-20260910-36"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.",
+            "evidence": [
+              "/production/campus-map-release-20260910.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Curriculum sources and reciprocal mappings are unchanged by this environment-only pass; no new learning, cohort, assessment or classroom acceptance is introduced. Affected reader views checked at 1280px and 390px; exact source evidence retained privately."
+            },
+            "nextAction": "Retain existing curriculum and classroom decision boundaries."
+          }
+        ],
+        "projectChanges": {
+          "game-live": {
+            "AGENTS.md": "100644:e59186e4712e67c771b3f493aefce4be2d789843",
+            "docs/production/campus-map-release-20260910.md": "100644:096cbb7ff6c6d8cfadc091de68e180930f3f7006",
+            "playable-3d/app.js": "100644:f31d67b9f26a931674a01a2b58dbee98cff1399c",
+            "playable-3d/world.js": "100644:61eb00d6a97938c9f7b37dc40f5ce3bd73babeb3",
+            "playable-3d/campus-landscape.js": "100644:b9e3f3d1e599379cfeda844335aeaa196555e855",
+            "playable-3d/index.html": "100644:25a03ddea2e103d98ae00330188ea38bf044ab42",
+            "playable-3d/release-manifest.json": "100644:fa9bff60adbb6096df49318fdff6e0221db7eeb2",
+            "tests/e2e/campus-layout.spec.js": "100644:52b04cbd3ed824adbd8bbcbca32b0092fc3325aa",
+            "tests/e2e/playable-startup.spec.js": "100644:73f4c29a6d1eb784cf912b051c696105c73243ed",
+            "tests/e2e/playable-scenery.spec.js": "100644:ded32f24a6259c854ace3d9ca284184003353b9a",
+            "playable-3d/assets/campus-landscape/boulder-a.glb": "100644:af7dae7cd73ce1255ef4f12da1824b7a689fee56",
+            "playable-3d/assets/campus-landscape/mature-eucalypt-a.glb": "100644:90438609dbc5b00dcd0d96ee2fc4eab9c3ed2b09",
+            "playable-3d/assets/campus-landscape/mature-eucalypt-b.glb": "100644:a44a743200c4a4ff36866d993e5c5f81237b9673",
+            "playable-3d/assets/campus-landscape/silver-shrub.glb": "100644:6c55359d50c2594bdfde04463cb5a41f7ab87bd7",
+            "playable-3d/assets/campus-landscape/olive-shrub.glb": "100644:755cc8f39af83dd2343f26b6c9d8fcf4050d3273",
+            "playable-3d/assets/campus-landscape/yellow-flower-clump.glb": "100644:c9cf546f23be5147df03081ba8f8f1b3fd4fd53c",
+            "playable-3d/assets/campus-landscape/small-multistem-a.glb": "100644:201896cd484a3012d087a7a97bd093b1bede6d72",
+            "playable-3d/assets/campus-landscape/tufted-grass.glb": "100644:6ae0e9dd8f247a13473d45370f90d97793f96841",
+            "playable-3d/assets/campus-buildings/garden.glb": "100644:8e2c26466054fc2237c2047e865020b33eecd781",
+            "playable-3d/assets/campus-buildings/workplace.glb": "100644:df3231a4f7c0dcc5f6fda2d08d653b19e5ed1c0c",
+            "playable-3d/assets/campus-buildings/careers.glb": "100644:79204140881d0d812efd7629df159abf6d3c07fa"
+          }
+        }
+      },
       {
         "changeId": "CE-CHANGE-20260910-35",
         "title": "Playable school avatar polish and elbow repair",

@@ -18,6 +18,15 @@ Fourteen textured modules are reusable source assets for the ten complete Batch 
 
 ## Current recovered originals and built evidence
 
+### CE-CAMPUS-BUILT-02 — Landscaped campus with Careers Advice Centre and First Workplace
+![Landscaped campus with Careers Advice Centre and First Workplace](https://taniab1975.github.io/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
+built / 2026-09-10
+Actual playable campus: connected paving, lawns, approved plants, reused shade and two existing buildings with fronts toward the paths. Tania accepted the landscape direction and authorised the building selection and live release.
+Limits: Game publication awaiting independent verification. Town hall remains for future ECC replacement; Studio retained. Separate gait diagnosis and other unapproved batch items unchanged.
+Next: Publish the verified source to the existing live game and check the deployed result.
+Source: CE-CHANGE-20260910-36; Landscape Batch 01 and existing Batch 1 Careers Advice Centre / First Workplace. Actual local game capture.
+SHA-256: 0ac8527de2461049ca34ee0e1c58c5fa5764948e830ec3d6a9d986b4e3e02c16
+
 ### CE-CAMPUS-01 — ECC Career Campus — approved visual foundation
 ![ECC Career Campus — approved visual foundation](https://taniab1975.github.io/career-empire-blueprint/references/current/ecc-career-campus.png)
 concept / 2026-09-09
@@ -80,6 +89,7 @@ Limits: This image is the approved local capture; the identical repaired asset i
 Next: Play the live game: Avatar Studio → School student; use walking, turn and portrait controls. Continue the existing environment plan.
 Source: Update Avatar Appearance continuation, Tania: “Yey he is much better! Please go ahead and update to live”. CE-CHANGE-20260910-35; player-schoolboy-repaired-20260910.glb.
 SHA-256: 6f393115b27899b90c4ee2b73d1f3c8feff1aa00a052ef0c96854770937fb9d0
+Open integration CE-CHANGE-20260910-36: Publish authorised landscaped campus, selected building replacements and earlier arrival start Next: Publish and independently verify the reviewed Blueprint source record, then bind and publish the authorised game update.
 Open integration CE-CHANGE-20260910-34: Create the authorised model candidates for grouped review Next: Retain approved geometry; confirm bounded integration scope. Public reader release remains pending.
 Open integration CE-CHANGE-20260910-33: Agree environmental language before asset selection Next: Obtain specification agreement; complete affected reader verification before any release
 

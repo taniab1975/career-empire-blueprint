@@ -1185,7 +1185,7 @@
       "revision": 1,
       "description": "Find pathways and discuss options. One complete appearance candidate including its own parts and immediate surroundings.",
       "buildStatus": "complete",
-      "readiness": "Complete visual assembly, exported and reviewed as a candidate. Runtime collision, interactions, school-device performance and classroom acceptance are separate later work.",
+      "readiness": "Selected for the authorised campus pass, preserving source appearance with the display paving plate replaced by connected map paving. Doorway approaches and wall collisions tested. Learning activities and classroom acceptance remain separate.",
       "assembly": {
         "model": "/evidence/batch-01-20260910/models/careers.glb",
         "sha256": "c419c7fea6dfec869787bbb7bb977b4c69eaa5c8ada66d9e136f0fdd498793f4",
@@ -1294,9 +1294,18 @@
       "partsSha256": "ef967c9e38a439235251b2aaaa25712cb9a72b86b7437e6bcd8b65374fb4d6a7",
       "source": "Advice service and Which future should I trust?",
       "approval": {
-        "status": "awaiting-review",
-        "scope": "Whole item including all its parts; review as part of Batch 1",
-        "history": []
+        "status": "approved",
+        "scope": "Selected existing building for this campus release under Tania delegated choice, including authored parts; no approval of other batch items.",
+        "history": [
+          {
+            "decision": "approved",
+            "revision": 1,
+            "assemblySha256": "c419c7fea6dfec869787bbb7bb977b4c69eaa5c8ada66d9e136f0fdd498793f4",
+            "approver": "Tania (delegated selection to Codex)",
+            "date": "2026-09-10",
+            "source": "Tania: replace the two other buildings with a selection of the best existing buildings and send live; fronts must open onto pathways. CE-CHANGE-20260910-36."
+          }
+        ]
       }
     },
     {
@@ -1306,7 +1315,7 @@
       "revision": 1,
       "description": "Teamwork, interviews and workplace encounters. One complete appearance candidate including its own parts and immediate surroundings.",
       "buildStatus": "complete",
-      "readiness": "Complete visual assembly, exported and reviewed as a candidate. Runtime collision, interactions, school-device performance and classroom acceptance are separate later work.",
+      "readiness": "Selected for the authorised campus pass, preserving source appearance with the display paving plate replaced by connected map paving. Doorway approaches and wall collisions tested. Learning activities and classroom acceptance remain separate.",
       "assembly": {
         "model": "/evidence/batch-01-20260910/models/workplace.glb",
         "sha256": "e0978d287a56c32c91bf2b3edd4b90490286b413d6af75574edc94da758cc709",
@@ -1415,9 +1424,18 @@
       "partsSha256": "52854a74a674dfc16c1fedbf9fe10e88d31e821cbd33893fe00467f705d0cfce",
       "source": "Existing workplace experience crosswalk",
       "approval": {
-        "status": "awaiting-review",
-        "scope": "Whole item including all its parts; review as part of Batch 1",
-        "history": []
+        "status": "approved",
+        "scope": "Selected existing building for this campus release under Tania delegated choice, including authored parts; no approval of other batch items.",
+        "history": [
+          {
+            "decision": "approved",
+            "revision": 1,
+            "assemblySha256": "e0978d287a56c32c91bf2b3edd4b90490286b413d6af75574edc94da758cc709",
+            "approver": "Tania (delegated selection to Codex)",
+            "date": "2026-09-10",
+            "source": "Tania: replace the two other buildings with a selection of the best existing buildings and send live; fronts must open onto pathways. CE-CHANGE-20260910-36."
+          }
+        ]
       }
     },
     {
