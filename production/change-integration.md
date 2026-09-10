@@ -8,7 +8,7 @@ Map update and building selection authorised; live game verification pending. Se
 
 ## CE-CHANGE-20260910-36 — Whole-map landscape concept and arrival correction
 
-Integration: **ready-for-publication**. Types: building, visual, implementation, governance, decision, release. Owner: Blueprint maintainer.
+Integration: **complete**. Types: building, visual, implementation, governance, decision, release. Owner: Blueprint maintainer.
 
 **Objective:** Publish authorised landscaped campus, selected building replacements and earlier arrival start
 
@@ -18,7 +18,7 @@ Integration: **ready-for-publication**. Types: building, visual, implementation,
 
 **Source:** Tania explicitly requests two existing building replacements with entrances facing paths and live release; leave town hall for future ECC
 
-**Next:** Publish and independently verify the reviewed Blueprint source record, then bind and publish the authorised game update.
+**Next:** Bind exact reviewed game files, publish the authorised map and independently verify live gameplay.
 
 ### Start Here — updated
 
@@ -105,21 +105,23 @@ Verification: passed / Generated public/private planning records are regenerated
 
 Next: Preserve verified scope and bind final live release evidence.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+Blueprint source review published and independently verified; game release remains separately pending.
 
 Records: CE-CHANGE-20260910-36. Owner: Blueprint maintainer.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Await source-grounded concept scene and view checks.
+Verification: passed / Public record and campus image hashes match reviewed output; actual overview, world, visuals, roadmap and build checked at 1280px and 390px.
 
-- [Evidence](docs/production/map-landscape-concept-20260910.md)
+- [Evidence](/career-empire-blueprint/publication-manifest.json)
+- [Evidence](/career-empire-blueprint/production/campus-map-release-20260910.md)
+- [Evidence](/career-empire-blueprint/evidence/campus-map-20260910/integrated-map.png)
 
-Next: Identify the exact affected records and complete the reader-facing update.
+Next: Bind exact reviewed game files, publish the authorised map and independently verify live gameplay.
 
 ### Buildings and places — updated
 

@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "76df0152fe669b9c2bd6d10bc4ae88e01c4e5b64",
-  "generatedAt": "2026-09-10T06:52:09.526Z",
+  "sourceCommit": "5bd98ca7a1ecc2f6766cf1b3bdd1d737415325aa",
+  "generatedAt": "2026-09-10T06:57:12.242Z",
   "revision": "V2.20 / 10 September 2026",
-  "recordSha256": "e043a9dc6f92d6386f3c98508be8b250e0a6fb74e44c9e1ef6fe4d628bb340ba",
+  "recordSha256": "0a462cf4ffac83dbed56f75df878640261cd4e7c7c3721f65bc5319d28994d37",
   "files": [
     {
       "path": "assets/index-Bmky4qoT.css",
@@ -14,7 +14,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "e043a9dc6f92d6386f3c98508be8b250e0a6fb74e44c9e1ef6fe4d628bb340ba"
+      "sha256": "0a462cf4ffac83dbed56f75df878640261cd4e7c7c3721f65bc5319d28994d37"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -938,7 +938,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "631c367cab55dc0951c2862f3fc6295263506de317980590e653013fcc3cf8bb"
+      "sha256": "4362b0d41c94f775d2c66d6f171b48aaa4962697110d72a182c8dd7d77b16454"
     },
     {
       "path": "production/change-workflows.md",
@@ -950,7 +950,7 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "f86f9549efda8508c719e8fceef8ac3b3bc1ab435e77a3bd08cd5d42001d63af"
+      "sha256": "a81ae7baddab014408984152ed377b27842425c70845afdb20996cdae12e10cf"
     },
     {
       "path": "production/current-state.md",

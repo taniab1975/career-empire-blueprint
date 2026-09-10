@@ -5624,13 +5624,13 @@
           "decision",
           "release"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Publish authorised landscaped campus, selected building replacements and earlier arrival start",
         "before": "Approved isolated assets and existing paving route; starting avatar past sign",
         "after": "Accepted playable campus and selected buildings, with clear north-facing entrances and earlier start; game deployment pending independent verification.",
         "source": "Tania explicitly requests two existing building replacements with entrances facing paths and live release; leave town hall for future ECC",
         "owner": "Blueprint maintainer",
-        "nextAction": "Publish and independently verify the reviewed Blueprint source record, then bind and publish the authorised game update.",
+        "nextAction": "Bind exact reviewed game files, publish the authorised map and independently verify live gameplay.",
         "targets": [
           {
             "surface": "start",
@@ -5734,22 +5734,24 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "disposition": "updated",
+            "action": "Blueprint source review published and independently verified; game release remains separately pending.",
             "records": [
               "CE-CHANGE-20260910-36"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "evidence": [
-              "docs/production/map-landscape-concept-20260910.md"
+              "/publication-manifest.json",
+              "/production/campus-map-release-20260910.md",
+              "/evidence/campus-map-20260910/integrated-map.png"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Await source-grounded concept scene and view checks.",
-              "date": ""
+              "result": "passed",
+              "date": "2026-09-10",
+              "method": "Public record and campus image hashes match reviewed output; actual overview, world, visuals, roadmap and build checked at 1280px and 390px."
             },
-            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+            "nextAction": "Bind exact reviewed game files, publish the authorised map and independently verify live gameplay."
           },
           {
             "surface": "buildings",
