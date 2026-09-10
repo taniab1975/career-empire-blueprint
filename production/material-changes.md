@@ -8,17 +8,17 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** World Environment & Ecosystem / Buildings & ECC Campus
 - **source:** Tania: Ok great let’s go ahead with that. one complete exterior candidate in a separate preview; user accepts preview for now and explicitly requests live placement plus EST relocation into another empty building. Tania confirms: Yes first building on right please. User additionally requests Original Career Empire link and reports both outer buildings missing.
 - **owner:** Blueprint maintainer / environment designer
-- **status:** Right-hand EST confirmed; integration and release verification in progress
+- **status:** Published and independently verified
 - **rationale:** Build one complete source-backed exterior candidate for visual and walking review.
 - **dependencies:** CE-CHANGE-20260910-37 / CE-CHANGE-20260910-36
 - **supersededRecord:** None
 - **designApproval:** Concept visual direction accepted; explicit authority for one complete exterior candidate in a separate preview.
 - **implementation:** Accepted ECC exterior integrated locally; First Workplace renamed EST Prep with new approach and return point; original-game sign/link added; complete scenery awaited before opening.
-- **deployment:** Live publication explicitly authorised; pending final checks and source-bound Blueprint release.
-- **testing:** Pending actual-model fixed views, walking and performance checks.
+- **deployment:** Live game 9c593f62ead4834df0b74af420c82b32d18a586b; exact hashes and public gameplay checks passed.
+- **testing:** Six unit tests; 30 browser tests plus corrected two-test scenery retest; live map/EST entry-return/original-game/mobile checks pass. Blueprint 73 tests and 14 local/live reader checks pass.
 - **taniaAcceptance:** Exterior candidate accepted as OK for now; user requests placement in live game.
 - **evidence:** docs/production/ecc-campus-hub-specification-20260910.md
-- **nextAction:** Verify integrated campus and EST entry/return, publish canonical Blueprint and authorised game release, then plan Chapel interior.
+- **nextAction:** Create Chapel interior concept from supplied photos before 3D interior production.
 
 ## CE-CHANGE-20260910-37 — ECC Campus Hub visual and functional specification
 

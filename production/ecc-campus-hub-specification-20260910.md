@@ -204,3 +204,11 @@ These are actual local game captures, not generated concepts. Both outer buildin
 Runtime architecture source: playable-3d/ecc-preview/model.js, integrated via world.js. The reusable exterior GLB is retained in the separate preview; approved landscape models and existing Careers/Workplace meshes are reused. Chapel cross aperture, curved stone, tree glass, cream/brick Admin, tiled roofs, teal entries and Student Services blade form the recognisable compact anchor. Interiors and additional campus buildings are outside this release.
 
 Manual local checks: actual full-map view, renamed EST sign, entry to unchanged hall and return to the new doorway. Foreground browser performance varied with scene/view; no target-device performance acceptance is claimed. Test logs and source hashes accompany the release record. Publication remains pending independent live verification.
+
+
+## Verified ECC campus release — 10 September 2026
+CE-CHANGE-20260910-38: live game 9c593f62ead4834df0b74af420c82b32d18a586b. Accepted ECC exterior replaces the old central hall; both outer buildings remain. Confirmed right-hand First Workplace is EST Prep, with approach/return (16,12.5) and doorway (16,14). Original Career Empire sign/footer open the exact requested root URL in a separate tab. Complete scenery is awaited before gameplay; failures show a retry explanation.
+
+Independent live manifest/runtime/asset hashes match, including both outer buildings. Live full map, EST entry/return, original-game new tab and mobile overflow checks pass. Local check, six unit tests, 30 browser tests plus the corrected two-test scenery retest pass; 73 Blueprint tests, TypeScript, focused lint, production/static builds and 14 local/live reader checks pass. Preserve failed runs as evidence. Hosted CI status is separate. Evidence: private/production-evidence/2026-09-10/ecc-campus-hub/release/.
+
+Next: Chapel interior concept from supplied photos, design approval, then 3D interior build and placement. No further exterior/building-choice approval needed. Global refresh remains partial; retain historical intake and separate gait/lighting/hosted timing follow-ups.

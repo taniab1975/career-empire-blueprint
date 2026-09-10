@@ -12,7 +12,7 @@
     "currentEstPrepLabel": "Open current EST Prep module",
     "recordHref": "/blueprint-records.json",
     "recordLabel": "Download Blueprint record",
-    "screenshot": "/evidence/campus-map-20260910/live-map.png",
+    "screenshot": "/evidence/ecc-campus-hub-20260910/live/campus.png",
     "screenshotAlt": "10 September live landscaped campus: paths, lawns, approved planting and selected Careers Advice Centre / First Workplace; town hall retained",
     "conceptVideoHref": "/references/style/town-hall-entry-start-here.mp4",
     "conceptVideoPoster": "/references/style/entry-original-poster.jpg",
@@ -192,9 +192,9 @@
       "phase": "World Environment & Ecosystem",
       "activeMilestoneId": "CE-ENV-01",
       "objective": "Establish the approved visual and environmental system for the Career Empire campus.",
-      "now": "Landscaped campus is live: connected paths, lawns, approved planting, shade and two selected buildings with entrances onto paths; welcome sign now ahead at startup.",
-      "next": "Validate and publish the authorised ECC campus, confirmed right-hand EST Prep building and Original Career Empire access.",
-      "then": "After the campus release, develop the Chapel interior concept from supplied references, obtain design approval, then build and integrate it.",
+      "now": "ECC hub, retained outer buildings, right-hand EST Prep and Original Career Empire access are live and independently verified.",
+      "next": "Develop the Chapel interior concept from the supplied photos for Tania review.",
+      "then": "After design approval, build and validate the Chapel interior in a separate preview, then integrate.",
       "later": "Avatar system → experiences → curriculum coverage and validation.",
       "sequence": [
         "World Environment & Ecosystem",
@@ -215,12 +215,12 @@
       "liveEvidence": {
         "url": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
         "repository": "https://github.com/Emmanuel-ICT-Support/GTCEM-Career-Empire",
-        "sourceCommit": "d85de9920f23f9f18288c42eed2e86dcfc9da1b1",
+        "sourceCommit": "9c593f62ead4834df0b74af420c82b32d18a586b",
         "verifiedAt": "2026-09-10",
-        "method": "Campus release d85de9920f23f9f18288c42eed2e86dcfc9da1b1: all 20 manifest runtime/asset hashes match, and live movement, Studio save/return/reload and mobile verified. Town hall and repaired avatar source remain unchanged.",
-        "image": "/evidence/campus-map-20260910/live-map.png",
-        "imageSha256": "3e5d6f6ad7c8ddfbf55b81697cc32d8786a6ff830447ea813889a9d1b646901d",
-        "caption": "Actual live campus, 10 September: connected paving, lawns, planting and two selected buildings; town hall retained for future ECC. Separate lighting comparison remains unpublished."
+        "method": "Independent live source/asset hashes and campus, EST entry/return, original-game new tab and mobile checks passed.",
+        "image": "/evidence/ecc-campus-hub-20260910/live/campus.png",
+        "imageSha256": "408803a061a671da8e39c9d04a2797feffab05158dbc1a914c4fb730f5332052",
+        "caption": "Actual live ECC campus with both outer buildings retained and right-hand EST Prep. Separate lighting comparison remains unpublished."
       }
     },
     "currentStep": {
@@ -536,18 +536,18 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "The earlier Blueprint publication is verified separately from the live game. The landscaped campus and selected buildings are live at d85de992. The source-backed ECC exterior is built and accepted for now; live replacement and right-hand EST relocation are explicitly authorised, with release verification in progress. Separate lighting, gait, older integrations and classroom boundaries remain open.",
+      "summary": "Blueprint publication is verified separately from the live game. ECC hub, retained outer buildings, right-hand EST Prep and Original Career Empire access are live and independently verified. Chapel interior follows as a separate concept, approval and build stage; existing gait/lighting and historical work remain open.",
       "facts": [
         {
-          "label": "ECC HUB / SPECIFICATION PROPOSED",
-          "title": "ECC Campus Hub visual + functional specification",
-          "detail": "One connected Administration, Student Services and Chapel complex. Preserve the raised crest gable, red-brown roofs and brick base, teal entrance frames, curved Chapel stone wall, cross opening and tree-patterned glass. A compact forecourt and quiet garden imply the wider school. Specification only. Preserve the live map, Studio, EST access, avatar and separate gait/lighting follow-ups. No new Blueprint, checkout, game build or release.",
+          "label": "ECC CAMPUS / LIVE AND VERIFIED",
+          "title": "ECC hub and right-hand EST Prep",
+          "detail": "ECC hub, retained outer buildings, right-hand EST Prep and Original Career Empire access are live and independently verified.",
           "href": "/production/ecc-campus-hub-specification-20260910.html"
         },
         {
           "label": "CAMPUS MAP / LIVE AND VERIFIED",
-          "title": "School student: original appearance restored and elbows repaired",
-          "detail": "Accepted landscaping and selected Careers Advice Centre / First Workplace are live, with clear path-facing doorways and earlier spawn. Town hall retained for future ECC; separate gait follow-up open.",
+          "title": "Existing Studio, landscape and Careers building retained",
+          "detail": "The campus update preserves the existing Studio, avatar and approved planting. First Workplace on the right now hosts EST Prep. Separate gait diagnosis remains open.",
           "href": "/production/avatar-polish-20260910.md"
         },
         {
@@ -816,7 +816,7 @@
           "domain": "World Environment & Ecosystem / Buildings & ECC Campus",
           "source": "Tania: Ok great let’s go ahead with that. one complete exterior candidate in a separate preview; user accepts preview for now and explicitly requests live placement plus EST relocation into another empty building. Tania confirms: Yes first building on right please. User additionally requests Original Career Empire link and reports both outer buildings missing.",
           "owner": "Blueprint maintainer / environment designer",
-          "status": "Right-hand EST confirmed; integration and release verification in progress",
+          "status": "Published and independently verified",
           "rationale": "Build one complete source-backed exterior candidate for visual and walking review.",
           "dependencies": [
             "CE-CHANGE-20260910-37",
@@ -825,13 +825,13 @@
           "supersededRecord": null,
           "designApproval": "Concept visual direction accepted; explicit authority for one complete exterior candidate in a separate preview.",
           "implementation": "Accepted ECC exterior integrated locally; First Workplace renamed EST Prep with new approach and return point; original-game sign/link added; complete scenery awaited before opening.",
-          "deployment": "Live publication explicitly authorised; pending final checks and source-bound Blueprint release.",
-          "testing": "Pending actual-model fixed views, walking and performance checks.",
+          "deployment": "Live game 9c593f62ead4834df0b74af420c82b32d18a586b; exact hashes and public gameplay checks passed.",
+          "testing": "Six unit tests; 30 browser tests plus corrected two-test scenery retest; live map/EST entry-return/original-game/mobile checks pass. Blueprint 73 tests and 14 local/live reader checks pass.",
           "taniaAcceptance": "Exterior candidate accepted as OK for now; user requests placement in live game.",
           "evidence": [
             "docs/production/ecc-campus-hub-specification-20260910.md"
           ],
-          "nextAction": "Verify integrated campus and EST entry/return, publish canonical Blueprint and authorised game release, then plan Chapel interior."
+          "nextAction": "Create Chapel interior concept from supplied photos before 3D interior production."
         },
         {
           "id": "CE-CHANGE-20260910-37",
@@ -1802,13 +1802,13 @@
       "id": "CE-ECC-HUB-01",
       "changeId": "CE-CHANGE-20260910-38",
       "title": "ECC campus and right-hand EST Prep",
-      "status": "Exterior accepted for now; right-hand EST Prep confirmed; combined live release in progress.",
+      "status": "Live and independently verified",
       "summary": "The complete exterior is accepted for now and authorised for live placement. Both outer buildings remain; the right-hand building becomes EST Prep. Original Career Empire is accessible from a sign and new-tab link.",
       "functions": "EST keeps its existing learning hall and modules. Chapel reflection/wellbeing, Admin and Student Services interiors remain future work.",
-      "nextAction": "Publish the checked combined update, then create the Chapel interior concept.",
+      "nextAction": "Develop the Chapel interior concept for design approval, then build and place the approved interior.",
       "href": "/production/ecc-campus-hub-specification-20260910.html",
-      "image": "/evidence/ecc-campus-hub-20260910/built-v1/campus.png",
-      "imageCaption": "Actual local 3D candidate: ECC hub, retained Careers Advice Centre and right-hand EST Prep; publication verification pending.",
+      "image": "/evidence/ecc-campus-hub-20260910/live/campus.png",
+      "imageCaption": "Actual live campus: ECC hero, retained Careers Advice Centre and right-hand EST Prep.",
       "boundary": "Authorised combined exterior release; Chapel interior concept and build follow separately. Existing gait and lighting follow-ups remain open."
     }
   },
@@ -4988,9 +4988,9 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "87bfbcfc8f3b403a9fedc266722422a7eb0a16f0f001fffdd2f678ea1a52269f",
+          "sha256": "e0fac95aeda584d0587546317fa7795a30cd757fbba0b20d26ea48bef6b7fd16",
           "reviewedAt": "2026-09-10",
-          "method": "AGENTS and handoff identify existing game checkout, confirmed target, retained follow-ups and source-bound release requirements. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately."
+          "method": "AGENTS and handoff identify existing game checkout, confirmed target, retained follow-ups and source-bound release requirements. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately. Verified live ECC campus release: source/asset hashes and public map, EST return, original-game link and mobile checks; next Chapel concept."
         },
         {
           "path": "README.md",
@@ -5016,9 +5016,9 @@
         },
         {
           "path": "app/current-evidence.tsx",
-          "sha256": "93b82cb33305450cbe4e859ee47563fcfe103744ea779f4ccfd7b9efa7e34012",
+          "sha256": "c4e0b60f63577c6a59a1254a3c82321b8424c9338f1d99b1a4b8968f632edf30",
           "reviewedAt": "2026-09-10",
-          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately."
+          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately. Verified live ECC campus release: source/asset hashes and public map, EST return, original-game link and mobile checks; next Chapel concept."
         },
         {
           "path": "app/globals.css",
@@ -5058,9 +5058,9 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "107e4e89d3e494520180167b4be892ceac4a652b916bbef3c41dcbd371b8c801",
+          "sha256": "70ff71f4a855e45964bdbf5c33cb214a064206f22d224ce9098bfd822bb57b3e",
           "reviewedAt": "2026-09-10",
-          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately. Final reader review corrected stale before-modelling wording to accepted exterior/release in progress."
+          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately. Final reader review corrected stale before-modelling wording to accepted exterior/release in progress. Verified live ECC campus release: source/asset hashes and public map, EST return, original-game link and mobile checks; next Chapel concept."
         },
         {
           "path": "data/style-guide.json",
@@ -5070,9 +5070,9 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "79f03a3241b34fda3f21c1dd0021a21a491c61db6373d58193f6decca99222ba",
+          "sha256": "a12a35484a4acef125779a6ab50df30e99e4ab6674b52cb2aa237f3c2523b1f7",
           "reviewedAt": "2026-09-10",
-          "method": "AGENTS and handoff identify existing game checkout, confirmed target, retained follow-ups and source-bound release requirements. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately."
+          "method": "AGENTS and handoff identify existing game checkout, confirmed target, retained follow-ups and source-bound release requirements. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately. Verified live ECC campus release: source/asset hashes and public map, EST return, original-game link and mobile checks; next Chapel concept."
         },
         {
           "path": "docs/production/arrival-playable-release-20260910.md",
@@ -5114,9 +5114,9 @@
         },
         {
           "path": "docs/production/production-plan.md",
-          "sha256": "c2f411f4641646fa6acc47eb81c608cedb81b767a1d5c60ba92d9c580467a0b4",
+          "sha256": "a1063973d57bd32a17ed749422206dd80245846a057d0d9ea46f086a4e4f29be",
           "reviewedAt": "2026-09-10",
-          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately."
+          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately. Verified live ECC campus release: source/asset hashes and public map, EST return, original-game link and mobile checks; next Chapel concept."
         },
         {
           "path": "docs/production/project-automation-setup-2026-09-10.md",
@@ -5718,9 +5718,9 @@
         },
         {
           "path": "docs/production/ecc-campus-hub-specification-20260910.md",
-          "sha256": "c9ecc387b974f0c7b911a738bddde0dde906e7a982beb05d58b25d784548e87d",
+          "sha256": "0f88a6ff7216ec9e71540d75050b2eb2667cf8bcab4cef51ba55b3daa1e9f923",
           "reviewedAt": "2026-09-10",
-          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately."
+          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately. Verified live ECC campus release: source/asset hashes and public map, EST return, original-game link and mobile checks; next Chapel concept."
         },
         {
           "path": "scripts/render-specification.mjs",
