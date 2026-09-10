@@ -193,8 +193,8 @@
       "activeMilestoneId": "CE-ENV-01",
       "objective": "Establish the approved visual and environmental system for the Career Empire campus.",
       "now": "Landscaped campus is live: connected paths, lawns, approved planting, shade and two selected buildings with entrances onto paths; welcome sign now ahead at startup.",
-      "next": "Review the live campus, retain the separate avatar gait follow-up, then agree the future ECC replacement scope.",
-      "then": "Building and ECC campus architecture: refine destinations as one coherent architectural family, not isolated buildings.",
+      "next": "Validate and publish the authorised ECC campus, confirmed right-hand EST Prep building and Original Career Empire access.",
+      "then": "After the campus release, develop the Chapel interior concept from supplied references, obtain design approval, then build and integrate it.",
       "later": "Avatar system → experiences → curriculum coverage and validation.",
       "sequence": [
         "World Environment & Ecosystem",
@@ -226,7 +226,7 @@
     "currentStep": {
       "id": "CE-ENV-01",
       "title": "World Environment & Ecosystem",
-      "status": "Landscape and selected buildings live; future ECC and separate lighting/gait follow-ups remain open",
+      "status": "ECC separate exterior candidate authorised",
       "owner": "Environment integrator; Tania: appearance and placement acceptance",
       "href": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
       "actionLabel": "Play the updated world",
@@ -235,8 +235,8 @@
         "V2-D08",
         "V2-D17"
       ],
-      "nextAction": "Review the published paving and connected Spawn → Avatar Studio walk. The separate sky and lighting candidate is saved for review and remains unpublished.",
-      "doneWhen": "Exact published build passes walking, Studio save/return, reload and mobile checks; Tania reviews the playable area.",
+      "nextAction": "Build and validate the authorised separate exterior preview; appearance acceptance and live publication remain later.",
+      "doneWhen": "ECC scope is agreed against actual references; a subsequent authorised fit study preserves existing routes and passes fixed-view review.",
       "boundary": "This is not blanket Batch 1 acceptance, a wardrobe restart, or curriculum/economy change. Progress is browser-local; teacher/classroom integration remains outstanding."
     },
     "roadmap": [
@@ -263,13 +263,13 @@
       {
         "id": "CE-ENV-01",
         "horizon": "Now",
-        "title": "Try the playable Arrival-to-Studio area",
+        "title": "Review the ECC Campus Hub specification",
         "owner": "Environment integrator; Tania: appearance and placement acceptance",
-        "status": "Paving live; review and specification next",
-        "dependency": "Separate architecture, landscape and player-flow stages completed locally; live verification follows publication.",
-        "doneWhen": "Exact published build passes walking, Studio save/return, reload and mobile checks; Tania reviews the playable area.",
-        "href": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
-        "nextAction": "Vegetation, trees and landscaping: agree their environmental specification against the current campus references before choosing or replacing assets."
+        "status": "Campus landscape live; accepted ECC exterior and right-hand EST release in progress",
+        "dependency": "Existing campus map release 36; actual ECC assets/video and current campus direction; no modelling before scope review.",
+        "doneWhen": "ECC scope is agreed against actual references; a subsequent authorised fit study preserves existing routes and passes fixed-view review.",
+        "href": "/production/ecc-campus-hub-specification-20260910.html",
+        "nextAction": "Review the whole-hub scope before a measured fit study with fixed aerial, arrival, Chapel and doorway views."
       },
       {
         "id": "CE-EST-BRIDGE-01",
@@ -536,8 +536,14 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "Blueprint publication is verified separately from the live game. Current game paving is published; the sky and lighting candidate remains unpublished. Ten whole-item candidates exist but are not collectively accepted. This reader shows one shared production plan, current live evidence and explicit approval limits. Historical source observations remain tracked; they are not proof of completion.",
+      "summary": "The earlier Blueprint publication is verified separately from the live game. The landscaped campus and selected buildings are live at d85de992. The source-backed ECC exterior is built and accepted for now; live replacement and right-hand EST relocation are explicitly authorised, with release verification in progress. Separate lighting, gait, older integrations and classroom boundaries remain open.",
       "facts": [
+        {
+          "label": "ECC HUB / SPECIFICATION PROPOSED",
+          "title": "ECC Campus Hub visual + functional specification",
+          "detail": "One connected Administration, Student Services and Chapel complex. Preserve the raised crest gable, red-brown roofs and brick base, teal entrance frames, curved Chapel stone wall, cross opening and tree-patterned glass. A compact forecourt and quiet garden imply the wider school. Specification only. Preserve the live map, Studio, EST access, avatar and separate gait/lighting follow-ups. No new Blueprint, checkout, game build or release.",
+          "href": "/production/ecc-campus-hub-specification-20260910.html"
+        },
         {
           "label": "CAMPUS MAP / LIVE AND VERIFIED",
           "title": "School student: original appearance restored and elbows repaired",
@@ -803,6 +809,58 @@
         }
       ],
       "changes": [
+        {
+          "id": "CE-CHANGE-20260910-38",
+          "date": "2026-09-10",
+          "title": "ECC campus, right-hand EST Prep and original-game access",
+          "domain": "World Environment & Ecosystem / Buildings & ECC Campus",
+          "source": "Tania: Ok great let’s go ahead with that. one complete exterior candidate in a separate preview; user accepts preview for now and explicitly requests live placement plus EST relocation into another empty building. Tania confirms: Yes first building on right please. User additionally requests Original Career Empire link and reports both outer buildings missing.",
+          "owner": "Blueprint maintainer / environment designer",
+          "status": "Right-hand EST confirmed; integration and release verification in progress",
+          "rationale": "Build one complete source-backed exterior candidate for visual and walking review.",
+          "dependencies": [
+            "CE-CHANGE-20260910-37",
+            "CE-CHANGE-20260910-36"
+          ],
+          "supersededRecord": null,
+          "designApproval": "Concept visual direction accepted; explicit authority for one complete exterior candidate in a separate preview.",
+          "implementation": "Accepted ECC exterior integrated locally; First Workplace renamed EST Prep with new approach and return point; original-game sign/link added; complete scenery awaited before opening.",
+          "deployment": "Live publication explicitly authorised; pending final checks and source-bound Blueprint release.",
+          "testing": "Pending actual-model fixed views, walking and performance checks.",
+          "taniaAcceptance": "Exterior candidate accepted as OK for now; user requests placement in live game.",
+          "evidence": [
+            "docs/production/ecc-campus-hub-specification-20260910.md"
+          ],
+          "nextAction": "Verify integrated campus and EST entry/return, publish canonical Blueprint and authorised game release, then plan Chapel interior."
+        },
+        {
+          "id": "CE-CHANGE-20260910-37",
+          "date": "2026-09-10",
+          "title": "ECC Campus Hub visual and functional specification",
+          "domain": "World Environment & Ecosystem / Buildings & ECC Campus",
+          "source": "Tania, 10 September 2026, continuing ECC Campus Design Concept: inspect actual ECC Branding assets and combined Admin/Student Services/Chapel video, inspect live game and canonical direction, deliver visual + functional specification before modelling; use existing canonical Blueprint and checkout.",
+          "owner": "Blueprint maintainer / environment designer",
+          "status": "Specification and three concept drawings saved; design review and publication pending",
+          "rationale": "Make the next ECC destination recognisable through a connected hero complex and selective campus cues rather than a full campus recreation.",
+          "dependencies": [
+            "CE-ENV-01",
+            "CE-CHANGE-20260910-36",
+            "CE-CHANGE-20260910-34"
+          ],
+          "supersededRecord": null,
+          "designApproval": "User authorises specification and evidence inspection; final design and implementation remain unapproved.",
+          "implementation": "Source inventory, 11 image contact sheets, two timeline sheets, fresh live inspection and complete nine-part specification. No models or game files changed. Follow-up: three generated concept views (arrival, connected layout, Chapel quiet garden), using supplied original ECC logo and historical hologram as references; no 3D generation.",
+          "deployment": "No ECC game build or publication.",
+          "testing": "All 62 images and 20 video samples plus two full-size details inspected. Live arrival/aerial/EST/Studio inspected; three live source hashes match d85de992. Eighteen reader checks across nine routes at 1280/390 widths and two full specification checks passed without page overflow. All 73 Blueprint tests, TypeScript, focused lint, export consistency and production build passed. No new game regression or hosted CI claim. Concept follow-up: final three PNGs visually inspected; initial arrival draft superseded to remove invented mottos. Crest redraw/lettering and cross-view geometry remain illustrative, not final production assets.",
+          "taniaAcceptance": "Tania enthusiastically likes the concept appearance and asks about 3D feasibility. This accepts the visual direction in principle; no explicit modelling or publication instruction yet.",
+          "evidence": [
+            "docs/production/ecc-campus-hub-specification-20260910.md",
+            "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json",
+            "private/production-evidence/2026-09-10/ecc-campus-hub/document-checks.json",
+            "private/production-evidence/2026-09-10/ecc-campus-hub/tests-final.log"
+          ],
+          "nextAction": "Review arrival, connected layout and Chapel garden concepts, including prominent ECC welcome, before any 3D generation."
+        },
         {
           "id": "CE-CHANGE-20260910-36",
           "date": "2026-09-10",
@@ -1739,6 +1797,19 @@
         "manifestUrl": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/release-manifest.json",
         "verification": "Actual live capture dated 10 September; remote game main 1931e2c and all five live release-manifest file hashes independently verified during recovery. This is not new classroom or whole-campus acceptance."
       }
+    },
+    "eccHub": {
+      "id": "CE-ECC-HUB-01",
+      "changeId": "CE-CHANGE-20260910-38",
+      "title": "ECC campus and right-hand EST Prep",
+      "status": "Exterior accepted for now; right-hand EST Prep confirmed; combined live release in progress.",
+      "summary": "The complete exterior is accepted for now and authorised for live placement. Both outer buildings remain; the right-hand building becomes EST Prep. Original Career Empire is accessible from a sign and new-tab link.",
+      "functions": "EST keeps its existing learning hall and modules. Chapel reflection/wellbeing, Admin and Student Services interiors remain future work.",
+      "nextAction": "Publish the checked combined update, then create the Chapel interior concept.",
+      "href": "/production/ecc-campus-hub-specification-20260910.html",
+      "image": "/evidence/ecc-campus-hub-20260910/built-v1/campus.png",
+      "imageCaption": "Actual local 3D candidate: ECC hub, retained Careers Advice Centre and right-hand EST Prep; publication verification pending.",
+      "boundary": "Authorised combined exterior release; Chapel interior concept and build follow separately. Existing gait and lighting follow-ups remain open."
     }
   },
   "curriculum": [
@@ -4173,7 +4244,7 @@
       "title": "ECC Career Campus + Campus-to-Career Corridor",
       "status": "Direction and candidate production approved; finished precinct not accepted",
       "summary": "Warm limestone or pale brick, navy framing, timber fins, glass, native gardens and shaded paths. Teal is restrained wayfinding and interaction. Character-level walking views lead; aerial views explain context. The first quality slice is Avatar Studio with its garden, approach and plaza edge.",
-      "sequence": "Visual references → dimensioned playable layout → textured modular kit → Avatar Studio → assembled precinct → review and deliberate release. Arrival → EST Prep → Civic Heart follows.",
+      "sequence": "Live campus landscape is retained. The complete ECC exterior candidate is accepted for now and authorised for release with right-hand EST Prep. Chapel interior concept follows the campus release. Separate lighting and gait remain open.",
       "boundary": "The older civic concepts and prompt pack below are retained history and supporting references. They do not override this campus direction or approve new buildings, RPG mechanics, an economy formula or a faithful reconstruction of ECC.",
       "evidenceHref": "/production/visual-register.md",
       "source": "Recovered exact originals from archived task 01a0808f-c02e-7a40-af94-7538beb5ab57: image events 2483, 2490, 2760; user responses 9 September 07:05 and 07:52 UTC and later approved production sequence."
@@ -4731,10 +4802,11 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20260910-36"
+        "CE-CHANGE-20260910-37",
+        "CE-CHANGE-20260910-38"
       ],
-      "scope": "Accepted campus layout and selected existing building release source review",
-      "disclosure": "Campus map and selected buildings are live and independently verified. Separate avatar gait diagnosis, older intake and remaining batch approvals stay open.",
+      "scope": "ECC source-backed specification, accepted exterior, right-hand EST Prep and original-game access",
+      "disclosure": "Combined game release authorised and locally implemented; independent publication verification pending. Chapel interior follows separately. Historical intake, gait, lighting and hosted timing follow-ups remain open.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -4906,30 +4978,37 @@
         "public/evidence/campus-map-20260910/integrated-start.png",
         "scripts/project-guard.mjs",
         "tests/project-guard.test.mjs",
-        "public/evidence/campus-map-20260910/live-map.png"
+        "public/evidence/campus-map-20260910/live-map.png",
+        "docs/production/ecc-campus-hub-specification-20260910.md",
+        "scripts/render-specification.mjs",
+        "public/evidence/ecc-campus-hub-20260910/recognition-sheet.jpg",
+        "public/evidence/ecc-campus-hub-20260910/built-v1/campus.png",
+        "public/evidence/ecc-campus-hub-20260910/built-v1/est-entrance.png"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "e292259c200a927493c5909b62368b2877bf92ec3799b9b00ec6707e801f79a6",
+          "sha256": "87bfbcfc8f3b403a9fedc266722422a7eb0a16f0f001fffdd2f678ea1a52269f",
           "reviewedAt": "2026-09-10",
-          "method": "Live-release close: verified live evidence and status update; guard context correction tested without relaxing publication enforcement."
+          "method": "AGENTS and handoff identify existing game checkout, confirmed target, retained follow-ups and source-bound release requirements. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately."
         },
         {
           "path": "README.md",
-          "sha256": "034d2a53243eeb8126323e213233a9fae7eda9a2eaafb0657a8ecd5b04cdd4f6"
+          "sha256": "eea13f226c864fbb8e53cdd8a446ab93f04af5c0123cb8f4ff1cdd665aea72ac",
+          "reviewedAt": "2026-09-10",
+          "method": "Reviewed specification link and local source-only scope. Confirmed release sequence supersedes specification-only wording."
         },
         {
           "path": "app/blueprint-detail.tsx",
-          "sha256": "60cdb3c564ded7f4bf663d8400c70ecff5f35af6ec11b91b70c0f762e1acb966",
+          "sha256": "e78b6e4d12fbb16aaab1e8e2264c0a711f683ed7fc8840b7410a367ea53fa125",
           "reviewedAt": "2026-09-10",
-          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
+          "method": "Reviewed Build and World proposal placement, keeping actual built evidence separate."
         },
         {
           "path": "app/blueprint-surfaces.tsx",
-          "sha256": "b69a6e2c18cdad3ce1eac6c5603a7622496b0031c6133ff5e421ac7927ef554a",
+          "sha256": "d39fce48bb0229b77cda248700064d6737894632d40f3124493ca631e0c1a4e0",
           "reviewedAt": "2026-09-10",
-          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
+          "method": "Reviewed shared next-step link, Start Here and Journey proposal cards; desktop/mobile checks passed. Final reader review corrected stale before-modelling wording to accepted exterior/release in progress."
         },
         {
           "path": "app/change-integration.tsx",
@@ -4937,9 +5016,9 @@
         },
         {
           "path": "app/current-evidence.tsx",
-          "sha256": "6604b237168144ccc8cbee67aa3c34da91ba82286580128c4cde26c98486e7b6",
+          "sha256": "93b82cb33305450cbe4e859ee47563fcfe103744ea779f4ccfd7b9efa7e34012",
           "reviewedAt": "2026-09-10",
-          "method": "Live-release close: verified live evidence and status update; guard context correction tested without relaxing publication enforcement."
+          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately."
         },
         {
           "path": "app/globals.css",
@@ -4947,13 +5026,15 @@
         },
         {
           "path": "app/learning-map.tsx",
-          "sha256": "b50f60865a95f3dcf3d6d8bc9f0f77873b51f6642819912f33a51a6b187c9d7e"
+          "sha256": "89f61f72b808ccb0c511ab80f21ec986423ce3b340849df598b120e472a1c852",
+          "reviewedAt": "2026-09-10",
+          "method": "Reviewed proposed-only ECC function note; no experience or curriculum mapping edits."
         },
         {
           "path": "app/style-guide.tsx",
-          "sha256": "8ac47fee8944871912ccd1a049f7d5865da935474cd9e58237284fcff3a1e004",
+          "sha256": "ed13634aa46464ee7caa05e8c2a386ee67576a2bcd4b0da8924dc46543952341",
           "reviewedAt": "2026-09-10",
-          "method": "Scoped map release source review; changed content examined, unrelated approvals and published/avatar gait notes preserved."
+          "method": "Reviewed real-source ECC card separate from approved visual originals and existing built evidence."
         },
         {
           "path": "data/asset-register.json",
@@ -4963,9 +5044,9 @@
         },
         {
           "path": "data/blueprint.ts",
-          "sha256": "cc20f8e20cdcde613f5e832b54c324c3de68f7c7a4f84c6542a11b096d610732",
+          "sha256": "8a870acd77e47f4800e4456395acd4ae6025b904e1a27c8c6deb4c9665462afe",
           "reviewedAt": "2026-09-10",
-          "method": "Live-release close: verified live evidence and status update; guard context correction tested without relaxing publication enforcement."
+          "method": "Reviewed sole new ECC Source Documents entry; protected decisions and experiences unchanged."
         },
         {
           "path": "data/change-workflows.json",
@@ -4977,21 +5058,21 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "030e7d30fd0b146a1a3f73b771269c3454a74ec4979baba86fe4905e78a8cc88",
+          "sha256": "107e4e89d3e494520180167b4be892ceac4a652b916bbef3c41dcbd371b8c801",
           "reviewedAt": "2026-09-10",
-          "method": "Live-release close: verified live evidence and status update; guard context correction tested without relaxing publication enforcement."
+          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately. Final reader review corrected stale before-modelling wording to accepted exterior/release in progress."
         },
         {
           "path": "data/style-guide.json",
-          "sha256": "11207ef7635d3b443a78b4709104907a8b21f08152c49240680b87cbb80271d0",
+          "sha256": "3f2ed4283e0c4b8cbf843e951b72ec31a1a807a4960b27c3510c19e39d336dc1",
           "reviewedAt": "2026-09-10",
-          "method": "Live-release close: verified live evidence and status update; guard context correction tested without relaxing publication enforcement."
+          "method": "Reviewed next sequence only; original references/approval wording retained. Confirmed release sequence supersedes specification-only wording."
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "b48cfbde51eb50f19ae1efaaf8ece3324c3e3258ccce44797af330b84c660750",
+          "sha256": "79f03a3241b34fda3f21c1dd0021a21a491c61db6373d58193f6decca99222ba",
           "reviewedAt": "2026-09-10",
-          "method": "Live-release close: verified live evidence and status update; guard context correction tested without relaxing publication enforcement."
+          "method": "AGENTS and handoff identify existing game checkout, confirmed target, retained follow-ups and source-bound release requirements. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately."
         },
         {
           "path": "docs/production/arrival-playable-release-20260910.md",
@@ -5019,7 +5100,9 @@
         },
         {
           "path": "docs/production/current-state.md",
-          "sha256": "8cf468ea34fb1764c2f65e608e89796c32c59469b3e8dce19d894eea05f99bb2"
+          "sha256": "ffc7bbd96410a65cf22fb4c878a059df28d767c7092453e02f0e8ae7805e8116",
+          "reviewedAt": "2026-09-10",
+          "method": "Reviewed correction from old paving-only state to release 36 and specification-only next step."
         },
         {
           "path": "docs/production/game-hosting-correction-20260910.md",
@@ -5031,7 +5114,9 @@
         },
         {
           "path": "docs/production/production-plan.md",
-          "sha256": "8a16269a9a87f08c985a47ced9baf6da09ede8c7b5f9458c39cf9df620fa457e"
+          "sha256": "c2f411f4641646fa6acc47eb81c608cedb81b767a1d5c60ba92d9c580467a0b4",
+          "reviewedAt": "2026-09-10",
+          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately."
         },
         {
           "path": "docs/production/project-automation-setup-2026-09-10.md",
@@ -5063,7 +5148,9 @@
         },
         {
           "path": "docs/production/visual-register.md",
-          "sha256": "39aeacd0a35330ba5ed232492e83ff188dd9fd6deb4b066b023cfe4dd8955b71"
+          "sha256": "707b3c87401b58186b3ce126a3df3b444ab3c27691550f542e17338842333d42",
+          "reviewedAt": "2026-09-10",
+          "method": "Reviewed recognition/reuse entry and exact private provenance pointer. Reviewed concept follow-up: three illustrative views, supplied-logo provenance, explicit no-3D-approval and pending publication."
         },
         {
           "path": "package.json",
@@ -5491,7 +5578,9 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "7d88703055a2c8daabc27794e40048fed0efd9b573e594373511030ca4aea625"
+          "sha256": "7da76fcdd012f40f4d17fc1136fc9387f3547d23d0d286ca5f4049d369481688",
+          "reviewedAt": "2026-09-10",
+          "method": "Reviewed addition of deterministic HTML/Markdown specification export; existing exports retained."
         },
         {
           "path": "scripts/prepare-pages.mjs",
@@ -5513,7 +5602,9 @@
         },
         {
           "path": "tests/blueprint.test.mjs",
-          "sha256": "ce3acf9d4c244b7a254a271387ca766eacd0e7351679bf852ee1fb2973e52db2"
+          "sha256": "c28cc5d3b95a755d6f77cef0ca78ede8246933a306a8069b9943a269ea9f0c38",
+          "reviewedAt": "2026-09-10",
+          "method": "Reviewed the new separate local build/reference HTML branch: restricts path, verifies real HTML/title/main and dated reference note; existing school DOCX original-byte/hash checks remain intact."
         },
         {
           "path": "tests/browser-smoke.mjs",
@@ -5603,9 +5694,9 @@
         },
         {
           "path": "docs/production/campus-map-release-20260910.md",
-          "sha256": "86c323294be904148f99337c3c9956bd4c20a499f3b03f5cb87c2d34851dd184",
+          "sha256": "a40864b1b2ce87d318bdf8d33aa52f4d45ae5d2afaca20a977ec8e7a09baf935",
           "reviewedAt": "2026-09-10",
-          "method": "Live-release close: verified live evidence and status update; guard context correction tested without relaxing publication enforcement."
+          "method": "Post-release close note reviewed: hosted CI timing failures distinguished from passing local/live checks; final scan gaps retained."
         },
         {
           "path": "public/evidence/campus-map-20260910/integrated-map.png",
@@ -5624,10 +5715,955 @@
           "sha256": "3e5d6f6ad7c8ddfbf55b81697cc32d8786a6ff830447ea813889a9d1b646901d",
           "reviewedAt": "2026-09-10",
           "method": "Live-release close: verified live evidence and status update; guard context correction tested without relaxing publication enforcement."
+        },
+        {
+          "path": "docs/production/ecc-campus-hub-specification-20260910.md",
+          "sha256": "c9ecc387b974f0c7b911a738bddde0dde906e7a982beb05d58b25d784548e87d",
+          "reviewedAt": "2026-09-10",
+          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately."
+        },
+        {
+          "path": "scripts/render-specification.mjs",
+          "sha256": "4aad18df7ac87c7693515268fe1832744b657067b771f9fac22ffb32fed7607f",
+          "reviewedAt": "2026-09-10",
+          "method": "Reviewed deterministic escaped document renderer; nine sections, five responsive tables and loaded image checked in browser."
+        },
+        {
+          "path": "public/evidence/ecc-campus-hub-20260910/recognition-sheet.jpg",
+          "sha256": "3e8e9cbcff5a79da4390de14a086cfed6331addb8bb976f1bfc789ff5df5335f",
+          "reviewedAt": "2026-09-10",
+          "method": "Visually inspected all nine panels and filename/time captions; real-source reference not generated concept."
+        },
+        {
+          "path": "public/evidence/ecc-campus-hub-20260910/built-v1/campus.png",
+          "sha256": "bc0d76af8a995ff72bf6d7130b6338491bfc544e5e6cecad033953db1166669e",
+          "reviewedAt": "2026-09-10",
+          "method": "Inspected actual ECC specification and local game capture; current versus concept and publication state are labelled."
+        },
+        {
+          "path": "public/evidence/ecc-campus-hub-20260910/built-v1/est-entrance.png",
+          "sha256": "acc1e95d35cfd52a9b758e79bc3608637fd80eb74bbbbb4952484e0793c64c68",
+          "reviewedAt": "2026-09-10",
+          "method": "Inspected actual ECC specification and local game capture; current versus concept and publication state are labelled."
         }
       ]
     },
     "changes": [
+      {
+        "changeId": "CE-CHANGE-20260910-38",
+        "title": "ECC campus, right-hand EST Prep and original-game access",
+        "types": [
+          "building",
+          "visual",
+          "implementation",
+          "decision",
+          "activity",
+          "release"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Publish accepted ECC exterior and relocate EST to the user-selected existing empty building; Chapel interior follows as a separate concept/build stage.",
+        "before": "Three concept drawings and specification; no ECC exterior model.",
+        "after": "Local ECC hub plus preserved outer buildings, right-hand EST entrance/return and Original Career Empire sign/link; publication pending.",
+        "source": "Tania: Ok great let’s go ahead with that. one complete exterior candidate in a separate preview; subsequent Tania instruction: candidate is OK for now; place it live and move EST into the other empty building, renamed EST Prep building. Exact choice requested because two buildings are inactive. Confirmed by Tania: Yes first building on right please.",
+        "owner": "Career Empire environment developer",
+        "nextAction": "Complete required visual/gameplay and reader checks, then publish authorised combined release.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "ECC shared status card now distinguishes accepted local exterior from pending live publication and names the confirmed right-hand EST.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "ECC shared status card now distinguishes accepted local exterior from pending live publication and names the confirmed right-hand EST. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Production plan advances from separate candidate to authorised campus release, then Chapel interior concept and approved build.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Production plan advances from separate candidate to authorised campus release, then Chapel interior concept and approved build. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Records 37 and 38 retain specification/concept history and exact subsequent exterior, publication and right-hand EST approvals.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Records 37 and 38 retain specification/concept history and exact subsequent exterior, publication and right-hand EST approvals. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "AGENTS and handoff identify existing game checkout, confirmed target, retained follow-ups and source-bound release requirements.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "AGENTS and handoff identify existing game checkout, confirmed target, retained follow-ups and source-bound release requirements. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Regenerated specification HTML/Markdown and reader records include the actual integrated views and confirmed EST choice.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Regenerated specification HTML/Markdown and reader records include the actual integrated views and confirmed EST choice. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Pending candidate build and scoped reader verification.",
+              "date": ""
+            },
+            "nextAction": "Publish generated reader, verify live record hashes and affected reader routes, then complete Blueprint integration before game release."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "ECC replaces central hall exterior; Careers retained; right-hand First Workplace becomes EST Prep with north doorway at (16,14).",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "ECC replaces central hall exterior; Careers retained; right-hand First Workplace becomes EST Prep with north doorway at (16,14). Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Both outer buildings and connected paths remain; startup waits for complete scenery. No new unlock or economy rules.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Both outer buildings and connected paths remain; startup waits for complete scenery. No new unlock or economy rules. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Shared ECC card leads with actual local full-map capture; specification retains labelled concept references and adds EST entrance/interior evidence.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Shared ECC card leads with actual local full-map capture; specification retains labelled concept references and adds EST entrance/interior evidence. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Three concept drawings remain illustrative; actual map and EST captures are separately captioned local candidate. No new film or poster claim.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Three concept drawings remain illustrative; actual map and EST captures are separately captioned local candidate. No new film or poster claim. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Existing Careers/Workplace and approved planting GLBs reused; supplied crest retained unchanged. New procedural exterior source and preview export documented.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing Careers/Workplace and approved planting GLBs reused; supplied crest retained unchanged. New procedural exterior source and preview export documented. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "EST approach, proximity entry and return move together; CORE/TERM/VTCS/BOSS content, save/evidence and module destinations remain unchanged.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "EST approach, proximity entry and return move together; CORE/TERM/VTCS/BOSS content, save/evidence and module destinations remain unchanged. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Tania accepted exterior for now, authorised live placement and confirmed First Workplace on right; Chapel interior remains later.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Tania accepted exterior for now, authorised live placement and confirmed First Workplace on right; Chapel interior remains later. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "characters.js, profiles.js and avatar GLBs remain unchanged against d85de992; wardrobe pause and separate gait diagnosis preserved.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "characters.js, profiles.js and avatar GLBs remain unchanged against d85de992; wardrobe pause and separate gait diagnosis preserved. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "No teacher dashboard, authentication, role or evidence-store edits; EST module content and teacher review surfaces unchanged.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No teacher dashboard, authentication, role or evidence-store edits; EST module content and teacher review surfaces unchanged. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Existing private Blueprint recovery branch and game-linked checkout reused. Generated public reader and public game remain separate destinations.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing private Blueprint recovery branch and game-linked checkout reused. Generated public reader and public game remain separate destinations. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "No curriculum edition, point mappings or cohort changed; relocation only changes physical EST entry.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No curriculum edition, point mappings or cohort changed; relocation only changes physical EST entry. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Existing arrival and Studio flow retained; EST navigation now reaches right-hand building and returns there; no pilot approval inferred.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing arrival and Studio flow retained; EST navigation now reaches right-hand building and returns there; no pilot approval inferred. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "No assessment tasks, timing, scoring or evidence requirements changed by physical relocation.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No assessment tasks, timing, scoring or evidence requirements changed by physical relocation. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Actual ECC asset inventory and original crest remain evidence; original-game destination is the exact user-supplied URL.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual ECC asset inventory and original crest remain evidence; original-game destination is the exact user-supplied URL. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Publish and verify the authorised combined release."
+          }
+        ],
+        "projectChanges": {
+          "game-live": {
+            "AGENTS.md": "100644:0c37f16dc5b219847ef2261616c4bccbf6d175cc",
+            "playable-3d/app.js": "100644:5d6dfeb18458c8ffa9dd67875bb8bf90cf8d0440",
+            "playable-3d/campus-landscape.js": "100644:9118e1119ba7c75a9a4f8d3ee5017281c7a58062",
+            "playable-3d/index.html": "100644:8ae7158b0ac8a61e0e3e52bafbbfdbcbda5b592f",
+            "playable-3d/release-manifest.json": "100644:2a1731702a2437f1e5735ace8a4d99a298dc75df",
+            "playable-3d/style.css": "100644:ce3dd6b6d09bea29876ce79971582d6ca2e8f8dd",
+            "playable-3d/world.js": "100644:a05547310f60656625cb92e1e38e56c2bae47563",
+            "playwright.config.mjs": "100644:09f8e97aba3e888dc9585144c213a9f96962c162",
+            "tests/e2e/campus-layout.spec.js": "100644:fc39b6191870ffa48040947da7a437faf5e87af4",
+            "tests/e2e/playable-scenery.spec.js": "100644:96076797885be3248efe6b2da806c8743b6a8095",
+            "docs/production/ecc-campus-release-20260910.md": "100644:909c8b9d629e73425a5f785e6651737f67ccbf94",
+            "playable-3d/destinations.js": "100644:f4af1628630e2baecd3b277213909dd8a7b342bf",
+            "playable-3d/ecc-preview/index.html": "100644:34ea016c9591813b67e837195da528bb9eec04a7",
+            "playable-3d/ecc-preview/preview.css": "100644:579ad18299955bc0a50659e84d881c2913f06186",
+            "playable-3d/ecc-preview/preview.js": "100644:a181e15061b2be3204794345b797568c57ca190c",
+            "playable-3d/ecc-preview/serve.py": "100644:03522ecc51d93a6f3696924346218006bc6cf782",
+            "playable-3d/ecc-preview/model.js": "100644:d2b3afe7f954de90232d8db04d236211f3b902c3",
+            "playable-3d/ecc-preview/assets/ECC-Campus-Hub-Exterior-Candidate-01.glb": "100644:1fc426f335fa7fe7bb689069e958a0e60d4e49f0",
+            "playable-3d/ecc-preview/assets/ECC_Logo.png": "100644:00b4b60c05f70e5c9f474883a10ba388ddcd16bf",
+            "playable-3d/ecc-preview/assets/candidate-layout.json": "100644:bfe6f7ca9c1a7574db304df18760b2ad90058b26",
+            "playable-3d/ecc-preview/vendor/THREE-LICENSE.txt": "100644:cf781430404b0ae0ba7d8dea3457a3515dd7c9b9",
+            "playable-3d/ecc-preview/vendor/exporters/GLTFExporter.js": "100644:2da060f940b591fa0a461a34b936d94c80a0cebd",
+            "playable-3d/ecc-preview/vendor/math/SimplexNoise.js": "100644:6712f3410a42a424e0545dbc2811d9fee3601bc0",
+            "playable-3d/ecc-preview/vendor/postprocessing/SSAOPass.js": "100644:dfe8d8b4cf86ff7331bc24f6bb410da14ebe3372",
+            "playable-3d/ecc-preview/vendor/postprocessing/Pass.js": "100644:50acb4784ee0d67f34f5efcb574b55d0b083c81b",
+            "playable-3d/ecc-preview/vendor/postprocessing/MaskPass.js": "100644:3a2afff8cf261faa6972d87c4843580901eac7ad",
+            "playable-3d/ecc-preview/vendor/postprocessing/EffectComposer.js": "100644:cc807df391d6d01b7eb5c7097fbc6fe8ad96084a",
+            "playable-3d/ecc-preview/vendor/postprocessing/ShaderPass.js": "100644:ce72fcf13ec3daff78b940fe2bfc78def01729e8",
+            "playable-3d/ecc-preview/vendor/postprocessing/OutputPass.js": "100644:1148de644671f9af49023dcd50bbd3993d2f678c",
+            "playable-3d/ecc-preview/vendor/postprocessing/RenderPass.js": "100644:c85f0e559a7a7813f911e87ef24a589fd61f2a0f",
+            "playable-3d/ecc-preview/vendor/shaders/SSAOShader.js": "100644:ab1dc6f25eca7eb7947564bf6506eb804cbb022d",
+            "playable-3d/ecc-preview/vendor/shaders/OutputShader.js": "100644:5f257829fe655f74252d67585e1d63e035c05b67",
+            "playable-3d/ecc-preview/vendor/shaders/CopyShader.js": "100644:6deb24849e1dd080f35af75728d29028920f1fb3"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-37",
+        "title": "ECC Campus Hub visual and functional specification",
+        "types": [
+          "building",
+          "visual",
+          "research",
+          "activity",
+          "progression"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Make the next ECC destination recognisable through a connected hero complex and selective campus cues rather than a full campus recreation.",
+        "before": "Town Hall retained for future ECC; no source-backed ECC hub specification.",
+        "after": "Proposed connected Admin, Student Services and Chapel hub with explicit evidence, entrances, reuse and validation gates.",
+        "source": "Tania, 10 September 2026, continuing ECC Campus Design Concept: inspect actual ECC Branding assets and combined Admin/Student Services/Chapel video, inspect live game and canonical direction, deliver visual + functional specification before modelling; use existing canonical Blueprint and checkout.",
+        "owner": "Blueprint maintainer / environment designer",
+        "nextAction": "Review arrival, connected layout and Chapel garden concepts, including prominent ECC welcome, before any 3D generation. Public Blueprint publication remains pending.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Start Here shows the source-backed ECC proposal separately from the unchanged live map and approved concept originals; document link checked at desktop/mobile sizes.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Start Here shows the source-backed ECC proposal separately from the unchanged live map and approved concept originals; document link checked at desktop/mobile sizes. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "CE-ENV-01 and shared productionPlan now request whole-hub specification review, then a separately authorised fit study; Delivery and Roadmap checked at both widths.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "CE-ENV-01 and shared productionPlan now request whole-hub specification review, then a separately authorised fit study; Delivery and Roadmap checked at both widths. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Material record 37 preserves user scope, actual evidence, proposal status and no-modelling/no-publication boundaries; earlier records are unchanged.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Material record 37 preserves user scope, actual evidence, proposal status and no-modelling/no-publication boundaries; earlier records are unchanged. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Canonical AGENTS, README and rolling handoff point to the same specification and exact existing game release checkout; no source/project was duplicated.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical AGENTS, README and rolling handoff point to the same specification and exact existing game release checkout; no source/project was duplicated. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Regenerated reader records and Markdown plus readable HTML from the canonical specification; nine requested sections, five tables and loaded source contact sheet verified at 1280/390 widths.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Regenerated reader records and Markdown plus readable HTML from the canonical specification; nine requested sections, five tables and loaded source contact sheet verified at 1280/390 widths. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Source and local reader updated; public Blueprint release not performed in this specification task.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Local document and reader checked; no public release claimed.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Include reviewed specification output in the next authorised existing Blueprint documentation publication; verify live document, reference image and affected routes separately from game deployment."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "World page shows connected Admin/Student Services/Chapel proposal, three readable entrances, source recognition sheet and retained EST dependency; aerial/route envelope explicitly provisional.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "World page shows connected Admin/Student Services/Chapel proposal, three readable entrances, source recognition sheet and retained EST dependency; aerial/route envelope explicitly provisional. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Existing map is retained; proposed Chapel reset and support roles have no approved reward values or unlock changes. Existing EST and Studio routes are explicit constraints.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing map is retained; proposed Chapel reset and support roles have no approved reward values or unlock changes. Existing EST and Studio routes are explicit constraints. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Look and feel displays real-source recognition sheet separately from approved campus originals; low connected roof/brick/teal/curved Chapel cues distinguish ECC from generic pavilion designs.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Look and feel displays real-source recognition sheet separately from approved campus originals; low connected roof/brick/teal/curved Chapel cues distinguish ECC from generic pavilion designs. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "New actual-source contact sheet loads on World/Look and feel; current live screenshot and historical video/poster pair are not replaced or relabelled as ECC build evidence.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "New actual-source contact sheet loads on World/Look and feel; current live screenshot and historical video/poster pair are not replaced or relabelled as ECC build evidence. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Exact original inventory and derived contact sheets with hashes saved privately; visual register links the specification and identifies new hero modules versus reusable unchanged plants/kit.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact original inventory and derived contact sheets with hashes saved privately; visual register links the specification and identifies new hero modules versus reusable unchanged plants/kit. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Learning page identifies reflection, support and orientation as proposed slots; specification describes choice, feedback, optional evidence, exit/resume and retained EST access without inventing an accepted experience.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Learning page identifies reflection, support and orientation as proposed slots; specification describes choice, feedback, optional evidence, exit/resume and retained EST access without inventing an accepted experience. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Build page shows specification-only status. Fresh live inspection and existing release source establish context; no game model/runtime edit or new gameplay acceptance is claimed.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Build page shows specification-only status. Fresh live inspection and existing release source establish context; no game model/runtime edit or new gameplay acceptance is claimed. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "Protected 17 decisions and four production approvals are preserved. Record 37 distinguishes user requirements from proposed composition and later fit-study authority.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Protected 17 decisions and four production approvals are preserved. Record 37 distinguishes user requirements from proposed composition and later fit-study authority. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "No avatar or wardrobe source changed; live repaired avatar and separate reported gait remain current, with blazer pause unchanged. ECC building proposals do not authorise character edits.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No avatar or wardrobe source changed; live repaired avatar and separate reported gait remain current, with blazer pause unchanged. ECC building proposals do not authorise character edits. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Source Documents links the ECC specification; every architectural cue cites supplied filename IDs or video times. QCE generated imagery and mislabeled library/Hospitality photo are explicitly qualified.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source Documents links the ECC specification; every architectural cue cites supplied filename IDs or video times. QCE generated imagery and mislabeled library/Hospitality photo are explicitly qualified. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Canonical curriculum.json remains byte-identical; no new Unit/semester/cohort mapping. Learning note says ECC functions are proposals and formal evidence mapping remains a later agreed task.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical curriculum.json remains byte-identical; no new Unit/semester/cohort mapping. Learning note says ECC functions are proposals and formal evidence mapping remains a later agreed task. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Player Journey links the proposed hub, preserving the existing first-day Studio objective and module route; no compulsory lesson order or reflection gate added.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Player Journey links the proposed hub, preserving the existing first-day Studio objective and module route; no compulsory lesson order or reflection gate added. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "No assessment weights, dates or saved student evidence changed; the specification proposes fictional choices and optional reflection only, pending a defined classroom contract.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No assessment weights, dates or saved student evidence changed; the specification proposes fictional choices and optional reflection only, pending a defined classroom contract. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "No teacher dashboard, permissions or personal wellbeing records changed. Future visibility is explicitly limited to agreed learning evidence; no real counselling/attendance integrations.",
+            "records": [
+              "CE-CHANGE-20260910-37",
+              "CE-ENV-01"
+            ],
+            "owner": "Blueprint maintainer / environment designer",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
+              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No teacher dashboard, permissions or personal wellbeing records changed. Future visibility is explicitly limited to agreed learning evidence; no real counselling/attendance integrations. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Retain this scope; reassess only after a relevant source or approved design change."
+          }
+        ]
+      },
       {
         "changeId": "CE-CHANGE-20260910-36",
         "title": "Whole-map landscape concept and arrival correction",
@@ -13097,6 +14133,15 @@
     }
   ],
   "sourceDocuments": [
+    {
+      "id": "CE-ECC-HUB-SOURCE-01",
+      "group": "builds",
+      "title": "ECC Campus Hub — supplied architecture and functional specification",
+      "edition": "10 September 2026 / proposed",
+      "format": "Website",
+      "href": "/production/ecc-campus-hub-specification-20260910.html",
+      "note": "Proposed specification grounded in actual ECC Branding assets: 62 images and a 191-second walkthrough; recognition cues, three entrances, retained EST access, selective wider campus and fixed-view gates. No model or appearance approval."
+    },
     {
       "id": "SCSA-SYLLABUS-2027",
       "group": "official",

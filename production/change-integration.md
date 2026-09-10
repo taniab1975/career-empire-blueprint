@@ -2,9 +2,732 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: Accepted campus layout and selected existing building release source review
+Release scope: ECC source-backed specification, accepted exterior, right-hand EST Prep and original-game access
 
-Campus map and selected buildings are live and independently verified. Separate avatar gait diagnosis, older intake and remaining batch approvals stay open.
+Combined game release authorised and locally implemented; independent publication verification pending. Chapel interior follows separately. Historical intake, gait, lighting and hosted timing follow-ups remain open.
+
+## CE-CHANGE-20260910-38 — ECC campus, right-hand EST Prep and original-game access
+
+Integration: **ready-for-publication**. Types: building, visual, implementation, decision, activity, release. Owner: Career Empire environment developer.
+
+**Objective:** Publish accepted ECC exterior and relocate EST to the user-selected existing empty building; Chapel interior follows as a separate concept/build stage.
+
+**Before:** Three concept drawings and specification; no ECC exterior model.
+
+**Required result:** Local ECC hub plus preserved outer buildings, right-hand EST entrance/return and Original Career Empire sign/link; publication pending.
+
+**Source:** Tania: Ok great let’s go ahead with that. one complete exterior candidate in a separate preview; subsequent Tania instruction: candidate is OK for now; place it live and move EST into the other empty building, renamed EST Prep building. Exact choice requested because two buildings are inactive. Confirmed by Tania: Yes first building on right please.
+
+**Next:** Complete required visual/gameplay and reader checks, then publish authorised combined release.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+ECC shared status card now distinguishes accepted local exterior from pending live publication and names the confirmed right-hand EST.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / ECC shared status card now distinguishes accepted local exterior from pending live publication and names the confirmed right-hand EST. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Production plan advances from separate candidate to authorised campus release, then Chapel interior concept and approved build.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / Production plan advances from separate candidate to authorised campus release, then Chapel interior concept and approved build. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Records 37 and 38 retain specification/concept history and exact subsequent exterior, publication and right-hand EST approvals.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Records 37 and 38 retain specification/concept history and exact subsequent exterior, publication and right-hand EST approvals. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+AGENTS and handoff identify existing game checkout, confirmed target, retained follow-ups and source-bound release requirements.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / AGENTS and handoff identify existing game checkout, confirmed target, retained follow-ups and source-bound release requirements. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerated specification HTML/Markdown and reader records include the actual integrated views and confirmed EST choice.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Regenerated specification HTML/Markdown and reader records include the actual integrated views and confirmed EST choice. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Pending candidate build and scoped reader verification.
+
+
+Next: Publish generated reader, verify live record hashes and affected reader routes, then complete Blueprint integration before game release.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+ECC replaces central hall exterior; Careers retained; right-hand First Workplace becomes EST Prep with north doorway at (16,14).
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / ECC replaces central hall exterior; Careers retained; right-hand First Workplace becomes EST Prep with north doorway at (16,14). Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Both outer buildings and connected paths remain; startup waits for complete scenery. No new unlock or economy rules.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / Both outer buildings and connected paths remain; startup waits for complete scenery. No new unlock or economy rules. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Shared ECC card leads with actual local full-map capture; specification retains labelled concept references and adds EST entrance/interior evidence.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / Shared ECC card leads with actual local full-map capture; specification retains labelled concept references and adds EST entrance/interior evidence. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Three concept drawings remain illustrative; actual map and EST captures are separately captioned local candidate. No new film or poster claim.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / Three concept drawings remain illustrative; actual map and EST captures are separately captioned local candidate. No new film or poster claim. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Existing Careers/Workplace and approved planting GLBs reused; supplied crest retained unchanged. New procedural exterior source and preview export documented.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Existing Careers/Workplace and approved planting GLBs reused; supplied crest retained unchanged. New procedural exterior source and preview export documented. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+EST approach, proximity entry and return move together; CORE/TERM/VTCS/BOSS content, save/evidence and module destinations remain unchanged.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / EST approach, proximity entry and return move together; CORE/TERM/VTCS/BOSS content, save/evidence and module destinations remain unchanged. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Decisions and superseded rules — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Tania accepted exterior for now, authorised live placement and confirmed First Workplace on right; Chapel interior remains later.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / Tania accepted exterior for now, authorised live placement and confirmed First Workplace on right; Chapel interior remains later. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Avatar and wardrobe references — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+characters.js, profiles.js and avatar GLBs remain unchanged against d85de992; wardrobe pause and separate gait diagnosis preserved.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / characters.js, profiles.js and avatar GLBs remain unchanged against d85de992; wardrobe pause and separate gait diagnosis preserved. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+No teacher dashboard, authentication, role or evidence-store edits; EST module content and teacher review surfaces unchanged.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / No teacher dashboard, authentication, role or evidence-store edits; EST module content and teacher review surfaces unchanged. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Existing private Blueprint recovery branch and game-linked checkout reused. Generated public reader and public game remain separate destinations.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Existing private Blueprint recovery branch and game-linked checkout reused. Generated public reader and public game remain separate destinations. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Curriculum and reciprocal mappings — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+No curriculum edition, point mappings or cohort changed; relocation only changes physical EST entry.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: passed / No curriculum edition, point mappings or cohort changed; relocation only changes physical EST entry. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Existing arrival and Studio flow retained; EST navigation now reaches right-hand building and returns there; no pilot approval inferred.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: passed / Existing arrival and Studio flow retained; EST navigation now reaches right-hand building and returns there; no pilot approval inferred. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Year plan and assessment — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+No assessment tasks, timing, scoring or evidence requirements changed by physical relocation.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: passed / No assessment tasks, timing, scoring or evidence requirements changed by physical relocation. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Actual ECC asset inventory and original crest remain evidence; original-game destination is the exact user-supplied URL.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Actual ECC asset inventory and original crest remain evidence; original-game destination is the exact user-supplied URL. Source reviewed; actual map/EST captures and 14 desktop/mobile reader checks saved in ecc-campus-hub/release.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+
+Next: Publish and verify the authorised combined release.
+
+## CE-CHANGE-20260910-37 — ECC Campus Hub visual and functional specification
+
+Integration: **ready-for-publication**. Types: building, visual, research, activity, progression. Owner: Blueprint maintainer / environment designer.
+
+**Objective:** Make the next ECC destination recognisable through a connected hero complex and selective campus cues rather than a full campus recreation.
+
+**Before:** Town Hall retained for future ECC; no source-backed ECC hub specification.
+
+**Required result:** Proposed connected Admin, Student Services and Chapel hub with explicit evidence, entrances, reuse and validation gates.
+
+**Source:** Tania, 10 September 2026, continuing ECC Campus Design Concept: inspect actual ECC Branding assets and combined Admin/Student Services/Chapel video, inspect live game and canonical direction, deliver visual + functional specification before modelling; use existing canonical Blueprint and checkout.
+
+**Next:** Review arrival, connected layout and Chapel garden concepts, including prominent ECC welcome, before any 3D generation. Public Blueprint publication remains pending.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Start Here shows the source-backed ECC proposal separately from the unchanged live map and approved concept originals; document link checked at desktop/mobile sizes.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Start Here shows the source-backed ECC proposal separately from the unchanged live map and approved concept originals; document link checked at desktop/mobile sizes. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+CE-ENV-01 and shared productionPlan now request whole-hub specification review, then a separately authorised fit study; Delivery and Roadmap checked at both widths.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / CE-ENV-01 and shared productionPlan now request whole-hub specification review, then a separately authorised fit study; Delivery and Roadmap checked at both widths. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Material record 37 preserves user scope, actual evidence, proposal status and no-modelling/no-publication boundaries; earlier records are unchanged.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Material record 37 preserves user scope, actual evidence, proposal status and no-modelling/no-publication boundaries; earlier records are unchanged. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Canonical AGENTS, README and rolling handoff point to the same specification and exact existing game release checkout; no source/project was duplicated.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Canonical AGENTS, README and rolling handoff point to the same specification and exact existing game release checkout; no source/project was duplicated. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerated reader records and Markdown plus readable HTML from the canonical specification; nine requested sections, five tables and loaded source contact sheet verified at 1280/390 widths.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Regenerated reader records and Markdown plus readable HTML from the canonical specification; nine requested sections, five tables and loaded source contact sheet verified at 1280/390 widths. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Source and local reader updated; public Blueprint release not performed in this specification task.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Local document and reader checked; no public release claimed.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Include reviewed specification output in the next authorised existing Blueprint documentation publication; verify live document, reference image and affected routes separately from game deployment.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+World page shows connected Admin/Student Services/Chapel proposal, three readable entrances, source recognition sheet and retained EST dependency; aerial/route envelope explicitly provisional.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / World page shows connected Admin/Student Services/Chapel proposal, three readable entrances, source recognition sheet and retained EST dependency; aerial/route envelope explicitly provisional. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Existing map is retained; proposed Chapel reset and support roles have no approved reward values or unlock changes. Existing EST and Studio routes are explicit constraints.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / Existing map is retained; proposed Chapel reset and support roles have no approved reward values or unlock changes. Existing EST and Studio routes are explicit constraints. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Look and feel displays real-source recognition sheet separately from approved campus originals; low connected roof/brick/teal/curved Chapel cues distinguish ECC from generic pavilion designs.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / Look and feel displays real-source recognition sheet separately from approved campus originals; low connected roof/brick/teal/curved Chapel cues distinguish ECC from generic pavilion designs. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+New actual-source contact sheet loads on World/Look and feel; current live screenshot and historical video/poster pair are not replaced or relabelled as ECC build evidence.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / New actual-source contact sheet loads on World/Look and feel; current live screenshot and historical video/poster pair are not replaced or relabelled as ECC build evidence. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Exact original inventory and derived contact sheets with hashes saved privately; visual register links the specification and identifies new hero modules versus reusable unchanged plants/kit.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Exact original inventory and derived contact sheets with hashes saved privately; visual register links the specification and identifies new hero modules versus reusable unchanged plants/kit. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Learning page identifies reflection, support and orientation as proposed slots; specification describes choice, feedback, optional evidence, exit/resume and retained EST access without inventing an accepted experience.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Learning page identifies reflection, support and orientation as proposed slots; specification describes choice, feedback, optional evidence, exit/resume and retained EST access without inventing an accepted experience. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Build page shows specification-only status. Fresh live inspection and existing release source establish context; no game model/runtime edit or new gameplay acceptance is claimed.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / Build page shows specification-only status. Fresh live inspection and existing release source establish context; no game model/runtime edit or new gameplay acceptance is claimed. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Protected 17 decisions and four production approvals are preserved. Record 37 distinguishes user requirements from proposed composition and later fit-study authority.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / Protected 17 decisions and four production approvals are preserved. Record 37 distinguishes user requirements from proposed composition and later fit-study authority. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Avatar and wardrobe references — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+No avatar or wardrobe source changed; live repaired avatar and separate reported gait remain current, with blazer pause unchanged. ECC building proposals do not authorise character edits.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / No avatar or wardrobe source changed; live repaired avatar and separate reported gait remain current, with blazer pause unchanged. ECC building proposals do not authorise character edits. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Source Documents links the ECC specification; every architectural cue cites supplied filename IDs or video times. QCE generated imagery and mislabeled library/Hospitality photo are explicitly qualified.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Source Documents links the ECC specification; every architectural cue cites supplied filename IDs or video times. QCE generated imagery and mislabeled library/Hospitality photo are explicitly qualified. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Curriculum and reciprocal mappings — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Canonical curriculum.json remains byte-identical; no new Unit/semester/cohort mapping. Learning note says ECC functions are proposals and formal evidence mapping remains a later agreed task.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: passed / Canonical curriculum.json remains byte-identical; no new Unit/semester/cohort mapping. Learning note says ECC functions are proposals and formal evidence mapping remains a later agreed task. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Player Journey links the proposed hub, preserving the existing first-day Studio objective and module route; no compulsory lesson order or reflection gate added.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: passed / Player Journey links the proposed hub, preserving the existing first-day Studio objective and module route; no compulsory lesson order or reflection gate added. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Year plan and assessment — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+No assessment weights, dates or saved student evidence changed; the specification proposes fictional choices and optional reflection only, pending a defined classroom contract.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: passed / No assessment weights, dates or saved student evidence changed; the specification proposes fictional choices and optional reflection only, pending a defined classroom contract. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+No teacher dashboard, permissions or personal wellbeing records changed. Future visibility is explicitly limited to agreed learning evidence; no real counselling/attendance integrations.
+
+Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / No teacher dashboard, permissions or personal wellbeing records changed. Future visibility is explicitly limited to agreed learning evidence; no real counselling/attendance integrations. Evidence: ecc-campus-hub source inventory, reader-checks.json and document-checks.json.
+
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
+- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
+
+Next: Retain this scope; reassess only after a relevant source or approved design change.
 
 ## CE-CHANGE-20260910-36 — Whole-map landscape concept and arrival correction
 

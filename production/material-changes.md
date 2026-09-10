@@ -2,6 +2,42 @@
 
 Generated from data/operations.json. One canonical register; do not edit this view directly.
 
+## CE-CHANGE-20260910-38 — ECC campus, right-hand EST Prep and original-game access
+
+- **date:** 2026-09-10
+- **domain:** World Environment & Ecosystem / Buildings & ECC Campus
+- **source:** Tania: Ok great let’s go ahead with that. one complete exterior candidate in a separate preview; user accepts preview for now and explicitly requests live placement plus EST relocation into another empty building. Tania confirms: Yes first building on right please. User additionally requests Original Career Empire link and reports both outer buildings missing.
+- **owner:** Blueprint maintainer / environment designer
+- **status:** Right-hand EST confirmed; integration and release verification in progress
+- **rationale:** Build one complete source-backed exterior candidate for visual and walking review.
+- **dependencies:** CE-CHANGE-20260910-37 / CE-CHANGE-20260910-36
+- **supersededRecord:** None
+- **designApproval:** Concept visual direction accepted; explicit authority for one complete exterior candidate in a separate preview.
+- **implementation:** Accepted ECC exterior integrated locally; First Workplace renamed EST Prep with new approach and return point; original-game sign/link added; complete scenery awaited before opening.
+- **deployment:** Live publication explicitly authorised; pending final checks and source-bound Blueprint release.
+- **testing:** Pending actual-model fixed views, walking and performance checks.
+- **taniaAcceptance:** Exterior candidate accepted as OK for now; user requests placement in live game.
+- **evidence:** docs/production/ecc-campus-hub-specification-20260910.md
+- **nextAction:** Verify integrated campus and EST entry/return, publish canonical Blueprint and authorised game release, then plan Chapel interior.
+
+## CE-CHANGE-20260910-37 — ECC Campus Hub visual and functional specification
+
+- **date:** 2026-09-10
+- **domain:** World Environment & Ecosystem / Buildings & ECC Campus
+- **source:** Tania, 10 September 2026, continuing ECC Campus Design Concept: inspect actual ECC Branding assets and combined Admin/Student Services/Chapel video, inspect live game and canonical direction, deliver visual + functional specification before modelling; use existing canonical Blueprint and checkout.
+- **owner:** Blueprint maintainer / environment designer
+- **status:** Specification and three concept drawings saved; design review and publication pending
+- **rationale:** Make the next ECC destination recognisable through a connected hero complex and selective campus cues rather than a full campus recreation.
+- **dependencies:** CE-ENV-01 / CE-CHANGE-20260910-36 / CE-CHANGE-20260910-34
+- **supersededRecord:** None
+- **designApproval:** User authorises specification and evidence inspection; final design and implementation remain unapproved.
+- **implementation:** Source inventory, 11 image contact sheets, two timeline sheets, fresh live inspection and complete nine-part specification. No models or game files changed. Follow-up: three generated concept views (arrival, connected layout, Chapel quiet garden), using supplied original ECC logo and historical hologram as references; no 3D generation.
+- **deployment:** No ECC game build or publication.
+- **testing:** All 62 images and 20 video samples plus two full-size details inspected. Live arrival/aerial/EST/Studio inspected; three live source hashes match d85de992. Eighteen reader checks across nine routes at 1280/390 widths and two full specification checks passed without page overflow. All 73 Blueprint tests, TypeScript, focused lint, export consistency and production build passed. No new game regression or hosted CI claim. Concept follow-up: final three PNGs visually inspected; initial arrival draft superseded to remove invented mottos. Crest redraw/lettering and cross-view geometry remain illustrative, not final production assets.
+- **taniaAcceptance:** Tania enthusiastically likes the concept appearance and asks about 3D feasibility. This accepts the visual direction in principle; no explicit modelling or publication instruction yet.
+- **evidence:** docs/production/ecc-campus-hub-specification-20260910.md / private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json / private/production-evidence/2026-09-10/ecc-campus-hub/document-checks.json / private/production-evidence/2026-09-10/ecc-campus-hub/tests-final.log
+- **nextAction:** Review arrival, connected layout and Chapel garden concepts, including prominent ECC welcome, before any 3D generation.
+
 ## CE-CHANGE-20260910-36 — Landscaped campus with two existing building replacements and earlier arrival start
 
 - **date:** 2026-09-10

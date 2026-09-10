@@ -80,3 +80,10 @@ These first-deployment screenshots retain the pending-verification wording serve
 ## CE-ENV-KIT-01 — textured modular kit candidate, 10 September 2026
 
 Fourteen separate GLBs, packed editable Blender source, authored stone/timber maps and unchanged original paving. [Actual render, dimensions, source and review](avatar-campus-textured-kit-2026-09-10.md). Export/reimport and final material/browser inspection passed; Tania appearance acceptance pending. No completed Studio/precinct or live game change. Six original reference records and blazer pause preserved.
+
+## ECC Campus Hub specification — 10 September 2026
+
+CE-CHANGE-20260910-37: [complete visual + functional specification](ecc-campus-hub-specification-20260910.md). Actual ECC photos/video now evidence recognition: crest gable, terracotta roofs, cream/red-brown masonry, teal portals, curved Chapel stone/cross/tree-glass and covered links. Proposed connected hero and quiet forecourt; retain EST access and existing live campus. No new model, appearance acceptance or game publication. Review the whole hub before measured fit study. Exact source inventory, contact sheets and live inspection are retained in private/production-evidence/2026-09-10/ecc-campus-hub/.
+
+## ECC visual concepts follow-up — 10 September 2026
+Tania requested concept drawings before 3D approval and prominent ECC welcome, supplying ECC_Logo.png and the historical hologram interpretation. Three final images are saved under public/evidence/ecc-campus-hub-20260910/concepts-v1/ and embedded in the existing ECC specification: arrival, connected layout, Chapel quiet garden. Initial arrival draft superseded; generated crests are illustrative and final production must use the supplied logo directly. Distinct viewpoints were clarified after the draft/revision appeared duplicated. Review all three before any 3D generation. Existing EST route and live environment unchanged. Prompt/provenance record: private/production-evidence/2026-09-10/ecc-campus-hub/concepts-v1/. Public publication remains pending.
