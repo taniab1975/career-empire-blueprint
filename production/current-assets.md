@@ -89,7 +89,6 @@ Limits: This image is the approved local capture; the identical repaired asset i
 Next: Play the live game: Avatar Studio → School student; use walking, turn and portrait controls. Continue the existing environment plan.
 Source: Update Avatar Appearance continuation, Tania: “Yey he is much better! Please go ahead and update to live”. CE-CHANGE-20260910-35; player-schoolboy-repaired-20260910.glb.
 SHA-256: 6f393115b27899b90c4ee2b73d1f3c8feff1aa00a052ef0c96854770937fb9d0
-Open integration CE-CHANGE-20260910-39: Recognisable, peaceful Chapel interior from supplied photos, with quiet reflection and reliable campus return; stable legacy sign surfaces. Next: Publish the reviewed combined update and verify live hashes and Chapel/EST flows.
 Open integration CE-CHANGE-20260910-34: Create the authorised model candidates for grouped review Next: Retain approved geometry; confirm bounded integration scope. Public reader release remains pending.
 Open integration CE-CHANGE-20260910-33: Agree environmental language before asset selection Next: Obtain specification agreement; complete affected reader verification before any release
 

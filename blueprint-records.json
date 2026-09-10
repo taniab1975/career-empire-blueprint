@@ -193,7 +193,7 @@
       "activeMilestoneId": "CE-ENV-01",
       "objective": "Establish the approved visual and environmental system for the Career Empire campus.",
       "now": "ECC exterior and right-hand EST Prep remain live; the authorised Chapel interior and sign repair are being validated locally.",
-      "next": "Publish the reviewed combined update and verify live hashes and Chapel/EST flows.",
+      "next": "Upload the authorised source-bound game candidate and independently verify the live Chapel, sign/entry fixes and EST video.",
       "then": "Review the placed Chapel in the live game; scope any further wellbeing or Mass activities separately.",
       "later": "Avatar system → experiences → curriculum coverage and validation.",
       "sequence": [
@@ -816,7 +816,7 @@
           "domain": "World Environment & Ecosystem / Buildings & ECC Campus",
           "source": "Tania explicitly authorised interior construction and placement plus sign repair, then requested the 3D version match the accepted A Place to Pause concept as closely as possible. Tania additionally requests fixing Career Empire fence posts, removing blue entry-paver markers and placing the existing four-system EST Lab video on the wall behind the four PCs in the same upload.",
           "owner": "Blueprint maintainer / environment designer",
-          "status": "Locally verified; authorised publication pending",
+          "status": "Blueprint integrated and published; game upload next",
           "rationale": "Extend the accepted ECC exterior with a peaceful, recognisable Chapel interior, retaining the actual coloured cross and tree-glass imagery; remove coplanar sign overlap.",
           "dependencies": [
             "CE-CHANGE-20260910-38"
@@ -1830,7 +1830,7 @@
       "status": "Locally verified; publication pending",
       "summary": "Tania authorised the Chapel interior and live placement, and selected the warm timber, cream seating and coloured-cross concept as the visual target. The existing campus and right-hand EST Prep are retained.",
       "functions": "Enter the Chapel, explore the central aisle and side seating, pause for quiet reflection, then return to campus. Reflection records no personal writing and adds no points or wellbeing claims. EST keeps its existing learning modules. The original four-system EST Lab briefing plays on the rear wall behind the four PCs, with playback controls and automatic pause on exit.",
-      "nextAction": "Publish the reviewed combined update and verify live hashes and Chapel/EST flows.",
+      "nextAction": "Upload the authorised source-bound game candidate and independently verify the live Chapel, sign/entry fixes and EST video.",
       "href": "/production/ecc-campus-hub-specification-20260910.html",
       "image": "/evidence/chapel-20260910/chapel-built-desktop.png",
       "imageCaption": "Actual playable 3D Chapel, locally verified. Accepted concept and original photo evidence are in the complete specification.",
@@ -4830,7 +4830,7 @@
         "CE-CHANGE-20260910-39"
       ],
       "scope": "Walkable ECC Chapel, corrected original-game sign/posts, cleared entry pavers and existing four-system EST Lab video on rear wall; existing campus and avatar retained",
-      "disclosure": "Combined Chapel, sign/posts, clear entry path and EST video locally verified; authorised publication pending. Historical intake and separate gait, lighting and hosted-test follow-ups remain open.",
+      "disclosure": "Blueprint integration and public reader verified. Authorised game upload follows; historical intake, gait, lighting and hosted-test follow-ups remain open.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -5012,9 +5012,9 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "6065c5d7a592294cff69439fcc983a381e67d63ba8837fae22430f7e6209706e",
+          "sha256": "253c43a9603a66963cbc8adbd12591ef90afbe56842af9cff440950af573d7f1",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed final Chapel/EST/entry scope, exact video reuse, verified source and actual desktop/mobile screenshots; unrelated protected decisions retained."
+          "method": "Reviewed verified Blueprint publication evidence and accurate pending game-upload state; source-bound game file versions unchanged."
         },
         {
           "path": "README.md",
@@ -5082,9 +5082,9 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "b3f4fc5eb3da130a424720790c4767ecdd8c817aab554bf92c623dab08d8ddd5",
+          "sha256": "e4ac593a575563a73636d66c5a84ecf363f096dc48b48d6073a07a8ecb018841",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed final Chapel/EST/entry scope, exact video reuse, verified source and actual desktop/mobile screenshots; unrelated protected decisions retained."
+          "method": "Reviewed verified Blueprint publication evidence and accurate pending game-upload state; source-bound game file versions unchanged."
         },
         {
           "path": "data/style-guide.json",
@@ -5094,9 +5094,9 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "d98a38914e9cf27658a47b778dab3ec3bf2ec30cedcdd2533c0b0faec530bc3b",
+          "sha256": "ee336cf3fb03e27839b64b161ce079b41e773e07ba38c1b83f83b57bb1ff3f9b",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed final Chapel/EST/entry scope, exact video reuse, verified source and actual desktop/mobile screenshots; unrelated protected decisions retained."
+          "method": "Reviewed verified Blueprint publication evidence and accurate pending game-upload state; source-bound game file versions unchanged."
         },
         {
           "path": "docs/production/arrival-playable-release-20260910.md",
@@ -5784,13 +5784,13 @@
           "activity",
           "release"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Recognisable, peaceful Chapel interior from supplied photos, with quiet reflection and reliable campus return; stable legacy sign surfaces.",
         "before": "ECC Chapel exterior only; legacy sign panels and posts overlap.",
         "after": "Walkable ECC Chapel, corrected original-game sign/posts, cleared entry pavers and existing four-system EST Lab video on rear wall; existing campus and avatar retained",
         "source": "Tania explicitly authorised interior construction and placement plus sign repair, then requested the 3D version match the accepted A Place to Pause concept as closely as possible. Tania additionally requests fixing Career Empire fence posts, removing blue entry-paver markers and placing the existing four-system EST Lab video on the wall behind the four PCs in the same upload.",
         "owner": "Career Empire environment developer",
-        "nextAction": "Publish the reviewed combined update and verify live hashes and Chapel/EST flows.",
+        "nextAction": "Upload the authorised source-bound game candidate and independently verify the live Chapel, sign/entry fixes and EST video.",
         "targets": [
           {
             "surface": "start",
@@ -5807,7 +5807,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Shared ECC card presents the accepted Chapel target, local construction status and next release step. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "Shared ECC card presents the accepted Chapel target, local construction status and next release step. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -5827,7 +5827,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Production plan advances to authorised Chapel interior and sign repair; Mass/wellbeing expansion remains later. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "Production plan advances to authorised Chapel interior and sign repair; Mass/wellbeing expansion remains later. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -5847,7 +5847,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Record 39 preserves original photo request, explicit placement authority and subsequent close-fidelity direction, following completed exterior record 38. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "Record 39 preserves original photo request, explicit placement authority and subsequent close-fidelity direction, following completed exterior record 38. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -5867,7 +5867,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Canonical AGENTS, README, current-state and concise rolling handoff identify source, current Chapel work and retained boundaries. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "Canonical AGENTS, README, current-state and concise rolling handoff identify source, current Chapel work and retained boundaries. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -5887,27 +5887,30 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Specification HTML/Markdown and public reader records regenerate from the same Chapel source. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "Specification HTML/Markdown and public reader records regenerate from the same Chapel source. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Publish the reviewed Blueprint and source-bound game update, then verify independent live hashes and entry/return.",
+            "disposition": "updated",
+            "action": "Published Blueprint reader and exact reviewed game-source binding are verified. This completes Blueprint integration; the authorised game upload follows.",
             "records": [
               "CE-ECC-HUB-01"
             ],
             "owner": "Career Empire environment developer",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
-            "evidence": [],
+            "evidence": [
+              "private/production-evidence/2026-09-10/chapel-v1/reader-live-hashes.json",
+              "private/production-evidence/2026-09-10/chapel-v1/reader-live/checks.json"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Await source-grounded interior build and validation.",
-              "date": ""
+              "result": "passed",
+              "method": "Eight independently fetched live reader files including all Chapel/EST visuals match; 14 live desktop/mobile reader checks passed. Game placement remains the next authorised step.",
+              "date": "2026-09-10"
             },
-            "nextAction": "Review this surface for Chapel entry/reflection/return and sign repair."
+            "nextAction": "Upload the authorised source-bound game candidate and independently verify the live Chapel, sign/entry fixes and EST video."
           },
           {
             "surface": "buildings",
@@ -5924,7 +5927,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Compact Chapel interior keeps altar/cross anchor, 44 individual chairs, open central aisle, side seats and quiet bench; both exterior outer buildings retained. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "Compact Chapel interior keeps altar/cross anchor, 44 individual chairs, open central aisle, side seats and quiet bench; both exterior outer buildings retained. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -5944,7 +5947,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Chapel is an independent room entered from the existing exterior or destination control; town geometry remains except sign separation. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "Chapel is an independent room entered from the existing exterior or destination control; town geometry remains except sign separation. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -5964,7 +5967,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Accepted generated concept is displayed and labelled separately from real playable screenshots; source photographs define recognition cues. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "Accepted generated concept is displayed and labelled separately from real playable screenshots; source photographs define recognition cues. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -5984,7 +5987,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "New concept image and two original unchanged Chapel JPEGs are documented with hashes; existing video and poster pairs unchanged. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "New concept image and two original unchanged Chapel JPEGs are documented with hashes; existing video and poster pairs unchanged. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -6004,7 +6007,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "CE-ECC-CHAPEL-01 records editable native source, original cross/tree textures, procedural timber/chairs and exact provenance; existing avatar/building GLBs reused unchanged. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "CE-ECC-CHAPEL-01 records editable native source, original cross/tree textures, procedural timber/chairs and exact provenance; existing avatar/building GLBs reused unchanged. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -6024,7 +6027,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Chapel entry opens the room, optional untimed reflection pauses controls, close resumes and Town returns to the exterior; no personal writing or reward stored. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "Chapel entry opens the room, optional untimed reflection pauses controls, close resumes and Town returns to the exterior; no personal writing or reward stored. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -6044,7 +6047,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Native Chapel source and lazy loading, camera bounds, collisions, reflection UI and sign gaps are subject to actual desktop/mobile regression and visual checks. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "Native Chapel source and lazy loading, camera bounds, collisions, reflection UI and sign gaps are subject to actual desktop/mobile regression and visual checks. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -6064,7 +6067,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Explicit placement authority and accepted concept supersede the former pending Chapel approval gate; no unrelated approvals inferred. Same-upload sign/posts, marker removal and EST video are explicitly requested. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "Explicit placement authority and accepted concept supersede the former pending Chapel approval gate; no unrelated approvals inferred. Same-upload sign/posts, marker removal and EST video are explicitly requested. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -6084,7 +6087,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Character source, rig, animation and profiles unchanged against live 9c593f62; separate gait and wardrobe work retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "Character source, rig, animation and profiles unchanged against live 9c593f62; separate gait and wardrobe work retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -6104,7 +6107,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "No teacher UI, authentication or evidence-store source changed; reflection collects no personal response. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "No teacher UI, authentication or evidence-store source changed; reflection collects no personal response. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -6124,7 +6127,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Existing private recovery and game-linked checkout are retained; public generated reader is separate from game release. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "Existing private recovery and game-linked checkout are retained; public generated reader is separate from game release. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -6144,7 +6147,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "No source edition, cohort or point mapping changed; optional reflection is not claimed as curriculum evidence. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "No source edition, cohort or point mapping changed; optional reflection is not claimed as curriculum evidence. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -6164,7 +6167,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "New optional Chapel destination joins existing Home Base and EST, with a clear campus return and unchanged Studio save flow. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "New optional Chapel destination joins existing Home Base and EST, with a clear campus return and unchanged Studio save flow. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -6184,7 +6187,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "No scored task, timed test or assessment evidence altered; quiet reflection is optional and ungraded. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "No scored task, timed test or assessment evidence altered; quiet reflection is optional and ungraded. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."
@@ -6204,7 +6207,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Actual Chapel 4/6/8 and Chapel.jpg underpin material/seating/cross/tree cues; generated target is explicitly interpretive. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "method": "Actual Chapel 4/6/8 and Chapel.jpg underpin material/seating/cross/tree cues; generated target is explicitly interpretive. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows. Final affected reader pages passed locally and live on desktop/mobile.",
               "date": "2026-09-10"
             },
             "nextAction": "Preserve verified scope and include in the authorised release."

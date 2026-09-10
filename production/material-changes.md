@@ -8,7 +8,7 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** World Environment & Ecosystem / Buildings & ECC Campus
 - **source:** Tania explicitly authorised interior construction and placement plus sign repair, then requested the 3D version match the accepted A Place to Pause concept as closely as possible. Tania additionally requests fixing Career Empire fence posts, removing blue entry-paver markers and placing the existing four-system EST Lab video on the wall behind the four PCs in the same upload.
 - **owner:** Blueprint maintainer / environment designer
-- **status:** Locally verified; authorised publication pending
+- **status:** Blueprint integrated and published; game upload next
 - **rationale:** Extend the accepted ECC exterior with a peaceful, recognisable Chapel interior, retaining the actual coloured cross and tree-glass imagery; remove coplanar sign overlap.
 - **dependencies:** CE-CHANGE-20260910-38
 - **supersededRecord:** None
