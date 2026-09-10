@@ -9,3 +9,6 @@ Sky/lighting assessment: existing world.js already provides campusSkyTexture, fo
 
 ## Sky and lighting candidate — 10 September 2026
 Tania authorised a separate before/after review, not publication. Outdoor sky horizon corrected, warm lower sun and reduced ambient fill implemented in the existing game checkout. Paving, buildings, planting and Studio editor lighting unchanged. Candidate is uncommitted and unpublished; full reader integration remains pending. Intake CE-DISCUSSION-0a740df3-8353-4a24-b94a-3ce9485191bd. Compare lighting-final screenshots with after-paving screenshots at identical spawn/approach/Studio positions.
+
+## Tracking correction — historical intake review
+The pending/deploying statements above describe the earlier working checkpoint. Record 29 was subsequently completed and paving 1931e2c verified in V2.18; see the reconciliation-v218 final receipt. This correction does not publish or approve the lighting candidate.

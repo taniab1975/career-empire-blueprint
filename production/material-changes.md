@@ -2,6 +2,24 @@
 
 Generated from data/operations.json. One canonical register; do not edit this view directly.
 
+## CE-CHANGE-20260910-32 — Small continuation button and concise working handoff
+
+- **date:** 2026-09-10
+- **domain:** Blueprint workflow and reader
+- **source:** Tania requests a discreet bottom-right button supplying a new-chat prompt, followed by the game developer and digital assets creator role, clarification and progressive work.
+- **owner:** Blueprint maintainer
+- **status:** Ready for publication; local checks passed
+- **rationale:** Repeatedly typing continuity instructions is unnecessary; copy a consistent prompt without adding an automatic backend.
+- **dependencies:** CE-CHANGE-20260910-31
+- **supersededRecord:** None
+- **designApproval:** User explicitly selected a copyable prompt instead of automatic dispatch.
+- **implementation:** Global dialog with optional work request, accessible copy action, manual-copy fallback and honest last-refresh state; rolling handoff and scoped intake cleanup.
+- **deployment:** Publication pending independent live verification.
+- **testing:** 72 tests pass, TypeScript and focused lint pass, production build passes; desktop/mobile helper copy, fallback, optional task, Escape and overflow checks pass.
+- **taniaAcceptance:** Approved helper behavior and role transition, not game or asset acceptance.
+- **evidence:** docs/production/continuation-helper-20260910.md
+- **nextAction:** Validate and publish the helper, then resume the environment milestone.
+
 ## CE-CHANGE-20260910-30 — One production plan, current live evidence and continuously checked workflow
 
 - **date:** 2026-09-10

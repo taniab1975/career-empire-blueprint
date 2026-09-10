@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "revision": "V2.18 / 10 September 2026",
+  "revision": "V2.19 / 10 September 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -27,7 +27,7 @@
     "release": {
       "id": "V2.18",
       "date": "2026-09-10",
-      "label": "V2.18 / 10 September 2026",
+      "label": "V2.19 / 10 September 2026",
       "status": "Reader reconciliation and local tracking published and verified",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
@@ -793,6 +793,29 @@
         }
       ],
       "changes": [
+        {
+          "id": "CE-CHANGE-20260910-32",
+          "date": "2026-09-10",
+          "title": "Small continuation button and concise working handoff",
+          "domain": "Blueprint workflow and reader",
+          "source": "Tania requests a discreet bottom-right button supplying a new-chat prompt, followed by the game developer and digital assets creator role, clarification and progressive work.",
+          "owner": "Blueprint maintainer",
+          "status": "Ready for publication; local checks passed",
+          "rationale": "Repeatedly typing continuity instructions is unnecessary; copy a consistent prompt without adding an automatic backend.",
+          "dependencies": [
+            "CE-CHANGE-20260910-31"
+          ],
+          "supersededRecord": null,
+          "designApproval": "User explicitly selected a copyable prompt instead of automatic dispatch.",
+          "implementation": "Global dialog with optional work request, accessible copy action, manual-copy fallback and honest last-refresh state; rolling handoff and scoped intake cleanup.",
+          "deployment": "Publication pending independent live verification.",
+          "testing": "72 tests pass, TypeScript and focused lint pass, production build passes; desktop/mobile helper copy, fallback, optional task, Escape and overflow checks pass.",
+          "taniaAcceptance": "Approved helper behavior and role transition, not game or asset acceptance.",
+          "evidence": [
+            "docs/production/continuation-helper-20260910.md"
+          ],
+          "nextAction": "Validate and publish the helper, then resume the environment milestone."
+        },
         {
           "id": "CE-CHANGE-20260910-30",
           "date": "2026-09-10",
@@ -4569,12 +4592,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20260910-29",
-        "CE-CHANGE-20260910-30",
-        "CE-CHANGE-20260910-31"
+        "CE-CHANGE-20260910-32"
       ],
-      "scope": "V2.18: reconcile published paving, one production plan and proportionate workflow tracking. No game or asset production.",
-      "disclosure": "Reader reconciliation is verified. Historical intake, unpublished lighting, wider asset acceptance and classroom verification remain separate tracked work.",
+      "scope": "Continuation helper, rolling handoff and evidence-backed historical intake housekeeping; no game changes.",
+      "disclosure": "Helper validated locally; independent publication verification pending. Historical intake and unpublished lighting remain separate.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -4734,16 +4755,20 @@
         "tests/project-guard.test.mjs",
         "tests/reader-currency.test.mjs",
         "tests/workflow-monitor.test.mjs",
-        "vite.pages.config.ts"
+        "vite.pages.config.ts",
+        "app/blueprint-app.tsx",
+        "app/continue-work.tsx",
+        "data/refresh-checkpoint.json",
+        "docs/production/continuation-helper-20260910.md"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "00ec93c6160ba8af23b7af61ac0161556d58e3c9680fa3c9d517b56d29b780e6"
+          "sha256": "73b1369a009e9014b4102940196a8c91597bd91665c705aa26bf88a2a61ec6bb"
         },
         {
           "path": "README.md",
-          "sha256": "3d808b68e6cddafcb8ddef494c8e0a3416b1e6a8c547b153049ade9d200dce8d"
+          "sha256": "034d2a53243eeb8126323e213233a9fae7eda9a2eaafb0657a8ecd5b04cdd4f6"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -4763,7 +4788,7 @@
         },
         {
           "path": "app/globals.css",
-          "sha256": "7588568497729e28be17cc7c7e850756d332caf3093e28f3042c813ce399ff50"
+          "sha256": "14c8839daf50841c0168d74fab4b39528597f0331efb23eaac28b3dd96727b78"
         },
         {
           "path": "app/learning-map.tsx",
@@ -4791,7 +4816,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "817a194b090e1371f7ebbea7907992862b1bf455a108f3fc252ad6c12c49d6cf"
+          "sha256": "09b1d3b0503eafdb8b80c0d1d7447097ca599d39deb1ab94ff9aef2dc012169f"
         },
         {
           "path": "data/style-guide.json",
@@ -4799,7 +4824,7 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "b783b52ab6797e1594c8fe6b8830e5e1628ae58b804ffc1c6eee13f49489fe88"
+          "sha256": "0e9e7be19cca73dd8f309eabcc67aaf6086a07f931f3244524869264eb64193e"
         },
         {
           "path": "docs/production/arrival-playable-release-20260910.md",
@@ -5299,7 +5324,7 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "d4fd0b0fad8a76114938c7a06e53c593e8cf3aae21e5fc0c9a9cb8fb74ef0062"
+          "sha256": "7d88703055a2c8daabc27794e40048fed0efd9b573e594373511030ca4aea625"
         },
         {
           "path": "scripts/prepare-pages.mjs",
@@ -5355,7 +5380,7 @@
         },
         {
           "path": "docs/production/maintenance-20260910.md",
-          "sha256": "17336a867e373a3d35016cfea99228769396c1e8c8eac6ece50e84b68ef03ad0"
+          "sha256": "11cc8c5dbb28379c98c143eb6f039b0e5e8958e291cd81fa31cb0d8ee6da9123"
         },
         {
           "path": "docs/production/workflow-system-20260910.md",
@@ -5363,7 +5388,7 @@
         },
         {
           "path": "docs/production/arrival-ground-stage1-20260910.md",
-          "sha256": "8aaf70421af631ee7105062257ab39da1b65943eb35c46f80cfb27c867dc99ba"
+          "sha256": "28100257997091e225337fb5311b406307ab7fdbd5264a522426bd27b49cd11b"
         },
         {
           "path": "docs/production/audit-recovery-20260910.md",
@@ -5372,10 +5397,326 @@
         {
           "path": "public/evidence/arrival-playable-20260910/current-live-arrival.png",
           "sha256": "9aea8f71b9e8efd971d32d517a4f6e500079aba1ec326cbe3e5b1b90e7f9a5d6"
+        },
+        {
+          "path": "app/blueprint-app.tsx",
+          "sha256": "44b41af94b0837810b78ec2dbd329e1863b41c236e8dd8b5415ebfec0f57a546",
+          "method": "Continuation helper source and scope inspected during implementation."
+        },
+        {
+          "path": "app/continue-work.tsx",
+          "sha256": "5b685678073863a21c0308f80ace20c16adf556415db41a04ab2c482feefa49d",
+          "method": "Continuation helper source and scope inspected during implementation."
+        },
+        {
+          "path": "data/refresh-checkpoint.json",
+          "sha256": "849e45fd3ccf74145ecc79d244080f220c5e8ebcd188f2e884e7ac351b6a95d2",
+          "method": "Continuation helper source and scope inspected during implementation."
+        },
+        {
+          "path": "docs/production/continuation-helper-20260910.md",
+          "sha256": "54138fd2cc4a2258b6ce6e4179de5808194d6ad51fb18c2d4669f4a457ee95bb",
+          "method": "Continuation helper source and scope inspected during implementation."
         }
       ]
     },
     "changes": [
+      {
+        "changeId": "CE-CHANGE-20260910-32",
+        "title": "Small continuation button and concise working handoff",
+        "types": [
+          "governance",
+          "implementation"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Make a new Career Empire chat easy to start with current context and bounded production work.",
+        "before": "User must remember and type handoff and maintenance instructions.",
+        "after": "A small button prepares the complete prompt without sending it or claiming a completed audit.",
+        "source": "Tania requests a discreet bottom-right button supplying a new-chat prompt, followed by the game developer and digital assets creator role, clarification and progressive work.",
+        "owner": "Blueprint maintainer",
+        "nextAction": "Publish reviewed static output, then verify live helper and release hashes.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Global helper is available on Start Here without changing the current environment plan.",
+            "records": [
+              "CE-CHANGE-20260910-32"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "docs/production/continuation-helper-20260910.md",
+              "private/production-evidence/2026-09-10/continuation-helper/local-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Global helper is available on Start Here without changing the current environment plan.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Global helper is available on Roadmap; productionPlan and its approved sequence are unchanged.",
+            "records": [
+              "CE-CHANGE-20260910-32"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "docs/production/continuation-helper-20260910.md",
+              "private/production-evidence/2026-09-10/continuation-helper/local-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Global helper is available on Roadmap; productionPlan and its approved sequence are unchanged.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Material record 32 records the explicit lightweight choice and game developer role transition.",
+            "records": [
+              "CE-CHANGE-20260910-32"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "docs/production/continuation-helper-20260910.md",
+              "private/production-evidence/2026-09-10/continuation-helper/local-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Material record 32 records the explicit lightweight choice and game developer role transition.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Rolling handoff, README, AGENTS and helper documentation explain copy-only behavior and bounded review.",
+            "records": [
+              "CE-CHANGE-20260910-32"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "docs/production/continuation-helper-20260910.md",
+              "private/production-evidence/2026-09-10/continuation-helper/local-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Rolling handoff, README, AGENTS and helper documentation explain copy-only behavior and bounded review.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Generated public/private records include record 32 and the public helper guide.",
+            "records": [
+              "CE-CHANGE-20260910-32"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "docs/production/continuation-helper-20260910.md",
+              "private/production-evidence/2026-09-10/continuation-helper/local-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Generated public/private records include record 32 and the public helper guide.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Review continuation helper impact on publication against current authoritative records.",
+            "records": [
+              "CE-CHANGE-20260910-32"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "docs/production/continuation-helper-20260910.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await independent live helper and manifest verification.",
+              "date": ""
+            },
+            "nextAction": "Publish reviewed output and verify live manifest and helper interactions."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "All protected decisions retain their prior exact contents; prompt explicitly preserves approval boundaries.",
+            "records": [
+              "CE-CHANGE-20260910-32"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "docs/production/continuation-helper-20260910.md",
+              "private/production-evidence/2026-09-10/continuation-helper/local-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All protected decisions retain their prior exact contents; prompt explicitly preserves approval boundaries.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "No research/source claims added; prompt requires access verification and evidence rather than unseen-chat claims.",
+            "records": [
+              "CE-CHANGE-20260910-32"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "docs/production/continuation-helper-20260910.md",
+              "private/production-evidence/2026-09-10/continuation-helper/local-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No research/source claims added; prompt requires access verification and evidence rather than unseen-chat claims.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Production build, 72 tests, TypeScript, lint and desktop/mobile helper interaction checks passed.",
+            "records": [
+              "CE-CHANGE-20260910-32"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "docs/production/continuation-helper-20260910.md",
+              "private/production-evidence/2026-09-10/continuation-helper/local-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Production build, 72 tests, TypeScript, lint and desktop/mobile helper interaction checks passed.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Existing private recovery destination is retained; prompt explicitly locates existing canonical checkout and avoids creating another.",
+            "records": [
+              "CE-CHANGE-20260910-32"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "docs/production/continuation-helper-20260910.md",
+              "private/production-evidence/2026-09-10/continuation-helper/local-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing private recovery destination is retained; prompt explicitly locates existing canonical checkout and avoids creating another.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Optional request, copy success, manual-copy fallback and Escape dismissal verified on desktop/mobile.",
+            "records": [
+              "CE-CHANGE-20260910-32"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "docs/production/continuation-helper-20260910.md",
+              "private/production-evidence/2026-09-10/continuation-helper/local-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Optional request, copy success, manual-copy fallback and Escape dismissal verified on desktop/mobile.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "No teacher or classroom flow files changed; helper adds no classroom readiness or cohort approval.",
+            "records": [
+              "CE-CHANGE-20260910-32"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "docs/production/continuation-helper-20260910.md",
+              "private/production-evidence/2026-09-10/continuation-helper/local-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No teacher or classroom flow files changed; helper adds no classroom readiness or cohort approval.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "No visual assets regenerated; existing source imagery retained; helper screenshots saved privately.",
+            "records": [
+              "CE-CHANGE-20260910-32"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "docs/production/continuation-helper-20260910.md",
+              "private/production-evidence/2026-09-10/continuation-helper/local-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No visual assets regenerated; existing source imagery retained; helper screenshots saved privately.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "Asset register and protected asset approvals retain their prior verified bytes; prompt forbids inferred paid generation approval.",
+            "records": [
+              "CE-CHANGE-20260910-32"
+            ],
+            "owner": "Blueprint maintainer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "docs/production/continuation-helper-20260910.md",
+              "private/production-evidence/2026-09-10/continuation-helper/local-checks.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Asset register and protected asset approvals retain their prior verified bytes; prompt forbids inferred paid generation approval.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Identify the exact affected records and complete the reader-facing update."
+          }
+        ]
+      },
       {
         "changeId": "CE-CHANGE-20260910-31",
         "title": "Maintain an accurate Blueprint with proportionate automation",

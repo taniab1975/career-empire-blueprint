@@ -1,20 +1,20 @@
 {
-  "sourceCommit": "b0551573f8fd95ca64d61305644a695c83387a62",
-  "generatedAt": "2026-09-10T03:55:27.799Z",
-  "revision": "V2.18 / 10 September 2026",
-  "recordSha256": "8e52930691a38e4459779d2d1212839bc55412b0d871ca3bf4e9a0c244e3afe2",
+  "sourceCommit": "fe85ce5e992e1c9842eed31c16aad7daecded1d1",
+  "generatedAt": "2026-09-10T04:47:07.475Z",
+  "revision": "V2.19 / 10 September 2026",
+  "recordSha256": "f96af4dbea5ab4de219fda72e4f22372f3d5623f9cbd2eefdf7bfbc4367f3dad",
   "files": [
     {
-      "path": "assets/index-BrZ6B30q.js",
-      "sha256": "053465bc9342a9e3bf9befa1d6711b6fc62a3e8b5148556eea42a8653b438306"
+      "path": "assets/index-BDPVo6nh.js",
+      "sha256": "7eb9d34181754947e906c8ac6468f5cacc9ba2864ed36d3cffed5339bcc9a44a"
     },
     {
-      "path": "assets/index-CjQKDqwD.css",
-      "sha256": "9426a1c53962c7d98e2a28c90cf90d37c9badb0e9e6be044e3e60926795a7e42"
+      "path": "assets/index-Bmky4qoT.css",
+      "sha256": "3aab1a01ab929d16585fc05500dfa56992ec27573714c40b5a160bf4911458dd"
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "8e52930691a38e4459779d2d1212839bc55412b0d871ca3bf4e9a0c244e3afe2"
+      "sha256": "f96af4dbea5ab4de219fda72e4f22372f3d5623f9cbd2eefdf7bfbc4367f3dad"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -698,7 +698,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "2829df4cf68138f80922d57eb0b26dd53c1a1db4438052b0117073cf48e1b5e7"
+      "sha256": "dae97922f4d8b3a5452150815b85e995685422300107fd1820c6d137f3bdd0c5"
     },
     {
       "path": "playable-3d/app.js",
@@ -870,7 +870,7 @@
     },
     {
       "path": "production/arrival-ground-stage1-20260910.md",
-      "sha256": "8aaf70421af631ee7105062257ab39da1b65943eb35c46f80cfb27c867dc99ba"
+      "sha256": "28100257997091e225337fb5311b406307ab7fdbd5264a522426bd27b49cd11b"
     },
     {
       "path": "production/arrival-playable-release-20260910.md",
@@ -906,11 +906,15 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "8d8812f3498acf0faedad568378610c42703c70d5d208a013ea315a4ea06394c"
+      "sha256": "388c0c300c9bb0bb47c4538577cc7cf1f24489329aa36cfe187e63fb9426634a"
     },
     {
       "path": "production/change-workflows.md",
       "sha256": "bfa7d94e2954850e465914f34fa249a581a78f6eccf96885f9f31e12d5e04a39"
+    },
+    {
+      "path": "production/continuation-helper-20260910.md",
+      "sha256": "54138fd2cc4a2258b6ce6e4179de5808194d6ad51fb18c2d4669f4a457ee95bb"
     },
     {
       "path": "production/current-assets.md",
@@ -942,11 +946,11 @@
     },
     {
       "path": "production/maintenance-20260910.md",
-      "sha256": "17336a867e373a3d35016cfea99228769396c1e8c8eac6ece50e84b68ef03ad0"
+      "sha256": "11cc8c5dbb28379c98c143eb6f039b0e5e8958e291cd81fa31cb0d8ee6da9123"
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "bf27ef9e9c0085daaa1e02cd15570ac80ec960bfe80c618a7f8e728fde4c4b04"
+      "sha256": "31550ce99e1d3011bbee25b0466f961eae70b40a761cdb5924f33df3456ea9cb"
     },
     {
       "path": "production/operating-protocol.md",

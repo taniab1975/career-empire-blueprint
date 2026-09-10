@@ -2,9 +2,260 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.18: reconcile published paving, one production plan and proportionate workflow tracking. No game or asset production.
+Release scope: Continuation helper, rolling handoff and evidence-backed historical intake housekeeping; no game changes.
 
-Reader reconciliation is verified. Historical intake, unpublished lighting, wider asset acceptance and classroom verification remain separate tracked work.
+Helper validated locally; independent publication verification pending. Historical intake and unpublished lighting remain separate.
+
+## CE-CHANGE-20260910-32 — Small continuation button and concise working handoff
+
+Integration: **ready-for-publication**. Types: governance, implementation. Owner: Blueprint maintainer.
+
+**Objective:** Make a new Career Empire chat easy to start with current context and bounded production work.
+
+**Before:** User must remember and type handoff and maintenance instructions.
+
+**Required result:** A small button prepares the complete prompt without sending it or claiming a completed audit.
+
+**Source:** Tania requests a discreet bottom-right button supplying a new-chat prompt, followed by the game developer and digital assets creator role, clarification and progressive work.
+
+**Next:** Publish reviewed static output, then verify live helper and release hashes.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Global helper is available on Start Here without changing the current environment plan.
+
+Records: CE-CHANGE-20260910-32. Owner: Blueprint maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Global helper is available on Start Here without changing the current environment plan.
+
+- [Evidence](docs/production/continuation-helper-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/continuation-helper/local-checks.json)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Global helper is available on Roadmap; productionPlan and its approved sequence are unchanged.
+
+Records: CE-CHANGE-20260910-32. Owner: Blueprint maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / Global helper is available on Roadmap; productionPlan and its approved sequence are unchanged.
+
+- [Evidence](docs/production/continuation-helper-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/continuation-helper/local-checks.json)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Material record 32 records the explicit lightweight choice and game developer role transition.
+
+Records: CE-CHANGE-20260910-32. Owner: Blueprint maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Material record 32 records the explicit lightweight choice and game developer role transition.
+
+- [Evidence](docs/production/continuation-helper-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/continuation-helper/local-checks.json)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Rolling handoff, README, AGENTS and helper documentation explain copy-only behavior and bounded review.
+
+Records: CE-CHANGE-20260910-32. Owner: Blueprint maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Rolling handoff, README, AGENTS and helper documentation explain copy-only behavior and bounded review.
+
+- [Evidence](docs/production/continuation-helper-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/continuation-helper/local-checks.json)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Generated public/private records include record 32 and the public helper guide.
+
+Records: CE-CHANGE-20260910-32. Owner: Blueprint maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Generated public/private records include record 32 and the public helper guide.
+
+- [Evidence](docs/production/continuation-helper-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/continuation-helper/local-checks.json)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Review continuation helper impact on publication against current authoritative records.
+
+Records: CE-CHANGE-20260910-32. Owner: Blueprint maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Await independent live helper and manifest verification.
+
+- [Evidence](docs/production/continuation-helper-20260910.md)
+
+Next: Publish reviewed output and verify live manifest and helper interactions.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+All protected decisions retain their prior exact contents; prompt explicitly preserves approval boundaries.
+
+Records: CE-CHANGE-20260910-32. Owner: Blueprint maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / All protected decisions retain their prior exact contents; prompt explicitly preserves approval boundaries.
+
+- [Evidence](docs/production/continuation-helper-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/continuation-helper/local-checks.json)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+No research/source claims added; prompt requires access verification and evidence rather than unseen-chat claims.
+
+Records: CE-CHANGE-20260910-32. Owner: Blueprint maintainer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / No research/source claims added; prompt requires access verification and evidence rather than unseen-chat claims.
+
+- [Evidence](docs/production/continuation-helper-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/continuation-helper/local-checks.json)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Production build, 72 tests, TypeScript, lint and desktop/mobile helper interaction checks passed.
+
+Records: CE-CHANGE-20260910-32. Owner: Blueprint maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / Production build, 72 tests, TypeScript, lint and desktop/mobile helper interaction checks passed.
+
+- [Evidence](docs/production/continuation-helper-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/continuation-helper/local-checks.json)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Existing private recovery destination is retained; prompt explicitly locates existing canonical checkout and avoids creating another.
+
+Records: CE-CHANGE-20260910-32. Owner: Blueprint maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Existing private recovery destination is retained; prompt explicitly locates existing canonical checkout and avoids creating another.
+
+- [Evidence](docs/production/continuation-helper-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/continuation-helper/local-checks.json)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Optional request, copy success, manual-copy fallback and Escape dismissal verified on desktop/mobile.
+
+Records: CE-CHANGE-20260910-32. Owner: Blueprint maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Optional request, copy success, manual-copy fallback and Escape dismissal verified on desktop/mobile.
+
+- [Evidence](docs/production/continuation-helper-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/continuation-helper/local-checks.json)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+No teacher or classroom flow files changed; helper adds no classroom readiness or cohort approval.
+
+Records: CE-CHANGE-20260910-32. Owner: Blueprint maintainer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / No teacher or classroom flow files changed; helper adds no classroom readiness or cohort approval.
+
+- [Evidence](docs/production/continuation-helper-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/continuation-helper/local-checks.json)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+No visual assets regenerated; existing source imagery retained; helper screenshots saved privately.
+
+Records: CE-CHANGE-20260910-32. Owner: Blueprint maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / No visual assets regenerated; existing source imagery retained; helper screenshots saved privately.
+
+- [Evidence](docs/production/continuation-helper-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/continuation-helper/local-checks.json)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Asset register and protected asset approvals retain their prior verified bytes; prompt forbids inferred paid generation approval.
+
+Records: CE-CHANGE-20260910-32. Owner: Blueprint maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Asset register and protected asset approvals retain their prior verified bytes; prompt forbids inferred paid generation approval.
+
+- [Evidence](docs/production/continuation-helper-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/continuation-helper/local-checks.json)
+
+Next: Identify the exact affected records and complete the reader-facing update.
 
 ## CE-CHANGE-20260910-31 — Maintain an accurate Blueprint with proportionate automation
 

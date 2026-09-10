@@ -10,7 +10,7 @@ Tania subsequently chose to proceed without an agentic Blueprint. No embedded ch
 
 ## Proportionate checks
 
-- At session start, inspect the current plan, local change scan and unresolved work. Read only changed source and related records; retrieve old conversations only when a specific claim lacks evidence.
+- At session start, first read docs/handoff-guide.md (the single rolling handoff), then inspect the relevant current plan, local change scan and unresolved work. Read only changed source and related records; retrieve old conversations only when a specific claim lacks evidence.
 - Reuse verified unchanged files and visual assets by exact hashes. Do not regenerate pictures, rerun unchanged gameplay, or repeatedly download large assets for documentation work.
 - Log discussions compactly. Update all actually affected surfaces in the same change; checked-unchanged needs a specific reason. Combine related changes into one reviewed release.
 - Run relevant focused checks while editing, then one full required release check and desktop/mobile reader pass. Repeat only failed checks or those affected by further edits.
@@ -23,3 +23,7 @@ Git-declared prunable working copies are recorded as retired instead of treated 
 ## Release scope
 
 Records 29–31 reconcile paving, the common production plan, current screenshot and maintenance rules. Saved source reviews and affected reader checks are recorded in the release evidence. Wider curriculum, teacher/EST, wardrobe, lighting and Batch 1 acceptance remain open. The earlier recovery report is a dated checkpoint, not current release status.
+
+## Rolling handoff — agreed 10 September 2026
+
+Tania requested one concise current handoff, consulted first and updated in place at session close. Use docs/handoff-guide.md. Keep checkpoint evidence, current work, uncertainties and the next action there; archive detail elsewhere. This reduces repeated context gathering but does not replace authoritative source updates or release checks. No new automation or public release is implied by this documentation update.
