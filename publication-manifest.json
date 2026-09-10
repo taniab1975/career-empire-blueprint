@@ -1,20 +1,20 @@
 {
-  "sourceCommit": "d87e0a260df0d38d768c0845a6a73013802c3840",
-  "generatedAt": "2026-09-10T11:09:37.817Z",
+  "sourceCommit": "136b0d83e94ec420aba495c487eef121ea801276",
+  "generatedAt": "2026-09-10T11:48:14.590Z",
   "revision": "V2.20 / 10 September 2026",
-  "recordSha256": "0980cc43ec540f5c4a1ab9b31d22f3a284fc781e89470e8fb81c83c8aac1d5e4",
+  "recordSha256": "2567a7de593fa42f51b1e5329dd12a04cbc0718a308aacd98c697f805ab1c3b5",
   "files": [
     {
-      "path": "assets/index-Bmky4qoT.css",
-      "sha256": "3aab1a01ab929d16585fc05500dfa56992ec27573714c40b5a160bf4911458dd"
-    },
-    {
-      "path": "assets/index-CcekkCI2.js",
+      "path": "assets/index-CItsirJh.js",
       "sha256": "194c11dad780f42ec52aa647944ff3affe37e3acfe3e055014bfd83e7c39b5e1"
     },
     {
+      "path": "assets/index-XI7X52PC.css",
+      "sha256": "362ad278cbf4b62a43d1bd352c8f71e786e736510a4652abe0f87a03c864e7a5"
+    },
+    {
       "path": "blueprint-records.json",
-      "sha256": "0980cc43ec540f5c4a1ab9b31d22f3a284fc781e89470e8fb81c83c8aac1d5e4"
+      "sha256": "2567a7de593fa42f51b1e5329dd12a04cbc0718a308aacd98c697f805ab1c3b5"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -605,6 +605,30 @@
       "sha256": "b73fedc644fbecc8c2745372c53fe832a219baefeaf931842e4d87eb130a458f"
     },
     {
+      "path": "evidence/chapel-20260910/chapel-built-desktop.png",
+      "sha256": "a33196806e54f5323922040da4428e99f03f0aedccdec179d40506e8c27e015b"
+    },
+    {
+      "path": "evidence/chapel-20260910/chapel-built-mobile.png",
+      "sha256": "b6afeb7b50a6529de2bc3011c078e16ee52d357b6c60ccfa892ff4adc2fface3"
+    },
+    {
+      "path": "evidence/chapel-20260910/chapel-concept.png",
+      "sha256": "f15e5a02f7dd67edf77e1720a291237be125297e3950953c351136521782707a"
+    },
+    {
+      "path": "evidence/chapel-20260910/est-wall-1440.png",
+      "sha256": "5708a90ab29f6512cddb5d36b68a6aa6b90ca21c5b9eae6c214a74e0b67962f6"
+    },
+    {
+      "path": "evidence/chapel-20260910/est-wall-390.png",
+      "sha256": "b6fe745e71f9ca3688284bc39a1b326ecf51c49174bf29152f38c1582720089e"
+    },
+    {
+      "path": "evidence/chapel-20260910/sign-corrected.png",
+      "sha256": "3bf46f5cf7562093eae2887467b5dfe432f23189a82c37772b4397ba98c7506c"
+    },
+    {
       "path": "evidence/current-state-fixed-shirt-20260908.png",
       "sha256": "c3900a2ea1f3c5e6c99af7fc0f572a56cb48efcb36f9706601d649bd7a03c670"
     },
@@ -774,7 +798,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "b25dce4400823f30350cebe3ad16a709659b889ec6a820ec78949ba8313c425a"
+      "sha256": "a9a307bec9bca247bc97918761678153b17488104fcc8fb429938d886a1d2e32"
     },
     {
       "path": "playable-3d/app.js",
@@ -990,7 +1014,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "d76ce578825148daeff15eeeb797d341f59112d1e64f56ddb4025ef37e02b4f7"
+      "sha256": "30f3078c868aa48a04600e9521d2bf8b5cd54e31a85c5687da371845e0cbc8c4"
     },
     {
       "path": "production/change-workflows.md",
@@ -1002,19 +1026,19 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "9a970cd378c8acd0fe460298a73bd4b67d46e2fa84b7e94397f765fc8b592c56"
+      "sha256": "2cfa380e562e832434e97ff7189a003a7e447925138fff833d997b689f0e744f"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "ffc7bbd96410a65cf22fb4c878a059df28d767c7092453e02f0e8ae7805e8116"
+      "sha256": "1c6f7dd8857a1470dbfc8ee51926d17c0045aff1d752dbdccaf80953530ae4e0"
     },
     {
       "path": "production/ecc-campus-hub-specification-20260910.html",
-      "sha256": "4ba765ab2e0edef9aa901fafaa5ecc7cfe98997a29413023971ae56784fd6e8f"
+      "sha256": "c9c2d31c07aa41a670fdfdf1148d843a030522ded5c979189848887b53fee0db"
     },
     {
       "path": "production/ecc-campus-hub-specification-20260910.md",
-      "sha256": "0f88a6ff7216ec9e71540d75050b2eb2667cf8bcab4cef51ba55b3daa1e9f923"
+      "sha256": "80e0429e2b2405812963ce95db53163b6657efcb3936cdaf15069460eb37a9d1"
     },
     {
       "path": "production/game-hosting-correction-20260910.md",
@@ -1042,7 +1066,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "6c67d6ac39f0c1b9fb0aa91aa229f0d5c9851318266059f3880a80bf9ebea423"
+      "sha256": "3b17512c0224200b97c5da380ba5be5bfdb2ef0f00a49591f5504072d5bbf4c7"
     },
     {
       "path": "production/operating-protocol.md",

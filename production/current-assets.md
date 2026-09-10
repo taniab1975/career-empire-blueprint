@@ -8,7 +8,7 @@ Direction and candidate production approved; finished precinct not accepted
 
 Warm limestone or pale brick, navy framing, timber fins, glass, native gardens and shaded paths. Teal is restrained wayfinding and interaction. Character-level walking views lead; aerial views explain context. The first quality slice is Avatar Studio with its garden, approach and plaza edge.
 
-Live campus landscape is retained. The complete ECC exterior candidate is accepted for now and authorised for release with right-hand EST Prep. Chapel interior concept follows the campus release. Separate lighting and gait remain open.
+ECC exterior and right-hand EST Prep are live. The Chapel A Place to Pause concept is accepted as the visual target; interior construction and placement with sign repair are explicitly authorised and in validation. Preserve separate gait and lighting follow-ups.
 
 The older civic concepts and prompt pack below are retained history and supporting references. They do not override this campus direction or approve new buildings, RPG mechanics, an economy formula or a faithful reconstruction of ECC.
 
@@ -89,6 +89,7 @@ Limits: This image is the approved local capture; the identical repaired asset i
 Next: Play the live game: Avatar Studio → School student; use walking, turn and portrait controls. Continue the existing environment plan.
 Source: Update Avatar Appearance continuation, Tania: “Yey he is much better! Please go ahead and update to live”. CE-CHANGE-20260910-35; player-schoolboy-repaired-20260910.glb.
 SHA-256: 6f393115b27899b90c4ee2b73d1f3c8feff1aa00a052ef0c96854770937fb9d0
+Open integration CE-CHANGE-20260910-39: Recognisable, peaceful Chapel interior from supplied photos, with quiet reflection and reliable campus return; stable legacy sign surfaces. Next: Publish the reviewed combined update and verify live hashes and Chapel/EST flows.
 Open integration CE-CHANGE-20260910-34: Create the authorised model candidates for grouped review Next: Retain approved geometry; confirm bounded integration scope. Public reader release remains pending.
 Open integration CE-CHANGE-20260910-33: Agree environmental language before asset selection Next: Obtain specification agreement; complete affected reader verification before any release
 
@@ -109,7 +110,7 @@ Generated from data/style-guide.json in the blueprint repository. This is a port
 Current amendment: ECC Career Campus + Campus-to-Career Corridor
 Direction and candidate production approved; finished precinct not accepted
 Warm limestone or pale brick, navy framing, timber fins, glass, native gardens and shaded paths. Teal is restrained wayfinding and interaction. Character-level walking views lead; aerial views explain context. The first quality slice is Avatar Studio with its garden, approach and plaza edge.
-Live campus landscape is retained. The complete ECC exterior candidate is accepted for now and authorised for release with right-hand EST Prep. Chapel interior concept follows the campus release. Separate lighting and gait remain open.
+ECC exterior and right-hand EST Prep are live. The Chapel A Place to Pause concept is accepted as the visual target; interior construction and placement with sign repair are explicitly authorised and in validation. Preserve separate gait and lighting follow-ups.
 The older civic concepts and prompt pack below are retained history and supporting references. They do not override this campus direction or approve new buildings, RPG mechanics, an economy formula or a faithful reconstruction of ECC.
 
 Career Empire should feel like a place a young person wants to step into: recognisable, welcoming and full of possibility. Its people have warmth and personality; its buildings have substance, purpose and life inside them. Contemporary architecture, rich planting, natural materials and carefully placed technology create an optimistic near-future town. The camera brings us close enough to care. Light invites us towards an opportunity; movement makes a discovery feel earned. The world can struggle, recover and flourish without losing its identity. The ambition is the depth, craft and emotional presence of the supplied ElevenLabs Town Hall films, translated into a coherent, playable 3D world.

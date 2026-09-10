@@ -192,9 +192,9 @@
       "phase": "World Environment & Ecosystem",
       "activeMilestoneId": "CE-ENV-01",
       "objective": "Establish the approved visual and environmental system for the Career Empire campus.",
-      "now": "ECC hub, retained outer buildings, right-hand EST Prep and Original Career Empire access are live and independently verified.",
-      "next": "Develop the Chapel interior concept from the supplied photos for Tania review.",
-      "then": "After design approval, build and validate the Chapel interior in a separate preview, then integrate.",
+      "now": "ECC exterior and right-hand EST Prep remain live; the authorised Chapel interior and sign repair are being validated locally.",
+      "next": "Publish the reviewed combined update and verify live hashes and Chapel/EST flows.",
+      "then": "Review the placed Chapel in the live game; scope any further wellbeing or Mass activities separately.",
       "later": "Avatar system → experiences → curriculum coverage and validation.",
       "sequence": [
         "World Environment & Ecosystem",
@@ -536,7 +536,7 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "Blueprint publication is verified separately from the live game. ECC hub, retained outer buildings, right-hand EST Prep and Original Career Empire access are live and independently verified. Chapel interior follows as a separate concept, approval and build stage; existing gait/lighting and historical work remain open.",
+      "summary": "Blueprint publication is verified separately from the live game. ECC exterior and right-hand EST are live. Chapel interior construction and placement are explicitly authorised, with local validation underway before the combined sign repair release. Historical intake and separate gait/lighting/hosted CI follow-ups remain open.",
       "facts": [
         {
           "label": "ECC CAMPUS / LIVE AND VERIFIED",
@@ -809,6 +809,31 @@
         }
       ],
       "changes": [
+        {
+          "id": "CE-CHANGE-20260910-39",
+          "date": "2026-09-10",
+          "title": "ECC Chapel, arrival sign and paving, and EST wall briefing",
+          "domain": "World Environment & Ecosystem / Buildings & ECC Campus",
+          "source": "Tania explicitly authorised interior construction and placement plus sign repair, then requested the 3D version match the accepted A Place to Pause concept as closely as possible. Tania additionally requests fixing Career Empire fence posts, removing blue entry-paver markers and placing the existing four-system EST Lab video on the wall behind the four PCs in the same upload.",
+          "owner": "Blueprint maintainer / environment designer",
+          "status": "Locally verified; authorised publication pending",
+          "rationale": "Extend the accepted ECC exterior with a peaceful, recognisable Chapel interior, retaining the actual coloured cross and tree-glass imagery; remove coplanar sign overlap.",
+          "dependencies": [
+            "CE-CHANGE-20260910-38"
+          ],
+          "supersededRecord": null,
+          "designApproval": "Tania explicitly authorised building and placement, then accepted the generated A Place to Pause board as the visual target: amazing please make the 3d image as close as possible to that version.",
+          "implementation": "Walkable ECC Chapel, corrected original-game sign/posts, cleared entry pavers and existing four-system EST Lab video on rear wall; existing campus and avatar retained",
+          "deployment": "Local implementation; release validation and live publication in progress.",
+          "testing": "Six unit tests and 35 browser scenarios checked across main run and focused Chapel/EST/arrival retests. Full-video phone fit, play/pause/mute/restart/exit, real routes and sign gaps verified.",
+          "taniaAcceptance": "Explicit authority to build and place interior once ready, plus fix sign.",
+          "evidence": [
+            "docs/production/ecc-campus-hub-specification-20260910.md",
+            "private/production-evidence/2026-09-10/chapel-v1/asset-provenance.json",
+            "public/evidence/chapel-20260910/chapel-built-desktop.png"
+          ],
+          "nextAction": "Publish the reviewed combined update and verify live hashes and Chapel/EST flows."
+        },
         {
           "id": "CE-CHANGE-20260910-38",
           "date": "2026-09-10",
@@ -1800,16 +1825,16 @@
     },
     "eccHub": {
       "id": "CE-ECC-HUB-01",
-      "changeId": "CE-CHANGE-20260910-38",
-      "title": "ECC campus and right-hand EST Prep",
-      "status": "Live and independently verified",
-      "summary": "The complete exterior is accepted for now and authorised for live placement. Both outer buildings remain; the right-hand building becomes EST Prep. Original Career Empire is accessible from a sign and new-tab link.",
-      "functions": "EST keeps its existing learning hall and modules. Chapel reflection/wellbeing, Admin and Student Services interiors remain future work.",
-      "nextAction": "Develop the Chapel interior concept for design approval, then build and place the approved interior.",
+      "changeId": "CE-CHANGE-20260910-39",
+      "title": "ECC Chapel — a place to pause",
+      "status": "Locally verified; publication pending",
+      "summary": "Tania authorised the Chapel interior and live placement, and selected the warm timber, cream seating and coloured-cross concept as the visual target. The existing campus and right-hand EST Prep are retained.",
+      "functions": "Enter the Chapel, explore the central aisle and side seating, pause for quiet reflection, then return to campus. Reflection records no personal writing and adds no points or wellbeing claims. EST keeps its existing learning modules. The original four-system EST Lab briefing plays on the rear wall behind the four PCs, with playback controls and automatic pause on exit.",
+      "nextAction": "Publish the reviewed combined update and verify live hashes and Chapel/EST flows.",
       "href": "/production/ecc-campus-hub-specification-20260910.html",
-      "image": "/evidence/ecc-campus-hub-20260910/live/campus.png",
-      "imageCaption": "Actual live campus: ECC hero, retained Careers Advice Centre and right-hand EST Prep.",
-      "boundary": "Authorised combined exterior release; Chapel interior concept and build follow separately. Existing gait and lighting follow-ups remain open."
+      "image": "/evidence/chapel-20260910/chapel-built-desktop.png",
+      "imageCaption": "Actual playable 3D Chapel, locally verified. Accepted concept and original photo evidence are in the complete specification.",
+      "boundary": "Authorised Chapel, sign/posts, clear entry paving and reused EST video release. No Mass event, new reward or assessment change. Gait, lighting and hosted CI follow-ups remain open."
     }
   },
   "curriculum": [
@@ -4244,7 +4269,7 @@
       "title": "ECC Career Campus + Campus-to-Career Corridor",
       "status": "Direction and candidate production approved; finished precinct not accepted",
       "summary": "Warm limestone or pale brick, navy framing, timber fins, glass, native gardens and shaded paths. Teal is restrained wayfinding and interaction. Character-level walking views lead; aerial views explain context. The first quality slice is Avatar Studio with its garden, approach and plaza edge.",
-      "sequence": "Live campus landscape is retained. The complete ECC exterior candidate is accepted for now and authorised for release with right-hand EST Prep. Chapel interior concept follows the campus release. Separate lighting and gait remain open.",
+      "sequence": "ECC exterior and right-hand EST Prep are live. The Chapel A Place to Pause concept is accepted as the visual target; interior construction and placement with sign repair are explicitly authorised and in validation. Preserve separate gait and lighting follow-ups.",
       "boundary": "The older civic concepts and prompt pack below are retained history and supporting references. They do not override this campus direction or approve new buildings, RPG mechanics, an economy formula or a faithful reconstruction of ECC.",
       "evidenceHref": "/production/visual-register.md",
       "source": "Recovered exact originals from archived task 01a0808f-c02e-7a40-af94-7538beb5ab57: image events 2483, 2490, 2760; user responses 9 September 07:05 and 07:52 UTC and later approved production sequence."
@@ -4802,11 +4827,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20260910-37",
-        "CE-CHANGE-20260910-38"
+        "CE-CHANGE-20260910-39"
       ],
-      "scope": "ECC source-backed specification, accepted exterior, right-hand EST Prep and original-game access",
-      "disclosure": "Combined game release authorised and locally implemented; independent publication verification pending. Chapel interior follows separately. Historical intake, gait, lighting and hosted timing follow-ups remain open.",
+      "scope": "Walkable ECC Chapel, corrected original-game sign/posts, cleared entry pavers and existing four-system EST Lab video on rear wall; existing campus and avatar retained",
+      "disclosure": "Combined Chapel, sign/posts, clear entry path and EST video locally verified; authorised publication pending. Historical intake and separate gait, lighting and hosted-test follow-ups remain open.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -4988,15 +5012,15 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "e0fac95aeda584d0587546317fa7795a30cd757fbba0b20d26ea48bef6b7fd16",
+          "sha256": "6065c5d7a592294cff69439fcc983a381e67d63ba8837fae22430f7e6209706e",
           "reviewedAt": "2026-09-10",
-          "method": "AGENTS and handoff identify existing game checkout, confirmed target, retained follow-ups and source-bound release requirements. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately. Verified live ECC campus release: source/asset hashes and public map, EST return, original-game link and mobile checks; next Chapel concept."
+          "method": "Reviewed final Chapel/EST/entry scope, exact video reuse, verified source and actual desktop/mobile screenshots; unrelated protected decisions retained."
         },
         {
           "path": "README.md",
-          "sha256": "eea13f226c864fbb8e53cdd8a446ab93f04af5c0123cb8f4ff1cdd665aea72ac",
+          "sha256": "ea35341be6659922d6b230c8fbf1e1bb2082e54347768816956703c48e2bc5b8",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed specification link and local source-only scope. Confirmed release sequence supersedes specification-only wording."
+          "method": "Reviewed scoped Chapel concept, source-backed interior, explicit placement authority and sign separation; retained unrelated decisions and accurate pending publication status. Actual runtime and reader checks are recorded separately."
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -5058,21 +5082,21 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "70ff71f4a855e45964bdbf5c33cb214a064206f22d224ce9098bfd822bb57b3e",
+          "sha256": "b3f4fc5eb3da130a424720790c4767ecdd8c817aab554bf92c623dab08d8ddd5",
           "reviewedAt": "2026-09-10",
-          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately. Final reader review corrected stale before-modelling wording to accepted exterior/release in progress. Verified live ECC campus release: source/asset hashes and public map, EST return, original-game link and mobile checks; next Chapel concept."
+          "method": "Reviewed final Chapel/EST/entry scope, exact video reuse, verified source and actual desktop/mobile screenshots; unrelated protected decisions retained."
         },
         {
           "path": "data/style-guide.json",
-          "sha256": "3f2ed4283e0c4b8cbf843e951b72ec31a1a807a4960b27c3510c19e39d336dc1",
+          "sha256": "a7bfbc3d680b33f4d7e98062f00320d2bc0c1122f2a189ff5e0ceee5e950e858",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed next sequence only; original references/approval wording retained. Confirmed release sequence supersedes specification-only wording."
+          "method": "Reviewed scoped Chapel concept, source-backed interior, explicit placement authority and sign separation; retained unrelated decisions and accurate pending publication status. Actual runtime and reader checks are recorded separately."
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "a12a35484a4acef125779a6ab50df30e99e4ab6674b52cb2aa237f3c2523b1f7",
+          "sha256": "d98a38914e9cf27658a47b778dab3ec3bf2ec30cedcdd2533c0b0faec530bc3b",
           "reviewedAt": "2026-09-10",
-          "method": "AGENTS and handoff identify existing game checkout, confirmed target, retained follow-ups and source-bound release requirements. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately. Verified live ECC campus release: source/asset hashes and public map, EST return, original-game link and mobile checks; next Chapel concept."
+          "method": "Reviewed final Chapel/EST/entry scope, exact video reuse, verified source and actual desktop/mobile screenshots; unrelated protected decisions retained."
         },
         {
           "path": "docs/production/arrival-playable-release-20260910.md",
@@ -5100,9 +5124,9 @@
         },
         {
           "path": "docs/production/current-state.md",
-          "sha256": "ffc7bbd96410a65cf22fb4c878a059df28d767c7092453e02f0e8ae7805e8116",
+          "sha256": "1c6f7dd8857a1470dbfc8ee51926d17c0045aff1d752dbdccaf80953530ae4e0",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed correction from old paving-only state to release 36 and specification-only next step."
+          "method": "Reviewed scoped Chapel concept, source-backed interior, explicit placement authority and sign separation; retained unrelated decisions and accurate pending publication status. Actual runtime and reader checks are recorded separately."
         },
         {
           "path": "docs/production/game-hosting-correction-20260910.md",
@@ -5718,15 +5742,15 @@
         },
         {
           "path": "docs/production/ecc-campus-hub-specification-20260910.md",
-          "sha256": "0f88a6ff7216ec9e71540d75050b2eb2667cf8bcab4cef51ba55b3daa1e9f923",
+          "sha256": "b611ee7d10c26130b9cd7aadabc2ea893cff1e85ad0e4bc3533d06e69e304ced",
           "reviewedAt": "2026-09-10",
-          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately. Verified live ECC campus release: source/asset hashes and public map, EST return, original-game link and mobile checks; next Chapel concept."
+          "method": "Reviewed final Chapel/EST/entry scope, exact video reuse, verified source and actual desktop/mobile screenshots; unrelated protected decisions retained."
         },
         {
           "path": "scripts/render-specification.mjs",
-          "sha256": "4aad18df7ac87c7693515268fe1832744b657067b771f9fac22ffb32fed7607f",
+          "sha256": "4e3b6ae0bca6ee73bda5402f7a9ed04304cc4e98722bb9db0149c8475fe8dd6d",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed deterministic escaped document renderer; nine sections, five responsive tables and loaded image checked in browser."
+          "method": "Reviewed final Chapel/EST/entry scope, exact video reuse, verified source and actual desktop/mobile screenshots; unrelated protected decisions retained."
         },
         {
           "path": "public/evidence/ecc-campus-hub-20260910/recognition-sheet.jpg",
@@ -5749,6 +5773,462 @@
       ]
     },
     "changes": [
+      {
+        "changeId": "CE-CHANGE-20260910-39",
+        "title": "ECC Chapel, arrival sign and paving, and EST wall briefing",
+        "types": [
+          "building",
+          "visual",
+          "implementation",
+          "decision",
+          "activity",
+          "release"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Recognisable, peaceful Chapel interior from supplied photos, with quiet reflection and reliable campus return; stable legacy sign surfaces.",
+        "before": "ECC Chapel exterior only; legacy sign panels and posts overlap.",
+        "after": "Walkable ECC Chapel, corrected original-game sign/posts, cleared entry pavers and existing four-system EST Lab video on rear wall; existing campus and avatar retained",
+        "source": "Tania explicitly authorised interior construction and placement plus sign repair, then requested the 3D version match the accepted A Place to Pause concept as closely as possible. Tania additionally requests fixing Career Empire fence posts, removing blue entry-paver markers and placing the existing four-system EST Lab video on the wall behind the four PCs in the same upload.",
+        "owner": "Career Empire environment developer",
+        "nextAction": "Publish the reviewed combined update and verify live hashes and Chapel/EST flows.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Shared ECC card presents the accepted Chapel target, local construction status and next release step.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Shared ECC card presents the accepted Chapel target, local construction status and next release step. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Production plan advances to authorised Chapel interior and sign repair; Mass/wellbeing expansion remains later.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Production plan advances to authorised Chapel interior and sign repair; Mass/wellbeing expansion remains later. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Record 39 preserves original photo request, explicit placement authority and subsequent close-fidelity direction, following completed exterior record 38.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Record 39 preserves original photo request, explicit placement authority and subsequent close-fidelity direction, following completed exterior record 38. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Canonical AGENTS, README, current-state and concise rolling handoff identify source, current Chapel work and retained boundaries.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical AGENTS, README, current-state and concise rolling handoff identify source, current Chapel work and retained boundaries. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Specification HTML/Markdown and public reader records regenerate from the same Chapel source.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Specification HTML/Markdown and public reader records regenerate from the same Chapel source. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish the reviewed Blueprint and source-bound game update, then verify independent live hashes and entry/return.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await source-grounded interior build and validation.",
+              "date": ""
+            },
+            "nextAction": "Review this surface for Chapel entry/reflection/return and sign repair."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Compact Chapel interior keeps altar/cross anchor, 44 individual chairs, open central aisle, side seats and quiet bench; both exterior outer buildings retained. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Compact Chapel interior keeps altar/cross anchor, 44 individual chairs, open central aisle, side seats and quiet bench; both exterior outer buildings retained. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Chapel is an independent room entered from the existing exterior or destination control; town geometry remains except sign separation. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Chapel is an independent room entered from the existing exterior or destination control; town geometry remains except sign separation. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Accepted generated concept is displayed and labelled separately from real playable screenshots; source photographs define recognition cues.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Accepted generated concept is displayed and labelled separately from real playable screenshots; source photographs define recognition cues. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "New concept image and two original unchanged Chapel JPEGs are documented with hashes; existing video and poster pairs unchanged. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "New concept image and two original unchanged Chapel JPEGs are documented with hashes; existing video and poster pairs unchanged. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "CE-ECC-CHAPEL-01 records editable native source, original cross/tree textures, procedural timber/chairs and exact provenance; existing avatar/building GLBs reused unchanged. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "CE-ECC-CHAPEL-01 records editable native source, original cross/tree textures, procedural timber/chairs and exact provenance; existing avatar/building GLBs reused unchanged. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Chapel entry opens the room, optional untimed reflection pauses controls, close resumes and Town returns to the exterior; no personal writing or reward stored. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Chapel entry opens the room, optional untimed reflection pauses controls, close resumes and Town returns to the exterior; no personal writing or reward stored. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Native Chapel source and lazy loading, camera bounds, collisions, reflection UI and sign gaps are subject to actual desktop/mobile regression and visual checks. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Native Chapel source and lazy loading, camera bounds, collisions, reflection UI and sign gaps are subject to actual desktop/mobile regression and visual checks. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Explicit placement authority and accepted concept supersede the former pending Chapel approval gate; no unrelated approvals inferred. Same-upload sign/posts, marker removal and EST video are explicitly requested.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Explicit placement authority and accepted concept supersede the former pending Chapel approval gate; no unrelated approvals inferred. Same-upload sign/posts, marker removal and EST video are explicitly requested. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Character source, rig, animation and profiles unchanged against live 9c593f62; separate gait and wardrobe work retained.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Character source, rig, animation and profiles unchanged against live 9c593f62; separate gait and wardrobe work retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "No teacher UI, authentication or evidence-store source changed; reflection collects no personal response.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No teacher UI, authentication or evidence-store source changed; reflection collects no personal response. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Existing private recovery and game-linked checkout are retained; public generated reader is separate from game release.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing private recovery and game-linked checkout are retained; public generated reader is separate from game release. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "No source edition, cohort or point mapping changed; optional reflection is not claimed as curriculum evidence.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No source edition, cohort or point mapping changed; optional reflection is not claimed as curriculum evidence. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "New optional Chapel destination joins existing Home Base and EST, with a clear campus return and unchanged Studio save flow. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "New optional Chapel destination joins existing Home Base and EST, with a clear campus return and unchanged Studio save flow. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "No scored task, timed test or assessment evidence altered; quiet reflection is optional and ungraded.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No scored task, timed test or assessment evidence altered; quiet reflection is optional and ungraded. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Actual Chapel 4/6/8 and Chapel.jpg underpin material/seating/cross/tree cues; generated target is explicitly interpretive. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "docs/production/ecc-campus-hub-specification-20260910.md",
+              "private/production-evidence/2026-09-10/chapel-v1/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual Chapel 4/6/8 and Chapel.jpg underpin material/seating/cross/tree cues; generated target is explicitly interpretive. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.",
+              "date": "2026-09-10"
+            },
+            "nextAction": "Preserve verified scope and include in the authorised release."
+          }
+        ],
+        "projectChanges": {
+          "game-live": {
+            "AGENTS.md": "100644:8d5008f4c4d57424ac1ac4c6cc5fbdd41f608e40",
+            "docs/production/chapel-reflection-20260910.md": "100644:22115717d76c22fcc1b222b62ad2542525a4573d",
+            "playable-3d/app.js": "100644:f387d765a9bea8ce334377360a762b6676080c54",
+            "playable-3d/world.js": "100644:f3d8f2a553d34c9b8db492dd7c5d42c95ef2298c",
+            "playable-3d/chapel.js": "100644:bea0a1c23521722b309a0231bf4ce62afc56e041",
+            "playable-3d/index.html": "100644:82a90197aa8919d1d729c0ff8863bdbfdebf7d93",
+            "playable-3d/style.css": "100644:6df710b74346814577224da96528927109fd54cb",
+            "playable-3d/release-manifest.json": "100644:a4868129f56a4e98445f1ac9cc04b7f53d7bd329",
+            "playable-3d/assets/chapel/altar-reference.jpg": "100644:b366b58682262d32615a94a0b03a83512d3a4a6f",
+            "playable-3d/assets/chapel/tree-glass-reference.jpg": "100644:17e1bf8075c84789ac8b3748670fb63b2a1a1ee9",
+            "tests/e2e/chapel.spec.js": "100644:d703ca93ae7940b762d1b90cb4cf3f72d518137c",
+            "playable-3d/arrival-precinct.js": "100644:90f5e25c4844b1dbcb9a330a6d29a1bac2e2e805",
+            "playable-3d/est-wall-video.js": "100644:3ed2549cd649abd8c77d3f8723686acdaacd6789",
+            "tests/e2e/est-wall-video.spec.js": "100644:bf94e7a7f132fc2296c81cc6f93d593e377e6bf3"
+          }
+        }
+      },
       {
         "changeId": "CE-CHANGE-20260910-38",
         "title": "ECC campus, right-hand EST Prep and original-game access",

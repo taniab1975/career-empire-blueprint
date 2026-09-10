@@ -2,9 +2,378 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: ECC source-backed specification, accepted exterior, right-hand EST Prep and original-game access
+Release scope: Walkable ECC Chapel, corrected original-game sign/posts, cleared entry pavers and existing four-system EST Lab video on rear wall; existing campus and avatar retained
 
-Combined game release authorised and locally implemented; independent publication verification pending. Chapel interior follows separately. Historical intake, gait, lighting and hosted timing follow-ups remain open.
+Combined Chapel, sign/posts, clear entry path and EST video locally verified; authorised publication pending. Historical intake and separate gait, lighting and hosted-test follow-ups remain open.
+
+## CE-CHANGE-20260910-39 — ECC Chapel, arrival sign and paving, and EST wall briefing
+
+Integration: **ready-for-publication**. Types: building, visual, implementation, decision, activity, release. Owner: Career Empire environment developer.
+
+**Objective:** Recognisable, peaceful Chapel interior from supplied photos, with quiet reflection and reliable campus return; stable legacy sign surfaces.
+
+**Before:** ECC Chapel exterior only; legacy sign panels and posts overlap.
+
+**Required result:** Walkable ECC Chapel, corrected original-game sign/posts, cleared entry pavers and existing four-system EST Lab video on rear wall; existing campus and avatar retained
+
+**Source:** Tania explicitly authorised interior construction and placement plus sign repair, then requested the 3D version match the accepted A Place to Pause concept as closely as possible. Tania additionally requests fixing Career Empire fence posts, removing blue entry-paver markers and placing the existing four-system EST Lab video on the wall behind the four PCs in the same upload.
+
+**Next:** Publish the reviewed combined update and verify live hashes and Chapel/EST flows.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Shared ECC card presents the accepted Chapel target, local construction status and next release step.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Shared ECC card presents the accepted Chapel target, local construction status and next release step. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Production plan advances to authorised Chapel interior and sign repair; Mass/wellbeing expansion remains later.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / Production plan advances to authorised Chapel interior and sign repair; Mass/wellbeing expansion remains later. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Record 39 preserves original photo request, explicit placement authority and subsequent close-fidelity direction, following completed exterior record 38.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Record 39 preserves original photo request, explicit placement authority and subsequent close-fidelity direction, following completed exterior record 38. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Canonical AGENTS, README, current-state and concise rolling handoff identify source, current Chapel work and retained boundaries.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Canonical AGENTS, README, current-state and concise rolling handoff identify source, current Chapel work and retained boundaries. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Specification HTML/Markdown and public reader records regenerate from the same Chapel source.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Specification HTML/Markdown and public reader records regenerate from the same Chapel source. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish the reviewed Blueprint and source-bound game update, then verify independent live hashes and entry/return.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Await source-grounded interior build and validation.
+
+
+Next: Review this surface for Chapel entry/reflection/return and sign repair.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Compact Chapel interior keeps altar/cross anchor, 44 individual chairs, open central aisle, side seats and quiet bench; both exterior outer buildings retained. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / Compact Chapel interior keeps altar/cross anchor, 44 individual chairs, open central aisle, side seats and quiet bench; both exterior outer buildings retained. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Chapel is an independent room entered from the existing exterior or destination control; town geometry remains except sign separation. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / Chapel is an independent room entered from the existing exterior or destination control; town geometry remains except sign separation. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Accepted generated concept is displayed and labelled separately from real playable screenshots; source photographs define recognition cues.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / Accepted generated concept is displayed and labelled separately from real playable screenshots; source photographs define recognition cues. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+New concept image and two original unchanged Chapel JPEGs are documented with hashes; existing video and poster pairs unchanged. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / New concept image and two original unchanged Chapel JPEGs are documented with hashes; existing video and poster pairs unchanged. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+CE-ECC-CHAPEL-01 records editable native source, original cross/tree textures, procedural timber/chairs and exact provenance; existing avatar/building GLBs reused unchanged. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / CE-ECC-CHAPEL-01 records editable native source, original cross/tree textures, procedural timber/chairs and exact provenance; existing avatar/building GLBs reused unchanged. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Chapel entry opens the room, optional untimed reflection pauses controls, close resumes and Town returns to the exterior; no personal writing or reward stored. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Chapel entry opens the room, optional untimed reflection pauses controls, close resumes and Town returns to the exterior; no personal writing or reward stored. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Native Chapel source and lazy loading, camera bounds, collisions, reflection UI and sign gaps are subject to actual desktop/mobile regression and visual checks. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / Native Chapel source and lazy loading, camera bounds, collisions, reflection UI and sign gaps are subject to actual desktop/mobile regression and visual checks. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Decisions and superseded rules — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Explicit placement authority and accepted concept supersede the former pending Chapel approval gate; no unrelated approvals inferred. Same-upload sign/posts, marker removal and EST video are explicitly requested.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / Explicit placement authority and accepted concept supersede the former pending Chapel approval gate; no unrelated approvals inferred. Same-upload sign/posts, marker removal and EST video are explicitly requested. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Avatar and wardrobe references — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Character source, rig, animation and profiles unchanged against live 9c593f62; separate gait and wardrobe work retained.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / Character source, rig, animation and profiles unchanged against live 9c593f62; separate gait and wardrobe work retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+No teacher UI, authentication or evidence-store source changed; reflection collects no personal response.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / No teacher UI, authentication or evidence-store source changed; reflection collects no personal response. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Existing private recovery and game-linked checkout are retained; public generated reader is separate from game release.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Existing private recovery and game-linked checkout are retained; public generated reader is separate from game release. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Curriculum and reciprocal mappings — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+No source edition, cohort or point mapping changed; optional reflection is not claimed as curriculum evidence.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: passed / No source edition, cohort or point mapping changed; optional reflection is not claimed as curriculum evidence. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+New optional Chapel destination joins existing Home Base and EST, with a clear campus return and unchanged Studio save flow. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: passed / New optional Chapel destination joins existing Home Base and EST, with a clear campus return and unchanged Studio save flow. Entry teal cones removed. Rear EST wall screen plays the existing four-system briefing with user controls and pauses on exit; phone camera fits full video. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Year plan and assessment — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+No scored task, timed test or assessment evidence altered; quiet reflection is optional and ungraded.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: passed / No scored task, timed test or assessment evidence altered; quiet reflection is optional and ungraded. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Actual Chapel 4/6/8 and Chapel.jpg underpin material/seating/cross/tree cues; generated target is explicitly interpretive. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained.
+
+Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Actual Chapel 4/6/8 and Chapel.jpg underpin material/seating/cross/tree cues; generated target is explicitly interpretive. Reused unchanged 60-second EST Lab Systems MP4 and poster from the existing game; exact source hash retained. Verified local source, gameplay and saved desktop/mobile views; publication verification follows.
+
+- [Evidence](docs/production/ecc-campus-hub-specification-20260910.md)
+- [Evidence](private/production-evidence/2026-09-10/chapel-v1/)
+
+Next: Preserve verified scope and include in the authorised release.
 
 ## CE-CHANGE-20260910-38 — ECC campus, right-hand EST Prep and original-game access
 
