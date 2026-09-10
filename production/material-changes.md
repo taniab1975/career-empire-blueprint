@@ -8,17 +8,17 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** World Environment & Ecosystem / Buildings & ECC Campus
 - **source:** Tania explicitly authorised interior construction and placement plus sign repair, then requested the 3D version match the accepted A Place to Pause concept as closely as possible. Tania additionally requests fixing Career Empire fence posts, removing blue entry-paver markers and placing the existing four-system EST Lab video on the wall behind the four PCs in the same upload.
 - **owner:** Blueprint maintainer / environment designer
-- **status:** Blueprint integrated and published; game upload next
+- **status:** Live and independently verified
 - **rationale:** Extend the accepted ECC exterior with a peaceful, recognisable Chapel interior, retaining the actual coloured cross and tree-glass imagery; remove coplanar sign overlap.
 - **dependencies:** CE-CHANGE-20260910-38
 - **supersededRecord:** None
 - **designApproval:** Tania explicitly authorised building and placement, then accepted the generated A Place to Pause board as the visual target: amazing please make the 3d image as close as possible to that version.
 - **implementation:** Walkable ECC Chapel, corrected original-game sign/posts, cleared entry pavers and existing four-system EST Lab video on rear wall; existing campus and avatar retained
-- **deployment:** Local implementation; release validation and live publication in progress.
-- **testing:** Six unit tests and 35 browser scenarios checked across main run and focused Chapel/EST/arrival retests. Full-video phone fit, play/pause/mute/restart/exit, real routes and sign gaps verified.
+- **deployment:** Live game 04c0351df1c0a6e69a2ee69346047e381da83985; Pages deployment succeeded; exact source/media hashes and desktop/mobile live checks passed.
+- **testing:** Six unit tests and 35 browser scenarios checked locally across main run/retests; live Chapel/EST playback and return, both buildings and phone layout verified. Hosted CI tracked separately.
 - **taniaAcceptance:** Explicit authority to build and place interior once ready, plus fix sign.
-- **evidence:** docs/production/ecc-campus-hub-specification-20260910.md / private/production-evidence/2026-09-10/chapel-v1/asset-provenance.json / public/evidence/chapel-20260910/chapel-built-desktop.png
-- **nextAction:** Publish the reviewed combined update and verify live hashes and Chapel/EST flows.
+- **evidence:** docs/production/ecc-campus-hub-specification-20260910.md / private/production-evidence/2026-09-10/chapel-v1/asset-provenance.json / public/evidence/chapel-20260910/chapel-built-desktop.png / private/production-evidence/2026-09-10/chapel-v1/game-live/hashes.json / private/production-evidence/2026-09-10/chapel-v1/game-live/checks.json
+- **nextAction:** Review the live Chapel and EST briefing; separately scope any additional Chapel activities.
 
 ## CE-CHANGE-20260910-38 — ECC campus, right-hand EST Prep and original-game access
 

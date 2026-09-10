@@ -259,3 +259,14 @@ Editable source: playable-3d/est-wall-video.js, world.js, app.js and arrival-pre
 Final additions: exact EST Lab video plays on the rear wall with pause/restart/mute and automatically pauses on leaving. Desktop/mobile playback and Chapel/arrival regression checks pass. Phone camera fits the complete video. Four entry-path teal cones removed; sign posts remain behind both separated panels. Full set: six unit tests and 35 browser scenarios checked across the main run and focused retests; earlier failed checks/logs retained. Publication remains pending.
 
 ![Actual EST rear-wall video](/career-empire-blueprint/evidence/chapel-20260910/est-wall-1440.png)
+
+
+## Verified live Chapel and EST update — 10 September 2026
+
+CE-CHANGE-20260910-39 is live at game 04c0351df1c0a6e69a2ee69346047e381da83985. The photo-backed quiet Chapel, stable Original Career Empire sign/posts, removal of four blue entry-path markers and existing four-system EST Lab video behind the four PCs are published together. 28 independently fetched game/media hashes match the reviewed files. Actual live desktop and phone checks passed for Chapel entry/reflection/return, EST video playback and pause on exit, both retained outer buildings and no horizontal overflow. Pages deployment 34473855591 succeeded. Hosted CI 34473856200 is tracked separately; no all-green hosted result is claimed here.
+
+![Actual live Chapel](/career-empire-blueprint/evidence/chapel-20260910/chapel-live.png)
+
+![Actual live EST wall video](/career-empire-blueprint/evidence/chapel-20260910/est-video-live.png)
+
+The accepted concept remains a visual target; native geometry and real-time lighting are simpler than its photorealistic rendering. The Chapel contains real navigable geometry and the original cross/tree imagery. No Mass simulation, seated pose, personal reflection storage, economy reward or assessment change is included. Next: Tania reviews the live space; any further Chapel activity is separately scoped. Preserve gait, lighting and the hosted-test follow-up. Closing scan: 11 folders/six worktrees, zero coverage failures, 86 retained observations and three older pending changes. No global refresh checkpoint advancement.

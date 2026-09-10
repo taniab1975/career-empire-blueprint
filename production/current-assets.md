@@ -8,7 +8,7 @@ Direction and candidate production approved; finished precinct not accepted
 
 Warm limestone or pale brick, navy framing, timber fins, glass, native gardens and shaded paths. Teal is restrained wayfinding and interaction. Character-level walking views lead; aerial views explain context. The first quality slice is Avatar Studio with its garden, approach and plaza edge.
 
-ECC exterior and right-hand EST Prep are live. The Chapel A Place to Pause concept is accepted as the visual target; interior construction and placement with sign repair are explicitly authorised and in validation. Preserve separate gait and lighting follow-ups.
+ECC exterior, right-hand EST, photo-backed Chapel reflection interior, clear arrival path and EST wall briefing are live. The accepted A Place to Pause concept remains the Chapel fidelity target; actual game views show simpler native geometry and real-time lighting. Preserve separate gait and lighting follow-ups.
 
 The older civic concepts and prompt pack below are retained history and supporting references. They do not override this campus direction or approve new buildings, RPG mechanics, an economy formula or a faithful reconstruction of ECC.
 
@@ -109,7 +109,7 @@ Generated from data/style-guide.json in the blueprint repository. This is a port
 Current amendment: ECC Career Campus + Campus-to-Career Corridor
 Direction and candidate production approved; finished precinct not accepted
 Warm limestone or pale brick, navy framing, timber fins, glass, native gardens and shaded paths. Teal is restrained wayfinding and interaction. Character-level walking views lead; aerial views explain context. The first quality slice is Avatar Studio with its garden, approach and plaza edge.
-ECC exterior and right-hand EST Prep are live. The Chapel A Place to Pause concept is accepted as the visual target; interior construction and placement with sign repair are explicitly authorised and in validation. Preserve separate gait and lighting follow-ups.
+ECC exterior, right-hand EST, photo-backed Chapel reflection interior, clear arrival path and EST wall briefing are live. The accepted A Place to Pause concept remains the Chapel fidelity target; actual game views show simpler native geometry and real-time lighting. Preserve separate gait and lighting follow-ups.
 The older civic concepts and prompt pack below are retained history and supporting references. They do not override this campus direction or approve new buildings, RPG mechanics, an economy formula or a faithful reconstruction of ECC.
 
 Career Empire should feel like a place a young person wants to step into: recognisable, welcoming and full of possibility. Its people have warmth and personality; its buildings have substance, purpose and life inside them. Contemporary architecture, rich planting, natural materials and carefully placed technology create an optimistic near-future town. The camera brings us close enough to care. Light invites us towards an opportunity; movement makes a discovery feel earned. The world can struggle, recover and flourish without losing its identity. The ambition is the depth, craft and emotional presence of the supplied ElevenLabs Town Hall films, translated into a coherent, playable 3D world.

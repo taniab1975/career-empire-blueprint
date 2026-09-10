@@ -2,9 +2,9 @@
 
 The active phase is **World Environment & Ecosystem**. The same canonical productionPlan drives Start Here, Delivery and Roadmap.
 
-- **Live:** ECC exterior, retained Careers Advice Centre and right-hand EST Prep, game 9c593f62. Original Career Empire sign/link is present; overlapping sign geometry is being corrected.
-- **Saved candidate:** separate sky and lighting comparison remains unpublished and unaccepted.
-- **Next:** validate and publish the explicitly authorised Chapel interior and sign correction (record 39). The accepted A Place to Pause concept guides the actual 3D room.
+- **Live:** ECC Chapel, sign/posts and paving clean-up, EST rear-wall briefing, retained campus and right-hand EST. Game 04c0351df1c0a6e69a2ee69346047e381da83985; exact hashes and actual desktop/mobile checks pass.
+- **Saved candidate:** separate lighting comparison remains unpublished.
+- **Next:** review the placed Chapel and EST video; scope further Chapel activities separately.
 - **Visual targets:** approved campus/corridor/Studio concepts remain separate from the current live screenshot. Ten whole-item candidates exist; collective appearance acceptance remains open. Blazer stays paused.
 - **Workflow:** one shared plan, worktree discovery and protected active copies. Historical intake is retained for scoped reconciliation; this is not blanket completion of old source work.
 - **Learning:** teacher/EST identity → evidence → review → return loop remains unverified end to end. Cohort/edition, first learning pilot and final progression choices remain open.

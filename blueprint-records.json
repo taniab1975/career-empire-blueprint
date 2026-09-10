@@ -12,7 +12,7 @@
     "currentEstPrepLabel": "Open current EST Prep module",
     "recordHref": "/blueprint-records.json",
     "recordLabel": "Download Blueprint record",
-    "screenshot": "/evidence/ecc-campus-hub-20260910/live/campus.png",
+    "screenshot": "/evidence/chapel-20260910/chapel-live.png",
     "screenshotAlt": "10 September live landscaped campus: paths, lawns, approved planting and selected Careers Advice Centre / First Workplace; town hall retained",
     "conceptVideoHref": "/references/style/town-hall-entry-start-here.mp4",
     "conceptVideoPoster": "/references/style/entry-original-poster.jpg",
@@ -192,9 +192,9 @@
       "phase": "World Environment & Ecosystem",
       "activeMilestoneId": "CE-ENV-01",
       "objective": "Establish the approved visual and environmental system for the Career Empire campus.",
-      "now": "ECC exterior and right-hand EST Prep remain live; the authorised Chapel interior and sign repair are being validated locally.",
-      "next": "Upload the authorised source-bound game candidate and independently verify the live Chapel, sign/entry fixes and EST video.",
-      "then": "Review the placed Chapel in the live game; scope any further wellbeing or Mass activities separately.",
+      "now": "ECC Chapel reflection interior, repaired sign/posts, clear arrival paving and EST wall video are live and independently verified.",
+      "next": "Review the live Chapel and EST briefing; separately scope any additional Chapel activities.",
+      "then": "Agree any further wellbeing/reflection or Mass activity scope before extending the Chapel.",
       "later": "Avatar system → experiences → curriculum coverage and validation.",
       "sequence": [
         "World Environment & Ecosystem",
@@ -215,12 +215,12 @@
       "liveEvidence": {
         "url": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
         "repository": "https://github.com/Emmanuel-ICT-Support/GTCEM-Career-Empire",
-        "sourceCommit": "9c593f62ead4834df0b74af420c82b32d18a586b",
+        "sourceCommit": "04c0351df1c0a6e69a2ee69346047e381da83985",
         "verifiedAt": "2026-09-10",
-        "method": "Independent live source/asset hashes and campus, EST entry/return, original-game new tab and mobile checks passed.",
-        "image": "/evidence/ecc-campus-hub-20260910/live/campus.png",
-        "imageSha256": "408803a061a671da8e39c9d04a2797feffab05158dbc1a914c4fb730f5332052",
-        "caption": "Actual live ECC campus with both outer buildings retained and right-hand EST Prep. Separate lighting comparison remains unpublished."
+        "method": "Independent game/media hashes and desktop/mobile Chapel reflection/return, EST wall-video playback/exit and retained buildings verified.",
+        "image": "/evidence/chapel-20260910/chapel-live.png",
+        "imageSha256": "a33196806e54f5323922040da4428e99f03f0aedccdec179d40506e8c27e015b",
+        "caption": "Actual live ECC Chapel reflection interior. Separate lighting comparison remains unpublished."
       }
     },
     "currentStep": {
@@ -536,7 +536,7 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "Blueprint publication is verified separately from the live game. ECC exterior and right-hand EST are live. Chapel interior construction and placement are explicitly authorised, with local validation underway before the combined sign repair release. Historical intake and separate gait/lighting/hosted CI follow-ups remain open.",
+      "summary": "Blueprint publication is verified separately from the live game. The ECC Chapel, corrected sign/posts, clear entry paving and EST wall briefing are now live and independently verified. Historical intake, gait, lighting and hosted-test follow-ups remain open.",
       "facts": [
         {
           "label": "ECC CAMPUS / LIVE AND VERIFIED",
@@ -816,7 +816,7 @@
           "domain": "World Environment & Ecosystem / Buildings & ECC Campus",
           "source": "Tania explicitly authorised interior construction and placement plus sign repair, then requested the 3D version match the accepted A Place to Pause concept as closely as possible. Tania additionally requests fixing Career Empire fence posts, removing blue entry-paver markers and placing the existing four-system EST Lab video on the wall behind the four PCs in the same upload.",
           "owner": "Blueprint maintainer / environment designer",
-          "status": "Blueprint integrated and published; game upload next",
+          "status": "Live and independently verified",
           "rationale": "Extend the accepted ECC exterior with a peaceful, recognisable Chapel interior, retaining the actual coloured cross and tree-glass imagery; remove coplanar sign overlap.",
           "dependencies": [
             "CE-CHANGE-20260910-38"
@@ -824,15 +824,17 @@
           "supersededRecord": null,
           "designApproval": "Tania explicitly authorised building and placement, then accepted the generated A Place to Pause board as the visual target: amazing please make the 3d image as close as possible to that version.",
           "implementation": "Walkable ECC Chapel, corrected original-game sign/posts, cleared entry pavers and existing four-system EST Lab video on rear wall; existing campus and avatar retained",
-          "deployment": "Local implementation; release validation and live publication in progress.",
-          "testing": "Six unit tests and 35 browser scenarios checked across main run and focused Chapel/EST/arrival retests. Full-video phone fit, play/pause/mute/restart/exit, real routes and sign gaps verified.",
+          "deployment": "Live game 04c0351df1c0a6e69a2ee69346047e381da83985; Pages deployment succeeded; exact source/media hashes and desktop/mobile live checks passed.",
+          "testing": "Six unit tests and 35 browser scenarios checked locally across main run/retests; live Chapel/EST playback and return, both buildings and phone layout verified. Hosted CI tracked separately.",
           "taniaAcceptance": "Explicit authority to build and place interior once ready, plus fix sign.",
           "evidence": [
             "docs/production/ecc-campus-hub-specification-20260910.md",
             "private/production-evidence/2026-09-10/chapel-v1/asset-provenance.json",
-            "public/evidence/chapel-20260910/chapel-built-desktop.png"
+            "public/evidence/chapel-20260910/chapel-built-desktop.png",
+            "private/production-evidence/2026-09-10/chapel-v1/game-live/hashes.json",
+            "private/production-evidence/2026-09-10/chapel-v1/game-live/checks.json"
           ],
-          "nextAction": "Publish the reviewed combined update and verify live hashes and Chapel/EST flows."
+          "nextAction": "Review the live Chapel and EST briefing; separately scope any additional Chapel activities."
         },
         {
           "id": "CE-CHANGE-20260910-38",
@@ -1827,13 +1829,13 @@
       "id": "CE-ECC-HUB-01",
       "changeId": "CE-CHANGE-20260910-39",
       "title": "ECC Chapel — a place to pause",
-      "status": "Locally verified; publication pending",
-      "summary": "Tania authorised the Chapel interior and live placement, and selected the warm timber, cream seating and coloured-cross concept as the visual target. The existing campus and right-hand EST Prep are retained.",
+      "status": "Live and independently verified",
+      "summary": "The peaceful Chapel is live, with photo-backed cross/tree imagery, cream seating and a central aisle. The sign/posts are corrected, blue entry markers removed, and the original four-system EST Lab video plays on the rear wall.",
       "functions": "Enter the Chapel, explore the central aisle and side seating, pause for quiet reflection, then return to campus. Reflection records no personal writing and adds no points or wellbeing claims. EST keeps its existing learning modules. The original four-system EST Lab briefing plays on the rear wall behind the four PCs, with playback controls and automatic pause on exit.",
-      "nextAction": "Upload the authorised source-bound game candidate and independently verify the live Chapel, sign/entry fixes and EST video.",
+      "nextAction": "Review the live Chapel and EST briefing; separately scope any additional Chapel activities.",
       "href": "/production/ecc-campus-hub-specification-20260910.html",
-      "image": "/evidence/chapel-20260910/chapel-built-desktop.png",
-      "imageCaption": "Actual playable 3D Chapel, locally verified. Accepted concept and original photo evidence are in the complete specification.",
+      "image": "/evidence/chapel-20260910/chapel-live.png",
+      "imageCaption": "Actual live playable Chapel; accepted concept and source photos are documented in the specification.",
       "boundary": "Authorised Chapel, sign/posts, clear entry paving and reused EST video release. No Mass event, new reward or assessment change. Gait, lighting and hosted CI follow-ups remain open."
     }
   },
@@ -4269,7 +4271,7 @@
       "title": "ECC Career Campus + Campus-to-Career Corridor",
       "status": "Direction and candidate production approved; finished precinct not accepted",
       "summary": "Warm limestone or pale brick, navy framing, timber fins, glass, native gardens and shaded paths. Teal is restrained wayfinding and interaction. Character-level walking views lead; aerial views explain context. The first quality slice is Avatar Studio with its garden, approach and plaza edge.",
-      "sequence": "ECC exterior and right-hand EST Prep are live. The Chapel A Place to Pause concept is accepted as the visual target; interior construction and placement with sign repair are explicitly authorised and in validation. Preserve separate gait and lighting follow-ups.",
+      "sequence": "ECC exterior, right-hand EST, photo-backed Chapel reflection interior, clear arrival path and EST wall briefing are live. The accepted A Place to Pause concept remains the Chapel fidelity target; actual game views show simpler native geometry and real-time lighting. Preserve separate gait and lighting follow-ups.",
       "boundary": "The older civic concepts and prompt pack below are retained history and supporting references. They do not override this campus direction or approve new buildings, RPG mechanics, an economy formula or a faithful reconstruction of ECC.",
       "evidenceHref": "/production/visual-register.md",
       "source": "Recovered exact originals from archived task 01a0808f-c02e-7a40-af94-7538beb5ab57: image events 2483, 2490, 2760; user responses 9 September 07:05 and 07:52 UTC and later approved production sequence."
@@ -4830,7 +4832,7 @@
         "CE-CHANGE-20260910-39"
       ],
       "scope": "Walkable ECC Chapel, corrected original-game sign/posts, cleared entry pavers and existing four-system EST Lab video on rear wall; existing campus and avatar retained",
-      "disclosure": "Blueprint integration and public reader verified. Authorised game upload follows; historical intake, gait, lighting and hosted-test follow-ups remain open.",
+      "disclosure": "Combined game update and Blueprint integration verified. Historical intake, gait, lighting and hosted-test follow-ups remain open.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -5012,15 +5014,15 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "253c43a9603a66963cbc8adbd12591ef90afbe56842af9cff440950af573d7f1",
+          "sha256": "e4d13b790013308e2fefd3696d0aff4c0aa9f5a6a06f68e2c4f2049cf68a0467",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed verified Blueprint publication evidence and accurate pending game-upload state; source-bound game file versions unchanged."
+          "method": "Reviewed verified live game outcome, exact hashes, actual Chapel/EST screenshots and retained limits. Completed game source binding preserved unchanged."
         },
         {
           "path": "README.md",
-          "sha256": "ea35341be6659922d6b230c8fbf1e1bb2082e54347768816956703c48e2bc5b8",
+          "sha256": "c88e4fc4f1f6c177558a9e0334f752235852413cbb74d9d29537bf43c6cd1bb4",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed scoped Chapel concept, source-backed interior, explicit placement authority and sign separation; retained unrelated decisions and accurate pending publication status. Actual runtime and reader checks are recorded separately."
+          "method": "Reviewed verified live game outcome, exact hashes, actual Chapel/EST screenshots and retained limits. Completed game source binding preserved unchanged."
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -5082,21 +5084,21 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "e4ac593a575563a73636d66c5a84ecf363f096dc48b48d6073a07a8ecb018841",
+          "sha256": "fc12d00d11884a830fc3a0a1fabfe7a227dbceedaca5ce04374b2d1322ce18ec",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed verified Blueprint publication evidence and accurate pending game-upload state; source-bound game file versions unchanged."
+          "method": "Reviewed verified live game outcome, exact hashes, actual Chapel/EST screenshots and retained limits. Completed game source binding preserved unchanged."
         },
         {
           "path": "data/style-guide.json",
-          "sha256": "a7bfbc3d680b33f4d7e98062f00320d2bc0c1122f2a189ff5e0ceee5e950e858",
+          "sha256": "f105387050ec64e5992429c1932862101488f3a2c95d547fe86e1158ee6209ba",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed scoped Chapel concept, source-backed interior, explicit placement authority and sign separation; retained unrelated decisions and accurate pending publication status. Actual runtime and reader checks are recorded separately."
+          "method": "Reviewed verified live game outcome, exact hashes, actual Chapel/EST screenshots and retained limits. Completed game source binding preserved unchanged."
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "ee336cf3fb03e27839b64b161ce079b41e773e07ba38c1b83f83b57bb1ff3f9b",
+          "sha256": "017cea3a7fec54aceedb2e053e8a4b84504402123025acc0f7106dcfb291255c",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed verified Blueprint publication evidence and accurate pending game-upload state; source-bound game file versions unchanged."
+          "method": "Reviewed verified live game outcome, exact hashes, actual Chapel/EST screenshots and retained limits. Completed game source binding preserved unchanged."
         },
         {
           "path": "docs/production/arrival-playable-release-20260910.md",
@@ -5124,9 +5126,9 @@
         },
         {
           "path": "docs/production/current-state.md",
-          "sha256": "1c6f7dd8857a1470dbfc8ee51926d17c0045aff1d752dbdccaf80953530ae4e0",
+          "sha256": "d06c4478fdd11937b61dd2c542f6600a6f29ecfb7ae09bcf20a6b50482a2cb0b",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed scoped Chapel concept, source-backed interior, explicit placement authority and sign separation; retained unrelated decisions and accurate pending publication status. Actual runtime and reader checks are recorded separately."
+          "method": "Reviewed verified live game outcome, exact hashes, actual Chapel/EST screenshots and retained limits. Completed game source binding preserved unchanged."
         },
         {
           "path": "docs/production/game-hosting-correction-20260910.md",
@@ -5742,9 +5744,9 @@
         },
         {
           "path": "docs/production/ecc-campus-hub-specification-20260910.md",
-          "sha256": "b611ee7d10c26130b9cd7aadabc2ea893cff1e85ad0e4bc3533d06e69e304ced",
+          "sha256": "4e26ad10d558257e8cb99e9edd5b1898747a5b7644e69cefebeee71867425f7b",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed final Chapel/EST/entry scope, exact video reuse, verified source and actual desktop/mobile screenshots; unrelated protected decisions retained."
+          "method": "Reviewed verified live game outcome, exact hashes, actual Chapel/EST screenshots and retained limits. Completed game source binding preserved unchanged."
         },
         {
           "path": "scripts/render-specification.mjs",

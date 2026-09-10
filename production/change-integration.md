@@ -4,7 +4,7 @@ Generated from data/change-integrations.json; edit the canonical record, not thi
 
 Release scope: Walkable ECC Chapel, corrected original-game sign/posts, cleared entry pavers and existing four-system EST Lab video on rear wall; existing campus and avatar retained
 
-Blueprint integration and public reader verified. Authorised game upload follows; historical intake, gait, lighting and hosted-test follow-ups remain open.
+Combined game update and Blueprint integration verified. Historical intake, gait, lighting and hosted-test follow-ups remain open.
 
 ## CE-CHANGE-20260910-39 — ECC Chapel, arrival sign and paving, and EST wall briefing
 
