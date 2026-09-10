@@ -4,11 +4,11 @@ Generated from data/change-integrations.json; edit the canonical record, not thi
 
 Release scope: V2.18: reconcile published paving, one production plan and proportionate workflow tracking. No game or asset production.
 
-Publication verification is pending for this candidate. Unpublished lighting, wider asset acceptance, historical intake and classroom verification are separate open work; none is silently approved.
+Reader reconciliation is verified. Historical intake, unpublished lighting, wider asset acceptance and classroom verification remain separate tracked work.
 
 ## CE-CHANGE-20260910-31 — Maintain an accurate Blueprint with proportionate automation
 
-Integration: **ready-for-publication**. Types: governance. Owner: Blueprint maintainer.
+Integration: **complete**. Types: governance. Owner: Blueprint maintainer.
 
 **Objective:** Reduce repeated maintenance while preserving accurate visible status and version-bound evidence.
 
@@ -18,7 +18,7 @@ Integration: **ready-for-publication**. Types: governance. Owner: Blueprint main
 
 **Source:** Tania explicitly requests reader reconciliation, source reviews, tracking repair, validation and publication; asks for a balance of usability, currency and credit use and an assessment of an agentic Blueprint.
 
-**Next:** Publish reviewed V2.18 output and independently verify live records and affected reader routes.
+**Next:** Continue the current environment milestone; revisit this integration only for a relevant new source change.
 
 ### Start Here — updated
 
@@ -105,21 +105,21 @@ Verification: passed / Public and private records and production Markdown are re
 
 Next: Retain this verified boundary; revisit only when its source or approved scope changes.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+Published reviewed Blueprint output and independently verified the live reader.
 
 Records: CE-CHANGE-20260910-31. Owner: Blueprint release maintainer.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Awaiting independent live publication verification.
+Verification: passed / V2.18 source 2f4e0971c84275575b142f871e5a8be570e7ba59 is live; full manifest parity and all 15 changed public files independently downloaded and hash-verified. Live desktop/mobile reader suite passes, including navigation, evidence, decisions, source protection and separate game redirect. Final metadata receipt records the subsequent exact source.
 
-- [Evidence](docs/production/maintenance-20260910.md)
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
 
-Next: Compare the live manifest and downloaded files with this validated build, then inspect Start Here, Delivery, Roadmap and world on desktop/mobile.
+Next: Keep the final source/public manifest receipt with this release.
 
 ### Decisions and superseded rules — checked-unchanged
 
@@ -191,7 +191,7 @@ Next: Retain this verified boundary; revisit only when its source or approved sc
 
 ## CE-CHANGE-20260910-30 — One production plan, current live evidence and continuously checked workflow
 
-Integration: **ready-for-publication**. Types: governance, decision, visual, implementation. Owner: Blueprint maintainer.
+Integration: **complete**. Types: governance, decision, visual, implementation. Owner: Blueprint maintainer.
 
 **Objective:** Make the existing Blueprint the reliable shared production plan and detect missing integration continuously.
 
@@ -201,7 +201,7 @@ Integration: **ready-for-publication**. Types: governance, decision, visual, imp
 
 **Source:** Tania, Continue Career Empire audit, 10 September 2026: requests a highly automated ongoing system, confirms the World Environment & Ecosystem front-page/sequence and deviation challenge, and says to continue. Pasted prior assistant proposals are evidence, not independent approval.
 
-**Next:** Publish reviewed V2.18 output and independently verify live records and affected reader routes.
+**Next:** Continue the current environment milestone; revisit this integration only for a relevant new source change.
 
 ### Start Here — updated
 
@@ -288,21 +288,21 @@ Verification: passed / Public and private records and production Markdown are re
 
 Next: Retain this verified boundary; revisit only when its source or approved scope changes.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+Published reviewed Blueprint output and independently verified the live reader.
 
 Records: CE-CHANGE-20260910-30. Owner: Blueprint release maintainer.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Awaiting source and affected reader comparisons
+Verification: passed / V2.18 source 2f4e0971c84275575b142f871e5a8be570e7ba59 is live; full manifest parity and all 15 changed public files independently downloaded and hash-verified. Live desktop/mobile reader suite passes, including navigation, evidence, decisions, source protection and separate game redirect. Final metadata receipt records the subsequent exact source.
 
-- [Evidence](docs/production/workflow-system-20260910.md)
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
 
-Next: Compare the live manifest and downloaded files with this validated build, then inspect Start Here, Delivery, Roadmap and world on desktop/mobile.
+Next: Keep the final source/public manifest receipt with this release.
 
 ### Decisions and superseded rules — checked-unchanged
 
@@ -3872,7 +3872,7 @@ Next: Identify the exact affected records and complete the reader-facing update.
 
 ## CE-CHANGE-20260910-29 — Arrival ground materials and connected Studio route
 
-Integration: **ready-for-publication**. Types: visual, building, implementation, release. Owner: Blueprint and game maintainer.
+Integration: **complete**. Types: visual, building, implementation, release. Owner: Blueprint and game maintainer.
 
 **Objective:** Maximum visible gain within about 2% remaining usage: stage 1 ground/path only.
 
@@ -3882,7 +3882,7 @@ Integration: **ready-for-publication**. Types: visual, building, implementation,
 
 **Source:** Tania, Continue Assess Upgrade Feasibility, 10 September 2026; two recovered campus reference screenshots.; Tania subsequently clarified element-by-element acceptance and said OK do that for paving publication, then sky/lighting.
 
-**Next:** Publish reviewed V2.18 output and independently verify live records and affected reader routes.
+**Next:** Continue the current environment milestone; revisit this integration only for a relevant new source change.
 
 ### Start Here — updated
 
@@ -3969,20 +3969,21 @@ Verification: passed / Public and private records and production Markdown are re
 
 Next: Retain this verified boundary; revisit only when its source or approved scope changes.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+Published reviewed Blueprint output and independently verified the live reader.
 
 Records: CE-CHANGE-20260910-29. Owner: Blueprint release maintainer.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Pending source and reader reconciliation against the published paving release.
+Verification: passed / V2.18 source 2f4e0971c84275575b142f871e5a8be570e7ba59 is live; full manifest parity and all 15 changed public files independently downloaded and hash-verified. Live desktop/mobile reader suite passes, including navigation, evidence, decisions, source protection and separate game redirect. Final metadata receipt records the subsequent exact source.
 
+- [Evidence](/career-empire-blueprint/production/maintenance-20260910.md)
 
-Next: Compare the live manifest and downloaded files with this validated build, then inspect Start Here, Delivery, Roadmap and world on desktop/mobile.
+Next: Keep the final source/public manifest receipt with this release.
 
 ### Look and feel — updated
 

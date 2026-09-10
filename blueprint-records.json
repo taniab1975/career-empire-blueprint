@@ -28,7 +28,7 @@
       "id": "V2.18",
       "date": "2026-09-10",
       "label": "V2.18 / 10 September 2026",
-      "status": "Reconciled reader and local tracking; final publication verification pending",
+      "status": "Reader reconciliation and local tracking published and verified",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -206,7 +206,7 @@
       "curriculumBoundary": "Curriculum requirements inform experience design from the outset. The final phase validates reciprocal coverage and classroom evidence; it is not permission to postpone learning design.",
       "dependencyRule": "Preserve existing movement, collision, accessible paths, Studio save/return and avatar interfaces throughout environmental work. Surface any technical dependency that changes this sequence before implementation.",
       "deviationRule": "Before spending credits or implementing a request outside the active milestone, explain the deviation and ask whether to reprioritise or backlog it. Suggestions are not approvals. Continue Career Empire means read this plan and do only the next approved bounded step.",
-      "productionGate": "No further substantial game or asset production until the Blueprint workflow and affected reader updates are verified. For V2.18, consult the final release receipt; retained historical intake is separate from the next approved production milestone. Whole-campus appearance, Batch 1, paused wardrobe and classroom acceptance remain separate.",
+      "productionGate": "No further substantial game or asset production until the Blueprint workflow and affected reader updates are verified. V2.18 has passed those checks; proceed with the next already-approved bounded milestone. Historical intake is retained separately. Whole-campus appearance, Batch 1, paused wardrobe and classroom acceptance remain separate.",
       "visualTargetIds": [
         "CE-CAMPUS-01",
         "CE-CAMPUS-02",
@@ -724,10 +724,10 @@
       "publication": {
         "sourceRevision": "V2.18 / reader and workflow reconciliation",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.17 / Blueprint reader",
+        "observedLiveRevision": "V2.18 / Blueprint reader",
         "checkedAt": "2026-09-10",
-        "observedLiveSha256": "6d1be8951e9713a4b7f597e54c0319131aa4a16e3803fe50665c896ff73a6451",
-        "accessCheck": "GitHub delivery repository PUBLIC and Pages built successfully; source mirror PRIVATE. Existing Sites project still returns HTTP 404 NOT_FOUND / project_not_found.",
+        "observedLiveSha256": "2e19d16262a24795ebc76d71e758f41ca45dca05d865f042d1c46110748dd3b5",
+        "accessCheck": "V2.18 first content release independently verified; private recovery remains PRIVATE. Latest exact source is identified by the live manifest; this observed hash is the dated pre-metadata verification, not a recursive self-hash.",
         "validationReceipt": "/production/game-hosting-correction-20260910.md",
         "status": "Blueprint links and redirect verified separately from actual game",
         "savedVersionId": null,
@@ -800,7 +800,7 @@
           "domain": "Production management and change propagation",
           "source": "Tania, Continue Career Empire audit, 10 September 2026: requests a highly automated ongoing system, confirms the World Environment & Ecosystem front-page/sequence and deviation challenge, and says to continue. Pasted prior assistant proposals are evidence, not independent approval.",
           "owner": "Blueprint maintainer",
-          "status": "Reader reconciled and source reviewed; publication verification pending",
+          "status": "Complete: Blueprint reconciliation published and verified",
           "rationale": "A logged change and successful scan did not guarantee current reader pages. Registered-only scanning missed linked working copies; strategic phase, visible screenshot and next actions drifted separately.",
           "dependencies": [
             "CE-CHANGE-20260910-20",
@@ -810,15 +810,15 @@
           "supersededRecord": null,
           "designApproval": "User requests the management sequence and explicit dependency challenges; this does not accept finished appearance, new mechanics or classroom readiness.",
           "implementation": "One productionPlan drives Start Here, Delivery and Roadmap; current live screenshot replaces the obsolete front image. Monitor discovers linked worktrees, retains pending integrations and reports actual protection failures. Shared project rules challenge deviations before spending.",
-          "deployment": "Local candidate only; no new live Blueprint or game release claimed.",
-          "testing": "Source review, exact protected-record integrity, active-copy protection and local desktop/mobile reader checks completed. Final test/build logs retained in reconciliation-v218.",
+          "deployment": "V2.18 source 2f4e0971c84275575b142f871e5a8be570e7ba59 is live; full manifest parity and all 15 changed public files independently downloaded and hash-verified. Live desktop/mobile reader suite passes, including navigation, evidence, decisions, source protection and separate game redirect. Final metadata receipt records the subsequent exact source.",
+          "testing": "72 tests, TypeScript, focused lint and both builds pass; full local and live reader browser checks pass. This is not new game/classroom acceptance.",
           "taniaAcceptance": "Requested workflow and front-page correction, not blanket game or asset acceptance.",
           "evidence": [
             "docs/production/workflow-system-20260910.md",
             "/evidence/arrival-playable-20260910/current-live-arrival.png",
             "docs/production/audit-recovery-20260910.md"
           ],
-          "nextAction": "Publish reviewed V2.18 output and independently verify live records and reader routes."
+          "nextAction": "Proceed with the existing environment review/specification; preserve unpublished lighting and other approval boundaries."
         },
         {
           "id": "CE-CHANGE-20260909-01",
@@ -1515,7 +1515,7 @@
           "domain": "Environment ground and routes",
           "source": "Tania, Continue Assess Upgrade Feasibility, 10 September 2026. Stage 1 only, approximately 2% remaining usage.",
           "owner": "Blueprint maintainer",
-          "status": "Reader reconciled and source reviewed; publication verification pending",
+          "status": "Complete: Blueprint reconciliation published and verified",
           "rationale": "Use existing geometry/assets to improve visible ground quality and route continuity.",
           "dependencies": [
             "CE-CHANGE-20260910-28"
@@ -1523,14 +1523,14 @@
           "supersededRecord": null,
           "designApproval": "No new approval or rejection inferred.",
           "implementation": "Ground paving is present in the published game; separate sky and lighting candidate remains unpublished.",
-          "deployment": "Fresh recovery verification: game main 1931e2c8818265057c3202316e113631e1170608; five live files match arrival-paving-20260910 manifest.",
-          "testing": "Source review, exact protected-record integrity, active-copy protection and local desktop/mobile reader checks completed. Final test/build logs retained in reconciliation-v218.",
+          "deployment": "V2.18 source 2f4e0971c84275575b142f871e5a8be570e7ba59 is live; full manifest parity and all 15 changed public files independently downloaded and hash-verified. Live desktop/mobile reader suite passes, including navigation, evidence, decisions, source protection and separate game redirect. Final metadata receipt records the subsequent exact source.",
+          "testing": "72 tests, TypeScript, focused lint and both builds pass; full local and live reader browser checks pass. This is not new game/classroom acceptance.",
           "taniaAcceptance": "Implementation and deployment authorised; finished appearance not yet accepted.",
           "evidence": [
             "docs/production/arrival-ground-stage1-20260910.md",
             "docs/production/audit-recovery-20260910.md"
           ],
-          "nextAction": "Publish reviewed V2.18 output and independently verify live records and reader routes."
+          "nextAction": "Proceed with the existing environment review/specification; preserve unpublished lighting and other approval boundaries."
         },
         {
           "id": "CE-CHANGE-20260910-31",
@@ -1539,7 +1539,7 @@
           "domain": "Workflow cost and tracking recovery",
           "source": "Tania explicitly requests reader reconciliation, source reviews, tracking repair, validation and publication; asks for a balance of usability, currency and credit use and an assessment of an agentic Blueprint. Follow-up: Tania explicitly chooses to proceed without an agentic Blueprint; prioritise a working system and progress.",
           "owner": "Blueprint maintainer",
-          "status": "Reader reconciled and source reviewed; publication verification pending",
+          "status": "Complete: Blueprint reconciliation published and verified",
           "rationale": "Repeated full audits and historical scan noise consume attention without advancing the active work.",
           "dependencies": [
             "CE-CHANGE-20260910-29",
@@ -1548,13 +1548,13 @@
           "supersededRecord": null,
           "designApproval": "No agentic Blueprint: explicitly deferred by Tania. Finish existing workflow and publish; preserve game and asset approval boundaries.",
           "implementation": "Repair worktree coverage; use changed-file review and a compact working approach while retaining evidence and release gates.",
-          "deployment": "Pending exact-source Blueprint publication.",
-          "testing": "Source review, exact protected-record integrity, active-copy protection and local desktop/mobile reader checks completed. Final test/build logs retained in reconciliation-v218.",
+          "deployment": "V2.18 source 2f4e0971c84275575b142f871e5a8be570e7ba59 is live; full manifest parity and all 15 changed public files independently downloaded and hash-verified. Live desktop/mobile reader suite passes, including navigation, evidence, decisions, source protection and separate game redirect. Final metadata receipt records the subsequent exact source.",
+          "testing": "72 tests, TypeScript, focused lint and both builds pass; full local and live reader browser checks pass. This is not new game/classroom acceptance.",
           "taniaAcceptance": "Publication and proportionate maintenance requested; no new game appearance approval.",
           "evidence": [
             "docs/production/maintenance-20260910.md"
           ],
-          "nextAction": "Publish reviewed V2.18 output and independently verify live records and reader routes."
+          "nextAction": "Proceed with the existing environment review/specification; preserve unpublished lighting and other approval boundaries."
         }
       ],
       "sessionStart": [
@@ -4574,7 +4574,7 @@
         "CE-CHANGE-20260910-31"
       ],
       "scope": "V2.18: reconcile published paving, one production plan and proportionate workflow tracking. No game or asset production.",
-      "disclosure": "Publication verification is pending for this candidate. Unpublished lighting, wider asset acceptance, historical intake and classroom verification are separate open work; none is silently approved.",
+      "disclosure": "Reader reconciliation is verified. Historical intake, unpublished lighting, wider asset acceptance and classroom verification remain separate tracked work.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -4739,7 +4739,7 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "d74d9d088bfa1fc52dd6184afafe573c85dd940fd37200fce385fb8e08e1bfb8"
+          "sha256": "00ec93c6160ba8af23b7af61ac0161556d58e3c9680fa3c9d517b56d29b780e6"
         },
         {
           "path": "README.md",
@@ -4791,7 +4791,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "2b12ed6c1c022191653497fa9132bedd2f4231b695c295b0d819a06c6b5fa070"
+          "sha256": "817a194b090e1371f7ebbea7907992862b1bf455a108f3fc252ad6c12c49d6cf"
         },
         {
           "path": "data/style-guide.json",
@@ -5382,13 +5382,13 @@
         "types": [
           "governance"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Reduce repeated maintenance while preserving accurate visible status and version-bound evidence.",
         "before": "Historical observations, missing working-copy protection and stale reader summaries obstruct useful progress.",
         "after": "Protected active copies, visible retained backlog, one production plan and bounded daily maintenance.",
         "source": "Tania explicitly requests reader reconciliation, source reviews, tracking repair, validation and publication; asks for a balance of usability, currency and credit use and an assessment of an agentic Blueprint.",
         "owner": "Blueprint maintainer",
-        "nextAction": "Publish reviewed V2.18 output and independently verify live records and affected reader routes.",
+        "nextAction": "Continue the current environment milestone; revisit this integration only for a relevant new source change.",
         "targets": [
           {
             "surface": "start",
@@ -5497,22 +5497,22 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "disposition": "updated",
+            "action": "Published reviewed Blueprint output and independently verified the live reader.",
             "records": [
               "CE-CHANGE-20260910-31"
             ],
             "owner": "Blueprint release maintainer",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "evidence": [
-              "docs/production/maintenance-20260910.md"
+              "/production/maintenance-20260910.md"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Awaiting independent live publication verification.",
-              "date": ""
+              "result": "passed",
+              "method": "V2.18 source 2f4e0971c84275575b142f871e5a8be570e7ba59 is live; full manifest parity and all 15 changed public files independently downloaded and hash-verified. Live desktop/mobile reader suite passes, including navigation, evidence, decisions, source protection and separate game redirect. Final metadata receipt records the subsequent exact source.",
+              "date": "2026-09-10"
             },
-            "nextAction": "Compare the live manifest and downloaded files with this validated build, then inspect Start Here, Delivery, Roadmap and world on desktop/mobile."
+            "nextAction": "Keep the final source/public manifest receipt with this release."
           },
           {
             "surface": "decisions",
@@ -5639,13 +5639,13 @@
           "visual",
           "implementation"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Make the existing Blueprint the reliable shared production plan and detect missing integration continuously.",
         "before": "Separate page summaries drifted; a registered-folder scan could report no new changes while linked working copies and pending intake were missed.",
         "after": "One shared strategic plan and dated live evidence, tested linked-worktree discovery, persistent unresolved queues and explicit deviation rules.",
         "source": "Tania, Continue Career Empire audit, 10 September 2026: requests a highly automated ongoing system, confirms the World Environment & Ecosystem front-page/sequence and deviation challenge, and says to continue. Pasted prior assistant proposals are evidence, not independent approval.",
         "owner": "Blueprint maintainer",
-        "nextAction": "Publish reviewed V2.18 output and independently verify live records and affected reader routes.",
+        "nextAction": "Continue the current environment milestone; revisit this integration only for a relevant new source change.",
         "targets": [
           {
             "surface": "start",
@@ -5754,22 +5754,22 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "disposition": "updated",
+            "action": "Published reviewed Blueprint output and independently verified the live reader.",
             "records": [
               "CE-CHANGE-20260910-30"
             ],
             "owner": "Blueprint release maintainer",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "evidence": [
-              "docs/production/workflow-system-20260910.md"
+              "/production/maintenance-20260910.md"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Awaiting source and affected reader comparisons",
+              "result": "passed",
+              "method": "V2.18 source 2f4e0971c84275575b142f871e5a8be570e7ba59 is live; full manifest parity and all 15 changed public files independently downloaded and hash-verified. Live desktop/mobile reader suite passes, including navigation, evidence, decisions, source protection and separate game redirect. Final metadata receipt records the subsequent exact source.",
               "date": "2026-09-10"
             },
-            "nextAction": "Compare the live manifest and downloaded files with this validated build, then inspect Start Here, Delivery, Roadmap and world on desktop/mobile."
+            "nextAction": "Keep the final source/public manifest receipt with this release."
           },
           {
             "surface": "decisions",
@@ -10387,13 +10387,13 @@
           "implementation",
           "release"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Maximum visible gain within about 2% remaining usage: stage 1 ground/path only.",
         "before": "Shared wall-stone mapping on long walkway and isolated arrival route.",
         "after": "Published paving is represented accurately across Blueprint current status; lighting remains an unpublished candidate.",
         "source": "Tania, Continue Assess Upgrade Feasibility, 10 September 2026; two recovered campus reference screenshots.; Tania subsequently clarified element-by-element acceptance and said OK do that for paving publication, then sky/lighting.",
         "owner": "Blueprint and game maintainer",
-        "nextAction": "Publish reviewed V2.18 output and independently verify live records and affected reader routes.",
+        "nextAction": "Continue the current environment milestone; revisit this integration only for a relevant new source change.",
         "targets": [
           {
             "surface": "start",
@@ -10502,20 +10502,22 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "disposition": "updated",
+            "action": "Published reviewed Blueprint output and independently verified the live reader.",
             "records": [
               "CE-CHANGE-20260910-29"
             ],
             "owner": "Blueprint release maintainer",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
-            "evidence": [],
+            "evidence": [
+              "/production/maintenance-20260910.md"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Pending source and reader reconciliation against the published paving release.",
-              "date": ""
+              "result": "passed",
+              "method": "V2.18 source 2f4e0971c84275575b142f871e5a8be570e7ba59 is live; full manifest parity and all 15 changed public files independently downloaded and hash-verified. Live desktop/mobile reader suite passes, including navigation, evidence, decisions, source protection and separate game redirect. Final metadata receipt records the subsequent exact source.",
+              "date": "2026-09-10"
             },
-            "nextAction": "Compare the live manifest and downloaded files with this validated build, then inspect Start Here, Delivery, Roadmap and world on desktop/mobile."
+            "nextAction": "Keep the final source/public manifest receipt with this release."
           },
           {
             "surface": "visuals",

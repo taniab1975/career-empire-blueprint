@@ -8,17 +8,17 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** Production management and change propagation
 - **source:** Tania, Continue Career Empire audit, 10 September 2026: requests a highly automated ongoing system, confirms the World Environment & Ecosystem front-page/sequence and deviation challenge, and says to continue. Pasted prior assistant proposals are evidence, not independent approval.
 - **owner:** Blueprint maintainer
-- **status:** Reader reconciled and source reviewed; publication verification pending
+- **status:** Complete: Blueprint reconciliation published and verified
 - **rationale:** A logged change and successful scan did not guarantee current reader pages. Registered-only scanning missed linked working copies; strategic phase, visible screenshot and next actions drifted separately.
 - **dependencies:** CE-CHANGE-20260910-20 / CE-CHANGE-20260910-28 / CE-CHANGE-20260910-29
 - **supersededRecord:** None
 - **designApproval:** User requests the management sequence and explicit dependency challenges; this does not accept finished appearance, new mechanics or classroom readiness.
 - **implementation:** One productionPlan drives Start Here, Delivery and Roadmap; current live screenshot replaces the obsolete front image. Monitor discovers linked worktrees, retains pending integrations and reports actual protection failures. Shared project rules challenge deviations before spending.
-- **deployment:** Local candidate only; no new live Blueprint or game release claimed.
-- **testing:** Source review, exact protected-record integrity, active-copy protection and local desktop/mobile reader checks completed. Final test/build logs retained in reconciliation-v218.
+- **deployment:** V2.18 source 2f4e0971c84275575b142f871e5a8be570e7ba59 is live; full manifest parity and all 15 changed public files independently downloaded and hash-verified. Live desktop/mobile reader suite passes, including navigation, evidence, decisions, source protection and separate game redirect. Final metadata receipt records the subsequent exact source.
+- **testing:** 72 tests, TypeScript, focused lint and both builds pass; full local and live reader browser checks pass. This is not new game/classroom acceptance.
 - **taniaAcceptance:** Requested workflow and front-page correction, not blanket game or asset acceptance.
 - **evidence:** docs/production/workflow-system-20260910.md / /evidence/arrival-playable-20260910/current-live-arrival.png / docs/production/audit-recovery-20260910.md
-- **nextAction:** Publish reviewed V2.18 output and independently verify live records and reader routes.
+- **nextAction:** Proceed with the existing environment review/specification; preserve unpublished lighting and other approval boundaries.
 
 ## CE-CHANGE-20260909-01 — One canonical source; publication is a dated copy
 
@@ -530,17 +530,17 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** Environment ground and routes
 - **source:** Tania, Continue Assess Upgrade Feasibility, 10 September 2026. Stage 1 only, approximately 2% remaining usage.
 - **owner:** Blueprint maintainer
-- **status:** Reader reconciled and source reviewed; publication verification pending
+- **status:** Complete: Blueprint reconciliation published and verified
 - **rationale:** Use existing geometry/assets to improve visible ground quality and route continuity.
 - **dependencies:** CE-CHANGE-20260910-28
 - **supersededRecord:** None
 - **designApproval:** No new approval or rejection inferred.
 - **implementation:** Ground paving is present in the published game; separate sky and lighting candidate remains unpublished.
-- **deployment:** Fresh recovery verification: game main 1931e2c8818265057c3202316e113631e1170608; five live files match arrival-paving-20260910 manifest.
-- **testing:** Source review, exact protected-record integrity, active-copy protection and local desktop/mobile reader checks completed. Final test/build logs retained in reconciliation-v218.
+- **deployment:** V2.18 source 2f4e0971c84275575b142f871e5a8be570e7ba59 is live; full manifest parity and all 15 changed public files independently downloaded and hash-verified. Live desktop/mobile reader suite passes, including navigation, evidence, decisions, source protection and separate game redirect. Final metadata receipt records the subsequent exact source.
+- **testing:** 72 tests, TypeScript, focused lint and both builds pass; full local and live reader browser checks pass. This is not new game/classroom acceptance.
 - **taniaAcceptance:** Implementation and deployment authorised; finished appearance not yet accepted.
 - **evidence:** docs/production/arrival-ground-stage1-20260910.md / docs/production/audit-recovery-20260910.md
-- **nextAction:** Publish reviewed V2.18 output and independently verify live records and reader routes.
+- **nextAction:** Proceed with the existing environment review/specification; preserve unpublished lighting and other approval boundaries.
 
 ## CE-CHANGE-20260910-31 — Maintain an accurate Blueprint with proportionate automation
 
@@ -548,17 +548,17 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** Workflow cost and tracking recovery
 - **source:** Tania explicitly requests reader reconciliation, source reviews, tracking repair, validation and publication; asks for a balance of usability, currency and credit use and an assessment of an agentic Blueprint. Follow-up: Tania explicitly chooses to proceed without an agentic Blueprint; prioritise a working system and progress.
 - **owner:** Blueprint maintainer
-- **status:** Reader reconciled and source reviewed; publication verification pending
+- **status:** Complete: Blueprint reconciliation published and verified
 - **rationale:** Repeated full audits and historical scan noise consume attention without advancing the active work.
 - **dependencies:** CE-CHANGE-20260910-29 / CE-CHANGE-20260910-30
 - **supersededRecord:** None
 - **designApproval:** No agentic Blueprint: explicitly deferred by Tania. Finish existing workflow and publish; preserve game and asset approval boundaries.
 - **implementation:** Repair worktree coverage; use changed-file review and a compact working approach while retaining evidence and release gates.
-- **deployment:** Pending exact-source Blueprint publication.
-- **testing:** Source review, exact protected-record integrity, active-copy protection and local desktop/mobile reader checks completed. Final test/build logs retained in reconciliation-v218.
+- **deployment:** V2.18 source 2f4e0971c84275575b142f871e5a8be570e7ba59 is live; full manifest parity and all 15 changed public files independently downloaded and hash-verified. Live desktop/mobile reader suite passes, including navigation, evidence, decisions, source protection and separate game redirect. Final metadata receipt records the subsequent exact source.
+- **testing:** 72 tests, TypeScript, focused lint and both builds pass; full local and live reader browser checks pass. This is not new game/classroom acceptance.
 - **taniaAcceptance:** Publication and proportionate maintenance requested; no new game appearance approval.
 - **evidence:** docs/production/maintenance-20260910.md
-- **nextAction:** Publish reviewed V2.18 output and independently verify live records and reader routes.
+- **nextAction:** Proceed with the existing environment review/specification; preserve unpublished lighting and other approval boundaries.
 
 ## Retained Atlas principles
 
