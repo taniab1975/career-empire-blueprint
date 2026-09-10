@@ -8,7 +8,7 @@ Combined game release authorised and locally implemented; independent publicatio
 
 ## CE-CHANGE-20260910-38 — ECC campus, right-hand EST Prep and original-game access
 
-Integration: **ready-for-publication**. Types: building, visual, implementation, decision, activity, release. Owner: Career Empire environment developer.
+Integration: **complete**. Types: building, visual, implementation, decision, activity, release. Owner: Career Empire environment developer.
 
 **Objective:** Publish accepted ECC exterior and relocate EST to the user-selected existing empty building; Chapel interior follows as a separate concept/build stage.
 
@@ -100,20 +100,21 @@ Verification: passed / Regenerated specification HTML/Markdown and reader record
 
 Next: Publish and verify the authorised combined release.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+Published generated Blueprint at 8aabdc6 and independently verified exact record/source hashes and 14 desktop/mobile reader checks.
 
 Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Pending candidate build and scoped reader verification.
+Verification: passed / Live record SHA-256 80b08e0bd3d44d3c6dab8eea4dd782399f76edc11f88bd3f49d00910beefde32 matches reviewed source a7ab386; public affected routes and full specification verified at 1280/390. This completes Blueprint integration, not game deployment.
 
+- [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
 
-Next: Publish generated reader, verify live record hashes and affected reader routes, then complete Blueprint integration before game release.
+Next: Publish the already-authorised game update using this completed source review; verify game independently.
 
 ### Buildings and places — updated
 
@@ -357,7 +358,7 @@ Next: Publish and verify the authorised combined release.
 
 ## CE-CHANGE-20260910-37 — ECC Campus Hub visual and functional specification
 
-Integration: **ready-for-publication**. Types: building, visual, research, activity, progression. Owner: Blueprint maintainer / environment designer.
+Integration: **complete**. Types: building, visual, research, activity, progression. Owner: Blueprint maintainer / environment designer.
 
 **Objective:** Make the next ECC destination recognisable through a connected hero complex and selective campus cues rather than a full campus recreation.
 
@@ -459,23 +460,21 @@ Verification: passed / Regenerated reader records and Markdown plus readable HTM
 
 Next: Retain this scope; reassess only after a relevant source or approved design change.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Source and local reader updated; public Blueprint release not performed in this specification task.
+Published generated Blueprint at 8aabdc6 and independently verified exact record/source hashes and 14 desktop/mobile reader checks.
 
 Records: CE-CHANGE-20260910-37, CE-ENV-01. Owner: Blueprint maintainer / environment designer.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Local document and reader checked; no public release claimed.
+Verification: passed / Live record SHA-256 80b08e0bd3d44d3c6dab8eea4dd782399f76edc11f88bd3f49d00910beefde32 matches reviewed source a7ab386; public affected routes and full specification verified at 1280/390. This completes Blueprint integration, not game deployment.
 
 - [Evidence](/career-empire-blueprint/production/ecc-campus-hub-specification-20260910.html)
-- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json)
-- [Evidence](private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json)
 
-Next: Include reviewed specification output in the next authorised existing Blueprint documentation publication; verify live document, reference image and affected routes separately from game deployment.
+Next: Publish the already-authorised game update using this completed source review; verify game independently.
 
 ### Buildings and places — updated
 

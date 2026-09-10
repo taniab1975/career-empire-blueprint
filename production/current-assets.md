@@ -89,8 +89,6 @@ Limits: This image is the approved local capture; the identical repaired asset i
 Next: Play the live game: Avatar Studio → School student; use walking, turn and portrait controls. Continue the existing environment plan.
 Source: Update Avatar Appearance continuation, Tania: “Yey he is much better! Please go ahead and update to live”. CE-CHANGE-20260910-35; player-schoolboy-repaired-20260910.glb.
 SHA-256: 6f393115b27899b90c4ee2b73d1f3c8feff1aa00a052ef0c96854770937fb9d0
-Open integration CE-CHANGE-20260910-38: Publish accepted ECC exterior and relocate EST to the user-selected existing empty building; Chapel interior follows as a separate concept/build stage. Next: Complete required visual/gameplay and reader checks, then publish authorised combined release.
-Open integration CE-CHANGE-20260910-37: Make the next ECC destination recognisable through a connected hero complex and selective campus cues rather than a full campus recreation. Next: Review arrival, connected layout and Chapel garden concepts, including prominent ECC welcome, before any 3D generation. Public Blueprint publication remains pending.
 Open integration CE-CHANGE-20260910-34: Create the authorised model candidates for grouped review Next: Retain approved geometry; confirm bounded integration scope. Public reader release remains pending.
 Open integration CE-CHANGE-20260910-33: Agree environmental language before asset selection Next: Obtain specification agreement; complete affected reader verification before any release
 

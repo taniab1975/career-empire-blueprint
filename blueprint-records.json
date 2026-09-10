@@ -5760,7 +5760,7 @@
           "activity",
           "release"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Publish accepted ECC exterior and relocate EST to the user-selected existing empty building; Chapel interior follows as a separate concept/build stage.",
         "before": "Three concept drawings and specification; no ECC exterior model.",
         "after": "Local ECC hub plus preserved outer buildings, right-hand EST entrance/return and Original Career Empire sign/link; publication pending.",
@@ -5865,20 +5865,22 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "disposition": "updated",
+            "action": "Published generated Blueprint at 8aabdc6 and independently verified exact record/source hashes and 14 desktop/mobile reader checks.",
             "records": [
               "CE-ECC-HUB-01"
             ],
             "owner": "Career Empire environment developer",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
-            "evidence": [],
+            "evidence": [
+              "/production/ecc-campus-hub-specification-20260910.html"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Pending candidate build and scoped reader verification.",
-              "date": ""
+              "result": "passed",
+              "method": "Live record SHA-256 80b08e0bd3d44d3c6dab8eea4dd782399f76edc11f88bd3f49d00910beefde32 matches reviewed source a7ab386; public affected routes and full specification verified at 1280/390. This completes Blueprint integration, not game deployment.",
+              "date": "2026-09-10"
             },
-            "nextAction": "Publish generated reader, verify live record hashes and affected reader routes, then complete Blueprint integration before game release."
+            "nextAction": "Publish the already-authorised game update using this completed source review; verify game independently."
           },
           {
             "surface": "buildings",
@@ -6214,7 +6216,7 @@
           "activity",
           "progression"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Make the next ECC destination recognisable through a connected hero complex and selective campus cues rather than a full campus recreation.",
         "before": "Town Hall retained for future ECC; no source-backed ECC hub specification.",
         "after": "Proposed connected Admin, Student Services and Chapel hub with explicit evidence, entrances, reuse and validation gates.",
@@ -6334,8 +6336,8 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Source and local reader updated; public Blueprint release not performed in this specification task.",
+            "disposition": "updated",
+            "action": "Published generated Blueprint at 8aabdc6 and independently verified exact record/source hashes and 14 desktop/mobile reader checks.",
             "records": [
               "CE-CHANGE-20260910-37",
               "CE-ENV-01"
@@ -6343,16 +6345,14 @@
             "owner": "Blueprint maintainer / environment designer",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
             "evidence": [
-              "/production/ecc-campus-hub-specification-20260910.html",
-              "private/production-evidence/2026-09-10/ecc-campus-hub/evidence-manifest.json",
-              "private/production-evidence/2026-09-10/ecc-campus-hub/reader-checks.json"
+              "/production/ecc-campus-hub-specification-20260910.html"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Local document and reader checked; no public release claimed.",
+              "result": "passed",
+              "method": "Live record SHA-256 80b08e0bd3d44d3c6dab8eea4dd782399f76edc11f88bd3f49d00910beefde32 matches reviewed source a7ab386; public affected routes and full specification verified at 1280/390. This completes Blueprint integration, not game deployment.",
               "date": "2026-09-10"
             },
-            "nextAction": "Include reviewed specification output in the next authorised existing Blueprint documentation publication; verify live document, reference image and affected routes separately from game deployment."
+            "nextAction": "Publish the already-authorised game update using this completed source review; verify game independently."
           },
           {
             "surface": "buildings",
