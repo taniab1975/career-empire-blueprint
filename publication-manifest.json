@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "a31f490a43e24988263e0bbd4694532f99193814",
-  "generatedAt": "2026-09-10T11:59:16.587Z",
+  "sourceCommit": "4baa7a47a25266db9ea448fac37a702ea30864e1",
+  "generatedAt": "2026-09-11T01:14:13.799Z",
   "revision": "V2.20 / 10 September 2026",
-  "recordSha256": "daea42ecd9b427b5989a2481fbaaf231213d797386bbc729110e3eacc4749dad",
+  "recordSha256": "efcc6194deb3e0db949892abc792b94971bb785ded0e5ebec49897197714e37e",
   "files": [
     {
       "path": "assets/index-CItsirJh.js",
@@ -14,7 +14,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "daea42ecd9b427b5989a2481fbaaf231213d797386bbc729110e3eacc4749dad"
+      "sha256": "efcc6194deb3e0db949892abc792b94971bb785ded0e5ebec49897197714e37e"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -681,6 +681,22 @@
       "sha256": "3e8e9cbcff5a79da4390de14a086cfed6331addb8bb976f1bfc789ff5df5335f"
     },
     {
+      "path": "evidence/est-release-20260911/term-390.png",
+      "sha256": "bed8920b74ed20ff91991ca5f3d4d6f81816940ee105898fd04a22514275b750"
+    },
+    {
+      "path": "evidence/est-release-20260911/video-1440.png",
+      "sha256": "f89d1e62f03653245efcca047ff002d80625f5e9b1ff0ec2adeba9443ccefa9b"
+    },
+    {
+      "path": "evidence/est-release-20260911/vtcs-1440.png",
+      "sha256": "b1b57e5ac6427633f998f10ed8d7505844bf8b27ae21e7c6a4531a2c83ae02c8"
+    },
+    {
+      "path": "evidence/est-release-20260911/wall-1440.png",
+      "sha256": "70afc29472db005a9ddddfefd4e4b0079a4a771c10050f508e676745fff8b07f"
+    },
+    {
       "path": "evidence/github-pages-20260909/first-live-desktop.png",
       "sha256": "05f93a4f25d8bf8426d60b6e31d180d1903611959cffc0df43783623c9630818"
     },
@@ -1022,7 +1038,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "08e87c836bdab82697701f100a1bca75c203e2c0a2a144c85c28e109d2fc88d6"
+      "sha256": "c3d96d5e0ffef6b6e764cb21f55fcde9cee73b1792bf80386e45e424460db536"
     },
     {
       "path": "production/change-workflows.md",
@@ -1034,7 +1050,7 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "09d09940a43e21ccafdd144ae0d83f58a609d07df2b0e7db54f60406b38ae3e4"
+      "sha256": "f4ca66e97459e5e8bf064d00d3f37f56bb4af5aa4f866d2672cdad0eefce6c07"
     },
     {
       "path": "production/current-state.md",
@@ -1042,11 +1058,19 @@
     },
     {
       "path": "production/ecc-campus-hub-specification-20260910.html",
-      "sha256": "b1f28f0940fa2c666c67e2a74d284a4560c9fd213276b81d68bb4f8a60402667"
+      "sha256": "0673459efd7ed25102c598635c20a27f14c13310182f76aacf97c6eeed1b493b"
     },
     {
       "path": "production/ecc-campus-hub-specification-20260910.md",
-      "sha256": "524e0c5e2f6552561f75db545bfca95f5ddfb839877d5feec51a439b0782c465"
+      "sha256": "3ec62780979be3ab835a8d57a3ddaad9d5aaa03edd819e22fcec4e689a64a7b8"
+    },
+    {
+      "path": "production/est-release-20260911.html",
+      "sha256": "5ec286afd40a595d09a1e4630fe1c822e91f4da9e8e37d82cf2844e404c6da8f"
+    },
+    {
+      "path": "production/est-release-20260911.md",
+      "sha256": "7ba91c77ffac5ef52be9cf61a07527db379914ae53eb978b5a729f4fc5b8ea33"
     },
     {
       "path": "production/game-hosting-correction-20260910.md",
@@ -1074,7 +1098,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "96c10abc2b6e1adec706cea45efe4a61b66986161efb51e1dd6969f05c533141"
+      "sha256": "14bf9218aa418edd73fad90d8f69a8df86e9682858f5d00122eb9759feb4d416"
     },
     {
       "path": "production/operating-protocol.md",
@@ -1082,7 +1106,7 @@
     },
     {
       "path": "production/production-plan.md",
-      "sha256": "a1063973d57bd32a17ed749422206dd80245846a057d0d9ea46f086a4e4f29be"
+      "sha256": "47ffa700245ba298e3e6fe9af981ff8bf473be164112c586a03d26b5dd903faf"
     },
     {
       "path": "production/project-automation-setup-2026-09-10.md",

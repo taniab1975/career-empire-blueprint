@@ -270,3 +270,7 @@ CE-CHANGE-20260910-39 is live at game 04c0351df1c0a6e69a2ee69346047e381da83985. 
 ![Actual live EST wall video](/career-empire-blueprint/evidence/chapel-20260910/est-video-live.png)
 
 The accepted concept remains a visual target; native geometry and real-time lighting are simpler than its photorealistic rendering. The Chapel contains real navigable geometry and the original cross/tree imagery. No Mass simulation, seated pose, personal reflection storage, economy reward or assessment change is included. Next: Tania reviews the live space; any further Chapel activity is separately scoped. Preserve gait, lighting and the hosted-test follow-up. Closing scan: 11 folders/six worktrees, zero coverage failures, 86 retained observations and three older pending changes. No global refresh checkpoint advancement.
+
+
+## Current EST release — 11 September 2026
+The clearer film and accepted Revision 3 navigation/player/document viewer are being published as a bounded update. [Current EST release specification](/career-empire-blueprint/production/est-release-20260911.html). Chapel and the surrounding campus are retained.

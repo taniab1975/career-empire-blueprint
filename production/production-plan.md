@@ -1,36 +1,25 @@
-# Current production plan
+# Current production sequence — 10 September 2026
 
-Canonical input: data/operations.json productionPlan. Start Here, Delivery and Roadmap render this same record.
+CE-CHANGE-20260910-40. Tania explicitly redirects next production from additional Chapel reflection features to whole-campus atmosphere. Five staged reviews precede one agreed combined live world and public Blueprint release. Canonical working notes remain current throughout. No new checkout or project.
 
-1. **Now — World Environment & Ecosystem:** review published paving and the connected Spawn → Avatar Studio approach. Separate lighting candidate stays unpublished until reviewed.
-2. **Next — vegetation and landscape:** agree the specification against the exact campus references before replacing or generating assets.
-3. **Then — buildings and ECC campus:** refine one coherent architectural family.
-4. **Later — avatars, experiences, curriculum coverage and validation.** Curriculum constraints apply from the outset; final validation is not deferred learning design.
+1. Lighting: actual current campus, fixed arrival/aerial/player-height comparison; preserve geometry, materials and sky to assess lighting clearly.
+2. Sky and horizon: clouds, atmosphere and distant skyline that support the selected lighting.
+3. Campus edges: layered planting, boundaries and paths suggesting a wider place.
+4. Materials and planting: coherent stone/timber/green palette and less repetition.
+5. Surrounding ECC buildings: inspect actual supplied reference files and selectively represent recognisable background buildings around the hub. Do not invent a full campus for completeness.
 
-Preserve movement, collisions, access, Studio save/return and existing avatar/module interfaces. Explain dependencies and any proposed deviation before spending credits. Suggestions do not approve production. Whole-batch appearance, paused blazer and classroom gates remain separate.
+Arrival composition, readable entrances and ECC recognition are validation criteria throughout all five stages. This resolves the prior assistant list into the requested four improvement categories plus the new fifth building-reference stage; no extra sixth release stage.
 
-[Maintenance rhythm](maintenance-20260910.md) · [Current state](current-state.md). Historical layout, kit and Batch 1 stages remain in their dated records; do not restart completed work.
+After selections are settled, perform integrated visual/performance, route, collision, avatar and EST/Chapel regressions and publish one world update with the public Blueprint. Individual previews are not live approvals.
 
-## ECC Campus Hub specification — 10 September 2026
+Next major project: a reliable boy and girl avatar system with changeable clothes, coherent rigging and walking. Scope as a substantial project; preserve existing appearance assets and diagnose current gait before choosing a replacement approach. Tania's instruction establishes future project scope; it does not select a technical rig or automatically approve old wardrobe prototypes.
 
-CE-CHANGE-20260910-37: [complete visual + functional specification](ecc-campus-hub-specification-20260910.md). Actual ECC photos/video now evidence recognition: crest gable, terracotta roofs, cream/red-brown masonry, teal portals, curved Chapel stone/cross/tree-glass and covered links. Proposed connected hero and quiet forecourt; retain EST access and existing live campus. No new model, appearance acceptance or game publication. Review the whole hub before measured fit study. Exact source inventory, contact sheets and live inspection are retained in private/production-evidence/2026-09-10/ecc-campus-hub/.
+Chapel development becomes a collection of optional discoveries, playful hidden interactions and side quests, including surprising/trap-door-like discoveries where appropriate. No new Chapel experience is implemented during the campus atmosphere review.
 
+Then develop curriculum-grounded onboarding, events and experiences in the world. Curriculum continues to constrain design from the outset; serious curriculum/entry production follows the user-selected sequence. No cohort, reward formula or assessment acceptance inferred.
 
-## ECC integration and missing buildings — 10 September 2026
-CE-CHANGE-20260910-38: Tania accepted the separate exterior candidate as OK for now and explicitly authorised live integration, relocation of EST to an existing empty building, and an Original Career Empire sign/link to https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/. Local integration is saved in the existing /private/tmp/ce-avatar-release; no new checkout. Chapel interior concept, approved build and placement follow this campus release separately.
-
-Tania reported both outer buildings missing. Both published GLBs still return HTTP 200; local real-physics route checks confirm Careers Advice Centre and First Workplace remain present and reachable. Startup previously revealed the scene before background scenery completed; local startup now awaits all scenery, loads assets concurrently, and widens the aerial view. This is a plausible partial-loading explanation, not proof of the exact screenshot cause. Six unit tests and the focused campus entrance test pass; full release checks remain pending.
-
-EST target remains a necessary unanswered choice: First Workplace on the right (recommended) or Careers Advice Centre on the left. Do not infer an answer or publish the current interim EST hotspot. New hub and Original Career Empire link are local only; live game remains d85de992. Next: obtain target, relocate and label EST, finish gameplay/visual and Blueprint release checks, then publish the already-authorised combined update. Preserve global refresh checkpoint and existing gait/lighting/hosted timing follow-ups.
+Stage 1 starts from live game 04c0351df1c0a6e69a2ee69346047e381da83985 in /private/tmp/ce-avatar-release. The older unpublished lighting comparison has not been located in inspected current work paths; do not claim it was reused or overwrite it. Use the actual current source as the comparison baseline.
 
 
-## Confirmed EST location — 10 September 2026
-Tania confirmed: “Yes first building on right please”. The existing First Workplace at (15,18) becomes EST Prep; Careers Advice Centre remains unchanged. Local navigation now approaches its north-facing doorway at (16,14), with arrival/return at (16,12.5). The old central EST hotspot is removed. Original Career Empire sign and new-tab link join the authorised ECC release. Publication and final validation remain in progress; no further building-choice approval is required.
-
-
-## Verified ECC campus release — 10 September 2026
-CE-CHANGE-20260910-38: live game 9c593f62ead4834df0b74af420c82b32d18a586b. Accepted ECC exterior replaces the old central hall; both outer buildings remain. Confirmed right-hand First Workplace is EST Prep, with approach/return (16,12.5) and doorway (16,14). Original Career Empire sign/footer open the exact requested root URL in a separate tab. Complete scenery is awaited before gameplay; failures show a retry explanation.
-
-Independent live manifest/runtime/asset hashes match, including both outer buildings. Live full map, EST entry/return, original-game new tab and mobile overflow checks pass. Local check, six unit tests, 30 browser tests plus the corrected two-test scenery retest pass; 73 Blueprint tests, TypeScript, focused lint, production/static builds and 14 local/live reader checks pass. Preserve failed runs as evidence. Hosted CI status is separate. Evidence: private/production-evidence/2026-09-10/ecc-campus-hub/release/.
-
-Next: Chapel interior concept from supplied photos, design approval, then 3D interior build and placement. No further exterior/building-choice approval needed. Global refresh remains partial; retain historical intake and separate gait/lighting/hosted timing follow-ups.
+## Stage 1 local review ready
+The existing game checkout now contains playable-3d/world-preview/index.html and preview.js. Current lighting, soft daylight and warm afternoon can be compared at fixed arrival, forecourt and aerial viewpoints. Nine rendered comparisons and phone controls pass; every manifest-listed live runtime file remains unchanged. Evidence and editable source snapshot: private/production-evidence/2026-09-10/world-atmosphere-v1/stage1/. No preset is accepted, no public upload made. Soft daylight neutralises the stone; warm afternoon creates longer, warmer shadows. Sky and geometry remain fixed until their later review stages. Candidate shadow maps use 4096px versus the current 2048px baseline; device performance and quality scaling must be resolved before integrated release.

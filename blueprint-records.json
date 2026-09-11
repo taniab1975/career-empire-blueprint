@@ -188,18 +188,19 @@
     },
     "productionPlan": {
       "id": "CE-PLAN-01",
-      "changeId": "CE-CHANGE-20260910-30",
+      "changeId": "CE-CHANGE-20260910-40",
       "phase": "World Environment & Ecosystem",
       "activeMilestoneId": "CE-ENV-01",
       "objective": "Establish the approved visual and environmental system for the Career Empire campus.",
-      "now": "ECC Chapel reflection interior, repaired sign/posts, clear arrival paving and EST wall video are live and independently verified.",
-      "next": "Review the live Chapel and EST briefing; separately scope any additional Chapel activities.",
-      "then": "Agree any further wellbeing/reflection or Mass activity scope before extending the Chapel.",
-      "later": "Avatar system → experiences → curriculum coverage and validation.",
+      "now": "Publish the authorised clearer EST film with accepted Revision 3 controls, before returning to the separate campus review.",
+      "next": "Publish verified Blueprint integration, issue game receipt and verify the public EST experience.",
+      "then": "After public EST verification, resume record 40 stage lighting review; all five campus stages still precede one combined world upgrade.",
+      "later": "Full boy/girl avatar and changeable-clothing project → Chapel discoveries/side quests → curriculum-grounded entry and world experiences.",
       "sequence": [
         "World Environment & Ecosystem",
         "Buildings & ECC Campus",
         "Avatar System",
+        "Chapel Discoveries & Side Quests",
         "Experiences",
         "Curriculum Coverage & Validation"
       ],
@@ -263,53 +264,63 @@
       {
         "id": "CE-ENV-01",
         "horizon": "Now",
-        "title": "Review the ECC Campus Hub specification",
+        "title": "Review five campus atmosphere upgrades, then release together",
         "owner": "Environment integrator; Tania: appearance and placement acceptance",
-        "status": "Campus landscape live; accepted ECC exterior and right-hand EST release in progress",
-        "dependency": "Existing campus map release 36; actual ECC assets/video and current campus direction; no modelling before scope review.",
-        "doneWhen": "ECC scope is agreed against actual references; a subsequent authorised fit study preserves existing routes and passes fixed-view review.",
-        "href": "/production/ecc-campus-hub-specification-20260910.html",
-        "nextAction": "Review the whole-hub scope before a measured fit study with fixed aerial, arrival, Chapel and doorway views."
+        "status": "Stage 1 lighting comparison ready locally; no candidate accepted yet",
+        "dependency": "Existing live ECC/Chapel/EST release retained; inspect real ECC references for surrounding buildings.",
+        "doneWhen": "Five stage selections are settled, integrated routes/performance/visuals pass and one combined world/public Blueprint release is verified.",
+        "href": "/production/production-plan.md",
+        "nextAction": "Compare current, soft daylight and warm afternoon lighting at fixed viewpoints."
       },
       {
         "id": "CE-EST-BRIDGE-01",
-        "horizon": "Next",
+        "horizon": "Later",
         "title": "Verify the repaired 3D → EST learning loop",
         "owner": "Game integrator",
         "status": "URL fixed in published source; full loop unverified",
-        "dependency": "Current stage IDs, demo/auth identity and evidence ownership",
+        "dependency": "Current stage IDs, demo/auth identity and evidence ownership Scheduled with curriculum/world-entry work after campus, avatars and Chapel discoveries; existing incomplete evidence retained.",
         "doneWhen": "All four hall stations launch the correct activity, save appropriate evidence and return to the same avatar/world.",
         "href": "#delivery"
       },
       {
         "id": "CE-TEACHER-01",
-        "horizon": "Next",
+        "horizon": "Later",
         "title": "Reconcile and release the existing teacher matrix",
         "owner": "Learning-platform maintainer; Tania: workflow acceptance",
         "status": "IMPLEMENTED locally; public deployment pending",
-        "dependency": "Review uncommitted Megatrends changes; preserve unrelated work",
+        "dependency": "Review uncommitted Megatrends changes; preserve unrelated work Scheduled with curriculum/world-entry work after campus, avatars and Chapel discoveries; existing incomplete evidence retained.",
         "doneWhen": "Real saved reviews persist; demo/evidence-only rows stay inspect-only; student → teacher → resume tested.",
         "href": "#delivery"
       },
       {
         "id": "CE-LEARNING-01",
-        "horizon": "Next",
+        "horizon": "Later",
         "title": "Align one complete experience and its payoff",
         "owner": "Tania with implementation support",
         "status": "PLANNED — pilot and edition decision open",
-        "dependency": "2026/2027 curriculum edition reconciliation; retained semester boundary",
+        "dependency": "2026/2027 curriculum edition reconciliation; retained semester boundary Scheduled with curriculum/world-entry work after campus, avatars and Chapel discoveries; existing incomplete evidence retained.",
         "doneWhen": "Choose and approve an experience, evidence and payoff; specify only necessary stage/treasury rules and test learning separately from engagement.",
         "href": "#learning"
       },
       {
         "id": "CE-ART-01",
-        "horizon": "Later",
-        "title": "Resume wardrobe only when the pause is lifted",
+        "horizon": "Next",
+        "title": "Develop reliable boy/girl avatars and changeable clothing",
         "owner": "Avatar integrator; Tania: appearance acceptance",
-        "status": "PAUSED — first-pass blazer test left in place",
-        "dependency": "Tania resumption; complete-body and shared-skeleton plan retained",
-        "doneWhen": "Equip/unequip, fabric HEX, save/reload, Studio/town identity and supported animation pass without unacceptable clipping.",
+        "status": "Future project scope authorised after the world release; old wardrobe prototypes are not accepted",
+        "dependency": "Complete the five-stage world upgrade; assess existing rigs, gait, identity and clothing assets before selecting the implementation.",
+        "doneWhen": "Both identities, walking, clothing equip/unequip, fitting, save/reload and Studio/world continuity pass visual and functional review.",
         "href": "#delivery"
+      },
+      {
+        "id": "CE-CHAPEL-DISCOVERY-01",
+        "horizon": "Later",
+        "title": "Chapel discoveries, Easter eggs and side quests",
+        "owner": "Tania with experience designer",
+        "status": "Future direction agreed; individual experiences not scoped",
+        "dependency": "World upgrades, then the avatar project; preserve peaceful reflection and a clear return path.",
+        "doneWhen": "Select bounded optional discoveries and validate their triggers, surprises and return flow before publication.",
+        "href": "/production/production-plan.md"
       },
       {
         "id": "CE-LATER-01",
@@ -536,7 +547,7 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "Blueprint publication is verified separately from the live game. The ECC Chapel, corrected sign/posts, clear entry paving and EST wall briefing are now live and independently verified. Historical intake, gait, lighting and hosted-test follow-ups remain open.",
+      "summary": "Previous Blueprint publication is verified separately from the live game. Live Chapel/campus retained. The authorised clearer EST film and accepted Revision 3 controls are in the source-bound publication workflow; campus lighting preview is excluded.",
       "facts": [
         {
           "label": "ECC CAMPUS / LIVE AND VERIFIED",
@@ -809,6 +820,57 @@
         }
       ],
       "changes": [
+        {
+          "id": "CE-CHANGE-20260911-41",
+          "date": "2026-09-11",
+          "title": "Clear EST entry and readable briefing/source documents",
+          "domain": "EST navigation / media accessibility",
+          "source": "Tania requests clearer EST entry, larger video and readable SCSA scrolling document sources. Follow-up explicitly requires no autoplay, wall play control, working seeking/restart and three separate CORE/TERM/VTCS documents; another task is fixing the film.",
+          "owner": "Blueprint maintainer / environment designer",
+          "status": "Verified candidate; source-bound publication underway",
+          "rationale": "Remove hidden entry and viewing steps and make source media readable.",
+          "dependencies": [
+            "CE-CHANGE-20260910-39"
+          ],
+          "supersededRecord": null,
+          "designApproval": "User requests navigation and readability correction.",
+          "implementation": "Clearer EST Lab film with preserved Revision 3 immediate wall Play, no autoplay, seek/restart, Back to EST video and CORE/TERM/VTCS document viewer.",
+          "deployment": "Authorised bounded EST release before resuming the separate campus review; public verification pending.",
+          "testing": "Exact replacement film SHA-256 matched; Revision 3 behavior preserved with versioned URLs. Current desktop/mobile playback, seek/restart, return and all source-document checks passed. Blueprint tests, types, lint and builds passed.",
+          "taniaAcceptance": "Requested fix; no final appearance acceptance inferred.",
+          "evidence": [
+            "docs/production/est-access-20260911.md",
+            "private/production-evidence/2026-09-11/est-access/manifest.json",
+            "private/production-evidence/2026-09-11/est-access2/manifest.json",
+            "private/production-evidence/2026-09-11/est-access3/manifest.json",
+            "docs/production/est-release-20260911.md"
+          ],
+          "nextAction": "Publish verified Blueprint integration, issue game receipt and verify the public EST experience."
+        },
+        {
+          "id": "CE-CHANGE-20260910-40",
+          "date": "2026-09-10",
+          "title": "Five staged campus atmosphere reviews before one world release",
+          "domain": "World Environment & Ecosystem / Buildings & ECC Campus",
+          "source": "Tania: do the campus upgrades one at a time, add real campus building references behind/around ECC, settle upgrades before one combined world/Blueprint release; then full boy/girl/changeable-clothes avatar project, Chapel Easter eggs/side quests, then serious curriculum and world-entry experiences.",
+          "owner": "Blueprint maintainer / environment designer",
+          "status": "Stage 1 lighting preview ready for selection",
+          "rationale": "Improve whole-campus atmosphere coherently before advancing to the larger avatar and experience projects.",
+          "dependencies": [
+            "CE-CHANGE-20260910-39"
+          ],
+          "supersededRecord": null,
+          "designApproval": "Authority to develop five successive review candidates, not acceptance of any lighting or campus variant.",
+          "implementation": "Stage 1: isolated lighting comparison reusing the exact current campus source. Subsequent stages: sky/horizon, edges, materials/planting, source-backed surrounding ECC buildings. Arrival composition checked throughout.",
+          "deployment": "No live game or public Blueprint publication during individual candidate reviews. One combined world/public Blueprint release after selections are settled.",
+          "testing": "Nine fixed-view lighting comparisons, three preset switches, phone layout and unchanged live-runtime hashes verified. Preview-only; no integrated gameplay or device-performance acceptance claimed.",
+          "taniaAcceptance": "User selected the production sequence and consolidated-release approach.",
+          "evidence": [
+            "docs/production/campus-atmosphere-upgrades-20260910.md",
+            "private/production-evidence/2026-09-10/world-atmosphere-v1/stage1/manifest.json"
+          ],
+          "nextAction": "Present Stage 1 lighting on the actual current campus at fixed arrival, aerial and walking views."
+        },
         {
           "id": "CE-CHANGE-20260910-39",
           "date": "2026-09-10",
@@ -1831,8 +1893,8 @@
       "title": "ECC Chapel — a place to pause",
       "status": "Live and independently verified",
       "summary": "The peaceful Chapel is live, with photo-backed cross/tree imagery, cream seating and a central aisle. The sign/posts are corrected, blue entry markers removed, and the original four-system EST Lab video plays on the rear wall.",
-      "functions": "Enter the Chapel, explore the central aisle and side seating, pause for quiet reflection, then return to campus. Reflection records no personal writing and adds no points or wellbeing claims. EST keeps its existing learning modules. The original four-system EST Lab briefing plays on the rear wall behind the four PCs, with playback controls and automatic pause on exit.",
-      "nextAction": "Review the live Chapel and EST briefing; separately scope any additional Chapel activities.",
+      "functions": "Enter the Chapel, explore the central aisle and side seating, pause for quiet reflection, then return to campus. Reflection records no personal writing and adds no points or wellbeing claims. EST keeps its existing learning modules. The original four-system EST Lab briefing plays on the rear wall behind the four PCs, with playback controls and automatic pause on exit. Revision 3 candidate: immediate explicit wall play after silent room entry, reliable seeking/restart and three in-window source documents accompany the clearer replacement film.",
+      "nextAction": "Complete the bounded EST release; retain the live Chapel and campus while lighting remains in review.",
       "href": "/production/ecc-campus-hub-specification-20260910.html",
       "image": "/evidence/chapel-20260910/chapel-live.png",
       "imageCaption": "Actual live playable Chapel; accepted concept and source photos are documented in the specification.",
@@ -4271,7 +4333,7 @@
       "title": "ECC Career Campus + Campus-to-Career Corridor",
       "status": "Direction and candidate production approved; finished precinct not accepted",
       "summary": "Warm limestone or pale brick, navy framing, timber fins, glass, native gardens and shaded paths. Teal is restrained wayfinding and interaction. Character-level walking views lead; aerial views explain context. The first quality slice is Avatar Studio with its garden, approach and plaza edge.",
-      "sequence": "ECC exterior, right-hand EST, photo-backed Chapel reflection interior, clear arrival path and EST wall briefing are live. The accepted A Place to Pause concept remains the Chapel fidelity target; actual game views show simpler native geometry and real-time lighting. Preserve separate gait and lighting follow-ups.",
+      "sequence": "Review lighting, sky/horizon, campus edges, materials/planting and real surrounding ECC references one at a time; settle choices before one combined world/public Blueprint release. Boy/girl avatars and changeable clothes follow, then Chapel discoveries and curriculum/world-entry experiences.",
       "boundary": "The older civic concepts and prompt pack below are retained history and supporting references. They do not override this campus direction or approve new buildings, RPG mechanics, an economy formula or a faithful reconstruction of ECC.",
       "evidenceHref": "/production/visual-register.md",
       "source": "Recovered exact originals from archived task 01a0808f-c02e-7a40-af94-7538beb5ab57: image events 2483, 2490, 2760; user responses 9 September 07:05 and 07:52 UTC and later approved production sequence."
@@ -4829,10 +4891,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20260910-39"
+        "CE-CHANGE-20260911-41"
       ],
-      "scope": "Walkable ECC Chapel, corrected original-game sign/posts, cleared entry pavers and existing four-system EST Lab video on rear wall; existing campus and avatar retained",
-      "disclosure": "Combined game update and Blueprint integration verified. Historical intake, gait, lighting and hosted-test follow-ups remain open.",
+      "scope": "Clearer EST Lab film with preserved Revision 3 immediate wall Play, no autoplay, seek/restart, Back to EST video and CORE/TERM/VTCS document viewer.",
+      "disclosure": "EST candidate verified; authorised reader/game publication pending. Campus review remains unpublished. Historical intake and separate gait/workflow follow-ups remain open.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -5009,20 +5071,21 @@
         "scripts/render-specification.mjs",
         "public/evidence/ecc-campus-hub-20260910/recognition-sheet.jpg",
         "public/evidence/ecc-campus-hub-20260910/built-v1/campus.png",
-        "public/evidence/ecc-campus-hub-20260910/built-v1/est-entrance.png"
+        "public/evidence/ecc-campus-hub-20260910/built-v1/est-entrance.png",
+        "docs/production/est-release-20260911.md"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "e4d13b790013308e2fefd3696d0aff4c0aa9f5a6a06f68e2c4f2049cf68a0467",
-          "reviewedAt": "2026-09-10",
-          "method": "Reviewed verified live game outcome, exact hashes, actual Chapel/EST screenshots and retained limits. Completed game source binding preserved unchanged."
+          "sha256": "eca75f6bc3c7b411f9d804bac5da8a0a6d712c7400814232eb555589fe8f9189",
+          "reviewedAt": "2026-09-11",
+          "method": "Reviewed EST cache-refresh URL-only changes and preserved Revision 3 behavior; reviewed concurrent steward instruction note without including its unrelated tooling edits."
         },
         {
           "path": "README.md",
-          "sha256": "c88e4fc4f1f6c177558a9e0334f752235852413cbb74d9d29537bf43c6cd1bb4",
-          "reviewedAt": "2026-09-10",
-          "method": "Reviewed verified live game outcome, exact hashes, actual Chapel/EST screenshots and retained limits. Completed game source binding preserved unchanged."
+          "sha256": "1191e8658915c590aaa18d98ded21e3b5aede43e939e12a4c2854b1b4e92986a",
+          "reviewedAt": "2026-09-11",
+          "method": "Reviewed bounded EST release, exact replacement identity and preserved Revision 3 source; unrelated campus acceptance and protected decisions unchanged."
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -5084,21 +5147,21 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "fc12d00d11884a830fc3a0a1fabfe7a227dbceedaca5ce04374b2d1322ce18ec",
-          "reviewedAt": "2026-09-10",
-          "method": "Reviewed verified live game outcome, exact hashes, actual Chapel/EST screenshots and retained limits. Completed game source binding preserved unchanged."
+          "sha256": "9609a98842c55200a307bde5a68d005d5b207353c26338fa6ba5355c33d0be41",
+          "reviewedAt": "2026-09-11",
+          "method": "Reviewed bounded EST release, exact replacement identity and preserved Revision 3 source; unrelated campus acceptance and protected decisions unchanged."
         },
         {
           "path": "data/style-guide.json",
-          "sha256": "f105387050ec64e5992429c1932862101488f3a2c95d547fe86e1158ee6209ba",
+          "sha256": "9a5e325e1c12ee3c5ac873c8ad4a62ec802c5a8a55e9ce37fd62b812ebd43c89",
           "reviewedAt": "2026-09-10",
-          "method": "Reviewed verified live game outcome, exact hashes, actual Chapel/EST screenshots and retained limits. Completed game source binding preserved unchanged."
+          "method": "Reviewed explicit five-stage production-sequence change and preview-only lighting evidence. Source is local working state; public/world release deliberately deferred. Prior completed game binding preserved."
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "017cea3a7fec54aceedb2e053e8a4b84504402123025acc0f7106dcfb291255c",
-          "reviewedAt": "2026-09-10",
-          "method": "Reviewed verified live game outcome, exact hashes, actual Chapel/EST screenshots and retained limits. Completed game source binding preserved unchanged."
+          "sha256": "eb1abd47465362cca5493979cbf720dc224815ebdcf9cf98d8f8f2daa8823481",
+          "reviewedAt": "2026-09-11",
+          "method": "Reviewed EST cache-refresh URL-only changes and preserved Revision 3 behavior; reviewed concurrent steward instruction note without including its unrelated tooling edits."
         },
         {
           "path": "docs/production/arrival-playable-release-20260910.md",
@@ -5140,9 +5203,9 @@
         },
         {
           "path": "docs/production/production-plan.md",
-          "sha256": "a1063973d57bd32a17ed749422206dd80245846a057d0d9ea46f086a4e4f29be",
+          "sha256": "47ffa700245ba298e3e6fe9af981ff8bf473be164112c586a03d26b5dd903faf",
           "reviewedAt": "2026-09-10",
-          "method": "Runtime and loading changes, source manifest, regression tests and actual local screenshots distinguish implementation from publication. Reviewed bounded ECC source changes and retained unrelated records; final automated/reader results are recorded separately. Verified live ECC campus release: source/asset hashes and public map, EST return, original-game link and mobile checks; next Chapel concept."
+          "method": "Reviewed explicit five-stage production-sequence change and preview-only lighting evidence. Source is local working state; public/world release deliberately deferred. Prior completed game binding preserved."
         },
         {
           "path": "docs/production/project-automation-setup-2026-09-10.md",
@@ -5604,9 +5667,9 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "7da76fcdd012f40f4d17fc1136fc9387f3547d23d0d286ca5f4049d369481688",
-          "reviewedAt": "2026-09-10",
-          "method": "Reviewed addition of deterministic HTML/Markdown specification export; existing exports retained."
+          "sha256": "ff42ce4648b39f4a5e31b233791a656c3577ef6c395d23968f27fded97f9a407",
+          "reviewedAt": "2026-09-11",
+          "method": "Reviewed explicit HTML and Markdown export of the new EST release specification using the existing safe renderer."
         },
         {
           "path": "scripts/prepare-pages.mjs",
@@ -5658,15 +5721,20 @@
         },
         {
           "path": "scripts/workflow-monitor.mjs",
-          "sha256": "a988b8446802d5b2bcd9186e50980d821dc040afb60023e8ae5a365e981d1738"
+          "sha256": "88ba752ffb65c77b011c55badc79c1d34d6070d6b8322d795a282ae470091bd8",
+          "reviewedAt": "2026-09-11",
+          "method": "Reviewed bounded EST release, exact replacement identity and preserved Revision 3 source; unrelated campus acceptance and protected decisions unchanged."
         },
         {
           "path": "tests/workflow-monitor.test.mjs",
-          "sha256": "3d797bbea4da50a483414bc40f49097069184761df6d700b7f5aadf829cbb5b5"
+          "sha256": "072ce35cb71ea650983c0bf8e1f6d651e8de637427183273309a30f668c1fd35",
+          "reviewedAt": "2026-09-11",
+          "method": "Reviewed bounded EST release, exact replacement identity and preserved Revision 3 source; unrelated campus acceptance and protected decisions unchanged."
         },
         {
           "path": "tests/production-plan.test.mjs",
-          "sha256": "c1dcb306405b0d96e50ecc8c785f061eeb5b606d973109b91fb2fe772608872d"
+          "sha256": "ef3b5976e89400657eeddadedfff45a7f3223fea0c30f5abc9cfff7838793e32",
+          "method": "Reviewed explicit five-stage production-sequence change and preview-only lighting evidence. Source is local working state; public/world release deliberately deferred. Prior completed game binding preserved."
         },
         {
           "path": "docs/production/maintenance-20260910.md",
@@ -5744,9 +5812,9 @@
         },
         {
           "path": "docs/production/ecc-campus-hub-specification-20260910.md",
-          "sha256": "4e26ad10d558257e8cb99e9edd5b1898747a5b7644e69cefebeee71867425f7b",
-          "reviewedAt": "2026-09-10",
-          "method": "Reviewed verified live game outcome, exact hashes, actual Chapel/EST screenshots and retained limits. Completed game source binding preserved unchanged."
+          "sha256": "57ac5329341366a8dc02466cde07c4109764a8c303b5bb3090f7bd07d4a75992",
+          "reviewedAt": "2026-09-11",
+          "method": "Reviewed bounded EST release, exact replacement identity and preserved Revision 3 source; unrelated campus acceptance and protected decisions unchanged."
         },
         {
           "path": "scripts/render-specification.mjs",
@@ -5771,10 +5839,857 @@
           "sha256": "acc1e95d35cfd52a9b758e79bc3608637fd80eb74bbbbb4952484e0793c64c68",
           "reviewedAt": "2026-09-10",
           "method": "Inspected actual ECC specification and local game capture; current versus concept and publication state are labelled."
+        },
+        {
+          "path": "docs/production/est-release-20260911.md",
+          "sha256": "3f443219acec286b75bdf30f51e09a84ce00beb596353aa38bde48f43687f314",
+          "reviewedAt": "2026-09-11",
+          "method": "Reviewed EST cache-refresh URL-only changes and preserved Revision 3 behavior; reviewed concurrent steward instruction note without including its unrelated tooling edits."
         }
       ]
     },
     "changes": [
+      {
+        "changeId": "CE-CHANGE-20260911-41",
+        "title": "Clear EST entry and readable briefing/source documents",
+        "types": [
+          "implementation",
+          "visual",
+          "activity"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Make EST entry and its briefing easy to find and read.",
+        "before": "Destination stops outside; another entry action and central-aisle interaction are needed; document inset is too small.",
+        "after": "Clearer EST Lab film with preserved Revision 3 immediate wall Play, no autoplay, seek/restart, Back to EST video and CORE/TERM/VTCS document viewer.",
+        "source": "Tania requests clearer navigation and bigger EST video/source document views.",
+        "owner": "Career Empire developer",
+        "nextAction": "Verify published Blueprint integration, issue receipt and publish the bound game candidate.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Current production summary identifies the bounded EST release before returning to campus review.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current production summary identifies the bounded EST release before returning to campus review. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Existing environment milestone remains active; EST publication is the immediate side task and Stage 1 lighting follows.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing environment milestone remains active; EST publication is the immediate side task and Stage 1 lighting follows. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Retained revisions 1–3 and recorded the supplied replacement hash and explicit release authority.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Retained revisions 1–3 and recorded the supplied replacement hash and explicit release authority. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Updated AGENTS, rolling handoff and README with source-bound order, exact film identity and excluded work.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Updated AGENTS, rolling handoff and README with source-bound order, exact film identity and excluded work. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Regenerate public/private records and the new clean EST release specification; pending campus review stays labelled pending.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Regenerate public/private records and the new clean EST release specification; pending campus review stays labelled pending. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish reviewed reader, verify exact live records and source binding, then release and verify game.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Local implementation/evidence saved; release integration review pending.",
+              "date": ""
+            },
+            "nextAction": "Compare live reader records, specification and screenshots before issuing receipt."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Existing EST room and four PCs retained; immediate explicit wall Play and silent entry are accepted Revision 3.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing EST room and four PCs retained; immediate explicit wall Play and silent entry are accepted Revision 3. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "No world geometry, economy, unlock or rewards changes; world-preview is excluded from game paths.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No world geometry, economy, unlock or rewards changes; world-preview is excluded from game paths. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Actual current-film viewer, wall Play and phone document captures linked in release specification.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current-film viewer, wall Play and phone document captures linked in release specification. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Only replacement MP4 changed; exact supplied SHA verified, original poster and viewer controls retained.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Only replacement MP4 changed; exact supplied SHA verified, original poster and viewer controls retained. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Bound all existing Revision 3 document-page files and unchanged runtime assets; replacement MP4 identity recorded.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Bound all existing Revision 3 document-page files and unchanged runtime assets; replacement MP4 identity recorded. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Silent entry, explicit Play, seeking/restart, document selection, paused film return and hall exit verified.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Silent entry, explicit Play, seeking/restart, document selection, paused film return and hall exit verified. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Exact game Git object versions bound; local playback and document checks retained; game upload remains next gate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact game Git object versions bound; local playback and document checks retained; game upload remains next gate. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "User accepts Revision 3 and explicitly authorises EST release ahead of campus update for LinkedIn demonstration.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "User accepts Revision 3 and explicitly authorises EST release ahead of campus update for LinkedIn demonstration. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Avatar assets, appearance options, rig and save logic unchanged; existing saved-avatar navigation evidence retained.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Avatar assets, appearance options, rig and save logic unchanged; existing saved-avatar navigation evidence retained. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "No teacher UI, roles, student records or classroom acceptance changes; this is media/navigation only.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No teacher UI, roles, student records or classroom acceptance changes; this is media/navigation only. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Canonical checkout and existing public destinations retained; no duplicate checkout. Local source commits saved; private remote authorisation unresolved.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical checkout and existing public destinations retained; no duplicate checkout. Local source commits saved; private remote authorisation unresolved. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Same CORE/TERM/VTCS source PDFs and page hashes retained; no new edition, cohort or mapping claims.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Same CORE/TERM/VTCS source PDFs and page hashes retained; no new edition, cohort or mapping claims. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Existing route into room now uses accepted Revision 3; source docs and Back to EST video stay in the viewer; no pilot acceptance implied.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing route into room now uses accepted Revision 3; source docs and Back to EST video stay in the viewer; no pilot acceptance implied. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "No assessment timing, criteria, marking, taught coverage or scoring changes; film/viewer improvement only.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No assessment timing, criteria, marking, taught coverage or scoring changes; film/viewer improvement only. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Supplied film hash matched; original PDF sources remain downloadable, rendered pages unchanged; other task owns video authoring.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "docs/production/est-release-20260911.md",
+              "private/production-evidence/2026-09-11/est-release/"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Supplied film hash matched; original PDF sources remain downloadable, rendered pages unchanged; other task owns video authoring. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "date": "2026-09-11"
+            },
+            "nextAction": "Preserve this verified scope through release."
+          }
+        ],
+        "projectChanges": {
+          "game-live": {
+            "Assets/EST Preparation/est-lab-systems.mp4": "100644:b1e05a8ce832be053a14dcd0931f391c519ad2a4",
+            "playable-3d/app.js": "100644:cba2fd404d10f7f52d2292627ebc3d949331eae8",
+            "playable-3d/index.html": "100644:52e43df08d6e8e37271a35877eb7a6177d8711de",
+            "playable-3d/style.css": "100644:3649e29d9adc4f78da6ee98160c1e669d911b19e",
+            "playable-3d/est-wall-video.js": "100644:c5f2acb95a3976c0df1ebead647e5e6964235538",
+            "playable-3d/release-manifest.json": "100644:3e748161864f4f2d9c4b084f76a8bfc80460cd0c",
+            "tests/e2e/chapel.spec.js": "100644:5fcccfcd55019df5bc7f4bdfd8e0c1b1fbbad867",
+            "tests/e2e/est-wall-video.spec.js": "100644:d3a5b348179dfbba1b41842a578de2937e1cddc2",
+            "tests/e2e/playable-scenery.spec.js": "100644:83d61f18556dc37263c27edbe3eaafe43ca5b1e7",
+            "tests/e2e/playable-startup.spec.js": "100644:d386fb955a7ff2927a382c794ca258ad1cae51ca",
+            "docs/current-workspace-status.md": "100644:c82c4ca215a7c3830ef9a9b794f7a3795b1c8c07",
+            "playable-3d/assets/est-documents/pages.json": "100644:35b2c9046afe6a0121d75b9ca72672687f95ab78",
+            "playable-3d/assets/est-documents/core/page-1.png": "100644:1f6a4d72fcf408f96baa04ce3ac1a59712c13049",
+            "playable-3d/assets/est-documents/core/page-3.png": "100644:4403ba03d72aeeece0eb9bf2939952a38ef70ced",
+            "playable-3d/assets/est-documents/core/page-2.png": "100644:6f7b1f3b34a35a18f3bb9b666c6d898c62359569",
+            "playable-3d/assets/est-documents/core/page-5.png": "100644:f59666502497acc0f2df1367b521fba28a64b4a7",
+            "playable-3d/assets/est-documents/core/page-4.png": "100644:1feb4f2ee6c0f57a05203286690167935d7a5815",
+            "playable-3d/assets/est-documents/term/page-1.png": "100644:20ab337b9e8d6788fb96875f78daeeadefaafb93",
+            "playable-3d/assets/est-documents/term/page-3.png": "100644:9ef6750d70c66207fa91c9844946008c0f1c9b18",
+            "playable-3d/assets/est-documents/term/page-2.png": "100644:e545978cfdf26428438003be7f154143acd9c9c6",
+            "playable-3d/assets/est-documents/vtcs/page-1.png": "100644:37dc5916a2d2057cdbd753cad2d2481162967ea0",
+            "playable-3d/assets/est-documents/vtcs/page-3.png": "100644:2d5b56d8546ac6da54abaa810b5a1233b25b3185",
+            "playable-3d/assets/est-documents/vtcs/page-2.png": "100644:7bd164226e8d18e17d823bae32095cfd906c4bb8",
+            "playable-3d/world.js": "100644:07e4515c15acd571e847b3db6232b5c0c525ae48"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20260910-40",
+        "title": "Five staged campus atmosphere reviews before one world release",
+        "types": [
+          "building",
+          "visual",
+          "implementation",
+          "decision",
+          "activity",
+          "release"
+        ],
+        "status": "in-progress",
+        "objective": "Improve whole-campus atmosphere coherently before advancing to the larger avatar and experience projects.",
+        "before": "Live ECC/Chapel/EST release is complete; campus atmosphere refinements and avatar work remain open.",
+        "after": "Five review stages followed by one settled world release; avatar and Chapel discovery work follow in the user-selected order.",
+        "source": "Tania: do the campus upgrades one at a time, add real campus building references behind/around ECC, settle upgrades before one combined world/Blueprint release; then full boy/girl/changeable-clothes avatar project, Chapel Easter eggs/side quests, then serious curriculum and world-entry experiences.",
+        "owner": "Career Empire environment developer",
+        "nextAction": "Present Stage 1 lighting on the actual current campus at fixed arrival, aerial and walking views.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "pending",
+            "action": "Review start against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "pending",
+            "action": "Review roadmap against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "history",
+            "disposition": "pending",
+            "action": "Review history against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "pending",
+            "action": "Review protocol against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "exports",
+            "disposition": "pending",
+            "action": "Review exports against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Review publication against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "pending",
+            "action": "Review buildings against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "world",
+            "disposition": "pending",
+            "action": "Review world against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "pending",
+            "action": "Review visuals against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "media",
+            "disposition": "pending",
+            "action": "Review media against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "assets",
+            "disposition": "pending",
+            "action": "Review assets against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "flow",
+            "disposition": "pending",
+            "action": "Review flow against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "build",
+            "disposition": "pending",
+            "action": "Review build against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "pending",
+            "action": "Review decisions against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "pending",
+            "action": "Review avatars against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "pending",
+            "action": "Review teacher against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "pending",
+            "action": "Review recovery against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "pending",
+            "action": "Review curriculum against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "journey",
+            "disposition": "pending",
+            "action": "Review journey against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "pending",
+            "action": "Review assessment against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          },
+          {
+            "surface": "sources",
+            "disposition": "pending",
+            "action": "Review sources against the new staged campus plan and preview-only first lighting candidate.",
+            "records": [
+              "CE-ECC-HUB-01"
+            ],
+            "owner": "Career Empire environment developer",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [],
+            "verification": {
+              "result": "pending",
+              "method": "Await Stage 1 candidate and source review.",
+              "date": ""
+            },
+            "nextAction": "Inspect this surface before the eventual combined world release."
+          }
+        ]
+      },
       {
         "changeId": "CE-CHANGE-20260910-39",
         "title": "ECC Chapel, arrival sign and paving, and EST wall briefing",

@@ -2,6 +2,42 @@
 
 Generated from data/operations.json. One canonical register; do not edit this view directly.
 
+## CE-CHANGE-20260911-41 — Clear EST entry and readable briefing/source documents
+
+- **date:** 2026-09-11
+- **domain:** EST navigation / media accessibility
+- **source:** Tania requests clearer EST entry, larger video and readable SCSA scrolling document sources. Follow-up explicitly requires no autoplay, wall play control, working seeking/restart and three separate CORE/TERM/VTCS documents; another task is fixing the film.
+- **owner:** Blueprint maintainer / environment designer
+- **status:** Verified candidate; source-bound publication underway
+- **rationale:** Remove hidden entry and viewing steps and make source media readable.
+- **dependencies:** CE-CHANGE-20260910-39
+- **supersededRecord:** None
+- **designApproval:** User requests navigation and readability correction.
+- **implementation:** Clearer EST Lab film with preserved Revision 3 immediate wall Play, no autoplay, seek/restart, Back to EST video and CORE/TERM/VTCS document viewer.
+- **deployment:** Authorised bounded EST release before resuming the separate campus review; public verification pending.
+- **testing:** Exact replacement film SHA-256 matched; Revision 3 behavior preserved with versioned URLs. Current desktop/mobile playback, seek/restart, return and all source-document checks passed. Blueprint tests, types, lint and builds passed.
+- **taniaAcceptance:** Requested fix; no final appearance acceptance inferred.
+- **evidence:** docs/production/est-access-20260911.md / private/production-evidence/2026-09-11/est-access/manifest.json / private/production-evidence/2026-09-11/est-access2/manifest.json / private/production-evidence/2026-09-11/est-access3/manifest.json / docs/production/est-release-20260911.md
+- **nextAction:** Publish verified Blueprint integration, issue game receipt and verify the public EST experience.
+
+## CE-CHANGE-20260910-40 — Five staged campus atmosphere reviews before one world release
+
+- **date:** 2026-09-10
+- **domain:** World Environment & Ecosystem / Buildings & ECC Campus
+- **source:** Tania: do the campus upgrades one at a time, add real campus building references behind/around ECC, settle upgrades before one combined world/Blueprint release; then full boy/girl/changeable-clothes avatar project, Chapel Easter eggs/side quests, then serious curriculum and world-entry experiences.
+- **owner:** Blueprint maintainer / environment designer
+- **status:** Stage 1 lighting preview ready for selection
+- **rationale:** Improve whole-campus atmosphere coherently before advancing to the larger avatar and experience projects.
+- **dependencies:** CE-CHANGE-20260910-39
+- **supersededRecord:** None
+- **designApproval:** Authority to develop five successive review candidates, not acceptance of any lighting or campus variant.
+- **implementation:** Stage 1: isolated lighting comparison reusing the exact current campus source. Subsequent stages: sky/horizon, edges, materials/planting, source-backed surrounding ECC buildings. Arrival composition checked throughout.
+- **deployment:** No live game or public Blueprint publication during individual candidate reviews. One combined world/public Blueprint release after selections are settled.
+- **testing:** Nine fixed-view lighting comparisons, three preset switches, phone layout and unchanged live-runtime hashes verified. Preview-only; no integrated gameplay or device-performance acceptance claimed.
+- **taniaAcceptance:** User selected the production sequence and consolidated-release approach.
+- **evidence:** docs/production/campus-atmosphere-upgrades-20260910.md / private/production-evidence/2026-09-10/world-atmosphere-v1/stage1/manifest.json
+- **nextAction:** Present Stage 1 lighting on the actual current campus at fixed arrival, aerial and walking views.
+
 ## CE-CHANGE-20260910-39 — ECC Chapel, arrival sign and paving, and EST wall briefing
 
 - **date:** 2026-09-10
