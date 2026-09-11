@@ -193,7 +193,7 @@
       "activeMilestoneId": "CE-ENV-01",
       "objective": "Establish the approved visual and environmental system for the Career Empire campus.",
       "now": "Publish the authorised clearer EST film with accepted Revision 3 controls, before returning to the separate campus review.",
-      "next": "Publish verified Blueprint integration, issue game receipt and verify the public EST experience.",
+      "next": "Issue the published record 41 receipt, publish the exact game files, then verify the public EST experience.",
       "then": "After public EST verification, resume record 40 stage lighting review; all five campus stages still precede one combined world upgrade.",
       "later": "Full boy/girl avatar and changeable-clothing project → Chapel discoveries/side quests → curriculum-grounded entry and world experiences.",
       "sequence": [
@@ -827,7 +827,7 @@
           "domain": "EST navigation / media accessibility",
           "source": "Tania requests clearer EST entry, larger video and readable SCSA scrolling document sources. Follow-up explicitly requires no autoplay, wall play control, working seeking/restart and three separate CORE/TERM/VTCS documents; another task is fixing the film.",
           "owner": "Blueprint maintainer / environment designer",
-          "status": "Verified candidate; source-bound publication underway",
+          "status": "Blueprint integrated and verified; game upload next",
           "rationale": "Remove hidden entry and viewing steps and make source media readable.",
           "dependencies": [
             "CE-CHANGE-20260910-39"
@@ -835,7 +835,7 @@
           "supersededRecord": null,
           "designApproval": "User requests navigation and readability correction.",
           "implementation": "Clearer EST Lab film with preserved Revision 3 immediate wall Play, no autoplay, seek/restart, Back to EST video and CORE/TERM/VTCS document viewer.",
-          "deployment": "Authorised bounded EST release before resuming the separate campus review; public verification pending.",
+          "deployment": "Reader verified; authorised source-bound game publication next.",
           "testing": "Exact replacement film SHA-256 matched; Revision 3 behavior preserved with versioned URLs. Current desktop/mobile playback, seek/restart, return and all source-document checks passed. Blueprint tests, types, lint and builds passed.",
           "taniaAcceptance": "Requested fix; no final appearance acceptance inferred.",
           "evidence": [
@@ -4894,7 +4894,7 @@
         "CE-CHANGE-20260911-41"
       ],
       "scope": "Clearer EST Lab film with preserved Revision 3 immediate wall Play, no autoplay, seek/restart, Back to EST video and CORE/TERM/VTCS document viewer.",
-      "disclosure": "EST candidate verified; authorised reader/game publication pending. Campus review remains unpublished. Historical intake and separate gait/workflow follow-ups remain open.",
+      "disclosure": "EST Blueprint integration and reader publication verified; authorised source-bound game upload follows. Campus lighting remains separate and unpublished.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -5077,9 +5077,9 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "eca75f6bc3c7b411f9d804bac5da8a0a6d712c7400814232eb555589fe8f9189",
+          "sha256": "97b0daf728fc73d76f8df5f3eddece3705d01468d86844c93decf1690c8f34ee",
           "reviewedAt": "2026-09-11",
-          "method": "Reviewed EST cache-refresh URL-only changes and preserved Revision 3 behavior; reviewed concurrent steward instruction note without including its unrelated tooling edits."
+          "method": "Reviewed independently verified reader publication and accurate game-upload-pending status; exact game source binding unchanged."
         },
         {
           "path": "README.md",
@@ -5147,9 +5147,9 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "9609a98842c55200a307bde5a68d005d5b207353c26338fa6ba5355c33d0be41",
+          "sha256": "aec3a44c32439086467da5d4a73312b248beba287c384e7074fa45f82b1849b8",
           "reviewedAt": "2026-09-11",
-          "method": "Reviewed bounded EST release, exact replacement identity and preserved Revision 3 source; unrelated campus acceptance and protected decisions unchanged."
+          "method": "Reviewed independently verified reader publication and accurate game-upload-pending status; exact game source binding unchanged."
         },
         {
           "path": "data/style-guide.json",
@@ -5159,9 +5159,9 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "eb1abd47465362cca5493979cbf720dc224815ebdcf9cf98d8f8f2daa8823481",
+          "sha256": "e1cd9b4f70bae313cd9f0ebcf95ce69f3a2a4a32680a5601938f46a413a0df07",
           "reviewedAt": "2026-09-11",
-          "method": "Reviewed EST cache-refresh URL-only changes and preserved Revision 3 behavior; reviewed concurrent steward instruction note without including its unrelated tooling edits."
+          "method": "Reviewed independently verified reader publication and accurate game-upload-pending status; exact game source binding unchanged."
         },
         {
           "path": "docs/production/arrival-playable-release-20260910.md",
@@ -5857,13 +5857,13 @@
           "visual",
           "activity"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Make EST entry and its briefing easy to find and read.",
         "before": "Destination stops outside; another entry action and central-aisle interaction are needed; document inset is too small.",
         "after": "Clearer EST Lab film with preserved Revision 3 immediate wall Play, no autoplay, seek/restart, Back to EST video and CORE/TERM/VTCS document viewer.",
         "source": "Tania requests clearer navigation and bigger EST video/source document views.",
         "owner": "Career Empire developer",
-        "nextAction": "Verify published Blueprint integration, issue receipt and publish the bound game candidate.",
+        "nextAction": "Publish the explicitly bound EST game candidate and independently verify the public page.",
         "targets": [
           {
             "surface": "start",
@@ -5880,7 +5880,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Current production summary identifies the bounded EST release before returning to campus review. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Current production summary identifies the bounded EST release before returning to campus review. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -5900,7 +5900,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Existing environment milestone remains active; EST publication is the immediate side task and Stage 1 lighting follows. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Existing environment milestone remains active; EST publication is the immediate side task and Stage 1 lighting follows. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -5920,7 +5920,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Retained revisions 1–3 and recorded the supplied replacement hash and explicit release authority. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Retained revisions 1–3 and recorded the supplied replacement hash and explicit release authority. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -5940,7 +5940,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Updated AGENTS, rolling handoff and README with source-bound order, exact film identity and excluded work. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Updated AGENTS, rolling handoff and README with source-bound order, exact film identity and excluded work. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -5960,27 +5960,30 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Regenerate public/private records and the new clean EST release specification; pending campus review stays labelled pending. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Regenerate public/private records and the new clean EST release specification; pending campus review stays labelled pending. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Publish reviewed reader, verify exact live records and source binding, then release and verify game.",
+            "disposition": "updated",
+            "action": "Public Blueprint reader, exact live record and reviewed game source binding verified. Blueprint integration complete; authorised game upload follows.",
             "records": [
               "CE-ECC-HUB-01"
             ],
             "owner": "Career Empire environment developer",
             "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
-            "evidence": [],
+            "evidence": [
+              "private/production-evidence/2026-09-11/est-release/reader-live-hashes.json",
+              "private/production-evidence/2026-09-11/est-release/reader-live/checks.json"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "Local implementation/evidence saved; release integration review pending.",
-              "date": ""
+              "result": "passed",
+              "method": "Live manifest and six reader/media files match; 14 desktop/mobile route/specification checks pass. Game publication is the next authorised step.",
+              "date": "2026-09-11"
             },
-            "nextAction": "Compare live reader records, specification and screenshots before issuing receipt."
+            "nextAction": "Publish the explicitly bound EST game candidate and independently verify the public page."
           },
           {
             "surface": "buildings",
@@ -5997,7 +6000,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Existing EST room and four PCs retained; immediate explicit wall Play and silent entry are accepted Revision 3. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Existing EST room and four PCs retained; immediate explicit wall Play and silent entry are accepted Revision 3. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -6017,7 +6020,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "No world geometry, economy, unlock or rewards changes; world-preview is excluded from game paths. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "No world geometry, economy, unlock or rewards changes; world-preview is excluded from game paths. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -6037,7 +6040,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Actual current-film viewer, wall Play and phone document captures linked in release specification. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Actual current-film viewer, wall Play and phone document captures linked in release specification. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -6057,7 +6060,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Only replacement MP4 changed; exact supplied SHA verified, original poster and viewer controls retained. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Only replacement MP4 changed; exact supplied SHA verified, original poster and viewer controls retained. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -6077,7 +6080,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Bound all existing Revision 3 document-page files and unchanged runtime assets; replacement MP4 identity recorded. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Bound all existing Revision 3 document-page files and unchanged runtime assets; replacement MP4 identity recorded. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -6097,7 +6100,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Silent entry, explicit Play, seeking/restart, document selection, paused film return and hall exit verified. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Silent entry, explicit Play, seeking/restart, document selection, paused film return and hall exit verified. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -6117,7 +6120,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Exact game Git object versions bound; local playback and document checks retained; game upload remains next gate. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Exact game Git object versions bound; local playback and document checks retained; game upload remains next gate. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -6137,7 +6140,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "User accepts Revision 3 and explicitly authorises EST release ahead of campus update for LinkedIn demonstration. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "User accepts Revision 3 and explicitly authorises EST release ahead of campus update for LinkedIn demonstration. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -6157,7 +6160,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Avatar assets, appearance options, rig and save logic unchanged; existing saved-avatar navigation evidence retained. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Avatar assets, appearance options, rig and save logic unchanged; existing saved-avatar navigation evidence retained. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -6177,7 +6180,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "No teacher UI, roles, student records or classroom acceptance changes; this is media/navigation only. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "No teacher UI, roles, student records or classroom acceptance changes; this is media/navigation only. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -6197,7 +6200,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Canonical checkout and existing public destinations retained; no duplicate checkout. Local source commits saved; private remote authorisation unresolved. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Canonical checkout and existing public destinations retained; no duplicate checkout. Local source commits saved; private remote authorisation unresolved. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -6217,7 +6220,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Same CORE/TERM/VTCS source PDFs and page hashes retained; no new edition, cohort or mapping claims. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Same CORE/TERM/VTCS source PDFs and page hashes retained; no new edition, cohort or mapping claims. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -6237,7 +6240,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Existing route into room now uses accepted Revision 3; source docs and Back to EST video stay in the viewer; no pilot acceptance implied. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Existing route into room now uses accepted Revision 3; source docs and Back to EST video stay in the viewer; no pilot acceptance implied. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -6257,7 +6260,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "No assessment timing, criteria, marking, taught coverage or scoring changes; film/viewer improvement only. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "No assessment timing, criteria, marking, taught coverage or scoring changes; film/viewer improvement only. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."
@@ -6277,7 +6280,7 @@
             ],
             "verification": {
               "result": "passed",
-              "method": "Supplied film hash matched; original PDF sources remain downloadable, rendered pages unchanged; other task owns video authoring. Verified source and retained exact prior evidence; final generated-reader checks precede publication.",
+              "method": "Supplied film hash matched; original PDF sources remain downloadable, rendered pages unchanged; other task owns video authoring. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.",
               "date": "2026-09-11"
             },
             "nextAction": "Preserve this verified scope through release."

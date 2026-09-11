@@ -4,11 +4,11 @@ Generated from data/change-integrations.json; edit the canonical record, not thi
 
 Release scope: Clearer EST Lab film with preserved Revision 3 immediate wall Play, no autoplay, seek/restart, Back to EST video and CORE/TERM/VTCS document viewer.
 
-EST candidate verified; authorised reader/game publication pending. Campus review remains unpublished. Historical intake and separate gait/workflow follow-ups remain open.
+EST Blueprint integration and reader publication verified; authorised source-bound game upload follows. Campus lighting remains separate and unpublished.
 
 ## CE-CHANGE-20260911-41 — Clear EST entry and readable briefing/source documents
 
-Integration: **ready-for-publication**. Types: implementation, visual, activity. Owner: Career Empire developer.
+Integration: **complete**. Types: implementation, visual, activity. Owner: Career Empire developer.
 
 **Objective:** Make EST entry and its briefing easy to find and read.
 
@@ -18,7 +18,7 @@ Integration: **ready-for-publication**. Types: implementation, visual, activity.
 
 **Source:** Tania requests clearer navigation and bigger EST video/source document views.
 
-**Next:** Verify published Blueprint integration, issue receipt and publish the bound game candidate.
+**Next:** Publish the explicitly bound EST game candidate and independently verify the public page.
 
 ### Start Here — updated
 
@@ -30,7 +30,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Purpose, current direction, status and next action must agree with the change.
 
-Verification: passed / Current production summary identifies the bounded EST release before returning to campus review. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Current production summary identifies the bounded EST release before returning to campus review. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -47,7 +47,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
 
-Verification: passed / Existing environment milestone remains active; EST publication is the immediate side task and Stage 1 lighting follows. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Existing environment milestone remains active; EST publication is the immediate side task and Stage 1 lighting follows. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -64,7 +64,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
 
-Verification: passed / Retained revisions 1–3 and recorded the supplied replacement hash and explicit release authority. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Retained revisions 1–3 and recorded the supplied replacement hash and explicit release authority. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -81,7 +81,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
 
-Verification: passed / Updated AGENTS, rolling handoff and README with source-bound order, exact film identity and excluded work. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Updated AGENTS, rolling handoff and README with source-bound order, exact film identity and excluded work. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -98,27 +98,29 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
 
-Verification: passed / Regenerate public/private records and the new clean EST release specification; pending campus review stays labelled pending. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Regenerate public/private records and the new clean EST release specification; pending campus review stays labelled pending. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
 
 Next: Preserve this verified scope through release.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Publish reviewed reader, verify exact live records and source binding, then release and verify game.
+Public Blueprint reader, exact live record and reviewed game source binding verified. Blueprint integration complete; authorised game upload follows.
 
 Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Local implementation/evidence saved; release integration review pending.
+Verification: passed / Live manifest and six reader/media files match; 14 desktop/mobile route/specification checks pass. Game publication is the next authorised step.
 
+- [Evidence](private/production-evidence/2026-09-11/est-release/reader-live-hashes.json)
+- [Evidence](private/production-evidence/2026-09-11/est-release/reader-live/checks.json)
 
-Next: Compare live reader records, specification and screenshots before issuing receipt.
+Next: Publish the explicitly bound EST game candidate and independently verify the public page.
 
 ### Buildings and places — updated
 
@@ -130,7 +132,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
 
-Verification: passed / Existing EST room and four PCs retained; immediate explicit wall Play and silent entry are accepted Revision 3. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Existing EST room and four PCs retained; immediate explicit wall Play and silent entry are accepted Revision 3. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -147,7 +149,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
 
-Verification: passed / No world geometry, economy, unlock or rewards changes; world-preview is excluded from game paths. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / No world geometry, economy, unlock or rewards changes; world-preview is excluded from game paths. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -164,7 +166,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
 
-Verification: passed / Actual current-film viewer, wall Play and phone document captures linked in release specification. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Actual current-film viewer, wall Play and phone document captures linked in release specification. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -181,7 +183,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
 
-Verification: passed / Only replacement MP4 changed; exact supplied SHA verified, original poster and viewer controls retained. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Only replacement MP4 changed; exact supplied SHA verified, original poster and viewer controls retained. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -198,7 +200,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
 
-Verification: passed / Bound all existing Revision 3 document-page files and unchanged runtime assets; replacement MP4 identity recorded. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Bound all existing Revision 3 document-page files and unchanged runtime assets; replacement MP4 identity recorded. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -215,7 +217,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
 
-Verification: passed / Silent entry, explicit Play, seeking/restart, document selection, paused film return and hall exit verified. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Silent entry, explicit Play, seeking/restart, document selection, paused film return and hall exit verified. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -232,7 +234,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
 
-Verification: passed / Exact game Git object versions bound; local playback and document checks retained; game upload remains next gate. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Exact game Git object versions bound; local playback and document checks retained; game upload remains next gate. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -249,7 +251,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
 
-Verification: passed / User accepts Revision 3 and explicitly authorises EST release ahead of campus update for LinkedIn demonstration. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / User accepts Revision 3 and explicitly authorises EST release ahead of campus update for LinkedIn demonstration. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -266,7 +268,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
 
-Verification: passed / Avatar assets, appearance options, rig and save logic unchanged; existing saved-avatar navigation evidence retained. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Avatar assets, appearance options, rig and save logic unchanged; existing saved-avatar navigation evidence retained. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -283,7 +285,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
 
-Verification: passed / No teacher UI, roles, student records or classroom acceptance changes; this is media/navigation only. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / No teacher UI, roles, student records or classroom acceptance changes; this is media/navigation only. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -300,7 +302,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
 
-Verification: passed / Canonical checkout and existing public destinations retained; no duplicate checkout. Local source commits saved; private remote authorisation unresolved. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Canonical checkout and existing public destinations retained; no duplicate checkout. Local source commits saved; private remote authorisation unresolved. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -317,7 +319,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
 
-Verification: passed / Same CORE/TERM/VTCS source PDFs and page hashes retained; no new edition, cohort or mapping claims. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Same CORE/TERM/VTCS source PDFs and page hashes retained; no new edition, cohort or mapping claims. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -334,7 +336,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
 
-Verification: passed / Existing route into room now uses accepted Revision 3; source docs and Back to EST video stay in the viewer; no pilot acceptance implied. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Existing route into room now uses accepted Revision 3; source docs and Back to EST video stay in the viewer; no pilot acceptance implied. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -351,7 +353,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
 
-Verification: passed / No assessment timing, criteria, marking, taught coverage or scoring changes; film/viewer improvement only. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / No assessment timing, criteria, marking, taught coverage or scoring changes; film/viewer improvement only. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
@@ -368,7 +370,7 @@ Records: CE-ECC-HUB-01. Owner: Career Empire environment developer.
 
 Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
 
-Verification: passed / Supplied film hash matched; original PDF sources remain downloadable, rendered pages unchanged; other task owns video authoring. Verified source and retained exact prior evidence; final generated-reader checks precede publication.
+Verification: passed / Supplied film hash matched; original PDF sources remain downloadable, rendered pages unchanged; other task owns video authoring. Verified source and retained exact prior evidence; final generated-reader checks precede publication. Final generated reader verified locally and live on desktop/mobile.
 
 - [Evidence](docs/production/est-release-20260911.md)
 - [Evidence](private/production-evidence/2026-09-11/est-release/)
