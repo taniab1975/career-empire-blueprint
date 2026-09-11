@@ -273,4 +273,4 @@ The accepted concept remains a visual target; native geometry and real-time ligh
 
 
 ## Current EST release — 11 September 2026
-The clearer film and accepted Revision 3 navigation/player/document viewer are being published as a bounded update. [Current EST release specification](/career-empire-blueprint/production/est-release-20260911.html). Chapel and the surrounding campus are retained.
+The clearer film and accepted Revision 3 navigation/player/document viewer are live and independently verified as a bounded update. [Current EST release specification](/career-empire-blueprint/production/est-release-20260911.html). Chapel and the surrounding campus are retained.

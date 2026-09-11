@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "9311e472e57c012b504fe28975c1c949c1e34e46",
-  "generatedAt": "2026-09-11T01:16:08.777Z",
+  "sourceCommit": "be0af489a08bb4157c83671e0d2440f3323293e2",
+  "generatedAt": "2026-09-11T01:28:30.768Z",
   "revision": "V2.20 / 10 September 2026",
-  "recordSha256": "f408118d749e92eb9091426b46812488a9b2b00e887283bcbf428e39865875ee",
+  "recordSha256": "ebdabeb772f77725bdcc0251f1f15d9d167722d65524b0e6beb27d61a8ccd7ed",
   "files": [
     {
       "path": "assets/index-CItsirJh.js",
@@ -14,7 +14,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "f408118d749e92eb9091426b46812488a9b2b00e887283bcbf428e39865875ee"
+      "sha256": "ebdabeb772f77725bdcc0251f1f15d9d167722d65524b0e6beb27d61a8ccd7ed"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -686,15 +686,15 @@
     },
     {
       "path": "evidence/est-release-20260911/video-1440.png",
-      "sha256": "f89d1e62f03653245efcca047ff002d80625f5e9b1ff0ec2adeba9443ccefa9b"
+      "sha256": "dd7f34576225d939135b58f009f3a049f2bcbb4620f72d79b43232a23ff32a4d"
     },
     {
       "path": "evidence/est-release-20260911/vtcs-1440.png",
-      "sha256": "b1b57e5ac6427633f998f10ed8d7505844bf8b27ae21e7c6a4531a2c83ae02c8"
+      "sha256": "e3a95f819583e1896e4f20a6edb21d539b2cb163b0760869b09afa274b382f8a"
     },
     {
       "path": "evidence/est-release-20260911/wall-1440.png",
-      "sha256": "70afc29472db005a9ddddfefd4e4b0079a4a771c10050f508e676745fff8b07f"
+      "sha256": "eedec9fe4b937b1bd1a9a84467f98715faedfcbd6bbd4bb70bed7f9e34e96b1e"
     },
     {
       "path": "evidence/github-pages-20260909/first-live-desktop.png",
@@ -1038,7 +1038,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "e886d7f97f9d9aaa1500e3f6a25988e12bb01f0fbaa1bad4bbf33abd4d6baa30"
+      "sha256": "fc36a7e50046d5d1d73870de7a81840106c392de07a90947c83afa04b52d2ee6"
     },
     {
       "path": "production/change-workflows.md",
@@ -1058,19 +1058,19 @@
     },
     {
       "path": "production/ecc-campus-hub-specification-20260910.html",
-      "sha256": "0673459efd7ed25102c598635c20a27f14c13310182f76aacf97c6eeed1b493b"
+      "sha256": "b06769b2c236553fcf93eaa374714289e27d18ed3226f7c214aa14298d43128e"
     },
     {
       "path": "production/ecc-campus-hub-specification-20260910.md",
-      "sha256": "3ec62780979be3ab835a8d57a3ddaad9d5aaa03edd819e22fcec4e689a64a7b8"
+      "sha256": "9818d9a784a9c0fdec95811ec27807b72efaba3be6ce786031cc946c8ff67983"
     },
     {
       "path": "production/est-release-20260911.html",
-      "sha256": "5ec286afd40a595d09a1e4630fe1c822e91f4da9e8e37d82cf2844e404c6da8f"
+      "sha256": "53b30d3e71031c7eb27b1f2cfd144212af73ec5e471c5ca45f94302705348e1a"
     },
     {
       "path": "production/est-release-20260911.md",
-      "sha256": "7ba91c77ffac5ef52be9cf61a07527db379914ae53eb978b5a729f4fc5b8ea33"
+      "sha256": "6729384ed2adda89398c1ca05c9fa3d45dc5fdbf325d22b66409e6d785f485c8"
     },
     {
       "path": "production/game-hosting-correction-20260910.md",
@@ -1098,7 +1098,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "37db51a426e864a8b2a9d669578e4c074cadb0de2d0c8adbda8a504d05a6d976"
+      "sha256": "06edb0dcd6489d833849076ce48abb253f925d076c2efa473439d94e766f0498"
     },
     {
       "path": "production/operating-protocol.md",

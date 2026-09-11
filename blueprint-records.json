@@ -192,9 +192,9 @@
       "phase": "World Environment & Ecosystem",
       "activeMilestoneId": "CE-ENV-01",
       "objective": "Establish the approved visual and environmental system for the Career Empire campus.",
-      "now": "Publish the authorised clearer EST film with accepted Revision 3 controls, before returning to the separate campus review.",
-      "next": "Issue the published record 41 receipt, publish the exact game files, then verify the public EST experience.",
-      "then": "After public EST verification, resume record 40 stage lighting review; all five campus stages still precede one combined world upgrade.",
+      "now": "The clearer EST film and accepted Revision 3 controls are live and verified. Resume the five-stage campus atmosphere review.",
+      "next": "Review the separate Disrepair, Growth and Flourishing lighting treatments at matched viewpoints, then Stage 2 sky/horizon.",
+      "then": "Settle sky/horizon, campus edges, materials/planting and real surrounding ECC references one at a time; publish one combined world update afterwards.",
       "later": "Full boy/girl avatar and changeable-clothing project → Chapel discoveries/side quests → curriculum-grounded entry and world experiences.",
       "sequence": [
         "World Environment & Ecosystem",
@@ -547,7 +547,7 @@
     "production": {
       "date": "10 September 2026",
       "title": "Current state — 10 September 2026",
-      "summary": "Previous Blueprint publication is verified separately from the live game. Live Chapel/campus retained. The authorised clearer EST film and accepted Revision 3 controls are in the source-bound publication workflow; campus lighting preview is excluded.",
+      "summary": "Blueprint publication is verified separately from the live game. Clearer EST film and Revision 3 controls are now live and independently verified; Chapel and campus remain intact. Separate campus lighting preview is unpublished.",
       "facts": [
         {
           "label": "ECC CAMPUS / LIVE AND VERIFIED",
@@ -827,7 +827,7 @@
           "domain": "EST navigation / media accessibility",
           "source": "Tania requests clearer EST entry, larger video and readable SCSA scrolling document sources. Follow-up explicitly requires no autoplay, wall play control, working seeking/restart and three separate CORE/TERM/VTCS documents; another task is fixing the film.",
           "owner": "Blueprint maintainer / environment designer",
-          "status": "Blueprint integrated and verified; game upload next",
+          "status": "Live and independently verified",
           "rationale": "Remove hidden entry and viewing steps and make source media readable.",
           "dependencies": [
             "CE-CHANGE-20260910-39"
@@ -835,17 +835,19 @@
           "supersededRecord": null,
           "designApproval": "User requests navigation and readability correction.",
           "implementation": "Clearer EST Lab film with preserved Revision 3 immediate wall Play, no autoplay, seek/restart, Back to EST video and CORE/TERM/VTCS document viewer.",
-          "deployment": "Reader verified; authorised source-bound game publication next.",
-          "testing": "Exact replacement film SHA-256 matched; Revision 3 behavior preserved with versioned URLs. Current desktop/mobile playback, seek/restart, return and all source-document checks passed. Blueprint tests, types, lint and builds passed.",
+          "deployment": "Published game f43672660b3191eda9b910fc98aafdfae44e3945; live runtime/document hashes and exact replacement MP4 verified. Desktop/mobile immediate Play, no autoplay, seek/restart, Back to EST video and source viewer passed.",
+          "testing": "All 40 live file hashes including the exact MP4 match. Public desktop/mobile immediate Play, no autoplay, seeking/restart, Back to EST video, all source documents and zoom passed. Local Blueprint tests/types/lint/builds passed; hosted CI tracked separately.",
           "taniaAcceptance": "Requested fix; no final appearance acceptance inferred.",
           "evidence": [
             "docs/production/est-access-20260911.md",
             "private/production-evidence/2026-09-11/est-access/manifest.json",
             "private/production-evidence/2026-09-11/est-access2/manifest.json",
             "private/production-evidence/2026-09-11/est-access3/manifest.json",
-            "docs/production/est-release-20260911.md"
+            "docs/production/est-release-20260911.md",
+            "private/production-evidence/2026-09-11/est-release/game-live-result.json",
+            "private/production-evidence/2026-09-11/est-release/game-live-hashes.json"
           ],
-          "nextAction": "Publish verified Blueprint integration, issue game receipt and verify the public EST experience."
+          "nextAction": "Resume record 40 Stage 1 campus lighting review."
         },
         {
           "id": "CE-CHANGE-20260910-40",
@@ -1892,9 +1894,9 @@
       "changeId": "CE-CHANGE-20260910-39",
       "title": "ECC Chapel — a place to pause",
       "status": "Live and independently verified",
-      "summary": "The peaceful Chapel is live, with photo-backed cross/tree imagery, cream seating and a central aisle. The sign/posts are corrected, blue entry markers removed, and the original four-system EST Lab video plays on the rear wall.",
-      "functions": "Enter the Chapel, explore the central aisle and side seating, pause for quiet reflection, then return to campus. Reflection records no personal writing and adds no points or wellbeing claims. EST keeps its existing learning modules. The original four-system EST Lab briefing plays on the rear wall behind the four PCs, with playback controls and automatic pause on exit. Revision 3 candidate: immediate explicit wall play after silent room entry, reliable seeking/restart and three in-window source documents accompany the clearer replacement film.",
-      "nextAction": "Complete the bounded EST release; retain the live Chapel and campus while lighting remains in review.",
+      "summary": "The peaceful Chapel remains live. EST now has the clearer film, immediate explicit wall Play, no autoplay, seek/restart and three in-window source documents.",
+      "functions": "Enter the Chapel, explore the central aisle and side seating, pause for quiet reflection, then return to campus. Reflection records no personal writing and adds no points or wellbeing claims. EST keeps its existing learning modules. The original four-system EST Lab briefing plays on the rear wall behind the four PCs, with playback controls and automatic pause on exit. Revision 3 is live: immediate explicit wall play after silent room entry, reliable seeking/restart and three in-window source documents accompany the clearer replacement film.",
+      "nextAction": "Resume the separate five-stage campus atmosphere review.",
       "href": "/production/ecc-campus-hub-specification-20260910.html",
       "image": "/evidence/chapel-20260910/chapel-live.png",
       "imageCaption": "Actual live playable Chapel; accepted concept and source photos are documented in the specification.",
@@ -4894,7 +4896,7 @@
         "CE-CHANGE-20260911-41"
       ],
       "scope": "Clearer EST Lab film with preserved Revision 3 immediate wall Play, no autoplay, seek/restart, Back to EST video and CORE/TERM/VTCS document viewer.",
-      "disclosure": "EST Blueprint integration and reader publication verified; authorised source-bound game upload follows. Campus lighting remains separate and unpublished.",
+      "disclosure": "EST Blueprint and game are live and independently verified. Separate campus lighting review remains unpublished; historical intake, gait and unrelated workflow follow-ups remain open.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -5077,9 +5079,9 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "97b0daf728fc73d76f8df5f3eddece3705d01468d86844c93decf1690c8f34ee",
+          "sha256": "5ea722665fec89e747adf5a3052691805131280e8787071f67f0a1686afba313",
           "reviewedAt": "2026-09-11",
-          "method": "Reviewed independently verified reader publication and accurate game-upload-pending status; exact game source binding unchanged."
+          "method": "Reviewed exact public EST game/video verification and restored campus-review next step; completed record 41 integration binding preserved."
         },
         {
           "path": "README.md",
@@ -5147,9 +5149,9 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "aec3a44c32439086467da5d4a73312b248beba287c384e7074fa45f82b1849b8",
+          "sha256": "54cf3b13e34271280303477ebcfec5ad12e943f0faf3b7c5ef9885a21c80b095",
           "reviewedAt": "2026-09-11",
-          "method": "Reviewed independently verified reader publication and accurate game-upload-pending status; exact game source binding unchanged."
+          "method": "Reviewed exact public EST game/video verification and restored campus-review next step; completed record 41 integration binding preserved."
         },
         {
           "path": "data/style-guide.json",
@@ -5159,9 +5161,9 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "e1cd9b4f70bae313cd9f0ebcf95ce69f3a2a4a32680a5601938f46a413a0df07",
+          "sha256": "648db1c322e08de60c4f36e1dfeb56a81e4402ea988252cd6e13aacdba35278e",
           "reviewedAt": "2026-09-11",
-          "method": "Reviewed independently verified reader publication and accurate game-upload-pending status; exact game source binding unchanged."
+          "method": "Reviewed exact public EST game/video verification and restored campus-review next step; completed record 41 integration binding preserved."
         },
         {
           "path": "docs/production/arrival-playable-release-20260910.md",
@@ -5812,9 +5814,9 @@
         },
         {
           "path": "docs/production/ecc-campus-hub-specification-20260910.md",
-          "sha256": "57ac5329341366a8dc02466cde07c4109764a8c303b5bb3090f7bd07d4a75992",
+          "sha256": "9058a36612899b65c3a0cd799cae557d00eb534564c570c674a8936a7e7b4e98",
           "reviewedAt": "2026-09-11",
-          "method": "Reviewed bounded EST release, exact replacement identity and preserved Revision 3 source; unrelated campus acceptance and protected decisions unchanged."
+          "method": "Reviewed exact public EST game/video verification and restored campus-review next step; completed record 41 integration binding preserved."
         },
         {
           "path": "scripts/render-specification.mjs",
@@ -5842,9 +5844,9 @@
         },
         {
           "path": "docs/production/est-release-20260911.md",
-          "sha256": "3f443219acec286b75bdf30f51e09a84ce00beb596353aa38bde48f43687f314",
+          "sha256": "210521033a825b502f586f43bf201305e94e7c1da1faeb0e63953271b2acfc29",
           "reviewedAt": "2026-09-11",
-          "method": "Reviewed EST cache-refresh URL-only changes and preserved Revision 3 behavior; reviewed concurrent steward instruction note without including its unrelated tooling edits."
+          "method": "Reviewed exact public EST game/video verification and restored campus-review next step; completed record 41 integration binding preserved."
         }
       ]
     },

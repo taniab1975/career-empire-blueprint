@@ -4,7 +4,7 @@ Generated from data/change-integrations.json; edit the canonical record, not thi
 
 Release scope: Clearer EST Lab film with preserved Revision 3 immediate wall Play, no autoplay, seek/restart, Back to EST video and CORE/TERM/VTCS document viewer.
 
-EST Blueprint integration and reader publication verified; authorised source-bound game upload follows. Campus lighting remains separate and unpublished.
+EST Blueprint and game are live and independently verified. Separate campus lighting review remains unpublished; historical intake, gait and unrelated workflow follow-ups remain open.
 
 ## CE-CHANGE-20260911-41 — Clear EST entry and readable briefing/source documents
 
