@@ -31,7 +31,7 @@
     {
       "id": "CE-KIT-001",
       "number": 1,
-      "name": "Limestone wall \u2014 2 m",
+      "name": "Limestone wall — 2 m",
       "family": "Campus modular kit",
       "moduleId": "wall-2m",
       "version": "0.1.0",
@@ -57,7 +57,7 @@
     {
       "id": "CE-KIT-002",
       "number": 2,
-      "name": "Limestone wall \u2014 1 m",
+      "name": "Limestone wall — 1 m",
       "family": "Campus modular kit",
       "moduleId": "wall-1m",
       "version": "0.1.0",
@@ -1806,7 +1806,7 @@
       "assembly": null,
       "preview": "/evidence/avatar-campus-kit-20260910/kit-overview.png",
       "previewSha256": "53f9d669eb5fe7f3d20f2c62bc23f4285c1fe144ffb2c2159d1bde56e2589d62",
-      "previewKind": "Component kit overview \u2014 not the assembled building",
+      "previewKind": "Component kit overview — not the assembled building",
       "components": [
         {
           "assetId": "CE-KIT-001",
@@ -2538,6 +2538,126 @@
       ],
       "approvedBy": "Tania",
       "approvedAt": "2026-09-10T05:27:32.720570+00:00"
+    },
+    {
+      "id": "CE-ECC-ADMIN-SIGNAGE-01",
+      "revision": 5,
+      "changeId": "CE-CHANGE-20260913-49",
+      "status": "implemented-locally-appearance-review-open",
+      "documentation": "docs/production/ecc-admin-signage-20260913.md",
+      "sourceReceipt": "private/production-evidence/2026-09-13/ecc-signage-chapel-correction/revision5/receipt.json",
+      "assets": [
+        {
+          "id": "CE-ECC-EXTERIOR-V2-0",
+          "source": "local implementation; reference-derived Chapel reconstruction",
+          "file": "playable-3d/app.js",
+          "sha256": "a5b27dd8f786d9e4f2d202b131ca67507ab0bfc55e7a22351039d41a65094ebe"
+        },
+        {
+          "id": "CE-ECC-EXTERIOR-V2-1",
+          "source": "local implementation; reference-derived Chapel reconstruction",
+          "file": "playable-3d/world.js",
+          "sha256": "c1cf18cc413f76758eaacb14461b6d5f9a58bcd2acf12689aa96d9e4096a91df"
+        },
+        {
+          "id": "CE-ECC-EXTERIOR-V2-2",
+          "source": "local implementation; reference-derived Chapel reconstruction",
+          "file": "playable-3d/ecc-preview/authored-courtyard.js",
+          "sha256": "3f0c7bd2df01fbc2b28d8211f3c36194d42fc068070136c04ff4478ee9401e2f"
+        },
+        {
+          "id": "CE-ECC-EXTERIOR-V2-3",
+          "source": "local implementation; reference-derived Chapel reconstruction",
+          "file": "playable-3d/ecc-preview/admin-signage.js",
+          "sha256": "cbe6b41e65b25b47817ab56db171a74d05f90b323fb65f792ae8e147377ccdac"
+        },
+        {
+          "id": "CE-ECC-EXTERIOR-V2-4",
+          "source": "local implementation; reference-derived Chapel reconstruction",
+          "file": "playable-3d/ecc-preview/landmark-layout.js",
+          "sha256": "c19f5758afd182af3dab10e820371baf6c119d0e1c5dba5153cfbba1a5cd6e50"
+        },
+        {
+          "id": "CE-ECC-EXTERIOR-V2-5",
+          "source": "local implementation; reference-derived Chapel reconstruction",
+          "file": "playable-3d/ecc-preview/assets/authored-courtyard/ecc-exterior-v5-compressed.glb",
+          "sha256": "7563edf9322d7ab89bfb3fe171305911463d12f5b59178d9be2a18243f840df4"
+        },
+        {
+          "id": "CE-ECC-EXTERIOR-V2-6",
+          "source": "local implementation; reference-derived Chapel reconstruction",
+          "file": "playable-3d/ecc-preview/assets/authored-courtyard/chapel-etched-glass-v2.png",
+          "sha256": "4d91d224fec6b82bf07b5acea5fa14dc247799f0b0ff6701fd9f08e136905c45"
+        },
+        {
+          "id": "CE-ECC-EXTERIOR-V2-7",
+          "source": "user original",
+          "file": "playable-3d/ecc-preview/assets/admin-signage/cleaned-ecc-crest-source.png",
+          "sha256": "ea4b15c15cd68f70d14285bc89d6ea5d9d7c6b30edfca149bfccd925f616c036"
+        }
+      ],
+      "preview": "/evidence/ecc-admin-signage-20260913/revision5/chapel.png",
+      "previewSha256": "6bd00e6b8f0d89c6a2091b3ea22ae602928bae048358ad8cf0c87fcafb9bc8be",
+      "approval": {
+        "status": "user-review-pending",
+        "sourceUseAuthorised": true,
+        "note": "User requested the crest replacement and glass treatment; no final appearance approval inferred."
+      }
+    },
+    {
+      "id": "CE-ECC-CHAPEL-INTERIOR-01",
+      "revision": 1,
+      "changeId": "CE-CHANGE-20260913-49",
+      "status": "published-and-source-verified",
+      "documentation": "docs/production/chapel-interior-upgrade-20260913.md",
+      "sourceReceipt": "private/production-evidence/2026-09-13/chapel-interior-upgrade/receipt.json",
+      "assets": [
+        {
+          "id": "CE-CHAPEL-INTERIOR-0",
+          "source": "local code / official Three.js r180 dependency",
+          "file": "playable-3d/chapel.js",
+          "sha256": "4e057b3eb9800d7a94e65ae67ddffac0090891fe99e1ea9a1b1f788465361c30",
+          "bytes": 18002
+        },
+        {
+          "id": "CE-CHAPEL-INTERIOR-1",
+          "source": "local code / official Three.js r180 dependency",
+          "file": "playable-3d/app.js",
+          "sha256": "76a53eca5e978e5a7273d2fc240cc0db79dfe4bfcc7d00a7096d87713f1e43ed",
+          "bytes": 40268
+        },
+        {
+          "id": "CE-CHAPEL-INTERIOR-2",
+          "source": "local code / official Three.js r180 dependency",
+          "file": "playable-3d/world.js",
+          "sha256": "0b2baecd4b51a6ab1df963355f0552421f98cabff5854ad1f7096a104161f368",
+          "bytes": 31013
+        },
+        {
+          "id": "CE-CHAPEL-INTERIOR-3",
+          "source": "local code / official Three.js r180 dependency",
+          "file": "playable-3d/vendor/three/examples/jsm/lights/RectAreaLightUniformsLib.js",
+          "sha256": "494fef2d731ff1689050cc6040ad78d927c22b9125a12f532beb0374c2811c6e",
+          "bytes": 1014
+        },
+        {
+          "id": "CE-CHAPEL-INTERIOR-4",
+          "source": "local code / official Three.js r180 dependency",
+          "file": "playable-3d/vendor/three/examples/jsm/lights/RectAreaLightTexturesLib.js",
+          "sha256": "8acc50043aebc3ff0f63e21607ef2394cda41d634f92093bcb7ad6f1d1e2eb11",
+          "bytes": 314770
+        }
+      ],
+      "preview": "/evidence/chapel-interior-upgrade-20260913/after.png",
+      "previewSha256": "d90f0b1d4057819daccfb2e06d45a331af9b8f62b83ed3689b922439203b8354",
+      "approval": {
+        "status": "accepted",
+        "sourceUseAuthorised": true,
+        "note": "Tania explicitly approved final corrected interior and live publication: great! love it send to live if all good to go."
+      },
+      "liveUrl": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/?view=chapel-interior",
+      "publishedCommit": "7388cfa3bca6b58a06a88bf18f65e6d49dc17501",
+      "liveReceipt": "private/production-evidence/2026-09-13/chapel-interior-upgrade/live-receipt.json"
     }
   ]
 }

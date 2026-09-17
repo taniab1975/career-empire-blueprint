@@ -2,15 +2,15 @@
 
 ## Current accepted direction
 
-ECC Career Campus + Campus-to-Career Corridor
+Playable environments follow approved hero art
 
-Direction and candidate production approved; finished precinct not accepted
+Approved governing standard; courtyard iteration below final target
 
-Warm limestone or pale brick, navy framing, timber fins, glass, native gardens and shaded paths. Teal is restrained wayfinding and interaction. Character-level walking views lead; aerial views explain context. The first quality slice is Avatar Studio with its garden, approach and plaza edge.
+Target 80–90% perceived hero richness at normal player views. Warm masonry, deep architecture, glass, native planting and believable light. Optimise through engineering, not indiscriminate simplification.
 
-Review lighting, sky/horizon, campus edges, materials/planting and real surrounding ECC references one at a time; settle choices before one combined world/public Blueprint release. Boy/girl avatars and changeable clothes follow, then Chapel discoveries and curriculum/world-entry experiences.
+ECC pilot → Avatar Studio exterior → supporting destinations → background by fidelity tier.
 
-The older civic concepts and prompt pack below are retained history and supporting references. They do not override this campus direction or approve new buildings, RPG mechanics, an economy formula or a faithful reconstruction of ECC.
+This is a local playable iteration and remains below the approved hero reference. Overall architectural and landscape composition, convincing interiors/reflections and natural foliage still need further art work. No 80–90% fidelity, physical-device acceptance, wider rollout or deployment is claimed. Original older three-panel attachments and physical-device tests remain unavailable.
 
 ## Reusable kit source — CE-ENV-KIT-01
 [Whole-item review](asset-batch-review-2026-09-10.md) includes component parts; no separate wall or flower approvals. Batch 1 now contains ten complete places; review them together.
@@ -18,21 +18,21 @@ Fourteen textured modules are reusable source assets for the ten complete Batch 
 
 ## Current recovered originals and built evidence
 
-### CE-CAMPUS-BUILT-02 — Landscaped campus with Careers Advice Centre and First Workplace
-![Landscaped campus with Careers Advice Centre and First Workplace](https://taniab1975.github.io/career-empire-blueprint/evidence/campus-map-20260910/live-map.png)
-built / 2026-09-10
-Actual playable campus: connected paving, lawns, approved plants, reused shade and two existing buildings with fronts toward the paths. Tania accepted the landscape direction and authorised the building selection and live release.
-Limits: Live environmental update verified. Town hall retained for future ECC, native Studio retained. Separate avatar gait follow-up remains open; classroom activities and broader batch approval are not implied.
-Next: Play and review the live campus; scope the future ECC separately.
-Source: CE-CHANGE-20260910-36; actual live game d85de9920f23f9f18288c42eed2e86dcfc9da1b1. Existing approved plants and selected Careers Advice Centre / First Workplace source files preserved.
-SHA-256: 3e5d6f6ad7c8ddfbf55b81697cc32d8786a6ff830447ea813889a9d1b646901d
+### CE-CAMPUS-BUILT-02 — ECC hero-fidelity pilot — actual local build
+![ECC hero-fidelity pilot — actual local build](https://taniab1975.github.io/career-empire-blueprint/evidence/ecc-hero-20260913/ecc-after-forecourt-1440.png)
+built / 2026-09-13
+Actual local playable ECC pilot: stronger masonry, recessed glazing/interior impression, roof/soffit depth, planter finishes, dense bed planting and measured batching/culling.
+Limits: Local candidate, not live publication or final hero-quality acceptance. Original layout, crest, connected Chapel/Admin/Services and gameplay retained. Historical September 10 map image remains archived at its original evidence path.
+Next: Complete regression checks; compare remaining foliage/architectural richness and physical-device cost before final pilot acceptance.
+Source: CE-CHANGE-20260913-47; actual local game a2794e42c359ed930124e34b459d71bcc35216ef, based on d442671. Fixed normal forecourt player position (0,-2.8), yaw 0, FOV 55, 1440x900; test-only positioning is not shipped.
+SHA-256: c32f5f2d0c60bc754d816c1a72939769d3a7286352dd199f1b863900e6f3a3df
 
 ### CE-CAMPUS-01 — ECC Career Campus — approved visual foundation
 ![ECC Career Campus — approved visual foundation](https://taniab1975.github.io/career-empire-blueprint/references/current/ecc-career-campus.png)
 concept / 2026-09-09
 Warm limestone, navy framing, glass, timber shade and layered native gardens; the recovered 9 September courtyard concept.
 Limits: A concept target, not a live map or a faithful reconstruction of ECC. Its skyline and waterfront are not evidence of the real school.
-Next: Review Batch 1: ten complete appearance candidates together. Existing originals control direction; each whole item includes its parts. Resolve named exceptions before map/runtime integration.
+Next: Governing ECC pilot target; compare fixed normal player views against this reference.
 Source: Generated 9 September 06:41:56 UTC; Refine Career Empire Blender master, image event 2483. Tania welcomed the campus/corridor direction at 07:05 UTC.
 SHA-256: 49a72f63ed395aef4efaa0804fc7f4b7bf56b1ae4bd76ddf6a89fb29df7d675a
 
@@ -41,7 +41,7 @@ SHA-256: 49a72f63ed395aef4efaa0804fc7f4b7bf56b1ae4bd76ddf6a89fb29df7d675a
 concept / 2026-09-09
 The recovered 9 September elevated view connects school learning, civic life and future work with one readable walking spine.
 Limits: The aerial explains direction, not final coordinates, semester order, unlock thresholds or completed construction.
-Next: Review Batch 1: ten complete appearance candidates together. Existing originals control direction; each whole item includes its parts. Resolve named exceptions before map/runtime integration.
+Next: Governing ECC pilot target; compare fixed normal player views against this reference.
 Source: Generated 9 September 06:42:58 UTC; same task, image event 2490; campus/corridor direction welcomed by Tania at 07:05 UTC.
 SHA-256: a04ca8ee06d621c26d731bb713b10cbe321fc0353c89ceac28e42bb7cae95d01
 
@@ -89,15 +89,25 @@ Limits: This image is the approved local capture; the identical repaired asset i
 Next: Play the live game: Avatar Studio → School student; use walking, turn and portrait controls. Continue the existing environment plan.
 Source: Update Avatar Appearance continuation, Tania: “Yey he is much better! Please go ahead and update to live”. CE-CHANGE-20260910-35; player-schoolboy-repaired-20260910.glb.
 SHA-256: 6f393115b27899b90c4ee2b73d1f3c8feff1aa00a052ef0c96854770937fb9d0
-Open integration CE-CHANGE-20260910-40: Improve whole-campus atmosphere coherently before advancing to the larger avatar and experience projects. Next: Present Stage 1 lighting on the actual current campus at fixed arrival, aerial and walking views.
+Open integration CE-CHANGE-20260916-67: Let Tania test the corrected dressed avatar in the existing live game. Next: Verify game publication and support user appearance testing; whole-reader integration remains separate.
+Open integration CE-CHANGE-20260914-52: Enable repeated store demonstrations without changing student finances and collect development feedback through the existing teacher channel. Next: Complete pending reader integrations separately; do not infer reader publication from the game release.
+Open integration CE-CHANGE-20260914-50: Implement all seven screenshot-backed gameplay corrections. Next: Finish local visual checks and review the corrected candidate; publication remains separate.
+Open integration CE-CHANGE-20260913-49: Use supplied cleaned crest and hero-campus glass finish while preserving approved building Next: Pause requested development. Canonical reader integration/publication, stale review receipt and inherited source access gaps remain separately pending.
+Open integration CE-CHANGE-20260913-47: Bring the playable ECC pilot materially closer to approved hero imagery through measured engineering. Next: NEW Chapel interior work is excluded. The released Chapel interior module is byte-identical to prior live 61826d6; newer local app.js, chapel.js and world.js work remains untouched. Do not publish new Chapel interior work until Tania explicitly approves that release. Stop further development in this task until Tania returns with news from the avatar software people. Preserve paused avatar/wardrobe and curriculum-state timing. Canonical reader integration remains separate.
+Open integration CE-CHANGE-20260911-46: One verified playable version from accepted components. Next: Complete recovered campus-edge/material blending and welcome/Chapel arrival composition checks, plus smooth development-stage transitions; then final combined review before release.
+Open integration CE-CHANGE-20260911-45: Keep complete avatar in view through outdoor movement and returns. Next: Review the outdoor full-body camera, then assemble the banked environment choices for one combined in-game review and regression pass before publication.
+Open integration CE-CHANGE-20260911-44: Recognisable glass facade, mural toward SPACE and continuous stage turf. Next: Review sharper mural and compact SPACE/Media/admin relationship in revision2; bank and pause wider surrounding work. Walking camera and combined release remain pending.
+Open integration CE-CHANGE-20260911-43: Replace the overly simple SPACE silhouette with a recognisable reference-led exterior. Next: Review front and rear foyer views against the user-corrected spatial relationship.
+Open integration CE-CHANGE-20260911-42: Recover exact released game and approved Stage 1 preview, then continue the existing skyline review. Next: Complete Stage 2 fixed-view review; remaining stage selections precede combined publication.
+Open integration CE-CHANGE-20260910-40: Improve whole-campus atmosphere coherently before advancing to the larger avatar and experience projects. Next: Stage 1 revision4 is approved and banked; review Stage 2 surroundings before later stage selections and one combined release.
 Open integration CE-CHANGE-20260910-34: Create the authorised model candidates for grouped review Next: Retain approved geometry; confirm bounded integration scope. Public reader release remains pending.
 Open integration CE-CHANGE-20260910-33: Agree environmental language before asset selection Next: Obtain specification agreement; complete affected reader verification before any release
 
 ## Retained earlier reference family and prompt pack — historical, not a replacement for the current direction
 
-Draft 0.2 / first avatar direction approved / 7 September 2026
+13 September 2026 / hero environment standard approved
 
-Status: First avatar visual direction approved under V2-D17; wider detailed standard proposed
+Status: Hero environment fidelity standard approved; individual candidate appearance remains separate
 
 Live guide: https://taniab1975.github.io/career-empire-blueprint/#visuals
 
@@ -107,25 +117,33 @@ Generated from data/style-guide.json in the blueprint repository. This is a port
 
 **Cinematic stylised realism**
 
-Current amendment: ECC Career Campus + Campus-to-Career Corridor
-Direction and candidate production approved; finished precinct not accepted
-Warm limestone or pale brick, navy framing, timber fins, glass, native gardens and shaded paths. Teal is restrained wayfinding and interaction. Character-level walking views lead; aerial views explain context. The first quality slice is Avatar Studio with its garden, approach and plaza edge.
-Review lighting, sky/horizon, campus edges, materials/planting and real surrounding ECC references one at a time; settle choices before one combined world/public Blueprint release. Boy/girl avatars and changeable clothes follow, then Chapel discoveries and curriculum/world-entry experiences.
-The older civic concepts and prompt pack below are retained history and supporting references. They do not override this campus direction or approve new buildings, RPG mechanics, an economy formula or a faithful reconstruction of ECC.
+Current amendment: Playable environments follow approved hero art
+Approved governing standard; courtyard iteration below final target
+Target 80–90% perceived hero richness at normal player views. Warm masonry, deep architecture, glass, native planting and believable light. Optimise through engineering, not indiscriminate simplification.
+ECC pilot → Avatar Studio exterior → supporting destinations → background by fidelity tier.
+This is a local playable iteration and remains below the approved hero reference. Overall architectural and landscape composition, convincing interiors/reflections and natural foliage still need further art work. No 80–90% fidelity, physical-device acceptance, wider rollout or deployment is claimed. Original older three-panel attachments and physical-device tests remain unavailable.
 
 Career Empire should feel like a place a young person wants to step into: recognisable, welcoming and full of possibility. Its people have warmth and personality; its buildings have substance, purpose and life inside them. Contemporary architecture, rich planting, natural materials and carefully placed technology create an optimistic near-future town. The camera brings us close enough to care. Light invites us towards an opportunity; movement makes a discovery feel earned. The world can struggle, recover and flourish without losing its identity. The ambition is the depth, craft and emotional presence of the supplied ElevenLabs Town Hall films, translated into a coherent, playable 3D world.
 
 ## The 3D translation
 
-Rebuild the selected designs as spatially believable, walkable 3D environments. Do not simply place the existing isometric pictures on planes, rotate a flat facade, or keep white-background display platforms. A generated 3D-looking image or film is a visual reference, not a mesh, rig or finished playable asset.
+Approved hero/concept artwork is the visual north star for playable Career Empire. Target polished architectural visualisation / stylised realism: warm sandstone, glass, charcoal/blue framing, layered architecture and rooflines, pergolas/shade, rich paving, dense native Australian landscape, rocks, retaining walls and planters, strong warm directional sunlight, believable shadows/AO, environmental depth and purposeful detail.
 
-This guide records Tania's selected references and a proposed reusable interpretation. V2-D17 separately records her 7 September approval of the first generated ECC avatar's visual direction and proceeding with model preparation. The original 16 decision records remain unchanged. Approval does not extend to exact generated crest artwork, inferred side/back geometry, the whole style standard or a completed game asset. The mistakenly attached 5-6 September screenshots are excluded. This guide itself is reference work. Subsequent imported meshes, walk animation, fixed-shirt prototype and failed component runs are recorded in the 8 September current-state record; they do not establish acceptance of the whole style standard.
+Aim for roughly 80–90% of perceived hero richness at normal gameplay viewpoints. This is a visual acceptance ambition, not a measured percentage or current achievement. Browser optimisation must not mean simple, flat, minimal or indiscriminately low-poly.
+
+Optimise through LOD, GPU instancing, atlases, compressed meshes/textures, PBR, normal maps, baked AO/lighting where appropriate, occlusion/frustum culling, selective geometry, distant cards/impostors, repeated modules and cheap interior impressions. Select techniques based on measurement; do not add every technique regardless of benefit.
+
+HERO: ECC Campus, Avatar Studio and major destinations receive highest perceived fidelity. SUPPORTING: medium geometry with excellent materials and planting. BACKGROUND: aggressive LOD/impostors/cheap geometry preserving the town aesthetic.
+
+Existing ECC is functional/blockout-quality relative to this new standard, not the final visual benchmark. Preserve recognition, working geometry and routes. Admin, Student Services and Chapel remain one connected destination. Preserve Chapel reflection and its planned wellbeing role without inventing rewards, clinical claims or curriculum triggers.
+
+Tania explicitly approved the governing environment standard on 13 September 2026. This supersedes earlier proposed-only environment wording. Existing character decisions and exact-asset acceptance boundaries remain.
 
 ## Tania's expressed preferences
 
 - Use CE-CAMPUS-01/02 and CE-STUDIO-CONCEPT-01 as the current architectural targets.
 - Keep built evidence separate from concept approval; the Studio prototype and paused blazer exist but are unfinished.
-- Review the Avatar Studio approach at player height before expanding to other destinations.
+- ECC is the first hero-fidelity pilot; use fixed player views before progressive rollout to Avatar Studio exterior and other tiers.
 - Retain earlier civic films and portrait/turnaround as clearly dated history, not current implementation proof.
 
 ## Selected references
@@ -381,5 +399,5 @@ Use the same Career Empire visual family but the focused interface/celebration l
 
 - Current entry direction: restrained teal identity/wayfinding from the approved pavilion. The older film vortex does not set the everyday portal effect.
 - Built avatars now exist. Preserve identity references and separate Tripo/fixed-shirt, modular Body A/B and segmented schoolboy/blazer lines; no complete modular wardrobe accepted.
-- Current production sequence: dimensioned layout, modular kit, Avatar Studio, assembled precinct, review and deliberate release. This audit does not begin production; blazer work remains paused.
+- Current production: autonomous reversible ECC fidelity pilot, fixed-view comparison and measured optimisation, then progressive rollout by tier. Avatar/wardrobe work remains paused.
 - Exact measured performance budgets, faithful ECC landmarks and verified branding remain review dependencies, not settled by concept approval.

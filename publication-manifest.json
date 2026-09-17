@@ -1,20 +1,20 @@
 {
-  "sourceCommit": "be0af489a08bb4157c83671e0d2440f3323293e2",
-  "generatedAt": "2026-09-11T01:28:30.768Z",
-  "revision": "V2.20 / 10 September 2026",
-  "recordSha256": "ebdabeb772f77725bdcc0251f1f15d9d167722d65524b0e6beb27d61a8ccd7ed",
+  "sourceCommit": "55bb6e5eb42a0a961494424fe31beb881796dd10",
+  "generatedAt": "2026-09-17T03:45:43.777Z",
+  "revision": "V2.21 / 17 September 2026",
+  "recordSha256": "e24630c9a00dc3cd9f79ad4f42345961cc7d33eddba14f4277ee530d354f8f08",
   "files": [
     {
-      "path": "assets/index-CItsirJh.js",
-      "sha256": "194c11dad780f42ec52aa647944ff3affe37e3acfe3e055014bfd83e7c39b5e1"
+      "path": "assets/index-D6_LaBse.js",
+      "sha256": "f1777177ac0f8c0d19d9ed5dee05a84abf3bd190ce5db87aec3215f9077c68ae"
     },
     {
-      "path": "assets/index-XI7X52PC.css",
-      "sha256": "362ad278cbf4b62a43d1bd352c8f71e786e736510a4652abe0f87a03c864e7a5"
+      "path": "assets/index-DcZFnk4U.css",
+      "sha256": "37dd191596e48d80e8d1ecf61e125edd1de4f8ce2e430eb43a5a0c79c44acbb0"
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "ebdabeb772f77725bdcc0251f1f15d9d167722d65524b0e6beb27d61a8ccd7ed"
+      "sha256": "e24630c9a00dc3cd9f79ad4f42345961cc7d33eddba14f4277ee530d354f8f08"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -114,7 +114,7 @@
     },
     {
       "path": "evidence/asset-review-20260910/register.json",
-      "sha256": "7da613f681886903d111fc4b2ef74c2848313840093a0ee051a3a909dc169325"
+      "sha256": "31dd26fc1639d75003ca531d97483b7fbcce7b1911732925b678c7ac1794c4a2"
     },
     {
       "path": "evidence/asset-review-20260910/review.js",
@@ -637,8 +637,80 @@
       "sha256": "3bf46f5cf7562093eae2887467b5dfe432f23189a82c37772b4397ba98c7506c"
     },
     {
+      "path": "evidence/chapel-interior-upgrade-20260913/after.png",
+      "sha256": "d90f0b1d4057819daccfb2e06d45a331af9b8f62b83ed3689b922439203b8354"
+    },
+    {
+      "path": "evidence/chapel-interior-upgrade-20260913/before.png",
+      "sha256": "fb77b51ecf9b29980b29fa18ef048ede93a0cfecf094bddc2eee314f04ad9a01"
+    },
+    {
+      "path": "evidence/chapel-interior-upgrade-20260913/ceiling.png",
+      "sha256": "9198d40ff16d8bac306c015e4e2285cfd0668f54a8bffcdfa2511fdfce774c5e"
+    },
+    {
+      "path": "evidence/chapel-interior-upgrade-20260913/overview.png",
+      "sha256": "aab232005b0c0c603ab3fcf43fbab789dd5c4261248e981e087d96e52aea613c"
+    },
+    {
+      "path": "evidence/chapel-interior-upgrade-20260913/phone.png",
+      "sha256": "7fb740c9893ff054f1c39fc040f8b1fa03193fecb891fa28b106f21776942601"
+    },
+    {
       "path": "evidence/current-state-fixed-shirt-20260908.png",
       "sha256": "c3900a2ea1f3c5e6c99af7fc0f572a56cb48efcb36f9706601d649bd7a03c670"
+    },
+    {
+      "path": "evidence/ecc-admin-signage-20260913/ecc-signage-aerial.png",
+      "sha256": "659f4f4ae231c745f4b58980dc422ba3c370ad5e4f934b38695324cd9b095067"
+    },
+    {
+      "path": "evidence/ecc-admin-signage-20260913/ecc-signage-courtyard.png",
+      "sha256": "4200fae918db039ad0907c48065785a695f8be8e7dd503060d51a82d7f5456d4"
+    },
+    {
+      "path": "evidence/ecc-admin-signage-20260913/ecc-signage-home.png",
+      "sha256": "76962317c2b0df4862a7bddf94ad0fe9c7c5b8b744cc5e679bd7c0c785e780d9"
+    },
+    {
+      "path": "evidence/ecc-admin-signage-20260913/ecc-signage-phone.png",
+      "sha256": "a4b06373fb255878b909469baab542cfea5066f5d128524c4255372390e6c5f3"
+    },
+    {
+      "path": "evidence/ecc-admin-signage-20260913/published-r5/chapel.jpg",
+      "sha256": "1efd7dd8f8153772eddac6f724f3aef029d5dd6622581b91250484aaac37e6cf"
+    },
+    {
+      "path": "evidence/ecc-admin-signage-20260913/revision2/after-chapel.png",
+      "sha256": "d786fad651ec370b2691c29e62e0174c1f3de546514862fe1067535c86aca3dd"
+    },
+    {
+      "path": "evidence/ecc-admin-signage-20260913/revision2/after-courtyard.png",
+      "sha256": "0f048091bbad59639872f46aac8a7479a6c53876cd8e9785f0c3129d6d8936a0"
+    },
+    {
+      "path": "evidence/ecc-admin-signage-20260913/revision2/after-home.png",
+      "sha256": "cf4d33e03862c16a4e7c373298efdfb213760e852e6bebfcf9dfb35a056eedab"
+    },
+    {
+      "path": "evidence/ecc-admin-signage-20260913/revision2/after-phone.png",
+      "sha256": "2a50fc66c6a10bb9da6103f6aa5216592c69d484ecb9b048773bde45709b796d"
+    },
+    {
+      "path": "evidence/ecc-admin-signage-20260913/revision3/chapel.png",
+      "sha256": "cd5609551fb3aa0349c22dada0db2bd6e2ab49cb9879a050a5806c4145045860"
+    },
+    {
+      "path": "evidence/ecc-admin-signage-20260913/revision4/chapel.png",
+      "sha256": "2760490dfbfdfeaa4881d4ab52ac988e131d6f5105e907a00f884a1a3c1b3b39"
+    },
+    {
+      "path": "evidence/ecc-admin-signage-20260913/revision5/chapel.png",
+      "sha256": "6bd00e6b8f0d89c6a2091b3ea22ae602928bae048358ad8cf0c87fcafb9bc8be"
+    },
+    {
+      "path": "evidence/ecc-admin-signage-20260913/revision5/oblique.png",
+      "sha256": "2aabdd8674c5fdee52d4c8f212af487394a63b5c2afac647f7d2f7266814a359"
     },
     {
       "path": "evidence/ecc-campus-hub-20260910/built-v1/campus.png",
@@ -679,6 +751,166 @@
     {
       "path": "evidence/ecc-campus-hub-20260910/recognition-sheet.jpg",
       "sha256": "3e8e9cbcff5a79da4390de14a086cfed6331addb8bb976f1bfc789ff5df5335f"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/courtyard-after-forecourt-1440.png",
+      "sha256": "55dcb115097f9122212daa4f9299cb27b8f86d4e4cc2670ba3fd2a345506ad22"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/courtyard-after-forecourt-390.png",
+      "sha256": "93498759a9b921a0317e56d6d470ff3ace157c0f38b99152a671b2d25a8ecd53"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/courtyard-baseline-forecourt-1440.png",
+      "sha256": "5bd1578b9f18282a1d303753afea371a3682892b4091349a9b84848396a60c66"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/courtyard-baseline-forecourt-390.png",
+      "sha256": "d3bed5308232fe25ba484fe356070b5a48111a5a30f942d26e3dfd9c18e7801a"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/ecc-after-forecourt-1440.png",
+      "sha256": "c32f5f2d0c60bc754d816c1a72939769d3a7286352dd199f1b863900e6f3a3df"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/ecc-after-home-390.png",
+      "sha256": "cb113f825ab770d31bced8433658f0565addfa84fc5dd42937c37f9b3c504058"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/ecc-before-forecourt-1440.png",
+      "sha256": "e98982c13da6c0f504df231a656184121d449f127871fd5e30d4c7031eff2108"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/ecc-before-home-390.png",
+      "sha256": "e07115eebd10a767d2f60849fa83299a1c9af48b1c233128b86bbdcff527a3a2"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rebuild/ecc-approved-triptych.png",
+      "sha256": "56c33b5b01c72591f250cc8c82b4d72412cfbdec49e90b1ea508bb20b1818383"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rebuild/ecc-chapel-source.png",
+      "sha256": "920ffad8be0c46c3a6e1967e8d7c84331dab1c41c4443df68236150c7ad52b3d"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rebuild/ECC-courtyard-rebuild-review.html",
+      "sha256": "0dd758103e5671632306f5fba31b607c490dd42cf36dd395fee2843539055e14"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rebuild/ECC-courtyard-rebuild-review.md",
+      "sha256": "f6a9a98e753195e6a5d4efd7677458a7dc00fc2b4920d05e2768aa993a13cd5f"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rebuild/ecc-rebuild-after.png",
+      "sha256": "6cf1ed619c94a609a5045a39d1e39baf92041f24395c20459abd993d98a7a1bf"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rebuild/ecc-rebuild-before.png",
+      "sha256": "13c9e19d00a9d13b6d992d9abe176a9ce92ded58be2b07b3ff74fc4dc47d1960"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rebuild/ecc-rebuild-performance.json",
+      "sha256": "dd53a507499daebc049c3907960d22185548218210039a00167cacda1a7dd58d"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rebuild/ecc-rebuild-phone.png",
+      "sha256": "f46b98c5133ea1f5bc616df027822bb2e1bb721d837545060ae3642ee7bc363a"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/after-arrival.jpg",
+      "sha256": "489a1cc8671e62ed5d626be7a3c60a32b9e03a5707572b60c3658d0425739bf5"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/after-careers.jpg",
+      "sha256": "df4d83d76f2f09dfd7cfc4089b17b0b6a0f831cd17b1116eefa1c255e60c52c4"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/after-courtyard.jpg",
+      "sha256": "0e4a7d4e94eb26ff0cd277fdb0afb08f6db9fb8b11b0f554cacb971bbc2b40f7"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/after-est.jpg",
+      "sha256": "7490116306103d360c2b83400a516f5230eaee34c9f8f957244a802e0ceadbc1"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/after-home.jpg",
+      "sha256": "2395bd229b3d86f631e8071be3850279e017b617307175fdd709dbfb05d88ca4"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/after-media.jpg",
+      "sha256": "0c8b28f05a2721f07c1ffd1ff318aa1e59929d41ca4ad0eab6338d2829d89844"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/after-space.jpg",
+      "sha256": "9fefa3c007690e2b7a240a69106e40159df7c32d5b34ea06c97be4edce55d3c4"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/after-studio.jpg",
+      "sha256": "d948214f4c378575136fa4dca22e80b2bdff0cc3225fb92eedd6ac2f5cac685a"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/before-arrival.jpg",
+      "sha256": "37cb24bdc9528fc85c7b9999f0e86a8ae8cb5e13f6c6d8fbd6ac03ea604a6a71"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/before-careers.jpg",
+      "sha256": "d504a5e0e07ae84157a3139fe6dd185f7bfa73c5622966d3b9596a6c70aa8345"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/before-courtyard.jpg",
+      "sha256": "614053d349115c31bbe4b5770cb51eb9fc4915024708d470f6053225abf0960e"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/before-est.jpg",
+      "sha256": "10e2982846639f810afa53967edadb02b843132398800a49600b88c09b1c3b7b"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/before-home.jpg",
+      "sha256": "04fa74c8daf91a47441f3c4b0736dee10eeede4e15ec515738bdbb0f5db8de75"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/before-media.jpg",
+      "sha256": "baa8488bb47398fc0bf99a575ef252cbe926270464cd634c4da310c97d92a85f"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/before-space.jpg",
+      "sha256": "cade3a1430cf6c8a63ad4855619521fab92e14a3d5864e4262f5cad984a6a647"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/before-studio.jpg",
+      "sha256": "7f7f44918b5973b1d46d665c6863273abbd4c46d2d03e20c0099304605767c4d"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/performance-summary.json",
+      "sha256": "bf07ecabd5eb9dd895f1f3b9b14c6c6704ac1758309567a3f7acd168d94140e6"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/phone-studio-disrepair.jpg",
+      "sha256": "c66fb926b81cedd7b98fcaa3b94e5776a6503b82afcb5cf190657788ccdfad53"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/phone-studio-return.jpg",
+      "sha256": "d72d53c4b91ef13a20154c2cc5f3e384610eff766343fe58ebfeb29d4e99ce1d"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/report.md",
+      "sha256": "a2e8d306899f258aa2e6987b8c034cdd8044a9ab2c66d3fe7991f866f775e125"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rollout/review.html",
+      "sha256": "a5878f8ae16cf58f34a3d8cf5d0171049aa8448c1e679007585555e3580a96a0"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/windows/live-courtyard.jpg",
+      "sha256": "3cfab7acfaf4d8652de2282cef533471d66e280b0e173d014de245d792e8021a"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/workload-comparison.json",
+      "sha256": "3c75a26dbac4ac4fe465ebdee58fff30f480955a06778a0c4b524f4b237eee8d"
+    },
+    {
+      "path": "evidence/environment-20260912/live-home.png",
+      "sha256": "3312d1c7f9ca3ed27a32b01b9e5240f851456317cb022542ac8ac5e5e68c5280"
     },
     {
       "path": "evidence/est-release-20260911/term-390.png",
@@ -822,7 +1054,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "a9a307bec9bca247bc97918761678153b17488104fcc8fb429938d886a1d2e32"
+      "sha256": "8f569ca2750f0a70b04e4141502cc3a4ebf29f42e2ad97b1c151cda5a69920a6"
     },
     {
       "path": "playable-3d/app.js",
@@ -993,6 +1225,14 @@
       "sha256": "6587b87f51b240a641126975329c2e9e93e7d07bb5ff240778518bb6dcaae1d5"
     },
     {
+      "path": "production/annotation-corrections-20260914.md",
+      "sha256": "6d95397a68f7c61ac580359d7cff57f8f5c013f66f38e6dda83187384f9d8dea"
+    },
+    {
+      "path": "production/approved-standard-rollout-20260913.md",
+      "sha256": "2ad51c9ce99a375faf18643baaf59192902097a1bf02855521067a01abe402b4"
+    },
+    {
       "path": "production/arrival-ground-stage1-20260910.md",
       "sha256": "28100257997091e225337fb5311b406307ab7fdbd5264a522426bd27b49cd11b"
     },
@@ -1021,12 +1261,20 @@
       "sha256": "0058dfee17d8f49dc65ccb6d13cf6fce7b68a57c002de436f1bb405a8dc1d93d"
     },
     {
+      "path": "production/avatar-fresh-variants-20260912.md",
+      "sha256": "c08f391474797fc31bb7d74ba1a36ebc7789bbf20735a9b0cc596c600857a179"
+    },
+    {
       "path": "production/avatar-polish-20260910.md",
       "sha256": "aacb3f5099c6fdcc76559c866213d786e9bdbc6cb5d202119fe762d18407e8a7"
     },
     {
       "path": "production/avatar-precinct-layout-stage1-2026-09-10.md",
       "sha256": "6842fd75cb97b390eb552b117737a85074c22c2cb664cf01558b6afb601f1f09"
+    },
+    {
+      "path": "production/avatar-workflow-research-20260912.md",
+      "sha256": "d8ceaf8572edae5178e874adaffcd6a91151b5947f2029a6e304ad6d6f300f71"
     },
     {
       "path": "production/batch-01-ten-items-2026-09-10.md",
@@ -1038,11 +1286,23 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "fc36a7e50046d5d1d73870de7a81840106c392de07a90947c83afa04b52d2ee6"
+      "sha256": "98666618a61c428abef7e049399d9126da0bf1e08f5a3ca2cb55b10332405ba1"
     },
     {
       "path": "production/change-workflows.md",
-      "sha256": "bfa7d94e2954850e465914f34fa249a581a78f6eccf96885f9f31e12d5e04a39"
+      "sha256": "54f9da68a1a2c0448cd7c4f88f453bab976feeb325e186e10a54f9c4162d933e"
+    },
+    {
+      "path": "production/chapel-interior-upgrade-20260913.md",
+      "sha256": "27f4af19573824713d25dcf809f30432fb79fc032fd3ed95b7dbc5701da2aa00"
+    },
+    {
+      "path": "production/checkpoint-20260912.md",
+      "sha256": "8291cb1342e1f4702a72cbf13f87b51ed6e859a5d372127517fe9ca048f14d99"
+    },
+    {
+      "path": "production/combined-world-20260911.md",
+      "sha256": "9be447e1be60d86fbdc5ba5a86c2effed7fad9ab77bd56132d87666f2bea28b5"
     },
     {
       "path": "production/continuation-helper-20260910.md",
@@ -1050,11 +1310,15 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "79faa5328c6310725a10b32f8066eb96ec7732cc338cfd337cce5aa2d5589432"
+      "sha256": "3d8cb5f9f46549f3a640b7ef3f700864db080604b5311cb94383ef115cd4fe76"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "d06c4478fdd11937b61dd2c542f6600a6f29ecfb7ae09bcf20a6b50482a2cb0b"
+      "sha256": "fbd1c163a1f4dfdaa3c47cee99b70032cbce57baf109bceae7492499fef823a8"
+    },
+    {
+      "path": "production/ecc-admin-signage-20260913.md",
+      "sha256": "18c3c1e2c5e0b3bf1788159babfadf65d8444621eeda6723b31ddf100ab547f3"
     },
     {
       "path": "production/ecc-campus-hub-specification-20260910.html",
@@ -1063,6 +1327,26 @@
     {
       "path": "production/ecc-campus-hub-specification-20260910.md",
       "sha256": "9818d9a784a9c0fdec95811ec27807b72efaba3be6ce786031cc946c8ff67983"
+    },
+    {
+      "path": "production/ecc-hero-pilot-20260913.html",
+      "sha256": "68250c6d078ec28c11a71259a6dde9985a9ddba9e0fa8f9ee0da236c2293e3a8"
+    },
+    {
+      "path": "production/ecc-hero-pilot-20260913.md",
+      "sha256": "a8331f8dc68f604b568f30b459607bf24eb11f70dcd03d5833befe610e671f65"
+    },
+    {
+      "path": "production/ecc-session-recovery-20260911.md",
+      "sha256": "c566dbf4e0f2d09005ab21a800dbb2fd22abfbfa1bd96e9a7db5394dca9f5bbf"
+    },
+    {
+      "path": "production/environment-release-20260912.md",
+      "sha256": "50ba35becd457f7b6dd1067765dd743a2a4bbe6642a5952ad8e0bed37e810bf5"
+    },
+    {
+      "path": "production/est-mobile-video-20260913.md",
+      "sha256": "8a991884451f00feb8e4f032fdf7f435442a6167a5f02960b115c1d6aa97a106"
     },
     {
       "path": "production/est-release-20260911.html",
@@ -1098,23 +1382,27 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "06edb0dcd6489d833849076ce48abb253f925d076c2efa473439d94e766f0498"
+      "sha256": "7499fb24c0edb1d68de8b88cc23bbdeb1620f017a99cd75dcea242b959c3ef8e"
+    },
+    {
+      "path": "production/media-oval-20260911.md",
+      "sha256": "e00b12ffdd68ee04b44471e5c62fe0eaeb31273178dc0466687bd9354e4cff39"
     },
     {
       "path": "production/operating-protocol.md",
-      "sha256": "7c57ddd7bc7a68d9b7dea2dd331c2aa539e6f2fcd26233e2da7f5fe42294bd0d"
+      "sha256": "30d2685a34171064c2628c043d01476647bab147a06e438179ee20ed5a62fcbe"
     },
     {
       "path": "production/production-plan.md",
-      "sha256": "47ffa700245ba298e3e6fe9af981ff8bf473be164112c586a03d26b5dd903faf"
+      "sha256": "8a3a1c0a7b39fd04d2b814590b4957ecdd9b7da16a1ad89578a724fb12c4a8df"
     },
     {
       "path": "production/project-automation-setup-2026-09-10.md",
-      "sha256": "52cf287a29770d5c20bbecd3f946af6506d15c97333eb221445e4c98a2d94bc0"
+      "sha256": "8dbf726ec151ffefb98f2c3089072a446eee62db9ba55ae578b7c9ab84a953bd"
     },
     {
       "path": "production/project-work-contract.md",
-      "sha256": "6c498f97d3b832454daa70687f2b583b23d2f8ac70ed66a2785c369b60d99ac9"
+      "sha256": "174277a88a07e9dcaf53ebdaa6977a234222c95a16755f28914638b9115f8e50"
     },
     {
       "path": "production/publication-and-production-2026-09-10.md",
@@ -1129,6 +1417,34 @@
       "sha256": "4ec3ae8b6df237874b2acd9a28d68c0faa1e43e612b6493ffe4ac5a9118d412a"
     },
     {
+      "path": "production/space-revision2-20260911.md",
+      "sha256": "2a69f05c7f3966492c428634ddbbca61d56c6cc338421931ce6aa8b1dca146fc"
+    },
+    {
+      "path": "production/st4s-backlog.html",
+      "sha256": "2dff565cb6652088ac61db87adab0b0e85d0b144c096b79b9e60f6689cc6214b"
+    },
+    {
+      "path": "production/st4s-backlog.md",
+      "sha256": "5b23c1665dd19930fcaabba7ff2802ffa53b56f689cc265b3a0cac05dd7c7a48"
+    },
+    {
+      "path": "production/st4s-controls.html",
+      "sha256": "99a3fe31fa93f05fc08f91fa656c9ade43cf451f3e33d44ab2b5b05be245cebb"
+    },
+    {
+      "path": "production/st4s-controls.md",
+      "sha256": "3bf5c45a6ab04afea6885eef28e682267d2684533c4dba4131ecd29d6339cddb"
+    },
+    {
+      "path": "production/st4s-readiness.html",
+      "sha256": "43f09fe9208ce90e836e28b0ae31bb20b7984636ff6a5c00b12e95762cf79f38"
+    },
+    {
+      "path": "production/st4s-readiness.md",
+      "sha256": "48c6e33912a59e80b747d1b856328bd3be9d486e56ac4c18ffa9e2d44b6b964c"
+    },
+    {
       "path": "production/strategy-audit-2026-09-09.md",
       "sha256": "a75a5818111085de2c9044f89d11e60e990983d6cfbffaa6afa5852c25bab8ec"
     },
@@ -1139,6 +1455,10 @@
     {
       "path": "production/visual-register.md",
       "sha256": "6289e8023c36334ad499707a0f9c2ea120d31eb8673aa77a345024173a1f5994"
+    },
+    {
+      "path": "production/walking-camera-20260911.md",
+      "sha256": "61eda560f1d8094e980aa590ed8c62482222978678dc6cb31fdb0324522d729c"
     },
     {
       "path": "production/workflow-system-20260910.md",
@@ -1259,6 +1579,10 @@
     {
       "path": "references/topics/world-rewards.png",
       "sha256": "9733c86bbc4b003ad0237aafbfa7103a9e4a0787dedb08f4092f2415cac4576a"
+    },
+    {
+      "path": "st4s-readiness.json",
+      "sha256": "672aedf0b255da03c0982a269c6cbfb06efc9b44478d8951b6401f6bfe544696"
     }
   ]
 }

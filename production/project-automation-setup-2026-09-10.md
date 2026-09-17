@@ -73,6 +73,10 @@ For ChatGPT, open the exact existing Career Empire project in the correct accoun
 
 ## Verification and handoff
 
+### 17 September steward coverage checkpoint
+
+Two verified independent game copies are now explicitly registered; the completed scan covers 12 folders and exposes their missing guards rather than silently omitting them. Nine focused monitor tests pass. Full governance validation retains the existing chapelInteriorPublication schema failure. Canonical write/network access was granted for this turn only. GitHub main identities are checked; live Pages manifest TLS verification fails, and cloud-account/remote-CI coverage is unverified. No game edits or publication. Exact evidence, pending reader checks and resume steps: docs/production/steward-check-20260917.md (CE-CHANGE-20260917-69).
+
 Focused guard tests pass 9/9, including a regression check for contradictory current-summary/footer claims. The broader suite passed 56/56 before that additional assertion; the final verification receipt records the final total. TypeScript, focused lint and the normal build passed. The installed Design Atlas guard refused all seven unreviewed setup file versions; the canonical Pages release gate refused unfinished CE-CHANGE-20260910-20 rather than treating local installation as publication.
 
 Initial scans completed across five repositories; a repeated scan reported zero new changes in all four unchanged working repositories, with only newly edited canonical setup records detected. Initial source observations included pre-existing uncommitted/untracked work and the installation itself; counts are not a count of proven defects.

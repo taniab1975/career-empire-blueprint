@@ -4,14 +4,21 @@ A change is complete only when every affected Blueprint surface represents it co
 
 Generated from data/change-workflows.json. This is a view of the canonical workflow, not another master plan.
 
-## The same six steps for every task
+## Mandatory steps for every task
 
 1. **Define the change.** State what is being achieved, before/after, source/approval, affected record IDs and owner.
-2. **Calculate its impact.** Select every applicable workflow type. Take the union of required Blueprint surfaces, plus additional affected records. Use the generated checklist.
-3. **Update the reader-facing content.** Edit each affected canonical record and every current placement: text, images, posters, examples, links, status and next actions. Move superseded content to labelled history.
-4. **Verify each surface.** Record specific acceptance checks and actual source/reader evidence. A reasoned checked-unchanged result is allowed; blank or generic N/A is not.
-5. **Separate integration from production.** Approval, Blueprint integration, game implementation, publication and Tania acceptance are separate states. Blocked or pending surfaces keep integration incomplete.
-6. **Publish the declared scope.** Only completed scoped integrations may pass the release check. Disclose remaining integrations prominently, verify live pages and log the exact release receipt.
+2. **Screen security, privacy and student safety.** Record every ST4S trigger, data flow, country/access/provider, auth/tenant, lifecycle, safety/tier impact and tests/evidence. Apply before/after security review; production-complete requires verified applicable controls.
+3. **Calculate its impact.** Select every applicable workflow type. Take the union of required Blueprint surfaces, plus additional affected records. Use the generated checklist.
+4. **Update the reader-facing content.** Edit each affected canonical record and every current placement: text, images, posters, examples, links, status and next actions. Move superseded content to labelled history.
+5. **Verify each surface.** Record specific acceptance checks and actual source/reader evidence. A reasoned checked-unchanged result is allowed; blank or generic N/A is not.
+6. **Separate integration from production.** Approval, Blueprint integration, game implementation, publication and Tania acceptance are separate states. Blocked or pending surfaces keep integration incomplete.
+7. **Publish the declared scope.** Only completed scoped integrations may pass the release check. Disclose remaining integrations prominently, verify live pages and log the exact release receipt.
+
+## ST4S security/privacy impact gate
+
+Every new change requires screening of all triggers. Triggered or unknown items require full impact answers, mapped controls/tests/evidence, owner and review. Production-complete requires verified controls and tests; UNVERIFIED/LIKELY PASS never qualify.
+
+Every new material record, including a backdated new ID, must answer all twelve questions in data/st4s-readiness.json. Exact historical IDs alone are grandfathered; their gaps remain in the retrospective backlog. See /production/st4s-readiness.html.
 
 ## Always review these sections
 
@@ -163,6 +170,17 @@ Repair the update mechanism and explicitly report inherited integration gaps ins
 - [Source library, terminology and rationale](https://taniab1975.github.io/career-empire-blueprint/#source-documents): Update source links/version, research attribution, terminology conflicts and which claims are supported.
 - [Implementation and test evidence](https://taniab1975.github.io/career-empire-blueprint/#build): Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
 - [Recovery and access](https://taniab1975.github.io/career-empire-blueprint/#handover): Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+### School deployment, security, privacy or student safety
+
+Apply the ST4S gate to all affected product, provider, data and operational changes.
+
+- [School security, privacy & ST4S readiness](/career-empire-blueprint/production/st4s-readiness.html): Screen all triggers; map affected controls/tests/evidence; refresh computed dashboard, tier/applicability, release gates and retrospective remediation.
+- [Decisions and superseded rules](https://taniab1975.github.io/career-empire-blueprint/#decisions): Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+- [Implementation and test evidence](https://taniab1975.github.io/career-empire-blueprint/#build): Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+- [Teacher/classroom workflow](https://taniab1975.github.io/career-empire-blueprint/#classroom): Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+- [Recovery and access](https://taniab1975.github.io/career-empire-blueprint/#handover): Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+- [Source library, terminology and rationale](https://taniab1975.github.io/career-empire-blueprint/#source-documents): Update source links/version, research attribution, terminology conflicts and which claims are supported.
 
 ## Evidence and completion
 

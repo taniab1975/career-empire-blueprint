@@ -1,6 +1,313 @@
-# Material-change register — 2026-09-10
+# Material-change register — 2026-09-17
 
 Generated from data/operations.json. One canonical register; do not edit this view directly.
+
+## CE-CHANGE-20260917-72 — Publish ST4S governance reader and repair bounded publication validation
+
+- **date:** 2026-09-17
+- **domain:** Blueprint publication and governance
+- **source:** Tania: publish and submit please; clarified Submit Blueprint changes on 17 September 2026.
+- **owner:** Blueprint maintainer
+- **status:** Ready for Blueprint publication; live verification pending
+- **rationale:** Publish the existing ST4S framework as an honest readiness report while retaining unresolved product controls and unrelated work.
+- **dependencies:** CE-CHANGE-20260917-70
+- **evidence:** private/production-evidence/2026-09-17/st4s-publication/validation.md
+- **nextAction:** Finish guarded build, submit private source and publish generated reader; independently verify live receipt.
+- **supersededRecord:** None
+- **designApproval:** Explicit publication request; no new game design approval.
+- **implementation:** Typed existing Chapel publication extension; restore missing pending record-68 surfaces; preserve original approval fixtures plus newer decisions; allow generated ST4S public register.
+- **deployment:** Pending verification at existing GitHub Pages destination.
+- **testing:** 86 tests passed including strict metadata regression test; desktop and 390px dashboard, copied prompt, Gates, source catalogue and reports pass without overflow/runtime errors.
+- **taniaAcceptance:** Publication authorised; formal ST4S assessment explicitly outside this request.
+
+## CE-CHANGE-20260917-71 — Saved-avatar startup and on-demand Studio resources
+
+- **date:** 2026-09-17
+- **domain:** Avatar startup performance
+- **source:** Tania explicit 17 September request continuing Avatar Changes Causing Slowdown
+- **owner:** Career Empire game and Blueprint maintainer
+- **status:** Published and live scoped checks passed
+- **rationale:** Remove editor preview work from ordinary startup while preserving saved profile behavior.
+- **dependencies:** Existing saved profile and avatar loader / Existing pants-game checkout; preserve unrelated edits
+- **supersededRecord:** None
+- **designApproval:** User requested this bounded loading change; no visual redesign.
+- **implementation:** Defer Studio scene and OrbitControls, guard delayed entry, retain saved avatar and pants draft.
+- **deployment:** PR20 merge b4b22db1f3a0a4f1174ade4fbc94205ce3d4e166; Pages 35178863849 succeeded; four served source hashes match.
+- **testing:** 35 unit tests, seven native Chromium scenarios and development source checks pass.
+- **taniaAcceptance:** Implementation requested; physical-device and publication acceptance not claimed.
+- **evidence:** docs/production/avatar-startup-20260917.md / private/production-evidence/2026-09-17/avatar-startup/browser-tests.json / private/production-evidence/2026-09-17/avatar-startup/live-receipt.json
+- **nextAction:** Retain existing campus and selected-model cost limits; physical-device and full hosted suite remain separate.
+
+## CE-CHANGE-20260917-70 — Integrate school deployment and ST4S readiness into production governance
+
+- **date:** 2026-09-17
+- **domain:** School Deployment, Security, Privacy & ST4S Readiness
+- **source:** Tania explicit 17 September request continuing Security readiness review; governing attached Supplier Guide 2026.1 v1.0.
+- **owner:** Blueprint maintainer; Tania accountable for assigning security/privacy owners
+- **status:** Local governance implemented and scoped checks passed; full reader release blocked by inherited validation gaps
+- **rationale:** School deployment needs evidence-led security, privacy and safety gates throughout feature delivery.
+- **dependencies:** Existing V2.8 and subsequent governance / Supplier Guide 2026.1 v1.0 / Live Supabase metadata/configuration and independent review evidence
+- **supersededRecord:** None
+- **designApproval:** Explicitly authorised governance workstream; preserve all protected decisions and unrelated production work.
+- **implementation:** Added workstream, 324 guide/project control records, 45 evidence records, 14 audit tasks, shared derived dashboard, six stage gates, mandatory feature impact checks and prompt/session/DoD integration. Read-only source inventory and primary-region UI observation completed; live configuration remains partly unverified.
+- **deployment:** Local canonical V2.21 saved; no public reader deployment, game/database changes or ST4S submission.
+- **testing:** 11 ST4S tests, TypeScript, scoped lint, exact guide/evidence/preservation checks and temporary reader compile pass. Desktop dashboard/report inspected. Broad tests 76/85; 9 inherited failures keep official test/build blocked. Mobile attempt interrupted; no full browser or live release claim.
+- **taniaAcceptance:** Requested scope authorised; no compliance or school approval inferred.
+- **evidence:** docs/production/st4s-readiness.md / docs/production/st4s-controls.md / docs/production/st4s-backlog.md / private/production-evidence/2026-09-17/st4s-readiness/validation.md
+- **nextAction:** Obtain remaining read-only Supabase catalog/settings and contractual evidence; nominate security/privacy owners and remediate source auth/tenant gaps. Resolve inherited release blockers before normal reader publication.
+
+## CE-CHANGE-20260917-69 — Extend steward coverage to verified independent game copies
+
+- **date:** 2026-09-17
+- **domain:** Workflow monitoring
+- **source:** Existing scheduled steward authorisation to inspect coverage and reconcile supported tracking gaps; turn-scoped canonical write and network access granted.
+- **owner:** Career Empire steward
+- **status:** Monitoring registration; guard installation and reader reconciliation remain open
+- **rationale:** Git-linked discovery omits independent game clones.
+- **dependencies:** Install expected guards only with access to each game copy. / Retain initial baselines as unreviewed. / Verify affected reader surfaces before publication.
+- **evidence:** docs/production/steward-check-20260917.md
+- **nextAction:** Check the expanded scan, install missing guards in the identified game copies with permission, then reconcile stale current-plan fields against release evidence.
+- **supersededRecord:** None
+- **designApproval:** No new design or production approval.
+- **implementation:** Add two verified independent game copies to the existing private registry; do not modify game files.
+- **deployment:** Local governance maintenance only; no commit or publication.
+- **testing:** Exact local Git identities and GitHub main identities checked; live Pages TLS verification blocked.
+- **taniaAcceptance:** No new acceptance inferred.
+
+## CE-CHANGE-20260916-68 — Research reusable animated garment workflow
+
+- **date:** 2026-09-16
+- **domain:** Avatar clothing workflow research
+- **source:** Tania requests written research: animated base into MD, recover T-pose, fit garments, export garment only to Blender; find an alternative to re-rigging dressed outfits.
+- **owner:** Career Empire maintainer
+- **status:** Research documented; same-rig MD round trip untested
+- **rationale:** Avoid independently regenerating skeletons for each dressed outfit.
+- **dependencies:** Preserve selected Textured done lineage and unmasked full-body master. / EveryWear must preserve the imported Tripo skeleton in a bounded test.
+- **evidence:** docs/production/clothing-workflow-research-20260916.md
+- **nextAction:** Prove one garment on the same rig using EveryWear; research does not authorise a new game release.
+- **supersededRecord:** None
+- **designApproval:** Research requested; no approval of a new master or full wardrobe implementation.
+- **implementation:** Written workflow and fallback only; no asset edits.
+- **deployment:** No game or Blueprint reader publication in this research task.
+- **testing:** Official written documentation and public community workflow reviewed; no MD round trip performed.
+- **taniaAcceptance:** Workflow recommendation awaits practical trial.
+
+## CE-CHANGE-20260916-67 — Publish matching-body pants outfit test
+
+- **date:** 2026-09-16
+- **domain:** Avatar Studio and clothing workflow
+- **source:** Tania: ok upload into the game lets test.
+- **owner:** Pants compatibility task
+- **status:** Game published and live verified; user appearance test pending
+- **rationale:** Prove the MD-to-Tripo dressed outfit in the existing game after correcting covered-body clipping.
+- **dependencies:** Keep matching Tripo rig and corrected body/pants together; no pants-off on masked body.
+- **evidence:** docs/production/pants-test-20260916.md / private/production-evidence/2026-09-16/pants-game-release / https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/?outfit=pants
+- **nextAction:** Tania tests the live outfit; retain matching body and pants together. Whole-reader integration and publication remain separate.
+- **supersededRecord:** None
+- **designApproval:** User requests test upload; final garment appearance not accepted.
+- **implementation:** Pants test body option, unsaved Studio deep link, authored walk speed, protected fixed outfit, exact corrected GLB.
+- **deployment:** PR19 merged as b780fe1c4ddf5fcb59edcbcf2b329149652c9e70. Pages run 34994192649 succeeded; all six changed served files match candidate.
+- **testing:** 35 units, source and 93-file/31-module checks pass. Actual local desktop/390px and live desktop Studio, walk/turn, save to town, movement and reload pass. Hosted CI in progress; physical devices untested.
+- **taniaAcceptance:** Requested upload for testing; user test pending.
+
+## CE-CHANGE-20260914-52 — Resetting demo shop at Careers and student feedback form
+
+- **date:** 2026-09-14
+- **domain:** Careers demonstration and student feedback
+- **source:** Tania requests $100,000 auto-resetting demo shop; clarifies separate Careers Advice Centre; adds bottom-right good/awful/suggestions feedback form.
+- **owner:** Demo shop and feedback task
+- **status:** Published and live verified; reader integration separate
+- **rationale:** Enable repeated store demonstrations without changing student finances and collect development feedback through the existing teacher channel.
+- **dependencies:** None
+- **supersededRecord:** None
+- **designApproval:** User authorises the features and separate Careers destination; existing assets reused. No final appearance acceptance claimed.
+- **implementation:** Memory-only demo wallet with reset; separate Careers room/desk using existing interior model; three-question modal routes to feedback_reports teacher inbox.
+- **deployment:** PR18 merged as 337d75a551c71631fef5abd7e41156c83c7b1d14. Pages run 34818896040 success; ten live files match tested source.
+- **testing:** 33 unit tests; actual desktop and 390px desk purchases/reset/return/door; form empty/Escape and mocked delivery/error/offline; live endpoint zero-row HTTP 200. No live test submissions or physical-device certification.
+- **taniaAcceptance:** Features requested; final result not yet reviewed by Tania.
+- **evidence:** docs/production/demo-shop-feedback-20260914.md / https://github.com/Emmanuel-ICT-Support/GTCEM-Career-Empire/pull/18
+- **nextAction:** Use the live demonstration and existing teacher feedback inbox. Pending whole-reader integration and physical-device acceptance remain separate.
+
+## CE-CHANGE-20260914-51 — Restore Initiative answer buttons when reviewing completed videos
+
+- **date:** 2026-09-14
+- **domain:** EST CORE activity reliability
+- **source:** Tania requests Initiative button repair and clarifies the controls as Shows initiative / Needs more initiative beside the videos.
+- **owner:** Initiative repair task
+- **status:** Published and verified live; reader integration separate
+- **rationale:** Completed-step review disabled all choices using earned answers and suppressed its feedback/Next overlay.
+- **dependencies:** None
+- **supersededRecord:** None
+- **designApproval:** Existing content and styling must be preserved; no redesign requested.
+- **implementation:** Separate reviewAnswer/reviewing state from earned answers; repair retries, progression and old saved review; content script cache key refreshed. Source 4f74d00.
+- **deployment:** PR17 merged as 2dfdd557acdb04ee9f0739fb6f7af37e4315f577. Pages run 34813902444 succeeded; both changed runtime files match source.
+- **testing:** 24 combined unit tests and source checks pass. Live saved 3/3 review, all three cards, wrong retry and Finish Step 1 verified without runtime errors. Hosted browser CI: 23 passes, startup-performance timeout, 16 not run; no physical-device claim.
+- **taniaAcceptance:** Bug repair requested; no user acceptance of final candidate yet.
+- **evidence:** docs/production/initiative-video-controls-20260914.md / https://github.com/Emmanuel-ICT-Support/GTCEM-Career-Empire/pull/17
+- **nextAction:** Refresh the live demo to use the repair; preserve separate reader integration and hosted-performance follow-ups.
+
+## CE-CHANGE-20260914-50 — Correct annotated garden clearance and visual defects
+
+- **date:** 2026-09-14
+- **domain:** Campus gardens, movement clearance and first-day controls
+- **source:** Tania supplied seven annotated screenshots and explicitly authorised all corrections, specifying smaller rocks contained inside beds.
+- **owner:** Annotation review task
+- **status:** Implemented and verified local candidate; not published
+- **rationale:** Keep rocks and seating out of walking routes and planted-bed edges; remove duplicate surfaces and reduce screen obstruction.
+- **dependencies:** CE-CHANGE-20260913-47
+- **supersededRecord:** Earlier annotation review-only hold is superseded by Tania’s explicit implementation request.
+- **designApproval:** Implementation authorised; final appearance is available for Tania to review.
+- **implementation:** Contained rocks, relocated benches, resized fountain-side bed, duplicate model pieces removed, shallow pond edge and ripples, collapsible mission card.
+- **deployment:** Local preview only; public game remains at 7388cfa.
+- **testing:** 18 unit tests and source checks passed; five actual-physics routes passed; nine courtyard rock bounds have 15cm edge clearance. Desktop and 390px panel expansion and Escape verified.
+- **taniaAcceptance:** No final revised-appearance acceptance claimed.
+- **evidence:** docs/production/annotation-corrections-20260914.md
+- **nextAction:** Review the corrected playable preview; publish only the reviewed correction through the normal game release process.
+
+## CE-CHANGE-20260913-49 — Refine ECC signage and Chapel exterior/interior
+
+- **date:** 2026-09-13
+- **domain:** ECC visual assets, Chapel architecture and lighting
+- **source:** Tania ECC signage request, annotated exterior corrections, supplied Chapel interior photos and final direct publication approval
+- **owner:** ECC signage and Chapel task
+- **status:** Game signage, exterior and separately approved interior published; source hashes verified, live browser recheck blocked; reader integration separate
+- **rationale:** Retain real ECC recognition and accepted building style; improve crest clarity, glass materials, exterior arrangement and serene reference-led Chapel interior.
+- **dependencies:** CE-CHANGE-20260913-47
+- **supersededRecord:** Earlier provisional Chapel positions and long ceiling-spine interpretation; superseded evidence preserved.
+- **designApproval:** Final exterior revision5 and corrected broad interior explicitly accepted by Tania.
+- **implementation:** Sharper cleaned crest, angled glass welcome sign/base, flush tree/woman window and separate statue, recessed cross and corrected door/pergola; bounded clerestory, warm reflections, 98 seats and ceiling camera.
+- **deployment:** Tania-approved Chapel interior is live and published-source-verified at 7388cfa3bca6b58a06a88bf18f65e6d49dc17501 (PR #13, candidate fcccb9e). Broad side-perspective room, bounded raised clerestory, timber ceilings, warm pendants/strip lights and reflections, 98 upholstered seats, original rainbow cross and ceiling camera. All 83 public release asset hashes match. 18 unit tests and seven real-physics routes pass. Local entry, ceiling/overview and reflection/Studio return checks pass without captured scenery/runtime errors. Fresh live browser navigation is blocked by an unavailable browser security-check service; no bypass attempted. Actual published files match the tested build. Hosted CI passed 24 browser tests then hit the previously recorded arrival-screen 180-second timeout; 12 did not run. No full CI or sustained school-device certification claimed.
+- **testing:** 18 unit tests, 83 published hashes, seven Chapel routes and local browser checks pass. Live browser recheck blocked by unavailable browser security service. Hosted 24 browser passed, one known arrival timeout, 12 not run. Physical-device benchmark unverified.
+- **taniaAcceptance:** great! love it send to live if all good to go
+- **evidence:** docs/production/ecc-admin-signage-20260913.md / docs/production/chapel-interior-upgrade-20260913.md
+- **nextAction:** Pause further development until Tania returns. Retain avatar supplier and curriculum timing holds; Blueprint reader/global-refresh gaps remain separate.
+
+## CE-CHANGE-20260913-48 — Repair cold mobile EST film playback
+
+- **date:** 2026-09-13
+- **domain:** EST playback reliability
+- **source:** Tania explicit mobile EST diagnosis and minimal-fix request, 13 September 2026
+- **owner:** EST repair task
+- **status:** Implemented locally; physical-phone and publication verification pending
+- **rationale:** Full Blob download and awaited metadata delayed start and lost direct iOS user-gesture execution.
+- **dependencies:** CE-CHANGE-20260913-47
+- **supersededRecord:** Only the full-buffer workaround in EST wall playback; accepted content and design retained.
+- **designApproval:** No redesign requested or performed.
+- **implementation:** Native range streaming and synchronous tapped play/restart; import cache keys and regression tests.
+- **deployment:** Local only; concurrent campus release must include fix and refresh manifest.
+- **testing:** Source check, four focused tests, 14 project unit tests and scoped Chromium desktop/390px checks pass; full CI launch blocked, physical iPhone/seek check pending.
+- **taniaAcceptance:** Phone confirmation pending.
+- **evidence:** docs/production/est-mobile-video-20260913.md
+- **nextAction:** Carry fix into verified release; test cold start, sound, seek, restart and return on phone.
+
+## CE-CHANGE-20260913-47 — Hero fidelity becomes the playable standard; ECC pilot
+
+- **date:** 2026-09-13
+- **domain:** Environment visual standard, architecture and performance
+- **source:** Tania governing-standard request, below-target review and explicit substantial courtyard-pass approval, 13 September 2026
+- **owner:** Career Empire environment integrator
+- **status:** Governing standard approved; local courtyard iteration verified; final fidelity open
+- **rationale:** Hero artwork governs playable richness; browser optimisation is engineering, not indiscriminate simplification.
+- **dependencies:** CE-ENV-01 / CE-ECC-HUB-01
+- **supersededRecord:** Earlier proposed-only environment standard and per-batch pilot approval gates; previous work remains preserved.
+- **designApproval:** Approved governing standard and autonomous reversible ECC pilot; finished appearance not yet accepted.
+- **implementation:** Courtyard slice saved locally at 69cf624: real recessed rooms, photographed PBR stone, native foliage and revised light; ten focused browser scenarios covered. Still below hero target, not published.
+- **deployment:** Not pushed or published. Live d442671 Pages succeeded; its existing hosted CI failed at Run checks and tests.
+- **testing:** Source checks, six unit tests, full browser run 35/36 plus corrected-helper retest 1/1; all 36 scenarios covered. TypeScript and five focused Blueprint tests pass; desktop/phone reader checks pass. Full Blueprint publication validation remains blocked by stale AGENTS.md review receipt.
+- **taniaAcceptance:** Current explicit direction, not final candidate acceptance.
+- **evidence:** docs/production/ecc-hero-pilot-20260913.md
+- **nextAction:** Review fixed-view pilot evidence, recover exact missing three-panel reference, and refine remaining foliage/roof/glazing richness with physical-device performance checks before final ECC fidelity acceptance.
+- **chapelInteriorPublication:** [object Object]
+
+## CE-CHANGE-20260911-46 — Assemble and lock approved world environment and camera
+
+- **date:** 2026-09-11
+- **domain:** World Environment / combined integration
+- **source:** Tania: ok lets do that and lock it in.
+- **owner:** Career Empire maintainer
+- **status:** Local combined candidate; recovered polish steps outstanding
+- **rationale:** Bring individually approved environment and camera into one playable game.
+- **dependencies:** CE-CHANGE-20260910-40 / CE-CHANGE-20260911-43 / CE-CHANGE-20260911-44 / CE-CHANGE-20260911-45
+- **supersededRecord:** None
+- **designApproval:** Preserve exact accepted atmosphere, surroundings and outdoor camera decisions.
+- **implementation:** Runtime environment adapter, accepted building copies/textures, shared grass stages, Media collision and combined aerial view. Home Base now returns to ECC welcome sign; missing edge/material/arrival review and smooth transitions explicitly reinstated. Follow-up: walkable oval and connecting grass, west/south eucalypt belt and exterior collisions implemented locally on 12 September.
+- **deployment:** Local checkpoint; no public release claimed.
+- **testing:** Combined desktop/mobile gameplay and stage checks saved in combined-world evidence.
+- **taniaAcceptance:** Individual components accepted; combined version prepared for review.
+- **evidence:** docs/production/combined-world-20260911.md
+- **nextAction:** Complete recovered campus-edge/material blending and welcome/Chapel arrival composition checks, plus smooth development-stage transitions; then final combined review before release.
+
+## CE-CHANGE-20260911-45 — Comfortable full-body outdoor walking camera
+
+- **date:** 2026-09-11
+- **domain:** World Environment / camera
+- **source:** Tania: ok next please go ahead, after proposal to adjust walking camera and check movement/entrances/Studio save-return.
+- **owner:** Career Empire maintainer
+- **status:** Walking camera approved and banked locally
+- **rationale:** Keep feet visible and outdoor framing steady through Studio approach and building returns.
+- **dependencies:** CE-CHANGE-20260911-44
+- **supersededRecord:** None
+- **designApproval:** Tania: Yes much better, in response to walking-camera-1.
+- **implementation:** Wider outdoor follow, lower aim, consistent Studio approach and corrected Chapel exit yaw.
+- **deployment:** Local runtime candidate only; prior release manifest retained.
+- **testing:** Desktop/mobile walking, turning, Studio save/reload and EST/Chapel returns checked in isolated browser.
+- **taniaAcceptance:** Outdoor walking camera accepted.
+- **evidence:** docs/production/walking-camera-20260911.md / private/production-evidence/2026-09-11/walking-camera/approval.json
+- **nextAction:** Assemble approved atmosphere, surroundings and walking camera for a combined in-game review; run integrated movement, entrance, Studio save/return, EST and Chapel checks before publication.
+
+## CE-CHANGE-20260911-44 — English and Media glass, orientation and shared grass oval
+
+- **date:** 2026-09-11
+- **domain:** World Environment / ECC buildings
+- **source:** Tania supplies English and Media photographs/aerial; mural faces SPACE, both face Aussie-rules oval; added land continues stage grass; pause wider surrounds after this. Tania clarifies recognisable rather than identical; compact placement nearer admin permitted.
+- **owner:** Career Empire maintainer
+- **status:** Revision2 appearance approved and banked locally
+- **rationale:** Make English and Media recognisable and orient it correctly to accepted SPACE.
+- **dependencies:** CE-CHANGE-20260911-43
+- **supersededRecord:** None
+- **designApproval:** Sharper representative mural and compact Media/SPACE/admin composition accepted.
+- **implementation:** Revision2: sharp distinct mural atlas faces, larger comparable SPACE/Media, compact west/southwest relationship to admin and smaller extended grass footprint.
+- **deployment:** Separate local preview only; no publication.
+- **testing:** Four desktop views, three stages, toggle and mobile pass; saved evidence and canonical checks.
+- **taniaAcceptance:** Tania: Great! whats nexg, after current media-oval-2 preview.
+- **evidence:** docs/production/media-oval-20260911.md / private/production-evidence/2026-09-11/media-oval-revision2/ / private/production-evidence/2026-09-11/media-oval-revision2/approval.json
+- **nextAction:** Next bounded step: comfortable whole-body walking camera, preserving movement and entrances. Keep approved surroundings banked; final combined-world review/regressions before publication.
+
+## CE-CHANGE-20260911-43 — Refine SPACE from supplied building photographs
+
+- **date:** 2026-09-11
+- **domain:** World Environment / ECC buildings
+- **source:** Tania: try again with buildings; supplied SPACE4.jpg, Space 3.jpg and SPACE 4.jpg; clean image first then 3D. Tania subsequently corrects foyer to opposite-facing rear corner beyond grey and cream/red side wall.
+- **owner:** Career Empire maintainer
+- **status:** SPACE revision3 geometry accepted; banked locally
+- **rationale:** Replace the overly simple SPACE silhouette with a recognisable reference-led exterior.
+- **dependencies:** CE-CHANGE-20260911-42
+- **supersededRecord:** None
+- **designApproval:** Tania: Yes good, then requests English and Media.
+- **implementation:** Revision 3 clean image reference and actual rear-facing foyer geometry; wrong left-front foyer removed.
+- **deployment:** Local separate preview only; no publication.
+- **testing:** Source syntax and browser checks recorded with SPACE revision2 evidence.
+- **taniaAcceptance:** Accepted revision3 geometry and rear-foyer relationship.
+- **evidence:** docs/production/space-revision2-20260911.md / private/production-evidence/2026-09-11/space-revision3/ / private/production-evidence/2026-09-11/media-oval/space-acceptance.json
+- **nextAction:** Review the English and Media glass, painted end toward SPACE and shared oval; bank the candidate and pause wider surroundings modelling as requested. Whole-body walking camera remains pending.
+
+## CE-CHANGE-20260911-42 — Recover ECC session and resume surroundings review
+
+- **date:** 2026-09-11
+- **domain:** Recovery / World Environment & Ecosystem
+- **source:** Tania requests evidence-first disconnected-session recovery and continuation of canonical plan.
+- **owner:** Career Empire maintainer
+- **status:** Local recovery verified; Stage 2 preview under review
+- **rationale:** Restore missing temporary worktree from saved evidence without repeating completed work.
+- **dependencies:** CE-CHANGE-20260910-40 / CE-CHANGE-20260911-41
+- **supersededRecord:** None
+- **designApproval:** Retain exact Stage 1 approval; no Stage 2 acceptance inferred.
+- **implementation:** Restored original worktree and exact approved preview; separate reference-derived surroundings study.
+- **deployment:** No new game or Blueprint publication.
+- **testing:** 39 local manifest hashes and public manifest match; preview browser checks tracked in recovery evidence.
+- **taniaAcceptance:** Recovery and continuation requested; proposed surroundings await review.
+- **evidence:** docs/production/ecc-session-recovery-20260911.md
+- **nextAction:** Review Stage 2 skyline and surroundings at fixed views; preserve banked Stage 1. Whole-body walking camera remains pending for combined upgrade.
 
 ## CE-CHANGE-20260911-41 — Clear EST entry and readable briefing/source documents
 
@@ -18,7 +325,7 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **testing:** All 40 live file hashes including the exact MP4 match. Public desktop/mobile immediate Play, no autoplay, seeking/restart, Back to EST video, all source documents and zoom passed. Local Blueprint tests/types/lint/builds passed; hosted CI tracked separately.
 - **taniaAcceptance:** Requested fix; no final appearance acceptance inferred.
 - **evidence:** docs/production/est-access-20260911.md / private/production-evidence/2026-09-11/est-access/manifest.json / private/production-evidence/2026-09-11/est-access2/manifest.json / private/production-evidence/2026-09-11/est-access3/manifest.json / docs/production/est-release-20260911.md / private/production-evidence/2026-09-11/est-release/game-live-result.json / private/production-evidence/2026-09-11/est-release/game-live-hashes.json
-- **nextAction:** Resume record 40 Stage 1 campus lighting review.
+- **nextAction:** Review Stage 2 skyline and surroundings at fixed views; preserve banked Stage 1. Whole-body walking camera remains pending for combined upgrade.
 
 ## CE-CHANGE-20260910-40 — Five staged campus atmosphere reviews before one world release
 
@@ -26,7 +333,7 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** World Environment & Ecosystem / Buildings & ECC Campus
 - **source:** Tania: do the campus upgrades one at a time, add real campus building references behind/around ECC, settle upgrades before one combined world/Blueprint release; then full boy/girl/changeable-clothes avatar project, Chapel Easter eggs/side quests, then serious curriculum and world-entry experiences.
 - **owner:** Blueprint maintainer / environment designer
-- **status:** Stage 1 lighting preview ready for selection
+- **status:** Stage 1 approved and banked; Stage 2 review in progress
 - **rationale:** Improve whole-campus atmosphere coherently before advancing to the larger avatar and experience projects.
 - **dependencies:** CE-CHANGE-20260910-39
 - **supersededRecord:** None
@@ -34,9 +341,9 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **implementation:** Stage 1: isolated lighting comparison reusing the exact current campus source. Subsequent stages: sky/horizon, edges, materials/planting, source-backed surrounding ECC buildings. Arrival composition checked throughout.
 - **deployment:** No live game or public Blueprint publication during individual candidate reviews. One combined world/public Blueprint release after selections are settled.
 - **testing:** Nine fixed-view lighting comparisons, three preset switches, phone layout and unchanged live-runtime hashes verified. Preview-only; no integrated gameplay or device-performance acceptance claimed.
-- **taniaAcceptance:** User selected the production sequence and consolidated-release approach.
-- **evidence:** docs/production/campus-atmosphere-upgrades-20260910.md / private/production-evidence/2026-09-10/world-atmosphere-v1/stage1/manifest.json
-- **nextAction:** Present Stage 1 lighting on the actual current campus at fixed arrival, aerial and walking views.
+- **taniaAcceptance:** Tania explicitly approved revision4 lighting, skies/clouds and plant growth including ECC beds on 11 September.
+- **evidence:** docs/production/campus-atmosphere-upgrades-20260910.md / private/production-evidence/2026-09-10/world-atmosphere-v1/stage1/manifest.json / private/production-evidence/2026-09-11/stage-atmosphere-revision4/approval.json
+- **nextAction:** Review Stage 2 skyline and surroundings at fixed views; preserve banked Stage 1. Whole-body walking camera remains pending for combined upgrade.
 
 ## CE-CHANGE-20260910-39 — ECC Chapel, arrival sign and paving, and EST wall briefing
 

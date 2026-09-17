@@ -1,0 +1,48 @@
+{
+  "arrival": {
+    "before": {
+      "fpsMedian": 14.0,
+      "fpsRange": [
+        12,
+        15
+      ],
+      "drawCalls": 1005,
+      "triangles": 7187596,
+      "sampleCount": 16
+    },
+    "after": {
+      "fpsMedian": 33.5,
+      "fpsRange": [
+        30,
+        38
+      ],
+      "drawCalls": 552,
+      "triangles": 3310954,
+      "sampleCount": 16
+    }
+  },
+  "courtyard": {
+    "before": {
+      "fpsMedian": 23.0,
+      "fpsRange": [
+        20,
+        28
+      ],
+      "drawCalls": 340,
+      "triangles": 2284884,
+      "sampleCount": 16
+    },
+    "after": {
+      "fpsMedian": 41.5,
+      "fpsRange": [
+        24,
+        48
+      ],
+      "drawCalls": 330,
+      "triangles": 2151880,
+      "sampleCount": 16
+    }
+  },
+  "limits": "Eight-second local Mac browser samples at 1440x900/DPR1, same avatar/player camera/Flourishing Auto. Runs vary substantially; not a sustained or controlled school-device benchmark. Intermediate results retained rather than hidden. Camera-transition snapshot FPS values are not benchmarks.",
+  "retiredOptionalDownloadsBytes": 2873028
+}

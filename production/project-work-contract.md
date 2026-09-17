@@ -71,3 +71,12 @@ Before claiming continuity, identify the canonical source, current release, outs
 
 ## Proportionate maintenance — 10 September 2026
 Tania requests a balance of usability, currency and credit use. Apply docs/production/maintenance-20260910.md: change-first inspection, scoped context and tests, reuse exact-hash evidence, batch related releases, no repeated unchanged backlog audits. Keep all actual affected-surface and publication checks. Embedded chat is not enabled or authorised as a new service.
+
+
+## ST4S production governance — 17 September 2026
+
+CE-CHANGE-20260917-70 / local V2.21 adds the School Deployment, Security, Privacy & ST4S Readiness workstream. Read docs/production/st4s-readiness.md and data/st4s-readiness.json. All new changes require securityPrivacyImpact screening of every trigger through the existing change/session/DoD system. Never infer compliance from a vendor name. PASS—VERIFIED requires current evidence; LIKELY PASS and UNVERIFIED block readiness; N-A needs evidence and approval. A feature is not production-complete until applicable controls, implementation checks, tests and evidence are complete. School deployment gates are distinct from Blueprint publication.
+
+The source retrospective identifies authentication, tenant-trust, feedback-isolation and cross-school-discovery gaps. Live matching project card confirms primary ap-southeast-2; broader residency/configuration/records remain UNVERIFIED; do not run prototype/hardening SQL blindly. Obtain the precise read-only metadata, contracts and test proof listed in the backlog. Detailed source findings and field inventory are private under private/production-evidence/2026-09-17/st4s-readiness. No real records inspected, game/database changed, school deployment or ST4S submission. Preserve unrelated dirty work, all 17 protected decisions, existing approvals and pauses. The environment-plan history is retained; this is Tania's explicitly requested additional mandatory workstream.
+
+At start answer the register's twelve impact questions (data, locations, access countries, providers, lifecycle, encryption, logging, identity, isolation, privacy/safety, applicability and verification). At close update controls/evidence/backlog, canonical handoff and AGENTS, regenerate records and run scoped checks. Invalidate evidence on affected change/expiry. Student-facing AI needs explicit architecture/security approval. Existing source-review and publication guards remain mandatory; local validators do not install remote game enforcement.

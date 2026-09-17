@@ -1,0 +1,140 @@
+{
+  "baseline": "d442671",
+  "measuredOn": "Local Chromium Metal, device scale 1, Auto quality, Flourishing. 1280x800 and 390x844. Three one-second samples after settling each view. Localhost loading, no network throttling.",
+  "limits": "Frame rates fluctuate and do not establish a school-device or physical-phone performance guarantee. No 30/60 FPS acceptance claimed.",
+  "desktopReadyMs": [
+    4114,
+    4143
+  ],
+  "phoneViewportReadyMs": [
+    3281,
+    5052
+  ],
+  "resourceEncodedBytes": [
+    66217011,
+    66229063
+  ],
+  "rows": [
+    {
+      "view": "arrival",
+      "width": 1280,
+      "drawCallsBefore": 1673,
+      "drawCallsAfter": 1034,
+      "trianglesBefore": 7876960,
+      "trianglesAfter": 5990378,
+      "triangleChangePercent": -24.0,
+      "callsChangePercent": -38.2,
+      "fpsBefore": [
+        7,
+        7,
+        6
+      ],
+      "fpsAfter": [
+        10,
+        9,
+        7
+      ]
+    },
+    {
+      "view": "home",
+      "width": 1280,
+      "drawCallsBefore": 680,
+      "drawCallsAfter": 339,
+      "trianglesBefore": 3872563,
+      "trianglesAfter": 1953413,
+      "triangleChangePercent": -49.6,
+      "callsChangePercent": -50.1,
+      "fpsBefore": [
+        15,
+        14,
+        15
+      ],
+      "fpsAfter": [
+        16,
+        19,
+        20
+      ]
+    },
+    {
+      "view": "aerial",
+      "width": 1280,
+      "drawCallsBefore": 1709,
+      "drawCallsAfter": 1188,
+      "trianglesBefore": 7886848,
+      "trianglesAfter": 8100894,
+      "triangleChangePercent": 2.7,
+      "callsChangePercent": -30.5,
+      "fpsBefore": [
+        8,
+        9,
+        9
+      ],
+      "fpsAfter": [
+        9,
+        10,
+        9
+      ]
+    },
+    {
+      "view": "arrival",
+      "width": 390,
+      "drawCallsBefore": 709,
+      "drawCallsAfter": 406,
+      "trianglesBefore": 3878737,
+      "trianglesAfter": 2016145,
+      "triangleChangePercent": -48.0,
+      "callsChangePercent": -42.7,
+      "fpsBefore": [
+        17,
+        16,
+        18
+      ],
+      "fpsAfter": [
+        25,
+        24,
+        25
+      ]
+    },
+    {
+      "view": "home",
+      "width": 390,
+      "drawCallsBefore": 261,
+      "drawCallsAfter": 183,
+      "trianglesBefore": 3865235,
+      "trianglesAfter": 1242873,
+      "triangleChangePercent": -67.8,
+      "callsChangePercent": -29.9,
+      "fpsBefore": [
+        19,
+        19,
+        18
+      ],
+      "fpsAfter": [
+        60,
+        60,
+        60
+      ]
+    },
+    {
+      "view": "aerial",
+      "width": 390,
+      "drawCallsBefore": 1645,
+      "drawCallsAfter": 1028,
+      "trianglesBefore": 7824272,
+      "trianglesAfter": 6893918,
+      "triangleChangePercent": -11.9,
+      "callsChangePercent": -37.5,
+      "fpsBefore": [
+        9,
+        9,
+        8
+      ],
+      "fpsAfter": [
+        31,
+        12,
+        11
+      ]
+    }
+  ],
+  "candidateCommit": "a2794e42c359ed930124e34b459d71bcc35216ef"
+}

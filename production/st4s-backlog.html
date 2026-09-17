@@ -1,0 +1,87 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ST4S readiness | Career Empire Blueprint</title><style>
+*{box-sizing:border-box}body{margin:0;color:#203536;background:#fff;font:17px/1.65 system-ui,sans-serif}header,main{max-width:1100px;margin:auto;padding:24px}header{border-bottom:1px solid #ceddda;display:flex;gap:24px;justify-content:space-between;flex-wrap:wrap}a{color:#22625c;text-underline-offset:3px}h1{font-size:clamp(28px,4vw,43px);line-height:1.16;max-width:900px}h2{font-size:26px;line-height:1.3;margin-top:52px;border-top:2px solid #a9c8bd;padding-top:24px}h3{font-size:21px}p,li{max-width:95ch;overflow-wrap:anywhere}li{margin:12px 0}code{font-size:.88em;overflow-wrap:anywhere}figure{margin:28px 0}img{width:100%;height:auto;display:block}figcaption{font-size:14px;color:#536a67;margin-top:10px}.table-wrap{max-width:100%;overflow-x:auto;margin:24px 0}table{border-collapse:collapse;width:100%;min-width:740px;font-size:16px}th,td{border:1px solid #c7d6d1;padding:15px;vertical-align:top;text-align:left}th{background:#e7f0ec}td:first-child{min-width:175px}nav{padding:18px;background:#eff5f1;display:grid;grid-template-columns:1fr 1fr;gap:8px 24px;font-size:15px}footer{margin-top:45px;padding:24px 0;border-top:1px solid #ccd9d3;color:#536a67}@media(max-width:600px){header,main{padding:18px}nav{grid-template-columns:1fr}h2{font-size:23px}.table-wrap:before{content:'Swipe table to compare columns';display:block;font-size:14px;color:#536a67;margin-bottom:6px}}@media print{header,nav{display:none}body{font-size:11pt}h2{break-after:avoid}table{min-width:0;font-size:9pt}.table-wrap{overflow:visible}tr,img{break-inside:avoid}a{color:inherit}}
+</style></head><body><header><a href="../?view=blueprint&amp;topic=world#world">Career Empire · Blueprint</a><a href="st4s-backlog.md" download>Download source document</a></header><main><h1 id="section-0">Retrospective ST4S audit backlog</h1><nav aria-label="Specification contents"><a href="#section-4">CE-RETRO-01 — Replace browser-side student authentication and weak password handling</a><a href="#section-16">CE-RETRO-02 — Make tenant membership trusted and immutable to ordinary users</a><a href="#section-28">CE-RETRO-03 — Isolate feedback and moderation data</a><a href="#section-40">CE-RETRO-04 — Disable default cross-school discovery and validate aggregation</a><a href="#section-52">CE-RETRO-05 — Inventory and verify deployed Supabase configuration</a><a href="#section-64">CE-RETRO-06 — Prove residency, support access and provider assurance</a><a href="#section-76">CE-RETRO-07 — Review auth configuration, MFA and recovery</a><a href="#section-88">CE-RETRO-08 — Define retention/deletion/export and test full restoration</a><a href="#section-100">CE-RETRO-09 — Minimise free text, progress profiles and browser persistence</a><a href="#section-112">CE-RETRO-10 — Inventory integrations, downloads, analytics and supply chain</a><a href="#section-124">CE-RETRO-11 — Review classroom communication, boards, safety and AI applicability</a><a href="#section-136">CE-RETRO-12 — Confirm payments and app/extension applicability</a><a href="#section-148">CE-RETRO-13 — Assign operational owners and prepare final school/privacy documents</a><a href="#section-160">CE-RETRO-14 — Independent pre-submission assurance</a></nav><p>Generated from the existing canonical register. Source findings and live configuration verification are separate; no real student records were inspected.</p>
+<h2 id="section-4">CE-RETRO-01 — Replace browser-side student authentication and weak password handling</h2>
+<p>Status: GAP. Priority: Critical. Owner: Security/privacy lead (Tania to nominate). Due gate: School Pilot.</p>
+<p>Controls: A1, A2, A11, A13, CE-TENANT</p>
+<p>Action: Replace client SHA-256 comparison/readable password_hash with server-side managed authentication or a narrowly scoped authenticated session broker. Use a slow salted password KDF if custom auth remains, CSPRNG credentials, rate limits and uniform login errors; revoke direct anonymous credential access. Revoke sessions on reset/deactivation.</p>
+<p>Validation: Synthetic student A cannot read any credential hash or impersonate B by altering storage/IDs; brute-force/reset/revocation tests pass.</p>
+<p>Access/evidence needed: Local source available; deployment and authenticated configuration remain unverified.</p>
+<h2 id="section-16">CE-RETRO-02 — Make tenant membership trusted and immutable to ordinary users</h2>
+<p>Status: GAP. Priority: Critical. Owner: Security/privacy lead (Tania to nominate). Due gate: School Pilot.</p>
+<p>Controls: S4, A13, CE-TENANT</p>
+<p>Action: Replace school membership inferred from user-editable teachers.school_id with verified immutable auth-subject membership approved by a school administrator. Lock membership/role columns; enforce tenant-consistent foreign keys and class assignment, and eliminate prototype permissive policies.</p>
+<p>Validation: Two synthetic schools; attempted self-reassignment, foreign student/class IDs, revoked staff, RPC and direct REST all denied.</p>
+<p>Access/evidence needed: Local source available; deployment and authenticated configuration remain unverified.</p>
+<h2 id="section-28">CE-RETRO-03 — Isolate feedback and moderation data</h2>
+<p>Status: GAP. Priority: Critical. Owner: Security/privacy lead (Tania to nominate). Due gate: School Pilot.</p>
+<p>Controls: S4, A13, SC3, PF10D</p>
+<p>Action: Replace feedback school IDs embedded in untrusted message JSON with server-bound non-null tenant columns. Remove null-school visibility to all authenticated teachers; unaffiliated reports go only to restricted triage. Scope reviewer roles and immutable audit logs; limit anonymous submission and sanitise inputs.</p>
+<p>Validation: Anonymous submission cannot forge tenant identity; malformed/missing school IDs never broaden read access; raw responses visible only to authorised reviewers.</p>
+<p>Access/evidence needed: Local source available; deployment and authenticated configuration remain unverified.</p>
+<h2 id="section-40">CE-RETRO-04 — Disable default cross-school discovery and validate aggregation</h2>
+<p>Status: GAP. Priority: High. Owner: Security/privacy lead (Tania to nominate). Due gate: School Pilot.</p>
+<p>Controls: PR14, S4, CE-TENANT</p>
+<p>Action: Disable anonymous Global Index school/class summaries by default. Any approved cross-school comparison must remove class codes, enforce participation/role controls and minimum cohort thresholds; assess re-identification.</p>
+<p>Validation: Unauthenticated and school-A accounts cannot enumerate school-B class codes, small cohorts or identifiable records.</p>
+<p>Access/evidence needed: Local source available; deployment and authenticated configuration remain unverified.</p>
+<h2 id="section-52">CE-RETRO-05 — Inventory and verify deployed Supabase configuration</h2>
+<p>Status: UNVERIFIED. Priority: High. Owner: Security/privacy lead (Tania to nominate). Due gate: School Pilot.</p>
+<p>Controls: CE-LIVE, H1, H2, H5, H6, S1, S2, L1, D3</p>
+<p>Action: Obtain read-only project metadata and catalog export; reconcile to source. Inventory all tables/fields/views/materialized views, auth metadata categories, RLS/grants, extensions, triggers/functions, buckets/policies, Edge Functions, webhooks, scheduled jobs, replicas, log drains and backups.</p>
+<p>Validation: Signed deployment/schema comparison and component data-flow inventory; no real record dump required.</p>
+<p>Access/evidence needed: Primary project identity and ap-southeast-2 region observed live; deeper dashboard stalled. Authenticated Supabase project metadata/region; read-only database catalogs and settings; bucket/function manifests; redacted logs; project membership and support-access attestations; backup/PITR and restore receipts.</p>
+<h2 id="section-64">CE-RETRO-06 — Prove residency, support access and provider assurance</h2>
+<p>Status: UNVERIFIED. Priority: High. Owner: Security/privacy lead (Tania to nominate). Due gate: School Pilot.</p>
+<p>Controls: H1, H2, H5, H6, CE-RESIDENCY</p>
+<p>Action: Record live, backup, log, metadata, DR/test/dev and Edge execution countries; remote support/admin access countries; full chain of subprocessors and relocation-notice lead times. Collect current in-scope IRAP/SOC2 Type II/ISO27001 proof for every component. Where Australian-only requirements cannot be met, restrict/disable the component or obtain a school-approved compliant deployment plan before migration. A second paused project is visible in the same organisation in ap-northeast-1; establish whether it holds related historical data and any migration/deletion obligations without assuming a connection.</p>
+<p>Validation: H1/H2 country matrix, H5 enforceable notification workflow, H6 component coverage and school-specific acceptance signed off.</p>
+<p>Access/evidence needed: Primary project identity and ap-southeast-2 region observed live; deeper dashboard stalled. Actual project region/settings; signed current DPA/subprocessor list and support access terms; log/backups/CDN/SMTP contracts; H6 reports; school risk report and hosting conditions.</p>
+<h2 id="section-76">CE-RETRO-07 — Review auth configuration, MFA and recovery</h2>
+<p>Status: UNVERIFIED. Priority: High. Owner: Security/privacy lead (Tania to nominate). Due gate: School Pilot.</p>
+<p>Controls: A1, A2, A4, A5, A7, A10, A11, A13</p>
+<p>Action: Verify organisation/admin MFA, invitations, trusted teacher onboarding, RBAC, email verification, password policy, reset-token expiry/single use, redirect allowlist, enumeration/rate limits and session lifetime/invalidation. Enforce server-side rather than UI-only school/email checks.</p>
+<p>Validation: Synthetic role/recovery matrix and reviewed redacted settings export.</p>
+<p>Access/evidence needed: Local source available; deployment and authenticated configuration remain unverified.</p>
+<h2 id="section-88">CE-RETRO-08 — Define retention/deletion/export and test full restoration</h2>
+<p>Status: UNVERIFIED. Priority: High. Owner: Security/privacy lead (Tania to nominate). Due gate: School Pilot.</p>
+<p>Controls: D1, D2, D2A, D3, D5, D5A, D6</p>
+<p>Action: Replace login deactivation/anonymised login labels as a substitute for full deletion. Define per-category retention and school-record obligations; cover Auth, responses/reviews, storage, logs, local caches, backups and recipients. Implement authorised export/deletion and resurrection controls; test restore including storage objects.</p>
+<p>Validation: Isolated synthetic full restore and deletion/export propagation receipts, RPO/RTO and backup-expiry evidence.</p>
+<p>Access/evidence needed: Local source available; deployment and authenticated configuration remain unverified.</p>
+<h2 id="section-100">CE-RETRO-09 — Minimise free text, progress profiles and browser persistence</h2>
+<p>Status: UNVERIFIED. Priority: High. Owner: Security/privacy lead (Tania to nominate). Due gate: School Pilot.</p>
+<p>Controls: P9, PR2, PR3A, PR4A, PR9, PF37, PF39, CE-DATA</p>
+<p>Action: Classify student/staff identifiers, responses/feedback and inferred profiles. Treat wellbeing/financial values as simulated only after verifying provenance; free text may contain sensitive disclosures. Remove unnecessary identity duplication, bound offline persistence, isolate users and clear shared-device data on logout.</p>
+<p>Validation: Field/purpose inventory plus shared-device logout, retention and cross-account browser tests.</p>
+<p>Access/evidence needed: Local source available; deployment and authenticated configuration remain unverified.</p>
+<h2 id="section-112">CE-RETRO-10 — Inventory integrations, downloads, analytics and supply chain</h2>
+<p>Status: UNVERIFIED. Priority: High. Owner: Security/privacy lead (Tania to nominate). Due gate: School Pilot.</p>
+<p>Controls: P12, H6, INT5, INT7, PF13, PF17, L1</p>
+<p>Action: Map Supabase, hosting/CDN, SMTP/SSO, external media/docs, telemetry and any export endpoints. Pin/bundle external JavaScript with integrity review (current Supabase loader uses mutable @2 CDN URL); review browser permissions, file MIME/size/malware checks and log redaction.</p>
+<p>Validation: Dependency/endpoint inventory, vulnerability scan, permission and download review, no unapproved student-data egress.</p>
+<p>Access/evidence needed: Local source available; deployment and authenticated configuration remain unverified.</p>
+<h2 id="section-124">CE-RETRO-11 — Review classroom communication, boards, safety and AI applicability</h2>
+<p>Status: UNVERIFIED. Priority: High. Owner: Security/privacy lead (Tania to nominate). Due gate: School Pilot.</p>
+<p>Controls: P10, PF4, PF9D, PF10D, SC3, SC5, AI_G1, CE-AI</p>
+<p>Action: Review student responses, teacher feedback, community votes/boards, leaderboards, reflections and wellbeing-themed mechanics; minimise communication, document moderation/report/escalation and staff-student contact rules. Verify all runtime/backend AI pathways before a reasoned AI N-A; authoring AI and simulated AI-themed gameplay do not alone establish student-facing AI.</p>
+<p>Validation: Safety misuse tests, moderation audit trail and signed complete feature/tier/AI applicability review.</p>
+<p>Access/evidence needed: Local source available; deployment and authenticated configuration remain unverified.</p>
+<h2 id="section-136">CE-RETRO-12 — Confirm payments and app/extension applicability</h2>
+<p>Status: UNVERIFIED. Priority: High. Owner: Security/privacy lead (Tania to nominate). Due gate: School Pilot.</p>
+<p>Controls: CC2, AP0, AP1, AP2, MA2, BE2</p>
+<p>Action: Verify shop uses only simulated currency and no card/payment processor across all services. Verify whether native/mobile/desktop/extension builds exist and requested permissions. Record reasoned N-A only with evidence.</p>
+<p>Validation: Reviewed complete product inventory and synthetic transaction/permission inspection.</p>
+<p>Access/evidence needed: Local source available; deployment and authenticated configuration remain unverified.</p>
+<h2 id="section-148">CE-RETRO-13 — Assign operational owners and prepare final school/privacy documents</h2>
+<p>Status: UNVERIFIED. Priority: High. Owner: Security/privacy lead (Tania to nominate). Due gate: School Pilot.</p>
+<p>Controls: GO1, GO2, HR1, HR2, HR3, PR1, PR2, CE-WA</p>
+<p>Action: Nominate qualified security/privacy and safeguarding owners; finalise privacy/collection notices, terms, incident notification, training/offboarding, BCP/DR and shared patching responsibilities. Obtain WA public-school risk assessment/catalogue entry and school approval/consent/treatments; separately establish CEWA/ECC requirements.</p>
+<p>Validation: Authorised final documents, tabletop and training/access review, school-specific written approval.</p>
+<p>Access/evidence needed: Organisation identity/ABN, owner nominations, policy approvals, staff-only WA catalogue/risk report and school/sector requirements.</p>
+<h2 id="section-160">CE-RETRO-14 — Independent pre-submission assurance</h2>
+<p>Status: UNVERIFIED. Priority: High. Owner: Security/privacy lead (Tania to nominate). Due gate: School Pilot.</p>
+<p>Controls: T1, Q5, CE-SCAN, CE-PENTEST, CE-PRIVACY, CE-AUDIT, CE-MOCK</p>
+<p>Action: Commission scoped vulnerability assessment, independent penetration test, independent privacy/document review, evidence audit and mock Readiness Check of exact candidate. Fix and retest findings; preserve reports and assessor independence.</p>
+<p>Validation: All applicable controls verified, no open blocking findings, final evidence current and mock Ready; authorised submission receipt afterward.</p>
+<p>Access/evidence needed: Authorised test scope/accounts and independent qualified reviewers; vendor/hosting testing permission as needed.</p><footer>CE-CHANGE-20260917-70 · Generated from the existing canonical Blueprint specification. This is a document view, not a second Blueprint or a game build.</footer></main></body></html>

@@ -2,9 +2,4993 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: Clearer EST Lab film with preserved Revision 3 immediate wall Play, no autoplay, seek/restart, Back to EST video and CORE/TERM/VTCS document viewer.
+Release scope: ST4S governance and readiness reporting in the existing Blueprint reader; bounded publication validator repairs. No game or database release.
 
-EST Blueprint and game are live and independently verified. Separate campus lighting review remains unpublished; historical intake, gait and unrelated workflow follow-ups remain open.
+ST4S product readiness is NOT READY: 313 controls unresolved. Other existing integration tasks and historical world/avatar summaries remain open and are not certified current by this reporting release. Formal ST4S assessment is not submitted.
+
+## CE-CHANGE-20260917-72 — Publish ST4S governance reader and repair bounded publication validation
+
+Integration: **ready-for-publication**. Types: governance, implementation, security. Owner: Blueprint maintainer; Tania accountable for assigning security/privacy owners.
+
+**Objective:** Publish the existing ST4S framework as an honest readiness report while retaining unresolved product controls and unrelated work.
+
+**Before:** ST4S governance saved locally; inherited validator/fixture gaps block reader publication.
+
+**Required result:** Validated and published readiness reporting with actual source/public receipts; no product compliance claim.
+
+**Source:** Tania: publish and submit please; clarified Submit Blueprint changes on 17 September 2026.
+
+**Next:** Publish checked generated reader, verify Pages completion and live bytes/browser, retain product ST4S remediation separately.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Publication repair/reporting review completed for start; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Publication repair/reporting review completed for roadmap; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Publication repair/reporting review completed for history; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Publication repair/reporting review completed for protocol; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Publication repair/reporting review completed for exports; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Current ST4S source is not published. Existing guarded release fails on inherited schema/impact errors; preserve its prior review hashes and live identity.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: pending /
+
+
+Next: Verify source/public commit identities, Pages deployment, manifest and live desktop/mobile reader after publication.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Publication repair/reporting review completed for build; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Activities and learning flow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Publication repair/reporting review completed for flow; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Publication repair/reporting review completed for teacher; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Publication repair/reporting review completed for recovery; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Publication repair/reporting review completed for media; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Publication repair/reporting review completed for assets; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Publication repair/reporting review completed for sources; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Publication repair/reporting review completed for decisions; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Curriculum and reciprocal mappings — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Publication repair/reporting review completed for curriculum; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Look and feel — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Publication repair/reporting review completed for visuals; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### School security, privacy & ST4S readiness — updated
+
+[Open section](/career-empire-blueprint/production/st4s-readiness.html)
+
+Publication repair/reporting review completed for security; preserved unrelated source semantics and product-readiness boundaries.
+
+Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
+
+Acceptance: Dashboard and gate results derive from the same register; missing proof cannot pass.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+## CE-CHANGE-20260917-71 — Saved-avatar startup and on-demand Studio resources
+
+Integration: **in-progress**. Types: implementation. Owner: Career Empire game and Blueprint maintainer.
+
+**Objective:** Keep normal startup on the saved avatar and defer Studio preview resources.
+
+**Before:** Saved profile already restored; Studio scene and controls initialized eagerly.
+
+**Required result:** Saved-avatar startup retained; Studio preview loads on entry. Game PR20 published and scoped live checks passed; Blueprint reader integration remains separate.
+
+**Source:** Tania explicit 17 September request in Avatar Changes Causing Slowdown continuation.
+
+**Next:** Preserve verified game release; separate full reader integration and remaining performance measurements.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20260917-71. Owner: Career Empire Blueprint maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending /
+
+- [Evidence](docs/production/avatar-startup-20260917.md)
+
+Next: Retain local tested boundary; review corresponding reader surface before publication.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20260917-71. Owner: Career Empire Blueprint maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending /
+
+- [Evidence](docs/production/avatar-startup-20260917.md)
+
+Next: Retain local tested boundary; review corresponding reader surface before publication.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20260917-71. Owner: Career Empire Blueprint maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: pending /
+
+- [Evidence](docs/production/avatar-startup-20260917.md)
+
+Next: Retain local tested boundary; review corresponding reader surface before publication.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20260917-71. Owner: Career Empire Blueprint maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: pending /
+
+- [Evidence](docs/production/avatar-startup-20260917.md)
+
+Next: Retain local tested boundary; review corresponding reader surface before publication.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20260917-71. Owner: Career Empire Blueprint maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending /
+
+- [Evidence](docs/production/avatar-startup-20260917.md)
+
+Next: Retain local tested boundary; review corresponding reader surface before publication.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260917-71. Owner: Career Empire Blueprint maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending /
+
+- [Evidence](docs/production/avatar-startup-20260917.md)
+
+Next: Retain local tested boundary; review corresponding reader surface before publication.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20260917-71. Owner: Career Empire Blueprint maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending /
+
+- [Evidence](docs/production/avatar-startup-20260917.md)
+
+Next: Retain local tested boundary; review corresponding reader surface before publication.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20260917-71. Owner: Career Empire Blueprint maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending /
+
+- [Evidence](docs/production/avatar-startup-20260917.md)
+
+Next: Retain local tested boundary; review corresponding reader surface before publication.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: CE-CHANGE-20260917-71. Owner: Career Empire Blueprint maintainer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending /
+
+- [Evidence](docs/production/avatar-startup-20260917.md)
+
+Next: Retain local tested boundary; review corresponding reader surface before publication.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20260917-71. Owner: Career Empire Blueprint maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending /
+
+- [Evidence](docs/production/avatar-startup-20260917.md)
+
+Next: Retain local tested boundary; review corresponding reader surface before publication.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20260917-71. Owner: Career Empire Blueprint maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending /
+
+- [Evidence](docs/production/avatar-startup-20260917.md)
+
+Next: Retain local tested boundary; review corresponding reader surface before publication.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: CE-CHANGE-20260917-71. Owner: Career Empire Blueprint maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending /
+
+- [Evidence](docs/production/avatar-startup-20260917.md)
+
+Next: Retain local tested boundary; review corresponding reader surface before publication.
+
+## CE-CHANGE-20260917-70 — Integrate school deployment and ST4S readiness into production governance
+
+Integration: **ready-for-publication**. Types: governance, implementation, research, security. Owner: Blueprint maintainer; Tania accountable for assigning security/privacy owners.
+
+**Objective:** School deployment needs evidence-led security, privacy and safety gates throughout feature delivery.
+
+**Before:** Security readiness not systematically derived from controls and verified evidence.
+
+**Required result:** ST4S impact review, control/evidence registers, staged gates and retrospective backlog integrated into existing governance.
+
+**Source:** Tania explicit 17 September request continuing Security readiness review; governing attached Supplier Guide 2026.1 v1.0.
+
+**Next:** Publish checked generated reader, verify Pages completion and live bytes/browser, retain product ST4S remediation separately.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Computed ST4S dashboard rendered and inspected in native Edge; prior world plan retained unchanged. Full mobile/public review remains pending.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Added a separate Gates tab and CE-ST4S-01 workstream, preserving the single Now step and existing plan fields. Local source/TypeScript verified; final responsive reader review pending.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+New material record and local V2.21 accurately separate implementation, deployment, tests and acceptance; all old material records remain exact.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+AGENTS, handoff, work contract, operating protocol, README, session start/close/DoD, feature template and actual continuation prompt updated; tests confirm required screening cannot be skipped by backdating.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Generated records and three readable ST4S reports refreshed from canonical data; source/report/export consistency verified. Private audit content and project identifiers excluded from public record payload.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Current ST4S source is not published. Existing guarded release fails on inherited schema/impact errors; preserve its prior review hashes and live identity.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: blocked / Official test/build preflight fails on prior Chapel schema field; separate inherited impact coverage gap.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-readiness/validation.md)
+
+Next: Verify source/public commit identities, Pages deployment, manifest and live desktop/mobile reader after publication.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Shared derivation, new-change validation and stage gate reject unknown/likely evidence; 11 focused tests, TypeScript and lint pass. Official build remains blocked by inherited schema; diagnostic compilation is separately labelled.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Activities and learning flow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Existing experiences/curriculum mappings preserved and verified by broad preservation tests; no gameplay or learning-flow implementation changed.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Existing teacher implementation untouched; source findings and required role/tenant/feedback remediation are in the private audit and retrospective backlog.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Current canonical handoff/AGENTS record actual source paths, live-region proof, deeper-access limits, inherited test blockers and next steps. No checkpoint advanced or duplicate source created.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+No game images, films or visual assets changed; new dashboard rendering inspected; existing visual source records retained.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+No asset edits or generation; existing asset/source approvals remain intact. This change adds governance UI only.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Governing 2026.1 PDF retained with hash and complete page locators; reference catalogue entry and official WA/provider links added. No guide-version substitution.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+All protected design decisions and existing production approvals retained exactly; no school deployment, AI implementation or compliance approval inferred.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Curriculum and reciprocal mappings — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Scoped source reviewed; full reader release remains separately blocked.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### Look and feel — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Scoped source reviewed; full reader release remains separately blocked.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Review affected source and reader meaning; keep local and live verification separate.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+### School security, privacy & ST4S readiness — updated
+
+[Open section](/career-empire-blueprint/production/st4s-readiness.html)
+
+Full guide/evidence catalogue, trigger mappings, six staged exits, independent checks and 14 retrospective tasks are present. Zero controls counted as PASS; partial region evidence cannot pass H1.
+
+Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
+
+Acceptance: Dashboard and gate results derive from the same register; missing proof cannot pass.
+
+Verification: passed / Reviewed reporting source and preserved existing product decisions; 1280px and 390px dashboard/Gates/sources/reports, clipboard content and no overflow/runtime errors verified. Full tests passed.
+
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/local-reader/results.json)
+
+Next: No remaining local integration action in reporting scope; product controls remain unresolved.
+
+## CE-CHANGE-20260917-69 — Extend steward coverage to verified independent game copies
+
+Integration: **in-progress**. Types: governance. Owner: Career Empire steward.
+
+**Objective:** Make known independent game copies visible without asserting complete coverage.
+
+**Before:** Five registered roots omit two verified independent game copies.
+
+**Required result:** Seven registered roots; missing protections remain explicit failures.
+
+**Source:** Existing scheduled steward authorisation to inspect coverage and reconcile supported tracking gaps; turn-scoped canonical write and network access granted.
+
+**Next:** Check the expanded scan, install missing guards in the identified game copies with permission, then reconcile stale current-plan fields against release evidence.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Review start for the expanded monitoring boundary and explicitly retained coverage gaps.
+
+Records: CE-CHANGE-20260917-69. Owner: Career Empire steward.
+
+Acceptance: Separate registry visibility, guard enforcement, source integration and publication.
+
+Verification: pending /
+
+- [Evidence](docs/production/steward-check-20260917.md)
+
+Next: Complete scoped verification; never treat registration or an initial baseline as integration.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Review roadmap for the expanded monitoring boundary and explicitly retained coverage gaps.
+
+Records: CE-CHANGE-20260917-69. Owner: Career Empire steward.
+
+Acceptance: Separate registry visibility, guard enforcement, source integration and publication.
+
+Verification: pending /
+
+- [Evidence](docs/production/steward-check-20260917.md)
+
+Next: Complete scoped verification; never treat registration or an initial baseline as integration.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Review history for the expanded monitoring boundary and explicitly retained coverage gaps.
+
+Records: CE-CHANGE-20260917-69. Owner: Career Empire steward.
+
+Acceptance: Separate registry visibility, guard enforcement, source integration and publication.
+
+Verification: pending /
+
+- [Evidence](docs/production/steward-check-20260917.md)
+
+Next: Complete scoped verification; never treat registration or an initial baseline as integration.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Review protocol for the expanded monitoring boundary and explicitly retained coverage gaps.
+
+Records: CE-CHANGE-20260917-69. Owner: Career Empire steward.
+
+Acceptance: Separate registry visibility, guard enforcement, source integration and publication.
+
+Verification: pending /
+
+- [Evidence](docs/production/steward-check-20260917.md)
+
+Next: Complete scoped verification; never treat registration or an initial baseline as integration.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Review exports for the expanded monitoring boundary and explicitly retained coverage gaps.
+
+Records: CE-CHANGE-20260917-69. Owner: Career Empire steward.
+
+Acceptance: Separate registry visibility, guard enforcement, source integration and publication.
+
+Verification: pending /
+
+- [Evidence](docs/production/steward-check-20260917.md)
+
+Next: Complete scoped verification; never treat registration or an initial baseline as integration.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Review publication for the expanded monitoring boundary and explicitly retained coverage gaps.
+
+Records: CE-CHANGE-20260917-69. Owner: Career Empire steward.
+
+Acceptance: Separate registry visibility, guard enforcement, source integration and publication.
+
+Verification: pending /
+
+- [Evidence](docs/production/steward-check-20260917.md)
+
+Next: Complete scoped verification; never treat registration or an initial baseline as integration.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Review decisions for the expanded monitoring boundary and explicitly retained coverage gaps.
+
+Records: CE-CHANGE-20260917-69. Owner: Career Empire steward.
+
+Acceptance: Separate registry visibility, guard enforcement, source integration and publication.
+
+Verification: pending /
+
+- [Evidence](docs/production/steward-check-20260917.md)
+
+Next: Complete scoped verification; never treat registration or an initial baseline as integration.
+
+### Source library, terminology and rationale — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Review sources for the expanded monitoring boundary and explicitly retained coverage gaps.
+
+Records: CE-CHANGE-20260917-69. Owner: Career Empire steward.
+
+Acceptance: Separate registry visibility, guard enforcement, source integration and publication.
+
+Verification: pending /
+
+- [Evidence](docs/production/steward-check-20260917.md)
+
+Next: Complete scoped verification; never treat registration or an initial baseline as integration.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Review build for the expanded monitoring boundary and explicitly retained coverage gaps.
+
+Records: CE-CHANGE-20260917-69. Owner: Career Empire steward.
+
+Acceptance: Separate registry visibility, guard enforcement, source integration and publication.
+
+Verification: pending /
+
+- [Evidence](docs/production/steward-check-20260917.md)
+
+Next: Complete scoped verification; never treat registration or an initial baseline as integration.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Review recovery for the expanded monitoring boundary and explicitly retained coverage gaps.
+
+Records: CE-CHANGE-20260917-69. Owner: Career Empire steward.
+
+Acceptance: Separate registry visibility, guard enforcement, source integration and publication.
+
+Verification: pending /
+
+- [Evidence](docs/production/steward-check-20260917.md)
+
+Next: Complete scoped verification; never treat registration or an initial baseline as integration.
+
+## CE-CHANGE-20260916-68 — Reusable animated garment workflow research
+
+Integration: **in-progress**. Types: research, avatar. Owner: Career Empire maintainer.
+
+**Objective:** Provide a written reusable same-skeleton clothing workflow.
+
+**Before:** User repeatedly exports dressed avatar for Tripo rigging and loses a usable dressing pose on animated import.
+
+**Required result:** Documented EveryWear rigging and bind-pose route, Blender lead-in fallback and distinction from simulation cache.
+
+**Source:** Tania requests deep written research and a workflow.
+
+**Next:** Bounded same-rig garment proof remains unperformed; reader publication separate.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending /
+
+- [Evidence](docs/production/clothing-workflow-research-20260916.md)
+
+Next: Validate one garment round trip; reconcile reader surfaces before separate publication.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending /
+
+- [Evidence](docs/production/clothing-workflow-research-20260916.md)
+
+Next: Validate one garment round trip; reconcile reader surfaces before separate publication.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Documented researched recommendation, exact sources and untested Tripo round-trip boundary.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Read official written docs; updated research and handoff without claiming implementation.
+
+- [Evidence](docs/production/clothing-workflow-research-20260916.md)
+
+Next: Validate one garment round trip; reconcile reader surfaces before separate publication.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Documented researched recommendation, exact sources and untested Tripo round-trip boundary.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Read official written docs; updated research and handoff without claiming implementation.
+
+- [Evidence](docs/production/clothing-workflow-research-20260916.md)
+
+Next: Validate one garment round trip; reconcile reader surfaces before separate publication.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending /
+
+- [Evidence](docs/production/clothing-workflow-research-20260916.md)
+
+Next: Validate one garment round trip; reconcile reader surfaces before separate publication.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending /
+
+- [Evidence](docs/production/clothing-workflow-research-20260916.md)
+
+Next: Validate one garment round trip; reconcile reader surfaces before separate publication.
+
+### Avatar and wardrobe references — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Documented researched recommendation, exact sources and untested Tripo round-trip boundary.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / Read official written docs; updated research and handoff without claiming implementation.
+
+- [Evidence](docs/production/clothing-workflow-research-20260916.md)
+
+Next: Validate one garment round trip; reconcile reader surfaces before separate publication.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Documented researched recommendation, exact sources and untested Tripo round-trip boundary.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Read official written docs; updated research and handoff without claiming implementation.
+
+- [Evidence](docs/production/clothing-workflow-research-20260916.md)
+
+Next: Validate one garment round trip; reconcile reader surfaces before separate publication.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Complete original clothing-research integration: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending /
+
+
+Next: Reconcile this originally omitted surface in the clothing-research task; no approval inferred by publication repair.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Complete original clothing-research integration: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending /
+
+
+Next: Reconcile this originally omitted surface in the clothing-research task; no approval inferred by publication repair.
+
+### Curriculum and reciprocal mappings — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Complete original clothing-research integration: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: pending /
+
+
+Next: Reconcile this originally omitted surface in the clothing-research task; no approval inferred by publication repair.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Complete original clothing-research integration: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: pending /
+
+
+Next: Reconcile this originally omitted surface in the clothing-research task; no approval inferred by publication repair.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Complete original clothing-research integration: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending /
+
+
+Next: Reconcile this originally omitted surface in the clothing-research task; no approval inferred by publication repair.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Complete original clothing-research integration: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending /
+
+
+Next: Reconcile this originally omitted surface in the clothing-research task; no approval inferred by publication repair.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Complete original clothing-research integration: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending /
+
+
+Next: Reconcile this originally omitted surface in the clothing-research task; no approval inferred by publication repair.
+
+### Look and feel — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Complete original clothing-research integration: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: pending /
+
+
+Next: Reconcile this originally omitted surface in the clothing-research task; no approval inferred by publication repair.
+
+### World, rewards and progression — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Complete original clothing-research integration: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: CE-CHANGE-20260916-68. Owner: Career Empire maintainer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: pending /
+
+
+Next: Reconcile this originally omitted surface in the clothing-research task; no approval inferred by publication repair.
+
+## CE-CHANGE-20260916-67 — Matching-body pants outfit game test
+
+Integration: **in-progress**. Types: avatar, visual, implementation, release. Owner: Pants compatibility task.
+
+**Objective:** Let Tania test the corrected dressed avatar in the existing live game.
+
+**Before:** Inspected GLB was a local candidate with no game picker entry.
+
+**Required result:** Selectable Pants test with unsaved Studio link, matched rig and protected pants-on body mask.
+
+**Source:** Tania: ok upload into the game lets test.
+
+**Next:** Verify game publication and support user appearance testing; whole-reader integration remains separate.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending /
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending /
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Recorded the bounded pants test implementation, exact corrected GLB, runtime checks and evidence in canonical production documentation.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Inspected source, unit results and desktop/mobile game screenshots; preserves full-body masking limitation and separate publication status.
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Recorded the bounded pants test implementation, exact corrected GLB, runtime checks and evidence in canonical production documentation.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Inspected source, unit results and desktop/mobile game screenshots; preserves full-body masking limitation and separate publication status.
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending /
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending /
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Avatar and wardrobe references — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Recorded the bounded pants test implementation, exact corrected GLB, runtime checks and evidence in canonical production documentation.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / Inspected source, unit results and desktop/mobile game screenshots; preserves full-body masking limitation and separate publication status.
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Recorded the bounded pants test implementation, exact corrected GLB, runtime checks and evidence in canonical production documentation.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / Inspected source, unit results and desktop/mobile game screenshots; preserves full-body masking limitation and separate publication status.
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending /
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Recorded the bounded pants test implementation, exact corrected GLB, runtime checks and evidence in canonical production documentation.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Inspected source, unit results and desktop/mobile game screenshots; preserves full-body masking limitation and separate publication status.
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### World, rewards and progression — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: pending /
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending /
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Recorded the bounded pants test implementation, exact corrected GLB, runtime checks and evidence in canonical production documentation.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / Inspected source, unit results and desktop/mobile game screenshots; preserves full-body masking limitation and separate publication status.
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Recorded the bounded pants test implementation, exact corrected GLB, runtime checks and evidence in canonical production documentation.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Inspected source, unit results and desktop/mobile game screenshots; preserves full-body masking limitation and separate publication status.
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: pending /
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Buildings and places — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: pending /
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending /
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+### Source library, terminology and rationale — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Records: CE-CHANGE-20260916-67. Owner: Career Empire maintainer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: pending /
+
+- [Evidence](docs/production/pants-test-20260916.md)
+
+Next: Reconcile this reader surface with the documented pants test checkpoint before a separate Blueprint reader release.
+
+## CE-CHANGE-20260914-52 — Resetting demo shop at Careers and student feedback form
+
+Integration: **in-progress**. Types: implementation, activity, progression, building, visual, release. Owner: Demo shop and feedback task.
+
+**Objective:** Enable repeated store demonstrations without changing student finances and collect development feedback through the existing teacher channel.
+
+**Before:** Shop needs earned money; separate Careers has no shop interaction; playable game has no feedback launcher.
+
+**Required result:** Game update published and live verified at 337d75a; source documentation and evidence recorded. Whole-reader targets remain pending.
+
+**Source:** Tania requests $100,000 auto-resetting demo shop; clarifies separate Careers Advice Centre; adds bottom-right good/awful/suggestions feedback form.
+
+**Next:** Complete pending reader integrations separately; do not infer reader publication from the game release.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Player Journey and worked example — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Curriculum and reciprocal mappings — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Year plan and assessment — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### World, rewards and progression — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Buildings and places — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Look and feel — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Avatar and wardrobe references — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+### Source library, terminology and rationale — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Records: CE-CHANGE-20260914-52. Owner: Demo shop and feedback task.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/demo-shop-feedback-20260914.md)
+
+Next: Source checkpoint documented; reconcile reader target before claiming whole-reader integration.
+
+## CE-CHANGE-20260914-51 — Restore Initiative answer buttons when reviewing completed videos
+
+Integration: **in-progress**. Types: implementation, activity. Owner: Initiative repair task.
+
+**Objective:** Repair the saved-review answer lockout without changing films, styling or earned progress.
+
+**Before:** Completed video review opens disabled choices and no progression.
+
+**Required result:** Game repair published and verified at 2dfdd557: saved review accepts answers and preserves earned progress. Reader integration remains separate.
+
+**Source:** Tania current request and clarification, 14 September 2026.
+
+**Next:** Complete pending reader integration; game release and live saved-review verification are complete.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Player Journey and worked example — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Curriculum and reciprocal mappings — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Year plan and assessment — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### World, rewards and progression — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+### Buildings and places — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: CE-CHANGE-20260914-51. Owner: Initiative repair task.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/initiative-video-controls-20260914.md)
+
+Next: Reader integration/publication remains pending; source report and private evidence are recorded. Do not claim whole-reader currency.
+
+## CE-CHANGE-20260914-50 — Correct annotated garden clearance and visual defects
+
+Integration: **in-progress**. Types: decision, visual, building, implementation. Owner: Annotation review task.
+
+**Objective:** Implement all seven screenshot-backed gameplay corrections.
+
+**Before:** Oversized rocks, intersecting seating and planting, narrow passages, duplicate surfaces, flat pond and obstructive first-day card.
+
+**Required result:** Local corrected candidate with measured rock containment, clearer passages, relocated seating, duplicate removal, rippled pond and collapsible mission panel.
+
+**Source:** Tania, 14 September 2026: Yes, OK please go ahead with all the change requests; rocks should be smaller and not overflow the bed edges.
+
+**Next:** Finish local visual checks and review the corrected candidate; publication remains separate.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Curriculum and reciprocal mappings — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Player Journey and worked example — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Year plan and assessment — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### World, rewards and progression — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Buildings and places — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Avatar and wardrobe references — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Look and feel — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Source library, terminology and rationale — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20260914-50. Owner: Annotation review task.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending /
+
+- [Evidence](/career-empire-blueprint/production/annotation-corrections-20260914.md)
+
+Next: Complete affected reader integration in the next scoped Blueprint publication; do not claim live from this local candidate.
+
+## CE-CHANGE-20260913-49 — Refine ECC Admin crest and architectural glass signs
+
+Integration: **in-progress**. Types: visual, building, implementation. Owner: ECC glass signage task.
+
+**Objective:** Use supplied cleaned crest and hero-campus glass finish while preserving approved building
+
+**Before:** Older crest texture, flat front Emmanuel panel and opaque Admin fascia
+
+**Required result:** Approved signage/exterior retained; separately approved broad Chapel interior, central clerestory, warm lighting/reflections and ceiling camera published at 7388cfa via PR #13. All 83 public files match the tested source. 18 unit checks, seven routes and local browser checks pass. Fresh live browser check blocked by unavailable browser policy-verification service; no bypass. Hosted 24 browser tests passed, one existing arrival timeout, 12 not run.
+
+**Source:** Tania, Update ECC glass signage request and supplied images, 13 September 2026
+
+**Next:** Pause requested development. Canonical reader integration/publication, stale review receipt and inherited source access gaps remain separately pending.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Look and feel — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Buildings and places — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Avatar and wardrobe references — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### World, rewards and progression — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20260913-49, CE-PLAN-01. Owner: ECC glass signage task.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending / Local source and actual-view evidence saved. Combined reader/publication validation remains separate.
+
+- [Evidence](docs/production/ecc-admin-signage-20260913.md)
+
+Next: Verify final combined-release reader and live versions; preserve scoped local evidence.
+
+## CE-CHANGE-20260913-48 — Repair cold mobile EST film playback
+
+Integration: **in-progress**. Types: implementation. Owner: EST repair task.
+
+**Objective:** Restore mobile tapped film playback without changing the EST design.
+
+**Before:** Whole film Blob and awaited metadata before audible play.
+
+**Required result:** Native streaming with synchronous play/restart; local verification only. Completed first receipt included in verified live campus release 61826d685d434ceb8ecedaf7adf5be5d7280b651; newer follow-up remains separate. See campus-windows-release evidence.
+
+**Source:** Tania explicit mobile repair request, 13 September 2026
+
+**Next:** Publish through concurrent campus release, then physical-phone checks.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Record the scoped EST repair and test limits without replacing the concurrent campus milestone.
+
+Records: CE-CHANGE-20260913-48. Owner: EST repair task.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending / Local scoped evidence saved; complete reader/release review is not claimed.
+
+- [Evidence](docs/production/est-mobile-video-20260913.md)
+
+Next: Verify affected final source/reader and publication in combined release.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Record the scoped EST repair and test limits without replacing the concurrent campus milestone.
+
+Records: CE-CHANGE-20260913-48. Owner: EST repair task.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending / Local scoped evidence saved; complete reader/release review is not claimed.
+
+- [Evidence](docs/production/est-mobile-video-20260913.md)
+
+Next: Verify affected final source/reader and publication in combined release.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Record the scoped EST repair and test limits without replacing the concurrent campus milestone.
+
+Records: CE-CHANGE-20260913-48. Owner: EST repair task.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: pending / Local scoped evidence saved; complete reader/release review is not claimed.
+
+- [Evidence](docs/production/est-mobile-video-20260913.md)
+
+Next: Verify affected final source/reader and publication in combined release.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Canonical and game AGENTS plus rolling handoff updated.
+
+Records: CE-CHANGE-20260913-48. Owner: EST repair task.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: pending / Local scoped evidence saved; complete reader/release review is not claimed.
+
+- [Evidence](docs/production/est-mobile-video-20260913.md)
+
+Next: Verify affected final source/reader and publication in combined release.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Record the scoped EST repair and test limits without replacing the concurrent campus milestone.
+
+Records: CE-CHANGE-20260913-48. Owner: EST repair task.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending / Local scoped evidence saved; complete reader/release review is not claimed.
+
+- [Evidence](docs/production/est-mobile-video-20260913.md)
+
+Next: Verify affected final source/reader and publication in combined release.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Keep local-only status until concurrent campus release verifies final source and live behavior.
+
+Records: CE-CHANGE-20260913-48. Owner: EST repair task.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Local scoped evidence saved; complete reader/release review is not claimed.
+
+- [Evidence](docs/production/est-mobile-video-20260913.md)
+
+Next: Verify affected final source/reader and publication in combined release.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record the scoped EST repair and test limits without replacing the concurrent campus milestone.
+
+Records: CE-CHANGE-20260913-48. Owner: EST repair task.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending / Local scoped evidence saved; complete reader/release review is not claimed.
+
+- [Evidence](docs/production/est-mobile-video-20260913.md)
+
+Next: Verify affected final source/reader and publication in combined release.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Record the scoped EST repair and test limits without replacing the concurrent campus milestone.
+
+Records: CE-CHANGE-20260913-48. Owner: EST repair task.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending / Local scoped evidence saved; complete reader/release review is not claimed.
+
+- [Evidence](docs/production/est-mobile-video-20260913.md)
+
+Next: Verify affected final source/reader and publication in combined release.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+No teacher or assessment source changed; only existing film transport and tap playback.
+
+Records: CE-CHANGE-20260913-48. Owner: EST repair task.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending / Local scoped evidence saved; complete reader/release review is not claimed.
+
+- [Evidence](docs/production/est-mobile-video-20260913.md)
+
+Next: Verify affected final source/reader and publication in combined release.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Record the scoped EST repair and test limits without replacing the concurrent campus milestone.
+
+Records: CE-CHANGE-20260913-48. Owner: EST repair task.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending / Local scoped evidence saved; complete reader/release review is not claimed.
+
+- [Evidence](docs/production/est-mobile-video-20260913.md)
+
+Next: Verify affected final source/reader and publication in combined release.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Phone playback screenshot logged; original film/poster pairing preserved.
+
+Records: CE-CHANGE-20260913-48. Owner: EST repair task.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending / Local scoped evidence saved; complete reader/release review is not claimed.
+
+- [Evidence](docs/production/est-mobile-video-20260913.md)
+
+Next: Verify affected final source/reader and publication in combined release.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Original H.264/AAC film and poster retained; asset hash and transport probe in scoped receipt.
+
+Records: CE-CHANGE-20260913-48. Owner: EST repair task.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending / Local scoped evidence saved; complete reader/release review is not claimed.
+
+- [Evidence](docs/production/est-mobile-video-20260913.md)
+
+Next: Verify affected final source/reader and publication in combined release.
+
+## CE-CHANGE-20260913-47 — Approve courtyard visual benchmark and roll its standard across campus
+
+Integration: **in-progress**. Types: decision, visual, building, implementation. Owner: Career Empire environment integrator.
+
+**Objective:** Bring the playable ECC pilot materially closer to approved hero imagery through measured engineering.
+
+**Before:** Functional ECC with approved layout; detailed hero fidelity not established.
+
+**Required result:** Tania-approved campus plus revision5 Chapel exterior and Administration/welcome signage are live and verified at 1ca602a59ef16a1dc64f79e9185a9e395f81a023 (2026-09-13T08:38:14Z), PR #12; reviewed candidate 754f3fcd8c2aeb07d5c2b91a441d00b2fc398343. Sharper Administration/crest print; complete welcome monument moved and angled with matching Home Base and collision; flush Chapel woman/tree glass with separate metal figure; corrected recessed cross, doorway and pergola. The earlier clear Media windows, SPACE practice courts and paving repairs remain published. 81 published manifest files match the committed candidate. Package check resolves 29 local modules; source checks and 14 unit tests pass. Saved revision5 physics evidence covers four routes and moved-sign collision. Actual candidate and live exterior/Home Base views inspected, with no scenery errors. Full hosted graphics suite retains known timeouts and no full pass is claimed; sustained school-device performance is unverified.
+
+**Source:** Tania explicit af04666 courtyard acceptance and request to go ahead with that standard for the rest, following the earlier hero direction and rebuild approvals; latest explicit request: make those changes and just push through to live
+
+**Next:** NEW Chapel interior work is excluded. The released Chapel interior module is byte-identical to prior live 61826d6; newer local app.js, chapel.js and world.js work remains untouched. Do not publish new Chapel interior work until Tania explicitly approves that release. Stop further development in this task until Tania returns with news from the avatar software people. Preserve paused avatar/wardrobe and curriculum-state timing. Canonical reader integration remains separate.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Current standard, pilot scope, status and evidence updated in canonical productionPlan/style guide, material register, generated documents and/or implementation receipt; original assets and protected gameplay preserved.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending / Local content and relevant browser/source checks recorded in pilot document; exact-reference/device acceptance and publication review remain separate.
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Current standard, pilot scope, status and evidence updated in canonical productionPlan/style guide, material register, generated documents and/or implementation receipt; original assets and protected gameplay preserved.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending / Local content and relevant browser/source checks recorded in pilot document; exact-reference/device acceptance and publication review remain separate.
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Current standard, pilot scope, status and evidence updated in canonical productionPlan/style guide, material register, generated documents and/or implementation receipt; original assets and protected gameplay preserved.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: pending / Local content and relevant browser/source checks recorded in pilot document; exact-reference/device acceptance and publication review remain separate.
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Current standard, pilot scope, status and evidence updated in canonical productionPlan/style guide, material register, generated documents and/or implementation receipt; original assets and protected gameplay preserved.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: pending / Local content and relevant browser/source checks recorded in pilot document; exact-reference/device acceptance and publication review remain separate.
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Current standard, pilot scope, status and evidence updated in canonical productionPlan/style guide, material register, generated documents and/or implementation receipt; original assets and protected gameplay preserved.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending / Local content and relevant browser/source checks recorded in pilot document; exact-reference/device acceptance and publication review remain separate.
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Scoped ECC pilot: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending /
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Current standard, pilot scope, status and evidence updated in canonical productionPlan/style guide, material register, generated documents and/or implementation receipt; original assets and protected gameplay preserved.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: pending / Local content and relevant browser/source checks recorded in pilot document; exact-reference/device acceptance and publication review remain separate.
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Curriculum and reciprocal mappings — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Scoped ECC pilot: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: pending /
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Scoped ECC pilot: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending /
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Player Journey and worked example — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Scoped ECC pilot: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: pending /
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Year plan and assessment — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Scoped ECC pilot: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: pending /
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Scoped ECC pilot: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending /
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### World, rewards and progression — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Current standard, pilot scope, status and evidence updated in canonical productionPlan/style guide, material register, generated documents and/or implementation receipt; original assets and protected gameplay preserved.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: pending / Local content and relevant browser/source checks recorded in pilot document; exact-reference/device acceptance and publication review remain separate.
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Buildings and places — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Current standard, pilot scope, status and evidence updated in canonical productionPlan/style guide, material register, generated documents and/or implementation receipt; original assets and protected gameplay preserved.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: pending / Local content and relevant browser/source checks recorded in pilot document; exact-reference/device acceptance and publication review remain separate.
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Avatar and wardrobe references — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Scoped ECC pilot: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: pending /
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Look and feel — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Current standard, pilot scope, status and evidence updated in canonical productionPlan/style guide, material register, generated documents and/or implementation receipt; original assets and protected gameplay preserved.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: pending / Local content and relevant browser/source checks recorded in pilot document; exact-reference/device acceptance and publication review remain separate.
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Current standard, pilot scope, status and evidence updated in canonical productionPlan/style guide, material register, generated documents and/or implementation receipt; original assets and protected gameplay preserved.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending / Local content and relevant browser/source checks recorded in pilot document; exact-reference/device acceptance and publication review remain separate.
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Current standard, pilot scope, status and evidence updated in canonical productionPlan/style guide, material register, generated documents and/or implementation receipt; original assets and protected gameplay preserved.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending / Local content and relevant browser/source checks recorded in pilot document; exact-reference/device acceptance and publication review remain separate.
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Scoped ECC pilot: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending /
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Source library, terminology and rationale — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Scoped ECC pilot: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: pending /
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Current standard, pilot scope, status and evidence updated in canonical productionPlan/style guide, material register, generated documents and/or implementation receipt; original assets and protected gameplay preserved.
+
+Records: CE-VISUAL-20260913-HERO, CE-ECC-HUB-01. Owner: Career Empire environment integrator.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending / Local content and relevant browser/source checks recorded in pilot document; exact-reference/device acceptance and publication review remain separate.
+
+- [Evidence](docs/production/ecc-hero-pilot-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/ecc-hero-pilot/final-source-receipt.json)
+- [Evidence](docs/production/approved-standard-rollout-20260913.md)
+- [Evidence](private/production-evidence/2026-09-13/approved-standard-rollout/approval.json)
+- [Evidence](private/production-evidence/2026-09-13/campus-windows-release/checkpoint-receipt.json)
+
+Next: Game release is verified live; retain remaining canonical reader/source and physical-device checks separately. Do not repeat accepted courtyard approval.
+
+## CE-CHANGE-20260911-46 — Assemble and lock approved world environment and camera
+
+Integration: **in-progress**. Types: implementation, visual, building. Owner: Career Empire maintainer.
+
+**Objective:** One verified playable version from accepted components.
+
+**Before:** Approved surroundings/atmosphere were separate from the playable camera candidate.
+
+**Required result:** Combined runtime with accepted environment, stage grass, camera, Media collision and campus aerial. Home Base corrected to welcome sign; recovered polish/transition checks remain open. Follow-up adds a walkable oval, connecting grass, staged western/southern tree belt and solid accessible exteriors. Mobile follow-up collapses guidance/settings, increases movement targets and fits short viewports.
+
+**Source:** Tania authorises combined integration and local lock-in.
+
+**Next:** Complete recovered campus-edge/material blending and welcome/Chapel arrival composition checks, plus smooth development-stage transitions; then final combined review before release.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Look and feel — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Buildings and places — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Avatar and wardrobe references — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### World, rewards and progression — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: CE-CHANGE-20260911-46, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: pending / Combined local checks tracked in evidence; final reader/publication verification remains pending.
+
+- [Evidence](/career-empire-blueprint/production/combined-world-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+## CE-CHANGE-20260911-45 — Comfortable full-body outdoor walking camera
+
+Integration: **in-progress**. Types: implementation, visual. Owner: Career Empire maintainer.
+
+**Objective:** Keep complete avatar in view through outdoor movement and returns.
+
+**Before:** High aim and short follow cropped framing; Studio approach jumped distance.
+
+**Required result:** Consistent wider outdoor follow and lower aim; corrected Chapel exit camera angle.
+
+**Source:** Tania authorises next walking-camera step on 11 September.
+
+**Next:** Review the outdoor full-body camera, then assemble the banked environment choices for one combined in-game review and regression pass before publication.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Look and feel — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Buildings and places — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Avatar and wardrobe references — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### World, rewards and progression — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: CE-CHANGE-20260911-45, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: pending / Local camera validation saved; final combined integration and reader/publication remain pending.
+
+- [Evidence](/career-empire-blueprint/production/walking-camera-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+## CE-CHANGE-20260911-44 — English and Media glass, orientation and shared grass oval
+
+Integration: **in-progress**. Types: visual, building, implementation, decision. Owner: Career Empire maintainer.
+
+**Objective:** Recognisable glass facade, mural toward SPACE and continuous stage turf.
+
+**Before:** Provisional plain Media silhouette and disconnected broad ground plane.
+
+**Required result:** Revision2: sharper three-region mural, compact aerial-derived west/southwest positions near admin, comparable building scales and reduced continuous-grass terrain.
+
+**Source:** Tania supplied English and Media photographs and aerial, 11 September 2026. User permits representative geometry and compressed distances.
+
+**Next:** Review sharper mural and compact SPACE/Media/admin relationship in revision2; bank and pause wider surrounding work. Walking camera and combined release remain pending.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Look and feel — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Buildings and places — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Avatar and wardrobe references — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### World, rewards and progression — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Curriculum and reciprocal mappings — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Player Journey and worked example — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Year plan and assessment — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Source library, terminology and rationale — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Records: CE-CHANGE-20260911-44, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: pending / Local source and preview checks recorded; final reader and publication integration remain pending.
+
+- [Evidence](/career-empire-blueprint/production/media-oval-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+## CE-CHANGE-20260911-43 — Refine SPACE from supplied building photographs
+
+Integration: **in-progress**. Types: visual, building, implementation. Owner: Career Empire maintainer.
+
+**Objective:** Replace the overly simple SPACE silhouette with a recognisable reference-led exterior.
+
+**Before:** Short box silhouette omitted long hall, steel frames, louvres and glass entrance.
+
+**Required result:** Revision 3: rear-facing foyer beyond white-door side wall, grey/cream/red transition and rear court; wrong front foyer removed.
+
+**Source:** Tania: try again with buildings; supplied SPACE4.jpg, Space 3.jpg and SPACE 4.jpg; clean image first then 3D. Tania corrects actual foyer to the rear corner facing opposite the main front.
+
+**Next:** Review front and rear foyer views against the user-corrected spatial relationship.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Look and feel — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Buildings and places — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Avatar and wardrobe references — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### World, rewards and progression — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20260911-43, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending / Preview verification and source inspection are recorded separately; final reader/publication remains pending.
+
+- [Evidence](/career-empire-blueprint/production/space-revision2-20260911.md)
+
+Next: Identify the exact affected records and complete the reader-facing update.
+
+## CE-CHANGE-20260911-42 — Recover saved ECC session and resume skyline review
+
+Integration: **in-progress**. Types: release, building, visual, implementation. Owner: Career Empire maintainer.
+
+**Objective:** Recover exact released game and approved Stage 1 preview, then continue the existing skyline review.
+
+**Before:** Temporary game worktree missing; approved preview survives in canonical evidence.
+
+**Required result:** Exact original worktree and approved Stage 1 restored; separate Stage 2 surroundings study prepared.
+
+**Source:** Tania recovery request, 11 September 2026; saved ECC session and canonical plan.
+
+**Next:** Complete Stage 2 fixed-view review; remaining stage selections precede combined publication.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Source library, terminology and rationale — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Buildings and places — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### World, rewards and progression — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Look and feel — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Avatar and wardrobe references — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: CE-CHANGE-20260911-42, CE-PLAN-01. Owner: Career Empire maintainer.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending / Scoped recovery checks recorded; full reader and combined-release review remain pending.
+
+- [Evidence](/career-empire-blueprint/production/ecc-session-recovery-20260911.md)
+
+Next: Review this affected surface against the recovery record before combined release.
 
 ## CE-CHANGE-20260911-41 — Clear EST entry and readable briefing/source documents
 
@@ -389,7 +5373,7 @@ Integration: **in-progress**. Types: building, visual, implementation, decision,
 
 **Source:** Tania: do the campus upgrades one at a time, add real campus building references behind/around ECC, settle upgrades before one combined world/Blueprint release; then full boy/girl/changeable-clothes avatar project, Chapel Easter eggs/side quests, then serious curriculum and world-entry experiences.
 
-**Next:** Present Stage 1 lighting on the actual current campus at fixed arrival, aerial and walking views.
+**Next:** Stage 1 revision4 is approved and banked; review Stage 2 surroundings before later stage selections and one combined release.
 
 ### Start Here — pending
 

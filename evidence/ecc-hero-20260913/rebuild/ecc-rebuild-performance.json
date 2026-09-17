@@ -1,0 +1,46 @@
+{
+  "baseline": {
+    "viewport": [
+      1440,
+      900
+    ],
+    "dpr": 1,
+    "fpsMedian": 53.5,
+    "fpsRange": [
+      51,
+      60
+    ],
+    "triangles": 1917123,
+    "drawCalls": 358,
+    "encodedBytes": 66710700,
+    "transferBytes": 114705,
+    "readyMs": 1667
+  },
+  "rebuild": {
+    "viewport": [
+      1440,
+      900
+    ],
+    "dpr": 1,
+    "fpsMedian": 41.5,
+    "fpsRange": [
+      32,
+      47
+    ],
+    "triangles": 2284884,
+    "drawCalls": 340,
+    "encodedBytes": 69315294,
+    "transferBytes": 116558,
+    "readyMs": 1195
+  },
+  "method": "Same in-app browser, 1440x900, DPR 1, Flourishing/Auto, Avery at (0,.16,-2.8), sixteen half-second diagnostic samples each. Other game tabs blank; Blender export finished. Different warm cache state; localhost.",
+  "limits": "Short desktop samples fluctuate. Not a controlled sustained benchmark or physical-phone test; no general speed-up claim. Readiness timings are cache-dependent, not internet load times.",
+  "payload": {
+    "newRuntimeFilesBytes": 5818191,
+    "rawNewRuntimeBytes": 6756653,
+    "compressedModelBytes": 2224820,
+    "rawModelBytes": 9250800,
+    "note": "New runtime files including images, HDR, compressed model, modules/decoders. Existing shared textures/assets reused. Network timing totals vary with cached/range responses and are not authoritative cold payload totals.",
+    "textureConversion": "WebP 1024px; no resize. CPU image compression used for transport; GPU texture dimensions unchanged."
+  }
+}
