@@ -8,7 +8,7 @@ ST4S product readiness is NOT READY: 313 controls unresolved. Other existing int
 
 ## CE-CHANGE-20260917-72 — Publish ST4S governance reader and repair bounded publication validation
 
-Integration: **ready-for-publication**. Types: governance, implementation, security. Owner: Blueprint maintainer; Tania accountable for assigning security/privacy owners.
+Integration: **complete**. Types: governance, implementation, security. Owner: Blueprint maintainer; Tania accountable for assigning security/privacy owners.
 
 **Objective:** Publish the existing ST4S framework as an honest readiness report while retaining unresolved product controls and unrelated work.
 
@@ -18,7 +18,7 @@ Integration: **ready-for-publication**. Types: governance, implementation, secur
 
 **Source:** Tania: publish and submit please; clarified Submit Blueprint changes on 17 September 2026.
 
-**Next:** Publish checked generated reader, verify Pages completion and live bytes/browser, retain product ST4S remediation separately.
+**Next:** Reporting integration complete; product controls and other existing integrations remain unresolved and independently gated.
 
 ### Start Here — updated
 
@@ -105,20 +105,22 @@ Verification: passed / Reviewed reporting source and preserved existing product 
 
 Next: No remaining local integration action in reporting scope; product controls remain unresolved.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Current ST4S source is not published. Existing guarded release fails on inherited schema/impact errors; preserve its prior review hashes and live identity.
+Published and independently verified the scoped ST4S reporting reader at the existing Pages destination.
 
 Records: CE-CHANGE-20260917-72. Owner: Blueprint maintainer.
 
 Acceptance: Review affected source and reader meaning; keep local and live verification separate.
 
-Verification: pending /
+Verification: passed / Pages built; manifest/record and 11 relevant files match; live desktop/mobile interactions pass; three private/source URL probes return 404.
 
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/first-live-receipt.json)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/first-live-reader/results.json)
 
-Next: Verify source/public commit identities, Pages deployment, manifest and live desktop/mobile reader after publication.
+Next: Verify final metadata close-out separately; do not infer school/product compliance.
 
 ### Implementation and test evidence — updated
 
@@ -515,7 +517,7 @@ Next: Retain local tested boundary; review corresponding reader surface before p
 
 ## CE-CHANGE-20260917-70 — Integrate school deployment and ST4S readiness into production governance
 
-Integration: **ready-for-publication**. Types: governance, implementation, research, security. Owner: Blueprint maintainer; Tania accountable for assigning security/privacy owners.
+Integration: **complete**. Types: governance, implementation, research, security. Owner: Blueprint maintainer; Tania accountable for assigning security/privacy owners.
 
 **Objective:** School deployment needs evidence-led security, privacy and safety gates throughout feature delivery.
 
@@ -525,7 +527,7 @@ Integration: **ready-for-publication**. Types: governance, implementation, resea
 
 **Source:** Tania explicit 17 September request continuing Security readiness review; governing attached Supplier Guide 2026.1 v1.0.
 
-**Next:** Publish checked generated reader, verify Pages completion and live bytes/browser, retain product ST4S remediation separately.
+**Next:** Reporting integration complete; product controls and other existing integrations remain unresolved and independently gated.
 
 ### Start Here — updated
 
@@ -612,21 +614,22 @@ Verification: passed / Reviewed reporting source and preserved existing product 
 
 Next: No remaining local integration action in reporting scope; product controls remain unresolved.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Current ST4S source is not published. Existing guarded release fails on inherited schema/impact errors; preserve its prior review hashes and live identity.
+Published and independently verified the scoped ST4S reporting reader at the existing Pages destination.
 
 Records: CE-CHANGE-20260917-70, CE-ST4S-01. Owner: Blueprint maintainer.
 
 Acceptance: Review affected source and reader meaning; keep local and live verification separate.
 
-Verification: blocked / Official test/build preflight fails on prior Chapel schema field; separate inherited impact coverage gap.
+Verification: passed / Pages built; manifest/record and 11 relevant files match; live desktop/mobile interactions pass; three private/source URL probes return 404.
 
-- [Evidence](private/production-evidence/2026-09-17/st4s-readiness/validation.md)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/first-live-receipt.json)
+- [Evidence](private/production-evidence/2026-09-17/st4s-publication/first-live-reader/results.json)
 
-Next: Verify source/public commit identities, Pages deployment, manifest and live desktop/mobile reader after publication.
+Next: Verify final metadata close-out separately; do not infer school/product compliance.
 
 ### Implementation and test evidence — updated
 

@@ -1,5 +1,7 @@
 # School Deployment, Security, Privacy & ST4S Readiness
 
+**Published reporting update — 17 September 2026:** V2.21 is live and independently checked at the existing Blueprint site. 86 tests and live desktop/phone-width reporting checks pass. This supersedes earlier local-only publication notes below; product readiness remains NOT READY and formal ST4S assessment has not been submitted. Exact final release identity: [publication manifest](https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json).
+
 Canonical workstream **CE-ST4S-01**, material change **CE-CHANGE-20260917-70**, local Blueprint **V2.21**, 17 September 2026. This extends the existing V2.8-and-later audit, change-control, session and Definition-of-Done system. It does not replace the existing production plan or its protected decisions. Current result: **NOT READY**. No school deployment, ST4S submission or approval is claimed.
 
 The governing source is Tania's attached **Safer Technologies for Schools Supplier Guide 2026.1 v1.0**, SHA-256 `ceaba057d5f3af738cae7fc70a6a61fba5b5c0e5ce4a1cba8db4c6d8a1b9a875`. Its original and page-indexed extraction are retained in private evidence. See pp.10–11 for Readiness questions, p.24 for tier-specific minima, pp.25–110 for criteria, pp.88–89 and 109–110 for documentary evidence. Register question excerpts locate the source; the full question, conditional applicability and bold minimum response in the original table govern. Recheck the current framework before an actual submission; this task does not silently substitute another edition.
@@ -94,3 +96,10 @@ Local V2.21 governance implementation is saved. Eleven ST4S tests, TypeScript, s
 ## Authorised Blueprint publication follow-up — 17 September 2026
 
 CE-CHANGE-20260917-72 supersedes only the earlier local release-blocker checkpoint: typed validation now accepts the existing Chapel receipt while rejecting malformed fields; record 68 has its missing surfaces restored as pending; approval/URL fixtures retain original decisions and recognise later source history. The original release declaration and all reviews are preserved verbatim in canonical releaseHistory. Full tests and desktop/390px ST4S reader/copy checks pass; publication verification is pending. This is reporting publication only: 313 controls unresolved, no game/database change and no formal ST4S submission. Existing historical world/avatar summaries and other integration tasks are not certified current by this release.
+
+
+## ST4S Blueprint reporting published — 17 September 2026
+
+Records 70 and 72 are complete for Blueprint reporting only. Source 55bb6e5eb42a0a961494424fe31beb881796dd10 was submitted to the existing private recovery branch. Public release b4420d549f9323f0aa5b8e279eb09bda329c9846 built successfully; exact manifest and 11 relevant page/data/asset files match. Live desktop and 390px checks pass for dashboard, Gates, source catalogue, three reports and copied prompt. Private/source URLs return 404. Full tests: 86 passed; type/lint and application/Pages builds pass. Final metadata source/public identity is provided by the independent live publication manifest.
+
+313 ST4S controls remain unresolved; no school approval, game/database change or formal ST4S submission by this task. Preserve all unrelated integration gaps and the concurrent avatar task's newer record71 receipt. Earlier local-only/publication-blocked notes are historical checkpoints. First live proof: private/production-evidence/2026-09-17/st4s-publication/first-live-receipt.json.

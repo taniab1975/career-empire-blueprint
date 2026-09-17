@@ -8,16 +8,16 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** Blueprint publication and governance
 - **source:** Tania: publish and submit please; clarified Submit Blueprint changes on 17 September 2026.
 - **owner:** Blueprint maintainer
-- **status:** Ready for Blueprint publication; live verification pending
+- **status:** Blueprint reporting published and verified; product ST4S readiness remains blocked
 - **rationale:** Publish the existing ST4S framework as an honest readiness report while retaining unresolved product controls and unrelated work.
 - **dependencies:** CE-CHANGE-20260917-70
-- **evidence:** private/production-evidence/2026-09-17/st4s-publication/validation.md
-- **nextAction:** Finish guarded build, submit private source and publish generated reader; independently verify live receipt.
+- **evidence:** private/production-evidence/2026-09-17/st4s-publication/validation.md / private/production-evidence/2026-09-17/st4s-publication/first-live-receipt.json
+- **nextAction:** Retain product remediation and remaining live Supabase evidence backlog; Blueprint reporting publication does not authorise school deployment.
 - **supersededRecord:** None
 - **designApproval:** Explicit publication request; no new game design approval.
 - **implementation:** Typed existing Chapel publication extension; restore missing pending record-68 surfaces; preserve original approval fixtures plus newer decisions; allow generated ST4S public register.
-- **deployment:** Pending verification at existing GitHub Pages destination.
-- **testing:** 86 tests passed including strict metadata regression test; desktop and 390px dashboard, copied prompt, Gates, source catalogue and reports pass without overflow/runtime errors.
+- **deployment:** First ST4S reader release b4420d549f9323f0aa5b8e279eb09bda329c9846 built and verified live; source 55bb6e5eb42a0a961494424fe31beb881796dd10. No game/database deployment or formal ST4S submission by this task.
+- **testing:** 86 full tests, type/lint checks and both guarded builds pass. Live desktop/390px dashboard, Gates, sources, reports and clipboard pass; exact relevant bytes match and private URLs return 404.
 - **taniaAcceptance:** Publication authorised; formal ST4S assessment explicitly outside this request.
 
 ## CE-CHANGE-20260917-71 — Saved-avatar startup and on-demand Studio resources
@@ -44,17 +44,17 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** School Deployment, Security, Privacy & ST4S Readiness
 - **source:** Tania explicit 17 September request continuing Security readiness review; governing attached Supplier Guide 2026.1 v1.0.
 - **owner:** Blueprint maintainer; Tania accountable for assigning security/privacy owners
-- **status:** Local governance implemented and scoped checks passed; full reader release blocked by inherited validation gaps
+- **status:** Blueprint reporting published and verified; product ST4S readiness remains blocked
 - **rationale:** School deployment needs evidence-led security, privacy and safety gates throughout feature delivery.
 - **dependencies:** Existing V2.8 and subsequent governance / Supplier Guide 2026.1 v1.0 / Live Supabase metadata/configuration and independent review evidence
 - **supersededRecord:** None
 - **designApproval:** Explicitly authorised governance workstream; preserve all protected decisions and unrelated production work.
 - **implementation:** Added workstream, 324 guide/project control records, 45 evidence records, 14 audit tasks, shared derived dashboard, six stage gates, mandatory feature impact checks and prompt/session/DoD integration. Read-only source inventory and primary-region UI observation completed; live configuration remains partly unverified.
-- **deployment:** Local canonical V2.21 saved; no public reader deployment, game/database changes or ST4S submission.
-- **testing:** 11 ST4S tests, TypeScript, scoped lint, exact guide/evidence/preservation checks and temporary reader compile pass. Desktop dashboard/report inspected. Broad tests 76/85; 9 inherited failures keep official test/build blocked. Mobile attempt interrupted; no full browser or live release claim.
+- **deployment:** First ST4S reader release b4420d549f9323f0aa5b8e279eb09bda329c9846 built and verified live; source 55bb6e5eb42a0a961494424fe31beb881796dd10. No game/database deployment or formal ST4S submission by this task.
+- **testing:** 86 full tests, type/lint checks and both guarded builds pass. Live desktop/390px dashboard, Gates, sources, reports and clipboard pass; exact relevant bytes match and private URLs return 404.
 - **taniaAcceptance:** Requested scope authorised; no compliance or school approval inferred.
-- **evidence:** docs/production/st4s-readiness.md / docs/production/st4s-controls.md / docs/production/st4s-backlog.md / private/production-evidence/2026-09-17/st4s-readiness/validation.md
-- **nextAction:** Obtain remaining read-only Supabase catalog/settings and contractual evidence; nominate security/privacy owners and remediate source auth/tenant gaps. Resolve inherited release blockers before normal reader publication.
+- **evidence:** docs/production/st4s-readiness.md / docs/production/st4s-controls.md / docs/production/st4s-backlog.md / private/production-evidence/2026-09-17/st4s-readiness/validation.md / private/production-evidence/2026-09-17/st4s-publication/first-live-receipt.json
+- **nextAction:** Retain product remediation and remaining live Supabase evidence backlog; Blueprint reporting publication does not authorise school deployment.
 
 ## CE-CHANGE-20260917-69 — Extend steward coverage to verified independent game copies
 

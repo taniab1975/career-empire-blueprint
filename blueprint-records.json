@@ -28,7 +28,7 @@
       "id": "V2.21",
       "date": "2026-09-17",
       "label": "V2.21 / 17 September 2026",
-      "status": "ST4S governance reporting release; school readiness remains blocked; publication verification pending",
+      "status": "ST4S governance reporting published and live verified; school readiness remains blocked",
       "purpose": "Career Empire is a 3D career-and-life simulation for Year 12 Careers and Employability. Students encounter a situation that matters to their character, learn what they need, and use it to make better choices.",
       "audience": "Year 12 students, with their teacher guiding learning, pacing and evidence review.",
       "owner": "Tania Byrnes",
@@ -1038,15 +1038,15 @@
       "publication": {
         "sourceRevision": "V2.21 / ST4S readiness governance",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.20 / Blueprint reader",
-        "checkedAt": "2026-09-10",
-        "observedLiveSha256": "2e19d16262a24795ebc76d71e758f41ca45dca05d865f042d1c46110748dd3b5",
-        "accessCheck": "V2.18 first content release independently verified; private recovery remains PRIVATE. Latest exact source is identified by the live manifest; this observed hash is the dated pre-metadata verification, not a recursive self-hash.",
-        "validationReceipt": "/production/game-hosting-correction-20260910.md",
-        "status": "ST4S reader locally verified and authorised for publication; live verification pending",
+        "observedLiveRevision": "V2.21 / Blueprint reader",
+        "checkedAt": "2026-09-17",
+        "observedLiveSha256": "e24630c9a00dc3cd9f79ad4f42345961cc7d33eddba14f4277ee530d354f8f08",
+        "accessCheck": "Existing private recovery repository verified PRIVATE before upload; generated-files-only Pages publication built successfully.",
+        "validationReceipt": "/production/st4s-readiness.html",
+        "status": "ST4S reporting release independently verified live; remaining product/integration gaps disclosed",
         "savedVersionId": null,
-        "deploymentId": "GitHub Pages Blueprint / bfa3b1ca828c8089171c8aadffa2220564a80b22",
-        "parity": "Current ST4S source/live parity unverified; prior dated publication receipts remain historical",
+        "deploymentId": "GitHub Pages / b4420d549f9323f0aa5b8e279eb09bda329c9846",
+        "parity": "First ST4S release manifest, record, JS/CSS and all six ST4S reports match; live desktop/mobile interaction checks pass.",
         "resume": "Use the private canonical source and existing recovery branch; publish only validated generated output to the existing Pages repository. Read the current manifest/receipt, preserve newer history, and log material work. Legacy redirect waits for the owning Sites account.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
@@ -1056,8 +1056,8 @@
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
         },
-        "observedPublicCommit": "bfa3b1ca828c8089171c8aadffa2220564a80b22",
-        "hashScope": "First V2.17 correction source 6830edd58ad512bf280dc0485d14ad06ab768b6c; final metadata manifest is independent.",
+        "observedPublicCommit": "b4420d549f9323f0aa5b8e279eb09bda329c9846",
+        "hashScope": "Dated first ST4S publication proof; final metadata release is identified independently by publication-manifest.json, avoiding recursive self-hashes.",
         "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
@@ -1118,20 +1118,21 @@
           "domain": "Blueprint publication and governance",
           "source": "Tania: publish and submit please; clarified Submit Blueprint changes on 17 September 2026.",
           "owner": "Blueprint maintainer",
-          "status": "Ready for Blueprint publication; live verification pending",
+          "status": "Blueprint reporting published and verified; product ST4S readiness remains blocked",
           "rationale": "Publish the existing ST4S framework as an honest readiness report while retaining unresolved product controls and unrelated work.",
           "dependencies": [
             "CE-CHANGE-20260917-70"
           ],
           "evidence": [
-            "private/production-evidence/2026-09-17/st4s-publication/validation.md"
+            "private/production-evidence/2026-09-17/st4s-publication/validation.md",
+            "private/production-evidence/2026-09-17/st4s-publication/first-live-receipt.json"
           ],
-          "nextAction": "Finish guarded build, submit private source and publish generated reader; independently verify live receipt.",
+          "nextAction": "Retain product remediation and remaining live Supabase evidence backlog; Blueprint reporting publication does not authorise school deployment.",
           "supersededRecord": null,
           "designApproval": "Explicit publication request; no new game design approval.",
           "implementation": "Typed existing Chapel publication extension; restore missing pending record-68 surfaces; preserve original approval fixtures plus newer decisions; allow generated ST4S public register.",
-          "deployment": "Pending verification at existing GitHub Pages destination.",
-          "testing": "86 tests passed including strict metadata regression test; desktop and 390px dashboard, copied prompt, Gates, source catalogue and reports pass without overflow/runtime errors.",
+          "deployment": "First ST4S reader release b4420d549f9323f0aa5b8e279eb09bda329c9846 built and verified live; source 55bb6e5eb42a0a961494424fe31beb881796dd10. No game/database deployment or formal ST4S submission by this task.",
+          "testing": "86 full tests, type/lint checks and both guarded builds pass. Live desktop/390px dashboard, Gates, sources, reports and clipboard pass; exact relevant bytes match and private URLs return 404.",
           "taniaAcceptance": "Publication authorised; formal ST4S assessment explicitly outside this request."
         },
         {
@@ -1167,7 +1168,7 @@
           "domain": "School Deployment, Security, Privacy & ST4S Readiness",
           "source": "Tania explicit 17 September request continuing Security readiness review; governing attached Supplier Guide 2026.1 v1.0.",
           "owner": "Blueprint maintainer; Tania accountable for assigning security/privacy owners",
-          "status": "Local governance implemented and scoped checks passed; full reader release blocked by inherited validation gaps",
+          "status": "Blueprint reporting published and verified; product ST4S readiness remains blocked",
           "rationale": "School deployment needs evidence-led security, privacy and safety gates throughout feature delivery.",
           "dependencies": [
             "Existing V2.8 and subsequent governance",
@@ -1177,16 +1178,17 @@
           "supersededRecord": null,
           "designApproval": "Explicitly authorised governance workstream; preserve all protected decisions and unrelated production work.",
           "implementation": "Added workstream, 324 guide/project control records, 45 evidence records, 14 audit tasks, shared derived dashboard, six stage gates, mandatory feature impact checks and prompt/session/DoD integration. Read-only source inventory and primary-region UI observation completed; live configuration remains partly unverified.",
-          "deployment": "Local canonical V2.21 saved; no public reader deployment, game/database changes or ST4S submission.",
-          "testing": "11 ST4S tests, TypeScript, scoped lint, exact guide/evidence/preservation checks and temporary reader compile pass. Desktop dashboard/report inspected. Broad tests 76/85; 9 inherited failures keep official test/build blocked. Mobile attempt interrupted; no full browser or live release claim.",
+          "deployment": "First ST4S reader release b4420d549f9323f0aa5b8e279eb09bda329c9846 built and verified live; source 55bb6e5eb42a0a961494424fe31beb881796dd10. No game/database deployment or formal ST4S submission by this task.",
+          "testing": "86 full tests, type/lint checks and both guarded builds pass. Live desktop/390px dashboard, Gates, sources, reports and clipboard pass; exact relevant bytes match and private URLs return 404.",
           "taniaAcceptance": "Requested scope authorised; no compliance or school approval inferred.",
           "evidence": [
             "docs/production/st4s-readiness.md",
             "docs/production/st4s-controls.md",
             "docs/production/st4s-backlog.md",
-            "private/production-evidence/2026-09-17/st4s-readiness/validation.md"
+            "private/production-evidence/2026-09-17/st4s-readiness/validation.md",
+            "private/production-evidence/2026-09-17/st4s-publication/first-live-receipt.json"
           ],
-          "nextAction": "Obtain remaining read-only Supabase catalog/settings and contractual evidence; nominate security/privacy owners and remediate source auth/tenant gaps. Resolve inherited release blockers before normal reader publication."
+          "nextAction": "Retain product remediation and remaining live Supabase evidence backlog; Blueprint reporting publication does not authorise school deployment."
         },
         {
           "id": "CE-CHANGE-20260917-69",
@@ -13490,7 +13492,7 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "df8eb7f923134dcc82731d75fcf2812e4f4c5ca7555573d69b27a52892c87f31",
+          "sha256": "42fc9aee76576c4c5a648b5c23b91875da8b03e7ea2dfb9c02857926385e6dcc",
           "reviewedAt": "2026-09-17",
           "method": "Scoped ST4S reporting source review, original-record preservation, strict schema/coverage checks and public-output review. Desktop/mobile rendered interaction proof retained in st4s-publication evidence; no product approval."
         },
@@ -13574,7 +13576,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "882b1cce7475b1dda25ffb410912c5ceccceaaf412240b01b0e526e8728ceb5a",
+          "sha256": "6ac0e27b37be672b5d34af1ad04df8980039031ed6f8744a060206d94839629e",
           "reviewedAt": "2026-09-17",
           "method": "Scoped ST4S reporting source review, original-record preservation, strict schema/coverage checks and public-output review. Desktop/mobile rendered interaction proof retained in st4s-publication evidence; no product approval."
         },
@@ -13592,7 +13594,7 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "7b17d19b7211a05cff14e3ac304576066557dc67cdc47feedefe86c72d6c75cd",
+          "sha256": "f95473a49b213701d1bf0125d0f8836aaa63cc9b88cef2d67d657ff921856d9f",
           "reviewedAt": "2026-09-17",
           "method": "Scoped ST4S reporting source review, original-record preservation, strict schema/coverage checks and public-output review. Desktop/mobile rendered interaction proof retained in st4s-publication evidence; no product approval."
         },
@@ -13610,7 +13612,7 @@
         },
         {
           "path": "docs/production/st4s-readiness.md",
-          "sha256": "48c6e33912a59e80b747d1b856328bd3be9d486e56ac4c18ffa9e2d44b6b964c",
+          "sha256": "bc4968dace4b4fbaf837810b24ed1a3a9118fa8565dc8d0247656b9b7ef81b4d",
           "reviewedAt": "2026-09-17",
           "method": "Scoped ST4S reporting source review, original-record preservation, strict schema/coverage checks and public-output review. Desktop/mobile rendered interaction proof retained in st4s-publication evidence; no product approval."
         },
@@ -13715,13 +13717,13 @@
           "implementation",
           "security"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Publish the existing ST4S framework as an honest readiness report while retaining unresolved product controls and unrelated work.",
         "before": "ST4S governance saved locally; inherited validator/fixture gaps block reader publication.",
         "after": "Validated and published readiness reporting with actual source/public receipts; no product compliance claim.",
         "source": "Tania: publish and submit please; clarified Submit Blueprint changes on 17 September 2026.",
         "owner": "Blueprint maintainer; Tania accountable for assigning security/privacy owners",
-        "nextAction": "Publish checked generated reader, verify Pages completion and live bytes/browser, retain product ST4S remediation separately.",
+        "nextAction": "Reporting integration complete; product controls and other existing integrations remain unresolved and independently gated.",
         "targets": [
           {
             "surface": "start",
@@ -13825,20 +13827,23 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Current ST4S source is not published. Existing guarded release fails on inherited schema/impact errors; preserve its prior review hashes and live identity.",
+            "disposition": "updated",
+            "action": "Published and independently verified the scoped ST4S reporting reader at the existing Pages destination.",
             "records": [
               "CE-CHANGE-20260917-72"
             ],
             "owner": "Blueprint maintainer",
             "acceptance": "Review affected source and reader meaning; keep local and live verification separate.",
-            "evidence": [],
+            "evidence": [
+              "private/production-evidence/2026-09-17/st4s-publication/first-live-receipt.json",
+              "private/production-evidence/2026-09-17/st4s-publication/first-live-reader/results.json"
+            ],
             "verification": {
-              "result": "pending",
-              "method": "",
-              "date": ""
+              "result": "passed",
+              "method": "Pages built; manifest/record and 11 relevant files match; live desktop/mobile interactions pass; three private/source URL probes return 404.",
+              "date": "2026-09-17"
             },
-            "nextAction": "Verify source/public commit identities, Pages deployment, manifest and live desktop/mobile reader after publication."
+            "nextAction": "Verify final metadata close-out separately; do not infer school/product compliance."
           },
           {
             "surface": "build",
@@ -14506,13 +14511,13 @@
           "research",
           "security"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "School deployment needs evidence-led security, privacy and safety gates throughout feature delivery.",
         "before": "Security readiness not systematically derived from controls and verified evidence.",
         "after": "ST4S impact review, control/evidence registers, staged gates and retrospective backlog integrated into existing governance.",
         "source": "Tania explicit 17 September request continuing Security readiness review; governing attached Supplier Guide 2026.1 v1.0.",
         "owner": "Blueprint maintainer; Tania accountable for assigning security/privacy owners",
-        "nextAction": "Publish checked generated reader, verify Pages completion and live bytes/browser, retain product ST4S remediation separately.",
+        "nextAction": "Reporting integration complete; product controls and other existing integrations remain unresolved and independently gated.",
         "targets": [
           {
             "surface": "start",
@@ -14621,8 +14626,8 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Current ST4S source is not published. Existing guarded release fails on inherited schema/impact errors; preserve its prior review hashes and live identity.",
+            "disposition": "updated",
+            "action": "Published and independently verified the scoped ST4S reporting reader at the existing Pages destination.",
             "records": [
               "CE-CHANGE-20260917-70",
               "CE-ST4S-01"
@@ -14630,14 +14635,15 @@
             "owner": "Blueprint maintainer",
             "acceptance": "Review affected source and reader meaning; keep local and live verification separate.",
             "evidence": [
-              "private/production-evidence/2026-09-17/st4s-readiness/validation.md"
+              "private/production-evidence/2026-09-17/st4s-publication/first-live-receipt.json",
+              "private/production-evidence/2026-09-17/st4s-publication/first-live-reader/results.json"
             ],
             "verification": {
-              "result": "blocked",
-              "method": "Official test/build preflight fails on prior Chapel schema field; separate inherited impact coverage gap.",
+              "result": "passed",
+              "method": "Pages built; manifest/record and 11 relevant files match; live desktop/mobile interactions pass; three private/source URL probes return 404.",
               "date": "2026-09-17"
             },
-            "nextAction": "Verify source/public commit identities, Pages deployment, manifest and live desktop/mobile reader after publication."
+            "nextAction": "Verify final metadata close-out separately; do not infer school/product compliance."
           },
           {
             "surface": "build",
