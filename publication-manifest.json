@@ -129,6 +129,10 @@
       "sha256": "3335bb60b76d9b903e7fd5b3821e710130556bf8750eec7b946179bb112728bd"
     },
     {
+      "path": "evidence/avatar-campus-kit-20260910/README.md",
+      "sha256": "945de85a0ff382921bd5f6c22f809282e1a69e3f315e2b74df1b044774bb6bb8"
+    },
+    {
       "path": "evidence/avatar-campus-kit-20260910/campus-kit-v0.1.zip",
       "sha256": "6d1c7931b73234a53ca88fda0551734b99f9caa85ff7f41a591f5ca0036a3a05"
     },
@@ -225,20 +229,16 @@
       "sha256": "01ec8bffb5cf7c37b19096e0190071be5cf7e1723846b80ed08beff94712c309"
     },
     {
-      "path": "evidence/avatar-campus-kit-20260910/layout-check.json",
-      "sha256": "822db34b3f0eb93a8296b00eac49bb7385f429b30c5f7ba72db8fc03a4c95c4a"
-    },
-    {
       "path": "evidence/avatar-campus-kit-20260910/layout-D.png",
       "sha256": "f446f2ce76c0713512c060c2fe331277807334b8b2ffd700fb9766ab745b0fbe"
     },
     {
-      "path": "evidence/avatar-campus-kit-20260910/layout-prototype.glb",
-      "sha256": "1a6e8803e5949919396adf13b82c301af62184aaddd54076e83dbe29d273c631"
+      "path": "evidence/avatar-campus-kit-20260910/layout-check.json",
+      "sha256": "822db34b3f0eb93a8296b00eac49bb7385f429b30c5f7ba72db8fc03a4c95c4a"
     },
     {
-      "path": "evidence/avatar-campus-kit-20260910/README.md",
-      "sha256": "945de85a0ff382921bd5f6c22f809282e1a69e3f315e2b74df1b044774bb6bb8"
+      "path": "evidence/avatar-campus-kit-20260910/layout-prototype.glb",
+      "sha256": "1a6e8803e5949919396adf13b82c301af62184aaddd54076e83dbe29d273c631"
     },
     {
       "path": "evidence/avatar-campus-kit-20260910/stats.json",
@@ -257,10 +257,6 @@
       "sha256": "4171a8c79be586084ec8bd5ca81a7eb5f4208976525ae85b9c7d36b7519fd464"
     },
     {
-      "path": "evidence/avatar-campus-kit-20260910/textures/paving-original.png",
-      "sha256": "73e9c90b16d616068a5bbc8394f3fa6828b129275ac6f5e7fe69ce7a2b524508"
-    },
-    {
       "path": "evidence/avatar-campus-kit-20260910/textures/Warm-limestone-basecolor.png",
       "sha256": "4d90a7d0781d8038eea5c24feef06e045cd1da322ce2401b123434f1aa83d22a"
     },
@@ -271,6 +267,10 @@
     {
       "path": "evidence/avatar-campus-kit-20260910/textures/Warm-limestone-roughness.png",
       "sha256": "6c0acadaf607a336c939d604033856d9a40cb55067c773c0b65996bd8fb33d80"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/textures/paving-original.png",
+      "sha256": "73e9c90b16d616068a5bbc8394f3fa6828b129275ac6f5e7fe69ce7a2b524508"
     },
     {
       "path": "evidence/avatar-campus-kit-20260910/validation.json",
@@ -785,20 +785,20 @@
       "sha256": "e07115eebd10a767d2f60849fa83299a1c9af48b1c233128b86bbdcff527a3a2"
     },
     {
-      "path": "evidence/ecc-hero-20260913/rebuild/ecc-approved-triptych.png",
-      "sha256": "56c33b5b01c72591f250cc8c82b4d72412cfbdec49e90b1ea508bb20b1818383"
-    },
-    {
-      "path": "evidence/ecc-hero-20260913/rebuild/ecc-chapel-source.png",
-      "sha256": "920ffad8be0c46c3a6e1967e8d7c84331dab1c41c4443df68236150c7ad52b3d"
-    },
-    {
       "path": "evidence/ecc-hero-20260913/rebuild/ECC-courtyard-rebuild-review.html",
       "sha256": "0dd758103e5671632306f5fba31b607c490dd42cf36dd395fee2843539055e14"
     },
     {
       "path": "evidence/ecc-hero-20260913/rebuild/ECC-courtyard-rebuild-review.md",
       "sha256": "f6a9a98e753195e6a5d4efd7677458a7dc00fc2b4920d05e2768aa993a13cd5f"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rebuild/ecc-approved-triptych.png",
+      "sha256": "56c33b5b01c72591f250cc8c82b4d72412cfbdec49e90b1ea508bb20b1818383"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rebuild/ecc-chapel-source.png",
+      "sha256": "920ffad8be0c46c3a6e1967e8d7c84331dab1c41c4443df68236150c7ad52b3d"
     },
     {
       "path": "evidence/ecc-hero-20260913/rebuild/ecc-rebuild-after.png",
@@ -1177,16 +1177,16 @@
       "sha256": "3411692820cb8d47543f69496aa25fd603a358f4498046f41c508a5a3342210e"
     },
     {
-      "path": "playable-3d/vendor/rapier/rapier_wasm3d_bg.wasm",
-      "sha256": "c8cf07035996629dbf6156c82fec836ddc1c6cff78cf6afde726c30585da2bfd"
+      "path": "playable-3d/vendor/rapier/rapier.mjs",
+      "sha256": "1ade6875c663c1398f490d4fa67837386b2d7e0aad45fe54e9b7af52b8198a49"
     },
     {
       "path": "playable-3d/vendor/rapier/rapier_wasm3d.js",
       "sha256": "6e15d8a85f96c3d80e9eb0fd5d9e78d15e3c3a70a3088a39a685117d5ffb1730"
     },
     {
-      "path": "playable-3d/vendor/rapier/rapier.mjs",
-      "sha256": "1ade6875c663c1398f490d4fa67837386b2d7e0aad45fe54e9b7af52b8198a49"
+      "path": "playable-3d/vendor/rapier/rapier_wasm3d_bg.wasm",
+      "sha256": "c8cf07035996629dbf6156c82fec836ddc1c6cff78cf6afde726c30585da2bfd"
     },
     {
       "path": "playable-3d/vendor/three/build/three.core.js",
@@ -1438,11 +1438,11 @@
     },
     {
       "path": "production/st4s-readiness.html",
-      "sha256": "24a517b13ac657d2f3b2d80fbb9c73723e4d730451b2c54b21809b07fddf1089"
+      "sha256": "60e081772114aa012869d3ece7081afb4034131eeee852063a3a13e284beb821"
     },
     {
       "path": "production/st4s-readiness.md",
-      "sha256": "bc4968dace4b4fbaf837810b24ed1a3a9118fa8565dc8d0247656b9b7ef81b4d"
+      "sha256": "75f432cbc192af4ec88bff783a8bc354f845582f32a19bc1067d6d45c7b74aa0"
     },
     {
       "path": "production/strategy-audit-2026-09-09.md",
@@ -1455,6 +1455,14 @@
     {
       "path": "production/visual-register.md",
       "sha256": "6289e8023c36334ad499707a0f9c2ea120d31eb8673aa77a345024173a1f5994"
+    },
+    {
+      "path": "production/wa-assessment-register.html",
+      "sha256": "0804b7b86d666d05e53cc75d51858665e606a50d11dd5ad55042733e5c3f3d54"
+    },
+    {
+      "path": "production/wa-assessment-register.md",
+      "sha256": "05e9ad57dcc5c8f2fead32aa39df2e481cb126d444514f94966e26ea46ca5961"
     },
     {
       "path": "production/walking-camera-20260911.md",
@@ -1583,6 +1591,32 @@
     {
       "path": "st4s-readiness.json",
       "sha256": "672aedf0b255da03c0982a269c6cbfb06efc9b44478d8951b6401f6bfe544696"
+    }
+  ],
+  "scopedUpdates": [
+    {
+      "changeId": "CE-CHANGE-20260924-87",
+      "generatedAt": "2026-09-24T06:55:18.190378+00:00",
+      "scope": "WA Department readiness audit and question register only; existing site revision and other files unchanged.",
+      "source": "Canonical production-blueprint generated documents; private source working tree has unrelated concurrent changes.",
+      "files": [
+        {
+          "path": "production/st4s-readiness.html",
+          "sha256": "60e081772114aa012869d3ece7081afb4034131eeee852063a3a13e284beb821"
+        },
+        {
+          "path": "production/st4s-readiness.md",
+          "sha256": "75f432cbc192af4ec88bff783a8bc354f845582f32a19bc1067d6d45c7b74aa0"
+        },
+        {
+          "path": "production/wa-assessment-register.html",
+          "sha256": "0804b7b86d666d05e53cc75d51858665e606a50d11dd5ad55042733e5c3f3d54"
+        },
+        {
+          "path": "production/wa-assessment-register.md",
+          "sha256": "05e9ad57dcc5c8f2fead32aa39df2e481cb126d444514f94966e26ea46ca5961"
+        }
+      ]
     }
   ]
 }
