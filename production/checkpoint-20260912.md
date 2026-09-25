@@ -58,3 +58,7 @@ Production implication: exclude standalone-blazer auto-animation in Tripo as a s
 Prior experimental findings are retained: the matching jacket/dressed motion checks, incompatible newer base proportions/bind pose, missing covered body surfaces and visually rejected reconstructed wardrobe remain valid evidence at their original scope. The vendor reply does not approve those prototypes or convert numerical motion checks into visual acceptance.
 
 Task scope and completion: inspected canonical AGENTS, handoff, production plan and September 12 avatar checkpoint; recorded this discussion/evidence in the existing Blueprint and updated the avatar roadmap/status and handoff. No new visual assets, asset experiments or game changes were made. Public reader publication and global refresh remain separate.
+
+## Marvelous Designer / EveryWear and Tripo vendor replies — received 18 September 2026
+
+18 September 2026: Marvelous Designer/CONNECT response received; rigged/skinned same-base FBX is required, A-pose preferred, initial Walk/Run clips optional. EveryWear garment rigging, motion/Weight Brush checks, UV packing/baking and garment-only FBX are vendor-supported; the custom Tripo-to-game round trip remains untested. Tripo generation guidance and model-quality escalation recorded without a fidelity guarantee. See docs/production/clothing-workflow-research-20260916.md. Preserve prior evidence and the current selected master; no new generation or implementation from this update.

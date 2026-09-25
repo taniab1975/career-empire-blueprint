@@ -89,6 +89,11 @@ Limits: This image is the approved local capture; the identical repaired asset i
 Next: Play the live game: Avatar Studio → School student; use walking, turn and portrait controls. Continue the existing environment plan.
 Source: Update Avatar Appearance continuation, Tania: “Yey he is much better! Please go ahead and update to live”. CE-CHANGE-20260910-35; player-schoolboy-repaired-20260910.glb.
 SHA-256: 6f393115b27899b90c4ee2b73d1f3c8feff1aa00a052ef0c96854770937fb9d0
+Open integration CE-CHANGE-20260924-84: Put useful tracker summaries and resume actions first, with optional Home Base. Next: Browser visual/navigation verification blocked pending security service availability.
+Open integration CE-CHANGE-20260924-83: Build a local work library and clear money/belongings/progress/class-world views without student identity integration. Next: Complete blocked browser verification and subsequent production security/data-lifecycle review.
+Open integration CE-CHANGE-20260924-81: Continue the existing lab with a compact HUD, expandable panel and visible receipts/world consequences. Next: Review local presentation; publication and game integration remain separate.
+Open integration CE-CHANGE-20260923-80: Inspect retained old and current mechanics; design and demonstrate saved practice money and visible consequences without student accounts. Next: Local learner/visual review, current-source reconciliation and production bridge packaging remain before publication. Retain incomplete integration and source-review gates; successful local tests are not release approval.
+Open integration CE-CHANGE-20260917-74: Integrate both actual teacher models with independent wandering and reactions. Next: Retain live game receipt; reconcile Blueprint reader surfaces before its separate publication.
 Open integration CE-CHANGE-20260916-67: Let Tania test the corrected dressed avatar in the existing live game. Next: Verify game publication and support user appearance testing; whole-reader integration remains separate.
 Open integration CE-CHANGE-20260914-52: Enable repeated store demonstrations without changing student finances and collect development feedback through the existing teacher channel. Next: Complete pending reader integrations separately; do not infer reader publication from the game release.
 Open integration CE-CHANGE-20260914-50: Implement all seven screenshot-backed gameplay corrections. Next: Finish local visual checks and review the corrected candidate; publication remains separate.
@@ -102,6 +107,8 @@ Open integration CE-CHANGE-20260911-42: Recover exact released game and approved
 Open integration CE-CHANGE-20260910-40: Improve whole-campus atmosphere coherently before advancing to the larger avatar and experience projects. Next: Stage 1 revision4 is approved and banked; review Stage 2 surroundings before later stage selections and one combined release.
 Open integration CE-CHANGE-20260910-34: Create the authorised model candidates for grouped review Next: Retain approved geometry; confirm bounded integration scope. Public reader release remains pending.
 Open integration CE-CHANGE-20260910-33: Agree environmental language before asset selection Next: Obtain specification agreement; complete affected reader verification before any release
+Open integration CE-CHANGE-20260924-85: Restore the missing integration checklist without converting historical game proof into whole-Blueprint reconciliation. Next: Reconcile outstanding Blueprint surfaces against the dated market release receipt; no new game release.
+Open integration CE-CHANGE-20260924-86: Restore the missing integration checklist without converting historical game proof into whole-Blueprint reconciliation. Next: Reconcile reader surfaces against student-usability receipt; retain hosted timeout and classroom acceptance limits.
 
 ## Retained earlier reference family and prompt pack — historical, not a replacement for the current direction
 

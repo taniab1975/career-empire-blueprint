@@ -2,6 +2,240 @@
 
 Generated from data/operations.json. One canonical register; do not edit this view directly.
 
+## CE-CHANGE-20260924-85 — Juniper stall clarity and gameplay navigation
+
+- **date:** 2026-09-24
+- **domain:** Market visuals and campus navigation
+- **source:** Tania requests recognisable food, shallower counter, staff clearance and uncrowded My Life; follow-up removes Home Economics sign. Follow-ups request visible queue observation, readable sign and plan -> watch queue -> Mara discussion.
+- **owner:** Career Empire stall refinement task
+- **status:** Published and publicly verified; student playtest next
+- **rationale:** Make food and staff readable on approach and keep My Life accessible.
+- **dependencies:** CE-CHANGE-20260923-80 / CE-CHANGE-20260924-83
+- **supersededRecord:** None
+- **designApproval:** Tania explicitly requests send to live and optimise for student testing; checks market signs, removed Home Economics sign and My Life placement. Tania explicitly approved publishing despite known hosted-test limitation after its outcome was explained.
+- **implementation:** Native rice bowls and kraft bags; narrower/lower counter and matching collisions; clear Mara/Sam packing and front collection positions; My Life beside Town/Avatar Studio; old building sign removed with Market Courtyard heading and retained market entrance. Nine-second visible observation/trials, mounted sign text; direct trial after planning without Mara gate, explicit queue-first prompt and posttrial Mara discussion; historical saves supported. Static food geometry batched by material and shared across servings; trial overlay hides nonessential labels and separates customer labels.
+- **deployment:** PR32 merge8863c0bce72d08e9798803155fd00f710f703607; Pages35961928451 SUCCESS.11 changed public runtime hashes equal tested9791678. Known hosted CI exception explicitly approved by Tania.
+- **testing:** Nine distinct browser scenarios across scoped runs, final seven pass after collision refinement;76 unit tests;183 working-copy hashes and source checks pass. Screenshots inspected. Latest flow: seven targeted browser checks and34 market unit tests pass, including direct trial without shared event, save replay and payment safeguards; source checks pass. Release run13 browser checks pass,77 unit tests pass; staged183 exact assets/47 modules. Fixed-view market draw calls317 to185 with identical465634 triangles. Local blocked-optional first frames580ms desktop/552ms phone. Final sign-focus verification underway. Final5 sign/entrance checks and1 phone-camera trial pass; screenshot confirms unobstructed phone queue. Sparse economy-lab omission locally repaired. Hosted final35960931478:77 unit/23 browser pass, then existing hair-shoes.spec.js:32 campus-ready timeout matching current production35957146437. Candidate local wardrobe2/2 passes. No full hosted pass. Public1280/390 browser checks pass: navigation/HUD, Market Courtyard sign, direct market trial, zero console errors; screenshots inspected. Public first frames2929/6993ms; isolated phone repeat {'width': 390, 'firstFrameMs': 3038}. Timings variable, no general load improvement claimed. Market rendering317 to185 calls, same geometry.
+- **taniaAcceptance:** Awaiting local visual review; no physical-device acceptance.
+- **evidence:** docs/production/market-stall-refinement-20260924.md / private/production-evidence/2026-09-24/market-stall-refinement/
+- **nextAction:** Tania student playtest using live link and existing Feedback button. Preserve approved release; hosted wardrobe timeout remains separate follow-up.
+
+## CE-CHANGE-20260924-84 — My Life dashboard becomes the landing page
+
+- **date:** 2026-09-24
+- **domain:** Tracker navigation and presentation
+- **source:** Tania approves replacing the decorative landing with My Life dashboard, 24 September 2026: OK then do that.
+- **owner:** My Life tracker task
+- **status:** Implemented locally; browser verification blocked
+- **rationale:** Make saved work, next steps, money/belongings and shared-project progress directly useful on arrival.
+- **dependencies:** CE-CHANGE-20260924-83
+- **supersededRecord:** None
+- **designApproval:** Dashboard-first direction authorised; final visual acceptance pending.
+- **implementation:** My Life is now the normal landing dashboard rather than a modal behind a decorative 3D overview. Four cards show latest saved work, next practice step, money/personal belongings and current simulated class-project funding. Continue resumes the latest active saved item without discarding unsaved editor text. Navigation opens full-page tracker sections. Home Base remains optional via Visit Home Base, with 3D code loaded only on request; money/work access no longer depends on 3D startup. Existing rules, balances, work schema, history and storage keys are unchanged.
+- **deployment:** Existing local preview only; no public deployment.
+- **testing:** 26 existing economy/receipt/work-store tests pass. JavaScript syntax and HTML references checked. Browser inspection attempted but denied by unavailable browser security/policy-check service; no workaround or desktop/mobile visual pass claimed.
+- **taniaAcceptance:** Direction accepted; new layout not yet reviewed.
+- **evidence:** docs/production/my-life-tracker-20260924.md / private/production-evidence/2026-09-24/my-life/dashboard-validation.json
+- **nextAction:** Verify responsive layout and navigation when browser security service is available.
+
+## CE-CHANGE-20260924-83 — My Life: local work library, belongings and progress foundation
+
+- **date:** 2026-09-24
+- **domain:** Local player tracking, saved work and economy presentation
+- **source:** Tania requests a production-ready asset/economy/progress/work tracker and accepts proceeding with the proposed local/demo-first My Life foundation, 24 September 2026.
+- **owner:** My Life tracker task
+- **status:** Local implementation and store tests complete; browser verification blocked; not production-ready
+- **rationale:** Build dependable save-and-resume behaviour without prematurely connecting student accounts or conflating work with assessed evidence.
+- **dependencies:** CE-CHANGE-20260924-82 / CE-CHANGE-20260924-81 / CE-CHANGE-20260917-73
+- **supersededRecord:** None
+- **designApproval:** Local foundation authorised. Final presentation, real student deployment and safety approval are not inferred.
+- **implementation:** My Life local tracker now has Overview, Money, Belongings, Progress, My work and Our world. Work supports titled plain-text notes/drafts/reflections, explicit save status, resume of latest active work, up to 100 preserved versions/item, preview/copy of earlier versions, reversible archive, title search, backups, current-text downloads and validated merge-as-copies imports. Money keeps prior values/schema, now requires successful persistence before showing a transaction; same-origin Web Locks used where available. Review mode never reads/writes the normal work slot. Belongings has three illustrative SVG image cards alongside the existing 3D objects. Class-world funds remain a labelled simulation; active global UI/display removed and historical ledger entries preserved.
+- **deployment:** Existing local Economy Lab only. No public publication.
+- **testing:** 26 Node tests pass (15 existing economy/receipt checks and 11 work-store checks). Covers revision reload, archive/restore, unchanged-save deduplication, quota failure, stale-tab conflict, corrupt-save preservation, nonpersistent review, import duplicate/collision handling, validation/limits and storage-key isolation. JavaScript syntax and HTML ID/reference checks pass. Interactive browser verification attempted twice but denied because the browser security-check service was unavailable; no workaround used. New screens, file downloads/import UI, native locks and phone layout are not browser-verified this turn.
+- **taniaAcceptance:** Proceeding authorised; outcome/presentation review pending.
+- **evidence:** docs/production/my-life-tracker-20260924.md / private/production-evidence/2026-09-24/my-life/validation.json
+- **nextAction:** Complete interactive desktop/phone verification when browser policy service is available, then review identity, class isolation, adapters and work lifecycle before classroom deployment.
+
+## CE-CHANGE-20260924-82 — Class-world investment and work opportunities in the curriculum plan
+
+- **date:** 2026-09-24
+- **domain:** Curriculum planning, shared-world economy and scope decisions
+- **source:** Tania clarifies personal Home Base purchases, same-class world upgrades, cinema and green-energy job possibilities, then explicitly requests their inclusion in the Blueprint curriculum plan, 24 September 2026.
+- **owner:** Career Empire curriculum planning
+- **status:** Canonical planning updated; scenario design and runtime integration pending
+- **rationale:** Connect world investments to Megatrends, labour-market investigation, budgeting, teamwork and application opportunities without fixing projects or inventing curriculum credit.
+- **dependencies:** CE-CHANGE-20260924-81 / CE-CHANGE-20260917-73
+- **supersededRecord:** None
+- **designApproval:** Direction confirmed; specific scenarios, costs, assets and implementation remain proposed.
+- **implementation:** Expanded existing CE-EXP-V2-07 and linked Megatrends/sample-timing notes: a same-class shared 3D world, progressive collective investments and changing work opportunities; personal Home Base ownership separate. Repair, cinema and green energy remain candidate scenarios. Global/cross-school participation deferred under the Department safety assessment.
+- **deployment:** Documentation/source updates only; no public reader or game deployment.
+- **testing:** 23 curriculum/Blueprint tests passed; TypeScript check, integration structure and generated export parity passed. Public publication and existing release-review gates remain separate.
+- **taniaAcceptance:** User requests recording these ideas; no final scenario or asset acceptance inferred.
+- **evidence:** docs/production/class-world-curriculum-20260924.md
+- **nextAction:** Choose one bounded project scenario and specify research, costs, work implications, visual consequences and teacher-reviewed evidence before prototyping.
+
+## CE-CHANGE-20260924-81 — Economy Lab: scene-first player panel and transaction feedback
+
+- **date:** 2026-09-24
+- **domain:** Local economy presentation and visible feedback
+- **source:** Tania requests continuation and explicitly corrects the implementation target to the existing Economy Lab at localhost:8792/economy-lab/, 24 September 2026.
+- **owner:** Economy Lab presentation task
+- **status:** Locally implemented and scoped-tested; awaiting presentation review
+- **rationale:** Make existing economy balances, receipts and world consequences accessible without changing agreed rules or connecting student accounts.
+- **dependencies:** CE-CHANGE-20260923-80
+- **supersededRecord:** None
+- **designApproval:** Implementation authorised for the existing lab; new presentation is a candidate awaiting review.
+- **implementation:** Existing Economy Lab upgraded locally: scene-first full-height layout; compact available/saved/scenario-wellbeing HUD; My life modal with Overview, Earn & try, My space, Save & give and History; J shortcut and Escape; net-pay/tax/spend receipts in the panel and world; reconstructed running balances; four animated scene viewpoints with reduced-motion support; existing owned objects/fund effects retained. No pricing, reward, tax, saved schema, campus or separate Night Market changes. Review mode avoids writing the user save.
+- **deployment:** Local preview restored at its existing address; no public deployment.
+- **testing:** 15 Node tests pass (12 existing economy invariants plus three receipt tests). Desktop and 390x844 browser checks observed pay/tax, one-time reward buttons, desk purchase and focused 3D view, savings, local/global giving, running receipt history, failure/reflection/free retry, keyboard opening and review reload. Phone DOM width/scroll width both 390px; modal width/scroll width both 356px. Captured browser warning/error log empty. Existing-save reconstruction is unit tested; blocked/cross-tab/browser-storage-failure paths source reviewed, not browser fault injected. No physical-device or hosted-CI claim.
+- **taniaAcceptance:** Target correction confirmed; final visual acceptance pending.
+- **evidence:** docs/production/economy-lab-presentation-20260924.md / private/production-evidence/2026-09-24/economy-lab-presentation/validation.json
+- **nextAction:** Review the Economy Lab presentation. Separate Night Market work and campus/account integration remain distinct.
+
+## CE-CHANGE-20260923-80 — Login-independent 3D economy: discovery and local prototype
+
+- **date:** 2026-09-23
+- **domain:** Economy, progression and visible world consequences
+- **source:** Tania explicitly requests staged scoring/economy design and appropriate local prototype, 23 September 2026. Follow-up: supplied hub metrics/navigation screenshots; explicitly requested productive failure and rewards independent of progress, wealth and wellbeing. Tania emphasises engagement before overt curriculum, an emotional opening and attachment inspired by Tamagotchi/Pokémon; discussion only.
+- **owner:** Career Empire economy task
+- **status:** Local economy and Sunday Markets integration implemented; unpublished
+- **rationale:** Inspect retained old and current mechanics; design and demonstrate saved practice money and visible consequences without student accounts.
+- **dependencies:** CE-CHANGE-20260922-79
+- **supersededRecord:** None
+- **designApproval:** User authorises investigation and appropriate prototyping; proposed rates, rewards and visuals are not final design acceptance.
+- **implementation:** Existing isolated game prototype now includes daytime Sunday Markets, Home Economics entrance/return, optional discovery guide, Initiative reference sheet, revision-3 agency/trials/consolidation and explicit versioned My work transfer. Existing local economy lab remains separate. See Sunday Markets integration note for source, tests and limits.
+- **deployment:** Not deployed. Local game worktree and My Life lab only; public game unchanged.
+- **testing:** 36 game unit checks and 15 work/bridge checks passed. Nine initial browser checks and seven final browser checks passed, including full desktop keyboard shift, review transfer and campus return. Desktop/390 module flows and normal My work bridge passed. Two additional complete keyboard journeys including crew pass and campus return passed at1280/390. Blueprint scoped tests28/28 and export parity pass; existing stale AGENTS review gate retained. No full CI or physical-device claim.
+- **taniaAcceptance:** 23 September: Tania supports the phone/journal access proposal and a complete event-led introductory experience for testing. Exact event, values, artwork, curriculum mapping and current-world implementation scope remain unapproved. Confirmed opening constraint: represent Careers and Employability and the coming year honestly; engagement must not set false adventure-game expectations. Confirmed: plentiful game skill badges are separate from real-world portfolio/résumé evidence; no automatic transfer. Night market setting and bounded opening direction selected, 23 September; detailed first-version brief remains draft. 24 September: explicitly authorises all discussed local daytime market, entrance, optional guide and Initiative/My work integration plans; visual and learning acceptance remain pending.
+- **evidence:** docs/production/local-economy-20260923.md / private/production-evidence/2026-09-23/local-economy/validation.json / docs/production/night-market-introduction-20260923.md / docs/production/sunday-markets-integration-20260924.md
+- **nextAction:** Review the complete local Sunday Markets experience; reconcile authoritative release source and production tracker hosting before separately authorised publication.
+
+## CE-CHANGE-20260922-79 — Curriculum-First Progressive Loading
+
+- **date:** 2026-09-22
+- **domain:** Core loading and curriculum access
+- **source:** Tania explicitly requests implementation and an approved decision in Improve Game Loading continuation, 22 September 2026.
+- **owner:** Career Empire loading task
+- **status:** Approved; merged, deployed and verified live
+- **rationale:** Optional decoration and cosmetic assets must not prevent access to learning.
+- **dependencies:** None
+- **supersededRecord:** None
+- **designApproval:** Approved by Tania, 22 September 2026: curriculum-first progressive loading, temporary avatar fallback and on-demand Studio.
+- **implementation:** Room entry no longer awaits campus scenery; video poster detached; download-free temporary avatar replaced by saved model without relocation; Studio readiness feedback and cancellation preserved; safe return to Arrival while scenery unavailable. Explicit Retry saved avatar button is available on failure, and model construction preserves the current actor until successful. Emergency direct EST fallback URL corrected. Saved source 93986277de8183a261402be660aa51db15527952.
+- **deployment:** PR #29 merge 3cba2aef347beadd1115eeb27d11809ae568b810; Pages 35712692629 success; four changed public files plus manifest hash-verified.
+- **testing:** 20 distinct focused Chromium scenarios passed across scoped runs; final six fault/retry cases pass after explicit retry control. 42 unit tests; 168 exact release hashes and 36 reachable modules; source checks pass. Controlled eight-second avatar delay: first frame 8676ms to 863ms. Blueprint 26 focused tests, TypeScript and scoped material/integration contracts pass; full gate fails on stale AGENTS.md release review. No full hosted CI or physical-device claim. Desktop 1280 normal flow and phone-sized 390 fault-injected flow passed; first frame 4597ms and 2850ms respectively. EST module, Careers, Chapel, movement, saved profile, Studio normal/deferred/failure tested. No page errors. Two hair/shoe scenarios passed in 30.4 seconds on exact release; 168 committed asset hashes and 36 reachable modules pass. PR run 35704465070: 42 unit and 23 browser passed, same hair/shoes campusReady failure as prior main run 35593340525, 44 not run. Postmerge run 35712693386 still in progress at close; no full CI pass claimed.
+- **taniaAcceptance:** Tania approved the rule, draft PR, then explicit merge to live. Physical-device/student acceptance remains separate.
+- **evidence:** docs/production/curriculum-first-progressive-loading-20260922.md / private/production-evidence/2026-09-22/curriculum-loading/receipt.json / https://github.com/Emmanuel-ICT-Support/GTCEM-Career-Empire/pull/29 / private/production-evidence/2026-09-22/curriculum-loading/live/release-receipt.json / docs/production/startup-asset-gate-20260924.md
+- **nextAction:** 24 September startup follow-up published via PR #30 / 4c26d21; Pages 35944433432 success, four public hashes and desktop/390px public browser checks pass. Await Tania live/physical-device review. Hosted CI still running at last check; Blueprint reader release remains separate.
+
+## CE-CHANGE-20260921-78 — Dress ups hair and shoes
+
+- **date:** 2026-09-21
+- **domain:** Avatar wardrobe
+- **source:** Tania asks to do hair and shoes; then explicitly instructs publication and conditional retirement of the temporary wardrobe worktree through her Mac storage task. Follow-up: more natural Pixar-like hair with existing movement retained.
+- **owner:** Career Empire wardrobe task
+- **status:** Original release live; short style accepted for now; three-style matte finish ready for local review
+- **rationale:** Complete student identity choices using fitted finished styles and hex colours.
+- **dependencies:** CE-CHANGE-20260921-77
+- **supersededRecord:** None
+- **designApproval:** Authorised hair/shoe implementation and subsequent live publication; physical-device and appearance feedback remain separate.
+- **implementation:** Four hairstyles and four shoe styles on the unchanged canonical body; separate rigged GLBs, four section thumbnails, independent stored colours, selected-only downloads and body-only height normalization. Local refinement d4d17feed3a9d3b2fda9cf963db8c1be584a303e updates four hair GLBs/thumbnails and hair-only cache keys; 14 other assets unchanged. Reference-led finish 23f886a4cc671465081101283cd5e7fb28347273 preserves core positions/faces/weights and adds strand maps, separate skin-weighted outer locks/wisps and matching thumbnails. Ponytail-only correction 986398b387726084155f53adab21d58b25ecfa02: connected root, curved hairline, swept fringe and layered waves; 17 protected files unchanged. Reused short-hair trial 62ad98605170e0caab7ce1ea9c8443fcc4b845b8: cleaned source schoolboy hair geometry/UV detail, fitted copy, neutral tonal map and matte material. Eighteen donor/body/clothing/shoe/other-hair files unchanged. Interim finish d1e9dceedbeb9245364ea78bbc28ce7056109a46: Soft curls, Side-part bob and Ponytail get matte materials, neutral lock values and self-occlusion shading. Exact fitted geometry, normals, UVs, weights and rig preserved. Sixteen protected assets unchanged.
+- **deployment:** PR #28 merge 0886faf8f37f898d072f678b517f826ac07a197b; existing Pages run 35593339697 successful. 22 fresh public file/manifest hashes match; 147 unchanged files inherit prior receipt.
+- **testing:** 42 local unit/63 serial browser passed before final sole refinement; final 47 poses x 40 comparisons zero finite-edge crossings, eight GLB round trips, 4 local + 4 public wardrobe and 4 public normal-game scenarios pass. Cold usable view 1.900-4.277s. Hosted main 35593340525: 42 unit/23 browser passed; 600-second campus-readiness timeout after Save/return; 39 not run. Physical phone unverified. Final local hair refinement: 47 poses × 20 zero crossings; four GLB round trips; four focused Chromium/WebKit cases passed. Latest strand finish: 47×20 zero crossings including new layers, four round trips, four focused browser cases; 14 other assets unchanged. Exact final ponytail correction: 47×5 zero crossings, one GLB roundtrip, 4/4 final focused browser cases and 168 staged hashes/36 modules pass. Front/sides/rear/walk reviewed; sculpted finish remains below soft reference. Exact reused-short trial: 47 poses ×5 zero crossings after nape correction; one canonical 41-bone roundtrip; four Chromium/WebKit cases in 1.1m; 168 staged hashes/36 modules. Front/sides/rear/walk and brown/blond/dark/blue visual review recorded. Final three-style material pass: exact geometry/skin/rig accessor preservation, three 41-bone reimports, four focused Chromium/WebKit desktop/phone-size cases in 54.3s; 168 staged hashes/36 modules and source checks pass. Prior 47-pose collision evidence carries forward through geometry identity, not a new simulation.
+- **taniaAcceptance:** Short sweep accepted for now with explicit chunky/flat reservations. User requests changes to curls, bob and ponytail; interim finish completed, final appearance acceptance remains with Tania.
+- **evidence:** docs/production/hair-shoes-20260921.md / private/production-evidence/2026-09-21/natural-hair/proof-summary.json / private/production-evidence/2026-09-21/strand-hair/proof-summary.json / private/production-evidence/2026-09-21/ponytail-shape/proof-summary.json / private/production-evidence/2026-09-21/reused-short-hair/proof-summary.json / private/production-evidence/2026-09-22/matte-hair-styles/proof-summary.json
+- **nextAction:** Tania reviews the local interim finish at port8786, hair=matte-styles-20260922, commit d1e9dceedbeb9245364ea78bbc28ce7056109a46. Bob is visibly open in portrait view. Short sweep is accepted for now, with reservations; three revised finishes remain for appearance review. Original live release unchanged; no new publication. Physical-device/student acceptance and prior hosted campus-readiness timeout remain separate.
+
+## CE-CHANGE-20260921-77 — Approved wardrobe and faster first-play entry
+
+- **date:** 2026-09-21
+- **domain:** Avatar wardrobe and release
+- **source:** Tania explicitly requests live publication and desktop/laptop/mobile checks, then confirms she will perform the final physical-phone check.
+- **owner:** Career Empire wardrobe release task
+- **status:** Published; live desktop and mobile-browser checks passed; physical phone and hosted CI follow-up remain
+- **rationale:** Make the accepted wardrobe available to students with efficient loading and preserved profiles.
+- **dependencies:** CE-CHANGE-20260917-76
+- **supersededRecord:** None
+- **designApproval:** Tania approves the latest local wardrobe and authorises live publication.
+- **implementation:** Four tops/pants, cards and hex colours with unchanged canonical body. Dress ups label. Selected character and Arrival Gardens first, background original campus textures/scenery, guarded movement/destinations and in-place retry.
+- **deployment:** PR #25 and #26 retained; first-play PR #27 merge 596f27bfb12d55e6036270595f8562001fa59e08 built on existing Pages at 2026-09-21T09:39:01Z.
+- **testing:** 40 unit; eight final local Safari checks; four live normal-game and six live wardrobe checks passed. Cold usable view: desktop 5.243-5.925s, phone-size 2.617-8.561s; cached 2.742-3.883s. 13 changed public files/manifest freshly match, 140 unchanged hashes inherit earlier full receipt. Hosted CI: 23 browser passed, full-campus timeout, 37 not run.
+- **taniaAcceptance:** Local clothing approved; student/device acceptance pending.
+- **evidence:** docs/production/wardrobe-release-20260921.md / docs/production/avatar-wardrobe-strategy-20260920.md / private/production-evidence/2026-09-21/wardrobe-release/receipt.json / private/production-evidence/2026-09-21/first-play/first-play-receipt.json
+- **nextAction:** Tania performs physical-phone/student acceptance. Investigate separate hosted full-campus timeout and reconcile reader surfaces before separate Blueprint publication.
+
+## CE-CHANGE-20260917-76 — Detached flyover camera for recording the campus
+
+- **date:** 2026-09-17
+- **domain:** Camera and navigation
+- **source:** Tania requests flyover/bird’s-eye navigation with smooth controls and exact return, preserving current gameplay and lazy Studio.
+- **owner:** Career Empire game and Blueprint maintainer
+- **status:** Published and live-verified
+- **rationale:** Record freely without moving the player or creating competing camera controls.
+- **dependencies:** Existing shared Three.js camera and central app input/render loop / Current phone-loading and teacher release retained
+- **supersededRecord:** None
+- **designApproval:** Implementation explicitly requested; visual acceptance pending.
+- **implementation:** Town-only detached camera, WASD/QE, drag/arrows, speed slider, eased motion, clean view, touch recovery and exact saved camera restoration.
+- **deployment:** PR23 merge 12d782e917ca04296b49f0d44a9679bec5874155; Pages 35225886485 success; five public hashes and desktop/touch browser behaviour verified.
+- **testing:** Four final native Chromium scenarios passed (24.6s); 35 existing unit tests, source checks, syntax, whitespace and all 131 working-copy release hashes passed. Screenshots inspected; no full hosted CI or physical-device acceptance. Live desktop/phone-emulation controls and five public hashes pass; hosted CI completed / failure.
+- **taniaAcceptance:** User reviewed local preview: love it; explicitly requested live publication.
+- **evidence:** docs/production/flyover-20260917.md / private/production-evidence/2026-09-17/flyover/receipt.json / private/production-evidence/2026-09-17/flyover/flyover-campus.png / private/production-evidence/2026-09-17/flyover/flyover-phone.png / private/production-evidence/2026-09-17/flyover/live-receipt.json
+- **nextAction:** Use Flyover on the live campus; physical-device acceptance and hosted CI remain independent.
+
+## CE-CHANGE-20260917-75 — Reduce phone opening downloads with device-specific assets
+
+- **date:** 2026-09-17
+- **domain:** Startup performance
+- **source:** Tania: slow to open; 76 is still pretty long; iPhone 17 on mobile data.
+- **owner:** Career Empire game and Blueprint maintainer
+- **status:** Published and live-verified; physical iPhone outcome pending
+- **rationale:** Initial lossless packing alone was inadequate. Preserve desktop and provide smaller phone derivatives without removing campus features.
+- **dependencies:** Existing Meshopt decoder / Unchanged original tree assets and current teacher release
+- **supersededRecord:** None
+- **designApproval:** Bounded loading fix for reported live issue; appearance and gameplay preserved.
+- **implementation:** Phone-only texture/model derivatives, same-origin loader selection, unchanged avatar rig/animations and transient startup cache.
+- **deployment:** PR22 merge 82ba1d1ad0a8d5d54a38f96a6adf9722896a05f5; Pages 35189675710 success; all 40 changed public hashes and phone/desktop browser behaviour verified.
+- **testing:** 35 unit and source checks passed; all 11 focused native-graphics scenarios passed; 40 live hashes and phone/desktop behaviour verified. Hosted CI 35189676385: 35 unit/23 browser passed, existing line-8 startup timeout failed, 25 not run. Physical iPhone timing pending.
+- **taniaAcceptance:** User requested slow-opening repair and confirmed iPhone 17/mobile data; actual phone timing and acceptance not yet supplied.
+- **evidence:** docs/production/phone-opening-20260917.md / private/production-evidence/2026-09-17/phone-opening/asset-proof.json / private/production-evidence/2026-09-17/phone-opening/phone-geometry-proof.json / private/production-evidence/2026-09-17/phone-opening/phone-mobile-comparison.json / private/production-evidence/2026-09-17/phone-opening/phone-assets.json / private/production-evidence/2026-09-17/phone-opening/phone-extra-assets-proof.json / private/production-evidence/2026-09-17/phone-opening/phone-after.png / private/production-evidence/2026-09-17/phone-opening/live-receipt.json
+- **nextAction:** User tests fresh live default entry on iPhone mobile data; retain full-CI and physical-device proof boundaries.
+
+## CE-CHANGE-20260917-74 — Two supplied teacher NPCs wander and react on the oval
+
+- **date:** 2026-09-17
+- **domain:** Campus NPC characters
+- **source:** Tania supplied both GLBs, selected Middleton reaction cycle and clarified both teachers are required.
+- **owner:** Career Empire game and Blueprint maintainer
+- **status:** Published and live-verified; full hosted CI and physical-device acceptance remain separate
+- **rationale:** Add the actual supplied teachers as independent NPCs without Studio startup cost.
+- **dependencies:** Supplied GLBs / Existing Three.js/Rapier world and delayed Studio loading
+- **supersededRecord:** None
+- **designApproval:** Both supplied identities confirmed; Middleton cycle explicitly selected. Psandodakis uses supplied reaction clips.
+- **implementation:** Two bounded wandering capsules, independent reactions, lazy optional asset loading and 2K game textures.
+- **deployment:** PR21 merged as e36aee182049f2960e6d181b08c6d3df18b3e595; Pages 35185589217 success; six changed public hashes match.
+- **testing:** Saved final-asset browser regression passed: seven reactions, five simulated minutes of two-NPC wandering/collision, mobile tap, Studio pause and retry. All 35 unit tests, source check and 97 working-copy manifest hashes pass. No hosted/physical-device certification.
+- **taniaAcceptance:** Both identities/inclusion confirmed and live publication explicitly requested; no physical-device certification.
+- **evidence:** docs/production/teacher-npcs-20260917.md / private/production-evidence/2026-09-17/teacher-npcs/teachers-validation.json / private/production-evidence/2026-09-17/teacher-npcs/asset-inspection.json / private/production-evidence/2026-09-17/teacher-npcs/live-receipt.json
+- **nextAction:** User can meet both teachers on the live oval; retain pre-existing hosted startup timeout and school/device validation gaps.
+
+## CE-CHANGE-20260917-73 — Adopt WA Department questionnaire as the assessment baseline; defer CEWA
+
+- **date:** 2026-09-17
+- **domain:** School deployment assessment strategy
+- **source:** Tania: just use the WA one as the new base test; do not worry about CEWA for now. Supersedes earlier Both sector scope.
+- **owner:** Tania / product owner; Blueprint maintainer
+- **status:** Direction adopted; assessment preparation incomplete
+- **rationale:** Use the supplied WA questionnaire as the governing assessment test. ST4S remains optional reference; CEWA is explicitly deferred. Existing critical security/privacy findings remain actionable.
+- **dependencies:** CE-CHANGE-20260917-70 / CE-CHANGE-20260917-72
+- **evidence:** docs/production/wa-assessment-route.md / private/production-evidence/2026-09-17/wa-assessment-route/source-provenance.json
+- **nextAction:** Confirm current WA form and proportionate evidence requirements; draft truthful responses, validate live Supabase and remediate critical authentication/tenant issues before student use.
+- **supersededRecord:** CE-CHANGE-20260917-70
+- **designApproval:** Latest Tania direction adopts WA only for now and supersedes earlier Both sector scope. No security control or legal declaration is passed by this decision.
+- **implementation:** WA 75-question / 24-data-category baseline, mapped feature checks, Department outcome and school permission; CEWA deferred.
+- **deployment:** Local governance change only; no website, game, database or assessment submission by this change.
+- **testing:** Pending scoped route derivation, register coverage and preservation checks.
+- **taniaAcceptance:** WA-only assessment direction accepted; questionnaire answers, declaration and school use not approved.
+
 ## CE-CHANGE-20260917-72 — Publish ST4S governance reader and repair bounded publication validation
 
 - **date:** 2026-09-17
@@ -1046,6 +1280,114 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **taniaAcceptance:** Publication and proportionate maintenance requested; no new game appearance approval.
 - **evidence:** docs/production/maintenance-20260910.md
 - **nextAction:** Proceed with the existing environment review/specification; preserve unpublished lighting and other approval boundaries.
+
+## CE-CHANGE-20260924-86 — Student usability: responsive My Life, Studio, navigation and clear gameplay banner
+
+- **date:** 2026-09-24
+- **domain:** Game usability
+- **source:** Tania reports stalls and visual navigation problems, supplies video, requests full review and six annotated banner/Places changes.
+- **owner:** Career Empire My Life responsiveness task
+- **status:** 25 September refinement published and scoped public checks passed
+- **rationale:** Keep navigation responsive during slow/failed tracker delivery.
+- **dependencies:** CE-CHANGE-20260924-85
+- **supersededRecord:** None
+- **designApproval:** User requests fix to current live My Life; existing presentation and saves preserved.
+- **implementation:** My Life early navigation/Back to game; progressive Studio/retry; matching path surfaces; wall-safe camera; top banner controls and all-location Places dropdown. Tania latest request: Town and Studio in Find your place, My Life before Flourishing, one desktop row; retain phone wrapping and first-day guidance. 25 September: user requests guidance back in gameplay and original-game link in header; Places retains10 destinations.
+- **deployment:** PR33 c6efeb0 and compact PR34 6f4487b deployed. Pages35974034727 success; all5 compact changed public files match testedbc76229; preceding18 files matched PR33. PR35 fa65c97 deployed through Pages36082323964;3 changed public files match c1b8a5d.
+- **testing:** 77 units; final8 focused browser checks passed; earlier10 Studio/navigation/accessory/curriculum and My Life4 passed. Broader16/17 identified market menu CSS; corrected and final all-destination test passes. Screenshots reviewed at1280/854/390 and phone landscape. Compact follow-up bc76229:10 browser checks in1.4m;77 units, source checks and188 hashes/47 modules pass. Final public854/390 checks:66px single desktop row,10 places, EST, Town/Studio return, My Life tabs; zero page errors. Hosted35969643630 repeats approved hair/shoes campus-ready90000ms timeout:23 browser pass/1 fail, remaining suite stopped. 25 September source and3 browser checks pass at1280/854/390; screenshot evidence preserved. 25 September live854/390: guidance outside menu, header original link,10 destinations/EST, no overflow/page errors; screenshots inspected. Full hosted checks separate, no green-suite claim.
+- **taniaAcceptance:** Student playtest feedback pending.
+- **evidence:** docs/production/my-life-responsiveness-20260924.md / private/production-evidence/2026-09-24/student-usability / private/production-evidence/2026-09-25/gameplay-guidance
+- **nextAction:** Tania acceptance of live gameplay guidance/header. Known hosted campus timeout and sustained student-device performance remain separate.
+
+## CE-CHANGE-20260924-87 — WA Department Security and Privacy questionnaire audit replaces ST4S page framing
+
+- **date:** 2026-09-24
+- **domain:** Security/privacy assessment documentation
+- **source:** Tania explicitly requests WA v4c questionnaire and Megan Alder email dated 17 September 2026 as governing sources; implement and publish existing page.
+- **owner:** Career Empire WA readiness refresh task
+- **status:** Documentation published and live verified; assessment evidence gaps remain
+- **rationale:** Existing page still implies national-framework governance despite adopted WA assessment route.
+- **dependencies:** CE-CHANGE-20260917-73
+- **supersededRecord:** None
+- **designApproval:** Existing visual style and URL retained; no new visual assets.
+- **implementation:** 75 question-specific evidence positions/actions, 24 data categories, supplied partial email provenance, separate APP/IPP, de-identification, vendor/region and unresolved identity decisions.
+- **deployment:** Bounded page/register update live at 3a171fd0141409af402cb9ca2a3680671994fb97
+- **testing:** 18 readiness tests pass; 75 exact question-cell matches; 24 categories; identical existing CSS; local/live 1280/390 checks and four live document hashes pass. Full Blueprint validation separately blocked by concurrent record 85; monitor lock remains.
+- **taniaAcceptance:** Publication authorised by current request; no school/compliance approval implied.
+- **evidence:** docs/production/st4s-readiness.md / docs/production/wa-readiness-refresh-20260924.md / private/production-evidence/2026-09-24/wa-readiness-refresh
+- **nextAction:** Complete actual evidence and operator/identity decisions; no formal submission authorised.
+
+## CE-CHANGE-20260924-88 — Consolidate Blueprint learning and development integration guidance
+
+- **date:** 2026-09-24
+- **domain:** Blueprint integration and learning design
+- **source:** Tania reports competing masters and overwhelm; asks for current, aligned, scalable learner experience, authenticity/transfer and curriculum compliance.
+- **owner:** Blueprint integration review task
+- **status:** Local integration guidance revised and scoped checks verified; whole Blueprint reconciliation remains open
+- **rationale:** Older environment plan and historical national-assessment labels conflict with later dispersed learning/privacy decisions.
+- **dependencies:** CE-CHANGE-20260924-87 / CE-CHANGE-20260924-82
+- **supersededRecord:** None
+- **designApproval:** Revision/consolidation requested; new scenario production and classroom/data approval not inferred.
+- **implementation:** Existing contract becomes the integrated planning entry; source ownership, learner sequence, coverage distinctions, two flags and scale checks; existing continuation prompt updated.
+- **deployment:** Local only; no whole-reader publication claim.
+- **testing:** 33 targeted tests, TypeScript and scoped integration/security-impact checks pass. Generated exports match. Full governance remains blocked by pre-existing missing impact record CE-CHANGE-20260924-85; scan lock unresolved. No browser/full-public-reader claim.
+- **taniaAcceptance:** Specific next activity design remains a recommendation.
+- **evidence:** docs/production/project-work-contract.md / docs/production/authentic-learning-checks-20260924.md / private/production-evidence/2026-09-24/blueprint-integration-review
+- **nextAction:** Review one integrated CE-EXP-V2-05 specification before expansion; retain distinct public-reader/global-reconciliation gaps.
+
+## CE-CHANGE-20260924-89 — Career Empire LMS and Blueprint year-long teacher resource
+
+- **date:** 2026-09-24
+- **domain:** Educational purpose and Blueprint integration
+- **source:** Tania clarifies curriculum is the driving force, all curriculum can be delivered through Career Empire across in-world and dedicated learning modes, existing EST likely retained; agrees to revise the Blueprint around the LMS role. Tania adds that the Blueprint will be the teacher resource for delivering the year-long program. Subsequent clarification: Blueprint is game design now, teacher resource later; preserve megatrend-driven experiences and educational rationale rather than subject-building silos.
+- **owner:** Career Empire Blueprint framing task
+- **status:** Local framing revision verified; public deployment separate
+- **rationale:** Prior integration guidance overgeneralised world events and treated current concerns as organising principles.
+- **dependencies:** CE-CHANGE-20260924-88
+- **supersededRecord:** None
+- **designApproval:** Agreed intended LMS role and multiple learning modes. Existing EST retention is the preferred direction, not a blanket audit of every activity.
+- **implementation:** Revise purpose, scope, planning sequence, continuation prompt and reader introduction; preserve historical decisions with explicit successor clarification. Teacher delivery is the intended primary Blueprint audience; engineering and compliance history are supporting references, not the lesson entry point. Later clarification supersedes immediate teacher-primary framing; explicit stopping point saved.
+- **deployment:** Local only; no game, identity, storage or reward integration implemented.
+- **testing:** 33 targeted tests, TypeScript and scoped integration/security-impact checks passed. Historical baseline decisions preserved; V2-D18 adds explicit current clarification. No live-reader or complete teacher-program claim.
+- **taniaAcceptance:** Current ok authorises Blueprint reframing; no complete LMS or curriculum delivery claim.
+- **evidence:** docs/production/project-work-contract.md / private/production-evidence/2026-09-24/lms-framing
+- **nextAction:** Stopping point after user clarification: no further redesign initiated. On resumption, reconcile one concise integrated game/learning design account with Tania; preserve experience-led contextual learning, retained EST practice and dedicated support without reverting to subject-building silos. Teacher-program authoring is a later outcome, not the current next task.
+
+## CE-CHANGE-20260925-90 — Rough 30-week year map and nested curriculum cross-check
+
+- **date:** 2026-09-25
+- **domain:** Curriculum, journey, assessment and design planning
+- **source:** Tania request in current task, 25 September 2026: broad year map and separate coverage check; planning/documentation only, no game, assets or publication. Tania clarification: 4 x 50-minute periods weekly; allow in-class assessments, days off/public holidays and other class requirements; very broad, no accounting for every minute. Follow-up: Tania says curriculum detail is critical and asks for logical flow, cross-checking and cross-linking; no permission to remove detail.
+- **owner:** Codex year-map planning task; Tania reviews cohort and sequence
+- **status:** Local planning complete for review; wider governance unresolved
+- **rationale:** Test curriculum provision and coherent avatar sequence before detailed market pilot design.
+- **dependencies:** V2-D02 / V2-D03 / V2-D18 / CE-CHANGE-20260924-89
+- **evidence:** docs/production/year-map-20260925.md / docs/production/year-map-coverage-20260925.md / private/production-evidence/2026-09-25/year-map/verification.json
+- **nextAction:** Review docs/production/year-map-20260925.md and year-map-coverage-20260925.md; then detailed work on the existing Sunday Markets experience as the framework pilot. Keep planning broad at 4 x 50 minutes weekly; no game, assets or publication.
+- **supersededRecord:** None
+- **designApproval:** User authorises rough planning; proposed weeks and cohort are not approved.
+- **implementation:** Two canonical planning documents and local generated reading views; current guidance, handoff, source catalogue and next-action metadata updated. No game, assets, teacher system or student-data changes. Follow-up clarification logged in AGENTS/handoff: structural mapping and document links verified, but full bidirectional reader integration is not claimed.
+- **deployment:** Explicitly out of scope.
+- **testing:** Local checks: 82/82 exact parent rows, 115/115 ordered nested bullets, valid week-table references, all 30 weeks exactly once, Unit 3/4 boundary and original mappings/decisions/ledger preserved. 23 focused Blueprint tests pass; exports match. Both local document views inspected for headings/tables; not a whole-reader or mobile acceptance check. Full governance remains blocked by inherited missing impact assessment CE-CHANGE-20260924-85; scan remains blocked by existing .scan-lock. No game or publication.
+- **taniaAcceptance:** Tania confirms 4 x 50-minute periods weekly and very broad scope. Proposed sequence and actual cohort await review; no completed teaching/mastery claim.
+
+## CE-CHANGE-20260925-91 — Connected Blueprint and successor handover
+
+- **date:** 2026-09-25
+- **domain:** Blueprint continuity and reader integration
+- **source:** Tania explicitly requests extensive Blueprint update on 25 September 2026 to make it hit-by-a-bus ready. Follow-up: Tania says "yep lets go ahead" provided material is retained in Reference Library/source documents, with essentials up front and useful history behind.
+- **owner:** Codex continuity task; Tania owns design and school decisions
+- **status:** Publication explicitly approved; live verification pending
+- **rationale:** Make the existing reader a usable current project handover with reciprocal curriculum and year links.
+- **dependencies:** CE-CHANGE-20260925-90
+- **evidence:** docs/production/continuity-20260925.md
+- **nextAction:** Publish the reviewed reader to the existing public Blueprint and verify live source hashes and navigation.
+- **supersededRecord:** None
+- **designApproval:** User authorises extensive Blueprint redesign/update; no approval of proposed teaching weeks or game changes.
+- **implementation:** Current Start Here, world/year, curriculum provision, reciprocal experience links, successor guide and freshness checks implemented in the existing reader. Original82 curriculum points,115 details,14 experiences and18 decisions preserved.
+- **deployment:** Explicit public-publication approval now received; prior automatic block is superseded by this approval. Publication and live verification pending.
+- **testing:** 98/98 full tests, governance/export/continuity checks, TypeScript and scoped lint pass. Release-guarded418-file build passes; desktop and390px linked reader routes inspected with no console errors. Original82/115 curriculum,14 experiences and18 decisions unchanged. Monitor remains needs-attention; no global reconciliation.
+- **taniaAcceptance:** Successor must be able to resume without reconstructing chats.
 
 ## Retained Atlas principles
 

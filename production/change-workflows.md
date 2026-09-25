@@ -175,7 +175,7 @@ Repair the update mechanism and explicitly report inherited integration gaps ins
 
 Apply the ST4S gate to all affected product, provider, data and operational changes.
 
-- [School security, privacy & ST4S readiness](/career-empire-blueprint/production/st4s-readiness.html): Screen all triggers; map affected controls/tests/evidence; refresh computed dashboard, tier/applicability, release gates and retrospective remediation.
+- [School security, privacy & WA assessment readiness](/career-empire-blueprint/production/wa-assessment-route.html): Screen every trigger against WA questionnaire IDs; distinguish verified answers from implementation controls; update Department and school permissions, evidence and critical remediation. ST4S remains reference; CEWA deferred.
 - [Decisions and superseded rules](https://taniab1975.github.io/career-empire-blueprint/#decisions): Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
 - [Implementation and test evidence](https://taniab1975.github.io/career-empire-blueprint/#build): Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
 - [Teacher/classroom workflow](https://taniab1975.github.io/career-empire-blueprint/#classroom): Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.

@@ -1,3 +1,129 @@
+## Connected Blueprint and successor continuity — 25 September 2026
+
+CE-CHANGE-20260925-91. Tania explicitly requests extensive reader update because Start Here is stale and the project must be resumable by another person. This request authorises the Blueprint reader/continuity update, superseding the previous map-only task boundary for this work; it does not approve proposed weeks, game changes, assets or learner-data collection.
+
+Start with `docs/production/successor-start.md` (generated from `data/operations.json.continuity`) and the actual currentStep/productionPlan. Start Here, World & Year, Design & Curriculum and Work & Handover now connect the broad year proposal, original experiences, exact curriculum, nested provision, evidence and gaps. The two year-map Markdown files remain authoritative planning views; `data/year-plan.json` is generated, never separately edited. `npm run records` regenerates it and exports. `npm run continuity:check` rejects stale source hashes, missing requirements, broken targets or drift between current step/plan/roadmap. Run the full checks and desktop/mobile reader verification before a release claim.
+
+The inherited empty scan lock was archived after verifying no running scanner; monitor now records an owner and handles proven dead owners. Scan completed but returned needs-attention (215 intake items, 35 incomplete integrations, 12 coverage/protection errors), not global reconciliation. Missing checklists85/86 restored as pending retrospective work from their existing receipts; no false completion. Existing daily steward updated to run continuity checks and report new publication lag/failures. It is a daily audit with authorised local upkeep, not guaranteed auto-publication or automatic coverage of every chat/account.
+
+Live receipt inspected 25 September: main reader V2.21 from17 September plus scoped WA pages24 September. V2.23 connected reader checks/release in progress; final receipt in docs/production/continuity-20260925.md. Preserve this local/live distinction. Next curriculum design: review broad year, then existing Sunday Markets purpose-first framework pilot. Successor account access and restore drill remain unverified; nominate/verify a successor privately. No passwords or private handoff exports in public pages.
+
+## Rough year map for review — 25 September 2026
+
+CE-CHANGE-20260925-90. Tania requested a broad approximately 30-week sequence, separate nested curriculum check and critical review; documents are saved at `docs/production/year-map-20260925.md` and `docs/production/year-map-coverage-20260925.md`. Continue the existing Blueprint; these are planning views, not a competing master. Baseline is 2027 Year 12 General; actual cohort remains unconfirmed. Tania confirms 4 × 50-minute periods weekly, with assessments, holidays and other class requirements; keep planning broad, not minute-by-minute. This gives 100 nominal hours over 30 weeks versus the syllabus's 110 notional hours, before interruptions. Feasibility is not established.
+
+Preserve Unit 3/Semester 1 and Unit 4/Semester 2. All 82 ledger points and 115 nested bullets are allocated to proposed provision, not verified delivery/mastery. Market remains short onboarding/confidence; later chapters carry formal teaching. Official 2027 EST window is Term 2 Weeks 3–5; selected-content file and school sitting not verified. Do not reuse 2026 CORE or dates automatically. CPD begins within Unit 4 and culminates in application/sharing; do not copy the 2026 school's Term 1 Unit 4 task into this sequence.
+
+Review the rough map, then undertake detailed design/evaluation of the **existing Sunday Markets experience as the framework pilot**. Do not begin 30 lesson plans, new buildings, game changes, artwork, student-data collection or publication. Blueprint is game/learning design now; teacher delivery resource comes later. World progression, engagement, curriculum and mastery evidence remain distinct. Older current-step/environment/timing-parked notes are historical where they conflict with this expressly authorised planning request; original approvals and pauses remain intact.
+
+Local checks: 82/82 exact parent rows, 115/115 ordered nested bullets, valid week-table references, all 30 weeks exactly once, Unit 3/4 boundary and original mappings/decisions/ledger preserved. 23 focused Blueprint tests pass; exports match. Both local document views inspected for headings/tables; not a whole-reader or mobile acceptance check. Full governance remains blocked by inherited missing impact assessment CE-CHANGE-20260924-85; scan remains blocked by existing .scan-lock. No game or publication.
+
+Verification and exact hashes: `private/production-evidence/2026-09-25/year-map/verification.json`. Start scan is blocked by the pre-existing `.scan-lock`; it was not removed. Stored health is dated 17 September with 199 pending intake/19 pending changes and is not a current all-clear. No whole-reader or game publication claim.
+
+## Current clarification and stopping point — 24 September 2026
+
+Tania corrects the preceding framing. The Blueprint is the game-design document NOW; a teacher delivery resource is a later outcome. Design decisions and their reasons are shaped together by pedagogy, engagement, educational psychology, curriculum and learning design. Current integration/privacy/scale concerns are checks, not a replacement for that design foundation.
+
+Preserve the distinction between an experience and a subject building/module. Example: students do not visit a Megatrends building to consume a Megatrends lesson. A megatrend affects their world; they encounter a need to understand, seek relevant information, make choices and experience consequences. Information or practice can be delivered outside the 3D world while remaining part of this connected experience. Dedicated learning modes and retained EST practice do not authorise reverting to disconnected subject silos. Equally, not every EST revision activity needs an artificial world event. Decide the role of each mode within the overall learning design.
+
+Career Empire's intended curriculum-wide learning-system role remains; it does not reduce the design to an LMS/module catalogue. Teacher-resource development is a later translation of the coherent game/learning design, not the current primary audience or next production task. Earlier wording that moved the Blueprint's primary audience immediately to teachers is superseded by this clarification; preserve its history.
+
+Stopping point: user may take a break. No further redesign, curriculum reorganisation, scenario build or teacher-program production initiated. Resume by checking a concise integrated design account with Tania: what the learner experiences; why it should support learning and engagement; the curriculum purpose; information/teaching sought; choices, consequences, feedback and transfer; evidence and responsible data handling. Do not ask Tania to settle every open issue at once. No claim that the integration is already resolved.
+
+# Current integration guidance — curriculum-wide LMS, 24 September 2026
+
+Tania requests consolidation because learning design, productive failure, curriculum events, authentic evidence, AI minimisation, privacy and scalability feel like competing masters. This section is the current planning entry within the existing contract, not another Blueprint. It supersedes older instructions that would automatically select the dated environment next-step for an unspecified continuation. Existing game/asset approvals and separately authorised repairs remain intact; this review does not stop other tasks or authorise new production.
+
+## Agreed purpose and scope
+
+**Career Empire is the intended learning management system for the whole Careers and Employability curriculum: one curriculum, one connected learning system, multiple ways to learn.** The curriculum drives the required learning; learner needs inform delivery; the game is one part of the tool. Current concerns about integration, AI answer substitution, evidence, privacy and scale are design/review checks, not the educational purpose.
+
+Scope includes curriculum sequencing, learning activities, progress and evidence, feedback/assessment and teacher support. These are intended capabilities, not a claim that a complete LMS exists today. Career Empire may deliver learning through the playable world, dedicated teaching/practice environments, EST revision activities, and teacher-supported practical or observed tasks whose evidence is managed appropriately. Leaving the 3D world does not mean leaving Career Empire.
+
+Choose the mode that serves the curriculum requirement. Existing EST memory cards, Space Invaders-style activities and other revision tools are preferred retention candidates; inspect relevance and integration before replacing them. Retention is not certification of every old activity. Recall practice has a legitimate role; it is not automatically evidence of application or transfer. Results and appropriate earnings may feed back into the world, but rewards and educational judgements remain separate, and transfer rules are not yet approved or implemented by this decision.
+
+Start planning from an exact curriculum point or coherent group and its existing provision. Reuse current activity/module/CE-EXP identifiers rather than creating a competing catalogue. For each point identify provision to retain, adapt, connect or design, the delivery mode, teaching/practice/application/assessment role and current evidence. Not every point needs a new world scenario or bespoke minigame. Existing CE-EXP records remain the world/experience design records; they are not the exclusive container for all curriculum learning.
+
+V2-D18 records this agreed clarification. Historical V2-D01 remains preserved, but its encounter-before-explanation pattern applies where educationally suitable, not universally. Events, productive failure and authenticity checks support the curriculum; they do not become competing masters.
+
+## The Blueprint as the teacher delivery resource
+
+Agreed intended role: Career Empire is the learning system; the Blueprint is the teacher resource for delivering the year-long program. Its primary teacher-facing structure should answer: what are we teaching, why now, what do I prepare, what do students do, what teaching/support is needed, what evidence do I review, and what comes next? This is a direction for the resource, not a claim that a complete teacher program has been authored or classroom-validated.
+
+Organise existing canonical content into a year/program overview, curriculum-linked sequence, and teachable activity guides. Each guide should draw from existing records: purpose and exact curriculum points; prerequisites and flexible timing; preparation/resources and direct activity link; teaching/facilitation and likely misconceptions; expected student work and assessment criteria; differentiation/accessibility, supported recovery and extension; evidence handling and next step. Include in-world, dedicated learning, EST revision and teacher-observed/practical modes where appropriate.
+
+Do not turn developmental concerns into lesson objectives. Keep production logs, engineering detail and privacy assurance available as supporting references, with teacher actions translated into clear operational guidance. They need not lead the teacher homepage. Preserve historical records and single-source mappings; do not create a second teacher-plan master disconnected from the existing curriculum/activity records.
+
+The year-long overview must distinguish approved sequencing from proposals and preserve the applicable syllabus, assessment conditions and annual EST requirements. The existing 2027 curriculum baseline and 2026 school/sample material must not silently become an approved calendar. Teacher workload, preparation, review time and classroom practicality are part of validation. No timetable, assessment weighting or activity duration is invented by this framing revision.
+
+## Source ownership and conflicts
+
+| Concern | Existing owner | Interpretation |
+|---|---|---|
+| Curriculum wording/edition | data/curriculum.json and sourceDocuments in data/blueprint.ts | Preserve exact points, detail bullets and source edition. Current ledger uses the 2027 syllabus; 2026 school/sample/EST materials remain distinct. Confirm the intended teaching cohort before making a formal compliance claim. |
+| Experiences and reciprocal mapping | experiences in data/blueprint.ts | Reuse stable CE-EXP IDs. A link is a design intention, not taught or assessed coverage. |
+| Student experience, approved decisions and event direction | learningLoop, decisions and experience fields in data/blueprint.ts | Preserve meaningful stakes, accessible learning and supported recovery; later explicit user decisions outrank old proposals. |
+| Learning authenticity and contextual text | docs/production/authentic-learning-checks-20260924.md | Contextual free text is allowed in principle; copied generic prose alone is weak evidence. Proposed traffic lights are not yet automated enforcement. |
+| Privacy assessment | data/wa-assessment-readiness.json and docs/production/st4s-readiness.md | WA questionnaire and supplied Department email govern. ST4S is historical/optional, not the current governing route. |
+| Current execution and integration | data/operations.json; data/change-integrations.json | Distinguish dated release scopes from current direction; neither a historical checkpoint nor a local record proves public currency. |
+| Visual work | Existing asset/style registers | Preserve approved originals and release evidence; no new asset is required merely to represent a new curriculum point. |
+
+Resolve conflicts explicitly in the existing material record: current instruction, preserved prior decision, superseded wording and affected surfaces. Do not silently merge incompatible policies or overwrite newer work. Generated documents are views of these owners, never another editable master.
+
+## Connected learning, with purposeful variation
+
+A learning need, teacher assignment, revision choice or world event → suitable learning mode → teaching and practice in an appropriate order → application/transfer where required → selected evidence and feedback → a clear next step and return/resume route. A world event is one possible entry, not a mandatory trigger. A recall activity can contribute to a larger learning sequence without containing the entire sequence itself.
+
+Productive failure means a deliberately designed problem-solving attempt followed by teaching and consolidation. It does not mean making the game punishing, hiding essential controls, forcing every novice to fail, or using early failure as a summative grade. Provide prerequisites and accessible controls; choose direct instruction first where necessary. The retained Kapur research supports this sequence in its studied mathematics contexts, not a blanket claim that Career Empire has demonstrated learning gains. Source: https://www.cse.iitk.ac.in/users/se367/14/Readings/papers/kapur-14_productive-failure-in-learning-math.pdf (reviewed 24 September 2026).
+
+Application and transfer must be explicit. Improving the same task is application; a materially different context tests transfer. A contextual explanation should refer to the student's actual plan, outcome or revision and can be checked against a demonstration. Do not promise AI-proof tasks. AI minimisation here has two distinct purposes: reduce answer substitution in evidence of learning, and avoid unnecessary external processing of student information. Neither purpose creates a blanket free-text ban. AI detection, paste blocking and surveillance are not substitutes for sound assessment.
+
+## The single planning check
+
+Before building or extending a learning feature, add the following to its existing activity/module/experience and change record. Do not create parallel per-discipline plans.
+
+1. Exact curriculum point IDs, edition and the specific understanding/performance claim; show any detail bullet not addressed.
+2. Delivery mode and entry (event, assignment, revision or student choice), relevance, prerequisites and what the student actually does, including keyboard/accessibility and classroom alternative.
+3. Teaching/practice purpose, feedback and recovery; locate application and a distinct transfer check in the wider sequence where required. Use a first attempt before teaching only where suitable; distinguish supported from independent performance.
+4. The artifact/rubric and what would count as insufficient evidence. Game money, badges, speed, visits and popularity are not mastery measures.
+5. Minimal retained fields, identity, readers, storage/providers, retention/export/deletion and relevant WA questions; retain synthetic proof for readiness, not public student artifacts.
+6. Reuse of existing mechanics/assets, bounded state/branching, teacher setup/review time and device/network/storage test. State the smallest version and what is deliberately deferred.
+7. Learning-evidence flag and data-readiness flag with reason, scope, owner and next proof. Show delivery/scalability concerns alongside them; no averaged green score.
+
+Plans must address every item or state the exact missing decision. Start each implementation update with the experience and what learning becomes possible, then the technical work. A field, export or provider change reopens affected privacy evidence. A scenario/rubric change reopens affected curriculum and learning checks. Visual-only changes still need usability/accessibility verification but do not invent new curriculum claims.
+
+## Honest curriculum coverage
+
+This inspection found 82 curriculum records, each linked to at least one of 14 experiences. All 14 experiences are Draft. The existing depth tags describe planned teaching/practice/application; they do not establish that teaching happened or that a learner demonstrated transfer. Therefore 82/82 linked is not 100 percent curriculum compliance.
+
+For each point, distinguish source-confirmed → mapped proposal → designed learning/evidence → implemented → teacher-reviewed/classroom-evidenced. Keep exposure, practice, application, assessment and transfer separate. Record the actual learner action and rubric criterion supporting a claim. A large event can introduce several points while assessing only a small subset. Review both directions: every required point has adequate provision, and every assessed claim is supported by the relevant task/evidence. Written, oral, interpersonal and performance requirements must not be silently replaced by game choices; use teacher-observed or approved school-system evidence where needed. Formal assessment conditions, weighting and annual EST scope remain separate source requirements.
+
+## Control growth before expansion
+
+Recommended architecture: retain suitable existing learning modules, reuse teaching/practice and scenario patterns, and share navigation, progress, evidence and identity/access/lifecycle controls across modes. New events vary content and constraints before requiring new buildings, subsystems or bespoke storage. Do not build one minigame per curriculum point or an unlimited tree of branches.
+
+Scale has four tests: learning coverage, teacher workload, technical/device performance and evidence/data volume. Before multiplying a pattern, measure a representative student journey and teacher review workload; test low-end school devices, shared-device recovery, concurrency and artifact-size/retention assumptions. Current scale is unverified; do not promise a capacity number or choose a new engine/platform from this review.
+
+## Next bounded design step
+
+Map curriculum to current provision first. For each exact point, identify existing EST/dedicated/world/teacher-supported learning, what to retain or adapt, what needs connection, and what is genuinely missing. Do not invent coverage from an activity name or infer an unchanged 2026 EST scope for 2027. Review one representative cross-mode journey next, selected from the map. CE-EXP-V2-05 remains a candidate, not the predetermined next task.
+
+For each connection specify entry, activity/version, completion/result meaning, minimal evidence, any reward rule, return/resume, duplicate/retry handling and teacher visibility. Trusted identity, school separation and data lifecycle require their own implementation proof. A shared account/evidence store is a design decision, not an existing capability inferred from a link between pages. Do not merge wallets, rewrite old modules, migrate student data or connect real accounts under this documentation approval.
+
+Preserve independently authorised maintenance. The present task revises the Blueprint framing; it does not implement the curriculum map audit, a full LMS, new collection or reward integration.
+
+## Currency and remaining limits
+
+Reviewed: current canonical records for event loop, 14 draft experiences/82 point mappings, source library, productionPlan/currentStep, change integrations, WA audit and learning-authenticity discussions. Found: stale environment-first execution summary; historical ST4S release scope displayed without context; obsolete governing-source label; proposals separated from implementation but dispersed across documents. Corrected local entry guidance and source label; retained historical snapshots and original approvals.
+
+Not claimed: complete review of all chats/accounts, every game feature, live runtime parity, classroom effectiveness, full syllabus compliance, verified scale or whole-public-Blueprint currency. The workflow monitor is blocked by an existing .scan-lock; it was not removed. This consolidation is local until separately published and verified. The earlier live WA page release remains valid for its bounded scope.
+
+---
+
+## WA assessment first — 17 September 2026
+
+CE-CHANGE-20260917-73 / local V2.22 adopts Tania's WA questionnaire as the new assessment baseline; CEWA is explicitly deferred. Read docs/production/wa-assessment-route.md and data/wa-assessment-readiness.json. ST4S is retained as reference/optional future assessment; no national submission planned. Its original full-guide gates now apply to that optional route, not automatically to a WA pack. Existing shared safety controls, feature screening, evidence, DoD and critical authentication/tenant remediation remain mandatory. Department assessment and school permission are separate; CEWA is not a current gate; report conversion is not unconditional approval. Form v4c, 75 main questions and 24 data categories inspected; responses/attestation not completed. No assessment or product change by this task.
+
 # Career Empire: mandatory start-to-publication contract
 
 Policy CE-WORKFLOW-20260910, version 1. Applies to Career Empire discussion, research, planning, curriculum, activity design, code, assets, tests, releases and handovers. A chat response is not the project record. Memory, old chats and GitHub issues are evidence or execution aids, not a competing Blueprint.

@@ -7802,6 +7802,12 @@
       "CE-SAFETY"
     ]
   },
+  "assessmentRouteContext": {
+    "changeId": "CE-CHANGE-20260917-73",
+    "role": "Reference and optional future national assessment",
+    "primaryRouteSource": "data/wa-assessment-readiness.json",
+    "scope": "This register's six full-guide gates evaluate the optional ST4S route only. They do not gate WA submission or substitute for actual WA/CEWA conditions. Shared controls and feature impact screening remain mandatory."
+  },
   "computedSnapshot": {
     "asOf": "2026-09-17",
     "status": "NOT READY — verification/remediation required",

@@ -31,7 +31,7 @@
     {
       "id": "CE-KIT-001",
       "number": 1,
-      "name": "Limestone wall — 2 m",
+      "name": "Limestone wall \u2014 2 m",
       "family": "Campus modular kit",
       "moduleId": "wall-2m",
       "version": "0.1.0",
@@ -57,7 +57,7 @@
     {
       "id": "CE-KIT-002",
       "number": 2,
-      "name": "Limestone wall — 1 m",
+      "name": "Limestone wall \u2014 1 m",
       "family": "Campus modular kit",
       "moduleId": "wall-1m",
       "version": "0.1.0",
@@ -1806,7 +1806,7 @@
       "assembly": null,
       "preview": "/evidence/avatar-campus-kit-20260910/kit-overview.png",
       "previewSha256": "53f9d669eb5fe7f3d20f2c62bc23f4285c1fe144ffb2c2159d1bde56e2589d62",
-      "previewKind": "Component kit overview — not the assembled building",
+      "previewKind": "Component kit overview \u2014 not the assembled building",
       "components": [
         {
           "assetId": "CE-KIT-001",
@@ -2658,6 +2658,334 @@
       "liveUrl": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/?view=chapel-interior",
       "publishedCommit": "7388cfa3bca6b58a06a88bf18f65e6d49dc17501",
       "liveReceipt": "private/production-evidence/2026-09-13/chapel-interior-upgrade/live-receipt.json"
+    },
+    {
+      "id": "CE-PHONE-DERIVATIVES-20260917",
+      "revision": 1,
+      "changeId": "CE-CHANGE-20260917-75",
+      "status": "published-and-source-verified",
+      "documentation": "docs/production/phone-opening-20260917.md",
+      "sourceReceipt": "private/production-evidence/2026-09-17/phone-opening/phone-assets.json",
+      "assets": [
+        {
+          "id": "CE-PHONE-ASSET-01",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/15d504f1b759.webp",
+          "bytes": 10206,
+          "sha256": "e6434f05307f76ee70eb87d2c35dba072197f813b0e545b135fc6ce9cf44878e"
+        },
+        {
+          "id": "CE-PHONE-ASSET-02",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/19ddc20ded77.webp",
+          "bytes": 9754,
+          "sha256": "61671df9bc085d76a643ec039a99aac6b6a55b86be424e8f4905ce923be2eef9"
+        },
+        {
+          "id": "CE-PHONE-ASSET-03",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/1e50592a6a2b.webp",
+          "bytes": 60200,
+          "sha256": "6715b759ee9d28718154a8900f71669cd59cd2ce71bb219b7ddc8a893af15a9a"
+        },
+        {
+          "id": "CE-PHONE-ASSET-04",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/3da032fd878b.webp",
+          "bytes": 16200,
+          "sha256": "a8b94fa6a6f7611d533110229efd76d3555f4ab8c0e8e8af9b01bb4a57d801f2"
+        },
+        {
+          "id": "CE-PHONE-ASSET-05",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/6ceef6c83200.webp",
+          "bytes": 24742,
+          "sha256": "8a1ef8205dcc2ea61faac519fa81efe8785e11720488efb9d7a182048c2b5a9d"
+        },
+        {
+          "id": "CE-PHONE-ASSET-06",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/78bc376d38e6.webp",
+          "bytes": 1736,
+          "sha256": "e645a43ce8625ee9782fc44902ea4ed1204b5264b770742441641cf188dc7b23"
+        },
+        {
+          "id": "CE-PHONE-ASSET-07",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/7ad34dc0006b.webp",
+          "bytes": 260190,
+          "sha256": "367a09c0cf5a9865b24d00d3f10a0695f76993a257554657e0a60841e775793d"
+        },
+        {
+          "id": "CE-PHONE-ASSET-08",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/9714666c1516.webp",
+          "bytes": 5440,
+          "sha256": "23b8a1590607843060d299e7076b3dbd1c12581fa72cf4baf22dd6ab84e62284"
+        },
+        {
+          "id": "CE-PHONE-ASSET-09",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/9934c5250d1b.webp",
+          "bytes": 9418,
+          "sha256": "4b328a704301deadd6533cb154eaa09189ad08eca62b0e85a6f14cecabb8d1bc"
+        },
+        {
+          "id": "CE-PHONE-ASSET-10",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/a6b40b7146e4.webp",
+          "bytes": 7996,
+          "sha256": "4cdc96c83ac15755efa35978e8b232362476d0cd43a6b7c007c39cf3509e8885"
+        },
+        {
+          "id": "CE-PHONE-ASSET-11",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/a8fd2904ee35.webp",
+          "bytes": 104214,
+          "sha256": "60e1452df5be0ed027ef993870da251141100012d0b6cabad7d302996ef00119"
+        },
+        {
+          "id": "CE-PHONE-ASSET-12",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/b3b814172ff1.webp",
+          "bytes": 1022,
+          "sha256": "8d97014cf761f566f577376fb8c23b0e0a0b0bbf0d0d0dfa6b644aa6a654a6e2"
+        },
+        {
+          "id": "CE-PHONE-ASSET-13",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/boulder-a-mobile.glb",
+          "bytes": 124348,
+          "sha256": "04a4d9bb3f30e030170fa7592a3c64572f7cc1b07323ae52f799a0b36587f6b4"
+        },
+        {
+          "id": "CE-PHONE-ASSET-14",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/c05044c0f2de.webp",
+          "bytes": 56188,
+          "sha256": "ecfbf22f530a1bd01b4bee25ac2136d396b109788b0e8cb24221d6d912e8ea7f"
+        },
+        {
+          "id": "CE-PHONE-ASSET-15",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/cac32030d7a8.webp",
+          "bytes": 83906,
+          "sha256": "2ba4335e9f30849fabb1d1d571d3423401685a7dfe452619a90a8eab553ded58"
+        },
+        {
+          "id": "CE-PHONE-ASSET-16",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/careers-mobile.glb",
+          "bytes": 619820,
+          "sha256": "e352d64afe4f62fb6b2b6c5b092eeccb92b2335a969a30e87e36bf889233fe1b"
+        },
+        {
+          "id": "CE-PHONE-ASSET-17",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/dc020861de72.webp",
+          "bytes": 82078,
+          "sha256": "8ef48a3ada6c0e6c80cd91c1ccc5bb2ce20057bca70a1d6e53832791b8d6698f"
+        },
+        {
+          "id": "CE-PHONE-ASSET-18",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/df2ca8fa1a9c.webp",
+          "bytes": 4634,
+          "sha256": "9710675cb1ed6a26e019b9bb540e8a04f8ca8dd692ea87070c7082506633391d"
+        },
+        {
+          "id": "CE-PHONE-ASSET-19",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/e774700facce.webp",
+          "bytes": 109418,
+          "sha256": "4105caaaea2b1a641ce25a88f6a4dbab9863b3ed0f8bb8759eb3630f8a795005"
+        },
+        {
+          "id": "CE-PHONE-ASSET-20",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/ffc6ab32527d.webp",
+          "bytes": 5430,
+          "sha256": "b50cd878335bcb55171aed0355f4d51d9fcd95a2c53f51508612411c2cd263e0"
+        },
+        {
+          "id": "CE-PHONE-ASSET-21",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/garden-reflections-mobile.hdr",
+          "bytes": 529457,
+          "sha256": "08824f3cb532ea010133faee929c4b4f69ef9c2d7ed081095b4b28ed5d71ece7"
+        },
+        {
+          "id": "CE-PHONE-ASSET-22",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/grass-ecc-campus-v1-mobile.webp",
+          "bytes": 147784,
+          "sha256": "03815e65d1980538421758a82de7d08cc092a502912fe6e4fd8fc340fe012520"
+        },
+        {
+          "id": "CE-PHONE-ASSET-23",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/mature-eucalypt-a-mobile.glb",
+          "bytes": 1117744,
+          "sha256": "34469aac0dc733bc42f7a29e15ff01df6bc8dc4614fa93c73ea6763d1b1ecefb"
+        },
+        {
+          "id": "CE-PHONE-ASSET-24",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/mature-eucalypt-b-mobile.glb",
+          "bytes": 1118864,
+          "sha256": "a6a1f92f9a3ef1d6a7dd649fd7a74a7b15086b58217a328143f3a754080c3d50"
+        },
+        {
+          "id": "CE-PHONE-ASSET-25",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/player-schoolboy-2k-20260914-mobile.glb",
+          "bytes": 1279952,
+          "sha256": "6dd45b083d901f59047e094a2ececd2e8b2e555cf5a137d3a48200941b688e56"
+        },
+        {
+          "id": "CE-PHONE-ASSET-26",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/reception-backwall-mobile.webp",
+          "bytes": 25860,
+          "sha256": "f094ade11c817d7ab74f70c960be69788789da54762d6dc2e411909729902b67"
+        },
+        {
+          "id": "CE-PHONE-ASSET-27",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/small-multistem-a-mobile.glb",
+          "bytes": 939724,
+          "sha256": "08a46d9af70f3978a6aaa0d760565989731bb6fe9b7253f0874804a0a245cf05"
+        },
+        {
+          "id": "CE-PHONE-ASSET-28",
+          "source": "Existing approved game asset derivative; original retained",
+          "file": "playable-3d/assets/phone/workplace-mobile.glb",
+          "bytes": 580536,
+          "sha256": "5d768bf8cb10bf68d45b73c8c44bed7a4b2332731c1db4c8d4ce2cc11baafd3d"
+        }
+      ],
+      "preview": "/evidence/phone-opening-20260917/after.png",
+      "previewSha256": "ae2faa360c01c582daf11aa39f16d04836421db031326e8085ffae211f7b63e4",
+      "approval": {
+        "status": "technical-verification-only",
+        "sourceUseAuthorised": true,
+        "note": "Routine phone loading derivatives visually checked; no new user appearance or physical-phone acceptance claimed. Tania reports slow opening and rejects 76s."
+      },
+      "publishedCommit": "82ba1d1ad0a8d5d54a38f96a6adf9722896a05f5",
+      "liveUrl": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
+      "liveReceipt": "private/production-evidence/2026-09-17/phone-opening/live-receipt.json"
+    },
+    {
+      "id": "CE-FLYOVER-EVIDENCE-20260917",
+      "revision": 1,
+      "changeId": "CE-CHANGE-20260917-76",
+      "status": "published-and-live-verified",
+      "documentation": "docs/production/flyover-20260917.md",
+      "sourceReceipt": "private/production-evidence/2026-09-17/flyover/receipt.json",
+      "assets": [
+        {
+          "id": "CE-FLYOVER-VIEW-1",
+          "source": "Actual local game screenshot; no new game asset",
+          "file": "private/production-evidence/2026-09-17/flyover/flyover-campus-clean.png",
+          "bytes": 1432458,
+          "sha256": "f8603ea23ac9b9958bd752d9a54cdc03163829a2a4f2fa8fa26813410910daa9"
+        },
+        {
+          "id": "CE-FLYOVER-VIEW-2",
+          "source": "Actual local game screenshot; no new game asset",
+          "file": "private/production-evidence/2026-09-17/flyover/flyover-campus.png",
+          "bytes": 1377042,
+          "sha256": "ecabccc5790f1305835da93d778999685736b8f85f2f4d6830c86244e7f23c5f"
+        },
+        {
+          "id": "CE-FLYOVER-VIEW-3",
+          "source": "Actual local game screenshot; no new game asset",
+          "file": "private/production-evidence/2026-09-17/flyover/flyover-entry.png",
+          "bytes": 2214357,
+          "sha256": "b3aba1ebd676f050f625527085fc305519a1ff3520df2c0dbe89673c70164945"
+        },
+        {
+          "id": "CE-FLYOVER-VIEW-4",
+          "source": "Actual local game screenshot; no new game asset",
+          "file": "private/production-evidence/2026-09-17/flyover/flyover-phone.png",
+          "bytes": 322958,
+          "sha256": "7609bf183566ccbc6feb985cc91830bc38d721a35d08224275bdd55c06120a0c"
+        }
+      ],
+      "liveReceipt": "private/production-evidence/2026-09-17/flyover/live-receipt.json"
+    },
+    {
+      "id": "CE-JACKET-FIT-20260919",
+      "revision": 1,
+      "status": "local-static-fitting-experiment-awaiting-user-inspection",
+      "documentation": "docs/production/jacket-fitting-experiment-20260919.md",
+      "sourceReceipt": "private/production-evidence/2026-09-19/jacket-fitting/Fitting-Checks.json",
+      "assets": [
+        {
+          "id": "CE-JACKET-FIT-1",
+          "file": "private/production-evidence/2026-09-19/jacket-fitting/Before-Uniform-Scale.png",
+          "sha256": "6a853df13cda644087499ca546cd6a0d7ed2d15752ee0ff5525980a631b4b347",
+          "bytes": 1356909,
+          "source": "Exact uploaded Tripo mesh fitted to verified original aa02d6a4 dressing base; static experiment"
+        },
+        {
+          "id": "CE-JACKET-FIT-2",
+          "file": "private/production-evidence/2026-09-19/jacket-fitting/Fitted-Front.png",
+          "sha256": "7d48dabca06f0e8c85ad52799b64e7fd06fd6132d20beecbd8f1469019beaa5a",
+          "bytes": 1335085,
+          "source": "Exact uploaded Tripo mesh fitted to verified original aa02d6a4 dressing base; static experiment"
+        },
+        {
+          "id": "CE-JACKET-FIT-3",
+          "file": "private/production-evidence/2026-09-19/jacket-fitting/Fitted-Jacket-with-Pants-Test.glb",
+          "sha256": "7d73c0c70827e2c54e11d4eda5f9952062b1be8435b2a5f97bc338fbf66f00cf",
+          "bytes": 3948016,
+          "source": "Exact uploaded Tripo mesh fitted to verified original aa02d6a4 dressing base; static experiment"
+        },
+        {
+          "id": "CE-JACKET-FIT-4",
+          "file": "private/production-evidence/2026-09-19/jacket-fitting/Fitted-Jacket.glb",
+          "sha256": "b1428133c9090d80f3d6a260ad081c6e11f2930268dbb5e65b04110880e8d1b0",
+          "bytes": 551516,
+          "source": "Exact uploaded Tripo mesh fitted to verified original aa02d6a4 dressing base; static experiment"
+        },
+        {
+          "id": "CE-JACKET-FIT-6",
+          "file": "private/production-evidence/2026-09-19/jacket-fitting/Fitted-Jacket.obj",
+          "sha256": "7cd13a58d75745fb824b2cd8dbcca01e652ceb5197198fb33ebb19e383b5f983",
+          "bytes": 1704589,
+          "source": "Exact uploaded Tripo mesh fitted to verified original aa02d6a4 dressing base; static experiment"
+        },
+        {
+          "id": "CE-JACKET-FIT-7",
+          "file": "private/production-evidence/2026-09-19/jacket-fitting/Fitted-Rear.png",
+          "sha256": "8c9044642e82f6bad45aa27966b00ac0f5d51e88997b704beb83d256d313619b",
+          "bytes": 1288533,
+          "source": "Exact uploaded Tripo mesh fitted to verified original aa02d6a4 dressing base; static experiment"
+        },
+        {
+          "id": "CE-JACKET-FIT-8",
+          "file": "private/production-evidence/2026-09-19/jacket-fitting/Fitted-Side.png",
+          "sha256": "5906b862d68624e4739fb08b0dac6a3c1849793b80a32650e2d08d690178ece5",
+          "bytes": 1265330,
+          "source": "Exact uploaded Tripo mesh fitted to verified original aa02d6a4 dressing base; static experiment"
+        },
+        {
+          "id": "CE-JACKET-FIT-9",
+          "file": "private/production-evidence/2026-09-19/jacket-fitting/Fitted-Three-quarter.png",
+          "sha256": "01b38963288ee8e6ca8b4b29e7c6ac28cc8f3cf1da38126ec00a5709ee5e931d",
+          "bytes": 1339915,
+          "source": "Exact uploaded Tripo mesh fitted to verified original aa02d6a4 dressing base; static experiment"
+        },
+        {
+          "id": "CE-JACKET-FIT-12",
+          "file": "private/production-evidence/2026-09-19/jacket-fitting/Jacket-Fitting-Experiment.blend",
+          "sha256": "409787eb85eb971ed3ded3a8575cd16d507d4f1db29dbc1cd7e687bd338612c3",
+          "bytes": 3043360,
+          "source": "Exact uploaded Tripo mesh fitted to verified original aa02d6a4 dressing base; static experiment"
+        }
+      ],
+      "approval": "Not final fit or production accepted; no release requested"
     }
   ]
 }
