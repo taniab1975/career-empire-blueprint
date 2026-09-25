@@ -1377,15 +1377,15 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **domain:** Blueprint continuity and reader integration
 - **source:** Tania explicitly requests extensive Blueprint update on 25 September 2026 to make it hit-by-a-bus ready. Follow-up: Tania says "yep lets go ahead" provided material is retained in Reference Library/source documents, with essentials up front and useful history behind.
 - **owner:** Codex continuity task; Tania owns design and school decisions
-- **status:** Publication explicitly approved; live verification pending
+- **status:** Published; scoped verification complete
 - **rationale:** Make the existing reader a usable current project handover with reciprocal curriculum and year links.
 - **dependencies:** CE-CHANGE-20260925-90
 - **evidence:** docs/production/continuity-20260925.md
-- **nextAction:** Publish the reviewed reader to the existing public Blueprint and verify live source hashes and navigation.
+- **nextAction:** Review the broad year proposal, then existing Sunday Markets framework pilot. Verify successor access privately.
 - **supersededRecord:** None
 - **designApproval:** User authorises extensive Blueprint redesign/update; no approval of proposed teaching weeks or game changes.
 - **implementation:** Current Start Here, world/year, curriculum provision, reciprocal experience links, successor guide and freshness checks implemented in the existing reader. Original82 curriculum points,115 details,14 experiences and18 decisions preserved.
-- **deployment:** Explicit public-publication approval now received; prior automatic block is superseded by this approval. Publication and live verification pending.
+- **deployment:** Existing GitHub Pages release fbbc7cc verified; metadata-only closure follows. No game release.
 - **testing:** 98/98 full tests, governance/export/continuity checks, TypeScript and scoped lint pass. Release-guarded418-file build passes; desktop and390px linked reader routes inspected with no console errors. Original82/115 curriculum,14 experiences and18 decisions unchanged. Monitor remains needs-attention; no global reconciliation.
 - **taniaAcceptance:** Successor must be able to resume without reconstructing chats.
 

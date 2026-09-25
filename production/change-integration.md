@@ -17600,7 +17600,7 @@ Next: Review rough sequence; detailed existing-market pilot follows user review,
 
 ## CE-CHANGE-20260925-91 — Connected Blueprint and successor handover
 
-Integration: **ready-for-publication**. Types: curriculum, implementation, governance, release. Owner: Codex continuity task; Tania owns design and school decisions.
+Integration: **complete**. Types: curriculum, implementation, governance, release. Owner: Codex continuity task; Tania owns design and school decisions.
 
 **Objective:** Make the existing reader a usable current project handover with reciprocal curriculum and year links.
 
@@ -17610,7 +17610,7 @@ Integration: **ready-for-publication**. Types: curriculum, implementation, gover
 
 **Source:** Tania explicitly requests extensive Blueprint update on 25 September 2026 to make it hit-by-a-bus ready. Tania explicitly approves publication on25 September, conditional on preserving useful history behind current essentials.
 
-**Next:** Publish approved generated reader and independently verify live hashes and routes.
+**Next:** Review proposed year, then existing market framework pilot; account succession remains unverified.
 
 ### Start Here — updated
 
@@ -17697,7 +17697,7 @@ Verification: passed / Regeneration derives the reader index from canonical plan
 
 Next: Review year proposal; existing market framework pilot follows; preserve stated unverified scope.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -17707,10 +17707,11 @@ Records: CE-CHANGE-20260925-91. Owner: Codex continuity task; Tania owns design 
 
 Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
 
-Verification: pending / Explicit publication approval received; live verification follows deployment.
+Verification: passed / Pages succeeded; live manifest and all38 changed outputs match; live entry, year and retained-history routes inspected without console errors.
 
+- [Evidence](private/production-evidence/2026-09-25/continuity/published-live-verification.json)
 
-Next: Publish approved V2.23 after current source/build checks, then verify deployed record, changed-file hashes and affected browser routes.
+Next: Record metadata-only closure; preserve primary receipt and use manifest for exact final release.
 
 ### Curriculum and reciprocal mappings — updated
 

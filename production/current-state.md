@@ -1,3 +1,11 @@
+## Published and verified — 25 September 2026
+
+CE-CHANGE-20260925-91 is live at the existing GitHub Pages Blueprint. Reviewed source `37ad6009f913264cc59901f1a4a9515213007325`, public release `fbbc7cc485810c57fc3f5d86a2740cbdd3dfa963`; Pages run36096315059 succeeded. Live manifest and all38 changed outputs match the build. Live Start Here, connected year and Reference Library / Design history were inspected; no browser console errors. Prior desktop/390px interaction checks passed. A metadata-only closure publication follows this verified release; its exact source is identified by publication-manifest.json rather than a recursive self-hash.
+
+Retention: all82 curriculum points,115 nested requirements,14 experiences,18 decisions, earlier year arc/sample timing, sources and ideas register match the captured baseline. No previously published file was removed (401 before,424 after). History and original visual references are accessible behind Reference Library. Private recovery remains private. Receipt: private/production-evidence/2026-09-25/continuity/published-live-verification.json.
+
+Next: Tania reviews the broad proposed year, then detailed work on the existing Sunday Markets framework pilot. Publication does not approve the proposed sequence, confirm teaching cohort, prove mastery or clear the inherited governance backlog. Successor account access and a restore drill remain unverified. Earlier blocked/pending publication entries below are retained dated history, superseded by this release.
+
 ## Publication approved; history retained — 25 September 2026
 
 Tania explicitly approves proceeding with publication: "yep lets go ahead" provided nothing has been lost, with essentials up front and useful history in Reference Library/source documents. This supersedes the earlier publication block for CE-CHANGE-20260925-91. Publish only the reviewed generated Blueprint to its existing destination; no game changes. Original curriculum, experiences, decisions, earlier arc/timing, source records and media remain. Reference Library → Design history now exposes dated changes, original sources, decisions, build evidence, earlier timing, historical Town Hall film and Studio screenshot. Full private maintenance evidence stays private. Publication is not curriculum/timetable approval.
