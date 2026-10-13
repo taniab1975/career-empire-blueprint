@@ -1,3 +1,11 @@
+## Accepted ECC opening checkpoint — 12 October2026
+
+PR53 is live at46d63d4d55a24123d3a578e3d257f0625f462426; Pages38320903492 succeeded and Tania accepted the actual opening23:21UTC. See [current receipt and WIP limits](ecc-release-blueprint-20261012.md). Source/unit222 and startupgrassRetry passed; criticaljourneys4pass/2fail, broadnotrun. NaturalChapelwalking, Sprout500ms movement and reported missing Market/Admin access stay open. Older local/public-test/PR45/46 statements below are dated history; no complete teacher-program, whole-game or school/security acceptance follows.
+
+# Current authority — 12 October 2026
+
+Current Blueprint publication preparation is described in [the held V2.24 candidate](blueprint-publication-20261012.md). Tania authorised the existing website update but explicitly waits for accepted game pushes and the verified deployment receipt. The paragraphs below retain dated earlier checkpoints; their former current/next labels do not replace data/operations.json.currentStep or the latest publication timing. No new game feature is live by inference.
+
 Hosting correction: the live game is https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/ (Emmanuel-ICT-Support/GTCEM-Career-Empire, main, Pages root). The Blueprint is a separate planning website. Its former embedded playable route is a redirect to the game, not an independent live deployment. The V2.16 preview-only publication was incorrectly reported as a game release; CE-CHANGE-20260910-28 records the correction.
 
 # Blueprint operating protocol

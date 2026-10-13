@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: Connected Blueprint reader and successor handover, including current canonical planning views; no game release.
+Release scope: Scoped publication of the authored WIP Blueprint and actual PR53 opening receipt for colleague review. Record102 and game/curriculum/security integrations remain unfinished; this is not a completed teacher program or whole-game acceptance.
 
-Current reader work does not close older integration tasks. Fresh monitor found 216 pending intake items, 37 incomplete integrations and 12 folders with protection/coverage errors. These are not curriculum gaps or verified product failures. WA readiness remains unverified; ST4S optional. Year allocations remain proposals; successor account access unverified.
+PR53 live opening was accepted by Tania; natural Chapel walking, Sprout movement threshold and reported Market/Admin access remain open. Six critical journeys:4pass/2fail; broad regression not run. All14experiences remainDraft and WA answersUNVERIFIED. Dated12October scan:295pending intake,44incomplete integrations,14coverage/protection failures. The snapshot preserves these boundaries and keeps record102 incomplete.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -18599,6 +18599,3988 @@ Verification: pending /
 - [Evidence](docs/production/my-life-responsiveness-20260924.md)
 
 Next: Review the specific reader surface against the market receipt; preserve known hosted CI exception and acceptance limits.
+
+## CE-CHANGE-20260925-93 — Echo in-world first-entry guide
+
+Integration: **in-progress**. Types: decision, activity, visual, avatar, implementation. Owner: Codex Echo task.
+
+**Objective:** Orient students to experiential Year 12 learning while preserving agency and the actual playable world.
+
+**Before:** Arrival has a Studio direction and no in-world Year 12 guide.
+
+**Required result:** Native 3D Echo beside arrival, action-paced intro → Course Documents → learning/persona → avatar → portfolio/explore → Market. Skip advances guidance without completion; revisit skipped tasks. Shared card hidden during dialogue. Sharp entry artwork/paths/lighting precede saved-stage Studio/Market preparation and later/on-demand campus loading.
+
+**Source:** Tania explicitly requests investigate, compare and implement Echo beside the normal ECC player, short click-through dialogue, first missions and future discovery mascots; current task 25 September 2026. Tania explicitly approved staged tasks with skip and live publication: Great do that please and send to live.
+
+**Next:** Sharp replacement live via PR38/39, all12changed public files verified; final user tab35FPS at ratio1.5 with no fresh errors.40focused browser scenarios and85units pass; full hosted CI remains unverified. School documents, sustained student-device acceptance and separate public Blueprint reader publication remain pending.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Retained current year-planning priority; productionPlan.boundedEchoWorkstream links this independently requested implementation.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Retained current year-planning priority; productionPlan.boundedEchoWorkstream links this independently requested implementation. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Added CE-ECHO-01 as a next review/document dependency; kept the single Now planning milestone.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / Added CE-ECHO-01 as a next review/document dependency; kept the single Now planning milestone. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Material change CE-CHANGE-20260925-93 records explicit request, later Resources choice and first-day card synchronisation.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Material change CE-CHANGE-20260925-93 records explicit request, later Resources choice and first-day card synchronisation. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Canonical and game AGENTS plus handoff describe local-only proof, source and next actions; project-work-contract retained.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Canonical and game AGENTS plus handoff describe local-only proof, source and next actions; project-work-contract retained. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerated canonical public/private records and HTML implementation reference; export parity passed.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Regenerated canonical public/private records and HTML implementation reference; export parity passed. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Keep this local candidate separate from existing published game and Blueprint.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending /
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Review current source, course-document gap and user appearance feedback; obtain release authorisation before publication.
+
+### Decisions and superseded rules — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+V2-D19 records only the user-requested direction and bounded implementation; appearance and release remain pending.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / V2-D19 records only the user-requested direction and bounded implementation; appearance and release remain pending. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Curriculum and reciprocal mappings — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+CE-EXP-V2-00 remains optional engagement, zero curriculum IDs; original 82 points and reciprocal mappings retained, verified by 28 Blueprint checks.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: passed / CE-EXP-V2-00 remains optional engagement, zero curriculum IDs; original 82 points and reciprocal mappings retained, verified by 28 Blueprint checks. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+CE-EXP-V2-00 and echo-state.js preserve the eleven messages and shared avatar/Resources/explore/Market order; actual save/visit browser flow passed.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / CE-EXP-V2-00 and echo-state.js preserve the eleven messages and shared avatar/Resources/explore/Market order; actual save/visit browser flow passed. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Added first-entry sequence to existing CE-EXP-V2-00 and V2-D19; proposed broad year ordering remains unchanged.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: passed / Added first-entry sequence to existing CE-EXP-V2-00 and V2-D19; proposed broad year ordering remains unchanged. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Year plan and assessment — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+No assessment edition, marks or coverage changed; resource documents missing and no mission/market mastery inferred.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: passed / No assessment edition, marks or coverage changed; resource documents missing and no mission/market mastery inferred. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Document identifies intended navigation observation and teacher-confirmed documents; no new reporting, student data or teacher dashboard capability claimed.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / Document identifies intended navigation observation and teacher-confirmed documents; no new reporting, student data or teacher dashboard capability claimed. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Existing world retained; native guide at arrival and one small Resources pedestal added, current screenshot inspected.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / Existing world retained; native guide at arrival and one small Resources pedestal added, current screenshot inspected. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Same point renamed Careers and Employability Course Documents and moved to (-5.35,0,21.3) beside Echo at arrival, including collider; no duplicate point or building redesign.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / Inspected actual desktop and phone arrival screenshot; final browser interaction follow-up recorded in implementation note.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Avatar and wardrobe references — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Teacher and market rig/loading pipelines inspected; Echo excluded from player catalogue and wardrobe; actual student remains playable.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / Teacher and market rig/loading pipelines inspected; Echo excluded from player catalogue and wardrobe; actual student remains playable. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+CE-ECHO-01 and visual register label actual 3D local review; phone header overlap and first pedestal placement corrected before final captures.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / CE-ECHO-01 and visual register label actual 3D local review; phone header overlap and first pedestal placement corrected before final captures. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Static GLB exported and reloaded with existing GLTFLoader: 10 meshes, 4822 triangles, 171668 bytes. Native source and hashed screenshots retained.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Static GLB exported and reloaded with existing GLTFLoader: 10 meshes, 4822 triangles, 171668 bytes. Native source and hashed screenshots retained. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+BUILD-ECHO-20260925 links real desktop/phone images and exact verification limits.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / BUILD-ECHO-20260925 links real desktop/phone images and exact verification limits. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Handoff and both AGENTS identify existing game checkout, canonical record and Resources dependency; unrelated dirty notes preserved.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Handoff and both AGENTS identify existing game checkout, canonical record and Resources dependency; unrelated dirty notes preserved. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+CE-ECHO-20260925 links generated HTML reference; original concept image absence explicit; user mission-card screenshot retained privately.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / CE-ECHO-20260925 links generated HTML reference; original concept image absence explicit; user mission-card screenshot retained privately. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Actual game screenshots copied to public evidence source with local-review captions; no earlier approved imagery or film changed.
+
+Records: CE-CHANGE-20260925-93. Owner: Codex Echo task.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / Actual game screenshots copied to public evidence source with local-review captions; no earlier approved imagery or film changed. This is scoped local source/runtime verification, not public-reader parity.
+
+- [Evidence](docs/production/echo-onboarding-20260925.md)
+
+Next: Retain these local findings; public reader verification belongs to a future authorised release.
+
+## CE-CHANGE-20260927-94 — Carolan source spine and curriculum-to-game planning chain
+
+Integration: **in-progress**. Types: curriculum, activity, decision, research, visual, avatar, governance. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+**Objective:** Make the actual content taught and its game use traceable, without treating an encounter or reward as mastery.
+
+**Before:** Existing year/coverage map has provision and evidence but no explicit Carolan chapter/page teaching chain; newer helper and merged Week 1 direction missing.
+
+**Required result:** All 82 points retain exact requirements and receive explicit source, taught content, exposure, application, learning check and separate proposed payoff. Textbook activities optional; content depth anchored in SCSA and traceable credible references.
+
+**Source:** Tania, 27 September 2026: continue Project Status Summary in canonical Blueprint; inventory Carolan, cross-check 2027 SCSA and Weeks 1–4, make seven-stage curriculum chain explicit and reconcile helper/NPC direction. Follow-up supplies Assets/Carolan Text. Further current messages: textbook activities are optional; content/depth must be grounded and the game should improve teaching.
+
+**Next:** Review the live arrival/Market loop and tighten brief initiative, changing-work and next-opportunity joins; reconcile recovered Week 3 adaptation/finance versus comparison and Week 4 initiative versus applications before connected Weeks 2–4 implementation. Tania is preparing helper/Nora/Dev models separately.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: README.md, docs/production/current-state.md. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: data/operations.json. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: data/operations.json. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: AGENTS.md, docs/production/project-work-contract.md, docs/handoff-guide.md. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: public/blueprint-records.json, data/year-plan.json. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+No publication. Full test/build guard stops on stale AGENTS.md review; scoped checks pass but do not replace release review.
+
+Records: CE-CHANGE-20260927-94. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending /
+
+
+Next: Reconcile current release reviews and run normal guarded checks before any publication.
+
+### Curriculum and reciprocal mappings — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: docs/production/year-map-coverage-20260925.md, app/connected-plan.tsx. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: docs/production/year-map-20260925.md. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: docs/production/year-map-20260925.md. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Year plan and assessment — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: docs/production/year-map-coverage-20260925.md. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Teaching/evidence design recorded; no teacher account, classroom acceptance or completed program claim.
+
+Records: docs/production/year-map-coverage-20260925.md. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: data/blueprint.ts, docs/production/year-map-coverage-20260925.md. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Decisions and superseded rules — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: data/operations.json. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Buildings and places — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+No building purpose, model, runtime or placement changed.
+
+Records: data/blueprint.ts. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+No publication. Full test/build guard stops on stale AGENTS.md review; scoped checks pass but do not replace release review.
+
+Records: CE-CHANGE-20260927-94. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending /
+
+
+Next: Reconcile current release reviews and run normal guarded checks before any publication.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+No new or changed image/model/video asset; established visual references retained.
+
+Records: docs/production/visual-register.md. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Avatar and wardrobe references — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: docs/production/tripo-npc-spec-20260924.md. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: docs/production/visual-register.md. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: docs/production/current-assets.md. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Updated existing canonical records for this bounded curriculum/source and character-direction reconciliation.
+
+Records: docs/handoff-guide.md. Owner: Codex: source mapping; Tania: design and delivery decisions.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Scoped canonical mapping/export checks and local reader inspection; documentation scope only. No game, classroom or live acceptance claim.
+
+- [Evidence](private/production-evidence/2026-09-27/carolan/verification.json)
+
+Next: Review proposed teaching and evidence during detailed game design; no textbook activity adoption required.
+
+## CE-CHANGE-20260927-95 — Market opening: concise role and changing-work connection
+
+Integration: **in-progress**. Types: activity, curriculum, implementation. Owner: Codex implementation; Tania gameplay review.
+
+**Objective:** Maintain the welcoming quick win while making initiative and the technology-to-work connection clear, without worksheet gates.
+
+**Before:** Long initial Mara briefing; light Initiative exists but changing-work connection is implicit.
+
+**Required result:** Short role briefing with optional workflow detail and optional changing-work explanation, accessible again in journal and after paid handover.
+
+**Source:** Tania: ok keep goin please after the live gameplay review and recommendation to tighten the Market opening and connect phone ordering to changing work.
+
+**Next:** Try the locally refined Market opening; retain incoming helper/Nora/Dev assets as separate work. Then settle the evidence-led opportunity mission and reconcile Week 3/4 sequence before connected implementation. Public deployment of this candidate remains unperformed.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: README.md, docs/production/current-state.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: data/operations.json. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: data/operations.json. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: AGENTS.md, docs/handoff-guide.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: public/blueprint-records.json. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Not published; local candidate only.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending /
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Use normal review/release checks before public deployment.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: docs/production/year-map-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Curriculum and reciprocal mappings — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: docs/production/year-map-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Year plan and assessment — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+No assessment task, grade or mastery event added; only optional explanation.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: passed / No assessment task, grade or mastery event added; only optional explanation.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+No teacher account, storage or monitoring added; future oral check is a design suggestion.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / No teacher account, storage or monitoring added; future oral check is a design suggestion.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Existing Market dialogues and cache tokens updated; 34 state/economy regressions and scoped local browser checks pass. Full CI not claimed.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / Existing Market dialogues and cache tokens updated; 34 state/economy regressions and scoped local browser checks pass. Full CI not claimed.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Decisions and superseded rules — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Existing canonical records updated for the concise invitation and optional changing-work hook; sources and local-only boundary retained.
+
+- [Evidence](private/production-evidence/2026-09-27/market-bridge/verification.json)
+
+Next: Review local gameplay; publication and wider slice remain separate.
+
+## CE-CHANGE-20260927-96 — Seven portrait helpers and selected-only world loading
+
+Integration: **complete**. Types: implementation, visual, release. Owner: Codex helper-selector task.
+
+**Objective:** Seven helper choices: Echo, Sprout, Moss, Bloom, Spark, Pax, Atlas. Use 2D portraits; persist browser-local choice and load only the selected model after Continue. Preserve current live sharp entry and Echo guidance. Remove Crown Bot/Nova from selectable set. Explicit current user authorisation includes game publication after testing.
+
+**Before:** Live Echo guide only; uploaded helper models not integrated.
+
+**Required result:** Seven portraits with local persistence and only selected model loaded in playable world.
+
+**Source:** Current Tania request, 27 September 2026
+
+**Next:** Review the verified live helper choices on a representative physical device; separate Blueprint reader publication and formal school readiness remain outside this release.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: docs/production/current-state.md, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Current-state entry links the bounded helper work and keeps game-versus-reader publication separate.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### Priorities and linked execution tasks — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: data/operations.json, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / Curriculum roadmap and production sequence retained; parallel runtime work is tracked in material record96, not substituted for the current planning step.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: data/operations.json, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Appended material record96 with explicit user request, source baseline, tests and pending release.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: AGENTS.md, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Canonical AGENTS and handoff record selected-only loading and exact release boundary.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: scripts/export-blueprint.mjs, public/production/helper-selector-20260927.html, public/production/helper-asset-metrics-20260927.json. Owner: Codex helper-selector release.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Generated records checked; desktop1280 andphone390 release page inspected,7actual portraits load with no horizontal overflow. Generated local output only, separate reader not published.
+
+- [Evidence](private/production-evidence/2026-09-27/helpers/blueprint-reader.json)
+
+Next: Publish separate reader only through its authorised workflow.
+
+### Publication verification — updated
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260927-96, docs/production/helper-selector-20260927.md. Owner: Codex helper-selector release.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: passed / Existing game target: Pages36286178336 success, matching merge/candidate trees,22changed public hashes and live desktop/390px chooser/world/reload. Separate Blueprint reader not part of game publication.
+
+- [Evidence](private/production-evidence/2026-09-27/helpers/release-receipt.json)
+
+Next: Keep the separate reader publication boundary visible.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: docs/production/helper-selector-20260927.md, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / Records actual runtime implementation, original asset provenance, metrics and verification limits.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: docs/production/helper-selector-20260927.md, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Documents choose/continue/restore/switch/cancel/fallback; guide task state remains independent of cosmetic choice.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: docs/production/year-map-20260925.md, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / Cosmetic browser-local selection adds no teacher reporting, assessed mastery or confirmed teaching week.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: docs/handoff-guide.md, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Handoff identifies source worktree and persistent choice/failure fallback; release rollback uses existing git/Pages workflow.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: docs/production/helper-selector-20260927.md, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / Seven actual-model portrait images are copied to public/evidence/helpers-20260927; no new concept art or video.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: docs/production/helper-asset-metrics-20260927.json, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Inspected exact GLB bytes, triangles, materials, textures, skins and clips; original uploads unchanged and Sprout flagged heavy.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: data/style-guide.json, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / Existing visual direction retained; helper implementation note links actual portrait evidence without claiming model redesign.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### Buildings and places — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: docs/production/helper-selector-20260927.md, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / No building geometry, layout, collider or campus texture changes; helpers occupy existing Echo location.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### Avatar and wardrobe references — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: docs/production/helper-selector-20260927.md, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / Player avatar/wardrobe state unchanged; helper selected separately per existing local character, no skeletal clips played.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### World, rewards and progression — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: docs/production/helper-selector-20260927.md, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / World environments, progression and rewards unchanged; latest staged entry retained and curriculum fallback tested.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### Decisions and superseded rules — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: data/operations.json, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / Current explicit seven-choice set and publication authorisation recorded in96; obsolete Crown Bot/Nova unavailable.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Records: docs/production/helper-asset-metrics-20260927.json, CE-CHANGE-20260927-96. Owner: Codex helper-selector release.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Referenced270926 attachment provenance retained; six supplied GLBs byte-identical and Echo exported from current source.
+
+- [Evidence](docs/production/helper-selector-20260927.md)
+
+Next: Retain this scoped finding alongside final release verification.
+
+## CE-CHANGE-20260927-97 — Explicit teaching, opportunity investigation and supplied market cast
+
+Integration: **in-progress**. Types: activity, curriculum, implementation, visual, avatar. Owner: Codex implementation; Tania gameplay review.
+
+**Objective:** Make required concepts learnable and revisitable before or after application, with feedback and revision rather than treating game completion as comprehension.
+
+**Before:** Market hook exists; no explicit connected opportunity mission in this checkout.
+
+**Required result:** Recovered opening scenes and five source-mapped teaching guides/checks, with supplied animated Nora/Dev in courtyard and Kenji/Amina in market; originals preserved. Administration UX repair: reception welcomes first, then Nora offers one source-checking goal with progressive choices. Market and office objectives are separated with boundary hysteresis. Interaction candidates are range-filtered before nearest-target selection. Continuous facade, interior doorway cutaway, moved pole, smaller signs and wider elevated framing keep the player, desks and faces visible. Existing teaching resources, source mappings, characters and saved market state retained. Approved Signal or Spin mini-game now integrated into Nora’s existing administration entry. Reception now at entrance; research completion pays $5 once per saved practice; optional Evidence Express arcade follows. Revised Evidence Express with original native market/courier artwork, rolling road, pickup bursts, shuffled lanes, capped streak bonuses, medals, completion artwork, explanation review and compact desktop/phone play area. User rejected the earlier prototype; new acceptance pending. Tania now authorises a separate Mara Market Rush. Local two-wave rice-bowl arcade with optional timer, original generated backdrop/customers, constructive pickup/prep choice, comparison, explanation feedback and once-only $8 practice bonus; existing first-gig/Nora rewards preserved. Market Rush now separates prepaid incoming phone preparation/numbered collection from counter order-taking. Shared collectors block counter orders; side pickup removes that obstruction. Full recipes include rice; arbitrary pickup speed multiplier removed. Approved short arrival implemented: optional guide/default avatar or Studio, walking orientation then Mara; first-visit directions and visited-place travel, movement assistance, optional later places. Nora gates on paid first gig, not arcade/tour completion. Old arrival legacy sign replaced by market wayfinding. Welcome flyover now precedes companion choice:14seconds through actual campus, descent to arrival, Skip, still reduced-motion/slow-load fallback and once-per-character normal replay guard. Market entry now introduces Mara with portrait and purpose; first-arrival activity signs are suppressed except Meet Mara. Queue guidance follows acceptance, other task signs follow relevant progress.
+
+**Source:** Tania: ok well go ahead with all that please, following role recovery and request for explicit Carolan-grounded teaching and understanding checks.
+
+**Next:** Tania review the local welcome flyover and landing. Public release and physical-device/student acceptance remain pending.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Local cast integrated; browser/phone and publication acceptance pending.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Curriculum and reciprocal mappings — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Year plan and assessment — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending / Local cast integrated; browser/phone and publication acceptance pending.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending / Local cast integrated; browser/phone and publication acceptance pending.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Decisions and superseded rules — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending / Local cast integrated; browser/phone and publication acceptance pending.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+### Avatar and wardrobe references — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: docs/production/world-market-framework-20260925.md. Owner: Codex — existing Carolan integration task.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / Existing canonical records updated with actual source chains, implementation and limits.
+
+- [Evidence](private/production-evidence/2026-09-27/opportunities/)
+
+Next: Tania review of local preview8797; physical-device/student acceptance and publication remain pending.
+
+## CE-CHANGE-20260927-98 — Restore smooth player travel and animation synchronisation
+
+Integration: **in-progress**. Types: implementation, avatar. Owner: Codex movement repair; Tania visual acceptance.
+
+**Objective:** Repair walking without reverting current world, helpers or NPC work.
+
+**Before:** Fixed walk playback independent of speed; render frames without physics steps reset locomotion; frame-dependent turning.
+
+**Required result:** Approved repair live via PR41 merge bc954a9; Pages36297400819 success; five public hashes match and desktop/phone-layout walking passes with zero stale shadows/errors. World/helpers/NPC assets preserved. Full-suite limitations documented.
+
+**Source:** Tania explicitly requests diagnosis against repository history, movement repair and playable testing on 27 September 2026.
+
+**Next:** Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+- [Evidence](private/production-evidence/2026-09-27/avatar-travel/verification.json)
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+- [Evidence](private/production-evidence/2026-09-27/avatar-travel/verification.json)
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Player Journey and worked example — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Curriculum and reciprocal mappings — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Year plan and assessment — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### World, rewards and progression — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Buildings and places — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Source library, terminology and rationale — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Look and feel — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+### Avatar and wardrobe references — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: docs/production/avatar-travel-20260927.md. Owner: Codex movement repair; Tania visual acceptance.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: pending / Live game and scoped repair verified in avatar-travel-20260927.md; this downstream surface reconciliation remains pending.
+
+
+Next: Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+
+## CE-CHANGE-20260928-98 — Optional companion or journal guidance
+
+Integration: **complete**. Types: implementation, decision, release. Owner: Codex guidance-choice task.
+
+**Objective:** Students questioned whether cute companions suit17-year-olds. Tania approves an opening choice: No companion; Friendly creature then existing seven portraits; Phone/journal. Same guidance, learning and rewards; change preference later. No new mascot/device artwork. Publish bounded game update after checks, preserving live PR41 travel fix and separate unpublished opportunities work.
+
+**Before:** Creature selection required at entry.
+
+**Required result:** Published three-mode guidance with shared task state and selected-only creature loading; verified live desktop/390px.
+
+**Source:** Current explicit Tania approval on28September2026
+
+**Next:** Retain this bounded release and its known baseline Chapel limitation; separate Blueprint reader and physical-device/student acceptance remain outstanding.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: passed / Recorded actual approved behaviour, Git release, public hashes/browser evidence and remaining CI/device/reader limits in canonical source and local generated records.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Priorities and linked execution tasks — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: passed / Preserved existing scoped records and assets; no change to curriculum, assessment, teachers, buildings or media.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: passed / Recorded actual approved behaviour, Git release, public hashes/browser evidence and remaining CI/device/reader limits in canonical source and local generated records.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: passed / Recorded actual approved behaviour, Git release, public hashes/browser evidence and remaining CI/device/reader limits in canonical source and local generated records.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: passed / Recorded actual approved behaviour, Git release, public hashes/browser evidence and remaining CI/device/reader limits in canonical source and local generated records.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Publication verification — updated
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: passed / Recorded actual approved behaviour, Git release, public hashes/browser evidence and remaining CI/device/reader limits in canonical source and local generated records.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: passed / Recorded actual approved behaviour, Git release, public hashes/browser evidence and remaining CI/device/reader limits in canonical source and local generated records.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: passed / Recorded actual approved behaviour, Git release, public hashes/browser evidence and remaining CI/device/reader limits in canonical source and local generated records.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: passed / Preserved existing scoped records and assets; no change to curriculum, assessment, teachers, buildings or media.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: passed / Recorded actual approved behaviour, Git release, public hashes/browser evidence and remaining CI/device/reader limits in canonical source and local generated records.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: passed / Preserved existing scoped records and assets; no change to curriculum, assessment, teachers, buildings or media.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: passed / Preserved existing scoped records and assets; no change to curriculum, assessment, teachers, buildings or media.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Decisions and superseded rules — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: passed / Recorded actual approved behaviour, Git release, public hashes/browser evidence and remaining CI/device/reader limits in canonical source and local generated records.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Curriculum and reciprocal mappings — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: passed / Preserved existing scoped records and assets; no change to curriculum, assessment, teachers, buildings or media.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: passed / Recorded actual approved behaviour, Git release, public hashes/browser evidence and remaining CI/device/reader limits in canonical source and local generated records.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Year plan and assessment — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: passed / Preserved existing scoped records and assets; no change to curriculum, assessment, teachers, buildings or media.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### World, rewards and progression — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: passed / Preserved existing scoped records and assets; no change to curriculum, assessment, teachers, buildings or media.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Buildings and places — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: passed / Preserved existing scoped records and assets; no change to curriculum, assessment, teachers, buildings or media.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Avatar and wardrobe references — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: passed / Preserved existing scoped records and assets; no change to curriculum, assessment, teachers, buildings or media.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Look and feel — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: passed / Preserved existing scoped records and assets; no change to curriculum, assessment, teachers, buildings or media.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Records: CE-CHANGE-20260928-98, docs/production/guidance-choice-20260928.md. Owner: Codex guidance-choice task.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: passed / Preserved existing scoped records and assets; no change to curriculum, assessment, teachers, buildings or media.
+
+- [Evidence](docs/production/guidance-choice-20260928.md)
+- [Evidence](private/production-evidence/2026-09-28/guidance/validation-status.json)
+
+Next: Retain scoped evidence; broader acceptance and reader publication remain separate.
+
+## CE-CHANGE-20260929-99 — Avatar Studio visual quality upgrade
+
+Integration: **in-progress**. Types: implementation, visual, avatar, decision. Owner: Codex Avatar Studio quality task.
+
+**Objective:** Upgrade existing fitted assets and coherent mix-and-match range without rebuilding the rig.
+
+**Before:** Four occupational tops/pants and four hair/shoe styles with limited surface definition.
+
+**Required result:** 30 local wardrobe choices with retained rig and original assets, lighter shared material variants, sampled fit and scoped browser proof.
+
+**Source:** Tania explicit request 29 September 2026
+
+**Next:** Review appearance in local six-look gallery; publication and physical-device/student acceptance remain separate.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+The boundedAvatarQualityWorkstream records this explicitly requested side work; the existing teaching/opening milestone remains authoritative.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: The boundedAvatarQualityWorkstream records this explicitly requested side work; the existing teaching/opening milestone remains authoritative.
+
+Verification: passed / The boundedAvatarQualityWorkstream records this explicitly requested side work; the existing teaching/opening milestone remains authoritative.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+CE-ART-01 now reflects the working rig and this verified local quality candidate, replacing its obsolete18September pending integration wording.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: CE-ART-01 now reflects the working rig and this verified local quality candidate, replacing its obsolete18September pending integration wording.
+
+Verification: passed / CE-ART-01 now reflects the working rig and this verified local quality candidate, replacing its obsolete18September pending integration wording.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+CE-CHANGE-20260929-99 records user authorisation, retained systems, new variants, corrections and evidence limits.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: CE-CHANGE-20260929-99 records user authorisation, retained systems, new variants, corrections and evidence limits.
+
+Verification: passed / CE-CHANGE-20260929-99 records user authorisation, retained systems, new variants, corrections and evidence limits.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Canonical and game AGENTS.md point to the scoped candidate and preserve the concurrent opening-recovery owner.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: Canonical and game AGENTS.md point to the scoped candidate and preserve the concurrent opening-recovery owner.
+
+Verification: passed / Canonical and game AGENTS.md point to the scoped candidate and preserve the concurrent opening-recovery owner.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+The export list includes the new Avatar Studio report and generates its local reader view.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: The export list includes the new Avatar Studio report and generates its local reader view.
+
+Verification: passed / The export list includes the new Avatar Studio report and generates its local reader view.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending /
+
+
+Next: No public release requested or performed; review appearance and separately authorise publication before a release claim.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Local assets, exact source hashes, exported weights and sampled finite-edge diagnostics are recorded in the evidence folder.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: Local assets, exact source hashes, exported weights and sampled finite-edge diagnostics are recorded in the evidence folder.
+
+Verification: passed / Local assets, exact source hashes, exported weights and sampled finite-edge diagnostics are recorded in the evidence folder.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Seven browser scenarios cover selection, local saves, retries, undo, phone layouts and return to normal movement.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: Seven browser scenarios cover selection, local saves, retries, undo, phone layouts and return to normal movement.
+
+Verification: passed / Seven browser scenarios cover selection, local saves, retries, undo, phone layouts and return to normal movement.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+No teacher workflow, assessment record, score or curriculum evidence is changed by cosmetic profiles.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: No teacher workflow, assessment record, score or curriculum evidence is changed by cosmetic profiles.
+
+Verification: passed / No teacher workflow, assessment record, score or curriculum evidence is changed by cosmetic profiles.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+All18original inspected assets remain byte-identical; isolated branch and portable patch preserve the verified04ee10c baseline.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: All18original inspected assets remain byte-identical; isolated branch and portable patch preserve the verified04ee10c baseline.
+
+Verification: passed / All18original inspected assets remain byte-identical; isolated branch and portable patch preserve the verified04ee10c baseline.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Actual local outfit screenshots and real model thumbnails replace no approved concept or source image.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: Actual local outfit screenshots and real model thumbnails replace no approved concept or source image.
+
+Verification: passed / Actual local outfit screenshots and real model thumbnails replace no approved concept or source image.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+The localCandidateBatches record links20delivery GLBs with hashes and aliases; source originals remain intact.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: The localCandidateBatches record links20delivery GLBs with hashes and aliases; source originals remain intact.
+
+Verification: passed / The localCandidateBatches record links20delivery GLBs with hashes and aliases; source originals remain intact.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+The local reader report contrasts prior16choices with30choices and shows actual runtime screenshots without claiming final acceptance.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: The local reader report contrasts prior16choices with30choices and shows actual runtime screenshots without claiming final acceptance.
+
+Verification: passed / The local reader report contrasts prior16choices with30choices and shows actual runtime screenshots without claiming final acceptance.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Buildings and places — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+No Studio building geometry, campus layout, place boundaries or environment asset was changed.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: No Studio building geometry, campus layout, place boundaries or environment asset was changed.
+
+Verification: passed / No Studio building geometry, campus layout, place boundaries or environment asset was changed.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Avatar and wardrobe references — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+The existing canonical body/rig/gait is unchanged; fitted derivatives, hair silhouettes, footwear finish and compatibility receipts are explicit.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: The existing canonical body/rig/gait is unchanged; fitted derivatives, hair silhouettes, footwear finish and compatibility receipts are explicit.
+
+Verification: passed / The existing canonical body/rig/gait is unchanged; fitted derivatives, hair silhouettes, footwear finish and compatibility receipts are explicit.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### World, rewards and progression — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+The existing movement system remains; the new outfit walks and runs in the playable world in the scoped browser test.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: The existing movement system remains; the new outfit walks and runs in the playable world in the scoped browser test.
+
+Verification: passed / The existing movement system remains; the new outfit walks and runs in the playable world in the scoped browser test.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Decisions and superseded rules — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Current Tania request explicitly authorises the quality upgrade; it does not imply appearance acceptance or deployment.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: Current Tania request explicitly authorises the quality upgrade; it does not imply appearance acceptance or deployment.
+
+Verification: passed / Current Tania request explicitly authorises the quality upgrade; it does not imply appearance acceptance or deployment.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Curriculum and reciprocal mappings — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+No required SCSA wording, unit order, teaching provision or year-plan allocation changes in this cosmetic task.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: No required SCSA wording, unit order, teaching provision or year-plan allocation changes in this cosmetic task.
+
+Verification: passed / No required SCSA wording, unit order, teaching provision or year-plan allocation changes in this cosmetic task.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Player Journey and worked example — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Independent learning access and optional Studio entry are preserved; no new onboarding requirement is introduced.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: Independent learning access and optional Studio entry are preserved; no new onboarding requirement is introduced.
+
+Verification: passed / Independent learning access and optional Studio entry are preserved; no new onboarding requirement is introduced.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Year plan and assessment — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+No mastery, mark, reward or assessment-evidence rule changes with outfit selection.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: No mastery, mark, reward or assessment-evidence rule changes with outfit selection.
+
+Verification: passed / No mastery, mark, reward or assessment-evidence rule changes with outfit selection.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Only retained project models and the existing local natural-hair builder are used; no new external supplier or generated base avatar.
+
+Records: CE-CHANGE-20260929-99, docs/production/avatar-quality-20260929.md. Owner: Codex Avatar Studio quality task.
+
+Acceptance: Only retained project models and the existing local natural-hair builder are used; no new external supplier or generated base avatar.
+
+Verification: passed / Only retained project models and the existing local natural-hair builder are used; no new external supplier or generated base avatar.
+
+- [Evidence](docs/production/avatar-quality-20260929.md)
+- [Evidence](private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json)
+
+Next: Preserve the documented implementation and its stated verification limits.
+
+## CE-CHANGE-20261001-100 — Opening brief, legacy account trace and every-input security review
+
+Integration: **in-progress**. Types: curriculum, activity, research, progression, security, governance. Owner: Codex opening review; Tania design review.
+
+**Objective:** Produce a concrete coherent opening proposal from verified sources and preserve the review boundary.
+
+**Before:** Opening assets, teaching and current source evidence are dispersed; supplied-choice rehearsal risks being read as independent mastery.
+
+**Required result:** Review-ready brief for four doubles and complete account-linked opening trial, exact curriculum/source/video evidence, inspected legacy economy/dashboard seams, 31 input/action security/lifecycle mappings, and staged production boundary.
+
+**Source:** Tania’s delegated request in thread 01a0f25d-077a-7669-b780-9246e7cca032: review full pertinent Blueprint and actual Carolan content, inspect intro candidates, recommend one connected opening and save a proposal; review only, no game implementation/deployment. Subsequent direct user clarifications relayed by parent: retain older earnings/taxes/community/login/dashboard; check all learner responses; staged production; two 100-minute doubles weekly; February 2027 teaching; end-October opening trial including working login; open flourishing review world; keep going until ready for review.
+
+**Next:** Review the concise Day Zero/Weeks 1–2 brief with Tania: four 100-minute doubles, end-October 2026 complete opening trial with working student login/account progress/teacher dashboard, February 2027 teaching; separate full flourishing synthetic review mode. After direction review, resolve actual account/economy/security feasibility and use rough storyboard → one tested complete example → finish/expand within existing gates. No build, student collection or deployment approved here.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Concise current brief links exact pedagogy/source/legacy/security appendix and staged next action; confirmed timetable and trial requirements reflected.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Concise current brief links exact pedagogy/source/legacy/security appendix and staged next action; confirmed timetable and trial requirements reflected.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Preserve existing strategic phase; add confirmed end-October opening trial and February teaching targets as requirements, gated by feasibility/security and staged direction review.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Preserve existing strategic phase; add confirmed end-October opening trial and February teaching targets as requirements, gated by feasibility/security and staged direction review.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Append CE-CHANGE-20261001-100 without changing older material approvals or unresolved integration records.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Append CE-CHANGE-20261001-100 without changing older material approvals or unresolved integration records.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+AGENTS, README and current-state gain a concise draft handoff, linking proposal and exact source appendix.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: AGENTS, README and current-state gain a concise draft handoff, linking proposal and exact source appendix.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate local records, document views and successor handover after aligning continuity summary, first-session review and timetable wording with the existing opening brief; no publication or uploaded licensed source material.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Regenerate local records and two document views; no publication or uploaded licensed source material.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+No public release is authorised. New local proposal/exports are not live; latest receipt is attributed, fresh parity unavailable.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: No public release is authorised. New local proposal/exports are not live; latest receipt is attributed, fresh parity unavailable.
+
+Verification: pending / Local documentation checks follow; design acceptance remains pending.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Retain local-only status. Do not publish this proposal or claim fresh live parity under the present review instruction.
+
+### Curriculum and reciprocal mappings — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Exact 2027 opening requirements and nested bullets documented; 82/115 ledger and existing course allocations retained unchanged.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Exact 2027 opening requirements and nested bullets documented; 82/115 ledger and existing course allocations retained unchanged.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Draft connects welcome, Market trial, teaching, independent checks and Nora research; no runtime order changes.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Draft connects welcome, Market trial, teaching, independent checks and Nora research; no runtime order changes.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Draft explains focused entry, voluntary walk/skip/help, remembered outcome and provisional lead; no approved branch mechanics inferred.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Draft explains focused entry, voluntary walk/skip/help, remembered outcome and provisional lead; no approved branch mechanics inferred.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Year plan and assessment — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Preserve 19 exact opening rows and later course coverage; two individually checked records with support/transfer distinction, separate money/game output; all capture unverified.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Preserve 19 exact opening rows and later course coverage; two individually checked records with support/transfer distinction, separate money/game output; all capture unverified.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Require working account-linked teacher view for the trial; selected evidence/rubric/support/feedback and exact audience/lifecycle remain proposed; no school process approval assumed.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Require working account-linked teacher view for the trial; selected evidence/rubric/support/feedback and exact audience/lifecycle remain proposed; no school process approval assumed.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Actual Carolan edition/pages and candidate video provenance compared; new source catalogue links to the review documents.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Actual Carolan edition/pages and candidate video provenance compared; new source catalogue links to the review documents.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Decisions and superseded rules — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record confirmed timetable/targets/open review mode as requirements while journey/resource design, mechanisms, starting student-world state and build acceptance remain pending.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Record confirmed timetable/targets/open review mode as requirements while journey/resource design, mechanisms, starting student-world state and build acceptance remain pending.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Full flourishing/everything-accessible synthetic review is a confirmed requirement; current mode is partial; account-linked trial/reward/fund semantics require proof; no new world trigger.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Full flourishing/everything-accessible synthetic review is a confirmed requirement; current mode is partial; account-linked trial/reward/fund semantics require proof; no new world trigger.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Buildings and places — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Retain Sunday Markets and existing research destinations; no new model, building purpose or placement implementation.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Retain Sunday Markets and existing research destinations; no new model, building purpose or placement implementation.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Source inspection and inherited local/live difference documented; no game build, deploy, new feature test or classroom acceptance claimed.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Source inspection and inherited local/live difference documented; no game build, deploy, new feature test or classroom acceptance claimed.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Existing welcome v4 and legacy candidates inspected; files/provenance preserved. Selection is proposed and runtime video installation unperformed.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Existing welcome v4 and legacy candidates inspected; files/provenance preserved. Selection is proposed and runtime video installation unperformed.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+- [Evidence](private/governance/steward-check-20261010.md)
+
+Next: Existing welcome v4 was reportedly retrieved to Library; retain pending listening/sync/device checks and paused creation/integration.
+
+### Look and feel — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Reuse existing cast/images and propose later original diagrams; no commissioned art, source-image redistribution or new visual acceptance.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Reuse existing cast/images and propose later original diagrams; no commissioned art, source-image redistribution or new visual acceptance.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### School security, privacy & WA assessment readiness — updated
+
+[Open section](/career-empire-blueprint/production/wa-assessment-route.html)
+
+Map 31 input/action families to exact WA questions/data cells, separate source-only checks from FAIL/UNVERIFIED, preserve all formal questionnaire/control readiness; no security implementation.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Map 31 input/action families to exact WA questions/data cells, separate source-only checks from FAIL/UNVERIFIED, preserve all formal questionnaire/control readiness; no security implementation.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Trace existing local note receipt/export/versions and legacy deactivate/delete limits; identify alternate/shared-device, interrupted/duplicate save and full lifecycle/restore proof pending.
+
+Records: CE-CHANGE-20261001-100, docs/production/opening-plan-20261001.md, docs/production/opening-review-evidence-20261001.md. Owner: Codex opening review; Tania design review.
+
+Acceptance: Trace existing local note receipt/export/versions and legacy deactivate/delete limits; identify alternate/shared-device, interrupted/duplicate save and full lifecycle/restore proof pending.
+
+Verification: passed / Documentation/source audit: actual source paths, original workbook hash/question text, complete handling register and unchanged curriculum/game files. This verifies written findings/mappings only, not implementation, control acceptance, live readiness or classroom use.
+
+- [Evidence](docs/production/opening-plan-20261001.md)
+- [Evidence](docs/production/opening-review-evidence-20261001.md)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/source-review.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/video-inventory.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/integration-sources.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json)
+- [Evidence](private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md)
+
+Next: Tania reviews consolidated brief; execute only the next approved bounded stage with account/security proof pending.
+
+## CE-CHANGE-20261004-101 — Discovery first: The Unexpected Arrival — bounded local review
+
+Integration: **in-progress**. Types: decision, activity, visual, implementation, progression, security, building, release, avatar. Owner: Codex local discovery review; Tania visual acceptance.
+
+**Objective:** Ready existing avatar, parcel picture clue, respectful Chapel visit, existing mural close observation, oval film reveal and silent avatar souvenir. No curriculum mastery, grade or wage effect.
+
+**Before:** Welcome/course/helper menus precede playable discovery.
+
+**Required result:** PR45 exploration and PR46 named avatars are published in the existing game at 400286972404f781b82a5f3a17ba001bb0602121. Steward verified remote main and successful Pages run38153838964; hosted CI38153839163 failed. Source receipts report public journey, saved-state and eight-avatar checks; physical-device/Tania acceptance remains open. A separate cold-start candidate is uncommitted and not deployed. Blueprint publication remains behind.
+
+**Source:** Tania approval relayed by source thread 01a0f25d-077a-7669-b780-9246e7cca032, Oct4 Sentinel_c569bfed4060819196aee5687e309db6; discovery first before Week0/1.
+
+**Next:** Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Purpose, current direction, status and next action must agree with the change.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261009.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Curriculum and reciprocal mappings — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Activities and learning flow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Player Journey and worked example — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Year plan and assessment — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Teacher/classroom workflow — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### World, rewards and progression — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Update consequences, access/unlocks, economy/community rules, recovery and dependent places.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Buildings and places — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261009.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Avatar and wardrobe references — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Integrate exact approved originals and representative PR46 screenshot/clip pair into every current gallery/register; no older image becomes current by changing its caption. Keep physical-device and Tania acceptance separate.
+
+### Look and feel — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261009.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Integrate exact approved originals and representative PR46 screenshot/clip pair into every current gallery/register; no older image becomes current by changing its caption. Keep physical-device and Tania acceptance separate.
+
+### Visual/asset register and production brief — pending
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Integrate exact approved originals and representative PR46 screenshot/clip pair into every current gallery/register; no older image becomes current by changing its caption. Keep physical-device and Tania acceptance separate.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261009.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261009.md)
+- [Evidence](private/governance/steward-check-20261010.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Source library, terminology and rationale — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261009.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Integrate exact approved originals and representative PR46 screenshot/clip pair into every current gallery/register; no older image becomes current by changing its caption. Keep physical-device and Tania acceptance separate.
+
+### School security, privacy & WA assessment readiness — pending
+
+[Open section](/career-empire-blueprint/production/wa-assessment-route.html)
+
+Screen every trigger against WA questionnaire IDs; distinguish verified answers from implementation controls; update Department and school permissions, evidence and critical remediation. ST4S remains reference; CEWA deferred.
+
+Records: CE-CHANGE-20261004-101. Owner: Codex local discovery review; Tania visual acceptance.
+
+Acceptance: Screen every trigger against WA questionnaire IDs; distinguish verified answers from implementation controls; update Department and school permissions, evidence and critical remediation. ST4S remains reference; CEWA deferred.
+
+Verification: pending / October12 source and remote evidence recorded; current desktop/mobile reader and full integration review remain pending.
+
+- [Evidence](docs/production/discovery-opening-20261004.md)
+- [Evidence](private/governance/steward-check-20261012.md)
+
+Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+## CE-CHANGE-20261012-102 — Current Blueprint publication preparation
+
+Integration: **in-progress**. Types: governance, release. Owner: Codex Blueprint preparation; parent task provides accepted game release identity.
+
+**Objective:** Prepare the current authored planning snapshot and correct validation mechanics while holding public release for accepted game evidence.
+
+**Before:** Public V2.23 is dated September25; October local work, unresolved source validation and new game pushes require accurate release reconciliation.
+
+**Required result:** Recoverable backup, preserved source notes, honest WA mapping and retained decision proof; dated draft reader prepared locally, with publication pending accepted game receipt.
+
+**Source:** Tania explicit backup/publication approval and October12 13:12 wait-for-game-release instruction.
+
+**Next:** Complete actual source/reader checks and record evidence; publish only after the accepted game source and release receipt are reconciled.
+
+### Start Here — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20261012-102. Owner: Codex Blueprint preparation; parent verifies game release.
+
+Acceptance: Accurate candidate source and reader scope with preserved draft/uncertainty boundaries; exact game release and publication independently verified when authorised timing is met.
+
+Verification: pending /
+
+- [Evidence](docs/production/blueprint-publication-20261012.md)
+
+Next: Complete actual source/reader checks and record evidence; publish only after the accepted game source and release receipt are reconciled.
+
+### Priorities and linked execution tasks — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20261012-102. Owner: Codex Blueprint preparation; parent verifies game release.
+
+Acceptance: Accurate candidate source and reader scope with preserved draft/uncertainty boundaries; exact game release and publication independently verified when authorised timing is met.
+
+Verification: pending /
+
+- [Evidence](docs/production/blueprint-publication-20261012.md)
+
+Next: Complete actual source/reader checks and record evidence; publish only after the accepted game source and release receipt are reconciled.
+
+### Material changes and history — pending
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20261012-102. Owner: Codex Blueprint preparation; parent verifies game release.
+
+Acceptance: Accurate candidate source and reader scope with preserved draft/uncertainty boundaries; exact game release and publication independently verified when authorised timing is met.
+
+Verification: pending /
+
+- [Evidence](docs/production/blueprint-publication-20261012.md)
+
+Next: Complete actual source/reader checks and record evidence; publish only after the accepted game source and release receipt are reconciled.
+
+### Workflows and handoff — pending
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20261012-102. Owner: Codex Blueprint preparation; parent verifies game release.
+
+Acceptance: Accurate candidate source and reader scope with preserved draft/uncertainty boundaries; exact game release and publication independently verified when authorised timing is met.
+
+Verification: pending /
+
+- [Evidence](docs/production/blueprint-publication-20261012.md)
+
+Next: Complete actual source/reader checks and record evidence; publish only after the accepted game source and release receipt are reconciled.
+
+### Generated views and downloads — pending
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20261012-102. Owner: Codex Blueprint preparation; parent verifies game release.
+
+Acceptance: Accurate candidate source and reader scope with preserved draft/uncertainty boundaries; exact game release and publication independently verified when authorised timing is met.
+
+Verification: pending /
+
+- [Evidence](docs/production/blueprint-publication-20261012.md)
+
+Next: Complete actual source/reader checks and record evidence; publish only after the accepted game source and release receipt are reconciled.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20261012-102. Owner: Codex Blueprint preparation; parent verifies game release.
+
+Acceptance: Accurate candidate source and reader scope with preserved draft/uncertainty boundaries; exact game release and publication independently verified when authorised timing is met.
+
+Verification: pending /
+
+- [Evidence](docs/production/blueprint-publication-20261012.md)
+
+Next: Complete actual source/reader checks and record evidence; publish only after the accepted game source and release receipt are reconciled.
+
+### Implementation and test evidence — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20261012-102. Owner: Codex Blueprint preparation; parent verifies game release.
+
+Acceptance: Accurate candidate source and reader scope with preserved draft/uncertainty boundaries; exact game release and publication independently verified when authorised timing is met.
+
+Verification: pending /
+
+- [Evidence](docs/production/blueprint-publication-20261012.md)
+
+Next: Complete actual source/reader checks and record evidence; publish only after the accepted game source and release receipt are reconciled.
+
+### Recovery and access — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20261012-102. Owner: Codex Blueprint preparation; parent verifies game release.
+
+Acceptance: Accurate candidate source and reader scope with preserved draft/uncertainty boundaries; exact game release and publication independently verified when authorised timing is met.
+
+Verification: pending /
+
+- [Evidence](docs/production/blueprint-publication-20261012.md)
+
+Next: Complete actual source/reader checks and record evidence; publish only after the accepted game source and release receipt are reconciled.
+
+### Source library, terminology and rationale — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Records: CE-CHANGE-20261012-102. Owner: Codex Blueprint preparation; parent verifies game release.
+
+Acceptance: Accurate candidate source and reader scope with preserved draft/uncertainty boundaries; exact game release and publication independently verified when authorised timing is met.
+
+Verification: pending /
+
+- [Evidence](docs/production/blueprint-publication-20261012.md)
+
+Next: Complete actual source/reader checks and record evidence; publish only after the accepted game source and release receipt are reconciled.
+
+### Start Here images and video — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20261012-102. Owner: Codex Blueprint preparation; parent verifies game release.
+
+Acceptance: Accurate candidate source and reader scope with preserved draft/uncertainty boundaries; exact game release and publication independently verified when authorised timing is met.
+
+Verification: pending /
+
+- [Evidence](docs/production/blueprint-publication-20261012.md)
+
+Next: Complete actual source/reader checks and record evidence; publish only after the accepted game source and release receipt are reconciled.
+
+### Decisions and superseded rules — pending
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.
+
+Records: CE-CHANGE-20261012-102. Owner: Codex Blueprint preparation; parent verifies game release.
+
+Acceptance: Accurate candidate source and reader scope with preserved draft/uncertainty boundaries; exact game release and publication independently verified when authorised timing is met.
+
+Verification: pending /
+
+- [Evidence](docs/production/blueprint-publication-20261012.md)
+
+Next: Complete actual source/reader checks and record evidence; publish only after the accepted game source and release receipt are reconciled.
+
+## CE-CHANGE-20261012-103 — Scoped authored WIP design snapshot publication
+
+Integration: **ready-for-publication**. Types: release. Owner: Codex Blueprint snapshot; Tania owns design and later acceptance.
+
+**Objective:** Publish the current authored design for colleagues while exposing remaining work and accurate PR53 game evidence.
+
+**Before:** Public V2.23 datedSeptember25 and older PR46 source pointer; underlying preparation/integration queues unfinished.
+
+**Required result:** Dated WIP reader with accepted PR53 opening, failed/unrun checks and draft teaching boundaries; final publication separately verified.
+
+**Source:** Tania explicit blueprint next instruction after live opening acceptance, with exact parent release receipt.
+
+**Next:** Save reviewed source, execute unchanged guarded Pages build, push the generated public snapshot via existing owner access, then independently verify deployment and served receipt. Do not promote record102 or underlying draft work.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Purpose, current direction, status and next action must agree with the change.
+
+Records: CE-CHANGE-20261012-103. Owner: Codex scoped WIP publication reviewer.
+
+Acceptance: The current authored snapshot states the exact PR53 receipt, draft/no-mastery boundaries and remaining work; no underlying product or teacher-program integration is declared complete.
+
+Verification: passed / Actual rebuilt Start Here at1280x900 and390x844; source-derived V2.24/date and exact PR53 receipt/failed-unrun checks visible. Width1265/375 within viewport. This is the authored WIP snapshot, not whole-game acceptance.
+
+- [Evidence](docs/production/ecc-release-blueprint-20261012.md)
+- [Evidence](private/production-evidence/2026-10-13/blueprint-snapshot/reader-checks.json)
+
+Next: Continue underlying unfinished design/game/security tasks separately; scoped snapshot surface checks are recorded.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.
+
+Records: CE-CHANGE-20261012-103. Owner: Codex scoped WIP publication reviewer.
+
+Acceptance: The current authored snapshot states the exact PR53 receipt, draft/no-mastery boundaries and remaining work; no underlying product or teacher-program integration is declared complete.
+
+Verification: passed / Read phone Work/Handover and successor continuity/current next step; aligned superseded year-map-first prose with current productionPlan.next. Timetable/source pointers, backlog and independent publication boundary retained.
+
+- [Evidence](docs/production/ecc-release-blueprint-20261012.md)
+- [Evidence](private/production-evidence/2026-10-13/blueprint-snapshot/reader-checks.json)
+
+Next: Continue underlying unfinished design/game/security tasks separately; scoped snapshot surface checks are recorded.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.
+
+Records: CE-CHANGE-20261012-103. Owner: Codex scoped WIP publication reviewer.
+
+Acceptance: The current authored snapshot states the exact PR53 receipt, draft/no-mastery boundaries and remaining work; no underlying product or teacher-program integration is declared complete.
+
+Verification: passed / Checked original retention tests:82points/115details, original17decisions and baseline14experiences, plus exact authorised Echo amendment. Dated source/media history retained;102 and older integrations remain unfinished.
+
+- [Evidence](docs/production/ecc-release-blueprint-20261012.md)
+- [Evidence](private/production-evidence/2026-10-13/blueprint-snapshot/reader-checks.json)
+
+Next: Continue underlying unfinished design/game/security tasks separately; scoped snapshot surface checks are recorded.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.
+
+Records: CE-CHANGE-20261012-103. Owner: Codex scoped WIP publication reviewer.
+
+Acceptance: The current authored snapshot states the exact PR53 receipt, draft/no-mastery boundaries and remaining work; no underlying product or teacher-program integration is declared complete.
+
+Verification: passed / Reviewed AGENTS,README,operating protocol and successor instructions with exact PR53 and separate snapshot record103. Corrected two100-minute weekly/four acrossWeeks1-2 wording; normal source/export/guard/publication protocol unchanged.
+
+- [Evidence](docs/production/ecc-release-blueprint-20261012.md)
+- [Evidence](private/production-evidence/2026-10-13/blueprint-snapshot/reader-checks.json)
+
+Next: Continue underlying unfinished design/game/security tasks separately; scoped snapshot surface checks are recorded.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.
+
+Records: CE-CHANGE-20261012-103. Owner: Codex scoped WIP publication reviewer.
+
+Acceptance: The current authored snapshot states the exact PR53 receipt, draft/no-mastery boundaries and remaining work; no underlying product or teacher-program integration is declared complete.
+
+Verification: passed / npm run records and export parity/full100tests passed; downloaded public record equals source export. Actual year/experience reciprocal link, curriculum search/detail and receipt/opening document links inspected; no private payload uploaded.
+
+- [Evidence](docs/production/ecc-release-blueprint-20261012.md)
+- [Evidence](private/production-evidence/2026-10-13/blueprint-snapshot/reader-checks.json)
+
+Next: Continue underlying unfinished design/game/security tasks separately; scoped snapshot surface checks are recorded.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.
+
+Records: CE-CHANGE-20261012-103. Owner: Codex scoped WIP publication reviewer.
+
+Acceptance: The current authored snapshot states the exact PR53 receipt, draft/no-mastery boundaries and remaining work; no underlying product or teacher-program integration is declared complete.
+
+Verification: pending /
+
+- [Evidence](docs/production/ecc-release-blueprint-20261012.md)
+
+Next: Push only the guarded generated public commit to existing main without force; independently verify Pages success, sourceCommit/record hash and affected live reader routes before closure.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.
+
+Records: CE-CHANGE-20261012-103. Owner: Codex scoped WIP publication reviewer.
+
+Acceptance: The current authored snapshot states the exact PR53 receipt, draft/no-mastery boundaries and remaining work; no underlying product or teacher-program integration is declared complete.
+
+Verification: passed / Actual static Pages preview built from prepared current source;100tests and TypeScript passed. Inspectable desktop/phone behavior recorded. Final guarded Pages build and exact sourceCommit manifest follow source save; no deployment is inferred.
+
+- [Evidence](docs/production/ecc-release-blueprint-20261012.md)
+- [Evidence](private/production-evidence/2026-10-13/blueprint-snapshot/reader-checks.json)
+
+Next: Continue underlying unfinished design/game/security tasks separately; scoped snapshot surface checks are recorded.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Update exact source location, account/permissions, restore limitations and reproducible resume steps.
+
+Records: CE-CHANGE-20261012-103. Owner: Codex scoped WIP publication reviewer.
+
+Acceptance: The current authored snapshot states the exact PR53 receipt, draft/no-mastery boundaries and remaining work; no underlying product or teacher-program integration is declared complete.
+
+Verification: passed / Complete owner backup previously matched6592file hashes and12restore samples; public base dcc8aaa reconstructed with exact Git object hashes/fsck. Original master and backup remain unchanged; same-disk/access/drill limits remain explicit.
+
+- [Evidence](docs/production/ecc-release-blueprint-20261012.md)
+- [Evidence](private/production-evidence/2026-10-13/blueprint-snapshot/reader-checks.json)
+
+Next: Continue underlying unfinished design/game/security tasks separately; scoped snapshot surface checks are recorded.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Update source links/version, research attribution, terminology conflicts and which claims are supported.
+
+Records: CE-CHANGE-20261012-103. Owner: Codex scoped WIP publication reviewer.
+
+Acceptance: The current authored snapshot states the exact PR53 receipt, draft/no-mastery boundaries and remaining work; no underlying product or teacher-program integration is declared complete.
+
+Verification: passed / Actual source catalogue and current PR53 receipt/opening proposal rendered, current two100-minute timetable and draft/no-student-trial boundaries retained. Original licensed Carolan PDFs remain private; external publications were not all rechecked.
+
+- [Evidence](docs/production/ecc-release-blueprint-20261012.md)
+- [Evidence](private/production-evidence/2026-10-13/blueprint-snapshot/reader-checks.json)
+
+Next: Continue underlying unfinished design/game/security tasks separately; scoped snapshot surface checks are recorded.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.
+
+Records: CE-CHANGE-20261012-103. Owner: Codex scoped WIP publication reviewer.
+
+Acceptance: The current authored snapshot states the exact PR53 receipt, draft/no-mastery boundaries and remaining work; no underlying product or teacher-program integration is declared complete.
+
+Verification: passed / Four representative retained images actually loaded on desktop; source dates, concept/built-candidate limits and captions distinguish historical evidence from PR53. No new game screenshots or all-gallery integration claimed.
+
+- [Evidence](docs/production/ecc-release-blueprint-20261012.md)
+- [Evidence](private/production-evidence/2026-10-13/blueprint-snapshot/reader-checks.json)
+
+Next: Continue underlying unfinished design/game/security tasks separately; scoped snapshot surface checks are recorded.
 
 ## Historical boundary
 

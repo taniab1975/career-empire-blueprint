@@ -2986,6 +2986,132 @@
         }
       ],
       "approval": "Not final fit or production accepted; no release requested"
+    },
+    {
+      "id": "CE-AVATAR-QUALITY-20260929",
+      "revision": 1,
+      "status": "local-implemented-verified-samples-awaiting-appearance-review",
+      "documentation": "docs/production/avatar-quality-20260929.md",
+      "sourceReceipt": "private/production-evidence/2026-09-29/avatar-quality/runtime-asset-manifest.json",
+      "approval": "Implementation requested by Tania; final appearance and publication not accepted",
+      "assets": [
+        {
+          "id": "CE-AVATAR-QUALITY-0",
+          "file": "public/evidence/avatar-quality-20260929/look-0.png",
+          "sha256": "6615f239c65e5aa3bd2e286ba161dae2a930bdb34d5c599e7e5523df212e1c11",
+          "bytes": 214457,
+          "source": "Actual local Three.js runtime screenshot of retained avatar and fitted wardrobe"
+        },
+        {
+          "id": "CE-AVATAR-QUALITY-1",
+          "file": "public/evidence/avatar-quality-20260929/look-2.png",
+          "sha256": "f7a5b909189ec06c6e69b7e50473a240062c941e25935401ba88d01dab41d282",
+          "bytes": 222943,
+          "source": "Actual local Three.js runtime screenshot of retained avatar and fitted wardrobe"
+        }
+      ],
+      "runtimeFiles": [
+        {
+          "file": "playable-3d/assets/quality/hair-afro.glb",
+          "sha256": "b4ef43ff41db609ff860b850a6957f9e67ba4e46d2739b8db7b13135c79c1cbf",
+          "bytes": 850208
+        },
+        {
+          "file": "playable-3d/assets/quality/hair-bob.glb",
+          "sha256": "b26848c44520b967d6b89b2f3a3084b3965940dc930f7e623382ca65fd798c7a",
+          "bytes": 340952
+        },
+        {
+          "file": "playable-3d/assets/quality/hair-bun.glb",
+          "sha256": "56b0e720b7afa3b90ce3dea5fc87381a6c37665f4c42ed35071d3968d600a99d",
+          "bytes": 546372
+        },
+        {
+          "file": "playable-3d/assets/quality/hair-crop.glb",
+          "sha256": "eef0d7edb917ab74136acd7329c995dc0dd7cb7e4374f56267df501a514ec7fb",
+          "bytes": 340956
+        },
+        {
+          "file": "playable-3d/assets/quality/hair-curls.glb",
+          "sha256": "bb71d54bbc519bef3d174d920742a2999ef233d3bb1ee64b54e0541c7a32c706",
+          "bytes": 850200
+        },
+        {
+          "file": "playable-3d/assets/quality/hair-ponytail.glb",
+          "sha256": "ce5cc2d7cd5283324b59c2b2541f692aaec60682259f3f99a2d74612ec9a40e5",
+          "bytes": 561640
+        },
+        {
+          "file": "playable-3d/assets/quality/hair-sweep.glb",
+          "sha256": "ab3e63934e1a71c5c1bf2a867eaa63f5f65b5c00fac79fc40a11c3bead22855e",
+          "bytes": 340960
+        },
+        {
+          "file": "playable-3d/assets/quality/hair-waves.glb",
+          "sha256": "9aab97c36a5a6c5197f427f1b75dde65af1188775489eb6656a0f524644d2a1c",
+          "bytes": 340964
+        },
+        {
+          "file": "playable-3d/assets/quality/pants-denim.glb",
+          "sha256": "ac88e986eae367c0813b8e07439ecebdcd9e11c2874f0a29d056ed621e391fc8",
+          "bytes": 633076
+        },
+        {
+          "file": "playable-3d/assets/quality/pants-shorts.glb",
+          "sha256": "40cf803a056911298ece993357768acfb33c7565c4698b70abaf487d250f4ce4",
+          "bytes": 436328
+        },
+        {
+          "file": "playable-3d/assets/quality/pants-skirt.glb",
+          "sha256": "db3b640c368e3ab4dd284e8be0a11fa66e36c93d78b53c00de8b07d66466dc18",
+          "bytes": 460728
+        },
+        {
+          "file": "playable-3d/assets/quality/shoes-boots.glb",
+          "sha256": "63d167fa5fea6083a36d1c4cc178dde9808638dee91dc0375af72ff411a89455",
+          "bytes": 2127668
+        },
+        {
+          "file": "playable-3d/assets/quality/shoes-canvas.glb",
+          "sha256": "ec43443128d149fcea398d9116cdb3c90a15ac69964825189b5b747e500d59bc",
+          "bytes": 1700092
+        },
+        {
+          "file": "playable-3d/assets/quality/shoes-clogs.glb",
+          "sha256": "4cebd547a8daad4404e8ea0b10f0874bef25b15d09a30d76cde3bb32d07479d4",
+          "bytes": 1642016
+        },
+        {
+          "file": "playable-3d/assets/quality/shoes-dress.glb",
+          "sha256": "9d02c8be2b1fff4ddb549fa9431bc926aae87744e858c5d34c0c08b656a0aaed",
+          "bytes": 1832604
+        },
+        {
+          "file": "playable-3d/assets/quality/shoes-loafers.glb",
+          "sha256": "8f0de9aa2e2d3a915e236aa0e9271b53676cb27c513e97dde48e97dbe6ff30b9",
+          "bytes": 1530496
+        },
+        {
+          "file": "playable-3d/assets/quality/shoes-trainers.glb",
+          "sha256": "7e65f8de870f8fe7020ff35720ab811938fbdf31a1628c91580e69856d9ec173",
+          "bytes": 1956832
+        },
+        {
+          "file": "playable-3d/assets/quality/top-oxford.glb",
+          "sha256": "1dfc9050a439bd3c9113da189db50a61215e7c88bff37f4814eb60c87c6474e0",
+          "bytes": 1145936
+        },
+        {
+          "file": "playable-3d/assets/quality/top-pullover.glb",
+          "sha256": "2b2f0797a6f94735ebb78ff9750110f72f611fc3c338c9671659fd5c96e34a9c",
+          "bytes": 1199540
+        },
+        {
+          "file": "playable-3d/assets/quality/top-tee.glb",
+          "sha256": "6314ff3ef5df19b437c1bc74e3c8b7315a741bf3e92e8bd190ceec53ea770248",
+          "bytes": 905020
+        }
+      ]
     }
   ]
 }

@@ -1,5 +1,43 @@
 # Career Empire continuous Blueprint safeguards
 
+## Latest monitoring checkpoint — 10 October 2026
+
+New source evidence: screenshot staging blocked by full disk; current df reports820MiB free. No cleanup authorised or performed. Existing welcome v4 retrieval recorded without film/game acceptance. Current milestone, route and publication boundaries unchanged. Source/visual/discovery notes updated; exact checks and coverage in private/governance/steward-check-20261010.md.
+
+## Monitoring checkpoint — 9 October 2026
+
+Reconciled new mural/phone source evidence into existing record101 and affected reader/visual/building evidence and handoff, without approval inference. Separate review preview is unpublished; source-task denial requires trusted direct authority, not a workaround. Blueprint remainsV2.23; aggregate DSE1 and coverage/integration gaps persist. Exact checks: private/governance/steward-check-20261009.md.
+
+## Monitoring checkpoint — 8 October 2026
+
+Reconciled final7 October QA evidence into the existing discovery record and affected current-reader/handover surfaces. The source editing note had stopped before the QA owner's final result. Saved Chapel/Mystery/Comedy images inspected; local checks are not user acceptance, school readiness or publication. Public manifest remainsV2.23; DSE1 and incomplete integration/coverage remain blocked. Exact evidence and validation: private/governance/steward-check-20261008.md.
+
+## Monitoring checkpoint — 7 October 2026
+
+Detected stale discovery reader exports after the source task's 5–6 October feedback revisions. Refreshed the existing record101 follow-up and visual register to preserve the need for new playback/phone evidence, not reuse old screenshots as acceptance. Public manifest remains V2.23; game main remains04ee10c. Record97 DSE1, pending integrations, protection drift and isolated-prototype coverage remain unresolved. No game/asset production or publication. Verification is in the private 7 October checkpoint.
+
+## Monitoring checkpoint — 5 October 2026
+
+Validation also caught an omitted curriculum-first loading roadmap document and stale hard-coded Start Here timetable. Both documents now regenerate; Start Here reads the canonical two100-minute values. Seven continuity tests, export parity and TypeScript pass. Discovery document desktop/phone checks succeeded; Start Here phone capture remains a limited check. No full-suite, student-trial or release acceptance.
+
+Found and repaired record101's missing generated discovery-review page; added continuity regression coverage for missing current-step/roadmap document targets. Existing next action and visual register now point to local review, not fresh implementation or live acceptance. Public manifest remains V2.23 and differs from the candidate. Opening scan:282pending intake,44incomplete integrations,14protection failures across15folders; record97 DSE1 remains unresolved. The isolated discovery tree is not explicitly registered and its linked Git metadata does not establish coverage. No publication or game production. Exact verification and remaining reader/access limits are in the private 5 October checkpoint.
+
+## Monitoring checkpoint — 4 October 2026
+
+Resumed 2 October monitoring. Aligned successor guidance with the existing opening brief and confirmed two100-minute doubles, preserving review-only/no-build boundaries. Refreshing generated exports also resolves the stale visual register. Initial scan completed needs-attention:278pending observations,43incomplete integrations,14protection failures across15folders. Record97's missing DSE1 mapping remains a blocker. Live manifest/API access failed; no fresh publication parity, cloud-account or remote-CI verification is claimed. No publication. Earlier checkpoints below are historical.
+
+## Monitoring checkpoint — 1 October 2026
+
+Existing integration records95/97 now identify their established Carolan task owner instead of the insufficient generic label. Approval/completion status is unchanged. Exports regenerated, including the stale garment proof; continuity, six scoped tests and export parity pass. The remaining impact-validation blocker is an unmapped data-processing trigger in record97 (WA question DSE1), requiring evidence-backed review. Opening scan:275pending observations,42incomplete integrations,14protection failures across15folders. Published Start Here inspected at1280/390px still differs from the local next action; no reader release or full visual acceptance. Local coverage is not cloud-account or remote-CI coverage. Exact reviewed publication remains unauthorised. Earlier checkpoints below are historical.
+
+## Monitoring checkpoint — 29 September 2026
+
+Continuity, export parity and six targeted tests pass. Scan completes with needs-attention: 268 pending intake observations, 41 incomplete integrations and 14 folders with protection errors. Global impact validation still fails on a missing specific owner explanation. Published V2.23 Start Here was inspected at desktop/mobile widths and still shows the earlier next action; local preview visual comparison remains blocked by connection/navigation failure. Other accounts and remote CI remain unverified; the game identity refresh failed on network access. No new publication authorised or performed. Resolve existing checklist gaps, complete reader comparison, then review the exact candidate for release. Earlier checkpoints below are historical.
+
+## Monitoring checkpoint — 28 September 2026
+
+Continuity check passes, but export parity fails on the world-market framework during active Carolan edits. Let the source owner finish and regenerate before release review. Today's scan invocation was blocked by another scanner; that scanner subsequently released its lock and saved 246 pending intake observations, 41 incomplete integrations and 14 folders with protection errors. Live V2.23 still differs from the local candidate. Other accounts, remote CI and desktop/mobile reader acceptance were not verified in this run. Private detail: `private/governance/steward-check-20260928.md`. Earlier setup checkpoints below are historical, not current production instructions.
+
 **Current checkpoint:** V2.12 publication is independently verified; remote CI is outside required scope. [Release receipt](v212-release-receipt-2026-09-10.md). CE-ENV-01 Stage 1 has begun: [dimensioned layout study](avatar-precinct-layout-stage1-2026-09-10.md). Next is isolated camera/approach review before the textured kit. No kit, finished precinct or live game change is claimed. Earlier pending-publication statements below are historical checkpoints.
 
 **Latest instruction — 10 September 2026:** Tania authorises publication; remote CI/branch-protection activation is not required. Keep local safeguards and independently verify the live release. Then begin CE-ENV-01 at the dimensioned Avatar Studio layout stage, followed separately by kit, Studio, assembled precinct and review. The blazer stays paused. [Scope and sequence](publication-and-production-2026-09-10.md). Earlier pending-authority/remote-blocker statements below are historical checkpoints superseded by CE-CHANGE-20260910-21.
@@ -84,3 +122,6 @@ Initial scans completed across five repositories; a repeated scan reported zero 
 Actual local Start Here and Delivery/roadmap reader checks showed the active local safeguards and remaining cloud/remote blockers. A narrow-layout check reported an actual CSS viewport of 487px (despite requesting a 390px override), with no horizontal overflow; this is not claimed as a verified 390px run. A task screenshot was visually inspected, retaining the approved campus image and clear pending-work disclosure. During these checks, the shared production summary/footer still contained older V2.10 visual-integration wording; both were corrected in canonical operations, along with the new-versus-older teacher-matrix distinction, and a regression assertion was added. No replacement artwork was generated.
 
 No product code, approved visual assets, curriculum, protected decisions or game deployment was changed. Publication needs independent verification. Optional cloud settings and remote CI are outside current completion scope. Review the latest verification receipt and live manifest before making stronger claims.
+## Latest steward checkpoint — 12 October 2026
+
+New source changes detected in Fix mural crossing line, Integrate named student avatars and Playtest the student experience. Existing game PR45/46 publication independently confirmed through remote main and Pages; hosted CI failed. Canonical current records and handoff now separate published game, uncommitted cold-start candidate, historical imagery and unchanged public Blueprint. Reader/image/asset integration remains explicitly incomplete. Disk availability recovered to7.5GiB without steward deletion. Private checkpoint contains exact evidence, checks and coverage; no global reconciliation or publication claim.

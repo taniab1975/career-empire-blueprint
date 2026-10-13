@@ -10,7 +10,7 @@ Target 80–90% perceived hero richness at normal player views. Warm masonry, de
 
 ECC pilot → Avatar Studio exterior → supporting destinations → background by fidelity tier.
 
-This is a local playable iteration and remains below the approved hero reference. Overall architectural and landscape composition, convincing interiors/reflections and natural foliage still need further art work. No 80–90% fidelity, physical-device acceptance, wider rollout or deployment is claimed. Original older three-panel attachments and physical-device tests remain unavailable.
+Historical hero-art assessment: this iteration remained below the approved reference; no physical-device or final art acceptance follows from deployment. October12: eight named whole-character models are published through PR46. Older visual references remain dated concepts/history, not the current avatar roster. Exact current gallery and asset-register integration remains pending; see the discovery release checkpoint. Original three-panel identity and physical-device checks retain their recorded limits.
 
 ## Reusable kit source — CE-ENV-KIT-01
 [Whole-item review](asset-batch-review-2026-09-10.md) includes component parts; no separate wall or flower approvals. Batch 1 now contains ten complete places; review them together.
@@ -109,6 +109,11 @@ Open integration CE-CHANGE-20260910-34: Create the authorised model candidates f
 Open integration CE-CHANGE-20260910-33: Agree environmental language before asset selection Next: Obtain specification agreement; complete affected reader verification before any release
 Open integration CE-CHANGE-20260924-85: Restore the missing integration checklist without converting historical game proof into whole-Blueprint reconciliation. Next: Reconcile outstanding Blueprint surfaces against the dated market release receipt; no new game release.
 Open integration CE-CHANGE-20260924-86: Restore the missing integration checklist without converting historical game proof into whole-Blueprint reconciliation. Next: Reconcile reader surfaces against student-usability receipt; retain hosted timeout and classroom acceptance limits.
+Open integration CE-CHANGE-20260925-93: Orient students to experiential Year 12 learning while preserving agency and the actual playable world. Next: Sharp replacement live via PR38/39, all12changed public files verified; final user tab35FPS at ratio1.5 with no fresh errors.40focused browser scenarios and85units pass; full hosted CI remains unverified. School documents, sustained student-device acceptance and separate public Blueprint reader publication remain pending.
+Open integration CE-CHANGE-20260927-94: Make the actual content taught and its game use traceable, without treating an encounter or reward as mastery. Next: Review the live arrival/Market loop and tighten brief initiative, changing-work and next-opportunity joins; reconcile recovered Week 3 adaptation/finance versus comparison and Week 4 initiative versus applications before connected Weeks 2–4 implementation. Tania is preparing helper/Nora/Dev models separately.
+Open integration CE-CHANGE-20260927-97: Make required concepts learnable and revisitable before or after application, with feedback and revision rather than treating game completion as comprehension. Next: Tania review the local welcome flyover and landing. Public release and physical-device/student acceptance remain pending.
+Open integration CE-CHANGE-20260929-99: Upgrade existing fitted assets and coherent mix-and-match range without rebuilding the rig. Next: Review appearance in local six-look gallery; publication and physical-device/student acceptance remain separate.
+Open integration CE-CHANGE-20261004-101: Ready existing avatar, parcel picture clue, respectful Chapel visit, existing mural close observation, oval film reveal and silent avatar souvenir. No curriculum mastery, grade or wage effect. Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
 
 ## Retained earlier reference family and prompt pack — historical, not a replacement for the current direction
 
@@ -128,7 +133,7 @@ Current amendment: Playable environments follow approved hero art
 Approved governing standard; courtyard iteration below final target
 Target 80–90% perceived hero richness at normal player views. Warm masonry, deep architecture, glass, native planting and believable light. Optimise through engineering, not indiscriminate simplification.
 ECC pilot → Avatar Studio exterior → supporting destinations → background by fidelity tier.
-This is a local playable iteration and remains below the approved hero reference. Overall architectural and landscape composition, convincing interiors/reflections and natural foliage still need further art work. No 80–90% fidelity, physical-device acceptance, wider rollout or deployment is claimed. Original older three-panel attachments and physical-device tests remain unavailable.
+Historical hero-art assessment: this iteration remained below the approved reference; no physical-device or final art acceptance follows from deployment. October12: eight named whole-character models are published through PR46. Older visual references remain dated concepts/history, not the current avatar roster. Exact current gallery and asset-register integration remains pending; see the discovery release checkpoint. Original three-panel identity and physical-device checks retain their recorded limits.
 
 Career Empire should feel like a place a young person wants to step into: recognisable, welcoming and full of possibility. Its people have warmth and personality; its buildings have substance, purpose and life inside them. Contemporary architecture, rich planting, natural materials and carefully placed technology create an optimistic near-future town. The camera brings us close enough to care. Light invites us towards an opportunity; movement makes a discovery feel earned. The world can struggle, recover and flourish without losing its identity. The ambition is the depth, craft and emotional presence of the supplied ElevenLabs Town Hall films, translated into a coherent, playable 3D world.
 
@@ -152,6 +157,8 @@ Tania explicitly approved the governing environment standard on 13 September 202
 - Keep built evidence separate from concept approval; the Studio prototype and paused blazer exist but are unfinished.
 - ECC is the first hero-fidelity pilot; use fixed player views before progressive rollout to Avatar Studio exterior and other tiers.
 - Retain earlier civic films and portrait/turnaround as clearly dated history, not current implementation proof.
+- Confirmed 27 September 2026 / CE-CHANGE-20260927-94: preserve established Mara/Sam/market character visual direction. Helper selection uses 2D portraits; load only the chosen textured static unrigged GLB, animated through code-driven bounce/sway/pulse. World NPCs use rigs only for required actions and load by zone rather than at startup. This is design direction, not runtime acceptance or new asset approval.
+- Helper implementation 27 September 2026 / CE-CHANGE-20260927-96: seven portraits rendered from original models, chosen-only GLB loading and local character choice. Echo preserved via exact native-model export; uploaded Sprout retained, no embedded clips played. See docs/production/helper-selector-20260927.md for metrics, actual portraits and verified live release via PR40; separate Blueprint reader local only.
 
 ## Selected references
 

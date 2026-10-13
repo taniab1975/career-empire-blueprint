@@ -2,6 +2,136 @@
 
 Generated from data/operations.json. One canonical register; do not edit this view directly.
 
+## CE-CHANGE-20260929-99 — Avatar Studio visual quality upgrade
+
+- **date:** 2026-09-29
+- **domain:** Avatar, wardrobe, visual assets and implementation
+- **source:** Explicit current Tania request: upgrade clothing, hair, shoes and materials while retaining proven rig and fit.
+- **owner:** Codex Avatar Studio quality task
+- **status:** History reconciled; rejected art studies retained; exact-body specialist asset pilot proposed
+- **rationale:** Raise customisation quality through fitted garment derivatives, fabric detail and distinct inclusive silhouettes.
+- **dependencies:** CE-CHANGE-20260921-77
+- **evidence:** docs/production/avatar-quality-20260929.md / docs/production/avatar-wardrobe-production-research-20260929.md / docs/production/garment-production-proof-20260929.md
+- **nextAction:** Respect Tania budget of approximately AUD150 overall. Ask what reusable existing-garment adaptation is feasible on exact current rig within total cost; obtain specific deliverables before any decision. Three-master commission exceeds current budget context; no assumption of funded later phases or user-led MD work.
+- **supersededRecord:** None
+- **designApproval:** Implementation explicitly authorised; visual acceptance and publication separate.
+- **implementation:** 30 choices: eight tops, eight bottoms, eight hair and six shoes.20 optional delivery GLBs; two material-variant pairs share geometry. Original body/rig/gait and18original assets unchanged; fabric/hair/leather shading, actual thumbnails, quick colours and review page added.
+- **deployment:** Local preview8816 only; no commit/merge/deployment claim.
+- **testing:** 93units and7scoped browser scenarios pass. Final corrected subset has zero crossings at rest plus16native gait samples; prior wider checks cover unchanged assets. Physical-device/performance/exhaustive combinations remain unverified. Production proof: 93 unit checks and 2 scoped browser cases pass; scrub0/jacket398 max finite edge crossings over17poses; no full CI or visual acceptance.
+- **taniaAcceptance:** Rejected: still pretty bad; imported Tripo avatar clothing and fit are the required benchmark.
+
+## CE-CHANGE-20260928-98 — Optional companion or journal guidance
+
+- **date:** 2026-09-28
+- **domain:** Implementation, visual assets, performance and release
+- **source:** Current conversation: student feedback and Tania approval yes perfect then we can move on.
+- **owner:** Codex helper-selector task
+- **status:** Complete
+- **rationale:** Students questioned whether cute companions suit17-year-olds. Tania approves an opening choice: No companion; Friendly creature then existing seven portraits; Phone/journal. Same guidance, learning and rewards; change preference later. No new mascot/device artwork. Publish bounded game update after checks, preserving live PR41 travel fix and separate unpublished opportunities work.
+- **dependencies:** CE-CHANGE-20260925-93 / CE-CHANGE-20260927-94
+- **evidence:** docs/production/guidance-choice-20260928.md
+- **nextAction:** Retain the verified release; track the existing Chapel return-position issue separately and seek student/device acceptance when appropriate.
+- **supersededRecord:** None
+- **designApproval:** Explicitly authorised including game publication.
+- **implementation:** Three opening modes, shared guidance, v2 local preference and zero-model none/journal modes implemented; original assets retained.
+- **deployment:** PR42 / merge04ee10c; Pages36440579989 success; 8public hashes and desktop/390px browser checks verified.
+- **testing:** 92units,19scoped browser checks and62full-run browser checks passed; existing Chapel failure reproduced on baseline; no full-CI or physical-device pass.
+- **taniaAcceptance:** Design explicitly approved; public implementation verified by automated browser and screenshot inspection. Student acceptance untested.
+
+## CE-CHANGE-20260927-97 — Explicit teaching, opportunity investigation and supplied market cast
+
+- **date:** 2026-09-27
+- **domain:** CE-EXP-V2-02 and opening gameplay resources
+- **source:** Tania: ok well go ahead with all that please, following role recovery and request for explicit Carolan-grounded teaching and understanding checks.
+- **owner:** Codex implementation; Tania gameplay review
+- **status:** Local integrated candidate; scoped browser checks passed
+- **rationale:** Make required concepts learnable and revisitable before or after application, with feedback and revision rather than treating game completion as comprehension.
+- **dependencies:** CE-CHANGE-20260927-94 / CE-CHANGE-20260927-95
+- **supersededRecord:** None
+- **designApproval:** Implement teaching and opportunity activity; preserve recovered character roles and original GLBs. Recover older build where accessible; do not recreate reported scenes without its files.
+- **implementation:** Recovered opening scenes and five source-mapped teaching guides/checks, now with supplied animated Nora, Dev, Kenji and Amina delivery copies loaded by zone. Originals and established Mara/Sam preserved. Administration UX repair: reception welcomes first, then Nora offers one source-checking goal with progressive choices. Market and office objectives are separated with boundary hysteresis. Interaction candidates are range-filtered before nearest-target selection. Continuous facade, interior doorway cutaway, moved pole, smaller signs and wider elevated framing keep the player, desks and faces visible. Existing teaching resources, source mappings, characters and saved market state retained. Nora’s Signal or Spin mini-game: six route-plus-clue challenges, paired recovery examples, participation stamp and visible bulletin; tab-only state, no extra wages. Entrance reception and clear once-only $5 research offer; separate Evidence Express arcade after the structured review. Existing market save records review/fee events; arcade scores stay in tab memory. Revised Evidence Express with original native market/courier artwork, rolling road, pickup bursts, shuffled lanes, capped streak bonuses, medals, completion artwork, explanation review and compact desktop/phone play area. User rejected the earlier prototype; new acceptance pending. Tania now authorises a separate Mara Market Rush. Local two-wave rice-bowl arcade with optional timer, original generated backdrop/customers, constructive pickup/prep choice, comparison, explanation feedback and once-only $8 practice bonus; existing first-gig/Nora rewards preserved. Market Rush now separates prepaid incoming phone preparation/numbered collection from counter order-taking. Shared collectors block counter orders; side pickup removes that obstruction. Full recipes include rice; arbitrary pickup speed multiplier removed. Approved short arrival implemented: optional guide/default avatar or Studio, walking orientation then Mara; first-visit directions and visited-place travel, movement assistance, optional later places. Nora gates on paid first gig, not arcade/tour completion. Old arrival legacy sign replaced by market wayfinding. Welcome flyover now precedes companion choice:14seconds through actual campus, descent to arrival, Skip, still reduced-motion/slow-load fallback and once-per-character normal replay guard. Market entry now introduces Mara with portrait and purpose; first-arrival activity signs are suppressed except Meet Mara. Queue guidance follows acceptance, other task signs follow relevant progress.
+
+Retained asset identity clarification: Mara.glb was Nora; new Nora+walking+2k delivery replaces her stand-in. All four new exports contain wait/walk and one skin. Original Mara unchanged.
+- **deployment:** Local preview8797 only.
+- **testing:** 126unit tests/24files and source checks pass. Actual local walking entry, menu discovery/travel, no-companion/Echo, optional Studio and desktop/390px checked; see short-arrival evidence. No full paid-office rerun or physical/student/public proof.
+- **taniaAcceptance:** Pending concrete preview review.
+- **evidence:** docs/production/world-market-framework-20260925.md / private/production-evidence/2026-09-27/opportunities/ / private/production-evidence/2026-09-27/opening-weeks-recovery/recovery-receipt.json
+- **nextAction:** Tania review the local welcome flyover and landing. Public release and physical-device/student acceptance remain pending.
+
+## CE-CHANGE-20260927-96 — Seven portrait helpers and selected-only world loading
+
+- **date:** 2026-09-27
+- **domain:** Implementation, visual assets, performance and release
+- **source:** Tania current helper-selector request, continuing 270926.
+- **owner:** Codex helper-selector task
+- **status:** Game published and verified; separate Blueprint reader local only
+- **rationale:** Seven helper choices: Echo, Sprout, Moss, Bloom, Spark, Pax, Atlas. Use 2D portraits; persist browser-local choice and load only the selected model after Continue. Preserve current live sharp entry and Echo guidance. Remove Crown Bot/Nova from selectable set. Explicit current user authorisation includes game publication after testing.
+- **dependencies:** CE-CHANGE-20260925-93 / CE-CHANGE-20260927-94
+- **evidence:** docs/production/helper-selector-20260927.md / private/production-evidence/2026-09-27/helpers/release-receipt.json
+- **nextAction:** Tania may review the live selector; retain heavy Sprout flag, physical-device acceptance and separate hosted CI/governance boundaries.
+- **supersededRecord:** None
+- **designApproval:** Explicitly authorised including game publication.
+- **implementation:** Seven portraits and per-character selection; lazy selected model with failure fallback and cancellation. Original assets retained.
+- **deployment:** PR40 merge7913118; Pages36286178336 success;22/22changed public hashes verified.
+- **testing:** 88units/coverage and20distinct scoped browser scenarios pass; fresh public desktop/390px chooser/model/dialogue/persistence pass. Full CI/browser-device limitations retained in receipt. Hosted CI 36286178652 completed with failure: 88 units passed and 23 browser checks passed, then the Echo scenario timed out at 180 seconds while clicking the guide cue; 97 later checks did not run. Prior main CI 36283044211 also timed out at 180 seconds in the same scenario, at its Next button. This is not an identical-click comparison or a full-CI pass. Local native-renderer Echo and public chooser/dialogue checks passed.
+- **taniaAcceptance:** Implementation/publication explicitly authorised; final physical-device/student review not claimed.
+
+## CE-CHANGE-20260927-95 — Market opening: concise role and changing-work connection
+
+- **date:** 2026-09-27
+- **domain:** Week 1 gameplay and light curriculum teaching
+- **source:** Tania: ok keep goin please after the live gameplay review and recommendation to tighten the Market opening and connect phone ordering to changing work.
+- **owner:** Codex implementation; Tania gameplay review
+- **status:** Local candidate implemented and scoped checks passed; publication pending
+- **rationale:** Maintain the welcoming quick win while making initiative and the technology-to-work connection clear, without worksheet gates.
+- **dependencies:** CE-CHANGE-20260927-94
+- **supersededRecord:** None
+- **designApproval:** Continue bounded existing Market refinement; user is preparing helper/Nora/Dev assets separately. No resolution inferred for Week 3/4 sequence.
+- **implementation:** Short role briefing with optional workflow detail and optional changing-work explanation, accessible again in journal and after paid handover.
+- **deployment:** Local preview only; no public deployment.
+- **testing:** 34 Market state/economy regressions passed; source/syntax checks and current changed manifest hashes pass; desktop and 390px dialog inspection. Full CI and end-to-end paid shift not rerun.
+- **taniaAcceptance:** Pending review of the concrete local refinement.
+- **evidence:** docs/production/world-market-framework-20260925.md / private/production-evidence/2026-09-27/market-bridge/
+- **nextAction:** Try the locally refined Market opening; retain incoming helper/Nora/Dev assets as separate work. Then settle the evidence-led opportunity mission and reconcile Week 3/4 sequence before connected implementation. Public deployment of this candidate remains unperformed.
+
+## CE-CHANGE-20260927-94 — Carolan source spine and curriculum-to-game planning chain
+
+- **date:** 2026-09-27
+- **domain:** Curriculum, source research, gameplay sequence and character direction
+- **source:** Tania, 27 September 2026: continue Project Status Summary in canonical Blueprint; inventory Carolan, cross-check 2027 SCSA and Weeks 1–4, make seven-stage curriculum chain explicit and reconcile helper/NPC direction. Follow-up supplies Assets/Carolan Text. Further current messages: textbook activities are optional; content/depth must be grounded and the game should improve teaching.
+- **owner:** Codex: source mapping; Tania: design and delivery decisions
+- **status:** Local canonical update verified; publication and wider governance remain pending
+- **rationale:** Make the actual content taught and its game use traceable, without treating an encounter or reward as mastery.
+- **dependencies:** CE-CHANGE-20260925-90 / CE-CHANGE-20260925-91 / CE-CHANGE-20260925-93
+- **supersededRecord:** None
+- **designApproval:** Current user request confirms merged Week 1, review-only Weeks 1–4 and static chosen-helper/zone-NPC direction; wider timetable remains proposed.
+- **implementation:** Existing coverage document now supplies all seven chain stages for 82 points; 115 nested requirements retained. Generated reader fields, Weeks 1–4 and character rules updated.
+
+Retained character-role recovery record: {"source": "chatgpt-conversation://6ab75c7f-0dd4-83ec-b73c-0bd5bfdcfe16", "messageId": "3aa8d7b8-2e60-596a-819c-028cdccadc2e", "roles": {"Nora": "Older community researcher", "Dev": "Stock courier", "Kenji": "Community gardener", "Amina": "Young music volunteer"}, "status": "Original roles verified; individual week placement and saved build not verified", "nextAction": "Recover saved opening-weeks build and continue explicit source-grounded teaching resources and checks; preserve supplied GLBs and current live release."}
+- **deployment:** Not published by this task. Existing releases preserved.
+- **testing:** 29 scoped tests passed; TypeScript, focused lint, continuity and export checks passed. Desktop/mobile source chain inspected locally. Full test/build gate stops on stale AGENTS.md review; no bypass. Follow-up: public Echo, Market scene/journal/Initiative panel observed; 14/14 Market visuals ready, no captured console errors. Full shift inspected in source, not replayed in this review.
+- **taniaAcceptance:** Source/teaching proposals and open decisions await review.
+- **evidence:** docs/production/year-map-coverage-20260925.md / docs/production/year-map-20260925.md / private/production-evidence/2026-09-27/carolan/source-inventory.json / docs/production/world-market-framework-20260925.md
+- **nextAction:** Review the live arrival/Market loop and tighten brief initiative, changing-work and next-opportunity joins; reconcile recovered Week 3 adaptation/finance versus comparison and Week 4 initiative versus applications before connected Weeks 2–4 implementation. Tania is preparing helper/Nora/Dev models separately.
+
+## CE-CHANGE-20260925-93 — Echo in-world first-entry guide
+
+- **date:** 2026-09-25
+- **domain:** Onboarding, NPC, visual and local progress
+- **source:** Tania explicitly requests investigate, compare and implement Echo beside the normal ECC player, short click-through dialogue, first missions and future discovery mascots; current task 25 September 2026.
+- **owner:** Codex Echo task
+- **status:** Staged Echo live and public-verified; school course documents pending
+- **rationale:** Orient students to experiential Year 12 learning while preserving agency and the actual playable world.
+- **dependencies:** CE-CHANGE-20260917-74 / CE-CHANGE-20260924-85
+- **supersededRecord:** None
+- **designApproval:** Tania explicitly approves task-separated guidance, skip/revisit and live publication on25September.
+- **implementation:** Short intro → Course Documents → learning/persona → Avatar Studio → portfolio/explore → Market; skip never marks completion; shared card hidden while Echo speaks.
+- **deployment:** PR36 staged guide and PR37 performance repair live; Pages36107629332 successful; six runtime hashes verified.
+- **testing:** 87unit/coverage,6final browser checks,192package hashes pass. Actual user live snapshots7→24–34FPS after refresh. Full CI/physical-device cohort acceptance not claimed.
+- **taniaAcceptance:** Review pending.
+- **evidence:** docs/production/echo-onboarding-20260925.md / public/evidence/echo-20260925/
+- **nextAction:** School to supply course documents. Retain Auto sharpness/performance trade-off and validate broader student devices; canonical reader publication separate.
+
 ## CE-CHANGE-20260924-85 — Juniper stall clarity and gameplay navigation
 
 - **date:** 2026-09-24
@@ -1388,6 +1518,100 @@ Generated from data/operations.json. One canonical register; do not edit this vi
 - **deployment:** Existing GitHub Pages release fbbc7cc verified; metadata-only closure follows. No game release.
 - **testing:** 98/98 full tests, governance/export/continuity checks, TypeScript and scoped lint pass. Release-guarded418-file build passes; desktop and390px linked reader routes inspected with no console errors. Original82/115 curriculum,14 experiences and18 decisions unchanged. Monitor remains needs-attention; no global reconciliation.
 - **taniaAcceptance:** Successor must be able to resume without reconstructing chats.
+
+## CE-CHANGE-20261001-100 — Opening brief, legacy account trace and every-input security review
+
+- **date:** 2026-10-01
+- **domain:** Learning design, source review and Blueprint continuity
+- **source:** Tania’s delegated request in thread 01a0f25d-077a-7669-b780-9246e7cca032: review full pertinent Blueprint and actual Carolan content, inspect intro candidates, recommend one connected opening and save a proposal; review only, no game implementation/deployment. Subsequent direct user clarifications relayed by parent: retain older earnings/taxes/community/login/dashboard; check all learner responses; staged production; two 100-minute doubles weekly; February 2027 teaching; end-October opening trial including working login; open flourishing review world; keep going until ready for review.
+- **owner:** Codex opening review; Tania design review
+- **status:** Consolidated review-ready proposal saved locally; design and real-student readiness pending
+- **rationale:** One character→Market→Nora journey grounded in exact curriculum and Carolan content; four confirmed doubles, explicit separate reward/assessment/account seams, 31 input/action families screened against actual WA cells, critical source gaps retained. Stage production before polished graphics; preserve 11 domains, seven planning checks and full-course 82/115 provision.
+- **dependencies:** CE-CHANGE-20260925-90 / CE-CHANGE-20260925-91 / CE-CHANGE-20260927-94 / CE-CHANGE-20260927-95 / CE-CHANGE-20260927-97 / CE-CHANGE-20260928-98 / V2-D18
+- **evidence:** docs/production/opening-plan-20261001.md / docs/production/opening-review-evidence-20261001.md / private/production-evidence/2026-10-01/opening-review/source-review.json / private/production-evidence/2026-10-01/opening-review/current-carolan-hashes.json / private/production-evidence/2026-10-01/opening-review/video-inventory.json / private/production-evidence/2026-10-01/opening-review/integration-sources.json / private/production-evidence/2026-10-01/opening-review/opening-input-security-audit.json / private/production-evidence/2026-10-01/opening-review/legacy-account-security-trace.md
+- **nextAction:** Review the concise Day Zero/Weeks 1–2 brief with Tania: four 100-minute doubles, end-October 2026 complete opening trial with working student login/account progress/teacher dashboard, February 2027 teaching; separate full flourishing synthetic review mode. After direction review, resolve actual account/economy/security feasibility and use rough storyboard → one tested complete example → finish/expand within existing gates. No build, student collection or deployment approved here.
+- **supersededRecord:** None
+- **designApproval:** Timetable, February teaching target, end-October opening trial including login/account/dashboard and full flourishing open review access are confirmed requirements. Concrete learning/resource/evidence design and any implementation await review; target date is not a feasibility guarantee.
+- **implementation:** Documentation/source audit and current-reader metadata only. Existing game, accounts, permissions, mechanics, assets and learner records unchanged.
+- **deployment:** No push or publication. Fresh public manifests unavailable; latest published identities are attributed to today’s stewardship receipt.
+- **testing:** Verified original v4c workbook hash and all 75 question texts/24 data labels; 31 input/action families with full handling dimensions; inspected current origin/main legacy/account files and local opening seams. Scoped documentation checks follow; no live configuration/negative tenant, security, school-device or classroom pass. October9 source task reports existing welcome v4 recovered to Library; no new listening/sync/device acceptance or installation.
+- **taniaAcceptance:** User requests ready-for-review brief; no design/build/security/deployment acceptance inferred.
+
+## CE-CHANGE-20261004-101 — Discovery first: The Unexpected Arrival — bounded local review
+
+- **date:** 2026-10-04
+- **domain:** Opening discovery, implementation, visual response, local progress and security isolation
+- **source:** Tania approval relayed by source thread 01a0f25d-077a-7669-b780-9246e7cca032, Oct4 Sentinel_c569bfed4060819196aee5687e309db6; discovery first before Week0/1.
+- **owner:** Codex local discovery review; Tania visual acceptance
+- **status:** Game PR45/46 published; cold-start candidate and device acceptance pending
+- **rationale:** Discovery taster now includes once-only parcel +$25 and litter +$50 in the existing shared wallet. No prayer/Chapel reward or curriculum mastery credit. Earlier no-wallet-effect prototype rationale is historical.
+- **dependencies:** CE-CHANGE-20261001-100 / CE-CHANGE-20260927-97
+- **evidence:** docs/production/discovery-opening-20261004.md
+- **nextAction:** Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+- **supersededRecord:** None
+- **designApproval:** Explicit local prototype approval; no student trial, deployment, push, security changes or real records.
+- **implementation:** Discovery first parcel → actual Chapel entry → original blue mural close look → oval teachers/film props/caption. Silent avatar PNG souvenir, once-only local key, skip/resume/replay/clearer hints/less-motion and explicit assisted travel. Original candidate and linked assets preserved. October7 authorised redesign supersedes the compulsory trail: prior prototype backed up; new isolated progress key; camera framing and optional scout route. Source-thread follow-up expressly directs substantive implementation despite unavailable browser QA. Fresh local Edge QA reported working interactions/route and four defects. Corrected capture idle/camera facing, saved-poster genre changes, responsive/scrolling dialog and contextual controls/help. Added actual crop film print at parcel/mural with static alternative; framing input remains modal. No claim of fully in-world photography. QA fresh walk encountered late campus loading, which completed at~115s; normal Chapel approach/entry/capture passed. Local discovery now starts existing campus preparation after arrival readiness instead of Echo/boundary, with loading-aware clue guidance. Full geometry boundary retained; new startup timing pending. October11 release receipts supersede local-only status: quiet optional menus, next clue, proximity/debounce, Chapel exit/doorway continuation, map beacon, shared wallet and once-only rewards, paving/camera/sign fixes; silent runtime intro excludes Studio segment. PR46 adds eight named whole characters and on-demand Test characters while retaining old saved IDs.
+- **deployment:** Existing game GitHub Pages: PR45 merged45e0040, then PR46 merged4002869; Pages38153838964 verified successful on12 October. Separate prepared Sites preview is not this publication. No Blueprint publication or new release authority inferred.
+
+12October later accepted release: ECC PR53 is live at 46d63d4d55a24123d3a578e3d257f0625f462426; Pages38320903492 succeeded at23:15:18UTC. Tania accepted the actual live opening at23:21UTC. Source222units and affected checks passed; startup grassRetry passed, six critical journeys had four passes and two failures, broad regression was not run. Natural Chapel walking, the Sprout500ms movement threshold and reported missing Market/Admin access remain open. This is opening acceptance, not whole-game, school/device/security or curriculum mastery acceptance.
+- **testing:** Prior139 game/10 state tests and7 October scoped QA retained. 8 October source task reports mural front/angles/frontage inspection, geometry/syntax and simulated phone controls at390x844,375x667,844x390. Steward inspected saved mural/phone images and matched source hashes; did not rerun gameplay. Physical iPhone, cold-cache and broader acceptance remain open. HEAD release check is not validation of dirty fixes. October9 screenshot-state inspection failed at image staging with No space left on device; current source hashes unchanged on October10. No pixel acceptance inferred. October12 steward verified remote/Pages/CI identities. Source receipts report114 units for PR45,116 for PR46,16 changed served files, five live avatar scenarios and public journey/returning saves. Hosted Echo failure and native Chapel baseline failure remain separate; no whole-CI/device/student acceptance. Cold-start follow-up reports118 units/four avatar checks; complete held-texture and before/after proof pending.
+- **taniaAcceptance:** Physical-device, Tania visual/gameplay and real-student acceptance remain open, as stated by the existing October12 checkpoint and next action. Source-task release receipts do not establish independent acceptance.
+
+The actual PR53 live opening was accepted23:21UTC; this does not establish acceptance of all journeys, Market/Admin access, devices or student security.
+
+## CE-CHANGE-20261012-102 — Prepare the current Blueprint for colleague review after the game release
+
+- **date:** 2026-10-12
+- **domain:** Blueprint publication, recoverability and source validation
+- **source:** Tania authorises verified local backup and publication to the existing Blueprint website; October12 13:12 follow-up explicitly waits for current game pushes to be accepted and verified before updating the public Blueprint.
+- **owner:** Codex publication preparation; parent task verifies the accepted game release
+- **status:** Local preparation in progress; publication held for accepted game release
+- **rationale:** Preserve the recoverable October master, reconcile mechanical source validation and publish an accurately dated colleague-facing design snapshot after the actual game release is verified.
+- **dependencies:** CE-CHANGE-20260927-97 / CE-CHANGE-20261004-101
+- **evidence:** docs/production/blueprint-publication-20261012.md
+- **nextAction:** Finish local validation. After the parent confirms the accepted game source and deployment receipt, reconcile that exact live status, review affected reader pages, save the intended source and build/publish only generated public output.
+- **supersededRecord:** None
+- **designApproval:** Existing website publication and local backup authorised; timing explicitly held until accepted game release. Existing draft learning and timetable decisions remain unchanged.
+- **implementation:** Complete local backup verified; schema-invalid identity/role notes preserved in existing implementation fields; record97 WA question mapping documented without raising readiness; original seventeen decisions and authorised Echo amendment verified separately.
+- **deployment:** No Blueprint push or deployment; existing public V2.23 remains the last verified publication.
+- **testing:** Local checks in progress; exact outcomes will be recorded after execution. No new game playtest or browser acceptance claimed.
+- **taniaAcceptance:** Publication destination and wait-for-game-release timing confirmed; draft curriculum and current game/device acceptance are separate.
+
+## CE-CHANGE-20260927-98 — Restore smooth player travel and animation synchronisation
+
+- **date:** 2026-09-27
+- **domain:** Player movement, animation and historical release reconciliation
+- **source:** Tania explicitly requests diagnosis against repository history, movement repair and playable testing on 27 September 2026. Existing dated avatar-travel document records much better feedback and explicit send to live please approval; missing material record reconstructed October12 from that retained source and release receipt.
+- **owner:** Codex movement repair; Tania visual acceptance
+- **status:** Historical repair published; Blueprint downstream reconciliation and physical-device acceptance remain pending
+- **rationale:** Repair walking without reverting current world, helpers or NPC work.
+- **dependencies:** None
+- **evidence:** docs/production/avatar-travel-20260927.md / private/production-evidence/2026-09-27/avatar-travel/release-receipt.json
+- **nextAction:** Reconcile repair with separate unpublished opening-recovery hooks; retain recorded CI limitations, complete downstream Blueprint surface reconciliation and physical-device acceptance separately.
+- **supersededRecord:** None
+- **designApproval:** Tania local much better feedback followed by explicit send to live please approval for this bounded September27 movement/shadow repair.
+- **implementation:** Fixed walk playback independent of speed; render frames without physics steps reset locomotion; frame-dependent turning. Repair: Approved repair live via PR41 merge bc954a9; Pages36297400819 success; five public hashes match and desktop/phone-layout walking passes with zero stale shadows/errors. World/helpers/NPC assets preserved. Full-suite limitations documented.
+- **deployment:** Historical PR41 merge bc954a974edd3d8205854a63d4b2cffc38c99a5e; Pages 36297400819 success in retained September27 receipt. This is not a claim about the currently pending October game pushes.
+- **testing:** Historical receipt:91 units,210 packaged hashes,53 reachable modules; five public-file hashes and1280/390 walking checks. Full local/hosted suites retained their recorded baseline failures; no new game test performed by this documentation repair.
+- **taniaAcceptance:** Positive local visual feedback and bounded publication approval recorded; physical-device/student acceptance remains separate.
+
+## CE-CHANGE-20261012-103 — Publish the authored WIP Blueprint after accepted PR53 opening
+
+- **date:** 2026-10-12
+- **domain:** Scoped static design publication and actual game release evidence
+- **source:** Tania: great its working well, blueprint next; parent provides exact PR53/source/Pages receipt and the four-pass/two-fail critical-journey boundary.
+- **owner:** Codex Blueprint snapshot; Tania owns design acceptance; game task owns remaining ECC work
+- **status:** Scoped source/reader checks passed; ready for guarded WIP publication; independent deployment pending
+- **rationale:** Colleagues need the surviving authored master and actual current game state without mistaking incomplete integrations or draft teaching for finished delivery.
+- **dependencies:** CE-CHANGE-20261012-102 / CE-CHANGE-20261004-101
+- **evidence:** docs/production/ecc-release-blueprint-20261012.md / private/production-evidence/2026-10-13/blueprint-snapshot/reader-checks.json
+- **nextAction:** Save reviewed source, execute unchanged guarded Pages build, push the generated public snapshot via existing owner access, then independently verify deployment and served receipt. Do not promote record102 or underlying draft work.
+- **supersededRecord:** None
+- **designApproval:** Existing Blueprint publication explicitly authorised after actual live-opening acceptance; no approval of the full teacher program or all remaining game features.
+- **implementation:** Reconciles PR53 live identity and source/test/user-acceptance boundaries in current step, plan, roadmap, continuity and source document. Original curriculum and approved decisions retained.
+- **deployment:** Blueprint not yet deployed; PR53 ECC deployment is separately evidenced by Pages38320903492.
+- **testing:** 100 source tests and TypeScript passed; rebuilt1280x900/390x844 reader routes, reciprocal links, search/detail, dated media and public-record download checked. Long-hash mobile overflows corrected. Simulated viewports only; no new game or security acceptance.
+- **taniaAcceptance:** Actual ECC opening accepted23:21UTC; Blueprint publication requested. Remaining game, curriculum, device and security acceptance remain separate.
 
 ## Retained Atlas principles
 
