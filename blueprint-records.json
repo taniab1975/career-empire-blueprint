@@ -30924,7 +30924,7 @@
       "numberingNote": "Original numbering retained. There is no Digital Literacy 2.2."
     }
   },
-  "revision": "V2.26 / 14 October 2026",
+  "revision": "V2.27 / 14 October 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -30949,14 +30949,14 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.26",
+      "id": "V2.27",
       "date": "2026-10-14",
-      "label": "V2.26 / 14 October 2026",
-      "status": "Approved icon family verified in source and affected reader; public delivery pending",
+      "label": "V2.27 / 14 October 2026",
+      "status": "Reviewed Blueprint redesign verified in source/reader; public delivery pending",
       "purpose": "Career Empire is intended as a connected learning system for the whole Careers and Employability curriculum. The Blueprint is currently its game-design document, integrating pedagogy, engagement, educational psychology, curriculum and learning design; it can later become the teacher delivery resource. Connected experiences create reasons to seek knowledge, make choices and learn from consequences; learning outside the 3D world need not become a disconnected subject silo.",
       "audience": "Colleagues reviewing the current game and learning design; teacher delivery program remains in development.",
       "owner": "Tania Byrnes",
-      "scope": "Small static-reader adoption of all27approved dimensional employability icons. Stable skill numbers,42unit-specific associations,197curriculum rows/page references and12proposed phases remain unchanged. Older artwork remains archived; game runtime is untouched."
+      "scope": "Reviewed handover introduction, coherent navigation, shared Phase0–11 world/curriculum view and independent top/sidebar controls with reversible table focus. Exact197requirements, source references, EST flags and approved icons retained. No game repository changes."
     },
     "navigation": [
       {
@@ -30968,7 +30968,7 @@
       },
       {
         "id": "journey",
-        "label": "World & Year",
+        "label": "World & Journey",
         "sections": [
           "journey",
           "worked-example",
@@ -30978,7 +30978,7 @@
       },
       {
         "id": "blueprint",
-        "label": "Design & Curriculum",
+        "label": "Learning & Curriculum",
         "sections": [
           "blueprint",
           "learning",
@@ -30989,7 +30989,7 @@
       },
       {
         "id": "delivery",
-        "label": "Work & Handover",
+        "label": "Progress & Handover",
         "sections": [
           "delivery",
           "roadmap",
@@ -31000,7 +31000,7 @@
       },
       {
         "id": "source-documents",
-        "label": "Reference Library",
+        "label": "Sources & History",
         "overview": "library",
         "sections": [
           "library",
@@ -31014,7 +31014,7 @@
     "blueprintTopics": [
       {
         "id": "learning",
-        "label": "Experiences & curriculum",
+        "label": "Curriculum & experiences",
         "summary": "197 points and subpoints, visible Carolan pages and twelve proposed phases. Compare curriculum, what students do, why, explicit skills and planned evidence; weeks and lessons remain undecided.",
         "image": "/references/topics/experiences.jpg",
         "imageAlt": "Existing concept artwork of students and a teacher with learning profiles"
@@ -31028,7 +31028,7 @@
       },
       {
         "id": "classroom",
-        "label": "Classroom",
+        "label": "Teaching & assessment",
         "summary": "How lessons run, how teachers review learning, and how every student can take part.",
         "image": "/references/topics/classroom.jpg",
         "imageAlt": "Existing concept artwork of educators reviewing curriculum and assessment together"
@@ -31045,22 +31045,22 @@
       "journey": [
         {
           "id": "year",
-          "label": "Connected year map",
-          "summary": "Shared world, eight chapters and 30 proposed weeks, linked to full curriculum provision and existing experiences.",
+          "label": "Shared phase journey",
+          "summary": "The same Phase 0–11 sequence as the curriculum planner. Unit 3 before Unit 4; weeks and lessons are undecided. Earlier timing remains an archive.",
           "image": "/references/current/campus-career-corridor.png",
           "imageAlt": "Campus-to-Career Corridor — approved aerial structure; not an approved year timetable"
         },
         {
           "id": "worked-example",
-          "label": "One complete experience",
-          "summary": "Follow a proposed lesson from the first opportunity through learning, choices, feedback and recovery.",
+          "label": "Earlier worked example",
+          "summary": "A dated example of supported learning, choices and feedback. Retained for context; not the current phase plan.",
           "image": "/references/topics/experiences.jpg",
           "imageAlt": "Existing concept artwork of students and a teacher with learning profiles"
         },
         {
           "id": "method",
-          "label": "Learning principles",
-          "summary": "The experience-first learning loop, supported challenge, player choice and room to try again.",
+          "label": "How learning connects",
+          "summary": "Explicit materials, purposeful experience, application, recall and school assessment work together across the whole course.",
           "image": "/references/topics/classroom.jpg",
           "imageAlt": "Existing concept artwork of educators reviewing learning together"
         }
@@ -31079,12 +31079,12 @@
         {
           "id": "build",
           "label": "Build evidence",
-          "summary": "What has actually been delivered, with dated screenshots, checks and remaining limitations."
+          "summary": "Current dated development checkpoint first, followed by clearly labelled historical build evidence and screenshots."
         },
         {
           "id": "handover",
-          "label": "Project continuity",
-          "summary": "How the live Blueprint stays aligned with the public game, source files and next build decisions."
+          "label": "Pick up the project",
+          "summary": "A clear handover: purpose, ownership, current position, decisions and the route to authorised source access."
         }
       ],
       "source-documents": [
@@ -31113,13 +31113,13 @@
     "productionPlan": {
       "id": "CE-PLAN-01",
       "changeId": "CE-CHANGE-20260925-91",
-      "phase": "Connected learning design and Blueprint continuity",
+      "phase": "Connected course design and Blueprint handover",
       "activeMilestoneId": "CE-CONTINUITY-01",
-      "objective": "Make the canonical design understandable, traceable and resumable without reconstructing conversations.",
-      "now": "ECC PR53 is live at 46d63d4d55a24123d3a578e3d257f0625f462426; Pages run 38320903492 succeeded at 23:15:18 UTC. Tania accepted the actual live opening at 23:21 UTC. 222 source/unit tests and affected checks passed; startup grassRetry passed, six critical journeys had four passes and two failures, broad regression was not run. Natural Chapel walking, the Sprout 500 ms movement threshold and reported missing Market/Admin access remain open. This is opening acceptance, not whole-game, school/device/security or curriculum mastery acceptance.",
-      "next": "Share the authored work-in-progress Blueprint, then address remaining ECC Market/Admin access and the natural Chapel walking/Sprout movement checks. Continue authored teaching and assessment review without treating draft provision, visits or rewards as mastery.",
-      "then": "After discovery review, trial existing Week0/1 direction within separately bounded approvals; retain login/privacy and school-readiness gates.",
-      "later": "Translate a coherent, evidenced design into teacher delivery resources and independently authorised implementation.",
+      "objective": "Make the purpose, current design, implementation limits and next decisions understandable to a new colleague.",
+      "now": "The reviewed Blueprint redesign is approved for the existing public reader. The shared phase planner and approved icons are retained. Game PR57 remains draft, with wider test failures under triage; the market initiative redesign and complete course provision are not implemented.",
+      "next": "Author and review core learning materials, purposeful application and appropriate learner evidence across the shared phases. Agree pacing and school assessment dates before setting lessons. Game PR57 triage and game icon adoption remain separate work.",
+      "then": "Author and review core learning materials, purposeful application and appropriate evidence across the shared phases; align school pacing and assessment dates before setting lessons.",
+      "later": "Implement the agreed connected course and verify classroom, accessibility, school and learner-evidence requirements separately.",
       "sequence": [
         "Shared world and existing provision",
         "Broad year and curriculum feasibility review",
@@ -31445,19 +31445,19 @@
     },
     "currentStep": {
       "id": "CE-CONTINUITY-01",
-      "title": "Connected learning design and Blueprint continuity",
-      "status": "PR53 live opening accepted; Blueprint WIP publication and remaining ECC checks are separate",
+      "title": "Connected course design and Blueprint handover",
+      "status": "Reviewed Blueprint redesign approved; authored course provision remains in progress",
       "owner": "Codex: reader and checks; Tania: design review; school: assessment decisions",
-      "href": "/production/ecc-release-blueprint-20261012.html",
-      "actionLabel": "Read the current release and design limits",
+      "href": "/production/blueprint-redesign-review-20261014.html",
+      "actionLabel": "Review the website audit and proposed structure",
       "decisionIds": [
         "V2-D02",
         "V2-D03",
         "V2-D18"
       ],
-      "nextAction": "Share the authored work-in-progress Blueprint, then address remaining ECC Market/Admin access and the natural Chapel walking/Sprout movement checks. Continue authored teaching and assessment review without treating draft provision, visits or rewards as mastery.",
-      "doneWhen": "A successor can follow Start Here → world/year → exact curriculum and experience → evidence/gaps, identify the next action and locate source/recovery instructions; public state is independently verified.",
-      "boundary": "Publication does not approve a completed teacher program, real-student trial, all remaining game features or student-account security. PR53 actual live-opening acceptance has its separate bounded receipt."
+      "nextAction": "Author and review core learning materials, purposeful application and appropriate learner evidence across the shared phases. Agree pacing and school assessment dates before setting lessons. Game PR57 triage and game icon adoption remain separate work.",
+      "doneWhen": "Core materials and meaningful application/evidence are authored and reviewed against the exact curriculum and school assessment requirements. Blueprint publication, game integration, school permission and learner mastery have separate evidence.",
+      "boundary": "Tania approved the displayed reader redesign in direct reply to the explicit publication question. This does not approve a game release, a completed teacher program or a student trial."
     },
     "roadmap": [
       {
@@ -32126,18 +32126,18 @@
       "asOf": "2026-09-17",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.26 / Blueprint reader",
+        "sourceRevision": "V2.27 / Blueprint reader",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.25 / GitHub Pages",
-        "checkedAt": "2026-10-14T02:09:07.767129+00:00",
-        "observedLiveSha256": "76c784af6c1eafa9dbe47c6701ae834a55c377998527d5107a7803053db0b8af",
+        "observedLiveRevision": "V2.26 / GitHub Pages",
+        "checkedAt": "2026-10-14T02:40:45.862074+00:00",
+        "observedLiveSha256": "18b73579aa8becae781b2f1b9fc91a4c6867c9d1ec0021238427b8f8f299d3ba",
         "accessCheck": "Existing private recovery repository verified PRIVATE before upload; generated-files-only Pages publication built successfully.",
         "validationReceipt": "/publication-manifest.json",
-        "status": "Verified phase-planner public1cf4316/source dc2fb38 remains the baseline. Small approved icon-only reader update is being checked; no game or teacher-program acceptance is inferred.",
-        "savedVersionId": "37ad6009f913264cc59901f1a4a9515213007325",
-        "deploymentId": "GitHub Pages / fbbc7cc485810c57fc3f5d86a2740cbdd3dfa963",
-        "parity": "Verified release: live manifest and all38 changed output hashes match; live entry, year and history routes inspected.",
-        "resume": "Retain the exact published source/manifest; reconcile separate pending104work against the updated private recovery branch.",
+        "status": "Tania approved the displayed redesign for publication to the existing Blueprint site. Source/release verification is in progress; observed publicV2.26 remains the baseline until independently verified.",
+        "savedVersionId": "5511f2b01305aa86d0da3c3c8508d8d7cac979f1",
+        "deploymentId": "GitHub Pages / 1282984173",
+        "parity": "Exact deployed manifest/source/record and all39changed served hashes verified;12actual live icon checks passed.",
+        "resume": "Retain exact deployed source/manifest. Reconcile separate pending104work against the updated private recovery branch before future publication.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
         "legacySite": {
@@ -32146,8 +32146,8 @@
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
         },
-        "observedPublicCommit": "fbbc7cc485810c57fc3f5d86a2740cbdd3dfa963",
-        "hashScope": "Dated primary V2.23 proof. Subsequent release-status metadata is independently identified by publication-manifest.json to avoid recursive self-hashes.",
+        "observedPublicCommit": "34355098dfc0d662e579aa6ceb6dd751535000e2",
+        "hashScope": "Deployed V2.26 record built from source5511f2b, independently pinned by publication-manifest.json. This private metadata closure is not another public build.",
         "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
@@ -34464,7 +34464,7 @@
           "domain": "Static Blueprint employability icon styling",
           "source": "Tania: Please create a new set of employability icons in keeping with the aesthetic of the game. Let's sort that out and use it exclusively going forward. Latest: OK great - please go ahead with the rest of that styling.",
           "owner": "Codex Blueprint icon integration; Tania owns artwork acceptance",
-          "status": "Source/reader verified; publication pending",
+          "status": "Published and verified static-reader icon adoption",
           "rationale": "Give the existing employability parent/subskill mapping the approved consistent visual family while preserving compact tables and accessible fullsize previews.",
           "dependencies": [
             "CE-CHANGE-20261014-105"
@@ -34474,13 +34474,38 @@
             "data/employability-icons.json",
             "tests/employability-icons.test.mjs"
           ],
-          "nextAction": "Publish the scoped reader and retain the independent live receipt.",
+          "nextAction": "Retain the exact published source/manifest and private receipt; use only the approved current family for future employability styling.",
           "supersededRecord": null,
           "designApproval": "User explicitly approved all27dimensional styling and exclusive future use. Artwork approval remains separate from game implementation or teaching/mastery.",
           "implementation": "27verified256WebPs total383746bytes; current renderer uses only the approved family. Old two27asset families remain archived. Table thumbnails remain25/39px; dialog and256px links provide readable larger previews.",
-          "deployment": "Pending scoped public reader publication; no private-preview access or game checkout change.",
-          "testing": "106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed; guarded Pages build follows the exact source commit.",
+          "deployment": "Public 34355098dfc0d662e579aa6ceb6dd751535000e2; source 5511f2b01305aa86d0da3c3c8508d8d7cac979f1; successful Pages build1282984173. All39changed served file hashes match and12live desktop/mobile icon checks pass; actual screenshots inspected. No game checkout or private-preview access change.",
+          "testing": "106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed; guarded Pages build follows the exact source commit. Public 34355098dfc0d662e579aa6ceb6dd751535000e2; source 5511f2b01305aa86d0da3c3c8508d8d7cac979f1; successful Pages build1282984173. All39changed served file hashes match and12live desktop/mobile icon checks pass; actual screenshots inspected.",
           "taniaAcceptance": "Approved exclusive iconfamily/style; no whole-course or game-implementation acceptance is inferred."
+        },
+        {
+          "id": "CE-CHANGE-20261014-107",
+          "date": "2026-10-14",
+          "title": "Review and locally redesign Blueprint navigation and handover",
+          "domain": "Local static Blueprint reader and shared phase presentation",
+          "source": "Tania reviewed the displayed Start Here and desktop/mobile Focus table screenshots, then replied love it directly to the explicit question asking whether this version was ready to publish to the existing Blueprint website.",
+          "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+          "status": "Approved and source/reader verified; publication pending",
+          "rationale": "Local Blueprint redesign for review: clearer course and handover introduction; shared Phase0–11 view; dated historical material; current/proposed distinctions; independent top/sidebar controls and reversible table focus. Existing public3435509 remains unchanged. No push, merge, deployment or publication is authorised for this candidate.",
+          "dependencies": [
+            "CE-CHANGE-20261014-106"
+          ],
+          "evidence": [
+            "docs/production/blueprint-redesign-review-20261014.md",
+            "app/site-guide.tsx",
+            "data/learning-planner-retention.json"
+          ],
+          "nextAction": "Build and publish only the checked generated static reader to the existing Blueprint repository, then verify the exact live version and key behaviours.",
+          "supersededRecord": null,
+          "designApproval": "Displayed redesign and publication to the existing Blueprint site approved. Learning phases, teaching/assessment and game acceptance remain separate.",
+          "implementation": "Local Blueprint redesign for review: clearer course and handover introduction; shared Phase0–11 view; dated historical material; current/proposed distinctions; independent top/sidebar controls and reversible table focus. Existing public3435509 remains unchanged. No push, merge, deployment or publication is authorised for this candidate.",
+          "deployment": "Pending exact-source generated-reader publication and independent live verification.",
+          "testing": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source.",
+          "taniaAcceptance": "Accepted the displayed reader redesign for publication; no game or classroom acceptance inferred."
         }
       ],
       "sessionStart": [
@@ -34560,7 +34585,7 @@
     },
     "continuity": {
       "asOf": "2026-10-12",
-      "summary": "ECC PR53 is live at 46d63d4d55a24123d3a578e3d257f0625f462426; Pages run 38320903492 succeeded at 23:15:18 UTC. Tania accepted the actual live opening at 23:21 UTC. 222 source/unit tests and affected checks passed; startup grassRetry passed, six critical journeys had four passes and two failures, broad regression was not run. Natural Chapel walking, the Sprout 500 ms movement threshold and reported missing Market/Admin access remain open. This is opening acceptance, not whole-game, school/device/security or curriculum mastery acceptance. The Blueprint is an authored WIP snapshot for colleague review; publication has its own receipt.",
+      "summary": "The reviewed Blueprint handover/navigation redesign is approved for publication. Its shared phases, exact curriculum and approved icons remain design records; authored materials, school timing, game implementation and learner evidence need their own verification.",
       "firstSteps": [
         "Read Start Here and the current step; distinguish the local source from the dated published receipt. Do not recover priorities from the latest chat title.",
         "Read the shared world overview and proposed year map. Open a week block, follow its exact curriculum links, then inspect the planned evidence and gaps.",
@@ -34607,8 +34632,8 @@
       ],
       "openQuestions": [
         "Tania / school: confirm the delivery cohort; 2027 is the current planning baseline, not an explicit cohort confirmation.",
-        "Teacher / school: select the applicable assessment outline, annual EST content and sitting. Do not copy 2026 task dates or conditions.",
-        "Tania / teacher: review broad pacing using the confirmed two 100-minute doubles weekly, or four doubles across Weeks 1–2. This still gives 100 nominal hours over 30 weeks before interruptions, versus 110 notional syllabus hours; teaching adequacy and trial feasibility are not established.",
+        "Teacher / school: the21exact 2027 EST selections are marked in the planner. Confirm the applicable assessment outline, school sitting and calendar dates; do not copy2026dates.",
+        "Tania / teacher: review capacity using the confirmed two100-minute doubles weekly. Phase0–11 is the shared design sequence; weeks, lessons and dates remain undecided. The older30-week map is an archived capacity proposal.",
         "Designer / teacher: author and review missing teaching, observation and transfer evidence. All 82 points are allocated; none is verified as mastered.",
         "Project owner: nominate a successor and verify their access to private source, hosting and recovery. The Blueprint does not prove account succession.",
         "Maintainer: reconcile the persistent project intake and integration backlog. A refreshed monitor is not proof that every older change is reconciled."
@@ -48463,10 +48488,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20261014-106"
+        "CE-CHANGE-20261014-107"
       ],
-      "scope": "27verified256WebPs total383746bytes; current renderer uses only the approved family. Old two27asset families remain archived. Table thumbnails remain25/39px; dialog and256px links provide readable larger previews.",
-      "disclosure": "Only the approved static-reader iconfamily is adopted. The current12phases,197source-backed rows, original14experiences and outstanding teaching/game/school work remain separate. No new game deployment or student achievement is claimed.",
+      "scope": "Reviewed handover introduction, coherent navigation, shared Phase0–11 world/curriculum view and independent top/sidebar controls with reversible table focus. Exact197requirements, source references, EST flags and approved icons retained. No game repository changes.",
+      "disclosure": "Tania approved the displayed reader redesign for the existing public Blueprint. Teaching provision, phase timing, school/learner acceptance and game work remain separate and incomplete where recorded. No new game deployment or student achievement is claimed.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -48629,20 +48654,25 @@
         "public/references/skill-logos/dimensional-v3/digital-literacy--reliable-online-research@256.webp",
         "public/references/skill-logos/dimensional-v3/time-management@256.webp",
         "public/references/skill-logos/dimensional-v3/teamwork@256.webp",
-        "public/references/skill-logos/dimensional-v3/critical-thinking--bias-reflection@256.webp"
+        "public/references/skill-logos/dimensional-v3/critical-thinking--bias-reflection@256.webp",
+        "app/site-guide.tsx",
+        "docs/production/blueprint-redesign-review-20261014.md",
+        "data/public-reader-documents.json",
+        "app/blueprint-app.tsx",
+        "app/blueprint-navigation.tsx"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "2bab7f7dca93bbb91d4e54f3ef60187b7655a8ee8f34652fb39293624ddf617e"
+          "sha256": "d79ee2705abd65009c56ceda5e5cdf2641fdf281d5837bada4860a1238c60750"
         },
         {
           "path": "README.md",
-          "sha256": "6b1c52563761e0131cd64e9bb1d8a3b5005f7bf514aeacd1bbed7a22513ef795"
+          "sha256": "27251fa439e44274fd622d80cf5ca74f3ca850086a7d6c05e49a719a6a6b0a53"
         },
         {
           "path": "app/blueprint-detail.tsx",
-          "sha256": "719cbf6dd3943e257ca56e5ef1521a735c52ff00ff04c2a4f33d8d75e7deab2f"
+          "sha256": "faabbfc1e6ad388033a6d1835c646b9c4dc919f4d15b63b33f0ff038ef391629"
         },
         {
           "path": "app/blueprint-routing.ts",
@@ -48650,19 +48680,19 @@
         },
         {
           "path": "app/blueprint-surfaces.tsx",
-          "sha256": "018ed5fa08db571a17a4c42c5caaf6cf19a2111fe67175353adc7aa812e08158"
+          "sha256": "27a8c18a8945244edb8d357ca3257b29b7c9a36ca513d55268564cf2974bd091"
         },
         {
           "path": "app/change-integration.tsx",
-          "sha256": "0d325722a9f41366deaab8d881dadfbc7c630c856a69add77570ebc1c5b31957"
+          "sha256": "ff1e12d54c7f36d0a7b5b55f299a50ef85018f2866d46deb8fb3463e225399a6"
         },
         {
           "path": "app/connected-plan.tsx",
-          "sha256": "d65b773ece755cb2a01bbd78587b8a098eeda4bda24d186385b3ec9547cd674d"
+          "sha256": "0b3e01aad77bb7125a739ba15388964bd0790d0e4ed63aa22f685eb5dfa399bf"
         },
         {
           "path": "app/continue-work.tsx",
-          "sha256": "79382de446714c0846e87bc36e8bf77af94d84d6a116c8578e274f8c43603eb8"
+          "sha256": "a7c5a9679af0c86cb08f0faa66919fbf5f2920dac4eb444bc4b4faa590097259"
         },
         {
           "path": "app/current-evidence.tsx",
@@ -48670,7 +48700,7 @@
         },
         {
           "path": "app/globals.css",
-          "sha256": "f09ed436da1d5c91eba2c7757931d521360b51e9460b0e2673e59cd8fca96d76"
+          "sha256": "ce019fb5280d94ac9651dc2ffd141c30d9323637f566748195a03b9b13f5e808"
         },
         {
           "path": "app/learning-map.tsx",
@@ -48706,7 +48736,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "34fbe01e13b831db2c471d2ad6ed77314fa268361d39e679410b27c676423799"
+          "sha256": "38adf3e4ce93625fe69a5c2ae255fb34aff8256d61a80dee433e46f9067da72a"
         },
         {
           "path": "data/refresh-checkpoint.json",
@@ -48730,7 +48760,7 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "1299e61b1e39da1d18bea99860868ec768b27eb9256aee08a54802c048fe8aa2"
+          "sha256": "ac1c6db8702585cabb7459b3ebe5990514f976295822340e79f734cc2ef8e604"
         },
         {
           "path": "docs/production/change-workflows.md",
@@ -48750,7 +48780,7 @@
         },
         {
           "path": "docs/production/successor-start.md",
-          "sha256": "21ea764c0ba35291000d9c7a2f9256742f0903fb3e7569ba5d80077b87bf0011"
+          "sha256": "adaf66acdebfbf1279be94bac673773433cc8d231c9091089b5a6ed06fa80082"
         },
         {
           "path": "docs/production/visual-evidence-manifest.json",
@@ -48794,7 +48824,7 @@
         },
         {
           "path": "scripts/check-continuity.mjs",
-          "sha256": "11943ace49bd73a3f44c25c35dc75097270448535d8a72cd93874e0ccee4dbb0"
+          "sha256": "2e715cb37e8397499bf821f74fde1f97e6bb042e0fac6f3005af88a84642284a"
         },
         {
           "path": "scripts/compile-year-plan.mjs",
@@ -48802,7 +48832,7 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "a3e70359e17a07dc23a580e866e78f7e215f486de2ff32f8efbe510cb2fd5d17"
+          "sha256": "6b45174ac43b00e757832af29a7a1521892abbfc4130e13b4b0e7dfb40471a57"
         },
         {
           "path": "scripts/plan-change.mjs",
@@ -48834,7 +48864,7 @@
         },
         {
           "path": "tests/blueprint.test.mjs",
-          "sha256": "e6da866e6ff62657c8cf496c96d77a287f4814768de059f6e533d6fa7d3c4ed0"
+          "sha256": "5a73219c10274e0c70c8eddac52c4df48611a63717039cef7ed95ddec70dae95"
         },
         {
           "path": "tests/continuity.test.mjs",
@@ -48846,7 +48876,7 @@
         },
         {
           "path": "tests/production-plan.test.mjs",
-          "sha256": "c3ab7f6854a649a8d91031eeda850d27aa3fea42e38ff9cd7f0444be1db295e3"
+          "sha256": "ec28fb5f3717623131366b1f0f102c0dfaa4659e083adaff8c8bb43e3e898d7f"
         },
         {
           "path": "tests/project-guard.test.mjs",
@@ -48922,11 +48952,11 @@
         },
         {
           "path": "app/curriculum-planner.tsx",
-          "sha256": "b9c2d4c9216bdb37817d2eb58db480b98525385ff81942b1c61393b38c5ddc72"
+          "sha256": "9bea0d78f7b15b8cc17878017f9a448fde2d47a8dc15cf9e3cab3753b21a30bc"
         },
         {
           "path": "app/planner-runtime.js",
-          "sha256": "339352c9401b8a29d56fc0e728e2b3281d6ab449b592eaa93094acd92e76d887"
+          "sha256": "db528a6ea85a6ac39ee6ca33e9462ca44b99da2a09b7684875fd214f4e2689a0"
         },
         {
           "path": "data/learning-planner.json",
@@ -49170,7 +49200,7 @@
         },
         {
           "path": "docs/production/employability-icons-20261014.md",
-          "sha256": "f95d0f349fca75b0978c3c8e5e56193162a00e0d905bb11b3ba81cb7219749de"
+          "sha256": "7c5336692c9c957fcd6e3f60843ca394bbf1de15ca0750f77798529fea920962"
         },
         {
           "path": "public/references/skill-logos/dimensional-v3/digital-literacy--electronic-communication@256.webp",
@@ -49279,6 +49309,26 @@
         {
           "path": "public/references/skill-logos/dimensional-v3/critical-thinking--bias-reflection@256.webp",
           "sha256": "804abaadfca73ec010c7d2dba93fc15cccc8516be16850ce5f4f00d7695c8e47"
+        },
+        {
+          "path": "app/site-guide.tsx",
+          "sha256": "3bcccf411ff72f634501c3243982a9480c9dd977a31200a375692a7cdfef552a"
+        },
+        {
+          "path": "docs/production/blueprint-redesign-review-20261014.md",
+          "sha256": "55ffbeba743869b7ca3cf7f6bd0c0289846cc22fa2a4866dad88d93c7617a841"
+        },
+        {
+          "path": "data/public-reader-documents.json",
+          "sha256": "6d01c7f9202b9967498239c284a316d90b63743b881fd139a6c5e4347022f799"
+        },
+        {
+          "path": "app/blueprint-app.tsx",
+          "sha256": "f3d3b65167a3750d09fb50eb06cb23e30f1db136f9436155164aa5b879145440"
+        },
+        {
+          "path": "app/blueprint-navigation.tsx",
+          "sha256": "c8c83fad6190b99869d0adccb82d4b5f129fbde1a2f79c5f2af7fb2a671bb513"
         }
       ]
     },
@@ -81052,13 +81102,13 @@
           "implementation",
           "release"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Give the existing employability parent/subskill mapping the approved consistent visual family while preserving compact tables and accessible fullsize previews.",
         "before": "Current reader displays retained personal/ECC icon choices alongside the phase planner.",
         "after": "27verified256WebPs total383746bytes; current renderer uses only the approved family. Old two27asset families remain archived. Table thumbnails remain25/39px; dialog and256px links provide readable larger previews.",
         "source": "Tania: Please create a new set of employability icons in keeping with the aesthetic of the game. Let's sort that out and use it exclusively going forward. Latest: OK great - please go ahead with the rest of that styling.",
         "owner": "Codex Blueprint icon integration; Tania owns artwork acceptance",
-        "nextAction": "Publish the scoped reader and retain the independent live receipt.",
+        "nextAction": "Retain the exact published source/manifest and private receipt; use only the approved current family for future employability styling.",
         "securityPrivacyImpact": {
           "baseline": "WA-DOE-v4c",
           "waQuestionIds": [],
@@ -81221,7 +81271,7 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
+            "disposition": "updated",
             "action": "Publish only the reviewed generated public reader through the existing GitHub Pages repository. Preserve all existing archived assets and private-preview access.",
             "records": [
               "CE-CHANGE-20261014-106",
@@ -81230,14 +81280,15 @@
             "owner": "Codex Blueprint icon integration",
             "acceptance": "All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.",
             "evidence": [
-              "docs/production/employability-icons-20261014.md"
+              "docs/production/employability-icons-20261014.md",
+              "private/production-evidence/2026-10-14/employability-icons/publication-receipt.json"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Focused icon source/reader checks in progress.",
+              "result": "passed",
+              "method": "Public 34355098dfc0d662e579aa6ceb6dd751535000e2; source 5511f2b01305aa86d0da3c3c8508d8d7cac979f1; successful Pages build1282984173. All39changed served file hashes match and12live desktop/mobile icon checks pass; actual screenshots inspected.",
               "date": "2026-10-14"
             },
-            "nextAction": "Verify Pages built at the exact public commit, source manifest/record hash, every changed served file hash, and the icon UI on desktop/mobile."
+            "nextAction": "Retain the exact deployed source/manifest and private live receipt."
           },
           {
             "surface": "visuals",
@@ -81490,6 +81541,417 @@
               "date": "2026-10-14"
             },
             "nextAction": "Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20261014-107",
+        "title": "Review and locally redesign Blueprint navigation and handover",
+        "types": [
+          "visual",
+          "implementation"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Publish the reviewed Blueprint redesign with exact curriculum retention and accessible, state-preserving navigation controls.",
+        "before": "Start Here leads with production bookkeeping; World & Year presents an older week map; dated evidence competes with current status; navigation cannot collapse.",
+        "after": "Reviewed Start Here, shared phase journey and navigation/focus controls, with transient local-review labels replaced by durable design/implementation boundaries.",
+        "source": "Tania reviewed the displayed Start Here and desktop/mobile Focus table screenshots, then replied love it directly to the explicit question asking whether this version was ready to publish to the existing Blueprint website.",
+        "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+        "nextAction": "Build and publish only the checked generated static reader to the existing Blueprint repository, then verify the exact live version and key behaviours.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Codex static Blueprint local review",
+          "scope": "Existing static public Blueprint reader uses existing public-safe records, authorised dated game screenshots and approved icons. Optional per-tab layout preferences use sessionStorage. No student data, telemetry, new external service, private-preview access or game change.",
+          "rationale": "Explicitly approved reader redesign on the existing GitHub Pages host. Private originals and internal evidence remain outside generated public artifacts. Unavailable owner-held sources are not offered as public downloads.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Existing public design records only; no student records or new data collection.",
+            "locations": "Existing GitHub Pages static website; private backup stays on the owner machine.",
+            "accessCountries": "Existing public website access; no new account-data transfer or provider.",
+            "providers": "Existing GitHub Pages only; no new external service is introduced.",
+            "lifecycle": "Existing public design records; private backup and evidence retain owner access.",
+            "encryption": "Existing HTTPS hosting; no new claim about student storage or encryption.",
+            "logging": "No added telemetry, analytics or application logging.",
+            "identity": "No login, student identifier collection or changed account authority.",
+            "isolation": "Static design reader; school/account isolation remains unverified separately.",
+            "privacySafety": "Private files, credential tokens and licensed originals excluded from publication.",
+            "applicability": "Blueprint reporting only; no WA compliance or real-student release claim.",
+            "verification": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. No new student data or private/public access change."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source."
+          ],
+          "reviewedBy": "Codex source/public-output inspection",
+          "reviewedAt": "2026-10-14",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Local source/reader checks in progress.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Publish only after source/guarded-build checks; verify Pages commit, live manifest/record and changed-file hashes plus Start Here/shared phases/Focus table."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Review this local reader change; preserve source/game/approval boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-107",
+              "CE-BLUEPRINT-SITE-REVIEW-20261014"
+            ],
+            "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
+            "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
+            "evidence": [
+              "docs/production/blueprint-redesign-review-20261014.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
           }
         ]
       }

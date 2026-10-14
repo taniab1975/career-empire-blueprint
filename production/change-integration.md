@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: 27verified256WebPs total383746bytes; current renderer uses only the approved family. Old two27asset families remain archived. Table thumbnails remain25/39px; dialog and256px links provide readable larger previews.
+Release scope: Reviewed handover introduction, coherent navigation, shared Phase0–11 world/curriculum view and independent top/sidebar controls with reversible table focus. Exact197requirements, source references, EST flags and approved icons retained. No game repository changes.
 
-Only the approved static-reader iconfamily is adopted. The current12phases,197source-backed rows, original14experiences and outstanding teaching/game/school work remain separate. No new game deployment or student achievement is claimed.
+Tania approved the displayed reader redesign for the existing public Blueprint. Teaching provision, phase timing, school/learner acceptance and game work remain separate and incomplete where recorded. No new game deployment or student achievement is claimed.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -22887,7 +22887,7 @@ Next: Retain this scoped verification; underlying teaching, game and school acce
 
 ## CE-CHANGE-20261014-106 — Adopt the approved dimensional employability icon family exclusively
 
-Integration: **ready-for-publication**. Types: visual, implementation, release. Owner: Codex Blueprint icon integration; Tania owns artwork acceptance.
+Integration: **complete**. Types: visual, implementation, release. Owner: Codex Blueprint icon integration; Tania owns artwork acceptance.
 
 **Objective:** Give the existing employability parent/subskill mapping the approved consistent visual family while preserving compact tables and accessible fullsize previews.
 
@@ -22897,7 +22897,7 @@ Integration: **ready-for-publication**. Types: visual, implementation, release. 
 
 **Source:** Tania: Please create a new set of employability icons in keeping with the aesthetic of the game. Let's sort that out and use it exclusively going forward. Latest: OK great - please go ahead with the rest of that styling.
 
-**Next:** Publish the scoped reader and retain the independent live receipt.
+**Next:** Retain the exact published source/manifest and private receipt; use only the approved current family for future employability styling.
 
 ### Start Here — updated
 
@@ -22984,7 +22984,7 @@ Verification: passed / 106 source tests, TypeScript and focused lint passed.12 f
 
 Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -22994,11 +22994,12 @@ Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint
 
 Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
 
-Verification: pending / Focused icon source/reader checks in progress.
+Verification: passed / Public 34355098dfc0d662e579aa6ceb6dd751535000e2; source 5511f2b01305aa86d0da3c3c8508d8d7cac979f1; successful Pages build1282984173. All39changed served file hashes match and12live desktop/mobile icon checks pass; actual screenshots inspected.
 
 - [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/publication-receipt.json)
 
-Next: Verify Pages built at the exact public commit, source manifest/record hash, every changed served file hash, and the icon UI on desktop/mobile.
+Next: Retain the exact deployed source/manifest and private live receipt.
 
 ### Look and feel — updated
 
@@ -23203,6 +23204,292 @@ Verification: passed / 106 source tests, TypeScript and focused lint passed.12 f
 - [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
 
 Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+## CE-CHANGE-20261014-107 — Review and locally redesign Blueprint navigation and handover
+
+Integration: **ready-for-publication**. Types: visual, implementation. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+**Objective:** Publish the reviewed Blueprint redesign with exact curriculum retention and accessible, state-preserving navigation controls.
+
+**Before:** Start Here leads with production bookkeeping; World & Year presents an older week map; dated evidence competes with current status; navigation cannot collapse.
+
+**Required result:** Reviewed Start Here, shared phase journey and navigation/focus controls, with transient local-review labels replaced by durable design/implementation boundaries.
+
+**Source:** Tania reviewed the displayed Start Here and desktop/mobile Focus table screenshots, then replied love it directly to the explicit question asking whether this version was ready to publish to the existing Blueprint website.
+
+**Next:** Build and publish only the checked generated static reader to the existing Blueprint repository, then verify the exact live version and key behaviours.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: pending / Local source/reader checks in progress.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Publish only after source/guarded-build checks; verify Pages commit, live manifest/record and changed-file hashes plus Start Here/shared phases/Focus table.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### Buildings and places — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### Avatar and wardrobe references — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Review this local reader change; preserve source/game/approval boundaries.
+
+Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+
+Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
+
+Verification: passed / 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. This verifies the static reader only; underlying game/teaching/school acceptance remains separate.
+
+- [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+
+Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
 
 ## Historical boundary
 

@@ -2,7 +2,7 @@
 
 2026-10-12
 
-ECC PR53 is live at 46d63d4d55a24123d3a578e3d257f0625f462426; Pages run 38320903492 succeeded at 23:15:18 UTC. Tania accepted the actual live opening at 23:21 UTC. 222 source/unit tests and affected checks passed; startup grassRetry passed, six critical journeys had four passes and two failures, broad regression was not run. Natural Chapel walking, the Sprout 500 ms movement threshold and reported missing Market/Admin access remain open. This is opening acceptance, not whole-game, school/device/security or curriculum mastery acceptance. The Blueprint is an authored WIP snapshot for colleague review; publication has its own receipt.
+The reviewed Blueprint handover/navigation redesign is approved for publication. Its shared phases, exact curriculum and approved icons remain design records; authored materials, school timing, game implementation and learner evidence need their own verification.
 
 ## First session
 
@@ -59,8 +59,8 @@ Concise opening review brief, confirmed two 100-minute doubles weekly (four acro
 ## Open decisions
 
 - Tania / school: confirm the delivery cohort; 2027 is the current planning baseline, not an explicit cohort confirmation.
-- Teacher / school: select the applicable assessment outline, annual EST content and sitting. Do not copy 2026 task dates or conditions.
-- Tania / teacher: review broad pacing using the confirmed two 100-minute doubles weekly, or four doubles across Weeks 1–2. This still gives 100 nominal hours over 30 weeks before interruptions, versus 110 notional syllabus hours; teaching adequacy and trial feasibility are not established.
+- Teacher / school: the21exact 2027 EST selections are marked in the planner. Confirm the applicable assessment outline, school sitting and calendar dates; do not copy2026dates.
+- Tania / teacher: review capacity using the confirmed two100-minute doubles weekly. Phase0–11 is the shared design sequence; weeks, lessons and dates remain undecided. The older30-week map is an archived capacity proposal.
 - Designer / teacher: author and review missing teaching, observation and transfer evidence. All 82 points are allocated; none is verified as mastered.
 - Project owner: nominate a successor and verify their access to private source, hosting and recovery. The Blueprint does not prove account succession.
 - Maintainer: reconcile the persistent project intake and integration backlog. A refreshed monitor is not proof that every older change is reconciled.

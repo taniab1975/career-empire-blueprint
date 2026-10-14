@@ -39,3 +39,7 @@ Compact table images remain 25px parent / 39px subskill. Accessible labels name 
 ## Verification
 
 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All 27 hashes, 42 mappings, 197 rows / 45 partial cues and 12 phase IDs/order retained. Standard Vinext build passed. The public release identity and live receipt remain pending.
+
+## Verified public release
+
+Public 34355098dfc0d662e579aa6ceb6dd751535000e2; source 5511f2b01305aa86d0da3c3c8508d8d7cac979f1; successful Pages build1282984173. All39changed served file hashes match and12live desktop/mobile icon checks pass; actual screenshots inspected. The exact deployed source is retained independently from this private closure. No second public build is implied.

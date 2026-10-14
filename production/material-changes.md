@@ -1637,17 +1637,35 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **domain:** Static Blueprint employability icon styling
 - **source:** Tania: Please create a new set of employability icons in keeping with the aesthetic of the game. Let's sort that out and use it exclusively going forward. Latest: OK great - please go ahead with the rest of that styling.
 - **owner:** Codex Blueprint icon integration; Tania owns artwork acceptance
-- **status:** Source/reader verified; publication pending
+- **status:** Published and verified static-reader icon adoption
 - **rationale:** Give the existing employability parent/subskill mapping the approved consistent visual family while preserving compact tables and accessible fullsize previews.
 - **dependencies:** CE-CHANGE-20261014-105
 - **evidence:** docs/production/employability-icons-20261014.md / data/employability-icons.json / tests/employability-icons.test.mjs
-- **nextAction:** Publish the scoped reader and retain the independent live receipt.
+- **nextAction:** Retain the exact published source/manifest and private receipt; use only the approved current family for future employability styling.
 - **supersededRecord:** None
 - **designApproval:** User explicitly approved all27dimensional styling and exclusive future use. Artwork approval remains separate from game implementation or teaching/mastery.
 - **implementation:** 27verified256WebPs total383746bytes; current renderer uses only the approved family. Old two27asset families remain archived. Table thumbnails remain25/39px; dialog and256px links provide readable larger previews.
-- **deployment:** Pending scoped public reader publication; no private-preview access or game checkout change.
-- **testing:** 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed; guarded Pages build follows the exact source commit.
+- **deployment:** Public 34355098dfc0d662e579aa6ceb6dd751535000e2; source 5511f2b01305aa86d0da3c3c8508d8d7cac979f1; successful Pages build1282984173. All39changed served file hashes match and12live desktop/mobile icon checks pass; actual screenshots inspected. No game checkout or private-preview access change.
+- **testing:** 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed; guarded Pages build follows the exact source commit. Public 34355098dfc0d662e579aa6ceb6dd751535000e2; source 5511f2b01305aa86d0da3c3c8508d8d7cac979f1; successful Pages build1282984173. All39changed served file hashes match and12live desktop/mobile icon checks pass; actual screenshots inspected.
 - **taniaAcceptance:** Approved exclusive iconfamily/style; no whole-course or game-implementation acceptance is inferred.
+
+## CE-CHANGE-20261014-107 — Review and locally redesign Blueprint navigation and handover
+
+- **date:** 2026-10-14
+- **domain:** Local static Blueprint reader and shared phase presentation
+- **source:** Tania reviewed the displayed Start Here and desktop/mobile Focus table screenshots, then replied love it directly to the explicit question asking whether this version was ready to publish to the existing Blueprint website.
+- **owner:** Codex Blueprint reader; Tania owns structure and publication acceptance
+- **status:** Approved and source/reader verified; publication pending
+- **rationale:** Local Blueprint redesign for review: clearer course and handover introduction; shared Phase0–11 view; dated historical material; current/proposed distinctions; independent top/sidebar controls and reversible table focus. Existing public3435509 remains unchanged. No push, merge, deployment or publication is authorised for this candidate.
+- **dependencies:** CE-CHANGE-20261014-106
+- **evidence:** docs/production/blueprint-redesign-review-20261014.md / app/site-guide.tsx / data/learning-planner-retention.json
+- **nextAction:** Build and publish only the checked generated static reader to the existing Blueprint repository, then verify the exact live version and key behaviours.
+- **supersededRecord:** None
+- **designApproval:** Displayed redesign and publication to the existing Blueprint site approved. Learning phases, teaching/assessment and game acceptance remain separate.
+- **implementation:** Local Blueprint redesign for review: clearer course and handover introduction; shared Phase0–11 view; dated historical material; current/proposed distinctions; independent top/sidebar controls and reversible table focus. Existing public3435509 remains unchanged. No push, merge, deployment or publication is authorised for this candidate.
+- **deployment:** Pending exact-source generated-reader publication and independent live verification.
+- **testing:** 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source.
+- **taniaAcceptance:** Accepted the displayed reader redesign for publication; no game or classroom acceptance inferred.
 
 ## Retained Atlas principles
 

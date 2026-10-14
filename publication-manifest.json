@@ -1,24 +1,24 @@
 {
-  "sourceCommit": "5511f2b01305aa86d0da3c3c8508d8d7cac979f1",
-  "generatedAt": "2026-10-14T02:37:58.650Z",
-  "revision": "V2.26 / 14 October 2026",
-  "recordSha256": "18b73579aa8becae781b2f1b9fc91a4c6867c9d1ec0021238427b8f8f299d3ba",
+  "sourceCommit": "d320bb9ee21e33c8b2fa939c18dbe900b581c055",
+  "generatedAt": "2026-10-14T04:00:43.449Z",
+  "revision": "V2.27 / 14 October 2026",
+  "recordSha256": "d140a0d5266a87407ae2e113cd9e991cf7c2fbe5c6423a359b8487c3469073c7",
   "files": [
     {
-      "path": "assets/curriculum-planner-BLn2C5cR.js",
-      "sha256": "ad16bc0ea296918cb2c7a329a06dee856cb9daa165c13c539fad5edd22cb7a77"
+      "path": "assets/curriculum-planner-CBs-qCkL.js",
+      "sha256": "8171352a8064d1f4014cd8adbe8133d0d52a01c27984834ac225f2f2aa71b00a"
     },
     {
-      "path": "assets/index-Ao5FtktB.js",
-      "sha256": "38f2c60c8d40847dffceb29c59c81f2bcc0e77d317cd85200ac4278e526b5cab"
+      "path": "assets/index-Bq3nliky.js",
+      "sha256": "432dcecd1b3d0de93efd154c5d87c4d1fa42e75b86896d4e855e9b275ff4f5cc"
     },
     {
-      "path": "assets/index-D4s13IA2.css",
-      "sha256": "23e8d59b462822b1556d203681b8647acc59bc052348b73e854aa736c4aff5da"
+      "path": "assets/index-DDnUcXMK.css",
+      "sha256": "f8a70c3420eb85d1e615fd38684bcd3ac9f48ec45bd788b72d2ff5a84facc0c3"
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "18b73579aa8becae781b2f1b9fc91a4c6867c9d1ec0021238427b8f8f299d3ba"
+      "sha256": "d140a0d5266a87407ae2e113cd9e991cf7c2fbe5c6423a359b8487c3469073c7"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1182,7 +1182,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "e53ea24e862f3bf0a45244e9b2b22b2a26e247df5e5483499893124b1e292079"
+      "sha256": "c37547d87facea06e8b893a87701aad02eebb25801eecdddcb7c71b4644b7edf"
     },
     {
       "path": "playable-3d/app.js",
@@ -1437,6 +1437,14 @@
       "sha256": "b6ea16439ea302b61c01e9dfa8d3537dd3eb6279eed36f9212722d44d62b9556"
     },
     {
+      "path": "production/blueprint-redesign-review-20261014.html",
+      "sha256": "42dbafebcf1ed9a1ab90af97376e35d9c73dbf79595f9447b55a6da8a876069b"
+    },
+    {
+      "path": "production/blueprint-redesign-review-20261014.md",
+      "sha256": "55ffbeba743869b7ca3cf7f6bd0c0289846cc22fa2a4866dad88d93c7617a841"
+    },
+    {
       "path": "production/buffy-animation-20261001.md",
       "sha256": "5064e21785e5e5be26d1ad4eb919ec3d7237308768939d9002c8503057362b92"
     },
@@ -1446,7 +1454,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "127e429808fff8e33cc595034e9e98cfa5f1e083d1cb0a3d7b0a98e4d515af9c"
+      "sha256": "3381a1874531000795803cc4f14b6771442a17c762b0d3b80feadaaae7081b2d"
     },
     {
       "path": "production/change-workflows.md",
@@ -1474,7 +1482,7 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "abef27af6320afc0a5743a9ea3a94b88f8a7e825408154ccf661837a1f34a7b5"
+      "sha256": "4e04cdcc498a9141e13904d06380837144573fb299d4dcfef416b68d21fe63be"
     },
     {
       "path": "production/current-state.md",
@@ -1542,11 +1550,11 @@
     },
     {
       "path": "production/employability-icons-20261014.html",
-      "sha256": "85022a2029f2b8d623c42c820aee2ebd827460fb449cb6ec3ec1579af7a5fe9d"
+      "sha256": "e6368f978a6d85ca27c72ccab262470febb1fb91ce24a3120eb8945a7a15ad85"
     },
     {
       "path": "production/employability-icons-20261014.md",
-      "sha256": "f95d0f349fca75b0978c3c8e5e56193162a00e0d905bb11b3ba81cb7219749de"
+      "sha256": "7c5336692c9c957fcd6e3f60843ca394bbf1de15ca0750f77798529fea920962"
     },
     {
       "path": "production/environment-release-20260912.md",
@@ -1622,7 +1630,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "d68ccc4cc4dbd7de93ca7e9b527eabf761de36e9310ed67ffcebe7c46257a894"
+      "sha256": "bfe029ae1ce9721376cf9ecfa1b42a7ab363c859daba46d03f77de551d37c443"
     },
     {
       "path": "production/media-oval-20260911.md",
@@ -1722,11 +1730,11 @@
     },
     {
       "path": "production/successor-start.html",
-      "sha256": "31c01a336a2daf27642036225ac994cf280f1e49d280b7b45ba32879c6f04b2e"
+      "sha256": "69714cfa24ef67983adddfeb00a8728a80cfc4d38e4360abb56e43bf45f0adbe"
     },
     {
       "path": "production/successor-start.md",
-      "sha256": "21ea764c0ba35291000d9c7a2f9256742f0903fb3e7569ba5d80077b87bf0011"
+      "sha256": "adaf66acdebfbf1279be94bac673773433cc8d231c9091089b5a6ed06fa80082"
     },
     {
       "path": "production/v212-release-receipt-2026-09-10.md",
