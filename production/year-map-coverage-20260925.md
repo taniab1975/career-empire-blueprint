@@ -1,3 +1,5 @@
+> Current sequencing view: [proposed phase planner](phase-planner-20261014.md),14October2026. Phases0–11 replace fixed week display for the current review. The earlier year/week allocations below remain dated proposals; weeks and lessons are undecided. Exact curriculum/source records are preserved.
+
 # Career Empire — detailed curriculum coverage cross-check
 
 

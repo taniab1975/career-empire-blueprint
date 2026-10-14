@@ -1613,6 +1613,24 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **testing:** 100 source tests and TypeScript passed; rebuilt1280x900/390x844 reader routes, reciprocal links, search/detail, dated media and public-record download checked. Long-hash mobile overflows corrected. Simulated viewports only; no new game or security acceptance.
 - **taniaAcceptance:** Actual ECC opening accepted23:21UTC; Blueprint publication requested. Remaining game, curriculum, device and security acceptance remain separate.
 
+## CE-CHANGE-20261014-105 — Integrate the compact curriculum and proposed phase planner into the live Blueprint
+
+- **date:** 2026-10-14
+- **domain:** Static Blueprint curriculum/experience reader integration
+- **source:** Tania: please update the live blueprint; explicit follow-up sequence Phase0 intro/exploration/worldoverview, Phase1 Mara’s first paid gig/initiative, Phase2 changingworld; weeks and lessons later.
+- **owner:** Codex Blueprint integration; Tania owns curriculum/design acceptance
+- **status:** Source and affected reader verified; ready for guarded Pages publication
+- **rationale:** Make what students do, when in the proposed sequence and why visible without losing exact curriculum, source references, earlier useful records or proposed-status boundaries.
+- **dependencies:** CE-CHANGE-20261012-103
+- **evidence:** docs/production/phase-planner-20261014.md / tests/learning-planner.test.mjs
+- **nextAction:** Commit intended private source, run final guarded Pages build, publish only generated public files and verify deployed source/record hashes.
+- **supersededRecord:** None
+- **designApproval:** Public Blueprint integration and the opening phase sequence explicitly authorised; weeks, lessons, full teacher delivery, formal assessment and game implementation remain undecided.
+- **implementation:** 197point/subpoint planner mounted in the existing learning section with isolated styles. Twelve phases preserveJ0–J10; CE-ORIENTATION is separate/unpaid. Exact references precede teaching text; original14experience records and other reader sections remain.
+- **deployment:** Public reader publication pending independent GitHub Pages and served-hash verification; no game or private preview change.
+- **testing:** 104repository tests, TypeScript, focused lint and standard build passed. Final headlessEdge155:27focused desktop/mobile checks passed at1280×900/390×844; screenshots inspected; no page errors. Game/physical-device/classroom tests are separate.
+- **taniaAcceptance:** Existing private planner and compact unit hierarchy reviewed; live integration and phase sequence requested. No blanket curriculum or learning mastery acceptance.
+
 ## Retained Atlas principles
 
 Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries

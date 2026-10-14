@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: Scoped publication of the authored WIP Blueprint and actual PR53 opening receipt for colleague review. Record102 and game/curriculum/security integrations remain unfinished; this is not a completed teacher program or whole-game acceptance.
+Release scope: 197point/subpoint planner mounted in the existing learning section with isolated styles. Twelve phases preserveJ0–J10; CE-ORIENTATION is separate/unpaid. Exact references precede teaching text; original14experience records and other reader sections remain.
 
-PR53 live opening was accepted by Tania; natural Chapel walking, Sprout movement threshold and reported Market/Admin access remain open. Six critical journeys:4pass/2fail; broad regression not run. All14experiences remainDraft and WA answersUNVERIFIED. Dated12October scan:295pending intake,44incomplete integrations,14coverage/protection failures. The snapshot preserves these boundaries and keeps record102 incomplete.
+Phase sequence, resource packs, curriculum delivery and portfolio integration are proposed. Weeks/lessons and formal assessment dates are undecided. Earlier14experiences, dates and unfinished integrations remain visible as history. No game PR57 deployment, student completion or school readiness is inferred; unrelated pending104housekeeping is excluded.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -22581,6 +22581,308 @@ Verification: passed / Four representative retained images actually loaded on de
 - [Evidence](private/production-evidence/2026-10-13/blueprint-snapshot/reader-checks.json)
 
 Next: Continue underlying unfinished design/game/security tasks separately; scoped snapshot surface checks are recorded.
+
+## CE-CHANGE-20261014-105 — Integrate the compact curriculum and proposed phase planner into the live Blueprint
+
+Integration: **ready-for-publication**. Types: curriculum, implementation, release. Owner: Codex Blueprint integration; Tania owns curriculum/design acceptance.
+
+**Objective:** Make what students do, when in the proposed sequence and why visible without losing exact curriculum, source references, earlier useful records or proposed-status boundaries.
+
+**Before:** Existing reader has parent-only82-point mapping and14original experience candidates; the reviewed197-point interactive planner was separate.
+
+**Required result:** 197point/subpoint planner mounted in the existing learning section with isolated styles. Twelve phases preserveJ0–J10; CE-ORIENTATION is separate/unpaid. Exact references precede teaching text; original14experience records and other reader sections remain.
+
+**Source:** Tania: please update the live blueprint; explicit follow-up sequence Phase0 intro/exploration/worldoverview, Phase1 Mara’s first paid gig/initiative, Phase2 changingworld; weeks and lessons later.
+
+**Next:** Commit intended private source, run final guarded Pages build, publish only generated public files and verify deployed source/record hashes.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Review start against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Source104tests/types/lint/build, exact197record retention and27headless desktop/mobile reader checks passed; saved screenshots inspected.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Priorities and linked execution tasks — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Review roadmap against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Existing decisions, formal assessment and game roadmap retained exactly; source104tests and scoped reader checks preserve their dated/proposed boundaries.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Review history against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Source104tests/types/lint/build, exact197record retention and27headless desktop/mobile reader checks passed; saved screenshots inspected.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Review protocol against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Source104tests/types/lint/build, exact197record retention and27headless desktop/mobile reader checks passed; saved screenshots inspected.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Review exports against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Source104tests/types/lint/build, exact197record retention and27headless desktop/mobile reader checks passed; saved screenshots inspected.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Review publication against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: pending / Focused source/reader checks in progress.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+
+Next: Run guarded Pages build from the saved source, publish generated files to the existing public main and verify its successful Pages deployment plus served manifest/record hashes.
+
+### Curriculum and reciprocal mappings — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Review curriculum against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Source104tests/types/lint/build, exact197record retention and27headless desktop/mobile reader checks passed; saved screenshots inspected.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Review flow against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Source104tests/types/lint/build, exact197record retention and27headless desktop/mobile reader checks passed; saved screenshots inspected.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Review journey against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Source104tests/types/lint/build, exact197record retention and27headless desktop/mobile reader checks passed; saved screenshots inspected.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Year plan and assessment — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Review assessment against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Existing decisions, formal assessment and game roadmap retained exactly; source104tests and scoped reader checks preserve their dated/proposed boundaries.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Review teacher against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Source104tests/types/lint/build, exact197record retention and27headless desktop/mobile reader checks passed; saved screenshots inspected.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Review sources against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Source104tests/types/lint/build, exact197record retention and27headless desktop/mobile reader checks passed; saved screenshots inspected.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Review decisions against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Existing decisions, formal assessment and game roadmap retained exactly; source104tests and scoped reader checks preserve their dated/proposed boundaries.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Review build against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Source104tests/types/lint/build, exact197record retention and27headless desktop/mobile reader checks passed; saved screenshots inspected.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Review recovery against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Source104tests/types/lint/build, exact197record retention and27headless desktop/mobile reader checks passed; saved screenshots inspected.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Review media against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Source104tests/types/lint/build, exact197record retention and27headless desktop/mobile reader checks passed; saved screenshots inspected.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Review assets against this bounded phase-planner rollout; preserve unchanged historical/game/approval records.
+
+Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint reader integration.
+
+Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
+
+Verification: passed / Source104tests/types/lint/build, exact197record retention and27headless desktop/mobile reader checks passed; saved screenshots inspected.
+
+- [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](tests/learning-planner.test.mjs)
+
+Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
 
 ## Historical boundary
 

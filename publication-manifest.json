@@ -1,20 +1,24 @@
 {
-  "sourceCommit": "44be356115b765b423458beb8a4fc6b21a8cca94",
-  "generatedAt": "2026-10-13T01:54:33.317Z",
-  "revision": "V2.24 / 12 October 2026",
-  "recordSha256": "2cef00f243e40c8dab01f7cff077e2934819defe0b2803786438227839b934fb",
+  "sourceCommit": "dc2fb380f69572fd8c66ddba928432da24be448a",
+  "generatedAt": "2026-10-14T01:56:48.386Z",
+  "revision": "V2.25 / 14 October 2026",
+  "recordSha256": "57e644e6d825c2460a690dcaf54357617ae205d1e83cf534b916ae155b4283b2",
   "files": [
+    {
+      "path": "assets/curriculum-planner-BIfUsFXg.js",
+      "sha256": "7de39eeef0fd6294cdaa5722529b83daa0f8a47b670b40faf41948de208904d9"
+    },
     {
       "path": "assets/index-D4s13IA2.css",
       "sha256": "23e8d59b462822b1556d203681b8647acc59bc052348b73e854aa736c4aff5da"
     },
     {
-      "path": "assets/index-DNpIqvPi.js",
-      "sha256": "0eec74de75b1908ad7d8d652a04af9fa75791f11a98fc2a94707d23c321b53f0"
+      "path": "assets/index-DYJN6ScR.js",
+      "sha256": "256da1ea540b7b2b84ff066b3869e205a0ebe54d028a6d4c48991f3914f55fbf"
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "2cef00f243e40c8dab01f7cff077e2934819defe0b2803786438227839b934fb"
+      "sha256": "57e644e6d825c2460a690dcaf54357617ae205d1e83cf534b916ae155b4283b2"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1178,7 +1182,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "e3676169be8a8d96777f4e37e580c6b204840c153a42c9400d236c00cacaa6f4"
+      "sha256": "1a9308aa4a52c0a8c7a1a7a26ad3414cb7850cc3cbb4f66b0c5e84aa2cf85bcc"
     },
     {
       "path": "playable-3d/app.js",
@@ -1442,7 +1446,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "d3f153c977feadc7941f197a08308e1536deb2141d5eb727f6a4ca7398a90685"
+      "sha256": "0bfb438907eb2b374df15f8fd55fd722c8e70de9f9c8e2f2b21dfaa99a8d619a"
     },
     {
       "path": "production/change-workflows.md",
@@ -1610,7 +1614,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "a79a8783192b93f895ca1f93725ef0c0c4b509843743850391948f82aa992a05"
+      "sha256": "adc96f85623145ae8c34a8ff7f5b526a64ec6917f91e3f0aadabb9f458e49683"
     },
     {
       "path": "production/media-oval-20260911.md",
@@ -1643,6 +1647,14 @@
     {
       "path": "production/operating-protocol.md",
       "sha256": "138f1aeccb2893db720c02cd8834f56f64c4885729b0b707376da071cbc13816"
+    },
+    {
+      "path": "production/phase-planner-20261014.html",
+      "sha256": "e35f8b511a07738c2b31e02b4a5bbaf26051c745746c6ad51919d3ee4208d217"
+    },
+    {
+      "path": "production/phase-planner-20261014.md",
+      "sha256": "88391a86bf46201be119755de36c553b7ff165fcb446fcce55a6b09ba986f500"
     },
     {
       "path": "production/production-plan.md",
@@ -1750,19 +1762,19 @@
     },
     {
       "path": "production/year-map-20260925.html",
-      "sha256": "031ccc76be894d6a226fd8da3b265fd6d0563c35ef3138d1a4b0210a7535d0d5"
+      "sha256": "87f451d6b125f4ace435c449be67985e09250795c5b8b53ade1ad73229d2abd9"
     },
     {
       "path": "production/year-map-20260925.md",
-      "sha256": "8ae8bd65f0dcd5b6e432af9a7006a37e212fa8d04851de900a8fa134a81f2c77"
+      "sha256": "176a774d191ecc49e769878708d7d5358483218e3228e49a54454dc58f697be1"
     },
     {
       "path": "production/year-map-coverage-20260925.html",
-      "sha256": "ef2f9a44ac71eda67a0aa1f3eaa8e5e79365cb5f7a6293e1cf5e682c0b910f5e"
+      "sha256": "bcc9d7b9511060fb642567cb50bb3e3eb631256af9a538e5ced5b6521702e9a7"
     },
     {
       "path": "production/year-map-coverage-20260925.md",
-      "sha256": "f6cc8ea98eae0e37cdb14d0248e6e7761bdea9f8a8dfc42f1ba13cd30234d331"
+      "sha256": "1c8bc439fb5b1c569ebb7757a3a3f48c0b21e87de15a1465b193b599e8a35209"
     },
     {
       "path": "references/CE-BLDG-001-home-base.png",
@@ -1799,6 +1811,222 @@
     {
       "path": "references/current/studio-jacket-walking.png",
       "sha256": "63103349fda80bd82c3955c2b3beec5b36bd245e52390b2a15b6a6311271d473"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-1-0.png",
+      "sha256": "93eada24161817838f9c971222d219a0f7d49df2e377d2109a6c939a51fcd59b"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-1-1.png",
+      "sha256": "a8eb61ebddc2a5d808a34843d36a3c2f9a5b15494a321001f2a13a570313c92b"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-1-2.png",
+      "sha256": "bebaf1497c9b07eb88f424a20828e99f4e02af71cfdac58bafc7e47519a15e58"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-1-3.png",
+      "sha256": "4c098781b4be0f03f39478845eccb286d1ab1fddd286832b7e4e418dd31135c6"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-1-4.png",
+      "sha256": "c12c1af38c456e42e99f8cab046e2ba6718e22fe071be42824f53f9dd7c2fe66"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-2-0.png",
+      "sha256": "dd2e3de9430f61fee4e971324a9d47c2a0e0b9b076173257ff71110812565b8a"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-2-1.png",
+      "sha256": "4c6d83250b93312a73aedeb149b2245196c0c1f5b26e848d767a35d87cba7f11"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-2-3.png",
+      "sha256": "b9429a9697e6c18ceb63e269d7ec871a47ab5aaccb7b40ddfb5ae38d5ebebd09"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-2-4.png",
+      "sha256": "c36751690904d69e6ae5d6ff40e699339d5d4bb13101128326a1b20c77687dc6"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-2-5.png",
+      "sha256": "be03acce238e9f7244800326f20933e8e74c31a252109d828328eaa10eeb49da"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-3-0.png",
+      "sha256": "a0dacab6e4c478c37bacb7bc6e38768b574e0d6b3b83e4a227fa904bca6a4b5c"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-3-1.png",
+      "sha256": "e1a4017d48192dfab0e9dc6ee02c236478793612f4302eb1685ea2f251b83200"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-3-2.png",
+      "sha256": "32c3c875f574681ad9668128b58ec5394dcfe61de8d92315d83e6c00c5062eaa"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-3-3.png",
+      "sha256": "df6dacf242f4e863941892e7b17823fe731bbc81557eb278ee7645128171dd58"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-3-4.png",
+      "sha256": "525e632325da0827cf808785b90635b5e0035294a0ad83b0b30e052c594a84e7"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-4-0.png",
+      "sha256": "44047897ae5754c05aaaae48ca3d4c960ac43403e1650a9672ca2edd29dd36ac"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-4-1.png",
+      "sha256": "999330ba4902e4de2bede919d8e4199668feb1ca16b52e00ceb15f73e3dd57e9"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-4-2.png",
+      "sha256": "36f6c67c91baa9b808a0215fb3a153cb60bd792d4701504abbb6c37ddaa821bb"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-4-3.png",
+      "sha256": "fed8133a03e20be74247c862fe4550969c4bf2abe99fa348ace130a0664c7559"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-5-0.png",
+      "sha256": "6e6e98c5b76161406cac17dd706173c9582edabb30ed1997f52b6225bdb51b4c"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-5-1.png",
+      "sha256": "239025a302e14017889de21ea44d7d5dbbaafb0260a9ca5037fbe12d286ecf5f"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-5-2.png",
+      "sha256": "7ac892bff83ca91f820d84dfa9c8cb90b32731dcbb5ed76aa48361fad9b2b17f"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-5-3.png",
+      "sha256": "0d2660119c74f235fbec706a45d68956e9e0ec18268fba6af5d1c118e8b38330"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-6-0.png",
+      "sha256": "c87d15c0b23473a22465ecd23e470de3d512a8bf3f034c1cb8e08eee32807231"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-6-1.png",
+      "sha256": "0fa4f6be1476ea872b4df1b3fc6cbea0833e64619c2bfe5208328ce5f5ac77fe"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-6-2.png",
+      "sha256": "9329645fa7762842d36bbf345b94b324379999d9eaec8f9e508d18621dbec643"
+    },
+    {
+      "path": "references/skill-logos/ecc/logo-6-3.png",
+      "sha256": "03be4e2157671c8f252a0b93ec9f8c64d794a8fe918e1da97a43368ff5d70b00"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-1-0.png",
+      "sha256": "cba94df57c667808f42b19243b4d1b823bd3ee2ee0078c80ee0619e9572ece6f"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-1-1.png",
+      "sha256": "844d11a3aefe1833a433ba24a35f03a5b1ca2fbd1673c4fa8f3627bb3419a19d"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-1-2.png",
+      "sha256": "e5d655a2dbeba0df7fec86a04665050272017a0921dd20d299c7299da2cd8824"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-1-3.png",
+      "sha256": "3895349275dab3ec9108ec3e9a0476be49eab96a46b05e1ba2ac27f4cc34ac9f"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-1-4.png",
+      "sha256": "50c1c48b5ffee450590ac9add598b65404141bc5596b9efa390061fb8d64e0db"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-2-0.png",
+      "sha256": "9e5a8be895edef0336091348b91ed3d57a88ad0fe740babfd0ae32c17f822608"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-2-1.png",
+      "sha256": "784c5c5606223a00fce786f641c9471ee4c596da9c509f3900e82096a43fa653"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-2-3.png",
+      "sha256": "4ccd1d5ac077f6fae601327afa50ae9f938437fdd811384b1641894b2ff3da3d"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-2-4.png",
+      "sha256": "cf24a659a1a7b9e235691afb99464bbf794027a31c57e0a0ee68dd9efa2d5768"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-2-5.png",
+      "sha256": "a556b15b255f587cb7a4bfc6f722732506c3e7a38fbcfcb57f4f04df820708dd"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-3-0.png",
+      "sha256": "fb7563afde885b232f974e708b69603e0d3f10686ee812d58cd17a7484d1b5ab"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-3-1.png",
+      "sha256": "dafbd8ad59754c6df50f316968436f118a78a2c8e3d0171897a9d660ec22d47d"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-3-2.png",
+      "sha256": "6cebf44b0697f56cc94d28c7d7c68140c11157f2458da6e2ea254e0fe7cbe893"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-3-3.png",
+      "sha256": "4fd5c47478d4543a196d1a8d311f770fad464324277d6e2d31f91a47a63e2b9d"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-3-4.png",
+      "sha256": "e09ac40dda58f36e7ea05535b1b4bf51fb9e61cfaa8f2a4e9594a982a5506c5b"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-4-0.png",
+      "sha256": "6d28dee96d96ba8834eae4f9215403e3176bcfa07dd2718aeaeb516989c17e33"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-4-1.png",
+      "sha256": "eed883a4e419b285b18454df5a40804df3c9f4429544d46ff6aaa2c20fb0d4ec"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-4-2.png",
+      "sha256": "1df6f7bc44c4f5cf895eb290ef7ac08dc70ec4c242c4efdc358aca0a41776b5e"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-4-3.png",
+      "sha256": "a2697eb2d4995f1cd8bcbdb7e1c6646bcf2de9019b1f0829e63489ae414155d4"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-5-0.png",
+      "sha256": "bbc9db69a2725bfa50744fb230cfab36f65c115c94a4d7843d0c544ef912b142"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-5-1.png",
+      "sha256": "a35b609eb5e9769cbe7c554726be12c0014e50ae7f6141aba3810841dd4239b3"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-5-2.png",
+      "sha256": "eb91aed0b7c6e771c122b1c618ad8a909043cbeb2f0b4071ac396b8c3c034918"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-5-3.png",
+      "sha256": "79a41908b68056a0469561a712c7f289eb44cb33fa13a3edb3d5452a48d4caaa"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-6-0.png",
+      "sha256": "e5c7708c99bb67a99b2ff488c4dc1a5b1ee926a3fecdae6c05d277c5fbc6fdbb"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-6-1.png",
+      "sha256": "ab2d4a9fdafee87e27940d0a8539c4d2c6f5729867209d3e9710ce954ec1253e"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-6-2.png",
+      "sha256": "12e9a9a6d7036f89a9dc3e53ea982e3a030c12b6c03e285bb91dbbd6f740972d"
+    },
+    {
+      "path": "references/skill-logos/personal/logo-6-3.png",
+      "sha256": "b2c64de27531d0db203a57a905df22e13034b983cdf6984f5f4f0fe0a5c2d79b"
     },
     {
       "path": "references/style/avatar-studio.png",
