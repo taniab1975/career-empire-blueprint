@@ -1619,17 +1619,35 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **domain:** Static Blueprint curriculum/experience reader integration
 - **source:** Tania: please update the live blueprint; explicit follow-up sequence Phase0 intro/exploration/worldoverview, Phase1 Mara’s first paid gig/initiative, Phase2 changingworld; weeks and lessons later.
 - **owner:** Codex Blueprint integration; Tania owns curriculum/design acceptance
-- **status:** Source and affected reader verified; ready for guarded Pages publication
+- **status:** Scoped reader integration published and verified; teaching/game implementation remains separate
 - **rationale:** Make what students do, when in the proposed sequence and why visible without losing exact curriculum, source references, earlier useful records or proposed-status boundaries.
 - **dependencies:** CE-CHANGE-20261012-103
 - **evidence:** docs/production/phase-planner-20261014.md / tests/learning-planner.test.mjs
-- **nextAction:** Commit intended private source, run final guarded Pages build, publish only generated public files and verify deployed source/record hashes.
+- **nextAction:** Retain this release; reconcile104housekeeping separately. Continue curriculum/resource design and icon review without inferring completed teaching or game deployment.
 - **supersededRecord:** None
 - **designApproval:** Public Blueprint integration and the opening phase sequence explicitly authorised; weeks, lessons, full teacher delivery, formal assessment and game implementation remain undecided.
 - **implementation:** 197point/subpoint planner mounted in the existing learning section with isolated styles. Twelve phases preserveJ0–J10; CE-ORIENTATION is separate/unpaid. Exact references precede teaching text; original14experience records and other reader sections remain.
-- **deployment:** Public reader publication pending independent GitHub Pages and served-hash verification; no game or private preview change.
-- **testing:** 104repository tests, TypeScript, focused lint and standard build passed. Final headlessEdge155:27focused desktop/mobile checks passed at1280×900/390×844; screenshots inspected; no page errors. Game/physical-device/classroom tests are separate.
+- **deployment:** Public1cf4316e384dfa0029b00a1e8cac60402c68fa27; source dc2fb380f69572fd8c66ddba928432da24be448a; successful Pages build1282928100;67changed served file hashes matched and7live reader checks passed.
+- **testing:** 104repository tests, TypeScript, focused lint and standard build passed. Final headlessEdge155:27focused desktop/mobile checks passed at1280×900/390×844; screenshots inspected; no page errors. Game/physical-device/classroom tests are separate. Live7checks and67served file hashes passed; no public deletions.
 - **taniaAcceptance:** Existing private planner and compact unit hierarchy reviewed; live integration and phase sequence requested. No blanket curriculum or learning mastery acceptance.
+
+## CE-CHANGE-20261014-106 — Adopt the approved dimensional employability icon family exclusively
+
+- **date:** 2026-10-14
+- **domain:** Static Blueprint employability icon styling
+- **source:** Tania: Please create a new set of employability icons in keeping with the aesthetic of the game. Let's sort that out and use it exclusively going forward. Latest: OK great - please go ahead with the rest of that styling.
+- **owner:** Codex Blueprint icon integration; Tania owns artwork acceptance
+- **status:** Source/reader verified; publication pending
+- **rationale:** Give the existing employability parent/subskill mapping the approved consistent visual family while preserving compact tables and accessible fullsize previews.
+- **dependencies:** CE-CHANGE-20261014-105
+- **evidence:** docs/production/employability-icons-20261014.md / data/employability-icons.json / tests/employability-icons.test.mjs
+- **nextAction:** Publish the scoped reader and retain the independent live receipt.
+- **supersededRecord:** None
+- **designApproval:** User explicitly approved all27dimensional styling and exclusive future use. Artwork approval remains separate from game implementation or teaching/mastery.
+- **implementation:** 27verified256WebPs total383746bytes; current renderer uses only the approved family. Old two27asset families remain archived. Table thumbnails remain25/39px; dialog and256px links provide readable larger previews.
+- **deployment:** Pending scoped public reader publication; no private-preview access or game checkout change.
+- **testing:** 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed; guarded Pages build follows the exact source commit.
+- **taniaAcceptance:** Approved exclusive iconfamily/style; no whole-course or game-implementation acceptance is inferred.
 
 ## Retained Atlas principles
 

@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: 197point/subpoint planner mounted in the existing learning section with isolated styles. Twelve phases preserveJ0–J10; CE-ORIENTATION is separate/unpaid. Exact references precede teaching text; original14experience records and other reader sections remain.
+Release scope: 27verified256WebPs total383746bytes; current renderer uses only the approved family. Old two27asset families remain archived. Table thumbnails remain25/39px; dialog and256px links provide readable larger previews.
 
-Phase sequence, resource packs, curriculum delivery and portfolio integration are proposed. Weeks/lessons and formal assessment dates are undecided. Earlier14experiences, dates and unfinished integrations remain visible as history. No game PR57 deployment, student completion or school readiness is inferred; unrelated pending104housekeeping is excluded.
+Only the approved static-reader iconfamily is adopted. The current12phases,197source-backed rows, original14experiences and outstanding teaching/game/school work remain separate. No new game deployment or student achievement is claimed.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -22584,7 +22584,7 @@ Next: Continue underlying unfinished design/game/security tasks separately; scop
 
 ## CE-CHANGE-20261014-105 — Integrate the compact curriculum and proposed phase planner into the live Blueprint
 
-Integration: **ready-for-publication**. Types: curriculum, implementation, release. Owner: Codex Blueprint integration; Tania owns curriculum/design acceptance.
+Integration: **complete**. Types: curriculum, implementation, release. Owner: Codex Blueprint integration; Tania owns curriculum/design acceptance.
 
 **Objective:** Make what students do, when in the proposed sequence and why visible without losing exact curriculum, source references, earlier useful records or proposed-status boundaries.
 
@@ -22594,7 +22594,7 @@ Integration: **ready-for-publication**. Types: curriculum, implementation, relea
 
 **Source:** Tania: please update the live blueprint; explicit follow-up sequence Phase0 intro/exploration/worldoverview, Phase1 Mara’s first paid gig/initiative, Phase2 changingworld; weeks and lessons later.
 
-**Next:** Commit intended private source, run final guarded Pages build, publish only generated public files and verify deployed source/record hashes.
+**Next:** Retain the published reader and independent receipt; underlying design, resources and other incomplete integrations remain separate.
 
 ### Start Here — updated
 
@@ -22681,7 +22681,7 @@ Verification: passed / Source104tests/types/lint/build, exact197record retention
 
 Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -22691,11 +22691,12 @@ Records: CE-CHANGE-20261014-105, CE-PLAN-PHASES-20261014. Owner: Codex Blueprint
 
 Acceptance: Exact curriculum/source metadata retained; phase plans clearly proposed; original useful records and unaffected reader surfaces preserved.
 
-Verification: pending / Focused source/reader checks in progress.
+Verification: passed / Public1cf4316e384dfa0029b00a1e8cac60402c68fa27; source dc2fb380f69572fd8c66ddba928432da24be448a; successful Pages build1282928100;67changed served file hashes matched and7live reader checks passed.
 
 - [Evidence](docs/production/phase-planner-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/phase-planner/publication-receipt.json)
 
-Next: Run guarded Pages build from the saved source, publish generated files to the existing public main and verify its successful Pages deployment plus served manifest/record hashes.
+Next: Retain exact release identity and verified live hashes.
 
 ### Curriculum and reciprocal mappings — updated
 
@@ -22883,6 +22884,325 @@ Verification: passed / Source104tests/types/lint/build, exact197record retention
 - [Evidence](tests/learning-planner.test.mjs)
 
 Next: Retain this scoped verification; underlying teaching, game and school acceptance remain separate.
+
+## CE-CHANGE-20261014-106 — Adopt the approved dimensional employability icon family exclusively
+
+Integration: **ready-for-publication**. Types: visual, implementation, release. Owner: Codex Blueprint icon integration; Tania owns artwork acceptance.
+
+**Objective:** Give the existing employability parent/subskill mapping the approved consistent visual family while preserving compact tables and accessible fullsize previews.
+
+**Before:** Current reader displays retained personal/ECC icon choices alongside the phase planner.
+
+**Required result:** 27verified256WebPs total383746bytes; current renderer uses only the approved family. Old two27asset families remain archived. Table thumbnails remain25/39px; dialog and256px links provide readable larger previews.
+
+**Source:** Tania: Please create a new set of employability icons in keeping with the aesthetic of the game. Let's sort that out and use it exclusively going forward. Latest: OK great - please go ahead with the rest of that styling.
+
+**Next:** Publish the scoped reader and retain the independent live receipt.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Adopt the approved current icon family and retain exact parent/subskill associations and compact accessible previews.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Adopt the approved current icon family and retain exact parent/subskill associations and compact accessible previews.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Adopt the approved current icon family and retain exact parent/subskill associations and compact accessible previews.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Adopt the approved current icon family and retain exact parent/subskill associations and compact accessible previews.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Adopt the approved current icon family and retain exact parent/subskill associations and compact accessible previews.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish only the reviewed generated public reader through the existing GitHub Pages repository. Preserve all existing archived assets and private-preview access.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: pending / Focused icon source/reader checks in progress.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+
+Next: Verify Pages built at the exact public commit, source manifest/record hash, every changed served file hash, and the icon UI on desktop/mobile.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Adopt the approved current icon family and retain exact parent/subskill associations and compact accessible previews.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Adopt the approved current icon family and retain exact parent/subskill associations and compact accessible previews.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Adopt the approved current icon family and retain exact parent/subskill associations and compact accessible previews.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Buildings and places — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Confirmed unchanged for this display-only adoption; underlying teaching/game/source acceptance stays separate.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Avatar and wardrobe references — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Confirmed unchanged for this display-only adoption; underlying teaching/game/source acceptance stays separate.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### World, rewards and progression — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Confirmed unchanged for this display-only adoption; underlying teaching/game/source acceptance stays separate.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Confirmed unchanged for this display-only adoption; underlying teaching/game/source acceptance stays separate.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Adopt the approved current icon family and retain exact parent/subskill associations and compact accessible previews.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Adopt the approved current icon family and retain exact parent/subskill associations and compact accessible previews.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Confirmed unchanged for this display-only adoption; underlying teaching/game/source acceptance stays separate.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Adopt the approved current icon family and retain exact parent/subskill associations and compact accessible previews.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Confirmed unchanged for this display-only adoption; underlying teaching/game/source acceptance stays separate.
+
+Records: CE-CHANGE-20261014-106, CE-ICONS-DIMENSIONAL-V3. Owner: Codex Blueprint icon integration.
+
+Acceptance: All27approved256WebPs match hashes and stable numbers; accessible preview/labels and compact row dimensions retained; no game or source/curriculum changes.
+
+Verification: passed / 106 source tests, TypeScript and focused lint passed.12 focused headless Edge desktop/mobile checks passed; actual screenshots inspected. All27hashes,42mappings,197rows/45partial cues and12phase IDs/order retained. Standard Vinext build passed.
+
+- [Evidence](docs/production/employability-icons-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/employability-icons/icon-local-checks.json)
+
+Next: Preserve this bounded verification; teaching/mastery, game integration and the private preview remain separate.
 
 ## Historical boundary
 

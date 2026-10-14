@@ -1,24 +1,24 @@
 {
-  "sourceCommit": "dc2fb380f69572fd8c66ddba928432da24be448a",
-  "generatedAt": "2026-10-14T01:56:48.386Z",
-  "revision": "V2.25 / 14 October 2026",
-  "recordSha256": "57e644e6d825c2460a690dcaf54357617ae205d1e83cf534b916ae155b4283b2",
+  "sourceCommit": "5511f2b01305aa86d0da3c3c8508d8d7cac979f1",
+  "generatedAt": "2026-10-14T02:37:58.650Z",
+  "revision": "V2.26 / 14 October 2026",
+  "recordSha256": "18b73579aa8becae781b2f1b9fc91a4c6867c9d1ec0021238427b8f8f299d3ba",
   "files": [
     {
-      "path": "assets/curriculum-planner-BIfUsFXg.js",
-      "sha256": "7de39eeef0fd6294cdaa5722529b83daa0f8a47b670b40faf41948de208904d9"
+      "path": "assets/curriculum-planner-BLn2C5cR.js",
+      "sha256": "ad16bc0ea296918cb2c7a329a06dee856cb9daa165c13c539fad5edd22cb7a77"
+    },
+    {
+      "path": "assets/index-Ao5FtktB.js",
+      "sha256": "38f2c60c8d40847dffceb29c59c81f2bcc0e77d317cd85200ac4278e526b5cab"
     },
     {
       "path": "assets/index-D4s13IA2.css",
       "sha256": "23e8d59b462822b1556d203681b8647acc59bc052348b73e854aa736c4aff5da"
     },
     {
-      "path": "assets/index-DYJN6ScR.js",
-      "sha256": "256da1ea540b7b2b84ff066b3869e205a0ebe54d028a6d4c48991f3914f55fbf"
-    },
-    {
       "path": "blueprint-records.json",
-      "sha256": "57e644e6d825c2460a690dcaf54357617ae205d1e83cf534b916ae155b4283b2"
+      "sha256": "18b73579aa8becae781b2f1b9fc91a4c6867c9d1ec0021238427b8f8f299d3ba"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1182,7 +1182,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "1a9308aa4a52c0a8c7a1a7a26ad3414cb7850cc3cbb4f66b0c5e84aa2cf85bcc"
+      "sha256": "e53ea24e862f3bf0a45244e9b2b22b2a26e247df5e5483499893124b1e292079"
     },
     {
       "path": "playable-3d/app.js",
@@ -1446,7 +1446,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "0bfb438907eb2b374df15f8fd55fd722c8e70de9f9c8e2f2b21dfaa99a8d619a"
+      "sha256": "127e429808fff8e33cc595034e9e98cfa5f1e083d1cb0a3d7b0a98e4d515af9c"
     },
     {
       "path": "production/change-workflows.md",
@@ -1474,7 +1474,7 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "61d2bb2adeb02ee7f9522bf633f6751dee710281df80c6187d395fa2819a9077"
+      "sha256": "abef27af6320afc0a5743a9ea3a94b88f8a7e825408154ccf661837a1f34a7b5"
     },
     {
       "path": "production/current-state.md",
@@ -1539,6 +1539,14 @@
     {
       "path": "production/economy-lab-presentation-20260924.md",
       "sha256": "1cb1ea9bdd3ddaa301e1609e2f7e051902c2bd9bc0a1dd946ad1d2c6d6f557ce"
+    },
+    {
+      "path": "production/employability-icons-20261014.html",
+      "sha256": "85022a2029f2b8d623c42c820aee2ebd827460fb449cb6ec3ec1579af7a5fe9d"
+    },
+    {
+      "path": "production/employability-icons-20261014.md",
+      "sha256": "f95d0f349fca75b0978c3c8e5e56193162a00e0d905bb11b3ba81cb7219749de"
     },
     {
       "path": "production/environment-release-20260912.md",
@@ -1614,7 +1622,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "adc96f85623145ae8c34a8ff7f5b526a64ec6917f91e3f0aadabb9f458e49683"
+      "sha256": "d68ccc4cc4dbd7de93ca7e9b527eabf761de36e9310ed67ffcebe7c46257a894"
     },
     {
       "path": "production/media-oval-20260911.md",
@@ -1650,11 +1658,11 @@
     },
     {
       "path": "production/phase-planner-20261014.html",
-      "sha256": "e35f8b511a07738c2b31e02b4a5bbaf26051c745746c6ad51919d3ee4208d217"
+      "sha256": "77aa50accfb8d6faad56567f76241c869a20cdb847f5116595b40713f5a3924a"
     },
     {
       "path": "production/phase-planner-20261014.md",
-      "sha256": "88391a86bf46201be119755de36c553b7ff165fcb446fcce55a6b09ba986f500"
+      "sha256": "550a2ce9e4effa44807faf68e5eeecc2dd14af7cc4bd1f2fa34a810de91e1e12"
     },
     {
       "path": "production/production-plan.md",
@@ -1811,6 +1819,114 @@
     {
       "path": "references/current/studio-jacket-walking.png",
       "sha256": "63103349fda80bd82c3955c2b3beec5b36bd245e52390b2a15b6a6311271d473"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/communication--active-listening@256.webp",
+      "sha256": "eae505f7b9a590bb6b77bc2cd6534d7d26cfdb5f350c8b681cbdeb2ae66584c0"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/communication--non-verbal-communication@256.webp",
+      "sha256": "6840193e4653eb446b1fe7b8370c0aadad42e7894bcc4ba24e0b66fd0bd04683"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/communication--purpose-audience-format@256.webp",
+      "sha256": "04733c074d742c9d2a9f5b8d80a2a867a72064472397bd7e9f2b672d947638b9"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/communication--terminology-spelling-grammar@256.webp",
+      "sha256": "a0abfc3c1777a574bfc2e8899f043caa9866043455bcf36a5a2fe7c83c0b9d49"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/communication@256.webp",
+      "sha256": "9a9b209985aa8b561ec85af2531049d48cc494b8e60f82a417f40580d1ff62ba"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/critical-thinking--analysis-and-evaluation@256.webp",
+      "sha256": "802bb127644ce03eff025ab9f0c00f89712dbd2c20b6c7fee0cfff880645b2a1"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/critical-thinking--bias-reflection@256.webp",
+      "sha256": "804abaadfca73ec010c7d2dba93fc15cccc8516be16850ce5f4f00d7695c8e47"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/critical-thinking--research-and-information-gathering@256.webp",
+      "sha256": "3746cec7204d63d4c05196c11d64fd3b4a545f06a39e4e40257f13b87b5caf33"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/critical-thinking@256.webp",
+      "sha256": "77bc0fd183397ca7ffb0deaf3e63c87d1eec6d073c64eb1a099b74197b62338c"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/digital-literacy--electronic-communication@256.webp",
+      "sha256": "327a3407239e0326ce9f1ecbe7c6831f9a5f783f8ff92f3d3ce39ecdf43eefe5"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/digital-literacy--online-safety@256.webp",
+      "sha256": "9c6ca88b3c9cdee03988ceab7e8f3ef6bd64ce6cd35c3479bd0e1c7af60b95ac"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/digital-literacy--reliable-online-research@256.webp",
+      "sha256": "89f594c89fce394ab4fad5928f58f5de18ae1fb45c03bd5089e709a65c47e605"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/digital-literacy--work-related-software@256.webp",
+      "sha256": "80a39a0a2ffbc9ad13616db60354866e31a1477a03708723775f777b0ba79d24"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/digital-literacy@256.webp",
+      "sha256": "01be7d82f3dcb239ba56bd95250cb9903cc7248fc6fa609e7b0f2934dc615155"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/problem-solving--decision-making-models@256.webp",
+      "sha256": "44a0711b164453f1ec3ed60dde7e2b1db977294037dcb93b5a5b52936f39b03e"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/problem-solving--generate-solutions@256.webp",
+      "sha256": "3dbe46fae97ee67bfa8c015fec9248eeb6404941c0a661f9d5c4d293d0f9a232"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/problem-solving--questioning-techniques@256.webp",
+      "sha256": "ecc3f192e805c9718cc65a555ad855fe4a576d7c0774895be94d52a057752c1b"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/problem-solving@256.webp",
+      "sha256": "26466b50cb605f334aff48ba8abbf73aec40a72939b4d66f40d2f4fd72afbb4c"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/teamwork--build-rapport@256.webp",
+      "sha256": "2002aa0b93bca07966e403b2dcb40caa7688fb9e3cf5eebf19ff339c3cbb0884"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/teamwork--consensus-building@256.webp",
+      "sha256": "9b838d0c00b7424bac10e06a4a5715fbd052a6dfc2fed76d50029ca8f2890cef"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/teamwork--reliability-and-task-completion@256.webp",
+      "sha256": "974e8a6e30438a50e5e02f51810f144683a46b3eb112597463efa46dc1cc8f8d"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/teamwork--team-roles-and-responsibilities@256.webp",
+      "sha256": "8e01d7e383a6a2f0fd91a144dd10976a0dab31b48a4958d388382a50e9ae8781"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/teamwork@256.webp",
+      "sha256": "8fc5a2d69cbaee1bea924a75a8a2b0e0b2f1799965e2788bcc458da346dcbc2a"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/time-management--plan-and-prioritise@256.webp",
+      "sha256": "98cec58cfd3d9118658adfacb089f78101719bb139734a6e88502899a35266b7"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/time-management--productivity-tools@256.webp",
+      "sha256": "1ae2b9c484511789d1bb7b9329a1cd35ece07197b233456dd0d895fea8b1ea01"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/time-management--track-and-reassess@256.webp",
+      "sha256": "788c9ae60dbaf7da7d5e0a6fba79cc8e81712e6403742e2bfcf28a7e9d3cf28c"
+    },
+    {
+      "path": "references/skill-logos/dimensional-v3/time-management@256.webp",
+      "sha256": "baf04c0fa7ce69794397a81c5798d774326e0d8bbc3a0ef3a89717ebc1e08f85"
     },
     {
       "path": "references/skill-logos/ecc/logo-1-0.png",
