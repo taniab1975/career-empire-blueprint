@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: Reviewed handover introduction, coherent navigation, shared Phase0–11 world/curriculum view and independent top/sidebar controls with reversible table focus. Exact197requirements, source references, EST flags and approved icons retained. No game repository changes.
+Release scope: Full authoritative curriculum-ID wording on hover/focus/touch and Phase0ordinary public start/status correction only. Preserve197exact entries/references, later phases, icons and the existing Phase1destination. No game repository changes.
 
-Tania approved the displayed reader redesign for the existing public Blueprint. Teaching provision, phase timing, school/learner acceptance and game work remain separate and incomplete where recorded. No new game deployment or student achievement is claimed.
+Requested curriculum labels and Phase0start/status correction approved for the existing public Blueprint. Exact served-version verification is pending. Phase1destination is unchanged and its reported loading issue remains separately under repair. Teaching and learner evidence remain separate.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -23207,7 +23207,7 @@ Next: Preserve this bounded verification; teaching/mastery, game integration and
 
 ## CE-CHANGE-20261014-107 — Review and locally redesign Blueprint navigation and handover
 
-Integration: **ready-for-publication**. Types: visual, implementation. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
+Integration: **complete**. Types: visual, implementation. Owner: Codex Blueprint reader; Tania owns structure and publication acceptance.
 
 **Objective:** Publish the reviewed Blueprint redesign with exact curriculum retention and accessible, state-preserving navigation controls.
 
@@ -23217,7 +23217,7 @@ Integration: **ready-for-publication**. Types: visual, implementation. Owner: Co
 
 **Source:** Tania reviewed the displayed Start Here and desktop/mobile Focus table screenshots, then replied love it directly to the explicit question asking whether this version was ready to publish to the existing Blueprint website.
 
-**Next:** Build and publish only the checked generated static reader to the existing Blueprint repository, then verify the exact live version and key behaviours.
+**Next:** Retain exact release identity and live evidence. Continue authored provision and game triage under their separate scopes.
 
 ### Start Here — updated
 
@@ -23299,7 +23299,7 @@ Verification: passed / 106source tests, TypeScript, focused lint and standard Vi
 
 Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -23309,11 +23309,12 @@ Records: CE-CHANGE-20261014-107, CE-BLUEPRINT-SITE-REVIEW-20261014. Owner: Codex
 
 Acceptance: A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.
 
-Verification: pending / Local source/reader checks in progress.
+Verification: passed / Public 0eb658097daa159699c18240be49c0e422b47aef; source d320bb9ee21e33c8b2fa939c18dbe900b581c055; successful Pages build1283120926. All15changed served file hashes match and51live desktop/mobile checks pass; actual screenshots inspected.
 
 - [Evidence](docs/production/blueprint-redesign-review-20261014.md)
+- [Evidence](private/production-evidence/2026-10-14/blueprint-redesign/publication-receipt.json)
 
-Next: Publish only after source/guarded-build checks; verify Pages commit, live manifest/record and changed-file hashes plus Start Here/shared phases/Focus table.
+Next: Retain exact published source and independent live receipt.
 
 ### Look and feel — updated
 
@@ -23490,6 +23491,478 @@ Verification: passed / 106source tests, TypeScript, focused lint and standard Vi
 - [Evidence](docs/production/blueprint-redesign-review-20261014.md)
 
 Next: Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred.
+
+## CE-CHANGE-20261014-108 — Full curriculum wording on compact ID references
+
+Integration: **ready-for-publication**. Types: implementation. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+**Objective:** Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
+
+**Before:** V2.27contains bare ID references and an orientation launch/status gap.
+
+**Required result:** Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
+
+**Source:** User: Can you make it so that it shows the full curriculum label if you wave the mouse over the ids? its pretty meaningless like this. Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction).
+
+**Next:** Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-108. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](app/curriculum-labels.tsx)
+- [Evidence](lib/curriculum-labels.mjs)
+- [Evidence](tests/curriculum-labels.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-108. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](app/curriculum-labels.tsx)
+- [Evidence](lib/curriculum-labels.mjs)
+- [Evidence](tests/curriculum-labels.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-108. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](app/curriculum-labels.tsx)
+- [Evidence](lib/curriculum-labels.mjs)
+- [Evidence](tests/curriculum-labels.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-108. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](app/curriculum-labels.tsx)
+- [Evidence](lib/curriculum-labels.mjs)
+- [Evidence](tests/curriculum-labels.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-108. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](app/curriculum-labels.tsx)
+- [Evidence](lib/curriculum-labels.mjs)
+- [Evidence](tests/curriculum-labels.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish only the authorised108/109static reader corrections through the established generated-files-only workflow.
+
+Records: CE-CHANGE-20261014-108. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
+
+Verification: pending / Focused source and reader checks pending.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](app/curriculum-labels.tsx)
+- [Evidence](lib/curriculum-labels.mjs)
+- [Evidence](tests/curriculum-labels.test.mjs)
+
+Next: Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-108. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](app/curriculum-labels.tsx)
+- [Evidence](lib/curriculum-labels.mjs)
+- [Evidence](tests/curriculum-labels.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-108. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](app/curriculum-labels.tsx)
+- [Evidence](lib/curriculum-labels.mjs)
+- [Evidence](tests/curriculum-labels.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-108. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](app/curriculum-labels.tsx)
+- [Evidence](lib/curriculum-labels.mjs)
+- [Evidence](tests/curriculum-labels.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-108. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](app/curriculum-labels.tsx)
+- [Evidence](lib/curriculum-labels.mjs)
+- [Evidence](tests/curriculum-labels.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-108. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](app/curriculum-labels.tsx)
+- [Evidence](lib/curriculum-labels.mjs)
+- [Evidence](tests/curriculum-labels.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-108. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](app/curriculum-labels.tsx)
+- [Evidence](lib/curriculum-labels.mjs)
+- [Evidence](tests/curriculum-labels.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+## CE-CHANGE-20261014-109 — Correct Phase0public start and implementation status
+
+Integration: **ready-for-publication**. Types: implementation. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+**Objective:** Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
+
+**Before:** V2.27contains bare ID references and an orientation launch/status gap.
+
+**Required result:** Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
+
+**Source:** User requests a direct start link and correction of the Phase0unverified-launch claim; opening video, picture-clue exploration and teachers photo already exist, while guided companion/landing handover remains in draft PR57. Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction).
+
+**Next:** Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-109. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](data/learning-planner.json)
+- [Evidence](tests/orientation-entry.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-109. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](data/learning-planner.json)
+- [Evidence](tests/orientation-entry.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-109. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](data/learning-planner.json)
+- [Evidence](tests/orientation-entry.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-109. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](data/learning-planner.json)
+- [Evidence](tests/orientation-entry.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-109. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](data/learning-planner.json)
+- [Evidence](tests/orientation-entry.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish only the authorised108/109static reader corrections through the established generated-files-only workflow.
+
+Records: CE-CHANGE-20261014-109. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
+
+Verification: pending / Focused source and reader checks pending.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](data/learning-planner.json)
+- [Evidence](tests/orientation-entry.test.mjs)
+
+Next: Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-109. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](data/learning-planner.json)
+- [Evidence](tests/orientation-entry.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-109. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](data/learning-planner.json)
+- [Evidence](tests/orientation-entry.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-109. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](data/learning-planner.json)
+- [Evidence](tests/orientation-entry.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-109. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](data/learning-planner.json)
+- [Evidence](tests/orientation-entry.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-109. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](data/learning-planner.json)
+- [Evidence](tests/orientation-entry.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Review only this scoped reader correction; preserve unrelated live design and game boundaries.
+
+Records: CE-CHANGE-20261014-109. Owner: Codex Blueprint reader; Tania authorises requested scope.
+
+Acceptance: Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
+
+Verification: passed / 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+
+- [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
+- [Evidence](data/learning-planner.json)
+- [Evidence](tests/orientation-entry.test.mjs)
+
+Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
 
 ## Historical boundary
 

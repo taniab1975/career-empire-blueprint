@@ -1,24 +1,24 @@
 {
-  "sourceCommit": "d320bb9ee21e33c8b2fa939c18dbe900b581c055",
-  "generatedAt": "2026-10-14T04:00:43.449Z",
-  "revision": "V2.27 / 14 October 2026",
-  "recordSha256": "d140a0d5266a87407ae2e113cd9e991cf7c2fbe5c6423a359b8487c3469073c7",
+  "sourceCommit": "a3235f52407896588f09c204bc7f1e2d0ea746d7",
+  "generatedAt": "2026-10-14T04:56:46.203Z",
+  "revision": "V2.28 / 14 October 2026",
+  "recordSha256": "60f5164aae50eb78730e5b3d90b197515182534a5a40779a3799e84bf8557853",
   "files": [
     {
-      "path": "assets/curriculum-planner-CBs-qCkL.js",
-      "sha256": "8171352a8064d1f4014cd8adbe8133d0d52a01c27984834ac225f2f2aa71b00a"
+      "path": "assets/curriculum-planner-Brz6Qrcm.js",
+      "sha256": "6886a48e6dc27a86c883fe811662b1478aa85fe84ac48fb1d51429e8afd83aca"
     },
     {
-      "path": "assets/index-Bq3nliky.js",
-      "sha256": "432dcecd1b3d0de93efd154c5d87c4d1fa42e75b86896d4e855e9b275ff4f5cc"
+      "path": "assets/index-BqcfUNwI.css",
+      "sha256": "e546c48d2cf237e123ca6184fe046241de90f23508819b2c4e935bc81e7ee9d9"
     },
     {
-      "path": "assets/index-DDnUcXMK.css",
-      "sha256": "f8a70c3420eb85d1e615fd38684bcd3ac9f48ec45bd788b72d2ff5a84facc0c3"
+      "path": "assets/index-PtNt4zEd.js",
+      "sha256": "cd45cebb0531dd153315ed1ed551389b76bc8ad2d6f4a2fd204788545d8cbd17"
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "d140a0d5266a87407ae2e113cd9e991cf7c2fbe5c6423a359b8487c3469073c7"
+      "sha256": "60f5164aae50eb78730e5b3d90b197515182534a5a40779a3799e84bf8557853"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1182,7 +1182,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "c37547d87facea06e8b893a87701aad02eebb25801eecdddcb7c71b4644b7edf"
+      "sha256": "1e25ac202ffaf0a3302760675939750a1d0075e1e7a2411fc43077dae5c130be"
     },
     {
       "path": "playable-3d/app.js",
@@ -1438,11 +1438,11 @@
     },
     {
       "path": "production/blueprint-redesign-review-20261014.html",
-      "sha256": "42dbafebcf1ed9a1ab90af97376e35d9c73dbf79595f9447b55a6da8a876069b"
+      "sha256": "89bd3ac0a305ef32a99e5762358b13dee2d47a5a117e07a567dc30ec76caa922"
     },
     {
       "path": "production/blueprint-redesign-review-20261014.md",
-      "sha256": "55ffbeba743869b7ca3cf7f6bd0c0289846cc22fa2a4866dad88d93c7617a841"
+      "sha256": "2ae3c54354bc56d57a862c7800b65c90b04db5d5f2c05fe6a62f39a88465edf0"
     },
     {
       "path": "production/buffy-animation-20261001.md",
@@ -1454,7 +1454,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "3381a1874531000795803cc4f14b6771442a17c762b0d3b80feadaaae7081b2d"
+      "sha256": "2e0fda5d228b7476c00d332c4fcb4f916686aae1842a6e929c8973c47507c9b7"
     },
     {
       "path": "production/change-workflows.md",
@@ -1482,7 +1482,7 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "4e04cdcc498a9141e13904d06380837144573fb299d4dcfef416b68d21fe63be"
+      "sha256": "61d2bb2adeb02ee7f9522bf633f6751dee710281df80c6187d395fa2819a9077"
     },
     {
       "path": "production/current-state.md",
@@ -1495,6 +1495,14 @@
     {
       "path": "production/curriculum-first-progressive-loading-20260922.md",
       "sha256": "5e5b32a99065786749918876327ecd290c9f2b6dd537448b50da5c90d32fa7d7"
+    },
+    {
+      "path": "production/curriculum-labels-orientation-20261014.html",
+      "sha256": "406eb7e08667eda742190bb7b62c3a43f4fc47d702a3d0ec8560f36636d4df78"
+    },
+    {
+      "path": "production/curriculum-labels-orientation-20261014.md",
+      "sha256": "fdf87d9b5537bbbf92cfbc5c3532666ec11fbbcb536c0b1020277314165d2673"
     },
     {
       "path": "production/discovery-opening-20261004.html",
@@ -1630,7 +1638,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "bfe029ae1ce9721376cf9ecfa1b42a7ab363c859daba46d03f77de551d37c443"
+      "sha256": "20eb724015dee4791ddf95d9712381e1915b344b12c525829470e30f6c512f9b"
     },
     {
       "path": "production/media-oval-20260911.md",

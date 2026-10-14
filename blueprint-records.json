@@ -27584,13 +27584,53 @@
         "title": "Intro, exploration, world overview",
         "purpose": "Understand the course and world, explore with agency, and see why the learning may matter before accepting a paid task.",
         "decision": "What is this world, what can I explore, and how might the course connect with my life?",
-        "teaching": "A concise course-purpose introduction and overview of the six employability skills, with accessible optional exploration and practical navigation support.",
-        "application": "Explore the world and discover its places, choose optional guidance, and identify possible learning opportunities. Orientation is separate from Mara’s first paid gig.",
+        "teaching": "Planned explicit teaching: introduce the course purpose and the six employability skill families. The existing opening activities do not by themselves establish that those skills have been taught or assessed.",
+        "application": "Follow the existing opening video, picture-clue exploration and teachers photo finish. The companion overview and guided handover are built in draft PR57 pending release, before the separate Initiative/Mara phase.",
         "product": "A low-stakes recognition or question about the world/course; no paid activity, assessed performance or curriculum mastery is claimed.",
         "later": "Phase 1 introduces supported initiative at Mara’s noodle stall. Return to the wider world when relevant.",
-        "limit": "Proposed orientation phase. No exact point is assigned as a completed teaching home here. No pay or assessment is inferred; game-onboarding changes remain a separate implementation/deployment.",
+        "limit": "The learning sequence is proposed; the live orientation core already exists. Companion/menu/flyover/course-outline guided handover is built in draft PR57 pending release. Explicit six-skill teaching is planned, not recorded as delivered. No exact curriculum point is assigned a completed teaching home here; no pay, assessment or mastery is inferred.",
         "skills": [],
-        "calendar": null
+        "calendar": null,
+        "launch": {
+          "url": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
+          "location": "Public ECC game start; the ordinary start route is the orientation entry.",
+          "status": "Public start route verified HTTP200; existing video, clue exploration and teachers photo core. Draft PR57 handover remains pending release."
+        },
+        "implementation": {
+          "liveCore": [
+            "Opening video",
+            "Picture-clue exploration",
+            "Teachers photo finish"
+          ],
+          "builtPendingRelease": [
+            "Optional companion overview and eight-beat tour",
+            "Guided Options, Stats and Flyover return with safe landing",
+            "Numbered course outline and Blueprint guided handover"
+          ],
+          "plannedTeaching": "An explicit introduction to Communication, Digital Literacy, Teamwork, Time Management, Critical Thinking and Problem Solving; no teaching completion is claimed.",
+          "sequence": [
+            {
+              "label": "Opening video",
+              "status": "Existing core"
+            },
+            {
+              "label": "Explore the picture clues",
+              "status": "Existing core"
+            },
+            {
+              "label": "Teachers photo finish",
+              "status": "Existing core"
+            },
+            {
+              "label": "Companion overview and course handover",
+              "status": "Built in draft PR57 · pending release"
+            },
+            {
+              "label": "Initiative at Mara / Juniper Kitchen",
+              "status": "Next learning phase; initiative redesign proposed"
+            }
+          ]
+        }
       },
       {
         "id": "J0",
@@ -30924,7 +30964,7 @@
       "numberingNote": "Original numbering retained. There is no Digital Literacy 2.2."
     }
   },
-  "revision": "V2.27 / 14 October 2026",
+  "revision": "V2.28 / 14 October 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -30949,14 +30989,14 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.27",
+      "id": "V2.28",
       "date": "2026-10-14",
-      "label": "V2.27 / 14 October 2026",
-      "status": "Reviewed Blueprint redesign verified in source/reader; public delivery pending",
+      "label": "V2.28 / 14 October 2026",
+      "status": "Approved scoped reader corrections; publication and live verification in progress",
       "purpose": "Career Empire is intended as a connected learning system for the whole Careers and Employability curriculum. The Blueprint is currently its game-design document, integrating pedagogy, engagement, educational psychology, curriculum and learning design; it can later become the teacher delivery resource. Connected experiences create reasons to seek knowledge, make choices and learn from consequences; learning outside the 3D world need not become a disconnected subject silo.",
       "audience": "Colleagues reviewing the current game and learning design; teacher delivery program remains in development.",
       "owner": "Tania Byrnes",
-      "scope": "Reviewed handover introduction, coherent navigation, shared Phase0–11 world/curriculum view and independent top/sidebar controls with reversible table focus. Exact197requirements, source references, EST flags and approved icons retained. No game repository changes."
+      "scope": "Full authoritative curriculum-ID wording on hover/focus/touch and Phase0ordinary public start/status correction only. Preserve197exact entries/references, later phases, icons and the existing Phase1destination. No game repository changes."
     },
     "navigation": [
       {
@@ -31116,7 +31156,7 @@
       "phase": "Connected course design and Blueprint handover",
       "activeMilestoneId": "CE-CONTINUITY-01",
       "objective": "Make the purpose, current design, implementation limits and next decisions understandable to a new colleague.",
-      "now": "The reviewed Blueprint redesign is approved for the existing public reader. The shared phase planner and approved icons are retained. Game PR57 remains draft, with wider test failures under triage; the market initiative redesign and complete course provision are not implemented.",
+      "now": "The reviewed V2.27 Blueprint redesign, shared phase planner, approved icons and navigation/focus controls are live and verified. Draft game PR57 and its wider test failures remain separate; the market initiative redesign and complete course provision are not implemented.",
       "next": "Author and review core learning materials, purposeful application and appropriate learner evidence across the shared phases. Agree pacing and school assessment dates before setting lessons. Game PR57 triage and game icon adoption remain separate work.",
       "then": "Author and review core learning materials, purposeful application and appropriate evidence across the shared phases; align school pacing and assessment dates before setting lessons.",
       "later": "Implement the agreed connected course and verify classroom, accessibility, school and learner-evidence requirements separately.",
@@ -31446,7 +31486,7 @@
     "currentStep": {
       "id": "CE-CONTINUITY-01",
       "title": "Connected course design and Blueprint handover",
-      "status": "Reviewed Blueprint redesign approved; authored course provision remains in progress",
+      "status": "Blueprint reader verified live; authored course provision remains in progress",
       "owner": "Codex: reader and checks; Tania: design review; school: assessment decisions",
       "href": "/production/blueprint-redesign-review-20261014.html",
       "actionLabel": "Review the website audit and proposed structure",
@@ -32126,18 +32166,18 @@
       "asOf": "2026-09-17",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.27 / Blueprint reader",
+        "sourceRevision": "V2.28 / Blueprint reader",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.26 / GitHub Pages",
-        "checkedAt": "2026-10-14T02:40:45.862074+00:00",
-        "observedLiveSha256": "18b73579aa8becae781b2f1b9fc91a4c6867c9d1ec0021238427b8f8f299d3ba",
+        "observedLiveRevision": "V2.27 / GitHub Pages",
+        "checkedAt": "2026-10-14T04:05:24.988857+00:00",
+        "observedLiveSha256": "d140a0d5266a87407ae2e113cd9e991cf7c2fbe5c6423a359b8487c3469073c7",
         "accessCheck": "Existing private recovery repository verified PRIVATE before upload; generated-files-only Pages publication built successfully.",
         "validationReceipt": "/publication-manifest.json",
-        "status": "Tania approved the displayed redesign for publication to the existing Blueprint site. Source/release verification is in progress; observed publicV2.26 remains the baseline until independently verified.",
-        "savedVersionId": "5511f2b01305aa86d0da3c3c8508d8d7cac979f1",
-        "deploymentId": "GitHub Pages / 1282984173",
-        "parity": "Exact deployed manifest/source/record and all39changed served hashes verified;12actual live icon checks passed.",
-        "resume": "Retain exact deployed source/manifest. Reconcile separate pending104work against the updated private recovery branch before future publication.",
+        "status": "Scoped108/109publication approved. V2.27public0eb6580 remains the last verified release until the new exact source and served version are checked.",
+        "savedVersionId": "d320bb9ee21e33c8b2fa939c18dbe900b581c055",
+        "deploymentId": "GitHub Pages / 1283120926",
+        "parity": "Exact deployed source/manifest/record and all15changed served hashes verified;51live reader checks passed.",
+        "resume": "Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
         "legacySite": {
@@ -32146,8 +32186,8 @@
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
         },
-        "observedPublicCommit": "34355098dfc0d662e579aa6ceb6dd751535000e2",
-        "hashScope": "Deployed V2.26 record built from source5511f2b, independently pinned by publication-manifest.json. This private metadata closure is not another public build.",
+        "observedPublicCommit": "0eb658097daa159699c18240be49c0e422b47aef",
+        "hashScope": "Deployed V2.27 record built from source d320bb9, independently pinned by publication-manifest.json. This private metadata closure is not another public build.",
         "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
@@ -34489,7 +34529,7 @@
           "domain": "Local static Blueprint reader and shared phase presentation",
           "source": "Tania reviewed the displayed Start Here and desktop/mobile Focus table screenshots, then replied love it directly to the explicit question asking whether this version was ready to publish to the existing Blueprint website.",
           "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
-          "status": "Approved and source/reader verified; publication pending",
+          "status": "Published and verified scoped Blueprint redesign",
           "rationale": "Local Blueprint redesign for review: clearer course and handover introduction; shared Phase0–11 view; dated historical material; current/proposed distinctions; independent top/sidebar controls and reversible table focus. Existing public3435509 remains unchanged. No push, merge, deployment or publication is authorised for this candidate.",
           "dependencies": [
             "CE-CHANGE-20261014-106"
@@ -34499,13 +34539,64 @@
             "app/site-guide.tsx",
             "data/learning-planner-retention.json"
           ],
-          "nextAction": "Build and publish only the checked generated static reader to the existing Blueprint repository, then verify the exact live version and key behaviours.",
+          "nextAction": "Retain exact release identity and live evidence. Continue authored provision and game triage under their separate scopes.",
           "supersededRecord": null,
           "designApproval": "Displayed redesign and publication to the existing Blueprint site approved. Learning phases, teaching/assessment and game acceptance remain separate.",
           "implementation": "Local Blueprint redesign for review: clearer course and handover introduction; shared Phase0–11 view; dated historical material; current/proposed distinctions; independent top/sidebar controls and reversible table focus. Existing public3435509 remains unchanged. No push, merge, deployment or publication is authorised for this candidate.",
-          "deployment": "Pending exact-source generated-reader publication and independent live verification.",
-          "testing": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source.",
+          "deployment": "Public 0eb658097daa159699c18240be49c0e422b47aef; source d320bb9ee21e33c8b2fa939c18dbe900b581c055; successful Pages build1283120926. All15changed served file hashes match and51live desktop/mobile checks pass; actual screenshots inspected. No game repository or private-preview access change.",
+          "testing": "106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. Public 0eb658097daa159699c18240be49c0e422b47aef; source d320bb9ee21e33c8b2fa939c18dbe900b581c055; successful Pages build1283120926. All15changed served file hashes match and51live desktop/mobile checks pass; actual screenshots inspected.",
           "taniaAcceptance": "Accepted the displayed reader redesign for publication; no game or classroom acceptance inferred."
+        },
+        {
+          "id": "CE-CHANGE-20261014-108",
+          "date": "2026-10-14",
+          "title": "Full curriculum wording on compact ID references",
+          "domain": "Scoped static Blueprint reader correction",
+          "source": "User: Can you make it so that it shows the full curriculum label if you wave the mouse over the ids? its pretty meaningless like this. Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction).",
+          "owner": "Codex Blueprint reader; Tania authorises requested scope",
+          "status": "Approved scoped reader correction; publication pending",
+          "rationale": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+          "dependencies": [
+            "CE-CHANGE-20261014-107"
+          ],
+          "evidence": [
+            "docs/production/curriculum-labels-orientation-20261014.md",
+            "app/curriculum-labels.tsx",
+            "lib/curriculum-labels.mjs",
+            "tests/curriculum-labels.test.mjs"
+          ],
+          "nextAction": "Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.",
+          "supersededRecord": null,
+          "designApproval": "Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction).",
+          "implementation": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+          "deployment": "Pending guarded static-reader publication and independent live verification.",
+          "testing": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+          "taniaAcceptance": "Requested correction authorised for existing Blueprint publication; no game-loading, teaching or learner acceptance inferred."
+        },
+        {
+          "id": "CE-CHANGE-20261014-109",
+          "date": "2026-10-14",
+          "title": "Correct Phase0public start and implementation status",
+          "domain": "Scoped static Blueprint reader correction",
+          "source": "User requests a direct start link and correction of the Phase0unverified-launch claim; opening video, picture-clue exploration and teachers photo already exist, while guided companion/landing handover remains in draft PR57. Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction).",
+          "owner": "Codex Blueprint reader; Tania authorises requested scope",
+          "status": "Approved scoped reader correction; publication pending",
+          "rationale": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+          "dependencies": [
+            "CE-CHANGE-20261014-107"
+          ],
+          "evidence": [
+            "docs/production/curriculum-labels-orientation-20261014.md",
+            "data/learning-planner.json",
+            "tests/orientation-entry.test.mjs"
+          ],
+          "nextAction": "Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.",
+          "supersededRecord": null,
+          "designApproval": "Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction).",
+          "implementation": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+          "deployment": "Pending guarded static-reader publication and independent live verification.",
+          "testing": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+          "taniaAcceptance": "Requested correction authorised for existing Blueprint publication; no game-loading, teaching or learner acceptance inferred."
         }
       ],
       "sessionStart": [
@@ -48488,10 +48579,11 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20261014-107"
+        "CE-CHANGE-20261014-108",
+        "CE-CHANGE-20261014-109"
       ],
-      "scope": "Reviewed handover introduction, coherent navigation, shared Phase0–11 world/curriculum view and independent top/sidebar controls with reversible table focus. Exact197requirements, source references, EST flags and approved icons retained. No game repository changes.",
-      "disclosure": "Tania approved the displayed reader redesign for the existing public Blueprint. Teaching provision, phase timing, school/learner acceptance and game work remain separate and incomplete where recorded. No new game deployment or student achievement is claimed.",
+      "scope": "Full authoritative curriculum-ID wording on hover/focus/touch and Phase0ordinary public start/status correction only. Preserve197exact entries/references, later phases, icons and the existing Phase1destination. No game repository changes.",
+      "disclosure": "Requested curriculum labels and Phase0start/status correction approved for the existing public Blueprint. Exact served-version verification is pending. Phase1destination is unchanged and its reported loading issue remains separately under repair. Teaching and learner evidence remain separate.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -48659,16 +48751,21 @@
         "docs/production/blueprint-redesign-review-20261014.md",
         "data/public-reader-documents.json",
         "app/blueprint-app.tsx",
-        "app/blueprint-navigation.tsx"
+        "app/blueprint-navigation.tsx",
+        "app/curriculum-labels.tsx",
+        "lib/curriculum-labels.mjs",
+        "tests/curriculum-labels.test.mjs",
+        "tests/orientation-entry.test.mjs",
+        "docs/production/curriculum-labels-orientation-20261014.md"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "d79ee2705abd65009c56ceda5e5cdf2641fdf281d5837bada4860a1238c60750"
+          "sha256": "c53756945517ac6b1bfb17a8e1f16250ff69e2d8b8d95450ca598d498fdc9814"
         },
         {
           "path": "README.md",
-          "sha256": "27251fa439e44274fd622d80cf5ca74f3ca850086a7d6c05e49a719a6a6b0a53"
+          "sha256": "f18a7715997566479843520eb79c6b0e7ccb82e0bb56a88c6fe79831a2320775"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -48700,11 +48797,11 @@
         },
         {
           "path": "app/globals.css",
-          "sha256": "ce019fb5280d94ac9651dc2ffd141c30d9323637f566748195a03b9b13f5e808"
+          "sha256": "245154b30078330d3172a897c98288b66e9f29726a1daa96c26424a6c81c8314"
         },
         {
           "path": "app/learning-map.tsx",
-          "sha256": "d5ddc4ab1de60056d694f59136d73fdf8f121b9dd7a47210f96b2a2ad3442b01"
+          "sha256": "ddeacb9b5cef54d9816f99b9fc69df18342b2f2d18a206342bd4549e954f8803"
         },
         {
           "path": "app/st4s-dashboard.tsx",
@@ -48736,7 +48833,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "38adf3e4ce93625fe69a5c2ae255fb34aff8256d61a80dee433e46f9067da72a"
+          "sha256": "b62d3f78ded7ef4d0b502d5d15ea7d389ab380fb13e09f34c8cd3370ce053c3b"
         },
         {
           "path": "data/refresh-checkpoint.json",
@@ -48760,7 +48857,7 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "ac1c6db8702585cabb7459b3ebe5990514f976295822340e79f734cc2ef8e604"
+          "sha256": "65617fcfa8c1dda23656f4f1b8d61bc86b8e9fddba7064029da70fddc1f1f096"
         },
         {
           "path": "docs/production/change-workflows.md",
@@ -48820,7 +48917,7 @@
         },
         {
           "path": "package.json",
-          "sha256": "1c0a697abf0a1b515068706af18f0859ff70117cd3540e9a46e5c9dc350ed967"
+          "sha256": "4cb706e1276da5ceca776e9123d57aba09ed86c67929edf5312c9d55e2f235b1"
         },
         {
           "path": "scripts/check-continuity.mjs",
@@ -48832,7 +48929,7 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "6b45174ac43b00e757832af29a7a1521892abbfc4130e13b4b0e7dfb40471a57"
+          "sha256": "28d5d24d60dae1800e99d5a36e3ac5e8627c852f4e27735a0cb090aa66f7553b"
         },
         {
           "path": "scripts/plan-change.mjs",
@@ -48952,15 +49049,15 @@
         },
         {
           "path": "app/curriculum-planner.tsx",
-          "sha256": "9bea0d78f7b15b8cc17878017f9a448fde2d47a8dc15cf9e3cab3753b21a30bc"
+          "sha256": "f5c493f0c2d0db0b757381175a6531907cddc899b938e6576bc9f9823a9763b1"
         },
         {
           "path": "app/planner-runtime.js",
-          "sha256": "db528a6ea85a6ac39ee6ca33e9462ca44b99da2a09b7684875fd214f4e2689a0"
+          "sha256": "1e0d2a970bcff998e2e55990c047f027366d3339820801015678070ccf4824b4"
         },
         {
           "path": "data/learning-planner.json",
-          "sha256": "f8553319a271a7fbe9e7bddf72d4cabf5c1d48abab3f75e863fa7c9c0be7fabc"
+          "sha256": "efc4cfe4cc56d85286a510aa772a7ed1ab8b6ad4c7aee31c25671281f1dde522"
         },
         {
           "path": "tests/learning-planner.test.mjs",
@@ -49312,23 +49409,43 @@
         },
         {
           "path": "app/site-guide.tsx",
-          "sha256": "3bcccf411ff72f634501c3243982a9480c9dd977a31200a375692a7cdfef552a"
+          "sha256": "cbedd9caafac669b7c0cdbd291297801b2b51496fca9aff7b78daa3ae0d80d89"
         },
         {
           "path": "docs/production/blueprint-redesign-review-20261014.md",
-          "sha256": "55ffbeba743869b7ca3cf7f6bd0c0289846cc22fa2a4866dad88d93c7617a841"
+          "sha256": "2ae3c54354bc56d57a862c7800b65c90b04db5d5f2c05fe6a62f39a88465edf0"
         },
         {
           "path": "data/public-reader-documents.json",
-          "sha256": "6d01c7f9202b9967498239c284a316d90b63743b881fd139a6c5e4347022f799"
+          "sha256": "4f37013f1a40c5777f167de6f99425923e99bca93bd8602fb0471f8dd531f7b3"
         },
         {
           "path": "app/blueprint-app.tsx",
-          "sha256": "f3d3b65167a3750d09fb50eb06cb23e30f1db136f9436155164aa5b879145440"
+          "sha256": "34d7a0a167e40c7481fbbf58319c9f3c302fcf69e6f592229874d2e7cc52fdde"
         },
         {
           "path": "app/blueprint-navigation.tsx",
           "sha256": "c8c83fad6190b99869d0adccb82d4b5f129fbde1a2f79c5f2af7fb2a671bb513"
+        },
+        {
+          "path": "app/curriculum-labels.tsx",
+          "sha256": "882fa8022215cbeb6f82a6147fbb5690cbe24e2441d988d6604e11f802430c00"
+        },
+        {
+          "path": "lib/curriculum-labels.mjs",
+          "sha256": "54b7cea0e1ece590851f043c6df64539b91474618ed98162051254e3943ca2f8"
+        },
+        {
+          "path": "tests/curriculum-labels.test.mjs",
+          "sha256": "b3741aaf3fe700ba1d107f0ce38f90697ee259fab4df29625c05b22d85c72c25"
+        },
+        {
+          "path": "tests/orientation-entry.test.mjs",
+          "sha256": "d241cadbfa604d929fa1c2ffa9b263dba82a7ceb35d335db529e317c22df894b"
+        },
+        {
+          "path": "docs/production/curriculum-labels-orientation-20261014.md",
+          "sha256": "fdf87d9b5537bbbf92cfbc5c3532666ec11fbbcb536c0b1020277314165d2673"
         }
       ]
     },
@@ -81551,13 +81668,13 @@
           "visual",
           "implementation"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Publish the reviewed Blueprint redesign with exact curriculum retention and accessible, state-preserving navigation controls.",
         "before": "Start Here leads with production bookkeeping; World & Year presents an older week map; dated evidence competes with current status; navigation cannot collapse.",
         "after": "Reviewed Start Here, shared phase journey and navigation/focus controls, with transient local-review labels replaced by durable design/implementation boundaries.",
         "source": "Tania reviewed the displayed Start Here and desktop/mobile Focus table screenshots, then replied love it directly to the explicit question asking whether this version was ready to publish to the existing Blueprint website.",
         "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
-        "nextAction": "Build and publish only the checked generated static reader to the existing Blueprint repository, then verify the exact live version and key behaviours.",
+        "nextAction": "Retain exact release identity and live evidence. Continue authored provision and game triage under their separate scopes.",
         "securityPrivacyImpact": {
           "baseline": "WA-DOE-v4c",
           "waQuestionIds": [],
@@ -81715,7 +81832,7 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
+            "disposition": "updated",
             "action": "Review this local reader change; preserve source/game/approval boundaries.",
             "records": [
               "CE-CHANGE-20261014-107",
@@ -81724,14 +81841,15 @@
             "owner": "Codex Blueprint reader; Tania owns structure and publication acceptance",
             "acceptance": "A new colleague can understand the course, project state and next steps. Shared phases and exact197records retained; independent accessible navigation controls preserve planner state. Publication requires explicit approval.",
             "evidence": [
-              "docs/production/blueprint-redesign-review-20261014.md"
+              "docs/production/blueprint-redesign-review-20261014.md",
+              "private/production-evidence/2026-10-14/blueprint-redesign/publication-receipt.json"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Local source/reader checks in progress.",
+              "result": "passed",
+              "method": "Public 0eb658097daa159699c18240be49c0e422b47aef; source d320bb9ee21e33c8b2fa939c18dbe900b581c055; successful Pages build1283120926. All15changed served file hashes match and51live desktop/mobile checks pass; actual screenshots inspected.",
               "date": "2026-10-14"
             },
-            "nextAction": "Publish only after source/guarded-build checks; verify Pages commit, live manifest/record and changed-file hashes plus Start Here/shared phases/Focus table."
+            "nextAction": "Retain exact published source and independent live receipt."
           },
           {
             "surface": "visuals",
@@ -81952,6 +82070,662 @@
               "date": "2026-10-14"
             },
             "nextAction": "Retain this bounded local verification. Structure acceptance and publication remain pending; no underlying game or school acceptance inferred."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20261014-108",
+        "title": "Full curriculum wording on compact ID references",
+        "types": [
+          "implementation"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+        "before": "V2.27contains bare ID references and an orientation launch/status gap.",
+        "after": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+        "source": "User: Can you make it so that it shows the full curriculum label if you wave the mouse over the ids? its pretty meaningless like this. Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction).",
+        "owner": "Codex Blueprint reader; Tania authorises requested scope",
+        "nextAction": "Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Codex static Blueprint reader publication",
+          "scope": "Existing public GitHub Pages static reader and existing public curriculum records. No student data, telemetry, new service, game edits or access changes.",
+          "rationale": "Requested narrow reader corrections authorised for the existing host. A label preview or public link does not establish teaching, mastery or game-loading acceptance.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Existing public design records only; no student records or new data collection.",
+            "locations": "Existing GitHub Pages static website; licensed originals and private evidence remain outside generated public artifacts.",
+            "accessCountries": "Existing public website access; no new account-data transfer or provider.",
+            "providers": "Existing GitHub Pages only; no new external service is introduced.",
+            "lifecycle": "Existing public design records; private backup and evidence retain owner access.",
+            "encryption": "Existing HTTPS hosting; no new claim about student storage or encryption.",
+            "logging": "No added telemetry, analytics or application logging.",
+            "identity": "No login, student identifier collection or changed account authority.",
+            "isolation": "Static design reader; school/account isolation remains unverified separately.",
+            "privacySafety": "Private files, credential tokens and licensed originals excluded from publication.",
+            "applicability": "Blueprint reporting only; no WA compliance or real-student release claim.",
+            "verification": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly. No new data collection, service, student records or access changes."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly."
+          ],
+          "reviewedBy": "Codex source/public-output inspection",
+          "reviewedAt": "2026-10-14",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-108"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "app/curriculum-labels.tsx",
+              "lib/curriculum-labels.mjs",
+              "tests/curriculum-labels.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-108"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "app/curriculum-labels.tsx",
+              "lib/curriculum-labels.mjs",
+              "tests/curriculum-labels.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-108"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "app/curriculum-labels.tsx",
+              "lib/curriculum-labels.mjs",
+              "tests/curriculum-labels.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-108"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "app/curriculum-labels.tsx",
+              "lib/curriculum-labels.mjs",
+              "tests/curriculum-labels.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-108"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "app/curriculum-labels.tsx",
+              "lib/curriculum-labels.mjs",
+              "tests/curriculum-labels.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish only the authorised108/109static reader corrections through the established generated-files-only workflow.",
+            "records": [
+              "CE-CHANGE-20261014-108"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "app/curriculum-labels.tsx",
+              "lib/curriculum-labels.mjs",
+              "tests/curriculum-labels.test.mjs"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Focused source and reader checks pending.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-108"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "app/curriculum-labels.tsx",
+              "lib/curriculum-labels.mjs",
+              "tests/curriculum-labels.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-108"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "app/curriculum-labels.tsx",
+              "lib/curriculum-labels.mjs",
+              "tests/curriculum-labels.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-108"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "app/curriculum-labels.tsx",
+              "lib/curriculum-labels.mjs",
+              "tests/curriculum-labels.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-108"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "app/curriculum-labels.tsx",
+              "lib/curriculum-labels.mjs",
+              "tests/curriculum-labels.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-108"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "app/curriculum-labels.tsx",
+              "lib/curriculum-labels.mjs",
+              "tests/curriculum-labels.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-108"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "app/curriculum-labels.tsx",
+              "lib/curriculum-labels.mjs",
+              "tests/curriculum-labels.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20261014-109",
+        "title": "Correct Phase0public start and implementation status",
+        "types": [
+          "implementation"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+        "before": "V2.27contains bare ID references and an orientation launch/status gap.",
+        "after": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+        "source": "User requests a direct start link and correction of the Phase0unverified-launch claim; opening video, picture-clue exploration and teachers photo already exist, while guided companion/landing handover remains in draft PR57. Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction).",
+        "owner": "Codex Blueprint reader; Tania authorises requested scope",
+        "nextAction": "Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Codex static Blueprint reader publication",
+          "scope": "Existing public GitHub Pages static reader and existing public curriculum records. No student data, telemetry, new service, game edits or access changes.",
+          "rationale": "Requested narrow reader corrections authorised for the existing host. A label preview or public link does not establish teaching, mastery or game-loading acceptance.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Existing public design records only; no student records or new data collection.",
+            "locations": "Existing GitHub Pages static website; licensed originals and private evidence remain outside generated public artifacts.",
+            "accessCountries": "Existing public website access; no new account-data transfer or provider.",
+            "providers": "Existing GitHub Pages only; no new external service is introduced.",
+            "lifecycle": "Existing public design records; private backup and evidence retain owner access.",
+            "encryption": "Existing HTTPS hosting; no new claim about student storage or encryption.",
+            "logging": "No added telemetry, analytics or application logging.",
+            "identity": "No login, student identifier collection or changed account authority.",
+            "isolation": "Static design reader; school/account isolation remains unverified separately.",
+            "privacySafety": "Private files, credential tokens and licensed originals excluded from publication.",
+            "applicability": "Blueprint reporting only; no WA compliance or real-student release claim.",
+            "verification": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly. No new data collection, service, student records or access changes."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly."
+          ],
+          "reviewedBy": "Codex source/public-output inspection",
+          "reviewedAt": "2026-10-14",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-109"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "data/learning-planner.json",
+              "tests/orientation-entry.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-109"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "data/learning-planner.json",
+              "tests/orientation-entry.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-109"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "data/learning-planner.json",
+              "tests/orientation-entry.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-109"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "data/learning-planner.json",
+              "tests/orientation-entry.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-109"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "data/learning-planner.json",
+              "tests/orientation-entry.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish only the authorised108/109static reader corrections through the established generated-files-only workflow.",
+            "records": [
+              "CE-CHANGE-20261014-109"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "data/learning-planner.json",
+              "tests/orientation-entry.test.mjs"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Focused source and reader checks pending.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-109"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "data/learning-planner.json",
+              "tests/orientation-entry.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-109"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "data/learning-planner.json",
+              "tests/orientation-entry.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-109"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "data/learning-planner.json",
+              "tests/orientation-entry.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-109"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "data/learning-planner.json",
+              "tests/orientation-entry.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-109"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "data/learning-planner.json",
+              "tests/orientation-entry.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "Review only this scoped reader correction; preserve unrelated live design and game boundaries.",
+            "records": [
+              "CE-CHANGE-20261014-109"
+            ],
+            "owner": "Codex Blueprint reader; Tania authorises requested scope",
+            "acceptance": "Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.",
+            "evidence": [
+              "docs/production/curriculum-labels-orientation-20261014.md",
+              "data/learning-planner.json",
+              "tests/orientation-entry.test.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.",
+              "date": "2026-10-14"
+            },
+            "nextAction": "Retain scoped local verification; publication and underlying game/teaching acceptance remain separate."
           }
         ]
       }

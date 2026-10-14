@@ -66,3 +66,7 @@ After the displayed Start Here and desktop/mobile Focus table screenshots, Tania
 ## Approved source verification
 
 106source tests, TypeScript, focused lint and standard Vinext build passed.51affected headless desktop/mobile checks pass across20sections; all122linked local file targets exist, with no JavaScript errors. Exact curriculum/icon data is unchanged from the prior verified source. The guarded Pages build and independent live receipt follow the frozen source commit.
+
+## Verified public release
+
+Public 0eb658097daa159699c18240be49c0e422b47aef; source d320bb9ee21e33c8b2fa939c18dbe900b581c055; successful Pages build1283120926. All15changed served file hashes match and51live desktop/mobile checks pass; actual screenshots inspected. This private closure does not imply another public build; the deployed source identity remains frozen.
