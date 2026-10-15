@@ -2,7 +2,7 @@
 
 2026-10-12
 
-The reviewed Blueprint handover/navigation redesign is approved for publication. Its shared phases, exact curriculum and approved icons remain design records; authored materials, school timing, game implementation and learner evidence need their own verification.
+The reviewed all-phase walkthrough and whole-course tracking reader is approved for publication. Exact curriculum, corrected dated Markets evidence and actual legacy fictional demo remain distinct from proposed teaching, opening handover and authenticated integrations.
 
 ## First session
 

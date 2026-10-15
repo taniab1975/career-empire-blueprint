@@ -1673,16 +1673,16 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **domain:** Scoped static Blueprint reader correction
 - **source:** User: Can you make it so that it shows the full curriculum label if you wave the mouse over the ids? its pretty meaningless like this. Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction).
 - **owner:** Codex Blueprint reader; Tania authorises requested scope
-- **status:** Approved scoped reader correction; publication pending
+- **status:** Published and verified scoped reader correction
 - **rationale:** Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
 - **dependencies:** CE-CHANGE-20261014-107
 - **evidence:** docs/production/curriculum-labels-orientation-20261014.md / app/curriculum-labels.tsx / lib/curriculum-labels.mjs / tests/curriculum-labels.test.mjs
-- **nextAction:** Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.
+- **nextAction:** Retain the exact deployed source/manifest and independent live receipt. Phase1loading remains separately under repair; do not change its destination or infer game acceptance.
 - **supersededRecord:** None
 - **designApproval:** Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction).
 - **implementation:** Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
-- **deployment:** Pending guarded static-reader publication and independent live verification.
-- **testing:** 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+- **deployment:** Public d82b431fb91737e1c5ac3d480a666af38ca68aaf; source a3235f52407896588f09c204bc7f1e2d0ea746d7; successful Pages build1283210347. All13changed served hashes match and25live desktop/mobile label/link checks pass; screenshots inspected. Phase1destination unchanged; no game edits or loading verification.
+- **testing:** 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly. Public d82b431fb91737e1c5ac3d480a666af38ca68aaf; source a3235f52407896588f09c204bc7f1e2d0ea746d7; successful Pages build1283210347. All13changed served hashes match and25live desktop/mobile label/link checks pass; screenshots inspected.
 - **taniaAcceptance:** Requested correction authorised for existing Blueprint publication; no game-loading, teaching or learner acceptance inferred.
 
 ## CE-CHANGE-20261014-109 — Correct Phase0public start and implementation status
@@ -1691,17 +1691,53 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **domain:** Scoped static Blueprint reader correction
 - **source:** User requests a direct start link and correction of the Phase0unverified-launch claim; opening video, picture-clue exploration and teachers photo already exist, while guided companion/landing handover remains in draft PR57. Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction).
 - **owner:** Codex Blueprint reader; Tania authorises requested scope
-- **status:** Approved scoped reader correction; publication pending
+- **status:** Published and verified scoped reader correction
 - **rationale:** Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
 - **dependencies:** CE-CHANGE-20261014-107
 - **evidence:** docs/production/curriculum-labels-orientation-20261014.md / data/learning-planner.json / tests/orientation-entry.test.mjs
-- **nextAction:** Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.
+- **nextAction:** Retain the exact deployed source/manifest and independent live receipt. Phase1loading remains separately under repair; do not change its destination or infer game acceptance.
 - **supersededRecord:** None
 - **designApproval:** Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction).
 - **implementation:** Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
-- **deployment:** Pending guarded static-reader publication and independent live verification.
-- **testing:** 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly.
+- **deployment:** Public d82b431fb91737e1c5ac3d480a666af38ca68aaf; source a3235f52407896588f09c204bc7f1e2d0ea746d7; successful Pages build1283210347. All13changed served hashes match and25live desktop/mobile label/link checks pass; screenshots inspected. Phase1destination unchanged; no game edits or loading verification.
+- **testing:** 110source tests, TypeScript, focused lint and standard Vinext build pass.25focused headless desktop/mobile checks pass, including the supplied Phase2location, exact parent context, hover/focus/touch navigation, ShadowRoot references, Focus-table Escape handling and the Phase0start/status correction. Screenshots inspected. The197rows, later phases, source/EST metadata and icon mappings match the live baseline exactly. Public d82b431fb91737e1c5ac3d480a666af38ca68aaf; source a3235f52407896588f09c204bc7f1e2d0ea746d7; successful Pages build1283210347. All13changed served hashes match and25live desktop/mobile label/link checks pass; screenshots inspected.
 - **taniaAcceptance:** Requested correction authorised for existing Blueprint publication; no game-loading, teaching or learner acceptance inferred.
+
+## CE-CHANGE-20261015-110 — Markets implementation review with pedagogy, Stats and teacher dashboard
+
+- **date:** 2026-10-15
+- **domain:** Scoped static Blueprint reader correction
+- **source:** Tania requests a reviewable Blueprint candidate linking main Markets steps to actual screenshots, a Pedagogy column, Student Stats and Teacher Dashboard tabs. Do not publish until reviewed. Parent identifies an obstructed outside screenshot for repair; do not present it as an approved scene.
+- **owner:** Codex Blueprint review candidate; Tania reviews before publication
+- **status:** Reviewed static reader approved for publication; deployment pending
+- **rationale:** Help teachers see what actually exists, why each student step exists and what evidence a screen does or does not record.
+- **dependencies:** CE-CHANGE-20261014-108 / CE-CHANGE-20261014-109
+- **evidence:** docs/production/markets-implementation-review-20261015.md / data/markets-review.json / app/markets-review.tsx
+- **nextAction:** Package the saved source, publish generated public files to the existing Blueprint website and independently verify live source/record hashes and affected desktop/mobile routes.
+- **supersededRecord:** None
+- **designApproval:** Tania explicitly approved the reviewed Blueprint publication on15October2026. Game implementation, new backend, school access and learner mastery remain separate.
+- **implementation:** Three compact linked views: student experience with intended pedagogy/outcomes, Student Stats and Teacher Dashboard. Actual source captures and explicit evidence gaps.
+- **deployment:** Approved static reader publication pending independent live verification; no game release or new learner-data backend.
+- **testing:** 113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged.
+- **taniaAcceptance:** Requested local candidate; no final design, classroom or game acceptance inferred.
+
+## CE-CHANGE-20261015-111 — Readable all-phase walkthroughs and whole-course student/teacher tracking
+
+- **date:** 2026-10-15
+- **domain:** Scoped static Blueprint reader correction
+- **source:** Tania requests every-phase walkthroughs, main whole-course Student Stats / Progress and Teacher Dashboard, collapsed review sidebar and accessible full-size zoom. Explicit legacy dashboard baseline/class portfolio retention; corrected Markets version2and proposed Phase0handover documentation. No publication or new student backend.
+- **owner:** Codex Blueprint review candidate; Tania reviews before publication
+- **status:** Reviewed static reader approved for publication; deployment pending
+- **rationale:** Make actual screens readable and distinguish world engagement, curriculum design, checked learning and reviewed evidence across the whole course.
+- **dependencies:** CE-CHANGE-20261015-110
+- **evidence:** docs/production/course-tracking-walkthroughs-20261015.md / app/phase-walkthrough.tsx / app/review-table.tsx / app/course-tracking.tsx / data/course-tracking.json
+- **nextAction:** Package the saved source, publish generated public files to the existing Blueprint website and independently verify live source/record hashes and affected desktop/mobile routes.
+- **supersededRecord:** None
+- **designApproval:** Tania explicitly approved the reviewed Blueprint publication on15October2026. Game implementation, new backend, school access and learner mastery remain separate.
+- **implementation:** Every-phase walkthroughs; whole-course main navigation; actual-source legacy promo demo and class portfolio; readable zoom controls; proposed Phase0handover.
+- **deployment:** Approved static reader publication pending independent live verification; no game release or new learner-data backend.
+- **testing:** 115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained.
+- **taniaAcceptance:** Revision requested; implementation and classroom acceptance remain separate.
 
 ## Retained Atlas principles
 

@@ -1,3 +1,11 @@
+## Corrected Markets and actual legacy dashboard —15October2026
+
+Local revision111uses corrected exterior evidence from48a0fdband the existing legacy Teacher Dashboard built-in fictional promo UI, including class portfolio. Actual demo UI and source match do not verify a live school-data connection. Original empty template retains its narrower boundary. See [whole-course review](course-tracking-walkthroughs-20261015.md).
+
+## Markets evidence review —15October2026
+
+Local candidate only. Actual isolated implementation UI captures and an offline empty Teacher Dashboard template are registered with hashes. The defective outside view is withheld pending corrected geometry/UI evidence. Earlier UI captures retain background issues; they are not scene approval. No student records or public release. See [Markets review boundary](markets-implementation-review-20261015.md).
+
 ## Accepted ECC opening checkpoint — 12 October2026
 
 PR53 is live at46d63d4d55a24123d3a578e3d257f0625f462426; Pages38320903492 succeeded and Tania accepted the actual opening23:21UTC. See [current receipt and WIP limits](ecc-release-blueprint-20261012.md). Source/unit222 and startupgrassRetry passed; criticaljourneys4pass/2fail, broadnotrun. NaturalChapelwalking, Sprout500ms movement and reported missing Market/Admin access stay open. Older local/public-test/PR45/46 statements below are dated history; no complete teacher-program, whole-game or school/security acceptance follows.

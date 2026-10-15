@@ -25,3 +25,7 @@ The actual live Phase1link was read from the published DOM and remains unchanged
 ## Scope approval and publication authority
 
 Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction). Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.
+
+## Verified public release
+
+Public d82b431fb91737e1c5ac3d480a666af38ca68aaf; source a3235f52407896588f09c204bc7f1e2d0ea746d7; successful Pages build1283210347. All13changed served hashes match and25live desktop/mobile label/link checks pass; screenshots inspected. Retain the exact deployed source/manifest and independent live receipt. Phase1loading remains separately under repair; do not change its destination or infer game acceptance. This private closure does not create another public build.

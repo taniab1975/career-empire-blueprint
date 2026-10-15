@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: Full authoritative curriculum-ID wording on hover/focus/touch and Phase0ordinary public start/status correction only. Preserve197exact entries/references, later phases, icons and the existing Phase1destination. No game repository changes.
+Release scope: Approved V2.29 static Blueprint reader publication from reviewed candidate ea057b6: all-phase walkthroughs, accessible image zoom, whole-course tracking and Markets pedagogy review.
 
-Requested curriculum labels and Phase0start/status correction approved for the existing public Blueprint. Exact served-version verification is pending. Phase1destination is unchanged and its reported loading issue remains separately under repair. Teaching and learner evidence remain separate.
+This publishes design and implementation-review documentation. Corrected Markets captures remain dated isolated evidence; legacy Teacher Dashboard uses existing fictional promo samples. Opening handover, authored teaching, authenticated school data, new integrations and learner mastery remain pending/proposed or unverified.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -23494,7 +23494,7 @@ Next: Retain this bounded local verification. Structure acceptance and publicati
 
 ## CE-CHANGE-20261014-108 — Full curriculum wording on compact ID references
 
-Integration: **ready-for-publication**. Types: implementation. Owner: Codex Blueprint reader; Tania authorises requested scope.
+Integration: **complete**. Types: implementation. Owner: Codex Blueprint reader; Tania authorises requested scope.
 
 **Objective:** Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
 
@@ -23504,7 +23504,7 @@ Integration: **ready-for-publication**. Types: implementation. Owner: Codex Blue
 
 **Source:** User: Can you make it so that it shows the full curriculum label if you wave the mouse over the ids? its pretty meaningless like this. Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction).
 
-**Next:** Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.
+**Next:** Retain the exact deployed source/manifest and independent live receipt. Phase1loading remains separately under repair; do not change its destination or infer game acceptance.
 
 ### Start Here — updated
 
@@ -23601,7 +23601,7 @@ Verification: passed / 110source tests, TypeScript, focused lint and standard Vi
 
 Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -23611,14 +23611,12 @@ Records: CE-CHANGE-20261014-108. Owner: Codex Blueprint reader; Tania authorises
 
 Acceptance: Use the authoritative197-entry map for hover/focus labels and touch inspection across phase chips, planner and retained experience references. Include exact parent context for children; preserve navigation and compact geometry.
 
-Verification: pending / Focused source and reader checks pending.
+Verification: passed / Public d82b431fb91737e1c5ac3d480a666af38ca68aaf; source a3235f52407896588f09c204bc7f1e2d0ea746d7; successful Pages build1283210347. All13changed served hashes match and25live desktop/mobile label/link checks pass; screenshots inspected.
 
 - [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
-- [Evidence](app/curriculum-labels.tsx)
-- [Evidence](lib/curriculum-labels.mjs)
-- [Evidence](tests/curriculum-labels.test.mjs)
+- [Evidence](private/production-evidence/2026-10-14/curriculum-labels-orientation/publication-receipt.json)
 
-Next: Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.
+Next: Retain the exact deployed source/manifest and independent live receipt. Phase1loading remains separately under repair; do not change its destination or infer game acceptance.
 
 ### Implementation and test evidence — updated
 
@@ -23736,7 +23734,7 @@ Next: Retain scoped local verification; publication and underlying game/teaching
 
 ## CE-CHANGE-20261014-109 — Correct Phase0public start and implementation status
 
-Integration: **ready-for-publication**. Types: implementation. Owner: Codex Blueprint reader; Tania authorises requested scope.
+Integration: **complete**. Types: implementation. Owner: Codex Blueprint reader; Tania authorises requested scope.
 
 **Objective:** Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
 
@@ -23746,7 +23744,7 @@ Integration: **ready-for-publication**. Types: implementation. Owner: Codex Blue
 
 **Source:** User requests a direct start link and correction of the Phase0unverified-launch claim; opening video, picture-clue exploration and teachers photo already exist, while guided companion/landing handover remains in draft PR57. Parent verified commit5258a3e contains only the explicitly requested curriculum-ID labels and Phase0start-link/status correction, and instructed publication through the existing workflow. Direct user requests: Sentinel_9632ca47f9d08191b5b8d08ec42c6485 (full labels on hover) and Sentinel_3261790e840c8191921d80b24b0eea52 (ordinary game start and orientation/six-skill distinction).
 
-**Next:** Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.
+**Next:** Retain the exact deployed source/manifest and independent live receipt. Phase1loading remains separately under repair; do not change its destination or infer game acceptance.
 
 ### Start Here — updated
 
@@ -23838,7 +23836,7 @@ Verification: passed / 110source tests, TypeScript, focused lint and standard Vi
 
 Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -23848,13 +23846,12 @@ Records: CE-CHANGE-20261014-109. Owner: Codex Blueprint reader; Tania authorises
 
 Acceptance: Link Phase0to the ordinary public ECC start. Distinguish existing video/clue/photo core, guided handover built in unpublished PR57 and planned explicit six-skill teaching. Preserve zero assigned curriculum homes and197exact entries.
 
-Verification: pending / Focused source and reader checks pending.
+Verification: passed / Public d82b431fb91737e1c5ac3d480a666af38ca68aaf; source a3235f52407896588f09c204bc7f1e2d0ea746d7; successful Pages build1283210347. All13changed served hashes match and25live desktop/mobile label/link checks pass; screenshots inspected.
 
 - [Evidence](docs/production/curriculum-labels-orientation-20261014.md)
-- [Evidence](data/learning-planner.json)
-- [Evidence](tests/orientation-entry.test.mjs)
+- [Evidence](private/production-evidence/2026-10-14/curriculum-labels-orientation/publication-receipt.json)
 
-Next: Publish only checked generated static reader files to the existing Blueprint repository, then independently verify Pages commit, changed served hashes, full-label interactions and the Phase0canonical link. Phase1loading remains separately under repair.
+Next: Retain the exact deployed source/manifest and independent live receipt. Phase1loading remains separately under repair; do not change its destination or infer game acceptance.
 
 ### Implementation and test evidence — updated
 
@@ -23963,6 +23960,452 @@ Verification: passed / 110source tests, TypeScript, focused lint and standard Vi
 - [Evidence](tests/orientation-entry.test.mjs)
 
 Next: Retain scoped local verification; publication and underlying game/teaching acceptance remain separate.
+
+## CE-CHANGE-20261015-110 — Markets implementation review with pedagogy, Stats and teacher dashboard
+
+Integration: **ready-for-publication**. Types: implementation. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+**Objective:** Help teachers see what actually exists, why each student step exists and what evidence a screen does or does not record.
+
+**Before:** Markets review lives in a separate Library file; the Blueprint has no side-by-side implementation/pedagogy or safe teacher dashboard review.
+
+**Required result:** Three compact linked views: student experience with intended pedagogy/outcomes, Student Stats and Teacher Dashboard. Actual source captures and explicit evidence gaps.
+
+**Source:** Tania requests a reviewable Blueprint candidate linking main Markets steps to actual screenshots, a Pedagogy column, Student Stats and Teacher Dashboard tabs. Do not publish until reviewed. Parent identifies an obstructed outside screenshot for repair; do not present it as an approved scene.
+
+**Next:** Publish the approved static reader and verify the deployed manifest, changed served hashes and affected desktop/mobile routes; retain all proposed/unknown feature boundaries.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Review this scoped Markets evidence/navigation addition while preserving existing curriculum, source and menu behaviour.
+
+Records: CE-CHANGE-20261015-110. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged.
+
+- [Evidence](docs/production/markets-implementation-review-20261015.md)
+- [Evidence](data/markets-review.json)
+- [Evidence](private/production-evidence/2026-10-15/markets-review/candidate-receipt.json)
+
+Next: Complete focused source/reader checks and screenshot review, obtain corrected outside evidence, then present locally to Tania. Do not publish.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Review this scoped Markets evidence/navigation addition while preserving existing curriculum, source and menu behaviour.
+
+Records: CE-CHANGE-20261015-110. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged.
+
+- [Evidence](docs/production/markets-implementation-review-20261015.md)
+- [Evidence](data/markets-review.json)
+- [Evidence](private/production-evidence/2026-10-15/markets-review/candidate-receipt.json)
+
+Next: Complete focused source/reader checks and screenshot review, obtain corrected outside evidence, then present locally to Tania. Do not publish.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Review this scoped Markets evidence/navigation addition while preserving existing curriculum, source and menu behaviour.
+
+Records: CE-CHANGE-20261015-110. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged.
+
+- [Evidence](docs/production/markets-implementation-review-20261015.md)
+- [Evidence](data/markets-review.json)
+- [Evidence](private/production-evidence/2026-10-15/markets-review/candidate-receipt.json)
+
+Next: Complete focused source/reader checks and screenshot review, obtain corrected outside evidence, then present locally to Tania. Do not publish.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Review this scoped Markets evidence/navigation addition while preserving existing curriculum, source and menu behaviour.
+
+Records: CE-CHANGE-20261015-110. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged.
+
+- [Evidence](docs/production/markets-implementation-review-20261015.md)
+- [Evidence](data/markets-review.json)
+- [Evidence](private/production-evidence/2026-10-15/markets-review/candidate-receipt.json)
+
+Next: Complete focused source/reader checks and screenshot review, obtain corrected outside evidence, then present locally to Tania. Do not publish.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Review this scoped Markets evidence/navigation addition while preserving existing curriculum, source and menu behaviour.
+
+Records: CE-CHANGE-20261015-110. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged.
+
+- [Evidence](docs/production/markets-implementation-review-20261015.md)
+- [Evidence](data/markets-review.json)
+- [Evidence](private/production-evidence/2026-10-15/markets-review/candidate-receipt.json)
+
+Next: Complete focused source/reader checks and screenshot review, obtain corrected outside evidence, then present locally to Tania. Do not publish.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Review this scoped Markets evidence/navigation addition while preserving existing curriculum, source and menu behaviour.
+
+Records: CE-CHANGE-20261015-110. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: pending / Focused source/reader checks and actual-pixel inspection pending.
+
+- [Evidence](docs/production/markets-implementation-review-20261015.md)
+- [Evidence](data/markets-review.json)
+
+Next: Tania approved15October. Run final guarded packaging, publish only reviewed generated files and verify successful Pages deployment plus live hashes and reader routes.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Review this scoped Markets evidence/navigation addition while preserving existing curriculum, source and menu behaviour.
+
+Records: CE-CHANGE-20261015-110. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged.
+
+- [Evidence](docs/production/markets-implementation-review-20261015.md)
+- [Evidence](data/markets-review.json)
+- [Evidence](private/production-evidence/2026-10-15/markets-review/candidate-receipt.json)
+
+Next: Complete focused source/reader checks and screenshot review, obtain corrected outside evidence, then present locally to Tania. Do not publish.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Review this scoped Markets evidence/navigation addition while preserving existing curriculum, source and menu behaviour.
+
+Records: CE-CHANGE-20261015-110. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged.
+
+- [Evidence](docs/production/markets-implementation-review-20261015.md)
+- [Evidence](data/markets-review.json)
+- [Evidence](private/production-evidence/2026-10-15/markets-review/candidate-receipt.json)
+
+Next: Complete focused source/reader checks and screenshot review, obtain corrected outside evidence, then present locally to Tania. Do not publish.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Review this scoped Markets evidence/navigation addition while preserving existing curriculum, source and menu behaviour.
+
+Records: CE-CHANGE-20261015-110. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged.
+
+- [Evidence](docs/production/markets-implementation-review-20261015.md)
+- [Evidence](data/markets-review.json)
+- [Evidence](private/production-evidence/2026-10-15/markets-review/candidate-receipt.json)
+
+Next: Complete focused source/reader checks and screenshot review, obtain corrected outside evidence, then present locally to Tania. Do not publish.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Review this scoped Markets evidence/navigation addition while preserving existing curriculum, source and menu behaviour.
+
+Records: CE-CHANGE-20261015-110. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged.
+
+- [Evidence](docs/production/markets-implementation-review-20261015.md)
+- [Evidence](data/markets-review.json)
+- [Evidence](private/production-evidence/2026-10-15/markets-review/candidate-receipt.json)
+
+Next: Complete focused source/reader checks and screenshot review, obtain corrected outside evidence, then present locally to Tania. Do not publish.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Review this scoped Markets evidence/navigation addition while preserving existing curriculum, source and menu behaviour.
+
+Records: CE-CHANGE-20261015-110. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged.
+
+- [Evidence](docs/production/markets-implementation-review-20261015.md)
+- [Evidence](data/markets-review.json)
+- [Evidence](private/production-evidence/2026-10-15/markets-review/candidate-receipt.json)
+
+Next: Complete focused source/reader checks and screenshot review, obtain corrected outside evidence, then present locally to Tania. Do not publish.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Review this scoped Markets evidence/navigation addition while preserving existing curriculum, source and menu behaviour.
+
+Records: CE-CHANGE-20261015-110. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged.
+
+- [Evidence](docs/production/markets-implementation-review-20261015.md)
+- [Evidence](data/markets-review.json)
+- [Evidence](private/production-evidence/2026-10-15/markets-review/candidate-receipt.json)
+
+Next: Complete focused source/reader checks and screenshot review, obtain corrected outside evidence, then present locally to Tania. Do not publish.
+
+## CE-CHANGE-20261015-111 — Readable all-phase walkthroughs and whole-course student/teacher tracking
+
+Integration: **ready-for-publication**. Types: implementation. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+**Objective:** Make actual screens readable and distinguish world engagement, curriculum design, checked learning and reviewed evidence across the whole course.
+
+**Before:** Markets-only inner tabs and small thumbnails; teacher evidence limited to offline empty source capture.
+
+**Required result:** Every-phase walkthroughs; whole-course main navigation; actual-source legacy promo demo and class portfolio; readable zoom controls; proposed Phase0handover.
+
+**Source:** Tania requests every-phase walkthroughs, main whole-course Student Stats / Progress and Teacher Dashboard, collapsed review sidebar and accessible full-size zoom. Explicit legacy dashboard baseline/class portfolio retention; corrected Markets version2and proposed Phase0handover documentation. No publication or new student backend.
+
+**Next:** Publish the approved static reader and verify the deployed manifest, changed served hashes and affected desktop/mobile routes; retain all proposed/unknown feature boundaries.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Verify readable all-phase navigation, whole-course tracking distinctions and actual legacy-source evidence; preserve existing references/content.
+
+Records: CE-CHANGE-20261015-111. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained.
+
+- [Evidence](docs/production/course-tracking-walkthroughs-20261015.md)
+- [Evidence](private/production-evidence/2026-10-15/course-revision/candidate-receipt.json)
+
+Next: Complete focused checks and present revised screenshots. No publication until reviewed.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Verify readable all-phase navigation, whole-course tracking distinctions and actual legacy-source evidence; preserve existing references/content.
+
+Records: CE-CHANGE-20261015-111. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained.
+
+- [Evidence](docs/production/course-tracking-walkthroughs-20261015.md)
+- [Evidence](private/production-evidence/2026-10-15/course-revision/candidate-receipt.json)
+
+Next: Complete focused checks and present revised screenshots. No publication until reviewed.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Verify readable all-phase navigation, whole-course tracking distinctions and actual legacy-source evidence; preserve existing references/content.
+
+Records: CE-CHANGE-20261015-111. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained.
+
+- [Evidence](docs/production/course-tracking-walkthroughs-20261015.md)
+- [Evidence](private/production-evidence/2026-10-15/course-revision/candidate-receipt.json)
+
+Next: Complete focused checks and present revised screenshots. No publication until reviewed.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Verify readable all-phase navigation, whole-course tracking distinctions and actual legacy-source evidence; preserve existing references/content.
+
+Records: CE-CHANGE-20261015-111. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained.
+
+- [Evidence](docs/production/course-tracking-walkthroughs-20261015.md)
+- [Evidence](private/production-evidence/2026-10-15/course-revision/candidate-receipt.json)
+
+Next: Complete focused checks and present revised screenshots. No publication until reviewed.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Verify readable all-phase navigation, whole-course tracking distinctions and actual legacy-source evidence; preserve existing references/content.
+
+Records: CE-CHANGE-20261015-111. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained.
+
+- [Evidence](docs/production/course-tracking-walkthroughs-20261015.md)
+- [Evidence](private/production-evidence/2026-10-15/course-revision/candidate-receipt.json)
+
+Next: Complete focused checks and present revised screenshots. No publication until reviewed.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Verify readable all-phase navigation, whole-course tracking distinctions and actual legacy-source evidence; preserve existing references/content.
+
+Records: CE-CHANGE-20261015-111. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: pending / Focused source and browser verification pending.
+
+- [Evidence](docs/production/course-tracking-walkthroughs-20261015.md)
+
+Next: Tania approved15October. Run final guarded packaging, publish only reviewed generated files and verify successful Pages deployment plus live hashes and reader routes.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Verify readable all-phase navigation, whole-course tracking distinctions and actual legacy-source evidence; preserve existing references/content.
+
+Records: CE-CHANGE-20261015-111. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained.
+
+- [Evidence](docs/production/course-tracking-walkthroughs-20261015.md)
+- [Evidence](private/production-evidence/2026-10-15/course-revision/candidate-receipt.json)
+
+Next: Complete focused checks and present revised screenshots. No publication until reviewed.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Verify readable all-phase navigation, whole-course tracking distinctions and actual legacy-source evidence; preserve existing references/content.
+
+Records: CE-CHANGE-20261015-111. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained.
+
+- [Evidence](docs/production/course-tracking-walkthroughs-20261015.md)
+- [Evidence](private/production-evidence/2026-10-15/course-revision/candidate-receipt.json)
+
+Next: Complete focused checks and present revised screenshots. No publication until reviewed.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Verify readable all-phase navigation, whole-course tracking distinctions and actual legacy-source evidence; preserve existing references/content.
+
+Records: CE-CHANGE-20261015-111. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained.
+
+- [Evidence](docs/production/course-tracking-walkthroughs-20261015.md)
+- [Evidence](private/production-evidence/2026-10-15/course-revision/candidate-receipt.json)
+
+Next: Complete focused checks and present revised screenshots. No publication until reviewed.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Verify readable all-phase navigation, whole-course tracking distinctions and actual legacy-source evidence; preserve existing references/content.
+
+Records: CE-CHANGE-20261015-111. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained.
+
+- [Evidence](docs/production/course-tracking-walkthroughs-20261015.md)
+- [Evidence](private/production-evidence/2026-10-15/course-revision/candidate-receipt.json)
+
+Next: Complete focused checks and present revised screenshots. No publication until reviewed.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Verify readable all-phase navigation, whole-course tracking distinctions and actual legacy-source evidence; preserve existing references/content.
+
+Records: CE-CHANGE-20261015-111. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained.
+
+- [Evidence](docs/production/course-tracking-walkthroughs-20261015.md)
+- [Evidence](private/production-evidence/2026-10-15/course-revision/candidate-receipt.json)
+
+Next: Complete focused checks and present revised screenshots. No publication until reviewed.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Verify readable all-phase navigation, whole-course tracking distinctions and actual legacy-source evidence; preserve existing references/content.
+
+Records: CE-CHANGE-20261015-111. Owner: Codex Blueprint review candidate; Tania reviews before publication.
+
+Acceptance: Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.
+
+Verification: passed / 115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained.
+
+- [Evidence](docs/production/course-tracking-walkthroughs-20261015.md)
+- [Evidence](private/production-evidence/2026-10-15/course-revision/candidate-receipt.json)
+
+Next: Complete focused checks and present revised screenshots. No publication until reviewed.
 
 ## Historical boundary
 
