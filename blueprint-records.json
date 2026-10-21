@@ -31145,6 +31145,26 @@
         "sha256": "b5ba5a1691fbbfb3609be554cf4c5c8a905c443abee00f2206f5c11494783ae6",
         "origin": "Existing dashboards/teacher.html + dashboard.js; source verified against public repository",
         "qa": "16demo rows ×6capability columns; real class portfolio rendering. Live backend, permissions and scoring validity remain unverified."
+      },
+      "discovery-camera-component-phone": {
+        "src": "/evidence/discovery-components-20261021/camera-phone-preview.png",
+        "title": "Camera controls · current phone component preview",
+        "alt": "Actual isolated phone component with the restored original mural, framing control and Take photo button; not a full 3D scene.",
+        "caption": "Captured21October2026 from the current isolated production component fixture after original artwork restoration. Base HEADaf129fe; exact runtime/fixture SHA-256 values and unchanged before/after source are recorded in the private capture receipt. Synthetic fixture positions/state; unpublished preview, not full 3D gameplay or live release.",
+        "kind": "Actual current component preview · unpublished",
+        "sha256": "80781bcf817b342c536dc98aa04a5cc171141713fb205a17509b24586a26dd22",
+        "origin": "Read-only source project /tests/fixtures/discovery-panels.html; current component-capture-receipt.json",
+        "qa": "Fresh Chrome component capture with images loaded, zero page errors and stable source hashes. Full-scene Market/GLB and game release verification remain separate."
+      },
+      "discovery-gift-component-desktop": {
+        "src": "/evidence/discovery-components-20261021/gift-desktop-preview.png",
+        "title": "First clue reveal · current desktop component preview",
+        "alt": "Actual isolated desktop component with restored Chapel clue artwork and a deliberate Go exploring action; not a full 3D scene.",
+        "caption": "Captured21October2026 from the current isolated production component fixture after original artwork restoration. Base HEADaf129fe; exact runtime/fixture SHA-256 values and unchanged before/after source are recorded in the private capture receipt. Synthetic fixture positions/state; unpublished preview, not full 3D gameplay or live release.",
+        "kind": "Actual current component preview · unpublished",
+        "sha256": "521abb111ac0d8c93e5b2aad0cc062bb2b914ba1c13c262c44571baa669559ee",
+        "origin": "Read-only source project /tests/fixtures/discovery-panels.html; current component-capture-receipt.json",
+        "qa": "Fresh Chrome component capture with images loaded, zero page errors and stable source hashes. Full-scene Market/GLB and game release verification remain separate."
       }
     },
     "tabs": [
@@ -31593,7 +31613,14 @@
           }
         ]
       }
-    ]
+    ],
+    "screenshotReview": {
+      "date": "21 October 2026",
+      "status": "Screenshot refresh pending actual browser capture",
+      "summary": "The eleven dated market/teacher images retain their original provenance. Fresh21Octoberphoto-trail component previews use restored original artwork and synthetic fixture state; they are not represented as full-world or live-game screenshots.",
+      "candidate": "The game worktree is based on af129fe with active Market changes. Read-only metadata now finds0missing files among292manifest entries. That verifies file presence, not complete gameplay or visual acceptance. Current component capture hashes are separately recorded.",
+      "limits": "Phase0has current versioned photo-trail component previews, not whole-flow/3D qualification. Phases2–11remain proposed with no runtime screens. Updated full-scene Market captures follow that task’s verified implementation; dated prior captures are retained as dated references."
+    }
   },
   "courseTracking": {
     "id": "CE-COURSE-TRACKING-20261015",
@@ -31818,7 +31845,7 @@
       "backendUnknown": "No authenticated school session queried. Real class scope, database isolation, writes/review persistence and new Markets links remain unverified."
     }
   },
-  "revision": "V2.29 / 15 October 2026",
+  "revision": "V2.30 / 21 October 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -31843,14 +31870,14 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.29",
-      "date": "2026-10-15",
-      "label": "V2.29 / 15 October 2026",
-      "status": "Reviewed all-phase walkthrough and whole-course tracking reader approved for publication; independent live verification pending",
-      "purpose": "Career Empire is intended as a connected learning system for the whole Careers and Employability curriculum. The Blueprint is currently its game-design document, integrating pedagogy, engagement, educational psychology, curriculum and learning design; it can later become the teacher delivery resource. Connected experiences create reasons to seek knowledge, make choices and learn from consequences; learning outside the 3D world need not become a disconnected subject silo.",
+      "id": "V2.30",
+      "date": "2026-10-21",
+      "label": "V2.30 / 21 October 2026",
+      "status": "Reviewed syllabus-first Blueprint teaching and versioned component-preview documentation; game implementation and learner evidence remain separate",
+      "purpose": "Career Empire is a connected learning-design project. This scoped Blueprint update teaches from the syllabus first: meaningful experience, explicit instruction, supported application, feedback and durable understanding. Curriculum ways and benefits stay central; no competing named guide or draft song is added to core learning.",
       "audience": "Colleagues reviewing the current game and learning design; teacher delivery program remains in development.",
       "owner": "Tania Byrnes",
-      "scope": "Publish the reviewed all-phase walkthroughs, accessible full-size screenshots, whole-course Student Stats / Progress and Teacher Dashboard, and Markets pedagogy review. Preserve exact197curriculum entries and evidence boundaries. No game or student-data backend changes."
+      "scope": "Extend the existing Teaching & assessment ethos and Initiative design bridge, and show exact experience-screenshot version gaps. No live-game or student-data change."
     },
     "navigation": [
       {
@@ -31946,7 +31973,7 @@
       {
         "id": "classroom",
         "label": "Teaching & assessment",
-        "summary": "How lessons run, how teachers review learning, and how every student can take part.",
+        "summary": "Learning and assessment ethos: retrieval, spacing, purposeful memory supports, authentic application and teacher-reviewed evidence, alongside practical classroom requirements.",
         "image": "/references/topics/classroom.jpg",
         "imageAlt": "Existing concept artwork of educators reviewing curriculum and assessment together"
       },
@@ -32040,7 +32067,7 @@
       "phase": "Connected course design and Blueprint handover",
       "activeMilestoneId": "CE-CONTINUITY-01",
       "objective": "Make the purpose, current design, implementation limits and next decisions understandable to a new colleague.",
-      "now": "The reviewed all-phase walkthrough and whole-course tracking reader is approved for publication. Exact curriculum, corrected dated Markets evidence and actual legacy fictional demo remain distinct from proposed teaching, opening handover and authenticated integrations.",
+      "now": "V2.29 all-phase walkthroughs and whole-course tracking reader are published and independently verified. Exact curriculum, dated isolated Markets captures and actual legacy fictional demo remain distinct from proposed teaching, opening handover and authenticated integrations.",
       "next": "Author and review core learning materials, purposeful application and appropriate learner evidence across the shared phases. Agree pacing and school assessment dates before setting lessons. Game PR57 triage and game icon adoption remain separate work.",
       "then": "Author and review core learning materials, purposeful application and appropriate evidence across the shared phases; align school pacing and assessment dates before setting lessons.",
       "later": "Implement the agreed connected course and verify classroom, accessibility, school and learner-evidence requirements separately.",
@@ -32370,7 +32397,7 @@
     "currentStep": {
       "id": "CE-CONTINUITY-01",
       "title": "Connected course design and Blueprint handover",
-      "status": "Reviewed Blueprint reader approved; publication in progress; authored course provision remains in development",
+      "status": "Blueprint reader verified live; authored course provision remains in development",
       "owner": "Codex: reader and checks; Tania: design review; school: assessment decisions",
       "href": "/production/blueprint-redesign-review-20261014.html",
       "actionLabel": "Review the website audit and proposed structure",
@@ -32528,6 +32555,161 @@
         "doneWhen": "Approve the next experience before adding its locations, shared progression or new rewards."
       }
     ],
+    "learningPrinciples": {
+      "title": "Remember, understand and use it",
+      "purpose": "Plan for knowledge students can recall, explain and use beyond the original task. Memory supports understanding and judgement; a memorable activity alone does not demonstrate learning.",
+      "core": [
+        {
+          "title": "Retrieval practice",
+          "detail": "Make low-stakes recall a regular part of learning: ask students to retrieve an idea, explain it or reconstruct a process before looking at notes. Give corrective feedback, address misconceptions and let them try again."
+        },
+        {
+          "title": "Spacing",
+          "detail": "Revisit important learning after a delay and again in later lessons or phases, rather than concentrating all practice in one sitting. Use what students recall and misunderstand to decide the next revisit; the exact schedule depends on the content and learners."
+        }
+      ],
+      "selection": "Choose supports for the knowledge, task and learner’s current needs, not a fixed visual, auditory or kinaesthetic learning-style label. Explain how to use the strategy and check whether it helps.",
+      "options": [
+        {
+          "title": "Chunking",
+          "detail": "Group related information into meaningful parts; make the relationships clear, then reconnect the parts in the whole task."
+        },
+        {
+          "title": "Meaningful imagery and stories",
+          "detail": "Connect ideas to an accurate concrete image or short story. Check the underlying meaning, not just recall of the picture or plot."
+        },
+        {
+          "title": "Memory palace",
+          "detail": "Optionally place a stable list or ordered sequence along familiar imagined locations. Check accurate recall and then teach the explanation and application separately."
+        },
+        {
+          "title": "Elaboration and self-explanation",
+          "detail": "Ask why, how, what connects to prior knowledge, and why an example or solution fits. Check and correct the explanation."
+        },
+        {
+          "title": "Words plus meaningful diagrams",
+          "detail": "Use labelled diagrams, timelines or flow charts with concise explanation to show relationships and processes; decorative pictures are not the learning goal."
+        },
+        {
+          "title": "Interleaving",
+          "detail": "After initial teaching and suitable practice, mix related cases so learners choose and justify the appropriate idea or approach. Avoid random topic switching before foundations are secure."
+        },
+        {
+          "title": "Creative rehearsal and memory cues",
+          "detail": "Acrostics, mnemonics, images, drama/role-play, songs and repeated reinforcement are legitimate options when they make the actual curriculum meaningful and memorable. Link the cue to accurate syllabus wording, explanation and workplace application; check whether it helps rather than adding a competing model."
+        }
+      ],
+      "cues": "Creative memory supports stay optional and purpose-specific. They must reinforce the curriculum’s meaning and application, not become another mandatory assessed list. No particular new song, mnemonic or acrostic is commissioned by this update.",
+      "design": [
+        "State the learning purpose and what successful understanding or performance would look like.",
+        "Choose a suitable entry: an informed low-stakes attempt followed by reflection and teaching, or explanation and a worked example first. Scaffold practice, then fade help as learners become ready; make support available again when needed.",
+        "Include brief low-stakes recall, corrective feedback and a useful next attempt. A mistake identifies what needs teaching; it is not automatically a summative failure.",
+        "Plan later revisits and varied applications across the existing course sequence, rather than treating one completed activity as durable learning.",
+        "Ask learners to apply the idea in an authentic task, explain their decision in a different context, and reflect on what changed and what they need next."
+      ],
+      "assessment": "Assess accurate reasoning, explanation, application and transfer, not reproduction of a mnemonic alone. Distinguish supported from independent success. Use selected work, demonstration and teacher review; speed, wealth, badges, quiz completion and engagement are not mastery. Retain only the evidence needed under existing privacy and school-use boundaries; this adds no new learner tracking.",
+      "example": "Proposed teaching sequence: after teaching initiative and trying an arrangement at Mara’s market, revisit the five behaviours from memory, check omissions with feedback, then ask which behaviour fits a new workplace situation and why. A later explanation should distinguish initiative from following an instruction and justify the choice. Teacher review considers the reasoning and support used, not the wage or recall score alone.",
+      "boundary": "These are design principles, not a claim of implemented practice or measured Career Empire learning gains. No fixed learning styles or speculative brain mechanism is assumed.",
+      "source": {
+        "title": "IES practice guide · Organizing Instruction and Study to Improve Student Learning (2007)",
+        "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/1",
+        "scope": "Evidence guidance for spacing, retrieval, explanatory questions and purposeful verbal/visual representations; evidence strength and studied contexts vary. Reviewed 21 October 2026."
+      },
+      "experience": {
+        "title": "Experience, reflection and explicit teaching",
+        "history": "The retained sequence is experience → need to learn → supported instruction → application → feedback/consequence → recovery/transfer (8 September 2026 history). V2-D01 (6 September) placed a meaningful encounter before explanation; V2-D18 and the 24 September contract clarify that world events and productive failure are not compulsory for every activity. Direct teaching and EST revision remain legitimate.",
+        "experiential": "Experiential learning connects doing with reflection: encounter a purposeful situation, notice and discuss what happened, connect it to concepts through explicit explanation, then try again or transfer the learning. Activity or immersion alone is not evidence of understanding.",
+        "productive": "Productive failure is an optional designed sequence: after access, safety, controls and necessary prerequisites are clear, offer a bounded, low-stakes problem-solving attempt. Compare approaches and reflect, then explicitly explain and consolidate the important ideas with worked examples and solution scaffolding. Follow with supported practice, fading help and a later application or transfer check.",
+        "support": "Orientation and access support come before an attempt; solution scaffolding can follow it where suitable. Do not withhold essential help, force failure or leave learners struggling without consolidation. Adapt to prior knowledge, task difficulty and accessibility; use teaching or an example first when needed. At Mara’s market, brief the role, safety and workflow first and offer ordinary contextual questions or help on demand. Successful first attempts are valid; early errors guide teaching, not a summative penalty.",
+        "source": "Existing Kapur (2014) research concerns studied mathematics tasks; it informs a design option, not proof of effectiveness across this course."
+      },
+      "initiative": {
+        "title": "Initiative needs explicit teaching",
+        "purpose": "The experience alone is not sufficient teaching. The core route must explain all five curriculum behaviours through staged teaching, examples and non-examples, a worked example and consolidation. Optional cards cannot be the only way learners encounter this content. Teach before or after a suitable attempt according to readiness.",
+        "behaviours": [
+          {
+            "title": "being proactive",
+            "example": "Anticipate confusion and raise a workable idea without waiting for a specific instruction; distinguish this from carrying out a step Mara already prescribed.",
+            "curriculumId": "CEM12-U3-EB-02.d1",
+            "explained": "Introduce initiative versus following an instruction in the purpose/briefing; revisit with a worked market example and debrief.",
+            "opportunity": "Notice an emerging ordering/collection problem and raise a safe suggestion before Mara gives a specific solution. The scenario is assigned practice; that alone is not spontaneous initiative.",
+            "check": "Compare carrying out Mara’s exact instruction with anticipating a need. Explain which shows initiative and why; identify any prompting.",
+            "state": "Required teaching design and planned opportunity/example; not verified runtime provision or learner performance."
+          },
+          {
+            "title": "identifying ways to improve current work practices",
+            "example": "Use observations of ordering and collection to propose and test a clearer arrangement, then compare the result.",
+            "curriculumId": "CEM12-U3-EB-02.d2",
+            "explained": "Explicitly connect an observed work practice, proposed change and possible efficiency benefit in the teaching/debrief.",
+            "opportunity": "Observe the baseline, propose a clearer sign/collection arrangement, try it and compare the next customers. Several sensible arrangements may be valid.",
+            "check": "Identify what changed and the observation supporting an improvement; explain why it demonstrates this way rather than merely moving an object.",
+            "state": "Required teaching design and planned opportunity/example; not verified runtime provision or learner performance."
+          },
+          {
+            "title": "vocalising your opinions",
+            "example": "Explain a suggested arrangement respectfully to Mara and Sam, with reasons and openness to feedback.",
+            "curriculumId": "CEM12-U3-EB-02.d3",
+            "explained": "Model a respectful opinion with a reason and a non-example that only repeats an instruction.",
+            "opportunity": "Offer Mara/Sam an arrangement or viewpoint, explain the reason, listen and respond to their feedback within the workflow.",
+            "check": "Recognise an opinion being expressed and justify why it is relevant initiative; distinguish a selected label from an explained contribution.",
+            "state": "Required teaching design and planned opportunity/example; not verified runtime provision or learner performance."
+          },
+          {
+            "title": "helping fellow workers",
+            "example": "Offer an agreed form of support to Sam when packing or collection needs it; do not bypass safety or the role boundary.",
+            "curriculumId": "CEM12-U3-EB-02.d4",
+            "explained": "Use a concrete Sam/crew-workload example; explain useful support and role/safety limits.",
+            "opportunity": "Notice when Sam needs support, ask what help is useful and offer an agreed packing/collection task. If the runtime does not yet offer this action, illustrate or role-play it and mark it as such.",
+            "check": "Explain how the action helps a fellow worker and why it is appropriate. Distinguish helping from simply reallocating Sam’s job in a menu.",
+            "state": "Required teaching design and planned opportunity/example; not verified runtime provision or learner performance."
+          },
+          {
+            "title": "seeking more responsibilities",
+            "example": "Ask to take an appropriate extra role and clarify permission and support; extra work assigned by someone else is not by itself evidence of seeking responsibility.",
+            "curriculumId": "CEM12-U3-EB-02.d5",
+            "explained": "Contrast asking for a suitable extra responsibility with being assigned one; explain permission and support.",
+            "opportunity": "Ask Mara to take an appropriate additional role, such as checking collection for the next wave, with agreed boundaries. Do not treat completing the initially assigned task as seeking more responsibility.",
+            "check": "Identify who initiated the request and explain how it fits this syllabus way. Use another workplace case if the learner did not request a role in the market.",
+            "state": "Required teaching design and planned opportunity/example; not verified runtime provision or learner performance."
+          }
+        ],
+        "guide": "Use the syllabus ways as the core teaching reference. Ask ordinary contextual questions about the actual work: what needs attention, what could improve it, which syllabus way the action demonstrates, why it fits, who may benefit, and what happened. Do not add a named thinking sequence or another list to memorise. Any future optional memory support must reinforce the curriculum wording and demonstrate usefulness.",
+        "sequence": [
+          {
+            "title": "Clear purpose",
+            "detail": "Introduce the concept and purpose: learn how initiative can contribute to the market, not just solve a queue puzzle. Brief role, safety and workflow; make quiet contextual help available. One primary action: begin when ready."
+          },
+          {
+            "title": "Informed attempt",
+            "detail": "Observe, ask or try a bounded arrangement. A successful first attempt is valid. One primary action: review what happened; no forced failure or wrong-button penalty."
+          },
+          {
+            "title": "Explicit teaching and debrief",
+            "detail": "Explain the meaning of initiative, all five syllabus ways and workplace benefits through staged examples and non-examples. Connect justified ways to the learner’s actual actions and results; identify any not yet demonstrated. One primary action: continue after the explanation."
+          },
+          {
+            "title": "Worked reasoning example",
+            "detail": "Show how a queue/collection observation informs a proposal, permission, trial and review. Explain why the action demonstrates a syllabus way and how the workplace may benefit, using ordinary contextual questions. One primary action: try a different case."
+          },
+          {
+            "title": "New application and feedback",
+            "detail": "Use a different workplace scenario; ask which behaviour fits and why. Give corrective feedback and a useful next step, then revisit later. One primary action at a time, no automatic advance."
+          }
+        ],
+        "evidence": "Review the student’s concrete choice, reasoning, observed result and explanation. Distinguish independent from prompted action and initiative from following instructions. An action may demonstrate more than one syllabus way, but not automatically all five. A repeated label, mnemonic, wage, badge, quiz result or opened card is not proof of mastery.",
+        "delivery": "Reduce simultaneous instructions and controls: one clear stage and primary action, quiet help on demand, readable/captioned equivalents and deliberate continuation. Scaffold when needed; never withhold access or essential support.",
+        "status": "Required Blueprint teaching design/proposal. This page does not claim that the current game’s core route, cards, debrief or assessment has already been changed or validated.",
+        "curriculumScope": "Teach the concept, ways of showing initiative and benefits together. The 2027 SCSA Unit 3 Enterprising behaviours content prescribes the five examples below; they are not an ordered taxonomy or five steps to memorise. Understanding and appropriate workplace application matter, not label reproduction alone.",
+        "benefits": [
+          "increased empowerment and recognition",
+          "increased efficiency",
+          "to create work opportunities (for example, promotion)"
+        ],
+        "benefitsTeaching": "Explain each benefit through the actual action and result: a useful proposal may earn trust or recognition; a clearer collection arrangement may reduce confusion; appropriate contributions may create later work opportunities. These are possible benefits, not guaranteed promotion, rewards or proof of mastery.",
+        "curriculumHref": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF#page=13",
+        "coverageRule": "The market must make this content concrete through meaningful examples and opportunities designed around the concept and five syllabus ways, not attach labels to a queue puzzle afterward. Teach and check recognition/explanation across all five. Keep illustrated, practised with help and independently demonstrated claims separate; no single action automatically demonstrates every way."
+      }
+    },
     "pilot": {
       "id": "CE-PILOT-01",
       "experienceId": "CE-EXP-V2-01",
@@ -33050,18 +33232,18 @@
       "asOf": "2026-09-17",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.29 / Blueprint reader",
+        "sourceRevision": "V2.30 / local teaching-principles candidate",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.28 / GitHub Pages",
-        "checkedAt": "2026-10-14T04:59:39.266469+00:00",
-        "observedLiveSha256": "60f5164aae50eb78730e5b3d90b197515182534a5a40779a3799e84bf8557853",
-        "accessCheck": "Existing private recovery repository verified PRIVATE before upload; generated-files-only Pages publication built successfully.",
+        "observedLiveRevision": "V2.29 / GitHub Pages",
+        "checkedAt": "2026-10-15T06:09:54.862746+00:00",
+        "observedLiveSha256": "72f2126b9533ff48e541a863173aa79f8c0c2ce143b5593cb8b74c13ff93b526",
+        "accessCheck": "Generated public Blueprint only. Direct user approval accepted; private recovery upload excluded.",
         "validationReceipt": "/publication-manifest.json",
-        "status": "Tania approved the reviewed15October Blueprint candidate; final static packaging and independent deployment verification are in progress. Previous public identity is retained below until verified.",
-        "savedVersionId": "a3235f52407896588f09c204bc7f1e2d0ea746d7",
-        "deploymentId": "GitHub Pages / 1283210347",
-        "parity": "Exact deployed manifest/record and all13changed served hashes verified;25live label/link checks passed.",
-        "resume": "Retain the exact deployed source/manifest and independent live receipt. Phase1loading remains separately under repair; do not change its destination or infer game acceptance. Reconcile separate104work against updated private recovery before future source pushes.",
+        "status": "Public 49147ad480a2843fa31ceacc1ec8c71b906b11e2; source 869acd85f982baa67832fb25a93965c68e0819c0; successful Pages build1286026708. All28changed served file hashes match and48live desktop/mobile reader checks pass, with no JavaScript errors. Screenshots inspected.197exact curriculum entries/references and proposed/implemented/learner-evidence distinctions retained.",
+        "savedVersionId": "869acd85f982baa67832fb25a93965c68e0819c0",
+        "deploymentId": "GitHub Pages / 1286026708",
+        "parity": "Exact deployed source/record manifest, all28changed served hashes and48desktop/mobile reader checks verified.",
+        "resume": "The final approved core is syllabus-first, with ordinary contextual prompts and no new named mnemonic/sequence or draft-song promotion. Original resources remain historical. Complete final reader/artifact checks, then authorised guarded Blueprint publication and independent live verification. No game publication by this task.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
         "legacySite": {
@@ -33070,8 +33252,8 @@
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
         },
-        "observedPublicCommit": "d82b431fb91737e1c5ac3d480a666af38ca68aaf",
-        "hashScope": "Deployed V2.28record built from source a3235f52407896588f09c204bc7f1e2d0ea746d7, pinned by publication-manifest.json. This private metadata closure is not another public build.",
+        "observedPublicCommit": "49147ad480a2843fa31ceacc1ec8c71b906b11e2",
+        "hashScope": "Deployed V2.29 artifact from source 869acd85f982baa67832fb25a93965c68e0819c0. This later private closure is not another public build.",
         "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
@@ -35489,7 +35671,7 @@
           "domain": "Scoped static Blueprint reader correction",
           "source": "Tania requests a reviewable Blueprint candidate linking main Markets steps to actual screenshots, a Pedagogy column, Student Stats and Teacher Dashboard tabs. Do not publish until reviewed. Parent identifies an obstructed outside screenshot for repair; do not present it as an approved scene.",
           "owner": "Codex Blueprint review candidate; Tania reviews before publication",
-          "status": "Reviewed static reader approved for publication; deployment pending",
+          "status": "Scoped reader published and independently verified; underlying game/teaching/data integration remains separate",
           "rationale": "Help teachers see what actually exists, why each student step exists and what evidence a screen does or does not record.",
           "dependencies": [
             "CE-CHANGE-20261014-108",
@@ -35500,12 +35682,12 @@
             "data/markets-review.json",
             "app/markets-review.tsx"
           ],
-          "nextAction": "Package the saved source, publish generated public files to the existing Blueprint website and independently verify live source/record hashes and affected desktop/mobile routes.",
+          "nextAction": "Retain this reader release and exact receipt. Authored teaching, opening handover, school/backend integration and learner evidence require their separate work and verification.",
           "supersededRecord": null,
           "designApproval": "Tania explicitly approved the reviewed Blueprint publication on15October2026. Game implementation, new backend, school access and learner mastery remain separate.",
           "implementation": "Three compact linked views: student experience with intended pedagogy/outcomes, Student Stats and Teacher Dashboard. Actual source captures and explicit evidence gaps.",
-          "deployment": "Approved static reader publication pending independent live verification; no game release or new learner-data backend.",
-          "testing": "113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged.",
+          "deployment": "Public 49147ad480a2843fa31ceacc1ec8c71b906b11e2; source 869acd85f982baa67832fb25a93965c68e0819c0; successful Pages build1286026708. All28changed served file hashes match and48live desktop/mobile reader checks pass, with no JavaScript errors. Screenshots inspected.197exact curriculum entries/references and proposed/implemented/learner-evidence distinctions retained.",
+          "testing": "113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged. Final guarded static packaging,28served file hashes and48live desktop/mobile checks pass.",
           "taniaAcceptance": "Requested local candidate; no final design, classroom or game acceptance inferred."
         },
         {
@@ -35515,7 +35697,7 @@
           "domain": "Scoped static Blueprint reader correction",
           "source": "Tania requests every-phase walkthroughs, main whole-course Student Stats / Progress and Teacher Dashboard, collapsed review sidebar and accessible full-size zoom. Explicit legacy dashboard baseline/class portfolio retention; corrected Markets version2and proposed Phase0handover documentation. No publication or new student backend.",
           "owner": "Codex Blueprint review candidate; Tania reviews before publication",
-          "status": "Reviewed static reader approved for publication; deployment pending",
+          "status": "Scoped reader published and independently verified; underlying game/teaching/data integration remains separate",
           "rationale": "Make actual screens readable and distinguish world engagement, curriculum design, checked learning and reviewed evidence across the whole course.",
           "dependencies": [
             "CE-CHANGE-20261015-110"
@@ -35527,13 +35709,38 @@
             "app/course-tracking.tsx",
             "data/course-tracking.json"
           ],
-          "nextAction": "Package the saved source, publish generated public files to the existing Blueprint website and independently verify live source/record hashes and affected desktop/mobile routes.",
+          "nextAction": "Retain this reader release and exact receipt. Authored teaching, opening handover, school/backend integration and learner evidence require their separate work and verification.",
           "supersededRecord": null,
           "designApproval": "Tania explicitly approved the reviewed Blueprint publication on15October2026. Game implementation, new backend, school access and learner mastery remain separate.",
           "implementation": "Every-phase walkthroughs; whole-course main navigation; actual-source legacy promo demo and class portfolio; readable zoom controls; proposed Phase0handover.",
-          "deployment": "Approved static reader publication pending independent live verification; no game release or new learner-data backend.",
-          "testing": "115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained.",
+          "deployment": "Public 49147ad480a2843fa31ceacc1ec8c71b906b11e2; source 869acd85f982baa67832fb25a93965c68e0819c0; successful Pages build1286026708. All28changed served file hashes match and48live desktop/mobile reader checks pass, with no JavaScript errors. Screenshots inspected.197exact curriculum entries/references and proposed/implemented/learner-evidence distinctions retained.",
+          "testing": "115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained. Final guarded static packaging,28served file hashes and48live desktop/mobile checks pass.",
           "taniaAcceptance": "Revision requested; implementation and classroom acceptance remain separate."
+        },
+        {
+          "id": "CE-CHANGE-20261021-112",
+          "date": "2026-10-21",
+          "title": "Learning, teaching and assessment principles with versioned screenshot review",
+          "domain": "Canonical Blueprint pedagogy and experience-page evidence labels",
+          "source": "Tania,21October2026: add memory and learning principles, experiential learning and suitable productive failure; require explicit Initiative teaching and clearer stages; authorise guarded Blueprint publication after checks. Final clarification selects syllabus-first core teaching and ordinary contextual prompts, excluding the draft song and additional named thinking sequence from this redesign. Original historical resources remain.",
+          "owner": "Codex Blueprint maintainer; Tania reviews publication",
+          "status": "Reviewed local V2.30 reader; guarded publication pending",
+          "rationale": "Extend existing Teaching & assessment rather than creating another plan, and prevent dated or unverified images from implying current game evidence.",
+          "dependencies": [],
+          "evidence": [
+            "docs/production/learning-principles-20261021.md",
+            "data/operations.json",
+            "app/blueprint-detail.tsx",
+            "app/phase-walkthrough.tsx",
+            "private/production-evidence/2026-10-21/learning-principles/verification.json"
+          ],
+          "nextAction": "Publish only the reviewed generated V2.30Blueprint output after guarded packaging, then verify live hashes and reader routes. Current Market runtime and its new full-scene captures remain the game task’s separate work.",
+          "supersededRecord": null,
+          "designApproval": "The user authorises proceeding toward live Blueprint/pedagogy/market updates after review and normal checks. This task changes only the Blueprint. Separate game work, classroom acceptance and new data collection are excluded.",
+          "implementation": "The existing teaching page now connects durable-learning practices and contextual experience with explicit Initiative meaning, five prescribed syllabus ways, benefits, worked examples, consolidation and transfer. Proposed stages use one primary action, quiet help and no auto-advance. Versioned component previews and dated Market evidence remain distinct from live implementation. The five-way coverage map names exact child IDs, where each is explained, a meaningful market opportunity, and a recognition/application check, with illustrated/practised/independent boundaries.",
+          "deployment": "Local canonical source only; public V2.29 remains the separately verified October15 release.",
+          "testing": "115repository tests, TypeScript, focused lint, standard build and29desktop/mobile Chrome checks passed. Screenshots inspected; exact197entries and45partial cautions retained. Fresh photo-trail component captures use restored artwork and stable source hashes; full-scene Market runtime review remains separate.",
+          "taniaAcceptance": "Content requested; no new learner-effectiveness, screenshot appearance or classroom acceptance claimed."
         }
       ],
       "sessionStart": [
@@ -35613,7 +35820,7 @@
     },
     "continuity": {
       "asOf": "2026-10-12",
-      "summary": "The reviewed all-phase walkthrough and whole-course tracking reader is approved for publication. Exact curriculum, corrected dated Markets evidence and actual legacy fictional demo remain distinct from proposed teaching, opening handover and authenticated integrations.",
+      "summary": "V2.29 all-phase walkthroughs and whole-course tracking reader are published and independently verified. Exact curriculum, dated isolated Markets captures and actual legacy fictional demo remain distinct from proposed teaching, opening handover and authenticated integrations.",
       "firstSteps": [
         "Read Start Here and the current step; distinguish the local source from the dated published receipt. Do not recover priorities from the latest chat title.",
         "Read the shared world overview and proposed year map. Open a week block, follow its exact curriculum links, then inspect the planned evidence and gaps.",
@@ -49516,11 +49723,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20261015-110",
-        "CE-CHANGE-20261015-111"
+        "CE-CHANGE-20261021-112"
       ],
-      "scope": "Approved V2.29 static Blueprint reader publication from reviewed candidate ea057b6: all-phase walkthroughs, accessible image zoom, whole-course tracking and Markets pedagogy review.",
-      "disclosure": "This publishes design and implementation-review documentation. Corrected Markets captures remain dated isolated evidence; legacy Teacher Dashboard uses existing fictional promo samples. Opening handover, authored teaching, authenticated school data, new integrations and learner mastery remain pending/proposed or unverified.",
+      "scope": "Reviewed V2.30syllabus-first teaching principles, explicit five-way Market design/coverage map, optional creative-support menu and current photo-trail component previews; generated Blueprint only, not a game release.",
+      "disclosure": "The core follows the syllabus: concept, five ways, benefits and meaningful application. No draft song or additional named sequence is introduced. Current component previews are isolated synthetic fixtures, not full 3Dgameplay; original Market captures stay dated. The new Market runtime and full-scene capture review, classroom provision and learner evidence remain separate.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -49703,20 +49909,25 @@
         "app/course-tracking.tsx",
         "data/course-tracking.json",
         "tests/course-tracking.test.mjs",
-        "docs/production/course-tracking-walkthroughs-20261015.md"
+        "docs/production/course-tracking-walkthroughs-20261015.md",
+        "docs/production/learning-principles-20261021.md",
+        "public/evidence/discovery-components-20261021/camera-phone-preview.png",
+        "docs/production/material-changes.md",
+        "public/evidence/discovery-components-20261021/gift-desktop-preview.png",
+        "docs/production/change-integration.md"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "4044d730ea2c8ae82007d14f54a7ae1e56567a84d3ed8b887ce598f1cdaa615f"
+          "sha256": "e0cec8f5c646a99035c1d922e36c5083acb192f536b8a3aed8c68d95de05fd14"
         },
         {
           "path": "README.md",
-          "sha256": "554bf897582ce01a46e75b3d6d2648a421de9182580170d96a3c90ce32021c66"
+          "sha256": "a4d8cadcbaf50c13b5acfaacdb9f1aae817f37e0d5097918208265027f7f52c3"
         },
         {
           "path": "app/blueprint-detail.tsx",
-          "sha256": "faabbfc1e6ad388033a6d1835c646b9c4dc919f4d15b63b33f0ff038ef391629"
+          "sha256": "a1aa422eab478c4fe77c36f2188f1e6cccdad611680414fc2fcfa0204515e2cf"
         },
         {
           "path": "app/blueprint-routing.ts",
@@ -49780,7 +49991,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "b538836461967dfcd14e23419e07e1042bd876f091a3b2aee25c16ca4c17cee9"
+          "sha256": "e258035ac33c91cf31f8d04f0097cbf7bfb5ac6badb8e2d22d9dca48883b05f5"
         },
         {
           "path": "data/refresh-checkpoint.json",
@@ -49804,7 +50015,7 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "c07ff65d919d87d7ae8e2b576daf2a53121b1d73e60820c9f3360de302c53b30"
+          "sha256": "f29a5a9beedee219260d664889f5ccb8030ffb09bb4051893016fad8de4b3a19"
         },
         {
           "path": "docs/production/change-workflows.md",
@@ -49824,7 +50035,7 @@
         },
         {
           "path": "docs/production/successor-start.md",
-          "sha256": "7c8a12d30aa13bf786683c62bbf0672a03212e6f91efdc7557e6a79bc9a8fab2"
+          "sha256": "9f3fe9632efb5b4541c9a0ac50bbe78f2e7bd975bdb6b318a5e8e5d92e0b54de"
         },
         {
           "path": "docs/production/visual-evidence-manifest.json",
@@ -49876,7 +50087,7 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "390591b9f5778f8665b77d37c491dc18242ef60d5b4c579167bfad4d0a639810"
+          "sha256": "55a00586d3afc7c9b1cbbbfe00128f9d1b5ca4cea51c04cb4d5e35990fb4fcf4"
         },
         {
           "path": "scripts/plan-change.mjs",
@@ -50364,7 +50575,7 @@
         },
         {
           "path": "data/public-reader-documents.json",
-          "sha256": "c750f6a3e2d987124102a1b50439372d02f7b7400b7286842d2c64a82609d6be"
+          "sha256": "acc3114d503e1267c5f5a7e9d36ba238565f95918fbb502409008e78b96b0772"
         },
         {
           "path": "app/blueprint-app.tsx",
@@ -50396,7 +50607,7 @@
         },
         {
           "path": "data/markets-review.json",
-          "sha256": "3d2c849e97ced4efc6ace1b1e07eb04987ecc167b3f75aec1b1637dbcc5a85fc"
+          "sha256": "9bdba77d0517703c7d7343633a62ee0700ab9a4296b1a2b6ec365ecf75857e60"
         },
         {
           "path": "app/markets-review.tsx",
@@ -50416,7 +50627,7 @@
         },
         {
           "path": "app/phase-walkthrough.tsx",
-          "sha256": "a95e028bbd3d2480dd1abfd07190eb968a15b78657dab7ff9d48bb394df6dada"
+          "sha256": "97b40ba2aacd98e60cb9a26daa72b633f1d0ad1be3f985c52e0049d7d6a4a58b"
         },
         {
           "path": "app/course-tracking.tsx",
@@ -50432,7 +50643,27 @@
         },
         {
           "path": "docs/production/course-tracking-walkthroughs-20261015.md",
-          "sha256": "a26e05b439cc8ae9af809738fca4b31cf2e0e9486134bb955a813fd4ce4ea03d"
+          "sha256": "b3c6e2299586664321d35192b538c1b3b827e710f31c1788903cb370a024ab93"
+        },
+        {
+          "path": "docs/production/change-integration.md",
+          "sha256": "bd86a15098ac3bad9bcdf893b9f32eb34efbdd89b7d6e4a0ce5ee7eca1b393e2"
+        },
+        {
+          "path": "docs/production/material-changes.md",
+          "sha256": "f094fa09129df096a4bbc641aadc2a4646c3c1b2f0c7d42827255b659eb23604"
+        },
+        {
+          "path": "docs/production/learning-principles-20261021.md",
+          "sha256": "e46361b565b3e78db22530518acf7b5557c3c97a7738950b7d37b781407ccea7"
+        },
+        {
+          "path": "public/evidence/discovery-components-20261021/camera-phone-preview.png",
+          "sha256": "80781bcf817b342c536dc98aa04a5cc171141713fb205a17509b24586a26dd22"
+        },
+        {
+          "path": "public/evidence/discovery-components-20261021/gift-desktop-preview.png",
+          "sha256": "521abb111ac0d8c93e5b2aad0cc062bb2b914ba1c13c262c44571baa669559ee"
         }
       ]
     },
@@ -83719,13 +83950,13 @@
         "types": [
           "implementation"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Help teachers see what actually exists, why each student step exists and what evidence a screen does or does not record.",
         "before": "Markets review lives in a separate Library file; the Blueprint has no side-by-side implementation/pedagogy or safe teacher dashboard review.",
         "after": "Three compact linked views: student experience with intended pedagogy/outcomes, Student Stats and Teacher Dashboard. Actual source captures and explicit evidence gaps.",
         "source": "Tania requests a reviewable Blueprint candidate linking main Markets steps to actual screenshots, a Pedagogy column, Student Stats and Teacher Dashboard tabs. Do not publish until reviewed. Parent identifies an obstructed outside screenshot for repair; do not present it as an approved scene.",
         "owner": "Codex Blueprint review candidate; Tania reviews before publication",
-        "nextAction": "Publish the approved static reader and verify the deployed manifest, changed served hashes and affected desktop/mobile routes; retain all proposed/unknown feature boundaries.",
+        "nextAction": "Retain the verified scoped reader publication; underlying game, authored teaching, school data and learner evidence remain separate.",
         "securityPrivacyImpact": {
           "baseline": "WA-DOE-v4c",
           "waQuestionIds": [],
@@ -83888,7 +84119,7 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
+            "disposition": "updated",
             "action": "Review this scoped Markets evidence/navigation addition while preserving existing curriculum, source and menu behaviour.",
             "records": [
               "CE-CHANGE-20261015-110"
@@ -83896,15 +84127,15 @@
             "owner": "Codex Blueprint review candidate; Tania reviews before publication",
             "acceptance": "Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.",
             "evidence": [
-              "docs/production/markets-implementation-review-20261015.md",
-              "data/markets-review.json"
+              "docs/production/course-tracking-walkthroughs-20261015.md",
+              "private/production-evidence/2026-10-15/course-revision/course-publication-receipt.json"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Focused source/reader checks and actual-pixel inspection pending.",
+              "result": "passed",
+              "method": "Public 49147ad480a2843fa31ceacc1ec8c71b906b11e2; source 869acd85f982baa67832fb25a93965c68e0819c0; successful Pages build1286026708. All28changed served file hashes match and48live desktop/mobile reader checks pass, with no JavaScript errors. Screenshots inspected.197exact curriculum entries/references and proposed/implemented/learner-evidence distinctions retained.",
               "date": "2026-10-15"
             },
-            "nextAction": "Tania approved15October. Run final guarded packaging, publish only reviewed generated files and verify successful Pages deployment plus live hashes and reader routes."
+            "nextAction": "Retain the exact deployed source/manifest and independent live receipt."
           },
           {
             "surface": "build",
@@ -84040,13 +84271,13 @@
         "types": [
           "implementation"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Make actual screens readable and distinguish world engagement, curriculum design, checked learning and reviewed evidence across the whole course.",
         "before": "Markets-only inner tabs and small thumbnails; teacher evidence limited to offline empty source capture.",
         "after": "Every-phase walkthroughs; whole-course main navigation; actual-source legacy promo demo and class portfolio; readable zoom controls; proposed Phase0handover.",
         "source": "Tania requests every-phase walkthroughs, main whole-course Student Stats / Progress and Teacher Dashboard, collapsed review sidebar and accessible full-size zoom. Explicit legacy dashboard baseline/class portfolio retention; corrected Markets version2and proposed Phase0handover documentation. No publication or new student backend.",
         "owner": "Codex Blueprint review candidate; Tania reviews before publication",
-        "nextAction": "Publish the approved static reader and verify the deployed manifest, changed served hashes and affected desktop/mobile routes; retain all proposed/unknown feature boundaries.",
+        "nextAction": "Retain the verified scoped reader publication; underlying game, authored teaching, school data and learner evidence remain separate.",
         "securityPrivacyImpact": {
           "baseline": "WA-DOE-v4c",
           "waQuestionIds": [],
@@ -84204,7 +84435,7 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
+            "disposition": "updated",
             "action": "Verify readable all-phase navigation, whole-course tracking distinctions and actual legacy-source evidence; preserve existing references/content.",
             "records": [
               "CE-CHANGE-20261015-111"
@@ -84212,14 +84443,15 @@
             "owner": "Codex Blueprint review candidate; Tania reviews before publication",
             "acceptance": "Actual captures and exact references retain provenance; live, unpublished, proposed and missing evidence remain distinct; no student records or publication.",
             "evidence": [
-              "docs/production/course-tracking-walkthroughs-20261015.md"
+              "docs/production/course-tracking-walkthroughs-20261015.md",
+              "private/production-evidence/2026-10-15/course-revision/course-publication-receipt.json"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Focused source and browser verification pending.",
+              "result": "passed",
+              "method": "Public 49147ad480a2843fa31ceacc1ec8c71b906b11e2; source 869acd85f982baa67832fb25a93965c68e0819c0; successful Pages build1286026708. All28changed served file hashes match and48live desktop/mobile reader checks pass, with no JavaScript errors. Screenshots inspected.197exact curriculum entries/references and proposed/implemented/learner-evidence distinctions retained.",
               "date": "2026-10-15"
             },
-            "nextAction": "Tania approved15October. Run final guarded packaging, publish only reviewed generated files and verify successful Pages deployment plus live hashes and reader routes."
+            "nextAction": "Retain the exact deployed source/manifest and independent live receipt."
           },
           {
             "surface": "build",
@@ -84340,6 +84572,424 @@
               "date": "2026-10-15"
             },
             "nextAction": "Complete focused checks and present revised screenshots. No publication until reviewed."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20261021-112",
+        "title": "Learning, teaching and assessment principles with versioned screenshot review",
+        "types": [
+          "curriculum",
+          "research",
+          "implementation"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Make required learning and its evidence explicit without introducing competing named steps or extra mnemonic memorisation.",
+        "before": "Teaching & assessment had general learning modes and lesson requirements; memory strategies and experience-first qualifications were dispersed. Experience images were dated October15captures or absent.",
+        "after": "Syllabus-first principles and explicit Initiative meaning, five ways, benefits, concrete application and explanation. Ordinary contextual prompts replace the newly proposed extra named guide and draft-song example. Historical resources remain untouched.",
+        "source": "Tania,21October2026: add memory and learning principles, experiential learning and suitable productive failure; require explicit Initiative teaching and clearer stages; authorise guarded Blueprint publication after checks. Final clarification selects syllabus-first core teaching and ordinary contextual prompts, excluding the draft song and additional named thinking sequence from this redesign. Original historical resources remain.",
+        "owner": "Codex Blueprint maintainer; Tania reviews publication",
+        "nextAction": "Publish only the reviewed generated V2.30Blueprint output after guarded packaging, then verify live hashes and reader routes. Current Market runtime and its new full-scene captures remain the game task’s separate work.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Codex Blueprint maintainer; Tania reviews publication",
+          "scope": "Local static Blueprint content and source-version screenshot inventory. No new gameplay, records, tracking, accounts, service, upload or public deployment.",
+          "rationale": "Existing authentic assessment and privacy boundaries remain. Static explanation adds no student-data processing; screenshots require synthetic review state and exact source provenance.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Existing public design records only; no student records or new data collection.",
+            "locations": "Existing GitHub Pages static website; licensed originals and private evidence remain outside generated public artifacts.",
+            "accessCountries": "Existing public website access; no new account-data transfer or provider.",
+            "providers": "Existing GitHub Pages only; no new external service is introduced.",
+            "lifecycle": "Existing public design records; private backup and evidence retain owner access.",
+            "encryption": "Existing HTTPS hosting; no new claim about student storage or encryption.",
+            "logging": "No added telemetry, analytics or application logging.",
+            "identity": "No login, student identifier collection or changed account authority.",
+            "isolation": "Static design reader; school/account isolation remains unverified separately.",
+            "privacySafety": "Private files, credential tokens and licensed originals excluded from publication.",
+            "applicability": "Blueprint reporting only; no WA compliance or real-student release claim.",
+            "verification": "115repository tests, TypeScript, focused lint, standard build and29desktop/mobile Chrome checks passed. Screenshots inspected; exact197entries and45partial cautions retained. Fresh photo-trail component captures use restored artwork and stable source hashes; full-scene Market runtime review remains separate."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "115repository tests, TypeScript, focused lint, standard build and29desktop/mobile Chrome checks passed. Screenshots inspected; exact197entries and45partial cautions retained. Fresh photo-trail component captures use restored artwork and stable source hashes; full-scene Market runtime review remains separate."
+          ],
+          "reviewedBy": "Codex scoped source inspection",
+          "reviewedAt": "2026-10-21",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "Existing Start Here learning modes remain accurate; the established Teaching & assessment topic exposes the expanded ethos without changing production priorities.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Existing Start Here learning modes remain accurate; the established Teaching & assessment topic exposes the expanded ethos without changing production priorities.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing Start Here learning modes remain accurate; the established Teaching & assessment topic exposes the expanded ethos without changing production priorities. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "checked-unchanged",
+            "action": "Existing course-authoring milestone covers this pedagogy addition; no timetable, lesson completion, game milestone or new activity production is inferred.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Existing course-authoring milestone covers this pedagogy addition; no timetable, lesson completion, game milestone or new activity production is inferred.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing course-authoring milestone covers this pedagogy addition; no timetable, lesson completion, game milestone or new activity production is inferred. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Append material record112 with actual user scope and prior dated agreement; preserve all earlier material records and protected decisions.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Append material record112 with actual user scope and prior dated agreement; preserve all earlier material records and protected decisions.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Append material record112 with actual user scope and prior dated agreement; preserve all earlier material records and protected decisions. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "checked-unchanged",
+            "action": "Read project-work-contract and applicable maintenance guidance; preserve privacy, authentic evidence and separate publication requirements. Global scans deferred to honour the narrow task and avoid unrelated operations.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Read project-work-contract and applicable maintenance guidance; preserve privacy, authentic evidence and separate publication requirements. Global scans deferred to honour the narrow task and avoid unrelated operations.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Read project-work-contract and applicable maintenance guidance; preserve privacy, authentic evidence and separate publication requirements. Global scans deferred to honour the narrow task and avoid unrelated operations. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Regenerate public JSON and supporting documents only with npm run records; never hand-edit generated public repository files.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Regenerate public JSON and supporting documents only with npm run records; never hand-edit generated public repository files.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Regenerate public JSON and supporting documents only with npm run records; never hand-edit generated public repository files. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Hold live Blueprint and private recovery uploads. Saving source and local preview are separate from a later generated-site publication and live verification.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Hold live Blueprint and private recovery uploads. Saving source and local preview are separate from a later generated-site publication and live verification.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Requires actual generated public push and independent live verification.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Publish only the reviewed generated V2.30Blueprint output after guarded packaging, then verify live hashes and reader routes. Current Market runtime and its new full-scene captures remain the game task’s separate work."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Exact197planner entries, source references, parent links, phases and assessment conditions remain unchanged; strategies support their later teaching design.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Exact197planner entries, source references, parent links, phases and assessment conditions remain unchanged; strategies support their later teaching design.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact197planner entries, source references, parent links, phases and assessment conditions remain unchanged; strategies support their later teaching design. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Use a clear purpose and safe informed attempt where suitable, explicit syllabus teaching, worked example, contextual questions, application, feedback and later transfer; no added named sequence or draft song.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Use a clear purpose and safe informed attempt where suitable, explicit syllabus teaching, worked example, contextual questions, application, feedback and later transfer; no added named sequence or draft song.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Use a clear purpose and safe informed attempt where suitable, explicit syllabus teaching, worked example, contextual questions, application, feedback and later transfer; no added named sequence or draft song. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Preserve phase order and exact curriculum links. Current isolated photo-trail previews have exact captured source hashes; original Market captures stay dated and later phases remain proposed.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Preserve phase order and distinguish October15captures from the October20review candidate and unverified camera edits; later proposed phases have no actual screens.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Preserve phase order and exact curriculum links. Current isolated photo-trail previews have exact captured source hashes; original Market captures stay dated and later phases remain proposed. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "updated",
+            "action": "Assess reasoning, explanation, authentic application and transfer; preserve supported/independent distinctions and no speed, wealth or mnemonic-only mastery claim.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Assess reasoning, explanation, authentic application and transfer; preserve supported/independent distinctions and no speed, wealth or mnemonic-only mastery claim.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Assess reasoning, explanation, authentic application and transfer; preserve supported/independent distinctions and no speed, wealth or mnemonic-only mastery claim. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Translate principles into purpose, preparation, feedback, revisits, scaffolding and review with no added teacher/student records or collection.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Translate principles into purpose, preparation, feedback, revisits, scaffolding and review with no added teacher/student records or collection.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Translate principles into purpose, preparation, feedback, revisits, scaffolding and review with no added teacher/student records or collection. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Use IES2007guide for scoped learning guidance and existing Kapur2014reference with studied-context limitations; retain original September agreement and Market notes.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Use IES2007guide for scoped learning guidance and existing Kapur2014reference with studied-context limitations; retain original September agreement and Market notes.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Use IES2007guide for scoped learning guidance and existing Kapur2014reference with studied-context limitations; retain original September agreement and Market notes. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "Retain V2-D01 and V2-D18 verbatim; explain the later contextual qualification rather than inventing a new historical agreement.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Retain V2-D01 and V2-D18 verbatim; explain the later contextual qualification rather than inventing a new historical agreement.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Retain V2-D01 and V2-D18 verbatim; explain the later contextual qualification rather than inventing a new historical agreement. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Use fresh actual component images with restored original artwork, inspected pixels and exact registered hashes; keep component, full-scene, dated reference and live-release evidence distinct.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Keep dated images and approved artwork intact; inventory every existing experience capture, verify original hashes and expose refresh limits; no generated art.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Use fresh actual component images with restored original artwork, inspected pixels and exact registered hashes; keep component, full-scene, dated reference and live-release evidence distinct. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Standard Vinext build passes after verified restoration of its missing exact-version workerd executable. Built server returns the current three affected reader routes; actual browser layout/hydration remains separate.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Standard Vinext build passes after verified restoration of its missing exact-version workerd executable. Built server returns the current three affected reader routes; actual browser layout/hydration remains separate.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md",
+              "private/production-evidence/2026-10-21/learning-principles/verification.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Standard Vinext build passes after verified restoration of its missing exact-version workerd executable. Built server returns the current three affected reader routes; actual browser layout/hydration remains separate. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "checked-unchanged",
+            "action": "Canonical source and generated private exports remain in the existing Blueprint worktree. No private recovery upload, reset or competing master was created; pre-existing tsconfig.tsbuildinfo stays untracked.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Canonical source and generated private exports remain in the existing Blueprint worktree. No private recovery upload, reset or competing master was created; pre-existing tsconfig.tsbuildinfo stays untracked.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md",
+              "private/production-evidence/2026-10-21/learning-principles/verification.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical source and generated private exports remain in the existing Blueprint worktree. No private recovery upload, reset or competing master was created; pre-existing tsconfig.tsbuildinfo stays untracked. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Eleven original captures retain exact registered bytes. One inspected21Octcamera component preview is copied unchanged and labelled with af129fe, missing mural and no-full-game/no-live limits.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "Eleven original captures retain exact registered bytes. One inspected21Octcamera component preview is copied unchanged and labelled with af129fe, missing mural and no-full-game/no-live limits.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md",
+              "private/production-evidence/2026-10-21/learning-principles/verification.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Eleven original captures retain exact registered bytes. One inspected21Octcamera component preview is copied unchanged and labelled with af129fe, missing mural and no-full-game/no-live limits. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "The new100159-byte component PNG is registered by SHA-256 and served bytes match canonical source. No approved artwork, original resources, model or game assets are edited.",
+            "records": [
+              "CE-CHANGE-20261021-112"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania reviews publication",
+            "acceptance": "The new100159-byte component PNG is registered by SHA-256 and served bytes match canonical source. No approved artwork, original resources, model or game assets are edited.",
+            "evidence": [
+              "docs/production/learning-principles-20261021.md",
+              "private/production-evidence/2026-10-21/learning-principles/verification.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The new100159-byte component PNG is registered by SHA-256 and served bytes match canonical source. No approved artwork, original resources, model or game assets are edited. Source reviewed;115tests, type/lint/build and29actual desktop/mobile Chrome checks pass for this scoped reader. Existing whole-game/classroom gaps remain disclosed.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
           }
         ]
       }

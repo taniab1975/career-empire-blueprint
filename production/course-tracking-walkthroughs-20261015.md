@@ -31,3 +31,11 @@ The tested candidate is saved locally with its receipt; no browser suite or asse
 ## Publication approved
 
 Tania approved this reviewed static Blueprint for the existing website on15October2026. Final packaging and independent live verification remain pending. This supersedes the earlier publication hold only; proposed opening handover, teaching, school integrations and learner evidence retain their stated limits.
+
+## Publication attempt held by automatic approval review
+
+The validated V2.29 artifact is saved locally; no public push or deployment occurred. Automatic approval review did not accept the available approval context for the public destination. Existing public V2.28 remains unchanged. The separate private source/governance recovery upload was also rejected for lacking explicit payload/destination approval. Neither rejection was retried or bypassed. This private closure does not change the frozen artifact identity or claim live verification.
+
+## Published and independently verified
+
+Public 49147ad480a2843fa31ceacc1ec8c71b906b11e2; source 869acd85f982baa67832fb25a93965c68e0819c0; successful Pages build1286026708. All28changed served file hashes match and48live desktop/mobile reader checks pass, with no JavaScript errors. Screenshots inspected.197exact curriculum entries/references and proposed/implemented/learner-evidence distinctions retained. The approved reviewed artifact is live at https://taniab1975.github.io/career-empire-blueprint/ . Direct user-authored approval superseded the earlier publication rejection. The deployed manifest retains the exact saved source and record hash; this later private closure is not another public build. Private recovery upload remains excluded. Proposed opening handover, teaching, authenticated school data and learner-evidence limits remain separate.

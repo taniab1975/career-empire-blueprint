@@ -2,7 +2,7 @@
 
 2026-10-12
 
-The reviewed all-phase walkthrough and whole-course tracking reader is approved for publication. Exact curriculum, corrected dated Markets evidence and actual legacy fictional demo remain distinct from proposed teaching, opening handover and authenticated integrations.
+V2.29 all-phase walkthroughs and whole-course tracking reader are published and independently verified. Exact curriculum, dated isolated Markets captures and actual legacy fictional demo remain distinct from proposed teaching, opening handover and authenticated integrations.
 
 ## First session
 

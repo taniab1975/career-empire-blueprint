@@ -1709,16 +1709,16 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **domain:** Scoped static Blueprint reader correction
 - **source:** Tania requests a reviewable Blueprint candidate linking main Markets steps to actual screenshots, a Pedagogy column, Student Stats and Teacher Dashboard tabs. Do not publish until reviewed. Parent identifies an obstructed outside screenshot for repair; do not present it as an approved scene.
 - **owner:** Codex Blueprint review candidate; Tania reviews before publication
-- **status:** Reviewed static reader approved for publication; deployment pending
+- **status:** Scoped reader published and independently verified; underlying game/teaching/data integration remains separate
 - **rationale:** Help teachers see what actually exists, why each student step exists and what evidence a screen does or does not record.
 - **dependencies:** CE-CHANGE-20261014-108 / CE-CHANGE-20261014-109
 - **evidence:** docs/production/markets-implementation-review-20261015.md / data/markets-review.json / app/markets-review.tsx
-- **nextAction:** Package the saved source, publish generated public files to the existing Blueprint website and independently verify live source/record hashes and affected desktop/mobile routes.
+- **nextAction:** Retain this reader release and exact receipt. Authored teaching, opening handover, school/backend integration and learner evidence require their separate work and verification.
 - **supersededRecord:** None
 - **designApproval:** Tania explicitly approved the reviewed Blueprint publication on15October2026. Game implementation, new backend, school access and learner mastery remain separate.
 - **implementation:** Three compact linked views: student experience with intended pedagogy/outcomes, Student Stats and Teacher Dashboard. Actual source captures and explicit evidence gaps.
-- **deployment:** Approved static reader publication pending independent live verification; no game release or new learner-data backend.
-- **testing:** 113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged.
+- **deployment:** Public 49147ad480a2843fa31ceacc1ec8c71b906b11e2; source 869acd85f982baa67832fb25a93965c68e0819c0; successful Pages build1286026708. All28changed served file hashes match and48live desktop/mobile reader checks pass, with no JavaScript errors. Screenshots inspected.197exact curriculum entries/references and proposed/implemented/learner-evidence distinctions retained.
+- **testing:** 113repository tests, TypeScript, focused lint and standard Vinext build pass.28focused headless desktop/mobile checks pass with no JavaScript errors. Actual screenshots inspected. Entire197-entry planner, Carolan refs,45partial cues,21ESTflags,12phases and27icons/42associations are unchanged. Final guarded static packaging,28served file hashes and48live desktop/mobile checks pass.
 - **taniaAcceptance:** Requested local candidate; no final design, classroom or game acceptance inferred.
 
 ## CE-CHANGE-20261015-111 — Readable all-phase walkthroughs and whole-course student/teacher tracking
@@ -1727,17 +1727,35 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **domain:** Scoped static Blueprint reader correction
 - **source:** Tania requests every-phase walkthroughs, main whole-course Student Stats / Progress and Teacher Dashboard, collapsed review sidebar and accessible full-size zoom. Explicit legacy dashboard baseline/class portfolio retention; corrected Markets version2and proposed Phase0handover documentation. No publication or new student backend.
 - **owner:** Codex Blueprint review candidate; Tania reviews before publication
-- **status:** Reviewed static reader approved for publication; deployment pending
+- **status:** Scoped reader published and independently verified; underlying game/teaching/data integration remains separate
 - **rationale:** Make actual screens readable and distinguish world engagement, curriculum design, checked learning and reviewed evidence across the whole course.
 - **dependencies:** CE-CHANGE-20261015-110
 - **evidence:** docs/production/course-tracking-walkthroughs-20261015.md / app/phase-walkthrough.tsx / app/review-table.tsx / app/course-tracking.tsx / data/course-tracking.json
-- **nextAction:** Package the saved source, publish generated public files to the existing Blueprint website and independently verify live source/record hashes and affected desktop/mobile routes.
+- **nextAction:** Retain this reader release and exact receipt. Authored teaching, opening handover, school/backend integration and learner evidence require their separate work and verification.
 - **supersededRecord:** None
 - **designApproval:** Tania explicitly approved the reviewed Blueprint publication on15October2026. Game implementation, new backend, school access and learner mastery remain separate.
 - **implementation:** Every-phase walkthroughs; whole-course main navigation; actual-source legacy promo demo and class portfolio; readable zoom controls; proposed Phase0handover.
-- **deployment:** Approved static reader publication pending independent live verification; no game release or new learner-data backend.
-- **testing:** 115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained.
+- **deployment:** Public 49147ad480a2843fa31ceacc1ec8c71b906b11e2; source 869acd85f982baa67832fb25a93965c68e0819c0; successful Pages build1286026708. All28changed served file hashes match and48live desktop/mobile reader checks pass, with no JavaScript errors. Screenshots inspected.197exact curriculum entries/references and proposed/implemented/learner-evidence distinctions retained.
+- **testing:** 115 repository tests, TypeScript, focused lint and static client compilation passed. 48 focused desktop/mobile browser checks passed with no JavaScript errors. All 12 phase walkthroughs, whole-course navigation, default-collapsed review sidebar and actual-pixel zoom/pan/Escape/focus return were verified. Actual screenshots inspected; 197 exact entries/references retained. Final guarded static packaging,28served file hashes and48live desktop/mobile checks pass.
 - **taniaAcceptance:** Revision requested; implementation and classroom acceptance remain separate.
+
+## CE-CHANGE-20261021-112 — Learning, teaching and assessment principles with versioned screenshot review
+
+- **date:** 2026-10-21
+- **domain:** Canonical Blueprint pedagogy and experience-page evidence labels
+- **source:** Tania,21October2026: add memory and learning principles, experiential learning and suitable productive failure; require explicit Initiative teaching and clearer stages; authorise guarded Blueprint publication after checks. Final clarification selects syllabus-first core teaching and ordinary contextual prompts, excluding the draft song and additional named thinking sequence from this redesign. Original historical resources remain.
+- **owner:** Codex Blueprint maintainer; Tania reviews publication
+- **status:** Reviewed local V2.30 reader; guarded publication pending
+- **rationale:** Extend existing Teaching & assessment rather than creating another plan, and prevent dated or unverified images from implying current game evidence.
+- **dependencies:** None
+- **evidence:** docs/production/learning-principles-20261021.md / data/operations.json / app/blueprint-detail.tsx / app/phase-walkthrough.tsx / private/production-evidence/2026-10-21/learning-principles/verification.json
+- **nextAction:** Publish only the reviewed generated V2.30Blueprint output after guarded packaging, then verify live hashes and reader routes. Current Market runtime and its new full-scene captures remain the game task’s separate work.
+- **supersededRecord:** None
+- **designApproval:** The user authorises proceeding toward live Blueprint/pedagogy/market updates after review and normal checks. This task changes only the Blueprint. Separate game work, classroom acceptance and new data collection are excluded.
+- **implementation:** The existing teaching page now connects durable-learning practices and contextual experience with explicit Initiative meaning, five prescribed syllabus ways, benefits, worked examples, consolidation and transfer. Proposed stages use one primary action, quiet help and no auto-advance. Versioned component previews and dated Market evidence remain distinct from live implementation. The five-way coverage map names exact child IDs, where each is explained, a meaningful market opportunity, and a recognition/application check, with illustrated/practised/independent boundaries.
+- **deployment:** Local canonical source only; public V2.29 remains the separately verified October15 release.
+- **testing:** 115repository tests, TypeScript, focused lint, standard build and29desktop/mobile Chrome checks passed. Screenshots inspected; exact197entries and45partial cautions retained. Fresh photo-trail component captures use restored artwork and stable source hashes; full-scene Market runtime review remains separate.
+- **taniaAcceptance:** Content requested; no new learner-effectiveness, screenshot appearance or classroom acceptance claimed.
 
 ## Retained Atlas principles
 
