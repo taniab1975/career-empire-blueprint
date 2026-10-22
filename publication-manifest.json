@@ -1,12 +1,24 @@
 {
-  "sourceCommit": "d62cf54f5139ed0a337ff3fe17bf91bc74e5dc94",
-  "generatedAt": "2026-10-21T02:56:46.425Z",
-  "revision": "V2.30 / 21 October 2026",
-  "recordSha256": "346f3d9cd4275ce1c40fb178d9a44dd2aa1edc6392012dc9b63305e754f9375a",
+  "sourceCommit": "ec7596369a2b4dd1690899970cc75aa641a671bf",
+  "generatedAt": "2026-10-22T00:04:20.184Z",
+  "revision": "V2.31 / 22 October 2026",
+  "recordSha256": "0526ed9f1ce4b81ef3dbc9d28bad3e5f39e6cdd03648651c5449fa16e0a9254c",
   "files": [
+    {
+      "path": "assets/curriculum-planner-4Llkf_de.js",
+      "sha256": "0b4665f3bb0dcd198b983968cd5f2d7ac1abf9e6af508f478a21b6512d7bc261"
+    },
+    {
+      "path": "assets/curriculum-planner-B_U-TcYz.js",
+      "sha256": "2a803d1e81a32eff3dbeca5bcffc7a2218b25e43c038ce03577a3d18890a56c5"
+    },
     {
       "path": "assets/curriculum-planner-D5TjQJ9x.js",
       "sha256": "14cfb77f0767e78f5966b6020fc60fb7882a6da594fba2fa35f7a492b455514c"
+    },
+    {
+      "path": "assets/index-7SLr4d5Q.css",
+      "sha256": "5367a2e7fc50aee4f052a8c0e53c2af98465e9125a9668e8b7a4251c954fd269"
     },
     {
       "path": "assets/index-B1ndzl6p.css",
@@ -17,8 +29,16 @@
       "sha256": "46a3e8cb2e4a4373e2a9ba0b3c255522f698fd55e94885d4d4fd733224fa7e0f"
     },
     {
+      "path": "assets/index-BcJ4fIat.js",
+      "sha256": "bbe906c44e786423e0948dacb1bc9cd951d65eec9769a1bf083141f5f8fff3bb"
+    },
+    {
+      "path": "assets/index-BSBW8ku9.js",
+      "sha256": "e439ce2156f8a6306073ea9c9954d474f53852afff4f88f91caa4a1868a91e10"
+    },
+    {
       "path": "blueprint-records.json",
-      "sha256": "346f3d9cd4275ce1c40fb178d9a44dd2aa1edc6392012dc9b63305e754f9375a"
+      "sha256": "0526ed9f1ce4b81ef3dbc9d28bad3e5f39e6cdd03648651c5449fa16e0a9254c"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1234,7 +1254,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "98bbd838d7bee328b3c6d27a50f2cc3203bc5119b56f1e79487bed8561b73463"
+      "sha256": "bccaed4d8e963dd9edf5e86aaa848d2cee476e5dec194c5986b635d95f48895d"
     },
     {
       "path": "playable-3d/app.js",
@@ -1506,7 +1526,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "a4e1e052d1a7762535f50672a0310d5979ce55f348515b0c5a705c90c1450091"
+      "sha256": "86849bcbc71db876544db3ce0eb36e46960b54cf9dbe8fac8d03f2b5ae3dfbbc"
     },
     {
       "path": "production/change-workflows.md",
@@ -1547,6 +1567,10 @@
     {
       "path": "production/current-state.md",
       "sha256": "923cbc114cefa02fe92b8b5f01b097c8f42805c6acb3b52243fe6eca1d0b06ec"
+    },
+    {
+      "path": "production/curriculum-collapsed-default-20261021.md",
+      "sha256": "ef23cc0bc9865475c2728e1bd1e8483beea01ab5b9f853704e07fbd6e14dce29"
     },
     {
       "path": "production/curriculum-first-progressive-loading-20260922.html",
@@ -1690,11 +1714,11 @@
     },
     {
       "path": "production/learning-principles-20261021.html",
-      "sha256": "9ee5f74ac4bfd69a26028af0445e550c464ef408752e1a710a3b4e6d728aa459"
+      "sha256": "d88e8c1719f0f455af0631aea2c81f043de0bb95cc52f68c1ba6d6ab475a26ac"
     },
     {
       "path": "production/learning-principles-20261021.md",
-      "sha256": "e46361b565b3e78db22530518acf7b5557c3c97a7738950b7d37b781407ccea7"
+      "sha256": "b994df03b2153b14e647d4c78de5fd392deb2006ab47b7d7352ef0b0d8612bfc"
     },
     {
       "path": "production/local-economy-20260923.md",
@@ -1714,7 +1738,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "f094fa09129df096a4bbc641aadc2a4646c3c1b2f0c7d42827255b659eb23604"
+      "sha256": "b69ff7089ef4aefcb7605e973e0358f41a4c82cc2e3f05a8fb2ff49412e890d5"
     },
     {
       "path": "production/media-oval-20260911.md",

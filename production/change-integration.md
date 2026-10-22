@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: Reviewed V2.30syllabus-first teaching principles, explicit five-way Market design/coverage map, optional creative-support menu and current photo-trail component previews; generated Blueprint only, not a game release.
+Release scope: V2.31 narrow collapsed-on-load curriculum hierarchy; exact V2.30content and pedagogy retained.
 
-The core follows the syllabus: concept, five ways, benefits and meaningful application. No draft song or additional named sequence is introduced. Current component previews are isolated synthetic fixtures, not full 3Dgameplay; original Market captures stay dated. The new Market runtime and full-scene capture review, classroom provision and learner evidence remain separate.
+Only static reader disclosure behavior changes. Game implementation, learning evidence, unrelated backlog and prior dated screenshots are unchanged; publication requires fresh deployment verification.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -24410,7 +24410,7 @@ Next: Complete focused checks and present revised screenshots. No publication un
 
 ## CE-CHANGE-20261021-112 — Learning, teaching and assessment principles with versioned screenshot review
 
-Integration: **ready-for-publication**. Types: curriculum, research, implementation. Owner: Codex Blueprint maintainer; Tania reviews publication.
+Integration: **complete**. Types: curriculum, research, implementation. Owner: Codex Blueprint maintainer; Tania reviews publication.
 
 **Objective:** Make required learning and its evidence explicit without introducing competing named steps or extra mnemonic memorisation.
 
@@ -24420,7 +24420,7 @@ Integration: **ready-for-publication**. Types: curriculum, research, implementat
 
 **Source:** Tania,21October2026: add memory and learning principles, experiential learning and suitable productive failure; require explicit Initiative teaching and clearer stages; authorise guarded Blueprint publication after checks. Final clarification selects syllabus-first core teaching and ordinary contextual prompts, excluding the draft song and additional named thinking sequence from this redesign. Original historical resources remain.
 
-**Next:** Publish only the reviewed generated V2.30Blueprint output after guarded packaging, then verify live hashes and reader routes. Current Market runtime and its new full-scene captures remain the game task’s separate work.
+**Next:** Retain this scoped reader release. New Market runtime, current full-scene Market captures and actual classroom/learner evidence remain separate work; do not rebuild to change this private receipt.
 
 ### Start Here — checked-unchanged
 
@@ -24502,7 +24502,7 @@ Verification: passed / Regenerate public JSON and supporting documents only with
 
 Next: Retain exact evidence; game runtime and real learning claims require their separate checks.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -24512,11 +24512,11 @@ Records: CE-CHANGE-20261021-112. Owner: Codex Blueprint maintainer; Tania review
 
 Acceptance: Hold live Blueprint and private recovery uploads. Saving source and local preview are separate from a later generated-site publication and live verification.
 
-Verification: pending / Requires actual generated public push and independent live verification.
+Verification: passed / Public53484816ca75fe43dc624cfd57c7fbc5e9c6cf06; source d62cf54f5139ed0a337ff3fe17bf91bc74e5dc94; Pages1301468454built. All16changed served file hashes match;31live desktop/mobile Chrome checks pass with no JavaScript errors. Actual pixels inspected. Exact197curriculum entries,45partial cautions,21ESTselections,27icons and original mappings retained. No game, backend or learner-data changes.
 
-- [Evidence](docs/production/learning-principles-20261021.md)
+- [Evidence](private/production-evidence/2026-10-21/learning-principles/publication-receipt.json)
 
-Next: Publish only the reviewed generated V2.30Blueprint output after guarded packaging, then verify live hashes and reader routes. Current Market runtime and its new full-scene captures remain the game task’s separate work.
+Next: Retain this scoped reader release. New Market runtime, current full-scene Market captures and actual classroom/learner evidence remain separate work; do not rebuild to change this private receipt.
 
 ### Curriculum and reciprocal mappings — checked-unchanged
 
@@ -24713,6 +24713,228 @@ Verification: passed / The new100159-byte component PNG is registered by SHA-256
 - [Evidence](private/production-evidence/2026-10-21/learning-principles/verification.json)
 
 Next: Retain exact evidence; game runtime and real learning claims require their separate checks.
+
+## CE-CHANGE-20261021-113 — Curriculum hierarchy starts collapsed on load
+
+Integration: **ready-for-publication**. Types: implementation. Owner: Codex Blueprint maintainer.
+
+**Objective:** Start the existing learning planner collapsed on initial load, reload and return while keeping click and keyboard expansion working.
+
+**Before:** Unit, component and area groups are initially expanded and all197 curriculum rows render at once.
+
+**Required result:** All hierarchy groups begin closed; existing curriculum remains available through normal disclosure controls.
+
+**Source:** Tania21October2026explicit narrow live update request for the existing learning page.
+
+**Next:** Publish only the reviewed generated reader, then independently verify deployed bytes and actual live disclosure state.
+
+### Start Here — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Current teaching priorities remain those of V2.30; this release only changes the initial disclosure state of the learning planner.
+
+Records: CE-CHANGE-20261021-113. Owner: Codex Blueprint maintainer.
+
+Acceptance: Current teaching priorities remain those of V2.30; this release only changes the initial disclosure state of the learning planner.
+
+Verification: passed / Compared currentStep and productionPlan with54b9d493: identical. Only release/record113 status changes; no teaching priority is rewritten.
+
+- [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
+
+Next: Retain exact scoped proof; independently verify publication.
+
+### Priorities and linked execution tasks — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Retain all phases, proposed milestones and production priorities; no curriculum design or game work is added.
+
+Records: CE-CHANGE-20261021-113. Owner: Codex Blueprint maintainer.
+
+Acceptance: Retain all phases, proposed milestones and production priorities; no curriculum design or game work is added.
+
+Verification: passed / Exact operations.roadmap comparison with54b9d493 passes; original phase order and pending production priorities are intact.
+
+- [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
+
+Next: Retain exact scoped proof; independently verify publication.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Append record113 with exact user scope, behavior, tests and separate publication evidence.
+
+Records: CE-CHANGE-20261021-113. Owner: Codex Blueprint maintainer.
+
+Acceptance: Append record113 with exact user scope, behavior, tests and separate publication evidence.
+
+Verification: passed / Reviewed record113 source, scope, implementation and generated material-change section; public source/history export parity passes.
+
+- [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
+
+Next: Retain exact scoped proof; independently verify publication.
+
+### Workflows and handoff — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Use the existing canonical source/export and guarded Pages workflow; preserve unrelated files and check disk before write-heavy checks.
+
+Records: CE-CHANGE-20261021-113. Owner: Codex Blueprint maintainer.
+
+Acceptance: Use the existing canonical source/export and guarded Pages workflow; preserve unrelated files and check disk before write-heavy checks.
+
+Verification: passed / Re-read the existing project-work-contract and proportionate maintenance guidance. This scoped static change uses their required source/export/release checks and reuses exact unchanged evidence. No global audit or game operation is resumed.
+
+- [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
+
+Next: Retain exact scoped proof; independently verify publication.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate records from canonical source and package the same static reader without private files or new media.
+
+Records: CE-CHANGE-20261021-113. Owner: Codex Blueprint maintainer.
+
+Acceptance: Regenerate records from canonical source and package the same static reader without private files or new media.
+
+Verification: passed / npm run records and115repository tests pass, including exact export parity and continuity. The new note exports through the existing canonical exporter; private evidence is excluded.
+
+- [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
+
+Next: Retain exact scoped proof; independently verify publication.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish reviewed generated output to the authorised existing Blueprint site, then verify remote commit, Pages identity, served hashes and actual live disclosure behavior.
+
+Records: CE-CHANGE-20261021-113. Owner: Codex Blueprint maintainer.
+
+Acceptance: Publish reviewed generated output to the authorised existing Blueprint site, then verify remote commit, Pages identity, served hashes and actual live disclosure behavior.
+
+Verification: pending / Fresh scoped verification pending.
+
+- [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
+
+Next: Push authorised reviewed generated output; require exact Pages built commit, served hashes and51fresh live desktop/mobile checks before closure.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Check JavaScript syntax, types, focused lint, required repository tests and guarded static build for the client disclosure change.
+
+Records: CE-CHANGE-20261021-113. Owner: Codex Blueprint maintainer.
+
+Acceptance: Check JavaScript syntax, types, focused lint, required repository tests and guarded static build for the client disclosure change.
+
+Verification: passed / JavaScript syntax, TypeScript without incremental writes, focused oxlint,115repository tests and production Vite client compilation pass.51compiled Chrome checks pass. The server component/configuration is unchanged; no server-behavior acceptance is inferred.
+
+- [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
+
+Next: Retain exact scoped proof; independently verify publication.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Default unit/component/area groups to closed, preserve explicit expansion and point navigation, reset when browser history restores the learning page.
+
+Records: CE-CHANGE-20261021-113. Owner: Codex Blueprint maintainer.
+
+Acceptance: Default unit/component/area groups to closed, preserve explicit expansion and point navigation, reset when browser history restores the learning page.
+
+Verification: passed / 51source and51compiled Chrome checks pass: desktop and390px initial/reload/history return, restored-page event, click/Enter/Space, individual details, global controls, no overflow and direct point navigation.
+
+- [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
+
+Next: Retain exact scoped proof; independently verify publication.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Preserve teaching principles and assessment content byte-for-byte; verify that readers can reveal the existing requirements with click or keyboard.
+
+Records: CE-CHANGE-20261021-113. Owner: Codex Blueprint maintainer.
+
+Acceptance: Preserve teaching principles and assessment content byte-for-byte; verify that readers can reveal the existing requirements with click or keyboard.
+
+Verification: passed / Exact comparison confirms operations.learningPrinciples and app/blueprint-detail.tsx match54b9d493. Phone/desktop readers can reveal existing content with accessible controls; no teacher workflow content changes.
+
+- [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
+
+Next: Retain exact scoped proof; independently verify publication.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Preserve existing worktree, source history and pre-existing untracked tsconfig.tsbuildinfo. No private recovery upload or file deletion.
+
+Records: CE-CHANGE-20261021-113. Owner: Codex Blueprint maintainer.
+
+Acceptance: Preserve existing worktree, source history and pre-existing untracked tsconfig.tsbuildinfo. No private recovery upload or file deletion.
+
+Verification: passed / Existing source branch and worktree retained. Pre-existing tsconfig.tsbuildinfo remains untracked; no reset, deletion, new checkout or private upload occurred.
+
+- [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
+
+Next: Retain exact scoped proof; independently verify publication.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+No media or screenshot-content revision; capture only small fresh reader-state evidence with fictional/public design content.
+
+Records: CE-CHANGE-20261021-113. Owner: Codex Blueprint maintainer.
+
+Acceptance: No media or screenshot-content revision; capture only small fresh reader-state evidence with fictional/public design content.
+
+Verification: passed / Fresh isolated desktop/phone static-reader state captures inspected. No experience screenshot, historical game image or media provenance is changed.
+
+- [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
+
+Next: Retain exact scoped proof; independently verify publication.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+No game, icons, source PDFs or other assets are changed; reuse existing registered files.
+
+Records: CE-CHANGE-20261021-113. Owner: Codex Blueprint maintainer.
+
+Acceptance: No game, icons, source PDFs or other assets are changed; reuse existing registered files.
+
+Verification: passed / Tracked asset/source/icon files are unchanged; bounded build reuses existing public assets and copies only changed generated files. No new game artwork or private textbook file.
+
+- [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
+
+Next: Retain exact scoped proof; independently verify publication.
+
+### Curriculum and reciprocal mappings — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Retain all197 exact entries, source references, hierarchy and mappings; verify full content becomes available after explicit expansion.
+
+Records: CE-CHANGE-20261021-113. Owner: Codex Blueprint maintainer.
+
+Acceptance: Retain all197 exact entries, source references, hierarchy and mappings; verify full content becomes available after explicit expansion.
+
+Verification: passed / Exact data/curriculum.json, data/learning-planner.json and data/blueprint.ts match54b9d493. All197entries and45partial source cautions render after explicit expansion in both viewports.
+
+- [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
+
+Next: Retain exact scoped proof; independently verify publication.
 
 ## Historical boundary
 

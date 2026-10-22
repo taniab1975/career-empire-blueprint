@@ -31845,7 +31845,7 @@
       "backendUnknown": "No authenticated school session queried. Real class scope, database isolation, writes/review persistence and new Markets links remain unverified."
     }
   },
-  "revision": "V2.30 / 21 October 2026",
+  "revision": "V2.31 / 22 October 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -31870,14 +31870,14 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.30",
-      "date": "2026-10-21",
-      "label": "V2.30 / 21 October 2026",
-      "status": "Reviewed syllabus-first Blueprint teaching and versioned component-preview documentation; game implementation and learner evidence remain separate",
+      "id": "V2.31",
+      "date": "2026-10-22",
+      "label": "V2.31 / 22 October 2026",
+      "status": "Scoped V2.31collapsed-default candidate ready; live verification pending",
       "purpose": "Career Empire is a connected learning-design project. This scoped Blueprint update teaches from the syllabus first: meaningful experience, explicit instruction, supported application, feedback and durable understanding. Curriculum ways and benefits stay central; no competing named guide or draft song is added to core learning.",
       "audience": "Colleagues reviewing the current game and learning design; teacher delivery program remains in development.",
       "owner": "Tania Byrnes",
-      "scope": "Extend the existing Teaching & assessment ethos and Initiative design bridge, and show exact experience-screenshot version gaps. No live-game or student-data change."
+      "scope": "Curriculum hierarchy default disclosure state only. Exact content, mappings, pedagogy and the game remain unchanged."
     },
     "navigation": [
       {
@@ -33232,18 +33232,18 @@
       "asOf": "2026-09-17",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.30 / local teaching-principles candidate",
+        "sourceRevision": "V2.30 / Blueprint reader",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.29 / GitHub Pages",
-        "checkedAt": "2026-10-15T06:09:54.862746+00:00",
-        "observedLiveSha256": "72f2126b9533ff48e541a863173aa79f8c0c2ce143b5593cb8b74c13ff93b526",
-        "accessCheck": "Generated public Blueprint only. Direct user approval accepted; private recovery upload excluded.",
+        "observedLiveRevision": "V2.30 / GitHub Pages",
+        "checkedAt": "2026-10-21T03:04:52.651266+00:00",
+        "observedLiveSha256": "346f3d9cd4275ce1c40fb178d9a44dd2aa1edc6392012dc9b63305e754f9375a",
+        "accessCheck": "Existing public generated Blueprint only. Authorised21Octoberreader push completed; no private recovery upload.",
         "validationReceipt": "/publication-manifest.json",
-        "status": "Public 49147ad480a2843fa31ceacc1ec8c71b906b11e2; source 869acd85f982baa67832fb25a93965c68e0819c0; successful Pages build1286026708. All28changed served file hashes match and48live desktop/mobile reader checks pass, with no JavaScript errors. Screenshots inspected.197exact curriculum entries/references and proposed/implemented/learner-evidence distinctions retained.",
-        "savedVersionId": "869acd85f982baa67832fb25a93965c68e0819c0",
-        "deploymentId": "GitHub Pages / 1286026708",
-        "parity": "Exact deployed source/record manifest, all28changed served hashes and48desktop/mobile reader checks verified.",
-        "resume": "The final approved core is syllabus-first, with ordinary contextual prompts and no new named mnemonic/sequence or draft-song promotion. Original resources remain historical. Complete final reader/artifact checks, then authorised guarded Blueprint publication and independent live verification. No game publication by this task.",
+        "status": "Public53484816ca75fe43dc624cfd57c7fbc5e9c6cf06; source d62cf54f5139ed0a337ff3fe17bf91bc74e5dc94; Pages1301468454built. All16changed served file hashes match;31live desktop/mobile Chrome checks pass with no JavaScript errors. Actual pixels inspected. Exact197curriculum entries,45partial cautions,21ESTselections,27icons and original mappings retained. No game, backend or learner-data changes.",
+        "savedVersionId": "d62cf54f5139ed0a337ff3fe17bf91bc74e5dc94",
+        "deploymentId": "GitHub Pages /1301468454",
+        "parity": "Exact deployed source/manifest and all16changed served hashes verified;31live desktop/mobile reader checks pass.",
+        "resume": "Retain the verified V2.30reader and receipt. Continue new Market runtime and full-scene review in the separate game task. Preserve exact curriculum and optional creative supports; no competing named core model. Do not rebuild solely for this private metadata closure.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
         "legacySite": {
@@ -33252,8 +33252,8 @@
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
         },
-        "observedPublicCommit": "49147ad480a2843fa31ceacc1ec8c71b906b11e2",
-        "hashScope": "Deployed V2.29 artifact from source 869acd85f982baa67832fb25a93965c68e0819c0. This later private closure is not another public build.",
+        "observedPublicCommit": "53484816ca75fe43dc624cfd57c7fbc5e9c6cf06",
+        "hashScope": "Deployed V2.30artifact from source d62cf54. This later private metadata/evidence closure is not another public build.",
         "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
@@ -35724,7 +35724,7 @@
           "domain": "Canonical Blueprint pedagogy and experience-page evidence labels",
           "source": "Tania,21October2026: add memory and learning principles, experiential learning and suitable productive failure; require explicit Initiative teaching and clearer stages; authorise guarded Blueprint publication after checks. Final clarification selects syllabus-first core teaching and ordinary contextual prompts, excluding the draft song and additional named thinking sequence from this redesign. Original historical resources remain.",
           "owner": "Codex Blueprint maintainer; Tania reviews publication",
-          "status": "Reviewed local V2.30 reader; guarded publication pending",
+          "status": "Scoped V2.30reader published and independently verified",
           "rationale": "Extend existing Teaching & assessment rather than creating another plan, and prevent dated or unverified images from implying current game evidence.",
           "dependencies": [],
           "evidence": [
@@ -35734,13 +35734,35 @@
             "app/phase-walkthrough.tsx",
             "private/production-evidence/2026-10-21/learning-principles/verification.json"
           ],
-          "nextAction": "Publish only the reviewed generated V2.30Blueprint output after guarded packaging, then verify live hashes and reader routes. Current Market runtime and its new full-scene captures remain the game task’s separate work.",
+          "nextAction": "Retain this scoped reader release. New Market runtime, current full-scene Market captures and actual classroom/learner evidence remain separate work; do not rebuild to change this private receipt.",
           "supersededRecord": null,
           "designApproval": "The user authorises proceeding toward live Blueprint/pedagogy/market updates after review and normal checks. This task changes only the Blueprint. Separate game work, classroom acceptance and new data collection are excluded.",
           "implementation": "The existing teaching page now connects durable-learning practices and contextual experience with explicit Initiative meaning, five prescribed syllabus ways, benefits, worked examples, consolidation and transfer. Proposed stages use one primary action, quiet help and no auto-advance. Versioned component previews and dated Market evidence remain distinct from live implementation. The five-way coverage map names exact child IDs, where each is explained, a meaningful market opportunity, and a recognition/application check, with illustrated/practised/independent boundaries.",
-          "deployment": "Local canonical source only; public V2.29 remains the separately verified October15 release.",
-          "testing": "115repository tests, TypeScript, focused lint, standard build and29desktop/mobile Chrome checks passed. Screenshots inspected; exact197entries and45partial cautions retained. Fresh photo-trail component captures use restored artwork and stable source hashes; full-scene Market runtime review remains separate.",
-          "taniaAcceptance": "Content requested; no new learner-effectiveness, screenshot appearance or classroom acceptance claimed."
+          "deployment": "Public53484816ca75fe43dc624cfd57c7fbc5e9c6cf06; source d62cf54f5139ed0a337ff3fe17bf91bc74e5dc94; Pages1301468454built. All16changed served file hashes match;31live desktop/mobile Chrome checks pass with no JavaScript errors. Actual pixels inspected. Exact197curriculum entries,45partial cautions,21ESTselections,27icons and original mappings retained. No game, backend or learner-data changes.",
+          "testing": "115tests, types, focused lint, standard build, guarded static packaging,31artifact and31live desktop/mobile Chrome checks pass. Current component images inspected and versioned;16served hashes match. Source d62cf54is the immutable deployed artifact identity.",
+          "taniaAcceptance": "Tania authorised scoped Blueprint publication after checks. No game, classroom, learner-effectiveness or final Market implementation acceptance is inferred."
+        },
+        {
+          "id": "CE-CHANGE-20261021-113",
+          "date": "2026-10-21",
+          "title": "Curriculum hierarchy starts collapsed on load",
+          "domain": "Blueprint curriculum planner disclosure state",
+          "source": "Tania explicitly requests a live update: all curriculum points on the Curriculum and experiences learning page must start/load collapsed, including reload and return navigation; normal expansion remains available.",
+          "owner": "Codex Blueprint maintainer",
+          "status": "Reviewed V2.31candidate ready for authorised guarded publication",
+          "rationale": "The complete hierarchy currently starts expanded, producing a long initial table. Start every unit, component and area closed while preserving all existing records and controls.",
+          "dependencies": [],
+          "evidence": [
+            "docs/production/curriculum-collapsed-default-20261021.md",
+            "app/planner-runtime.js"
+          ],
+          "nextAction": "Publish reviewed generated Blueprint output through existing guarded Pages workflow, then verify exact remote/deployment identities and live desktop/mobile disclosure behavior.",
+          "supersededRecord": null,
+          "designApproval": "User explicitly authorises this narrow live Blueprint default-state update. No game or content revision is included.",
+          "implementation": "Every curriculum unit/component/area and home grouping starts closed. Existing disclosure buttons retain click/keyboard focus; global controls open or close the hierarchy, direct point links reveal their ancestry, and restored browser pages reset closed. No content or mappings changed.",
+          "deployment": "Not published; existing V2.30 remains live.",
+          "testing": "115repository tests, TypeScript, focused lint and client build pass.51source and51compiled desktop/390px Chrome checks pass with no page errors; screenshots inspected. Initial, reload and history-return states close all groups; click/Enter/Space and global controls remain functional. Exact197entries and45partial cautions retained.",
+          "taniaAcceptance": "Publication requested; successful live behavior remains to verify."
         }
       ],
       "sessionStart": [
@@ -49723,10 +49745,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20261021-112"
+        "CE-CHANGE-20261021-113"
       ],
-      "scope": "Reviewed V2.30syllabus-first teaching principles, explicit five-way Market design/coverage map, optional creative-support menu and current photo-trail component previews; generated Blueprint only, not a game release.",
-      "disclosure": "The core follows the syllabus: concept, five ways, benefits and meaningful application. No draft song or additional named sequence is introduced. Current component previews are isolated synthetic fixtures, not full 3Dgameplay; original Market captures stay dated. The new Market runtime and full-scene capture review, classroom provision and learner evidence remain separate.",
+      "scope": "V2.31 narrow collapsed-on-load curriculum hierarchy; exact V2.30content and pedagogy retained.",
+      "disclosure": "Only static reader disclosure behavior changes. Game implementation, learning evidence, unrelated backlog and prior dated screenshots are unchanged; publication requires fresh deployment verification.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -49914,16 +49936,17 @@
         "public/evidence/discovery-components-20261021/camera-phone-preview.png",
         "docs/production/material-changes.md",
         "public/evidence/discovery-components-20261021/gift-desktop-preview.png",
-        "docs/production/change-integration.md"
+        "docs/production/change-integration.md",
+        "docs/production/curriculum-collapsed-default-20261021.md"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "e0cec8f5c646a99035c1d922e36c5083acb192f536b8a3aed8c68d95de05fd14"
+          "sha256": "501d445c7491baf8bd94d51ebf204bc323d1ade51c40fb35380f84b6470d89db"
         },
         {
           "path": "README.md",
-          "sha256": "a4d8cadcbaf50c13b5acfaacdb9f1aae817f37e0d5097918208265027f7f52c3"
+          "sha256": "46728e99f9943f3635bfc6564310a94a84cca66add90e5c0ca4f80757ae0b78f"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -49991,7 +50014,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "e258035ac33c91cf31f8d04f0097cbf7bfb5ac6badb8e2d22d9dca48883b05f5"
+          "sha256": "3cf58d4541b36eb69e6a2461c3b71da4240975a25c4849b982a785f076a933fa"
         },
         {
           "path": "data/refresh-checkpoint.json",
@@ -50015,7 +50038,7 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "f29a5a9beedee219260d664889f5ccb8030ffb09bb4051893016fad8de4b3a19"
+          "sha256": "f704447993e76340909d63812458e953a8f6dc4966f2a1b06b4107ecd357bf8e"
         },
         {
           "path": "docs/production/change-workflows.md",
@@ -50087,7 +50110,7 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "55a00586d3afc7c9b1cbbbfe00128f9d1b5ca4cea51c04cb4d5e35990fb4fcf4"
+          "sha256": "5ba7c49f07e53d19f85352f09c305059c4a7004f9ee47f2d1fa0687b8290e8cc"
         },
         {
           "path": "scripts/plan-change.mjs",
@@ -50211,7 +50234,7 @@
         },
         {
           "path": "app/planner-runtime.js",
-          "sha256": "5723c394fd12dffd5884380afcde901ac83d8c2aaf17af7b98c448c2281d39b9"
+          "sha256": "e206e159e5efc33579a8bf4e0ef4972b8eea133affaa93e4353ab04d2a57cb14"
         },
         {
           "path": "data/learning-planner.json",
@@ -50575,7 +50598,7 @@
         },
         {
           "path": "data/public-reader-documents.json",
-          "sha256": "acc3114d503e1267c5f5a7e9d36ba238565f95918fbb502409008e78b96b0772"
+          "sha256": "42ff561b25593a273731dbc79576b35b25af36903b68aa3a32d8fc282995d698"
         },
         {
           "path": "app/blueprint-app.tsx",
@@ -50647,15 +50670,15 @@
         },
         {
           "path": "docs/production/change-integration.md",
-          "sha256": "bd86a15098ac3bad9bcdf893b9f32eb34efbdd89b7d6e4a0ce5ee7eca1b393e2"
+          "sha256": "b0abea33065a81d344db66db09c4e9b13c8d767c73d9ba8803382178582148d9"
         },
         {
           "path": "docs/production/material-changes.md",
-          "sha256": "f094fa09129df096a4bbc641aadc2a4646c3c1b2f0c7d42827255b659eb23604"
+          "sha256": "b69ff7089ef4aefcb7605e973e0358f41a4c82cc2e3f05a8fb2ff49412e890d5"
         },
         {
           "path": "docs/production/learning-principles-20261021.md",
-          "sha256": "e46361b565b3e78db22530518acf7b5557c3c97a7738950b7d37b781407ccea7"
+          "sha256": "b994df03b2153b14e647d4c78de5fd392deb2006ab47b7d7352ef0b0d8612bfc"
         },
         {
           "path": "public/evidence/discovery-components-20261021/camera-phone-preview.png",
@@ -50664,6 +50687,10 @@
         {
           "path": "public/evidence/discovery-components-20261021/gift-desktop-preview.png",
           "sha256": "521abb111ac0d8c93e5b2aad0cc062bb2b914ba1c13c262c44571baa669559ee"
+        },
+        {
+          "path": "docs/production/curriculum-collapsed-default-20261021.md",
+          "sha256": "ef23cc0bc9865475c2728e1bd1e8483beea01ab5b9f853704e07fbd6e14dce29"
         }
       ]
     },
@@ -84583,13 +84610,13 @@
           "research",
           "implementation"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Make required learning and its evidence explicit without introducing competing named steps or extra mnemonic memorisation.",
         "before": "Teaching & assessment had general learning modes and lesson requirements; memory strategies and experience-first qualifications were dispersed. Experience images were dated October15captures or absent.",
         "after": "Syllabus-first principles and explicit Initiative meaning, five ways, benefits, concrete application and explanation. Ordinary contextual prompts replace the newly proposed extra named guide and draft-song example. Historical resources remain untouched.",
         "source": "Tania,21October2026: add memory and learning principles, experiential learning and suitable productive failure; require explicit Initiative teaching and clearer stages; authorise guarded Blueprint publication after checks. Final clarification selects syllabus-first core teaching and ordinary contextual prompts, excluding the draft song and additional named thinking sequence from this redesign. Original historical resources remain.",
         "owner": "Codex Blueprint maintainer; Tania reviews publication",
-        "nextAction": "Publish only the reviewed generated V2.30Blueprint output after guarded packaging, then verify live hashes and reader routes. Current Market runtime and its new full-scene captures remain the game task’s separate work.",
+        "nextAction": "Retain this scoped reader release. New Market runtime, current full-scene Market captures and actual classroom/learner evidence remain separate work; do not rebuild to change this private receipt.",
         "securityPrivacyImpact": {
           "baseline": "WA-DOE-v4c",
           "waQuestionIds": [],
@@ -84742,7 +84769,7 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
+            "disposition": "updated",
             "action": "Hold live Blueprint and private recovery uploads. Saving source and local preview are separate from a later generated-site publication and live verification.",
             "records": [
               "CE-CHANGE-20261021-112"
@@ -84750,14 +84777,14 @@
             "owner": "Codex Blueprint maintainer; Tania reviews publication",
             "acceptance": "Hold live Blueprint and private recovery uploads. Saving source and local preview are separate from a later generated-site publication and live verification.",
             "evidence": [
-              "docs/production/learning-principles-20261021.md"
+              "private/production-evidence/2026-10-21/learning-principles/publication-receipt.json"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Requires actual generated public push and independent live verification.",
+              "result": "passed",
+              "method": "Public53484816ca75fe43dc624cfd57c7fbc5e9c6cf06; source d62cf54f5139ed0a337ff3fe17bf91bc74e5dc94; Pages1301468454built. All16changed served file hashes match;31live desktop/mobile Chrome checks pass with no JavaScript errors. Actual pixels inspected. Exact197curriculum entries,45partial cautions,21ESTselections,27icons and original mappings retained. No game, backend or learner-data changes.",
               "date": "2026-10-21"
             },
-            "nextAction": "Publish only the reviewed generated V2.30Blueprint output after guarded packaging, then verify live hashes and reader routes. Current Market runtime and its new full-scene captures remain the game task’s separate work."
+            "nextAction": "Retain this scoped reader release. New Market runtime, current full-scene Market captures and actual classroom/learner evidence remain separate work; do not rebuild to change this private receipt."
           },
           {
             "surface": "curriculum",
@@ -84990,6 +85017,323 @@
               "date": "2026-10-21"
             },
             "nextAction": "Retain exact evidence; game runtime and real learning claims require their separate checks."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20261021-113",
+        "title": "Curriculum hierarchy starts collapsed on load",
+        "types": [
+          "implementation"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Start the existing learning planner collapsed on initial load, reload and return while keeping click and keyboard expansion working.",
+        "before": "Unit, component and area groups are initially expanded and all197 curriculum rows render at once.",
+        "after": "All hierarchy groups begin closed; existing curriculum remains available through normal disclosure controls.",
+        "source": "Tania21October2026explicit narrow live update request for the existing learning page.",
+        "owner": "Codex Blueprint maintainer",
+        "nextAction": "Publish only the reviewed generated reader, then independently verify deployed bytes and actual live disclosure state.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Codex Blueprint maintainer; Tania reviews publication",
+          "scope": "Static Blueprint disclosure-state update and existing authorised GitHub Pages publication; no data, provider, identity, permissions, tracking or game changes.",
+          "rationale": "Only in-memory disclosure sets and normal browser navigation behavior change. Existing public design records and private/public boundaries remain.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Existing public design records only; no student records or new data collection.",
+            "locations": "Existing GitHub Pages static website; licensed originals and private evidence remain outside generated public artifacts.",
+            "accessCountries": "Existing public website access; no new account-data transfer or provider.",
+            "providers": "Existing GitHub Pages only; no new external service is introduced.",
+            "lifecycle": "Existing public design records; private backup and evidence retain owner access.",
+            "encryption": "Existing HTTPS hosting; no new claim about student storage or encryption.",
+            "logging": "No added telemetry, analytics or application logging.",
+            "identity": "No login, student identifier collection or changed account authority.",
+            "isolation": "Static design reader; school/account isolation remains unverified separately.",
+            "privacySafety": "Private files, credential tokens and licensed originals excluded from publication.",
+            "applicability": "Blueprint reporting only; no WA compliance or real-student release claim.",
+            "verification": "115repository tests, types, focused lint, production client compile and51source/51compiled desktop/mobile checks pass. Static disclosure state only; no data, provider, permissions, game or asset change."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "115repository tests, types, focused lint, production client compile and51source/51compiled desktop/mobile checks pass. Static disclosure state only; no data, provider, permissions, game or asset change."
+          ],
+          "reviewedBy": "Codex scoped source inspection",
+          "reviewedAt": "2026-10-21",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "Current teaching priorities remain those of V2.30; this release only changes the initial disclosure state of the learning planner.",
+            "records": [
+              "CE-CHANGE-20261021-113"
+            ],
+            "owner": "Codex Blueprint maintainer",
+            "acceptance": "Current teaching priorities remain those of V2.30; this release only changes the initial disclosure state of the learning planner.",
+            "evidence": [
+              "docs/production/curriculum-collapsed-default-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Compared currentStep and productionPlan with54b9d493: identical. Only release/record113 status changes; no teaching priority is rewritten.",
+              "date": "2026-10-22"
+            },
+            "nextAction": "Retain exact scoped proof; independently verify publication."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "checked-unchanged",
+            "action": "Retain all phases, proposed milestones and production priorities; no curriculum design or game work is added.",
+            "records": [
+              "CE-CHANGE-20261021-113"
+            ],
+            "owner": "Codex Blueprint maintainer",
+            "acceptance": "Retain all phases, proposed milestones and production priorities; no curriculum design or game work is added.",
+            "evidence": [
+              "docs/production/curriculum-collapsed-default-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact operations.roadmap comparison with54b9d493 passes; original phase order and pending production priorities are intact.",
+              "date": "2026-10-22"
+            },
+            "nextAction": "Retain exact scoped proof; independently verify publication."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Append record113 with exact user scope, behavior, tests and separate publication evidence.",
+            "records": [
+              "CE-CHANGE-20261021-113"
+            ],
+            "owner": "Codex Blueprint maintainer",
+            "acceptance": "Append record113 with exact user scope, behavior, tests and separate publication evidence.",
+            "evidence": [
+              "docs/production/curriculum-collapsed-default-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reviewed record113 source, scope, implementation and generated material-change section; public source/history export parity passes.",
+              "date": "2026-10-22"
+            },
+            "nextAction": "Retain exact scoped proof; independently verify publication."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "checked-unchanged",
+            "action": "Use the existing canonical source/export and guarded Pages workflow; preserve unrelated files and check disk before write-heavy checks.",
+            "records": [
+              "CE-CHANGE-20261021-113"
+            ],
+            "owner": "Codex Blueprint maintainer",
+            "acceptance": "Use the existing canonical source/export and guarded Pages workflow; preserve unrelated files and check disk before write-heavy checks.",
+            "evidence": [
+              "docs/production/curriculum-collapsed-default-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Re-read the existing project-work-contract and proportionate maintenance guidance. This scoped static change uses their required source/export/release checks and reuses exact unchanged evidence. No global audit or game operation is resumed.",
+              "date": "2026-10-22"
+            },
+            "nextAction": "Retain exact scoped proof; independently verify publication."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Regenerate records from canonical source and package the same static reader without private files or new media.",
+            "records": [
+              "CE-CHANGE-20261021-113"
+            ],
+            "owner": "Codex Blueprint maintainer",
+            "acceptance": "Regenerate records from canonical source and package the same static reader without private files or new media.",
+            "evidence": [
+              "docs/production/curriculum-collapsed-default-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "npm run records and115repository tests pass, including exact export parity and continuity. The new note exports through the existing canonical exporter; private evidence is excluded.",
+              "date": "2026-10-22"
+            },
+            "nextAction": "Retain exact scoped proof; independently verify publication."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish reviewed generated output to the authorised existing Blueprint site, then verify remote commit, Pages identity, served hashes and actual live disclosure behavior.",
+            "records": [
+              "CE-CHANGE-20261021-113"
+            ],
+            "owner": "Codex Blueprint maintainer",
+            "acceptance": "Publish reviewed generated output to the authorised existing Blueprint site, then verify remote commit, Pages identity, served hashes and actual live disclosure behavior.",
+            "evidence": [
+              "docs/production/curriculum-collapsed-default-20261021.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Fresh scoped verification pending.",
+              "date": "2026-10-21"
+            },
+            "nextAction": "Push authorised reviewed generated output; require exact Pages built commit, served hashes and51fresh live desktop/mobile checks before closure."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Check JavaScript syntax, types, focused lint, required repository tests and guarded static build for the client disclosure change.",
+            "records": [
+              "CE-CHANGE-20261021-113"
+            ],
+            "owner": "Codex Blueprint maintainer",
+            "acceptance": "Check JavaScript syntax, types, focused lint, required repository tests and guarded static build for the client disclosure change.",
+            "evidence": [
+              "docs/production/curriculum-collapsed-default-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "JavaScript syntax, TypeScript without incremental writes, focused oxlint,115repository tests and production Vite client compilation pass.51compiled Chrome checks pass. The server component/configuration is unchanged; no server-behavior acceptance is inferred.",
+              "date": "2026-10-22"
+            },
+            "nextAction": "Retain exact scoped proof; independently verify publication."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Default unit/component/area groups to closed, preserve explicit expansion and point navigation, reset when browser history restores the learning page.",
+            "records": [
+              "CE-CHANGE-20261021-113"
+            ],
+            "owner": "Codex Blueprint maintainer",
+            "acceptance": "Default unit/component/area groups to closed, preserve explicit expansion and point navigation, reset when browser history restores the learning page.",
+            "evidence": [
+              "docs/production/curriculum-collapsed-default-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "51source and51compiled Chrome checks pass: desktop and390px initial/reload/history return, restored-page event, click/Enter/Space, individual details, global controls, no overflow and direct point navigation.",
+              "date": "2026-10-22"
+            },
+            "nextAction": "Retain exact scoped proof; independently verify publication."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "Preserve teaching principles and assessment content byte-for-byte; verify that readers can reveal the existing requirements with click or keyboard.",
+            "records": [
+              "CE-CHANGE-20261021-113"
+            ],
+            "owner": "Codex Blueprint maintainer",
+            "acceptance": "Preserve teaching principles and assessment content byte-for-byte; verify that readers can reveal the existing requirements with click or keyboard.",
+            "evidence": [
+              "docs/production/curriculum-collapsed-default-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact comparison confirms operations.learningPrinciples and app/blueprint-detail.tsx match54b9d493. Phone/desktop readers can reveal existing content with accessible controls; no teacher workflow content changes.",
+              "date": "2026-10-22"
+            },
+            "nextAction": "Retain exact scoped proof; independently verify publication."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "checked-unchanged",
+            "action": "Preserve existing worktree, source history and pre-existing untracked tsconfig.tsbuildinfo. No private recovery upload or file deletion.",
+            "records": [
+              "CE-CHANGE-20261021-113"
+            ],
+            "owner": "Codex Blueprint maintainer",
+            "acceptance": "Preserve existing worktree, source history and pre-existing untracked tsconfig.tsbuildinfo. No private recovery upload or file deletion.",
+            "evidence": [
+              "docs/production/curriculum-collapsed-default-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing source branch and worktree retained. Pre-existing tsconfig.tsbuildinfo remains untracked; no reset, deletion, new checkout or private upload occurred.",
+              "date": "2026-10-22"
+            },
+            "nextAction": "Retain exact scoped proof; independently verify publication."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "No media or screenshot-content revision; capture only small fresh reader-state evidence with fictional/public design content.",
+            "records": [
+              "CE-CHANGE-20261021-113"
+            ],
+            "owner": "Codex Blueprint maintainer",
+            "acceptance": "No media or screenshot-content revision; capture only small fresh reader-state evidence with fictional/public design content.",
+            "evidence": [
+              "docs/production/curriculum-collapsed-default-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Fresh isolated desktop/phone static-reader state captures inspected. No experience screenshot, historical game image or media provenance is changed.",
+              "date": "2026-10-22"
+            },
+            "nextAction": "Retain exact scoped proof; independently verify publication."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "No game, icons, source PDFs or other assets are changed; reuse existing registered files.",
+            "records": [
+              "CE-CHANGE-20261021-113"
+            ],
+            "owner": "Codex Blueprint maintainer",
+            "acceptance": "No game, icons, source PDFs or other assets are changed; reuse existing registered files.",
+            "evidence": [
+              "docs/production/curriculum-collapsed-default-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Tracked asset/source/icon files are unchanged; bounded build reuses existing public assets and copies only changed generated files. No new game artwork or private textbook file.",
+              "date": "2026-10-22"
+            },
+            "nextAction": "Retain exact scoped proof; independently verify publication."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Retain all197 exact entries, source references, hierarchy and mappings; verify full content becomes available after explicit expansion.",
+            "records": [
+              "CE-CHANGE-20261021-113"
+            ],
+            "owner": "Codex Blueprint maintainer",
+            "acceptance": "Retain all197 exact entries, source references, hierarchy and mappings; verify full content becomes available after explicit expansion.",
+            "evidence": [
+              "docs/production/curriculum-collapsed-default-20261021.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact data/curriculum.json, data/learning-planner.json and data/blueprint.ts match54b9d493. All197entries and45partial source cautions render after explicit expansion in both viewports.",
+              "date": "2026-10-22"
+            },
+            "nextAction": "Retain exact scoped proof; independently verify publication."
           }
         ]
       }

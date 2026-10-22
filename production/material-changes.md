@@ -1745,17 +1745,35 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **domain:** Canonical Blueprint pedagogy and experience-page evidence labels
 - **source:** Tania,21October2026: add memory and learning principles, experiential learning and suitable productive failure; require explicit Initiative teaching and clearer stages; authorise guarded Blueprint publication after checks. Final clarification selects syllabus-first core teaching and ordinary contextual prompts, excluding the draft song and additional named thinking sequence from this redesign. Original historical resources remain.
 - **owner:** Codex Blueprint maintainer; Tania reviews publication
-- **status:** Reviewed local V2.30 reader; guarded publication pending
+- **status:** Scoped V2.30reader published and independently verified
 - **rationale:** Extend existing Teaching & assessment rather than creating another plan, and prevent dated or unverified images from implying current game evidence.
 - **dependencies:** None
 - **evidence:** docs/production/learning-principles-20261021.md / data/operations.json / app/blueprint-detail.tsx / app/phase-walkthrough.tsx / private/production-evidence/2026-10-21/learning-principles/verification.json
-- **nextAction:** Publish only the reviewed generated V2.30Blueprint output after guarded packaging, then verify live hashes and reader routes. Current Market runtime and its new full-scene captures remain the game task’s separate work.
+- **nextAction:** Retain this scoped reader release. New Market runtime, current full-scene Market captures and actual classroom/learner evidence remain separate work; do not rebuild to change this private receipt.
 - **supersededRecord:** None
 - **designApproval:** The user authorises proceeding toward live Blueprint/pedagogy/market updates after review and normal checks. This task changes only the Blueprint. Separate game work, classroom acceptance and new data collection are excluded.
 - **implementation:** The existing teaching page now connects durable-learning practices and contextual experience with explicit Initiative meaning, five prescribed syllabus ways, benefits, worked examples, consolidation and transfer. Proposed stages use one primary action, quiet help and no auto-advance. Versioned component previews and dated Market evidence remain distinct from live implementation. The five-way coverage map names exact child IDs, where each is explained, a meaningful market opportunity, and a recognition/application check, with illustrated/practised/independent boundaries.
-- **deployment:** Local canonical source only; public V2.29 remains the separately verified October15 release.
-- **testing:** 115repository tests, TypeScript, focused lint, standard build and29desktop/mobile Chrome checks passed. Screenshots inspected; exact197entries and45partial cautions retained. Fresh photo-trail component captures use restored artwork and stable source hashes; full-scene Market runtime review remains separate.
-- **taniaAcceptance:** Content requested; no new learner-effectiveness, screenshot appearance or classroom acceptance claimed.
+- **deployment:** Public53484816ca75fe43dc624cfd57c7fbc5e9c6cf06; source d62cf54f5139ed0a337ff3fe17bf91bc74e5dc94; Pages1301468454built. All16changed served file hashes match;31live desktop/mobile Chrome checks pass with no JavaScript errors. Actual pixels inspected. Exact197curriculum entries,45partial cautions,21ESTselections,27icons and original mappings retained. No game, backend or learner-data changes.
+- **testing:** 115tests, types, focused lint, standard build, guarded static packaging,31artifact and31live desktop/mobile Chrome checks pass. Current component images inspected and versioned;16served hashes match. Source d62cf54is the immutable deployed artifact identity.
+- **taniaAcceptance:** Tania authorised scoped Blueprint publication after checks. No game, classroom, learner-effectiveness or final Market implementation acceptance is inferred.
+
+## CE-CHANGE-20261021-113 — Curriculum hierarchy starts collapsed on load
+
+- **date:** 2026-10-21
+- **domain:** Blueprint curriculum planner disclosure state
+- **source:** Tania explicitly requests a live update: all curriculum points on the Curriculum and experiences learning page must start/load collapsed, including reload and return navigation; normal expansion remains available.
+- **owner:** Codex Blueprint maintainer
+- **status:** Reviewed V2.31candidate ready for authorised guarded publication
+- **rationale:** The complete hierarchy currently starts expanded, producing a long initial table. Start every unit, component and area closed while preserving all existing records and controls.
+- **dependencies:** None
+- **evidence:** docs/production/curriculum-collapsed-default-20261021.md / app/planner-runtime.js
+- **nextAction:** Publish reviewed generated Blueprint output through existing guarded Pages workflow, then verify exact remote/deployment identities and live desktop/mobile disclosure behavior.
+- **supersededRecord:** None
+- **designApproval:** User explicitly authorises this narrow live Blueprint default-state update. No game or content revision is included.
+- **implementation:** Every curriculum unit/component/area and home grouping starts closed. Existing disclosure buttons retain click/keyboard focus; global controls open or close the hierarchy, direct point links reveal their ancestry, and restored browser pages reset closed. No content or mappings changed.
+- **deployment:** Not published; existing V2.30 remains live.
+- **testing:** 115repository tests, TypeScript, focused lint and client build pass.51source and51compiled desktop/390px Chrome checks pass with no page errors; screenshots inspected. Initial, reload and history-return states close all groups; click/Enter/Space and global controls remain functional. Exact197entries and45partial cautions retained.
+- **taniaAcceptance:** Publication requested; successful live behavior remains to verify.
 
 ## Retained Atlas principles
 

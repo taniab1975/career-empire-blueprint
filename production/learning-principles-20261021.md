@@ -47,3 +47,7 @@ Creative supports remain legitimate: acrostics, mnemonics, images, drama, songs 
 ## Reviewed candidate checkpoint
 
 115tests, TypeScript, focused lint and standard build passed.29desktop/mobile Chrome checks pass with no JavaScript errors; actual pixels inspected. The new map has all five exact child IDs and separate teaching/opportunity/check fields. Fresh production-component images have loaded original artwork, zero page errors and stable source hashes; full-world and current Market runtime acceptance remain separate. Candidate is ready for guarded generated Blueprint packaging/publication, not a game release.
+
+## Published and independently verified
+
+Public53484816ca75fe43dc624cfd57c7fbc5e9c6cf06; source d62cf54f5139ed0a337ff3fe17bf91bc74e5dc94; Pages1301468454built. All16changed served file hashes match;31live desktop/mobile Chrome checks pass with no JavaScript errors. Actual pixels inspected. Exact197curriculum entries,45partial cautions,21ESTselections,27icons and original mappings retained. No game, backend or learner-data changes. The exact generated artifact remains tied to source d62cf54; later private metadata closure does not change that identity or claim that new Market runtime is live.
