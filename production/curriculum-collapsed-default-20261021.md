@@ -17,3 +17,7 @@ Exact source comparison confirms data/curriculum.json, data/learning-planner.jso
 ## Reviewed candidate
 
 115repository tests, types, focused lint and production client compilation pass. The compiled artifact passes the same51desktop/mobile lifecycle and disclosure checks with no JavaScript errors. Desktop and phone pixels were inspected. Standard server behavior/configuration is unchanged; this is a client-only state update. The final release uses every existing release, governance, export, continuity and public-output guard; only the Vite asset-copy/empty-output settings are narrowed to reuse registered files without deletion. Guarded publication and actual live verification remain separate.
+
+## Published and independently verified
+
+Public1f5f942edb5c13d143cc2c3d75d26744132ac0ef; source ec7596369a2b4dd1690899970cc75aa641a671bf; Pages1303962466built. All13changed served hashes match.51live desktop/mobile Chrome checks pass with no JavaScript errors; actual pixels inspected. Curriculum groups start collapsed on initial load, reload and history return; click/keyboard and global controls remain functional. All197exact points, sources, mappings and V2.30pedagogy retained. No game change or deletion. The immutable artifact remains tied to source ec759636; subsequent private closure is not a new public deployment.

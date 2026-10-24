@@ -1,12 +1,16 @@
 {
-  "sourceCommit": "ec7596369a2b4dd1690899970cc75aa641a671bf",
-  "generatedAt": "2026-10-22T00:04:20.184Z",
-  "revision": "V2.31 / 22 October 2026",
-  "recordSha256": "0526ed9f1ce4b81ef3dbc9d28bad3e5f39e6cdd03648651c5449fa16e0a9254c",
+  "sourceCommit": "8f161a06346a2ada4671a630421f66b1d4200403",
+  "generatedAt": "2026-10-24T12:47:36.045Z",
+  "revision": "V2.32 / 24 October 2026",
+  "recordSha256": "faf24a1a934a0aa9e119ef1e8261d8ef288f6c4033b65c17482d20899bbc60c7",
   "files": [
     {
       "path": "assets/curriculum-planner-4Llkf_de.js",
       "sha256": "0b4665f3bb0dcd198b983968cd5f2d7ac1abf9e6af508f478a21b6512d7bc261"
+    },
+    {
+      "path": "assets/curriculum-planner-6OUtQ3MS.js",
+      "sha256": "6cfb6e5920143b4eff5e1c39266e86eb7def3bb3c1fde2e7981e66af83a92177"
     },
     {
       "path": "assets/curriculum-planner-B_U-TcYz.js",
@@ -33,12 +37,20 @@
       "sha256": "bbe906c44e786423e0948dacb1bc9cd951d65eec9769a1bf083141f5f8fff3bb"
     },
     {
+      "path": "assets/index-Bhh4S5cb.css",
+      "sha256": "ed1b6d0939bfb35c1adb6119534c2cc3df383f35f38c245bc8e7219a71cd2786"
+    },
+    {
       "path": "assets/index-BSBW8ku9.js",
       "sha256": "e439ce2156f8a6306073ea9c9954d474f53852afff4f88f91caa4a1868a91e10"
     },
     {
+      "path": "assets/index-gQLpwATj.js",
+      "sha256": "7fc1e00286064d14ea5d9004769b797c407e473bd73bccab71144806473ca823"
+    },
+    {
       "path": "blueprint-records.json",
-      "sha256": "0526ed9f1ce4b81ef3dbc9d28bad3e5f39e6cdd03648651c5449fa16e0a9254c"
+      "sha256": "faf24a1a934a0aa9e119ef1e8261d8ef288f6c4033b65c17482d20899bbc60c7"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1089,6 +1101,90 @@
       "sha256": "9491466db57e5fd329669336cb64401d5b2d6e5f1ea9db86db4c259024f40373"
     },
     {
+      "path": "evidence/market-storyboard-20261024/check1.jpg",
+      "sha256": "0f8c9ec7f2dee8490777ee2496b781e8d1afa1600cff07011c7b367898be13d9"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/check2.jpg",
+      "sha256": "0d7da2097ec101b7985ea06cabdd49d656d819cd34776c78285d0f31838a6360"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/check3.jpg",
+      "sha256": "34b723eeb49bf5fd50dba067208f9805694e58f694dcb4b379b6de9f67a9017b"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/check4.jpg",
+      "sha256": "9e51b52c40052fc9122da35b57b8f8f358e3e7d398f54f304838380b77aeda56"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/check5.jpg",
+      "sha256": "7c4a9483cf963fda424771df8de788038e7976be842b1cf492e52c296c96b575"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/exterior.jpg",
+      "sha256": "05f643db065f18d68544e157957e4ded73e7e07750f3313b65eead2fe547fb79"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/intro.jpg",
+      "sha256": "0d926c05fa9bfa967ae21af27b841c7723e6ae678697edfc4dfb33687e59d139"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/live-campus.jpg",
+      "sha256": "f2165cb378391911cff6b654c4c3d82964808f4e7773dd73395fa0c2bd20e63a"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/paid.jpg",
+      "sha256": "27c91a5021c1c157795e34f038eac81e5faa122c62fd31d75e3d42c75e69703f"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/pay.jpg",
+      "sha256": "405f3cdef4017a8a586f46d5bb26bd690ef88a55e2f55757650c759631935ca2"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/recognition.jpg",
+      "sha256": "a0d5206458238b7d1fa7366eabf866724c2d649b517933f3a34aca64a347ed78"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/record.jpg",
+      "sha256": "836dff38fb1362e43b533ecd584d51591b2b9b8756dfe48e0a5601dc2a8e58c0"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/resource.jpg",
+      "sha256": "bcfff8f8207baf949a6856c09ad075da41ed2ae6b81525510beed073aa2f98d5"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/results.jpg",
+      "sha256": "b51ae1479092ead480816e6c96aa811b1d12161e165b32baca7f26107a350c51"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/transfer.jpg",
+      "sha256": "8d0f7faf53796dd3933daab9a1059f7a48bc52f34a6f1ceaeb15ba9c2664a362"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/trial.jpg",
+      "sha256": "ec16995c62cc81df0aadcb7f303170fcf2d4c432b184ff6e3f23425ca09f672e"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/uncued.jpg",
+      "sha256": "eefd065c923678cf1c9c3ce1abca9b21f749b11d1046ff33c494b5e5d1e576ba"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/unsure.jpg",
+      "sha256": "b0736ee918429f27ec53e4f411906631495d0dce6e7a58a52c138ee479167c92"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/worked.jpg",
+      "sha256": "d8470feddde690e7d847a2eb3faee9da9b942698250190b449be3b457cb0cd81"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/world.jpg",
+      "sha256": "b32a4e86c03add43070fb5adadafa8b3b0af9c72aca29271224065cb7a843973"
+    },
+    {
+      "path": "evidence/market-storyboard-20261024/wrong-feedback.jpg",
+      "sha256": "22d20fd204aca1feb5a87bfbade5bde7201465a7f05493672278859801e357a5"
+    },
+    {
       "path": "evidence/markets-review-20261015/briefing.png",
       "sha256": "60b26f071b1e9a62e2b42fc86c1a6bf10d56c0b8289084a24703772a90bc247c"
     },
@@ -1254,7 +1350,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "bccaed4d8e963dd9edf5e86aaa848d2cee476e5dec194c5986b635d95f48895d"
+      "sha256": "13e634e8c0e02074c02faf4c7b1e22341d8895e889a4e3617e54cd65a9cc9c66"
     },
     {
       "path": "playable-3d/app.js",
@@ -1526,7 +1622,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "86849bcbc71db876544db3ce0eb36e46960b54cf9dbe8fac8d03f2b5ae3dfbbc"
+      "sha256": "14a0b9f7bc807e7a0005bde088b6b6dc8e4f6fe33b46818151fc6aef4be57bcf"
     },
     {
       "path": "production/change-workflows.md",
@@ -1562,7 +1658,7 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "61d2bb2adeb02ee7f9522bf633f6751dee710281df80c6187d395fa2819a9077"
+      "sha256": "6bdf077e16f6797dad431d4bb7fc693e460771a31af9076a5efcbc6c4dde4720"
     },
     {
       "path": "production/current-state.md",
@@ -1570,7 +1666,7 @@
     },
     {
       "path": "production/curriculum-collapsed-default-20261021.md",
-      "sha256": "ef23cc0bc9865475c2728e1bd1e8483beea01ab5b9f853704e07fbd6e14dce29"
+      "sha256": "a84dc50bbfa3ad26ee825094ed59d470e78caa2b048a51492030fc11429633c8"
     },
     {
       "path": "production/curriculum-first-progressive-loading-20260922.html",
@@ -1729,6 +1825,14 @@
       "sha256": "11cc8c5dbb28379c98c143eb6f039b0e5e8958e291cd81fa31cb0d8ee6da9123"
     },
     {
+      "path": "production/market-storyboard-20261024.html",
+      "sha256": "f986b307af7a6da3d9c3c3efe73f7d1ebb809c63b1e0eec45a8d41b53e193497"
+    },
+    {
+      "path": "production/market-storyboard-20261024.md",
+      "sha256": "510e62148092a9a53227e3d13d3aa75e3e39ded57ee4224a683e7dc87ba5b25a"
+    },
+    {
       "path": "production/markets-implementation-review-20261015.html",
       "sha256": "dd7ec3484c4693e8bc3ae60286ecd5bda973d903359f44af5371a9075f3cbe76"
     },
@@ -1738,7 +1842,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "b69ff7089ef4aefcb7605e973e0358f41a4c82cc2e3f05a8fb2ff49412e890d5"
+      "sha256": "7b363625eb78db98a199b7b99969b8dfb2eed327948d8252a8d4fbd8dc662cbd"
     },
     {
       "path": "production/media-oval-20260911.md",

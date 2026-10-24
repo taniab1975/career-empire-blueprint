@@ -1763,17 +1763,35 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **domain:** Blueprint curriculum planner disclosure state
 - **source:** Tania explicitly requests a live update: all curriculum points on the Curriculum and experiences learning page must start/load collapsed, including reload and return navigation; normal expansion remains available.
 - **owner:** Codex Blueprint maintainer
-- **status:** Reviewed V2.31candidate ready for authorised guarded publication
+- **status:** Scoped V2.31reader published and independently verified
 - **rationale:** The complete hierarchy currently starts expanded, producing a long initial table. Start every unit, component and area closed while preserving all existing records and controls.
 - **dependencies:** None
-- **evidence:** docs/production/curriculum-collapsed-default-20261021.md / app/planner-runtime.js
-- **nextAction:** Publish reviewed generated Blueprint output through existing guarded Pages workflow, then verify exact remote/deployment identities and live desktop/mobile disclosure behavior.
+- **evidence:** docs/production/curriculum-collapsed-default-20261021.md / app/planner-runtime.js / private/production-evidence/2026-10-21/curriculum-collapsed/publication-receipt.json
+- **nextAction:** Retain the verified release and scoped receipt. No further action is required for the collapsed-default request; unrelated game and learning-design work remains separate.
 - **supersededRecord:** None
 - **designApproval:** User explicitly authorises this narrow live Blueprint default-state update. No game or content revision is included.
 - **implementation:** Every curriculum unit/component/area and home grouping starts closed. Existing disclosure buttons retain click/keyboard focus; global controls open or close the hierarchy, direct point links reveal their ancestry, and restored browser pages reset closed. No content or mappings changed.
-- **deployment:** Not published; existing V2.30 remains live.
-- **testing:** 115repository tests, TypeScript, focused lint and client build pass.51source and51compiled desktop/390px Chrome checks pass with no page errors; screenshots inspected. Initial, reload and history-return states close all groups; click/Enter/Space and global controls remain functional. Exact197entries and45partial cautions retained.
+- **deployment:** Public1f5f942edb5c13d143cc2c3d75d26744132ac0ef; source ec7596369a2b4dd1690899970cc75aa641a671bf; Pages1303962466built. All13changed served hashes match.51live desktop/mobile Chrome checks pass with no JavaScript errors; actual pixels inspected. Curriculum groups start collapsed on initial load, reload and history return; click/keyboard and global controls remain functional. All197exact points, sources, mappings and V2.30pedagogy retained. No game change or deletion.
+- **testing:** 115repository tests, types, focused lint, production client build and all release guards pass.51source,51compiled and51live desktop/mobile Chrome checks pass with no page errors.13served hashes match; live desktop/phone pixels inspected.
 - **taniaAcceptance:** Publication requested; successful live behavior remains to verify.
+
+## CE-CHANGE-20261024-114 — Full Markets curriculum storyboard for review
+
+- **date:** 2026-10-24
+- **domain:** Blueprint-only student learning design and evidence
+- **source:** Tania requests the storyboard experience in the existing Blueprint with screenshots and curriculum content, timing, presentation and tests.
+- **owner:** Codex Blueprint maintainer; Tania design reviewer
+- **status:** Ready for Blueprint publication; Tania design corrections pending
+- **rationale:** Replace the incomplete Markets review entry with28readable proposed screen panels and explicit current/source/evidence boundaries while retaining earlier content. Later user request adds reconciled reward/tax/town progression, an optional evidence-based portfolio scaffold and a teacher-only authenticated dashboard proposal; no settled formulas or new implementation.
+- **dependencies:** None
+- **evidence:** docs/production/market-storyboard-20261024.md / data/market-storyboard.json / private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json
+- **nextAction:** Validate reader and publish reviewed generated output to the existing Blueprint destination; verify live before claiming publication.
+- **supersededRecord:** None
+- **designApproval:** Proposal for Tania to correct; no game implementation approval.
+- **implementation:** Blueprint-only proposed panels, exact curriculum/evidence notes, actual campus and historical actual Markets screenshots.
+- **deployment:** Pending existing Blueprint Pages publication and independent served/browser verification.
+- **testing:** 115repository tests, TypeScript and focused lint pass.28source and28compiled storyboard screens pass supported-browser content checks; representative390pxmobile checks show no page overflow.20fresh deployed-game captures inspected; no game change.
+- **taniaAcceptance:** Review and corrections requested; design not yet accepted.
 
 ## Retained Atlas principles
 

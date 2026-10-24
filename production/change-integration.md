@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.31 narrow collapsed-on-load curriculum hierarchy; exact V2.30content and pedagogy retained.
+Release scope: V2.32full Markets curriculum storyboard proposal in the existing Blueprint only.
 
-Only static reader disclosure behavior changes. Game implementation, learning evidence, unrelated backlog and prior dated screenshots are unchanged; publication requires fresh deployment verification.
+Blueprint-only28screen proposal with20fresh actual deployed Markets screenshots; teacher-only authenticated dashboard, optional portfolio and reward/tax/town-state links remain proposals. No game/login/backend or academic-to-earnings formula implemented.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -24716,7 +24716,7 @@ Next: Retain exact evidence; game runtime and real learning claims require their
 
 ## CE-CHANGE-20261021-113 — Curriculum hierarchy starts collapsed on load
 
-Integration: **ready-for-publication**. Types: implementation. Owner: Codex Blueprint maintainer.
+Integration: **complete**. Types: implementation. Owner: Codex Blueprint maintainer.
 
 **Objective:** Start the existing learning planner collapsed on initial load, reload and return while keeping click and keyboard expansion working.
 
@@ -24726,7 +24726,7 @@ Integration: **ready-for-publication**. Types: implementation. Owner: Codex Blue
 
 **Source:** Tania21October2026explicit narrow live update request for the existing learning page.
 
-**Next:** Publish only the reviewed generated reader, then independently verify deployed bytes and actual live disclosure state.
+**Next:** Retain the verified scoped V2.31release and exact receipt; no remaining gate for this default-state request.
 
 ### Start Here — checked-unchanged
 
@@ -24808,7 +24808,7 @@ Verification: passed / npm run records and115repository tests pass, including ex
 
 Next: Retain exact scoped proof; independently verify publication.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -24818,11 +24818,11 @@ Records: CE-CHANGE-20261021-113. Owner: Codex Blueprint maintainer.
 
 Acceptance: Publish reviewed generated output to the authorised existing Blueprint site, then verify remote commit, Pages identity, served hashes and actual live disclosure behavior.
 
-Verification: pending / Fresh scoped verification pending.
+Verification: passed / Public1f5f942edb5c13d143cc2c3d75d26744132ac0ef; source ec7596369a2b4dd1690899970cc75aa641a671bf; Pages1303962466built. All13changed served hashes match.51live desktop/mobile Chrome checks pass with no JavaScript errors; actual pixels inspected. Curriculum groups start collapsed on initial load, reload and history return; click/keyboard and global controls remain functional. All197exact points, sources, mappings and V2.30pedagogy retained. No game change or deletion.
 
-- [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
+- [Evidence](private/production-evidence/2026-10-21/curriculum-collapsed/publication-receipt.json)
 
-Next: Push authorised reviewed generated output; require exact Pages built commit, served hashes and51fresh live desktop/mobile checks before closure.
+Next: Retain the immutable deployed artifact identity; do not rebuild solely to change the private receipt.
 
 ### Implementation and test evidence — updated
 
@@ -24935,6 +24935,397 @@ Verification: passed / Exact data/curriculum.json, data/learning-planner.json an
 - [Evidence](docs/production/curriculum-collapsed-default-20261021.md)
 
 Next: Retain exact scoped proof; independently verify publication.
+
+## CE-CHANGE-20261024-114 — Full Markets curriculum storyboard for review
+
+Integration: **ready-for-publication**. Types: activity, visual, research, implementation, release. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+**Objective:** Provide the complete28screen proposed student journey with exact curriculum, student text/actions, feedback and evidence boundaries for Tania to correct.
+
+**Before:** Markets route shows a dated abbreviated implementation review; latest required learning sequence and proposal timing are incomplete.
+
+**Required result:** Markets route shows28readable proposed panels, current/source boundaries, actual evidence and retained earlier review.
+
+**Source:** Tania24October2026explicit Blueprint-only storyboard update/publication request; no game implementation authority.
+
+**Next:** Verify full reader and guarded packaging; publish only reviewed generated Blueprint output and independently verify served files.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Current step now links directly to the full Markets review; release status retains publication pending.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current step now links directly to the full Markets review; release status retains publication pending.
+
+Verification: passed / Current step now links directly to the full Markets review; release status retains publication pending. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Priorities and linked execution tasks — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Shared phase sequence and existing roadmap remain unchanged; this is the requested bounded Markets review, not a game production reprioritisation.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Shared phase sequence and existing roadmap remain unchanged; this is the requested bounded Markets review, not a game production reprioritisation.
+
+Verification: passed / Shared phase sequence and existing roadmap remain unchanged; this is the requested bounded Markets review, not a game production reprioritisation. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Append record114 with requested scope, exact source and publication limits; preserve all earlier records.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Append record114 with requested scope, exact source and publication limits; preserve all earlier records.
+
+Verification: passed / Append record114 with requested scope, exact source and publication limits; preserve all earlier records. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Workflows and handoff — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Existing canonical/publication workflow and private/public separation retained; no new service or game changes.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Existing canonical/publication workflow and private/public separation retained; no new service or game changes.
+
+Verification: passed / Existing canonical/publication workflow and private/public separation retained; no new service or game changes. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Export new storyboard in the existing public record and regenerate the existing public reader.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Export new storyboard in the existing public record and regenerate the existing public reader.
+
+Verification: passed / Export new storyboard in the existing public record and regenerate the existing public reader. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish only reviewed generated Blueprint output to taniab1975/career-empire-blueprint and verify Pages, bytes and browser.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Publish only reviewed generated Blueprint output to taniab1975/career-empire-blueprint and verify Pages, bytes and browser.
+
+Verification: pending / Scoped verification pending.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+
+Next: Publish generated Blueprint output to existing taniab1975/career-empire-blueprint then verify exact Pages commit, served hashes,20images and desktop/mobile review routes.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Replace Markets entry with28proposed screens covering full student flow, tests, help and transitions; retain earlier all-phase review.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Replace Markets entry with28proposed screens covering full student flow, tests, help and transitions; retain earlier all-phase review.
+
+Verification: passed / Replace Markets entry with28proposed screens covering full student flow, tests, help and transitions; retain earlier all-phase review. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Markets proposal moves observation before acceptance and definition after noticing; phase order and other experiences remain unchanged.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Markets proposal moves observation before acceptance and definition after noticing; phase order and other experiences remain unchanged.
+
+Verification: passed / Markets proposal moves observation before acceptance and definition after noticing; phase order and other experiences remain unchanged. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Curriculum and reciprocal mappings — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Check exact2027SCSA printedp9andglossaryp22; retain197existing entries and mappings unchanged; add step-specific Blueprint IDs.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Check exact2027SCSA printedp9andglossaryp22; retain197existing entries and mappings unchanged; add step-specific Blueprint IDs.
+
+Verification: passed / Check exact2027SCSA printedp9andglossaryp22; retain197existing entries and mappings unchanged; add step-specific Blueprint IDs. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Year plan and assessment — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Distinguish recognition, self-reported recall, unrecorded required responses, saved simulation facts and proposed teacher review.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Distinguish recognition, self-reported recall, unrecorded required responses, saved simulation facts and proposed teacher review.
+
+Verification: passed / Distinguish recognition, self-reported recall, unrecorded required responses, saved simulation facts and proposed teacher review. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+No dashboard collection or marking added; current answer limits and future teacher evidence remain explicit.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: No dashboard collection or marking added; current answer limits and future teacher evidence remain explicit.
+
+Verification: passed / No dashboard collection or marking added; current answer limits and future teacher evidence remain explicit. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### World, rewards and progression — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+No game world, mechanics or runtime changes; proposed sign/queue/role panels stay in Blueprint only.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: No game world, mechanics or runtime changes; proposed sign/queue/role panels stay in Blueprint only.
+
+Verification: passed / No game world, mechanics or runtime changes; proposed sign/queue/role panels stay in Blueprint only. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Buildings and places — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Juniper layout remains unchanged; new panels describe existing setting controls and proposed presentation only.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Juniper layout remains unchanged; new panels describe existing setting controls and proposed presentation only.
+
+Verification: passed / Juniper layout remains unchanged; new panels describe existing setting controls and proposed presentation only. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Compile the Blueprint reader and inspect responsive panels; no game build or acceptance claim.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Compile the Blueprint reader and inspect responsive panels; no game build or acceptance claim.
+
+Verification: passed / Compile the Blueprint reader and inspect responsive panels; no game build or acceptance claim. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Add fresh actual campus capture, retain dated actual Markets captures and clearly label all proposed panels; new movie remains open.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Add fresh actual campus capture, retain dated actual Markets captures and clearly label all proposed panels; new movie remains open.
+
+Verification: passed / Add fresh actual campus capture, retain dated actual Markets captures and clearly label all proposed panels; new movie remains open. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Readable student-panel mockups are Blueprint-only; actual/historical/source-only states are visible.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Readable student-panel mockups are Blueprint-only; actual/historical/source-only states are visible.
+
+Verification: passed / Readable student-panel mockups are Blueprint-only; actual/historical/source-only states are visible. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+No original game/icon/PDF asset changes; add only the actual public-campus screenshot to the Blueprint evidence folder.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: No original game/icon/PDF asset changes; add only the actual public-campus screenshot to the Blueprint evidence folder.
+
+Verification: passed / No original game/icon/PDF asset changes; add only the actual public-campus screenshot to the Blueprint evidence folder. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Avatar and wardrobe references — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+No character model, rig or identity changes. Mara movie identity remains unverified and proposed narration requires review.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: No character model, rig or identity changes. Mara movie identity remains unverified and proposed narration requires review.
+
+Verification: passed / No character model, rig or identity changes. Mara movie identity remains unverified and proposed narration requires review. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record proposal-only authority, open rice/noodles, movie identity, delayed recall and evidence-capture choices; no game approval inferred.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Record proposal-only authority, open rice/noodles, movie identity, delayed recall and evidence-capture choices; no game approval inferred.
+
+Verification: passed / Record proposal-only authority, open rice/noodles, movie identity, delayed recall and evidence-capture choices; no game approval inferred. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Use existing active publication worktree; preserve canonical and private recovery. Do not upload private source as public output.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Use existing active publication worktree; preserve canonical and private recovery. Do not upload private source as public output.
+
+Verification: passed / Use existing active publication worktree; preserve canonical and private recovery. Do not upload private source as public output. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Attach exact0599498a code-source and primary2027SCSA citations; Carolan references remain attributed rather than freshly textbook-verified.
+
+Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Attach exact0599498a code-source and primary2027SCSA citations; Carolan references remain attributed rather than freshly textbook-verified.
+
+Verification: passed / Attach exact0599498a code-source and primary2027SCSA citations; Carolan references remain attributed rather than freshly textbook-verified. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.
+
+- [Evidence](docs/production/market-storyboard-20261024.md)
+- [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
+
+Next: Retain bounded source evidence; publication verification remains a separate target.
 
 ## Historical boundary
 

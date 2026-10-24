@@ -31622,6 +31622,984 @@
       "limits": "Phase0has current versioned photo-trail component previews, not whole-flow/3D qualification. Phases2–11remain proposed with no runtime screens. Updated full-scene Market captures follow that task’s verified implementation; dated prior captures are retained as dated references."
     }
   },
+  "marketStoryboard": {
+    "title": "Sunday Markets · full curriculum storyboard",
+    "date": "24 October 2026",
+    "status": "PROPOSED student sequence for Tania to correct · Blueprint only",
+    "sourceCommit": "0599498a4692269ad080df6173e444ab0eac474a",
+    "primarySource": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
+    "sourceNote": "Primary SCSA 2027 General Year12 syllabus checked24October2026: printed p9 concept/five ways/benefits; glossary printed p22 definition. CEM IDs are Blueprint identifiers, not SCSA-issued codes. Carolan pp24–31 references are retained source/code citations, not newly reverified textbook content.",
+    "persistentHelp": "PROPOSED on every screen: Current task; replay last explanation/animation; captions or still view; optional hint; five behaviours / printable field guide; Back to current task. Hints never erase prior facts or reduce pay. Existing Optional help & resources and Journal routes remain available; persistent placement/replay is a proposed change.",
+    "captureBoundary": "Fresh24October2026 supported Mac-browser captures show the deployed market using the existing Blueprint review URL, guest Avery simulation only. Ordinary campus navigation initially paused at preparation; direct existing market-review entry loaded, then normal walking/classroom pacing gate opened Markets. Actual screenshots below are deployed UI; proposed panels remain Blueprint-only mockups. Historical15October captures retain their dated status.",
+    "behaviours": [
+      {
+        "id": "CEM12-U3-EB-02.d1",
+        "term": "being proactive",
+        "meaning": "Anticipate a likely need and take a suitable early step.",
+        "example": "Notice that two bags remain for six orders; alert Mara before the rush.",
+        "boundary": "Mara controls purchasing; first check whether spare stock is arranged."
+      },
+      {
+        "id": "CEM12-U3-EB-02.d2",
+        "term": "identifying ways to improve current work practices",
+        "meaning": "Look for a better way to do a task and check the whole effect.",
+        "example": "Compare sign wording and collection position, then check access and packing.",
+        "boundary": "A shorter collection queue alone does not prove an improvement."
+      },
+      {
+        "id": "CEM12-U3-EB-02.d3",
+        "term": "vocalising your opinions",
+        "meaning": "Share an informed suggestion constructively and listen to others.",
+        "example": "Tell Mara what the customer and Sam said; propose a small agreed trial.",
+        "boundary": "Insisting, taking over or silently changing roles is not constructive discussion."
+      },
+      {
+        "id": "CEM12-U3-EB-02.d4",
+        "term": "helping fellow workers",
+        "meaning": "Offer useful support and agree safe methods and priorities.",
+        "example": "Ask Sam what would help; sort empty bags together.",
+        "boundary": "Do not take over food handling, payments or untrained lifting."
+      },
+      {
+        "id": "CEM12-U3-EB-02.d5",
+        "term": "seeking more responsibilities",
+        "meaning": "Ask for suitable new work, training and agreed limits.",
+        "example": "Ask Mara to supervise order-number checking.",
+        "boundary": "Finish or hand over your task; ask about missing orders and avoid overload."
+      }
+    ],
+    "screens": [
+      {
+        "id": "01",
+        "title": "Meet Mara · a short welcome",
+        "trigger": "First approach to Mara; before accepting work.",
+        "text": "Hi, I’m Mara. Welcome to Juniper Kitchen! We make rice bowls for our market customers. Some people have already paid by phone; others order here. Come and watch a group with me.",
+        "visual": "Friendly Mara/Sam still or short narrated clip, captions, replay and 2–3 rice-bowl dish visuals. New movie needed; previously liked video identity is unverified. Noodles remain an open decision.",
+        "buttons": [
+          "Watch the customer group",
+          "Replay welcome",
+          "Captions / still view"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-01"
+        ],
+        "purpose": "Create a concrete workplace and a reason to investigate before naming the concept.",
+        "test": "Exposure only; no recognition, recall or mastery claim.",
+        "feedback": "Replay or use captions; no penalty for skipping motion.",
+        "evidence": "No learning evidence from opening/watching. Proposed exposure marker only, if later approved.",
+        "current": "Existing intro is a captured still with initiative definition, pay, routes and boundaries before Start my shift. Move definition to screen03; shorten front-loaded copy.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "intro"
+        ]
+      },
+      {
+        "id": "02",
+        "title": "Watch first · before taking the shift",
+        "trigger": "Welcome ends; shift has not been accepted.",
+        "text": "Watch where people go. Four phone customers have already paid. Two walk-up customers still need to order. What seems difficult for them?",
+        "visual": "Queue animation with two route colours, four prepaid tickets and two walk-up tickets; ordering and collection visibly compete. A replay does not fabricate a student trial.",
+        "buttons": [
+          "Replay group",
+          "I noticed something",
+          "Not sure — watch with a cue"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-01",
+          "CEM12-U3-EB-02.d2"
+        ],
+        "purpose": "Build a shared problem from visible consequences.",
+        "test": "Noticing/explanation prompt; guided observation, not unaided recall.",
+        "feedback": "Not sure highlights one phone customer and one walk-up; ask where each needs to go. Do not give a failure score.",
+        "evidence": "Proposed observation response can remain oral/unrecorded; if saved later, label prompted. Baseline demonstration is not a student trial.",
+        "current": "Current trial happens after accepting the shift. A compulsory pre-shift baseline demonstration is PROPOSED; no required first failure.",
+        "required": "Required in proposed core route",
+        "transition": "Return to Mara at screen03, rather than accepting work from the animation.",
+        "actualCaptureIds": [
+          "trial"
+        ]
+      },
+      {
+        "id": "03",
+        "title": "Return to Mara · name initiative",
+        "trigger": "After watching the baseline group.",
+        "text": "What did you notice? Initiative means taking a proactive approach to work tasks, challenges and unexpected events. Here, we can notice a need, check what is happening and suggest a thoughtful first step within our role.",
+        "visual": "Mara beside a paused queue still; one short definition plus customer callouts. Show exact SCSA wording in curriculum drawer, not a text wall.",
+        "buttons": [
+          "Tell Mara what I noticed",
+          "I’m not sure",
+          "Continue to the shift offer"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-01"
+        ],
+        "purpose": "Connect experience to the explicit concept at the moment of need.",
+        "test": "Explain in own words what needs attention; oral prompt is not automatically collected.",
+        "feedback": "Not sure: “Which customers have paid, and which still need to order?” Contrast initiative with waiting for every instruction and acting beyond authority.",
+        "evidence": "Proposed spoken answer is unrecorded unless an approved response capture is later added. Do not infer understanding from Continue.",
+        "current": "Move existing definition from intro to here. SCSA glossary printed p22 supports the concept; Unit3 concept is printed p9.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "intro"
+        ]
+      },
+      {
+        "id": "04",
+        "title": "Accept a bounded paid shift",
+        "trigger": "After naming the problem and concept.",
+        "text": "Will you help us try an arrangement? You can change the sign and collection position and discuss Sam’s role. Keep the emergency walkway clear. Payments and food handling stay with trained crew. Your agreed pay is $20 gross − $2 fictional community tax = $18, plus a crew pass. Help and mixed results do not reduce it.",
+        "visual": "Mara’s offer with pay ticket, role-boundary icons and one primary action.",
+        "buttons": [
+          "Accept my shift",
+          "Ask about the job",
+          "Not now"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-01"
+        ],
+        "purpose": "Make authority, task and fair pay explicit.",
+        "test": "No knowledge test; informed participation.",
+        "feedback": "Questions reopen the offer. Not now returns to exploration without recording work complete.",
+        "evidence": "Existing accepted flag records accepting a simulation job, not competence.",
+        "current": "Existing Start my shift/acceptance and fixed pay retained. New placement after observation is proposed.",
+        "required": "Required in proposed core route",
+        "transition": "Accept → five-way preview05. Not now → world; Mara can reopen this offer.",
+        "actualCaptureIds": [
+          "intro"
+        ]
+      },
+      {
+        "id": "05",
+        "title": "Preview the exact five ways",
+        "trigger": "Immediately after acceptance; concise overview, details on demand.",
+        "text": "You can show initiative in five ways. You do not have to perform them as a fixed sequence. We’ll connect them to what you try and check them after the trial.",
+        "visual": "Five cards with exact labels: being proactive; identifying ways to improve current work practices; vocalising your opinions; helping fellow workers; seeking more responsibilities. Tap a card for meaning/example/boundary.",
+        "buttons": [
+          "Plan my first step",
+          "Open a behaviour card",
+          "Replay explanation"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d1",
+          "CEM12-U3-EB-02.d2",
+          "CEM12-U3-EB-02.d3",
+          "CEM12-U3-EB-02.d4",
+          "CEM12-U3-EB-02.d5"
+        ],
+        "purpose": "Preview all five syllabus behaviours without substituting a generic cycle.",
+        "test": "Exposure; card opening is not recognition or recall.",
+        "feedback": "Examples explain overlap. A queue setting alone is not proof of all five behaviours.",
+        "evidence": "No mastery from views. Five action opportunities remain optional and separately recorded.",
+        "current": "Definitions/examples/boundaries and printable field guide already exist as optional resources. The early compact overview is proposed.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "resource"
+        ]
+      },
+      {
+        "id": "06",
+        "title": "Investigate · ask the customer and Sam",
+        "trigger": "After preview; before choosing an arrangement.",
+        "text": "What information would help? Ask the phone customer, watch the queue, or ask Sam how packing works. You can also test the current arrangement.",
+        "visual": "World interactions: customer speech, queue route overlay and Sam at packing bench. One current-task strip.",
+        "buttons": [
+          "Ask customer",
+          "Observe queue",
+          "Ask Sam",
+          "Test existing setup"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d2",
+          "CEM12-U3-EB-02.d3",
+          "CEM12-U3-EB-02.d4"
+        ],
+        "purpose": "Use information and colleagues’ perspectives before changing practice.",
+        "test": "Application with scaffolding; explain which information matters.",
+        "feedback": "Hints offer a clue rather than requiring every information card. Opened conversation ≠ understood information.",
+        "evidence": "Current listened/observed/learned flags record opened information. Optional initiative action evidence includes learner-choice or with-hint; not unprompted workplace performance.",
+        "current": "Existing interactions retained. A staged current-task guide and persistent replay are proposed.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "world"
+        ]
+      },
+      {
+        "id": "06a",
+        "title": "Optional opportunity · Notice stock early",
+        "trigger": "After accepting the shift; student chooses an initiative opportunity from Mara or Sam.",
+        "text": "There are only two empty collection bags on the stock shelf. Six orders are expected. What will you do?",
+        "visual": "PROPOSED staged opportunity panel in the existing market; notice stock early. No new game assets deployed.",
+        "buttons": [
+          "Alert Mara before the next group",
+          "Ask whether more stock is already arranged",
+          "Stay with my current task"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d1"
+        ],
+        "purpose": "Offer a distinct opportunity to practise the exact behaviour; not require every vignette before finishing.",
+        "test": "Supported simulation application. This is not independent real-workplace performance.",
+        "feedback": "Mara checks stock and arranges replenishment. You raised a likely need early; purchasing stays with Mara. Wrong/not sure: ask or return to the current task; hint use is labelled supported.",
+        "evidence": "Current initiative-action record saves action and learner-choice/with-hint once per opportunity. No action recorded when simply opening the resource; do not infer all five from one trial.",
+        "current": "Underlying opportunity already exists on main0599498a. This concise panel is a proposed presentation; existing resource wording remains source evidence.",
+        "required": "Optional existing initiative-action opportunity",
+        "transition": "Return to06/07current task. Skipping leaves the record absent, not failed; full shift pay is unaffected.",
+        "actualCaptureIds": []
+      },
+      {
+        "id": "06b",
+        "title": "Optional opportunity · Suggest a service improvement",
+        "trigger": "After accepting the shift; student chooses an initiative opportunity from Mara or Sam.",
+        "text": "Use the customer and queue information to suggest a collection sign and an agreed trial. What might improve, and what else needs checking?",
+        "visual": "PROPOSED staged opportunity panel in the existing market; suggest a service improvement. No new game assets deployed.",
+        "buttons": [
+          "Discuss a visible collection sign",
+          "Investigate first",
+          "Return to my current task"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d2"
+        ],
+        "purpose": "Offer a distinct opportunity to practise the exact behaviour; not require every vignette before finishing.",
+        "test": "Supported simulation application. This is not independent real-workplace performance.",
+        "feedback": "Mara agrees to a trial beside the approach path. Keep ordering open and check packing as well as collection. Wrong/not sure: ask or return to the current task; hint use is labelled supported.",
+        "evidence": "Current initiative-action record saves action and learner-choice/with-hint once per opportunity. No action recorded when simply opening the resource; do not infer all five from one trial.",
+        "current": "Underlying opportunity already exists on main0599498a. This concise panel is a proposed presentation; existing resource wording remains source evidence.",
+        "required": "Optional existing initiative-action opportunity",
+        "transition": "Return to06/07current task. Skipping leaves the record absent, not failed; full shift pay is unaffected.",
+        "actualCaptureIds": []
+      },
+      {
+        "id": "06c",
+        "title": "Optional opportunity · Discuss an informed opinion",
+        "trigger": "After accepting the shift; student chooses an initiative opportunity from Mara or Sam.",
+        "text": "Explain your suggestion to Mara and listen to the crew’s reasons. What might happen if Sam guides customers instead of packing?",
+        "visual": "PROPOSED staged opportunity panel in the existing market; discuss an informed opinion. No new game assets deployed.",
+        "buttons": [
+          "Discuss customer guidance and packing",
+          "Keep the current roles",
+          "Investigate further"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d3"
+        ],
+        "purpose": "Offer a distinct opportunity to practise the exact behaviour; not require every vignette before finishing.",
+        "test": "Supported simulation application. This is not independent real-workplace performance.",
+        "feedback": "Mara asks you to compare customer access and bags ready. A constructive opinion uses information and listens; it does not take over. Wrong/not sure: ask or return to the current task; hint use is labelled supported.",
+        "evidence": "Current initiative-action record saves action and learner-choice/with-hint once per opportunity. No action recorded when simply opening the resource; do not infer all five from one trial.",
+        "current": "Underlying opportunity already exists on main0599498a. This concise panel is a proposed presentation; existing resource wording remains source evidence.",
+        "required": "Optional existing initiative-action opportunity",
+        "transition": "Return to06/07current task. Skipping leaves the record absent, not failed; full shift pay is unaffected.",
+        "actualCaptureIds": []
+      },
+      {
+        "id": "06d",
+        "title": "Optional opportunity · Offer Sam useful help",
+        "trigger": "After accepting the shift; student chooses an initiative opportunity from Mara or Sam.",
+        "text": "Ask what would help Sam and check your priorities before offering support. Can you sort empty collection bags together?",
+        "visual": "PROPOSED staged opportunity panel in the existing market; offer sam useful help. No new game assets deployed.",
+        "buttons": [
+          "Offer to sort empty bags",
+          "Ask Sam what he needs",
+          "Stay with my current task"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d4"
+        ],
+        "purpose": "Offer a distinct opportunity to practise the exact behaviour; not require every vignette before finishing.",
+        "test": "Supported simulation application. This is not independent real-workplace performance.",
+        "feedback": "Sam thanks you for preparing empty bags. Food handling and the walkway remain with trained crew; useful help respects priorities and safe methods. Wrong/not sure: ask or return to the current task; hint use is labelled supported.",
+        "evidence": "Current initiative-action record saves action and learner-choice/with-hint once per opportunity. No action recorded when simply opening the resource; do not infer all five from one trial.",
+        "current": "Underlying opportunity already exists on main0599498a. This concise panel is a proposed presentation; existing resource wording remains source evidence.",
+        "required": "Optional existing initiative-action opportunity",
+        "transition": "Return to06/07current task. Skipping leaves the record absent, not failed; full shift pay is unaffected.",
+        "actualCaptureIds": []
+      },
+      {
+        "id": "06e",
+        "title": "Optional opportunity · Ask for supervised responsibility",
+        "trigger": "After accepting the shift; student chooses an initiative opportunity from Mara or Sam.",
+        "text": "Ask Mara for a suitable new task and the training it needs. You can check order numbers with supervision.",
+        "visual": "PROPOSED staged opportunity panel in the existing market; ask for supervised responsibility. No new game assets deployed.",
+        "buttons": [
+          "Ask for supervised order-number checking",
+          "Ask about training and limits",
+          "Return to my current task"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d5"
+        ],
+        "purpose": "Offer a distinct opportunity to practise the exact behaviour; not require every vignette before finishing.",
+        "test": "Supported simulation application. This is not independent real-workplace performance.",
+        "feedback": "Mara agrees supervision. Ask her about missing orders; do not handle payments or food substitutions. Capacity and agreed limits matter. Wrong/not sure: ask or return to the current task; hint use is labelled supported.",
+        "evidence": "Current initiative-action record saves action and learner-choice/with-hint once per opportunity. No action recorded when simply opening the resource; do not infer all five from one trial.",
+        "current": "Underlying opportunity already exists on main0599498a. This concise panel is a proposed presentation; existing resource wording remains source evidence.",
+        "required": "Optional existing initiative-action opportunity",
+        "transition": "Return to06/07current task. Skipping leaves the record absent, not failed; full shift pay is unaffected.",
+        "actualCaptureIds": []
+      },
+      {
+        "id": "07",
+        "title": "Arrange · a small agreed trial",
+        "trigger": "After gathering enough information or choosing to test the baseline.",
+        "text": "Try one arrangement. Choose the sign wording and where customers see it, collection at the front or side, and whether Sam packs, greets or hands out orders. Explain your suggestion to Mara before testing.",
+        "visual": "Close view of the actual movable sign and collection bench; one setting group at a time. Preview the arrangement in the world.",
+        "buttons": [
+          "Sign wording / position",
+          "Collection front / side",
+          "Discuss Sam’s role",
+          "Run agreed trial",
+          "Keep current setup"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d2",
+          "CEM12-U3-EB-02.d3"
+        ],
+        "purpose": "Make a reasoned, reversible workplace change with agreement.",
+        "test": "Application: predict effects before observing them. Selection-only evidence does not establish reasoning.",
+        "feedback": "Invalid/unsafe arrangement keeps the student at setup with a specific explanation. No compulsory failure.",
+        "evidence": "Existing plan/share-plan/trial records preserve settings. Proposed prediction or oral explanation is not currently captured.",
+        "current": "Existing settings and agreement retained; progressive setup guidance and prediction prompt are proposed.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "trial"
+        ]
+      },
+      {
+        "id": "08",
+        "title": "Watch the trial",
+        "trigger": "Run agreed trial; accepted shift and allowed plan.",
+        "text": "Watch the same group: four prepaid phone customers and two walk-ups. Check collection clarity, ordering access and bags ready.",
+        "visual": "Roughly nine-second customer animation; sign and collection setup remain visible; three measure labels stay readable.",
+        "buttons": [
+          "Watch trial",
+          "Replay what happened",
+          "Open current task"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d2",
+          "CEM12-U3-EB-03.d2"
+        ],
+        "purpose": "Make consequences observable and comparable.",
+        "test": "Application/interpretation; no speed or engagement score.",
+        "feedback": "A mixed outcome is information. Replay explains routes; do not label the first arrangement a compulsory failure.",
+        "evidence": "Existing trial records settings, simulated outcome facts and inspected status. Animation viewing alone is not learning evidence.",
+        "current": "Existing customer counts, approximate duration and three measures retained. Proposed replay/current-task placement needs implementation later.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "trial"
+        ]
+      },
+      {
+        "id": "09",
+        "title": "Read the three outcomes",
+        "trigger": "Trial completes.",
+        "text": "What happened to pickup clarity? Could walk-up customers reach ordering? How many bags were ready? Compare all three before deciding whether the change helped.",
+        "visual": "Three large outcome cards using actual saved trial facts, not invented ideal results. Show trial number and settings.",
+        "buttons": [
+          "Record that I checked this result",
+          "Compare with earlier trial",
+          "Not sure — replay routes"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d2",
+          "CEM12-U3-EB-03.d2"
+        ],
+        "purpose": "Check whole-job consequences rather than a single attractive metric.",
+        "test": "Explanation of evidence; selecting inspected only records review.",
+        "feedback": "Not sure replays routes and explains the measures. No pay reduction for unresolved results.",
+        "evidence": "Existing inspect-trial marks inspected; outcome facts are simulation observations. A proposed spoken comparison remains unrecorded.",
+        "current": "Existing results screen says observations, not a score. Preserve that distinction.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "results"
+        ]
+      },
+      {
+        "id": "10",
+        "title": "Sam’s trade-off · revise or report",
+        "trigger": "After inspecting results and before deciding whether another trial is useful.",
+        "text": "Sam: “If I greet customers, I have less time to pack. Which part improved, and what became harder? We can try another arrangement or tell Mara what remains unresolved.”",
+        "visual": "Sam beside packing/greeting/handout role diagram; three outcomes side by side.",
+        "buttons": [
+          "Revise one setting",
+          "Ask Sam again",
+          "Keep this result and explain",
+          "Not sure — compare a model"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d2",
+          "CEM12-U3-EB-02.d3",
+          "CEM12-U3-EB-02.d4",
+          "CEM12-U3-EB-03.d2"
+        ],
+        "purpose": "Understand that helping one area can harm another; revision is evidence-led.",
+        "test": "Explain trade-off and apply a revision; no forced successful solution.",
+        "feedback": "Model compares packing with customer guidance. It is labelled a worked example, not the student’s action.",
+        "evidence": "Existing trials persist per simulation storage; hint support is distinguished for initiative vignettes. Proposed trade-off explanation not automatically recorded.",
+        "current": "Existing role trade-off and revise/finish choice retained. Specific staged conversation is proposed.",
+        "required": "Required in proposed core route",
+        "transition": "Revise →07→08→09. Keep/report →11; unresolved outcomes may proceed to full agreed pay after review.",
+        "actualCaptureIds": [
+          "results"
+        ]
+      },
+      {
+        "id": "11",
+        "title": "Explain what I learned",
+        "trigger": "Student chooses to report or finish after an inspected trial.",
+        "text": "Tell Mara: What did you try? What information helped? What happened to all three measures? Who was affected? What would you keep or change, and why?",
+        "visual": "Trial facts alongside a short oral/notes prompt; optional case note with factual record kept separate from self-report.",
+        "buttons": [
+          "Review recorded shift",
+          "Open my case note",
+          "I need a sentence starter"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-01",
+          "CEM12-U3-EB-02.d1",
+          "CEM12-U3-EB-02.d2",
+          "CEM12-U3-EB-02.d3",
+          "CEM12-U3-EB-02.d4",
+          "CEM12-U3-EB-02.d5",
+          "CEM12-U3-EB-03.d1",
+          "CEM12-U3-EB-03.d2",
+          "CEM12-U3-EB-03.d3"
+        ],
+        "purpose": "Require a causal explanation while distinguishing facts from claims.",
+        "test": "Explanation; oral or notes unless capture is explicitly added.",
+        "feedback": "Sentence starter: “I tried… because… The result was… For Sam… Next I would…” Wrong claims are compared with trial facts.",
+        "evidence": "Existing optional case note choices/download/My work receipt are self-report. Required debrief reads real recorded trial/actions; it does not collect this free explanation.",
+        "current": "Current mandatory post-trial debrief is retained; proposed explanation prompt sits before its five checks.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "record"
+        ]
+      },
+      {
+        "id": "12a",
+        "title": "Check 1 · being proactive",
+        "trigger": "Required post-trial learning review, behaviour 1 of5.",
+        "text": "Anticipate a likely need and take a suitable early step. Market example: Notice that two bags remain for six orders; alert Mara before the rush. Why does the packaging example show being proactive?",
+        "visual": "One illustrated behaviour card with definition, market example, actual recorded-action status and boundary. Mara controls purchasing; first check whether spare stock is arranged.",
+        "buttons": [
+          "It anticipates a likely shortage and raises it before work is disrupted.",
+          "It means buying supplies yourself without checking.",
+          "I’m not sure yet — show an explanation",
+          "Check this example",
+          "Next behaviour"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d1"
+        ],
+        "purpose": "Explicitly teach and check the exact behaviour, with a non-example and safe boundary.",
+        "test": "Existing selected-reason/boundary check = cued recognition and reasoning; not unaided recall. Proposed oral “why” can extend explanation, but remains unrecorded.",
+        "feedback": "Anticipating a need and alerting Mara early is being proactive. Checking existing arrangements avoids an assumption, and purchasing stays with the person authorised to do it. Correct, wrong and not sure each receive explanatory feedback; no pay reduction.",
+        "evidence": "Existing checks live in presentation memory; answer choices and correctness are not persisted or graded. Recorded initiative action, if present, is labelled learner-choice/with-hint; absent action is “illustrated here”, not performed.",
+        "current": "Already required in current un-consolidated post-trial review. Retain all five one-at-a-time checks, not generic Notice/Think/Act.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "check1",
+          "unsure"
+        ]
+      },
+      {
+        "id": "12b",
+        "title": "Check 2 · identifying ways to improve current work practices",
+        "trigger": "Required post-trial learning review, behaviour 2 of5.",
+        "text": "Look for a better way to do a task and check the whole effect. Market example: Compare sign wording and collection position, then check access and packing. Why does comparing the sign or collection position show identifying ways to improve current work practices?",
+        "visual": "One illustrated behaviour card with definition, market example, actual recorded-action status and boundary. A shorter collection queue alone does not prove an improvement.",
+        "buttons": [
+          "It investigates a possible improvement and checks the effect on the whole job.",
+          "Any change is an improvement if the collection queue looks shorter.",
+          "I’m not sure yet — show an explanation",
+          "Check this example",
+          "Next behaviour"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d2"
+        ],
+        "purpose": "Explicitly teach and check the exact behaviour, with a non-example and safe boundary.",
+        "test": "Existing selected-reason/boundary check = cued recognition and reasoning; not unaided recall. Proposed oral “why” can extend explanation, but remains unrecorded.",
+        "feedback": "An improvement needs a reason and a check of its effect. Customer access may improve while packing slows down. Compare both and respect why the current practice exists. Correct, wrong and not sure each receive explanatory feedback; no pay reduction.",
+        "evidence": "Existing checks live in presentation memory; answer choices and correctness are not persisted or graded. Recorded initiative action, if present, is labelled learner-choice/with-hint; absent action is “illustrated here”, not performed.",
+        "current": "Already required in current un-consolidated post-trial review. Retain all five one-at-a-time checks, not generic Notice/Think/Act.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "check2"
+        ]
+      },
+      {
+        "id": "12c",
+        "title": "Check 3 · vocalising your opinions",
+        "trigger": "Required post-trial learning review, behaviour 3 of5.",
+        "text": "Share an informed suggestion constructively and listen to others. Market example: Tell Mara what the customer and Sam said; propose a small agreed trial. Why does discussing the suggestion with Mara show vocalising your opinions?",
+        "visual": "One illustrated behaviour card with definition, market example, actual recorded-action status and boundary. Insisting, taking over or silently changing roles is not constructive discussion.",
+        "buttons": [
+          "It shares an informed idea constructively and listens to the crew’s reasons.",
+          "It means insisting on your idea or changing the roles without agreement.",
+          "I’m not sure yet — show an explanation",
+          "Check this example",
+          "Next behaviour"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d3"
+        ],
+        "purpose": "Explicitly teach and check the exact behaviour, with a non-example and safe boundary.",
+        "test": "Existing selected-reason/boundary check = cued recognition and reasoning; not unaided recall. Proposed oral “why” can extend explanation, but remains unrecorded.",
+        "feedback": "Vocalising your opinions involves constructive ideas, feedback or suggestions. Explain the information behind the idea and listen to other views; speaking most forcefully or taking over is not the aim. Correct, wrong and not sure each receive explanatory feedback; no pay reduction.",
+        "evidence": "Existing checks live in presentation memory; answer choices and correctness are not persisted or graded. Recorded initiative action, if present, is labelled learner-choice/with-hint; absent action is “illustrated here”, not performed.",
+        "current": "Already required in current un-consolidated post-trial review. Retain all five one-at-a-time checks, not generic Notice/Think/Act.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "check3"
+        ]
+      },
+      {
+        "id": "12d",
+        "title": "Check 4 · helping fellow workers",
+        "trigger": "Required post-trial learning review, behaviour 4 of5.",
+        "text": "Offer useful support and agree safe methods and priorities. Market example: Ask Sam what would help; sort empty bags together. Why does sorting empty bags with Sam show helping fellow workers?",
+        "visual": "One illustrated behaviour card with definition, market example, actual recorded-action status and boundary. Do not take over food handling, payments or untrained lifting.",
+        "buttons": [
+          "It offers useful support, checks priorities and stays within safe roles.",
+          "It means doing Sam’s tasks for him, including jobs you have not been trained for.",
+          "I’m not sure yet — show an explanation",
+          "Check this example",
+          "Next behaviour"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d4"
+        ],
+        "purpose": "Explicitly teach and check the exact behaviour, with a non-example and safe boundary.",
+        "test": "Existing selected-reason/boundary check = cued recognition and reasoning; not unaided recall. Proposed oral “why” can extend explanation, but remains unrecorded.",
+        "feedback": "Helping fellow workers responds to support that is actually useful. Agree priorities and safe methods; helping does not require taking over food handling or other work beyond your training. Correct, wrong and not sure each receive explanatory feedback; no pay reduction.",
+        "evidence": "Existing checks live in presentation memory; answer choices and correctness are not persisted or graded. Recorded initiative action, if present, is labelled learner-choice/with-hint; absent action is “illustrated here”, not performed.",
+        "current": "Already required in current un-consolidated post-trial review. Retain all five one-at-a-time checks, not generic Notice/Think/Act.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "check4"
+        ]
+      },
+      {
+        "id": "12e",
+        "title": "Check 5 · seeking more responsibilities",
+        "trigger": "Required post-trial learning review, behaviour 5 of5.",
+        "text": "Ask for suitable new work, training and agreed limits. Market example: Ask Mara to supervise order-number checking. Why does asking for supervised order-number training show seeking more responsibilities?",
+        "visual": "One illustrated behaviour card with definition, market example, actual recorded-action status and boundary. Finish or hand over your task; ask about missing orders and avoid overload.",
+        "buttons": [
+          "It asks for a suitable new task, training and agreed limits.",
+          "It means taking charge of payments immediately to prove you can do more.",
+          "I’m not sure yet — show an explanation",
+          "Check this example",
+          "Next behaviour"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d5"
+        ],
+        "purpose": "Explicitly teach and check the exact behaviour, with a non-example and safe boundary.",
+        "test": "Existing selected-reason/boundary check = cued recognition and reasoning; not unaided recall. Proposed oral “why” can extend explanation, but remains unrecorded.",
+        "feedback": "Seeking more responsibilities includes asking for suitable tasks or training. Agree limits and workload with Mara first. Untrained payment handling or too much responsibility too soon can cause mistakes and stress. Correct, wrong and not sure each receive explanatory feedback; no pay reduction.",
+        "evidence": "Existing checks live in presentation memory; answer choices and correctness are not persisted or graded. Recorded initiative action, if present, is labelled learner-choice/with-hint; absent action is “illustrated here”, not performed.",
+        "current": "Already required in current un-consolidated post-trial review. Retain all five one-at-a-time checks, not generic Notice/Think/Act.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "check5"
+        ]
+      },
+      {
+        "id": "13",
+        "title": "Worked example · why initiative matters",
+        "trigger": "After all five behaviour checks.",
+        "text": "Two collection bags remain for six expected orders. Check what is already arranged, alert Mara, and agree a useful first step. Explain why this could help the crew. Initiative may support empowerment and recognition, efficiency, and work opportunities; these are possible benefits, not guaranteed rewards.",
+        "visual": "Illustrated two-bag/six-order example with three benefit cards and boundary callout; model clearly labelled.",
+        "buttons": [
+          "Try a different workplace",
+          "Replay worked example"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-01",
+          "CEM12-U3-EB-02.d1",
+          "CEM12-U3-EB-02.d2",
+          "CEM12-U3-EB-02.d3",
+          "CEM12-U3-EB-02.d4",
+          "CEM12-U3-EB-02.d5",
+          "CEM12-U3-EB-03.d1",
+          "CEM12-U3-EB-03.d2",
+          "CEM12-U3-EB-03.d3"
+        ],
+        "purpose": "Connect actions, reasons, boundaries and all three workplace benefits.",
+        "test": "Worked example exposure and explanation prompt; no evidence that the learner performed this model.",
+        "feedback": "Contrast early constructive action with unauthorised purchasing. Discuss who benefits and any cost.",
+        "evidence": "Existing worked-example stage is ungraded and not a student-action record. Proposed oral benefit explanation is unrecorded.",
+        "current": "Existing required model/benefits stage retained. No automatic promotion or pay for correct terms.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "worked"
+        ]
+      },
+      {
+        "id": "14",
+        "title": "Transfer · a different workplace",
+        "trigger": "After the worked example; required current debrief route.",
+        "text": "In a bike workshop, a new colleague is struggling with a heavy box. You are not trained to lift it and your own job is about to begin. What is a thoughtful first step?",
+        "visual": "New workplace illustration; no market sign or labels giving away a fixed answer.",
+        "buttons": [
+          "Lift it alone / reorganise",
+          "Ask what support is needed, check priorities and trained help",
+          "Take over to prove responsibility",
+          "I’m not sure yet",
+          "Check my thinking"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d1",
+          "CEM12-U3-EB-02.d2",
+          "CEM12-U3-EB-02.d3",
+          "CEM12-U3-EB-02.d4",
+          "CEM12-U3-EB-02.d5"
+        ],
+        "purpose": "Apply boundaries and teamwork to a changed context.",
+        "test": "Current cued application/transfer choice; not unaided transfer performance. Proposed spoken justification would strengthen explanation.",
+        "feedback": "Each choice gets an explanation: unsafe lift risks injury; taking over can overload; suitable support checks needs and priorities. Not sure walks through the same reasoning.",
+        "evidence": "Current transfer answer is NOT saved or graded (answerSaved:false). Consolidated flag records completing the review, not correctness or independent transfer.",
+        "current": "Already required before finish/wages for an un-consolidated shift. Keep explicit unrecorded-answer label.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "transfer"
+        ]
+      },
+      {
+        "id": "15",
+        "title": "Compare reasoning · finish the review",
+        "trigger": "After a transfer response and Check my thinking.",
+        "text": "Compare your reasoning with the explanation. A useful first step checks needs, priorities, safe support and agreed limits. Which part would you change in your answer?",
+        "visual": "Response-specific feedback with one primary finish action; optional Previous part/help.",
+        "buttons": [
+          "Finish my learning review",
+          "Previous part",
+          "Open five-behaviour reference"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d1",
+          "CEM12-U3-EB-02.d2",
+          "CEM12-U3-EB-02.d3",
+          "CEM12-U3-EB-02.d4",
+          "CEM12-U3-EB-02.d5",
+          "CEM12-U3-EB-03.d1",
+          "CEM12-U3-EB-03.d2",
+          "CEM12-U3-EB-03.d3"
+        ],
+        "purpose": "Consolidate the explanation after both wrong and unsure responses.",
+        "test": "Feedback/revision opportunity; finishing is not mastery.",
+        "feedback": "No score, timer or wage reduction. Revisit the relevant example when uncertain.",
+        "evidence": "Current consolidate event persists completion only. Existing consolidated saves can bypass replay; preserve this resume behaviour and offer voluntary replay.",
+        "current": "Current required finish before pay retained. No correct-answer gate or compulsory failure.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "wrong-feedback"
+        ]
+      },
+      {
+        "id": "16",
+        "title": "Paid shift · takeaway and next destination",
+        "trigger": "Consolidated review complete; hand over to Mara.",
+        "text": "Thanks for trying it and checking the result. $20 gross − $2 fictional community tax = $18 net, plus your crew pass. Keep the Initiative field guide, replay the learning, or continue to Reception for the next paid gig (the current destination).",
+        "visual": "Pay ticket plus clear next-destination card; link field guide and optional case note; separate practice stickers from learning evidence.",
+        "buttons": [
+          "Collect agreed wages",
+          "Printable field guide",
+          "My first gig / case note",
+          "Five behaviours / recall",
+          "Continue to Reception"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-01",
+          "CEM12-U3-EB-02.d1",
+          "CEM12-U3-EB-02.d2",
+          "CEM12-U3-EB-02.d3",
+          "CEM12-U3-EB-02.d4",
+          "CEM12-U3-EB-02.d5",
+          "CEM12-U3-EB-03.d1",
+          "CEM12-U3-EB-03.d2",
+          "CEM12-U3-EB-03.d3"
+        ],
+        "purpose": "Close work fairly and preserve an accessible resource and next step.",
+        "test": "No assessment from pay, badges or destination clicks.",
+        "feedback": "Wrong/not sure and help leave agreed pay unchanged. Save/download failures show exact receipt status.",
+        "evidence": "Existing paid shift gives First gig sticker. Story sorter means all five attempted, not correct. Tell the story means describe/explain attempted, not marked. Case note is self-report; My work requires receipt.",
+        "current": "Existing pay/pass, guide, practice stickers and resources retained. Confirm exact next-destination wording before game implementation; no new game route approved. Actual24October finish says Visit Reception through the west entrance; do not silently replace this with Nora.",
+        "required": "Required in proposed core route",
+        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "actualCaptureIds": [
+          "pay",
+          "paid"
+        ]
+      },
+      {
+        "id": "17",
+        "title": "Optional Crew Recall · story sorting",
+        "trigger": "Student chooses Mara Optional help & resources → Five behaviours / recall; also Sam or Journal Initiative/reference sheet.",
+        "text": "Match each illustrated workplace story to a behaviour label. Read the explanation and try another story.",
+        "visual": "Five illustrated stories and visible labels; preserve accessible tap/drag/keyboard controls.",
+        "buttons": [
+          "Choose a label",
+          "Try another story",
+          "Back to market work"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-02.d1",
+          "CEM12-U3-EB-02.d2",
+          "CEM12-U3-EB-02.d3",
+          "CEM12-U3-EB-02.d4",
+          "CEM12-U3-EB-02.d5"
+        ],
+        "purpose": "Practise distinguishing the five ways and their overlapping examples.",
+        "test": "RECOGNITION: labels are visible. Not unaided recall.",
+        "feedback": "Wrong attempts receive explanatory retry feedback. An unsure student can open the guide and return; no correctness requirement for sticker.",
+        "evidence": "Existing initiativeRecognition records question/answer/correctness attempts, capped in practice state; Story sorter requires five attempted. Not teacher-marked mastery.",
+        "current": "Already implemented on main; older actual captures remain dated. Do not reclassify optional practice as a required shift gate.",
+        "required": "Optional existing resource",
+        "transition": "Return to previous current task; no new required progression gate.",
+        "actualCaptureIds": [
+          "recognition"
+        ]
+      },
+      {
+        "id": "18",
+        "title": "Optional no-label List / Describe / Explain",
+        "trigger": "Student chooses List / describe / explain from the resource.",
+        "text": "Without looking: list five ways to show initiative. Describe an action, how you knew to act and who was involved. Explain how it could benefit people and include a boundary. Try aloud or in your notes before revealing a model.",
+        "visual": "No visible answer labels before reveal; separate List, Describe and Explain buttons.",
+        "buttons": [
+          "List",
+          "Describe",
+          "Explain",
+          "I tried — reveal model",
+          "Back to market work"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-01",
+          "CEM12-U3-EB-02.d1",
+          "CEM12-U3-EB-02.d2",
+          "CEM12-U3-EB-02.d3",
+          "CEM12-U3-EB-02.d4",
+          "CEM12-U3-EB-02.d5",
+          "CEM12-U3-EB-03.d1",
+          "CEM12-U3-EB-03.d2",
+          "CEM12-U3-EB-03.d3"
+        ],
+        "purpose": "Offer an unaided retrieval attempt and compare with a model.",
+        "test": "Unaided recall/explanation ATTEMPT only; model reveal follows self-report. No responses collected or marked.",
+        "feedback": "Model supports comparison after a wrong/unsure attempt; revisiting does not reduce wages.",
+        "evidence": "Existing initiativeRetrieval stores kind and “self-reported attempt; model revealed; not assessed”, not the answer. Tell the story means Describe/Explain attempted.",
+        "current": "Already optional. Keep separate from visible-label recognition and required review.",
+        "required": "Optional existing resource",
+        "transition": "Return to current task or resources. No automatic delayed recall trigger is verified.",
+        "actualCaptureIds": [
+          "uncued"
+        ]
+      },
+      {
+        "id": "19",
+        "title": "Later return · recall then fresh transfer",
+        "trigger": "PROPOSED teacher-chosen later session; no automatic trigger verified.",
+        "text": "Before opening the guide, name the five ways. Choose a new workplace problem and explain a useful first step, the information you need, who to involve and a boundary. Then compare with the model.",
+        "visual": "Blank-answer or oral prompt first; new changed workplace case second; guide initially closed but always available.",
+        "buttons": [
+          "Try without labels",
+          "Need support",
+          "Reveal / compare model",
+          "Explain a new case"
+        ],
+        "curriculumIds": [
+          "CEM12-U3-EB-01",
+          "CEM12-U3-EB-02.d1",
+          "CEM12-U3-EB-02.d2",
+          "CEM12-U3-EB-02.d3",
+          "CEM12-U3-EB-02.d4",
+          "CEM12-U3-EB-02.d5",
+          "CEM12-U3-EB-03.d1",
+          "CEM12-U3-EB-03.d2",
+          "CEM12-U3-EB-03.d3"
+        ],
+        "purpose": "Check retention across time and transfer beyond the market.",
+        "test": "Proposed unaided recall plus constructed explanation/application, followed by teacher review. Do not claim implementation.",
+        "feedback": "Teacher/feedback checks concept, five accurate distinctions, reason, safe boundary and consequence. Mark use of cues/support; offer retry.",
+        "evidence": "Currently no automatic trigger, collected constructed answer or teacher mark exists. If implemented later, capture consent/scope and independent vs prompted evidence separately.",
+        "current": "PROPOSED follow-up only. Existing optional self-report practice may support it but cannot provide this evidence.",
+        "required": "Proposed later curriculum check; teacher timing and capture undecided",
+        "transition": "Teacher reviews evidence and assigns support/revisit; no game progression or reward gate approved.",
+        "actualCaptureIds": [
+          "uncued"
+        ]
+      }
+    ],
+    "decisions": [
+      "Rice bowls are existing props. Noodles were suggested but are not an agreed replacement.",
+      "New short narrated Mara film, captions, dish visuals and replay require asset authoring/review. Previously liked video identity is unverified; current intro is a captured still.",
+      "Pre-shift observation and moving the definition after it are proposed flow changes, not game implementation approval.",
+      "Decide whether later constructed recall/explanations should be collected and teacher-reviewed; current self-report prompts do not collect answers.",
+      "Confirm the next destination and teacher-chosen delayed recall timing before a later game update."
+    ],
+    "actualCaptures": [
+      {
+        "id": "exterior",
+        "src": "/evidence/market-storyboard-20261024/exterior.jpg",
+        "title": "Exterior",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "05f643db065f18d68544e157957e4ded73e7e07750f3313b65eead2fe547fb79"
+      },
+      {
+        "id": "world",
+        "src": "/evidence/market-storyboard-20261024/world.jpg",
+        "title": "World",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "b32a4e86c03add43070fb5adadafa8b3b0af9c72aca29271224065cb7a843973"
+      },
+      {
+        "id": "intro",
+        "src": "/evidence/market-storyboard-20261024/intro.jpg",
+        "title": "Intro",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "0d926c05fa9bfa967ae21af27b841c7723e6ae678697edfc4dfb33687e59d139"
+      },
+      {
+        "id": "trial",
+        "src": "/evidence/market-storyboard-20261024/trial.jpg",
+        "title": "Trial",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "ec16995c62cc81df0aadcb7f303170fcf2d4c432b184ff6e3f23425ca09f672e"
+      },
+      {
+        "id": "results",
+        "src": "/evidence/market-storyboard-20261024/results.jpg",
+        "title": "Results",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "b51ae1479092ead480816e6c96aa811b1d12161e165b32baca7f26107a350c51"
+      },
+      {
+        "id": "record",
+        "src": "/evidence/market-storyboard-20261024/record.jpg",
+        "title": "Record",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "836dff38fb1362e43b533ecd584d51591b2b9b8756dfe48e0a5601dc2a8e58c0"
+      },
+      {
+        "id": "check1",
+        "src": "/evidence/market-storyboard-20261024/check1.jpg",
+        "title": "Check1",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "0f8c9ec7f2dee8490777ee2496b781e8d1afa1600cff07011c7b367898be13d9"
+      },
+      {
+        "id": "check2",
+        "src": "/evidence/market-storyboard-20261024/check2.jpg",
+        "title": "Check2",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "0d7da2097ec101b7985ea06cabdd49d656d819cd34776c78285d0f31838a6360"
+      },
+      {
+        "id": "check3",
+        "src": "/evidence/market-storyboard-20261024/check3.jpg",
+        "title": "Check3",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "34b723eeb49bf5fd50dba067208f9805694e58f694dcb4b379b6de9f67a9017b"
+      },
+      {
+        "id": "check4",
+        "src": "/evidence/market-storyboard-20261024/check4.jpg",
+        "title": "Check4",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "9e51b52c40052fc9122da35b57b8f8f358e3e7d398f54f304838380b77aeda56"
+      },
+      {
+        "id": "check5",
+        "src": "/evidence/market-storyboard-20261024/check5.jpg",
+        "title": "Check5",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "7c4a9483cf963fda424771df8de788038e7976be842b1cf492e52c296c96b575"
+      },
+      {
+        "id": "unsure",
+        "src": "/evidence/market-storyboard-20261024/unsure.jpg",
+        "title": "Unsure",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "b0736ee918429f27ec53e4f411906631495d0dce6e7a58a52c138ee479167c92"
+      },
+      {
+        "id": "worked",
+        "src": "/evidence/market-storyboard-20261024/worked.jpg",
+        "title": "Worked",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "d8470feddde690e7d847a2eb3faee9da9b942698250190b449be3b457cb0cd81"
+      },
+      {
+        "id": "transfer",
+        "src": "/evidence/market-storyboard-20261024/transfer.jpg",
+        "title": "Transfer",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "8d0f7faf53796dd3933daab9a1059f7a48bc52f34a6f1ceaeb15ba9c2664a362"
+      },
+      {
+        "id": "wrong-feedback",
+        "src": "/evidence/market-storyboard-20261024/wrong-feedback.jpg",
+        "title": "Wrong Feedback",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "22d20fd204aca1feb5a87bfbade5bde7201465a7f05493672278859801e357a5"
+      },
+      {
+        "id": "pay",
+        "src": "/evidence/market-storyboard-20261024/pay.jpg",
+        "title": "Pay",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "405f3cdef4017a8a586f46d5bb26bd690ef88a55e2f55757650c759631935ca2"
+      },
+      {
+        "id": "paid",
+        "src": "/evidence/market-storyboard-20261024/paid.jpg",
+        "title": "Paid",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "27c91a5021c1c157795e34f038eac81e5faa122c62fd31d75e3d42c75e69703f"
+      },
+      {
+        "id": "resource",
+        "src": "/evidence/market-storyboard-20261024/resource.jpg",
+        "title": "Resource",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "bcfff8f8207baf949a6856c09ad075da41ed2ae6b81525510beed073aa2f98d5"
+      },
+      {
+        "id": "recognition",
+        "src": "/evidence/market-storyboard-20261024/recognition.jpg",
+        "title": "Recognition",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "a0d5206458238b7d1fa7366eabf866724c2d649b517933f3a34aca64a347ed78"
+      },
+      {
+        "id": "uncued",
+        "src": "/evidence/market-storyboard-20261024/uncued.jpg",
+        "title": "Uncued",
+        "caption": "ACTUAL DEPLOYED GAME ·24October2026 · supported Mac browser · existing market-review route; fictional guest Avery, no authenticated learner record.",
+        "sha256": "eefd065c923678cf1c9c3ce1abca9b21f749b11d1046ff33c494b5e5d1e576ba"
+      }
+    ]
+  },
   "courseTracking": {
     "id": "CE-COURSE-TRACKING-20261015",
     "status": "Unpublished documentation candidate; no learner data or new backend",
@@ -31845,7 +32823,7 @@
       "backendUnknown": "No authenticated school session queried. Real class scope, database isolation, writes/review persistence and new Markets links remain unverified."
     }
   },
-  "revision": "V2.31 / 22 October 2026",
+  "revision": "V2.32 / 24 October 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -31870,14 +32848,14 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.31",
-      "date": "2026-10-22",
-      "label": "V2.31 / 22 October 2026",
-      "status": "Scoped V2.31collapsed-default candidate ready; live verification pending",
+      "id": "V2.32",
+      "date": "2026-10-24",
+      "label": "V2.32 / 24 October 2026",
+      "status": "Reviewed V2.32storyboard candidate; public deployment pending",
       "purpose": "Career Empire is a connected learning-design project. This scoped Blueprint update teaches from the syllabus first: meaningful experience, explicit instruction, supported application, feedback and durable understanding. Curriculum ways and benefits stay central; no competing named guide or draft song is added to core learning.",
       "audience": "Colleagues reviewing the current game and learning design; teacher delivery program remains in development.",
       "owner": "Tania Byrnes",
-      "scope": "Curriculum hierarchy default disclosure state only. Exact content, mappings, pedagogy and the game remain unchanged."
+      "scope": "Full Markets curriculum storyboard proposal and labelled evidence; game unchanged."
     },
     "navigation": [
       {
@@ -32068,7 +33046,7 @@
       "activeMilestoneId": "CE-CONTINUITY-01",
       "objective": "Make the purpose, current design, implementation limits and next decisions understandable to a new colleague.",
       "now": "V2.29 all-phase walkthroughs and whole-course tracking reader are published and independently verified. Exact curriculum, dated isolated Markets captures and actual legacy fictional demo remain distinct from proposed teaching, opening handover and authenticated integrations.",
-      "next": "Author and review core learning materials, purposeful application and appropriate learner evidence across the shared phases. Agree pacing and school assessment dates before setting lessons. Game PR57 triage and game icon adoption remain separate work.",
+      "next": "Author and review core learning materials: Tania corrects the28screen Markets proposal, teacher-only authenticated dashboard, optional portfolio scaffold and reward/tax/town-state boundaries. Preserve the shared phases and separate later game approval.",
       "then": "Author and review core learning materials, purposeful application and appropriate evidence across the shared phases; align school pacing and assessment dates before setting lessons.",
       "later": "Implement the agreed connected course and verify classroom, accessibility, school and learner-evidence requirements separately.",
       "sequence": [
@@ -32406,7 +33384,7 @@
         "V2-D03",
         "V2-D18"
       ],
-      "nextAction": "Author and review core learning materials, purposeful application and appropriate learner evidence across the shared phases. Agree pacing and school assessment dates before setting lessons. Game PR57 triage and game icon adoption remain separate work.",
+      "nextAction": "Author and review core learning materials: Tania corrects the28screen Markets proposal, teacher-only authenticated dashboard, optional portfolio scaffold and reward/tax/town-state boundaries. Preserve the shared phases and separate later game approval.",
       "doneWhen": "Core materials and meaningful application/evidence are authored and reviewed against the exact curriculum and school assessment requirements. Blueprint publication, game integration, school permission and learner mastery have separate evidence.",
       "boundary": "Tania explicitly approved publication of the reviewed Blueprint on15October. This does not approve a game release, student trial, new backend or completed teacher program."
     },
@@ -33232,18 +34210,18 @@
       "asOf": "2026-09-17",
       "canonical": "Existing Blueprint source; published site and exports are dated views of that source",
       "publication": {
-        "sourceRevision": "V2.30 / Blueprint reader",
+        "sourceRevision": "V2.31 / Blueprint reader",
         "baselineCommit": "1fc998adcfbb365dc469cb5708be75880f1c57c5",
-        "observedLiveRevision": "V2.30 / GitHub Pages",
-        "checkedAt": "2026-10-21T03:04:52.651266+00:00",
-        "observedLiveSha256": "346f3d9cd4275ce1c40fb178d9a44dd2aa1edc6392012dc9b63305e754f9375a",
-        "accessCheck": "Existing public generated Blueprint only. Authorised21Octoberreader push completed; no private recovery upload.",
+        "observedLiveRevision": "V2.31 / GitHub Pages",
+        "checkedAt": "2026-10-22T00:06:42.800530+00:00",
+        "observedLiveSha256": "0526ed9f1ce4b81ef3dbc9d28bad3e5f39e6cdd03648651c5449fa16e0a9254c",
+        "accessCheck": "Existing public generated Blueprint only; expressly authorised collapsed-default publication completed. No private recovery upload.",
         "validationReceipt": "/publication-manifest.json",
-        "status": "Public53484816ca75fe43dc624cfd57c7fbc5e9c6cf06; source d62cf54f5139ed0a337ff3fe17bf91bc74e5dc94; Pages1301468454built. All16changed served file hashes match;31live desktop/mobile Chrome checks pass with no JavaScript errors. Actual pixels inspected. Exact197curriculum entries,45partial cautions,21ESTselections,27icons and original mappings retained. No game, backend or learner-data changes.",
-        "savedVersionId": "d62cf54f5139ed0a337ff3fe17bf91bc74e5dc94",
-        "deploymentId": "GitHub Pages /1301468454",
-        "parity": "Exact deployed source/manifest and all16changed served hashes verified;31live desktop/mobile reader checks pass.",
-        "resume": "Retain the verified V2.30reader and receipt. Continue new Market runtime and full-scene review in the separate game task. Preserve exact curriculum and optional creative supports; no competing named core model. Do not rebuild solely for this private metadata closure.",
+        "status": "Public1f5f942edb5c13d143cc2c3d75d26744132ac0ef; source ec7596369a2b4dd1690899970cc75aa641a671bf; Pages1303962466built. All13changed served hashes match.51live desktop/mobile Chrome checks pass with no JavaScript errors; actual pixels inspected. Curriculum groups start collapsed on initial load, reload and history return; click/keyboard and global controls remain functional. All197exact points, sources, mappings and V2.30pedagogy retained. No game change or deletion.",
+        "savedVersionId": "ec7596369a2b4dd1690899970cc75aa641a671bf",
+        "deploymentId": "GitHub Pages /1303962466",
+        "parity": "Exact deployed manifest and all13changed served files verified;51live desktop/mobile disclosure checks pass.",
+        "resume": "Retain V2.31and the scoped receipt. Preserve exact curriculum and teaching principles. This private metadata closure does not change the deployed artifact identity; do not rebuild solely for this receipt.",
         "targetUrl": "https://taniab1975.github.io/career-empire-blueprint/",
         "primaryHost": "GitHub Pages",
         "legacySite": {
@@ -33252,8 +34230,8 @@
           "recordSha256": "ebe2fc4bf0c1b05a85326501a3bdd5d331fed089d7727582be81de6c31c4400b",
           "redirect": "Requested; blocked by owning-account access"
         },
-        "observedPublicCommit": "53484816ca75fe43dc624cfd57c7fbc5e9c6cf06",
-        "hashScope": "Deployed V2.30artifact from source d62cf54. This later private metadata/evidence closure is not another public build.",
+        "observedPublicCommit": "1f5f942edb5c13d143cc2c3d75d26744132ac0ef",
+        "hashScope": "Deployed V2.31artifact from source ec7596369a2b4dd1690899970cc75aa641a671bf; later private closure is not a new public build.",
         "manifestUrl": "https://taniab1975.github.io/career-empire-blueprint/publication-manifest.json"
       },
       "registers": [
@@ -35749,20 +36727,44 @@
           "domain": "Blueprint curriculum planner disclosure state",
           "source": "Tania explicitly requests a live update: all curriculum points on the Curriculum and experiences learning page must start/load collapsed, including reload and return navigation; normal expansion remains available.",
           "owner": "Codex Blueprint maintainer",
-          "status": "Reviewed V2.31candidate ready for authorised guarded publication",
+          "status": "Scoped V2.31reader published and independently verified",
           "rationale": "The complete hierarchy currently starts expanded, producing a long initial table. Start every unit, component and area closed while preserving all existing records and controls.",
           "dependencies": [],
           "evidence": [
             "docs/production/curriculum-collapsed-default-20261021.md",
-            "app/planner-runtime.js"
+            "app/planner-runtime.js",
+            "private/production-evidence/2026-10-21/curriculum-collapsed/publication-receipt.json"
           ],
-          "nextAction": "Publish reviewed generated Blueprint output through existing guarded Pages workflow, then verify exact remote/deployment identities and live desktop/mobile disclosure behavior.",
+          "nextAction": "Retain the verified release and scoped receipt. No further action is required for the collapsed-default request; unrelated game and learning-design work remains separate.",
           "supersededRecord": null,
           "designApproval": "User explicitly authorises this narrow live Blueprint default-state update. No game or content revision is included.",
           "implementation": "Every curriculum unit/component/area and home grouping starts closed. Existing disclosure buttons retain click/keyboard focus; global controls open or close the hierarchy, direct point links reveal their ancestry, and restored browser pages reset closed. No content or mappings changed.",
-          "deployment": "Not published; existing V2.30 remains live.",
-          "testing": "115repository tests, TypeScript, focused lint and client build pass.51source and51compiled desktop/390px Chrome checks pass with no page errors; screenshots inspected. Initial, reload and history-return states close all groups; click/Enter/Space and global controls remain functional. Exact197entries and45partial cautions retained.",
+          "deployment": "Public1f5f942edb5c13d143cc2c3d75d26744132ac0ef; source ec7596369a2b4dd1690899970cc75aa641a671bf; Pages1303962466built. All13changed served hashes match.51live desktop/mobile Chrome checks pass with no JavaScript errors; actual pixels inspected. Curriculum groups start collapsed on initial load, reload and history return; click/keyboard and global controls remain functional. All197exact points, sources, mappings and V2.30pedagogy retained. No game change or deletion.",
+          "testing": "115repository tests, types, focused lint, production client build and all release guards pass.51source,51compiled and51live desktop/mobile Chrome checks pass with no page errors.13served hashes match; live desktop/phone pixels inspected.",
           "taniaAcceptance": "Publication requested; successful live behavior remains to verify."
+        },
+        {
+          "id": "CE-CHANGE-20261024-114",
+          "date": "2026-10-24",
+          "title": "Full Markets curriculum storyboard for review",
+          "domain": "Blueprint-only student learning design and evidence",
+          "source": "Tania requests the storyboard experience in the existing Blueprint with screenshots and curriculum content, timing, presentation and tests.",
+          "owner": "Codex Blueprint maintainer; Tania design reviewer",
+          "status": "Ready for Blueprint publication; Tania design corrections pending",
+          "rationale": "Replace the incomplete Markets review entry with28readable proposed screen panels and explicit current/source/evidence boundaries while retaining earlier content. Later user request adds reconciled reward/tax/town progression, an optional evidence-based portfolio scaffold and a teacher-only authenticated dashboard proposal; no settled formulas or new implementation.",
+          "dependencies": [],
+          "evidence": [
+            "docs/production/market-storyboard-20261024.md",
+            "data/market-storyboard.json",
+            "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+          ],
+          "nextAction": "Validate reader and publish reviewed generated output to the existing Blueprint destination; verify live before claiming publication.",
+          "supersededRecord": null,
+          "designApproval": "Proposal for Tania to correct; no game implementation approval.",
+          "implementation": "Blueprint-only proposed panels, exact curriculum/evidence notes, actual campus and historical actual Markets screenshots.",
+          "deployment": "Pending existing Blueprint Pages publication and independent served/browser verification.",
+          "testing": "115repository tests, TypeScript and focused lint pass.28source and28compiled storyboard screens pass supported-browser content checks; representative390pxmobile checks show no page overflow.20fresh deployed-game captures inspected; no game change.",
+          "taniaAcceptance": "Review and corrections requested; design not yet accepted."
         }
       ],
       "sessionStart": [
@@ -49745,10 +50747,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20261021-113"
+        "CE-CHANGE-20261024-114"
       ],
-      "scope": "V2.31 narrow collapsed-on-load curriculum hierarchy; exact V2.30content and pedagogy retained.",
-      "disclosure": "Only static reader disclosure behavior changes. Game implementation, learning evidence, unrelated backlog and prior dated screenshots are unchanged; publication requires fresh deployment verification.",
+      "scope": "V2.32full Markets curriculum storyboard proposal in the existing Blueprint only.",
+      "disclosure": "Blueprint-only28screen proposal with20fresh actual deployed Markets screenshots; teacher-only authenticated dashboard, optional portfolio and reward/tax/town-state links remain proposals. No game/login/backend or academic-to-earnings formula implemented.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -49937,16 +50939,19 @@
         "docs/production/material-changes.md",
         "public/evidence/discovery-components-20261021/gift-desktop-preview.png",
         "docs/production/change-integration.md",
-        "docs/production/curriculum-collapsed-default-20261021.md"
+        "docs/production/curriculum-collapsed-default-20261021.md",
+        "data/market-storyboard.json",
+        "docs/production/market-storyboard-20261024.md",
+        "app/market-review-extensions.tsx"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "501d445c7491baf8bd94d51ebf204bc323d1ade51c40fb35380f84b6470d89db"
+          "sha256": "06a63d090128629c51fd2aef43599626459d077c62c0aadb47430c6ed2bd18ca"
         },
         {
           "path": "README.md",
-          "sha256": "46728e99f9943f3635bfc6564310a94a84cca66add90e5c0ca4f80757ae0b78f"
+          "sha256": "c9753459a623f679eaef1d0cbd96e47cf4d6414465295d093d9a225a5186c43f"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -49978,7 +50983,7 @@
         },
         {
           "path": "app/globals.css",
-          "sha256": "89e4c56e3954153c9d963fa0875fe56f41ee765c76b7e4c38c0cf3d5c7d88c29"
+          "sha256": "2a5f98fc60faea1f7b25dde4948ae399a0d90b6442d6b6705aea95cc55ffa92a"
         },
         {
           "path": "app/learning-map.tsx",
@@ -49994,7 +50999,7 @@
         },
         {
           "path": "data/blueprint.ts",
-          "sha256": "b4bb505c653b860c36ab94cd5ad7cb73e4f2155c2e1a43f29c038225c6153ff8"
+          "sha256": "0eb347468a55900890abbaadfca682377a2c6954b3e69c67c690a2023701fb48"
         },
         {
           "path": "data/change-workflows.json",
@@ -50014,7 +51019,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "3cf58d4541b36eb69e6a2461c3b71da4240975a25c4849b982a785f076a933fa"
+          "sha256": "ffba214ed5e901e361f264019ccf9ff2ce458ea28dfe778e1a768474815feb35"
         },
         {
           "path": "data/refresh-checkpoint.json",
@@ -50038,7 +51043,7 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "f704447993e76340909d63812458e953a8f6dc4966f2a1b06b4107ecd357bf8e"
+          "sha256": "51f0def19e67ea05495a8eb6789e0a0e4044d288f5a50635503f78920bf9cf27"
         },
         {
           "path": "docs/production/change-workflows.md",
@@ -50110,7 +51115,7 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "5ba7c49f07e53d19f85352f09c305059c4a7004f9ee47f2d1fa0687b8290e8cc"
+          "sha256": "0c7906d0d6f6e155f3c58ce38ee85e7896875d2b47943560c6be999162a386cd"
         },
         {
           "path": "scripts/plan-change.mjs",
@@ -50598,7 +51603,7 @@
         },
         {
           "path": "data/public-reader-documents.json",
-          "sha256": "42ff561b25593a273731dbc79576b35b25af36903b68aa3a32d8fc282995d698"
+          "sha256": "79ec0c4a2a9e9f043f04dc14e4fbc3c6007e37e40b98d9dd2577d8d13c3fbc1f"
         },
         {
           "path": "app/blueprint-app.tsx",
@@ -50634,7 +51639,7 @@
         },
         {
           "path": "app/markets-review.tsx",
-          "sha256": "2a91e523257ba1a1e23e59b6a289a951f5e67f246147c3694c3a9d2b2d35fed8"
+          "sha256": "9222e7d150c1835b65efec44aeda1675d70d2e08ab6f524a7a44878856b5686a"
         },
         {
           "path": "docs/production/markets-implementation-review-20261015.md",
@@ -50650,11 +51655,11 @@
         },
         {
           "path": "app/phase-walkthrough.tsx",
-          "sha256": "97b40ba2aacd98e60cb9a26daa72b633f1d0ad1be3f985c52e0049d7d6a4a58b"
+          "sha256": "5652677fa63aa22e88e443c13830bd5596e0d6f13cb786e805c179d581912f4e"
         },
         {
           "path": "app/course-tracking.tsx",
-          "sha256": "4340a6379662d7a004faa74d58f8d11d5e11ed1d1178b393d6da2dad9f2c14f9"
+          "sha256": "48cc80e63c5b004ad73f3cf3b9f6b87fcb88ac19fafe916cb0fc1d734448647d"
         },
         {
           "path": "data/course-tracking.json",
@@ -50670,11 +51675,11 @@
         },
         {
           "path": "docs/production/change-integration.md",
-          "sha256": "b0abea33065a81d344db66db09c4e9b13c8d767c73d9ba8803382178582148d9"
+          "sha256": "c838f1c21b96fed5a2042efbed3920662bb2d033fe8abdb1da939083fb874f77"
         },
         {
           "path": "docs/production/material-changes.md",
-          "sha256": "b69ff7089ef4aefcb7605e973e0358f41a4c82cc2e3f05a8fb2ff49412e890d5"
+          "sha256": "7b363625eb78db98a199b7b99969b8dfb2eed327948d8252a8d4fbd8dc662cbd"
         },
         {
           "path": "docs/production/learning-principles-20261021.md",
@@ -50690,7 +51695,19 @@
         },
         {
           "path": "docs/production/curriculum-collapsed-default-20261021.md",
-          "sha256": "ef23cc0bc9865475c2728e1bd1e8483beea01ab5b9f853704e07fbd6e14dce29"
+          "sha256": "a84dc50bbfa3ad26ee825094ed59d470e78caa2b048a51492030fc11429633c8"
+        },
+        {
+          "path": "data/market-storyboard.json",
+          "sha256": "bcffd8f8ea959552129aeda24d8a604f252c1dbe8b0e1c51f886b63e96d98264"
+        },
+        {
+          "path": "docs/production/market-storyboard-20261024.md",
+          "sha256": "510e62148092a9a53227e3d13d3aa75e3e39ded57ee4224a683e7dc87ba5b25a"
+        },
+        {
+          "path": "app/market-review-extensions.tsx",
+          "sha256": "e397c825ef51b3611ea50a45cc99d7ace7012e59a6c7a47b101c6c888af93b10"
         }
       ]
     },
@@ -85026,13 +86043,13 @@
         "types": [
           "implementation"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Start the existing learning planner collapsed on initial load, reload and return while keeping click and keyboard expansion working.",
         "before": "Unit, component and area groups are initially expanded and all197 curriculum rows render at once.",
         "after": "All hierarchy groups begin closed; existing curriculum remains available through normal disclosure controls.",
         "source": "Tania21October2026explicit narrow live update request for the existing learning page.",
         "owner": "Codex Blueprint maintainer",
-        "nextAction": "Publish only the reviewed generated reader, then independently verify deployed bytes and actual live disclosure state.",
+        "nextAction": "Retain the verified scoped V2.31release and exact receipt; no remaining gate for this default-state request.",
         "securityPrivacyImpact": {
           "baseline": "WA-DOE-v4c",
           "waQuestionIds": [],
@@ -85185,7 +86202,7 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
+            "disposition": "updated",
             "action": "Publish reviewed generated output to the authorised existing Blueprint site, then verify remote commit, Pages identity, served hashes and actual live disclosure behavior.",
             "records": [
               "CE-CHANGE-20261021-113"
@@ -85193,14 +86210,14 @@
             "owner": "Codex Blueprint maintainer",
             "acceptance": "Publish reviewed generated output to the authorised existing Blueprint site, then verify remote commit, Pages identity, served hashes and actual live disclosure behavior.",
             "evidence": [
-              "docs/production/curriculum-collapsed-default-20261021.md"
+              "private/production-evidence/2026-10-21/curriculum-collapsed/publication-receipt.json"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Fresh scoped verification pending.",
-              "date": "2026-10-21"
+              "result": "passed",
+              "method": "Public1f5f942edb5c13d143cc2c3d75d26744132ac0ef; source ec7596369a2b4dd1690899970cc75aa641a671bf; Pages1303962466built. All13changed served hashes match.51live desktop/mobile Chrome checks pass with no JavaScript errors; actual pixels inspected. Curriculum groups start collapsed on initial load, reload and history return; click/keyboard and global controls remain functional. All197exact points, sources, mappings and V2.30pedagogy retained. No game change or deletion.",
+              "date": "2026-10-22"
             },
-            "nextAction": "Push authorised reviewed generated output; require exact Pages built commit, served hashes and51fresh live desktop/mobile checks before closure."
+            "nextAction": "Retain the immutable deployed artifact identity; do not rebuild solely to change the private receipt."
           },
           {
             "surface": "build",
@@ -85334,6 +86351,520 @@
               "date": "2026-10-22"
             },
             "nextAction": "Retain exact scoped proof; independently verify publication."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20261024-114",
+        "title": "Full Markets curriculum storyboard for review",
+        "types": [
+          "activity",
+          "visual",
+          "research",
+          "implementation",
+          "release"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Provide the complete28screen proposed student journey with exact curriculum, student text/actions, feedback and evidence boundaries for Tania to correct.",
+        "before": "Markets route shows a dated abbreviated implementation review; latest required learning sequence and proposal timing are incomplete.",
+        "after": "Markets route shows28readable proposed panels, current/source boundaries, actual evidence and retained earlier review.",
+        "source": "Tania24October2026explicit Blueprint-only storyboard update/publication request; no game implementation authority.",
+        "owner": "Codex Blueprint maintainer; Tania design reviewer",
+        "nextAction": "Verify full reader and guarded packaging; publish only reviewed generated Blueprint output and independently verify served files.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Codex Blueprint maintainer; Tania reviews publication",
+          "scope": "Static Blueprint-only proposed storyboard, public screenshots and existing GitHub Pages destination; no student data, game mutation, new service or permission.",
+          "rationale": "Preview controls select design panels in memory. No student answer collection, game integration, media replacement or backend change.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Existing public design records only; no student records or new data collection.",
+            "locations": "Existing GitHub Pages static website; licensed originals and private evidence remain outside generated public artifacts.",
+            "accessCountries": "Existing public website access; no new account-data transfer or provider.",
+            "providers": "Existing GitHub Pages only; no new external service is introduced.",
+            "lifecycle": "Existing public design records; private backup and evidence retain owner access.",
+            "encryption": "Existing HTTPS hosting; no new claim about student storage or encryption.",
+            "logging": "No added telemetry, analytics or application logging.",
+            "identity": "No login, student identifier collection or changed account authority.",
+            "isolation": "Static design reader; school/account isolation remains unverified separately.",
+            "privacySafety": "Private files, credential tokens and licensed originals excluded from publication.",
+            "applicability": "Blueprint reporting only; no WA compliance or real-student release claim.",
+            "verification": "Static source inspected;115tests/types/lint and28source/28compiled supported-browser screen checks pass.20public-game fictional simulation screenshots only. No backend, new permissions, identity or student-data collection."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "115repository tests, TypeScript and focused lint pass.28source and28compiled storyboard screens pass supported-browser content checks; representative390pxmobile checks show no page overflow.20fresh deployed-game captures inspected; no game change."
+          ],
+          "reviewedBy": "Codex scoped source inspection",
+          "reviewedAt": "2026-10-24",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Current step now links directly to the full Markets review; release status retains publication pending.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current step now links directly to the full Markets review; release status retains publication pending.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current step now links directly to the full Markets review; release status retains publication pending. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "checked-unchanged",
+            "action": "Shared phase sequence and existing roadmap remain unchanged; this is the requested bounded Markets review, not a game production reprioritisation.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Shared phase sequence and existing roadmap remain unchanged; this is the requested bounded Markets review, not a game production reprioritisation.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Shared phase sequence and existing roadmap remain unchanged; this is the requested bounded Markets review, not a game production reprioritisation. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Append record114 with requested scope, exact source and publication limits; preserve all earlier records.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Append record114 with requested scope, exact source and publication limits; preserve all earlier records.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Append record114 with requested scope, exact source and publication limits; preserve all earlier records. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "checked-unchanged",
+            "action": "Existing canonical/publication workflow and private/public separation retained; no new service or game changes.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Existing canonical/publication workflow and private/public separation retained; no new service or game changes.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing canonical/publication workflow and private/public separation retained; no new service or game changes. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Export new storyboard in the existing public record and regenerate the existing public reader.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Export new storyboard in the existing public record and regenerate the existing public reader.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Export new storyboard in the existing public record and regenerate the existing public reader. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish only reviewed generated Blueprint output to taniab1975/career-empire-blueprint and verify Pages, bytes and browser.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Publish only reviewed generated Blueprint output to taniab1975/career-empire-blueprint and verify Pages, bytes and browser.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Scoped verification pending.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Publish generated Blueprint output to existing taniab1975/career-empire-blueprint then verify exact Pages commit, served hashes,20images and desktop/mobile review routes."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Replace Markets entry with28proposed screens covering full student flow, tests, help and transitions; retain earlier all-phase review.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Replace Markets entry with28proposed screens covering full student flow, tests, help and transitions; retain earlier all-phase review.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Replace Markets entry with28proposed screens covering full student flow, tests, help and transitions; retain earlier all-phase review. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Markets proposal moves observation before acceptance and definition after noticing; phase order and other experiences remain unchanged.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Markets proposal moves observation before acceptance and definition after noticing; phase order and other experiences remain unchanged.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Markets proposal moves observation before acceptance and definition after noticing; phase order and other experiences remain unchanged. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Check exact2027SCSA printedp9andglossaryp22; retain197existing entries and mappings unchanged; add step-specific Blueprint IDs.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Check exact2027SCSA printedp9andglossaryp22; retain197existing entries and mappings unchanged; add step-specific Blueprint IDs.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Check exact2027SCSA printedp9andglossaryp22; retain197existing entries and mappings unchanged; add step-specific Blueprint IDs. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "updated",
+            "action": "Distinguish recognition, self-reported recall, unrecorded required responses, saved simulation facts and proposed teacher review.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Distinguish recognition, self-reported recall, unrecorded required responses, saved simulation facts and proposed teacher review.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Distinguish recognition, self-reported recall, unrecorded required responses, saved simulation facts and proposed teacher review. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "No dashboard collection or marking added; current answer limits and future teacher evidence remain explicit.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "No dashboard collection or marking added; current answer limits and future teacher evidence remain explicit.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No dashboard collection or marking added; current answer limits and future teacher evidence remain explicit. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "No game world, mechanics or runtime changes; proposed sign/queue/role panels stay in Blueprint only.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "No game world, mechanics or runtime changes; proposed sign/queue/role panels stay in Blueprint only.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No game world, mechanics or runtime changes; proposed sign/queue/role panels stay in Blueprint only. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "Juniper layout remains unchanged; new panels describe existing setting controls and proposed presentation only.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Juniper layout remains unchanged; new panels describe existing setting controls and proposed presentation only.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Juniper layout remains unchanged; new panels describe existing setting controls and proposed presentation only. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Compile the Blueprint reader and inspect responsive panels; no game build or acceptance claim.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Compile the Blueprint reader and inspect responsive panels; no game build or acceptance claim.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Compile the Blueprint reader and inspect responsive panels; no game build or acceptance claim. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Add fresh actual campus capture, retain dated actual Markets captures and clearly label all proposed panels; new movie remains open.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Add fresh actual campus capture, retain dated actual Markets captures and clearly label all proposed panels; new movie remains open.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Add fresh actual campus capture, retain dated actual Markets captures and clearly label all proposed panels; new movie remains open. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Readable student-panel mockups are Blueprint-only; actual/historical/source-only states are visible.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Readable student-panel mockups are Blueprint-only; actual/historical/source-only states are visible.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Readable student-panel mockups are Blueprint-only; actual/historical/source-only states are visible. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "No original game/icon/PDF asset changes; add only the actual public-campus screenshot to the Blueprint evidence folder.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "No original game/icon/PDF asset changes; add only the actual public-campus screenshot to the Blueprint evidence folder.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No original game/icon/PDF asset changes; add only the actual public-campus screenshot to the Blueprint evidence folder. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "No character model, rig or identity changes. Mara movie identity remains unverified and proposed narration requires review.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "No character model, rig or identity changes. Mara movie identity remains unverified and proposed narration requires review.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No character model, rig or identity changes. Mara movie identity remains unverified and proposed narration requires review. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "Record proposal-only authority, open rice/noodles, movie identity, delayed recall and evidence-capture choices; no game approval inferred.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Record proposal-only authority, open rice/noodles, movie identity, delayed recall and evidence-capture choices; no game approval inferred.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Record proposal-only authority, open rice/noodles, movie identity, delayed recall and evidence-capture choices; no game approval inferred. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "checked-unchanged",
+            "action": "Use existing active publication worktree; preserve canonical and private recovery. Do not upload private source as public output.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Use existing active publication worktree; preserve canonical and private recovery. Do not upload private source as public output.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Use existing active publication worktree; preserve canonical and private recovery. Do not upload private source as public output. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Attach exact0599498a code-source and primary2027SCSA citations; Carolan references remain attributed rather than freshly textbook-verified.",
+            "records": [
+              "CE-CHANGE-20261024-114"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Attach exact0599498a code-source and primary2027SCSA citations; Carolan references remain attributed rather than freshly textbook-verified.",
+            "evidence": [
+              "docs/production/market-storyboard-20261024.md",
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Attach exact0599498a code-source and primary2027SCSA citations; Carolan references remain attributed rather than freshly textbook-verified. Verified against preserved HEAD source, primary SCSA/source0599498a and the28screen supported-browser candidate/compiled reader checks; see scoped candidate receipt.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
           }
         ]
       }
