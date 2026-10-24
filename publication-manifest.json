@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "578825bc7b9cfaf89c448cadd072149f6a10fb24",
-  "generatedAt": "2026-10-24T13:21:48.782Z",
-  "revision": "V2.33 / 24 October 2026",
-  "recordSha256": "264321fb270bddc2ca117af0c752b3fc8041fa9dd69b2b9f4a18526127da4c9e",
+  "sourceCommit": "8a3758d6a02646da80d60c0ddc51e735f22be884",
+  "generatedAt": "2026-10-24T14:19:27.433Z",
+  "revision": "V2.34 / 24 October 2026",
+  "recordSha256": "da18e5043bb25aeb4f3d0360619814195dd61cf5ef91b9f5d8b756d69e43f35c",
   "files": [
     {
       "path": "assets/curriculum-planner-4Llkf_de.js",
@@ -27,6 +27,14 @@
     {
       "path": "assets/curriculum-planner-DF-QKSCQ.js",
       "sha256": "73f6774b808e87bac3a6d35b48fd42e44313aee1b5224edba0ab7ae5dcdf2c52"
+    },
+    {
+      "path": "assets/curriculum-planner-SMmfbk_e.js",
+      "sha256": "fbca4dd38f1800fd156fd5a2e4917f3cf18504db5492e1f00b4bf8b88adb7167"
+    },
+    {
+      "path": "assets/curriculum-planner-VH9gJbN_.js",
+      "sha256": "30efb348a7b9992d817fb5e17a9105f35530f1be95d8dd813ec6c80c7cde6183"
     },
     {
       "path": "assets/index-7SLr4d5Q.css",
@@ -57,6 +65,18 @@
       "sha256": "e439ce2156f8a6306073ea9c9954d474f53852afff4f88f91caa4a1868a91e10"
     },
     {
+      "path": "assets/index-BSnn6CKG.css",
+      "sha256": "bbea73c4bbd431926568dd8c3ee731931f8927fdd397ff280510417cb1ffd864"
+    },
+    {
+      "path": "assets/index-ByaiP-Lk.js",
+      "sha256": "a787d628a1e145f333529f76355db993ae5798b3b0bd8c16f86deb0cbbcf58a8"
+    },
+    {
+      "path": "assets/index-DBT8z92w.js",
+      "sha256": "17168b2d420fa88534ab99f96c7b1d2ac1c65e288a893e9a1866d506da2af021"
+    },
+    {
       "path": "assets/index-Dn_CyJ-b.css",
       "sha256": "719e3a79d9660ce5de1c744740dd42a2c87099a876c21c2cf06248c4e2e76768"
     },
@@ -69,8 +89,12 @@
       "sha256": "7fc1e00286064d14ea5d9004769b797c407e473bd73bccab71144806473ca823"
     },
     {
+      "path": "assets/index-lL8I4ki0.css",
+      "sha256": "eea8413f06334757a76830176ae580f1f2b0f5df25952ce7aba77c1adcf7b26c"
+    },
+    {
       "path": "blueprint-records.json",
-      "sha256": "264321fb270bddc2ca117af0c752b3fc8041fa9dd69b2b9f4a18526127da4c9e"
+      "sha256": "da18e5043bb25aeb4f3d0360619814195dd61cf5ef91b9f5d8b756d69e43f35c"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1249,6 +1273,86 @@
       "sha256": "75834d48cd4c09102872e0e2a8b958c6711eb23eef5f68148ae547d14d2a1e13"
     },
     {
+      "path": "evidence/orientation-review-20261024/arrival.jpg",
+      "sha256": "d23e3351c2b3a3349b4e7a5123707e7c815af1edaaa769e77001bdc720a2f185"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/chapel-choice.jpg",
+      "sha256": "46b962890e0416ca8cdf8cb69e8b2b1b4a198c2d1b98b7ede47cff48db095e7e"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/clue-help.jpg",
+      "sha256": "d9ae784750a2ce89c2e29f240e52086505e88856afc244e1b2483fabfede6b24"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/clue-revealed.jpg",
+      "sha256": "ce4f9c3e6529d1bcd746d60f7847dd5b2857a58ea40353c1de01dbada96e9759"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/finish-choice.jpg",
+      "sha256": "f66e471ff473f9b27119cc5aee7a2d6615a021383c6534d416c7280a0c0c13f2"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/framing-feedback.jpg",
+      "sha256": "1a2fdab6b3e09b326db2bd710123c0a14dcef63c9ba16a11c3ed449f16cedd20"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/intro-playing.jpg",
+      "sha256": "5cafbfa82634973c70a20b67bd8080b396075be0e913804386caf5dd541ebe00"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/market-destination.jpg",
+      "sha256": "62d6ce194a0f0dc46451702eb6197985c164640be0ba7f2e17272733c2a25c3a"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/market-gate.jpg",
+      "sha256": "5cff9fecdb91588583e875e635a2592daa5494a637c95f1eb9d42de930e08b41"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/mural-camera.jpg",
+      "sha256": "3920b225bacfbfd02f8392f68fd06725744113381f17a0b3033c7034169fc1b2"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/mural-captured.jpg",
+      "sha256": "a08505eb78d54f78499646aaf529997dcf9cb22dd5d2727f2135bab0b4cd8f56"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/mural-clue.jpg",
+      "sha256": "23d44e31ce22f14ad3400adf004e8acda84628a6fc2ba5d54f542f740f554e1c"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/my-journey.jpg",
+      "sha256": "f3b85bbba732804040e0eac5409a652afe4ed55a211fd8bb77e42af223f1f095"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/optional-tools.jpg",
+      "sha256": "c34cc787cc51c225397d676ea68081c0338f21cbddf1dd609560ba4fd65b5520"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/optional-tour.jpg",
+      "sha256": "8d5b82f085084d555c640936472876d5de18aca9fc86acf8394405a15a7c4509"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/oval-scene.jpg",
+      "sha256": "1b9ae98a2bf155635d57f847fed1ffd307958ac55e0cd5866ca7574f96c97171"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/parcel.jpg",
+      "sha256": "ea0f7da50c2552c860c96d74e8e3b8f0847df31421cf5ff18be06c89b887d6f9"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/persistent-help.jpg",
+      "sha256": "5d36814c4ad9f2d80c35159a1ae6584b5dfadccc7a83110438dc56e4cd06c5bd"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/photo-review.jpg",
+      "sha256": "fdb47e13cf5c6f52d860685e98002c44dfdfad9fb2a2c91dda84162d9f8006e0"
+    },
+    {
+      "path": "evidence/orientation-review-20261024/welcome.jpg",
+      "sha256": "71725ccad555fc0c75e70e3eb4128346fd12d53d8b2e6accd61f78ddeee987ee"
+    },
+    {
       "path": "evidence/phone-opening-20260917/after.png",
       "sha256": "ae2faa360c01c582daf11aa39f16d04836421db031326e8085ffae211f7b63e4"
     },
@@ -1370,7 +1474,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "27a03c9d4e39aaa7b407977f6e27ef9a06a6db38614784b4eb33dd9c3a5c8c97"
+      "sha256": "2411652bf826ad8f5d90626e2fb18227543be114c0ca459808b99775bc400f58"
     },
     {
       "path": "playable-3d/app.js",
@@ -1642,7 +1746,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "244242d122bbc2d318fa0b4eb2c2cad708d0f09ef477be50ef42444428aaf41f"
+      "sha256": "e625d88b335916e65f4962d50f38fc7c89e1a507bbae6a0a41855f6b5582ff8b"
     },
     {
       "path": "production/change-workflows.md",
@@ -1678,7 +1782,7 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "61d2bb2adeb02ee7f9522bf633f6751dee710281df80c6187d395fa2819a9077"
+      "sha256": "b57ee1864789858cd07ed6ba9c7cde31b32f7f1ffc877bb7734d87c0654412e3"
     },
     {
       "path": "production/current-state.md",
@@ -1870,7 +1974,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "6ffc9b7199970709f0f57e213f89cb2bb3514ad10e8cab0d9a06bac949545bcf"
+      "sha256": "8400ae963e19a29b3f624951c956b418b28d28314e9c0faecbec0c69a8a52d75"
     },
     {
       "path": "production/media-oval-20260911.md",
@@ -1903,6 +2007,14 @@
     {
       "path": "production/operating-protocol.md",
       "sha256": "138f1aeccb2893db720c02cd8834f56f64c4885729b0b707376da071cbc13816"
+    },
+    {
+      "path": "production/orientation-and-primary-screens-20261024.html",
+      "sha256": "3248a22f40d03a37c29518ded15430a19b72bee7d33337af1107be5ce1a7c085"
+    },
+    {
+      "path": "production/orientation-and-primary-screens-20261024.md",
+      "sha256": "d73eb81bb82967e099d12d02f7ba07d248d8da3d02b4e515ebf59e7aaa4045c8"
     },
     {
       "path": "production/phase-planner-20261014.html",

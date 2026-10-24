@@ -1811,6 +1811,24 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **testing:** 115tests, types and lint pass;28source and28compiled expanded rows, full28screen content and20capture provenance, responsive layout, phase routing/reload, search, expand/collapse and screenshot zoom/Escape/focus verified.
 - **taniaAcceptance:** Current storyboard remains for Tania corrections; no new design acceptance inferred.
 
+## CE-CHANGE-20261024-116 — Refresh Orientation and clarify the intended Markets screen
+
+- **date:** 2026-10-24
+- **domain:** Blueprint Journey evidence and proposed-screen presentation
+- **source:** Tania requests current Orientation screenshots/story and a clear single proposed Markets sequence.
+- **owner:** Codex Blueprint maintainer; Tania design reviewer
+- **status:** In progress; publication pending
+- **rationale:** Replace stale orientation claims with observed evidence and remove competing current/proposed visual hierarchy.
+- **dependencies:** CE-CHANGE-20261024-115
+- **evidence:** docs/production/orientation-and-primary-screens-20261024.md
+- **nextAction:** Verify desktop/mobile/routing/content preservation and publish generated Blueprint only.
+- **supersededRecord:** None
+- **designApproval:** Narrow delivery correction to the existing Blueprint request; no game feature or proposal implementation.
+- **implementation:** 20actual captures,14orientation stages,28primary proposed panels and collapsed current-game references.
+- **deployment:** Pending verified Pages publication.
+- **testing:** Source, tests and supported-browser validation pending.
+- **taniaAcceptance:** Current storyboard remains for Tania corrections; no new design acceptance inferred.
+
 ## Retained Atlas principles
 
 Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries

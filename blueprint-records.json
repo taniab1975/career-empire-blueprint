@@ -27588,13 +27588,13 @@
         "application": "Follow the existing opening video, picture-clue exploration and teachers photo finish. The companion overview and guided handover are built in draft PR57 pending release, before the separate Initiative/Mara phase.",
         "product": "A low-stakes recognition or question about the world/course; no paid activity, assessed performance or curriculum mastery is claimed.",
         "later": "Phase 1 introduces supported initiative at Mara’s noodle stall. Return to the wider world when relevant.",
-        "limit": "The learning sequence is proposed; the live orientation core already exists. Companion/menu/flyover/course-outline guided handover is built in draft PR57 pending release. Explicit six-skill teaching is planned, not recorded as delivered. No exact curriculum point is assigned a completed teaching home here; no pay, assessment or mastery is inferred.",
+        "limit": "Orientation participation and run-local discoveries are not curriculum mastery or authenticated learner storage. Explicit skill teaching remains planned. Assisted location capture is disclosed.",
         "skills": [],
         "calendar": null,
         "launch": {
           "url": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
           "location": "Public ECC game start; the ordinary start route is the orientation entry.",
-          "status": "Public start route verified HTTP200; existing video, clue exploration and teachers photo core. Draft PR57 handover remains pending release."
+          "status": "Observed deployed24October2026 on ordinary public start; optional tour entry verified, remaining beats source-only."
         },
         "implementation": {
           "liveCore": [
@@ -27602,11 +27602,7 @@
             "Picture-clue exploration",
             "Teachers photo finish"
           ],
-          "builtPendingRelease": [
-            "Optional companion overview and eight-beat tour",
-            "Guided Options, Stats and Flyover return with safe landing",
-            "Numbered course outline and Blueprint guided handover"
-          ],
+          "builtPendingRelease": [],
           "plannedTeaching": "An explicit introduction to Communication, Digital Literacy, Teamwork, Time Management, Critical Thinking and Problem Solving; no teaching completion is claimed.",
           "sequence": [
             {
@@ -27623,37 +27619,37 @@
             },
             {
               "label": "Companion overview and course handover",
-              "status": "Built in draft PR57 · pending release"
+              "status": "Published optional companion tour: entry and Skip observed; remaining beats source-only, not required."
             },
             {
               "label": "Initiative at Mara / Juniper Kitchen",
-              "status": "Next learning phase; initiative redesign proposed"
+              "status": "Observed market / keep exploring choice, persistent Travel route and classroom-word gate; Initiative learning proposal remains separate."
             }
           ],
           "proposedHandover": [
             {
               "label": "Optional companion chat",
-              "status": "Requested flow · isolated implementation pending verification"
+              "status": "Historical requested design; current observed flow is in Journey: Requested flow · isolated implementation pending verification"
             },
             {
               "label": "Fly, then land back at the entrance",
-              "status": "Requested flow · pending verification"
+              "status": "Historical requested design; current observed flow is in Journey: Requested flow · pending verification"
             },
             {
               "label": "Open current curriculum course documents",
-              "status": "Requested flow · pending verification"
+              "status": "Historical requested design; current observed flow is in Journey: Requested flow · pending verification"
             },
             {
               "label": "Avatar Studio: choose a character, not an occupation",
-              "status": "Existing tool; revised handover pending verification"
+              "status": "Historical requested design; current observed flow is in Journey: Existing tool; revised handover pending verification"
             },
             {
               "label": "Optional exploration of other buildings",
-              "status": "Optional exploration, separate from the next curriculum stage"
+              "status": "Historical requested design; current observed flow is in Journey: Optional exploration, separate from the next curriculum stage"
             },
             {
               "label": "Initiative at Markets: classroom code Emmanuel",
-              "status": "Proposed classroom-code gate · implementation and access verification pending"
+              "status": "Historical requested design; current observed flow is in Journey: Proposed classroom-code gate · implementation and access verification pending"
             }
           ],
           "invitationBoundary": "A future invitation for this year’s students to explore and give feedback is planned. No invitation sent, student trial or release approved."
@@ -32600,6 +32596,374 @@
       }
     ]
   },
+  "orientationReview": {
+    "date": "2026-10-24",
+    "sourceCommit": "0599498a4692269ad080df6173e444ab0eac474a",
+    "captures": [
+      {
+        "id": "arrival",
+        "src": "/evidence/orientation-review-20261024/arrival.jpg",
+        "title": "Arrival",
+        "sha256": "d23e3351c2b3a3349b4e7a5123707e7c815af1edaaa769e77001bdc720a2f185",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "chapel-choice",
+        "src": "/evidence/orientation-review-20261024/chapel-choice.jpg",
+        "title": "Chapel Choice",
+        "sha256": "46b962890e0416ca8cdf8cb69e8b2b1b4a198c2d1b98b7ede47cff48db095e7e",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "clue-help",
+        "src": "/evidence/orientation-review-20261024/clue-help.jpg",
+        "title": "Clue Help",
+        "sha256": "d9ae784750a2ce89c2e29f240e52086505e88856afc244e1b2483fabfede6b24",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "clue-revealed",
+        "src": "/evidence/orientation-review-20261024/clue-revealed.jpg",
+        "title": "Clue Revealed",
+        "sha256": "ce4f9c3e6529d1bcd746d60f7847dd5b2857a58ea40353c1de01dbada96e9759",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "finish-choice",
+        "src": "/evidence/orientation-review-20261024/finish-choice.jpg",
+        "title": "Finish Choice",
+        "sha256": "f66e471ff473f9b27119cc5aee7a2d6615a021383c6534d416c7280a0c0c13f2",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "framing-feedback",
+        "src": "/evidence/orientation-review-20261024/framing-feedback.jpg",
+        "title": "Framing Feedback",
+        "sha256": "1a2fdab6b3e09b326db2bd710123c0a14dcef63c9ba16a11c3ed449f16cedd20",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "intro-playing",
+        "src": "/evidence/orientation-review-20261024/intro-playing.jpg",
+        "title": "Intro Playing",
+        "sha256": "5cafbfa82634973c70a20b67bd8080b396075be0e913804386caf5dd541ebe00",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "market-destination",
+        "src": "/evidence/orientation-review-20261024/market-destination.jpg",
+        "title": "Market Destination",
+        "sha256": "62d6ce194a0f0dc46451702eb6197985c164640be0ba7f2e17272733c2a25c3a",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "market-gate",
+        "src": "/evidence/orientation-review-20261024/market-gate.jpg",
+        "title": "Market Gate",
+        "sha256": "5cff9fecdb91588583e875e635a2592daa5494a637c95f1eb9d42de930e08b41",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "mural-camera",
+        "src": "/evidence/orientation-review-20261024/mural-camera.jpg",
+        "title": "Mural Camera",
+        "sha256": "3920b225bacfbfd02f8392f68fd06725744113381f17a0b3033c7034169fc1b2",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "mural-captured",
+        "src": "/evidence/orientation-review-20261024/mural-captured.jpg",
+        "title": "Mural Captured",
+        "sha256": "a08505eb78d54f78499646aaf529997dcf9cb22dd5d2727f2135bab0b4cd8f56",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "mural-clue",
+        "src": "/evidence/orientation-review-20261024/mural-clue.jpg",
+        "title": "Mural Clue",
+        "sha256": "23d44e31ce22f14ad3400adf004e8acda84628a6fc2ba5d54f542f740f554e1c",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "my-journey",
+        "src": "/evidence/orientation-review-20261024/my-journey.jpg",
+        "title": "My Journey",
+        "sha256": "f3b85bbba732804040e0eac5409a652afe4ed55a211fd8bb77e42af223f1f095",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "optional-tools",
+        "src": "/evidence/orientation-review-20261024/optional-tools.jpg",
+        "title": "Optional Tools",
+        "sha256": "c34cc787cc51c225397d676ea68081c0338f21cbddf1dd609560ba4fd65b5520",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "optional-tour",
+        "src": "/evidence/orientation-review-20261024/optional-tour.jpg",
+        "title": "Optional Tour",
+        "sha256": "8d5b82f085084d555c640936472876d5de18aca9fc86acf8394405a15a7c4509",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "oval-scene",
+        "src": "/evidence/orientation-review-20261024/oval-scene.jpg",
+        "title": "Oval Scene",
+        "sha256": "1b9ae98a2bf155635d57f847fed1ffd307958ac55e0cd5866ca7574f96c97171",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "parcel",
+        "src": "/evidence/orientation-review-20261024/parcel.jpg",
+        "title": "Parcel",
+        "sha256": "ea0f7da50c2552c860c96d74e8e3b8f0847df31421cf5ff18be06c89b887d6f9",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "persistent-help",
+        "src": "/evidence/orientation-review-20261024/persistent-help.jpg",
+        "title": "Persistent Help",
+        "sha256": "5d36814c4ad9f2d80c35159a1ae6584b5dfadccc7a83110438dc56e4cd06c5bd",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "photo-review",
+        "src": "/evidence/orientation-review-20261024/photo-review.jpg",
+        "title": "Photo Review",
+        "sha256": "fdb47e13cf5c6f52d860685e98002c44dfdfad9fb2a2c91dda84162d9f8006e0",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      },
+      {
+        "id": "welcome",
+        "src": "/evidence/orientation-review-20261024/welcome.jpg",
+        "title": "Welcome",
+        "sha256": "71725ccad555fc0c75e70e3eb4128346fd12d53d8b2e6accd61f78ddeee987ee",
+        "caption": "Actual deployed game,24October2026; fictional guest run on ordinary public URL; source0599498a. Chapel, mural and oval location captures used existing Take me there assistance. No game changes or authenticated learner evidence."
+      }
+    ],
+    "steps": [
+      {
+        "id": "01",
+        "capture": "welcome",
+        "title": "01 · Welcome and intro choice",
+        "trigger": "Opening the ordinary public game displays the welcome.",
+        "actions": "Play intro; Replay video; Start exploring; Still view (less motion).",
+        "teaching": "A short setting introduction and accessible still alternative. Viewing is participation, not a knowledge test.",
+        "extra": "intro-playing"
+      },
+      {
+        "id": "02",
+        "capture": "arrival",
+        "title": "02 · Arrive and find the parcel",
+        "trigger": "After the intro ends naturally, explore the campus and approach the parcel.",
+        "actions": "Move; Help; Options; Stats; map.",
+        "teaching": "Practise navigation with persistent help before any paid task.",
+        "extra": "parcel"
+      },
+      {
+        "id": "03",
+        "capture": "parcel",
+        "title": "03 · Reveal your first picture",
+        "trigger": "Approaching the parcel opens “Your first picture”.",
+        "actions": "Reveal your first picture slider →100; Go exploring unlocks.",
+        "teaching": "“Start your Career Empire journey with a photo trail around campus. Reveal each clue, find the place, and capture discoveries for My Journey.”",
+        "extra": "clue-revealed"
+      },
+      {
+        "id": "04",
+        "capture": "clue-help",
+        "title": "04 · Find the Chapel doorway",
+        "trigger": "The quiet picture directs the student to the round stone doorway.",
+        "actions": "Clearer hint; Take me there; close clue; Help → Open picture clue.",
+        "teaching": "“Going inside is optional.” This capture used Take me there; independent navigation was not established.",
+        "extra": "persistent-help"
+      },
+      {
+        "id": "05",
+        "capture": "chapel-choice",
+        "title": "05 · A place to pause · optional entry",
+        "trigger": "Reaching the doorway opens the choice.",
+        "actions": "Step inside; Continue from doorway.",
+        "teaching": "“You don’t need to go inside, respond or take a photo.” Continue from doorway was observed; the interior was not reviewed.",
+        "extra": "mural-clue"
+      },
+      {
+        "id": "06",
+        "capture": "mural-camera",
+        "title": "06 · Frame the round orange detail",
+        "trigger": "The colourful picture leads to the mural and opens the camera.",
+        "actions": "Arrow controls or point at the picture; Take photo; clearer help.",
+        "teaching": "“Find your orange frame.” The frame selection is a supported visual task, not curriculum mastery. Assisted location travel was used.",
+        "extra": "framing-feedback"
+      },
+      {
+        "id": "07",
+        "capture": "mural-captured",
+        "title": "07 · Feedback and next picture",
+        "trigger": "A first attempt at the default frame was rejected; selecting the orange detail succeeded.",
+        "actions": "Retry the frame; next picture: the oval.",
+        "teaching": "Wrong feedback: “That frame is all angles. Look for a round orange detail.” Success: “Photo captured! Your mural discovery is in My Journey. Next stop: the oval.”",
+        "extra": "framing-feedback"
+      },
+      {
+        "id": "08",
+        "capture": "oval-scene",
+        "title": "08 · Join the teachers photo",
+        "trigger": "At the oval, teachers approach for a photo containing the player.",
+        "actions": "Mystery or Comedy; Pose for the photo; Back to exploring; Skip trail.",
+        "teaching": "A low-stakes shared finish. The observed run chose Comedy; location assistance was used.",
+        "extra": "photo-review"
+      },
+      {
+        "id": "09",
+        "capture": "photo-review",
+        "title": "09 · Review and optionally save the photo",
+        "trigger": "Posing produces the Congratulations poster with player and two teachers.",
+        "actions": "Save photo; Inspect full photo; Continue.",
+        "teaching": "The photo records this run’s event. Save was not clicked in this review; no download or assessed achievement is claimed.",
+        "extra": ""
+      },
+      {
+        "id": "10",
+        "capture": "finish-choice",
+        "title": "10 · Finish orientation and choose the next experience",
+        "trigger": "Continue opens “First experience complete! Well done.”",
+        "actions": "Head straight to the market; Keep exploring.",
+        "teaching": "“Your next experience explores initiative: noticing what needs doing and taking a thoughtful first step, without waiting to be told every move.” The actual finish explains learning and adjusting; it does not require a second introduction or compulsory tour.",
+        "extra": ""
+      },
+      {
+        "id": "11",
+        "capture": "my-journey",
+        "title": "11 · Keep exploring with a clear return route",
+        "trigger": "Keep exploring returns to campus with “Next: Sunday Market · Travel”.",
+        "actions": "Travel; Help; Stats → My Journey; Options.",
+        "teaching": "“My Journey keeps discoveries for this run. Reloading or starting a new entry starts a new run. Download your final photo to keep a copy.” Discovery ticks are not authenticated school records, grades or portfolio approval.",
+        "extra": "optional-tools"
+      },
+      {
+        "id": "12",
+        "capture": "optional-tour",
+        "title": "12 · Optional companion and campus tools",
+        "trigger": "Options provides optional tools and Replay companion tour.",
+        "actions": "Choose my companion; Skip tour; Close tour; Flyover; Character; My Life; course outline via tour.",
+        "teaching": "The published tour entry was observed as1/10 “First mission complete!”. Only its entry and Skip were browser-verified here. The remaining tour beats are source-only evidence; it is not a required handover.",
+        "extra": "optional-tools"
+      },
+      {
+        "id": "13",
+        "capture": "market-destination",
+        "title": "13 · Travel to Sunday Market",
+        "trigger": "Use the persistent Next: Sunday Market Travel button.",
+        "actions": "Travel; move toward the stall.",
+        "teaching": "Arrival positions the player near the market. This is the transition into Phase1, not completion of its Initiative learning.",
+        "extra": "market-gate"
+      },
+      {
+        "id": "14",
+        "capture": "market-gate",
+        "title": "14 · Ready for Initiative?",
+        "trigger": "Approaching the market opens the classroom-word gate.",
+        "actions": "Enter classroom word; Begin Initiative; Keep exploring.",
+        "teaching": "This is a lesson-pacing gate, not secure login or authenticated learner storage. The review stopped here without starting a shift. Continue to the single28-screen Markets proposal for the planned learning sequence.",
+        "extra": ""
+      }
+    ],
+    "tourSourceOnly": [
+      "First mission complete!",
+      "Your companion",
+      "Fly back to start",
+      "Your menu",
+      "Your discoveries",
+      "Your course outline",
+      "Choose your character",
+      "Explore at your own pace",
+      "Start with Initiative",
+      "Mara needs your help"
+    ]
+  },
+  "orientationHistory": {
+    "id": "CE-ORIENTATION",
+    "unit": "Unit 3",
+    "phase": 0,
+    "title": "Intro, exploration, world overview",
+    "purpose": "Understand the course and world, explore with agency, and see why the learning may matter before accepting a paid task.",
+    "decision": "What is this world, what can I explore, and how might the course connect with my life?",
+    "teaching": "Planned explicit teaching: introduce the course purpose and the six employability skill families. The existing opening activities do not by themselves establish that those skills have been taught or assessed.",
+    "application": "Follow the existing opening video, picture-clue exploration and teachers photo finish. The companion overview and guided handover are built in draft PR57 pending release, before the separate Initiative/Mara phase.",
+    "product": "A low-stakes recognition or question about the world/course; no paid activity, assessed performance or curriculum mastery is claimed.",
+    "later": "Phase 1 introduces supported initiative at Mara’s noodle stall. Return to the wider world when relevant.",
+    "limit": "The learning sequence is proposed; the live orientation core already exists. Companion/menu/flyover/course-outline guided handover is built in draft PR57 pending release. Explicit six-skill teaching is planned, not recorded as delivered. No exact curriculum point is assigned a completed teaching home here; no pay, assessment or mastery is inferred.",
+    "skills": [],
+    "calendar": null,
+    "launch": {
+      "url": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
+      "location": "Public ECC game start; the ordinary start route is the orientation entry.",
+      "status": "Public start route verified HTTP200; existing video, clue exploration and teachers photo core. Draft PR57 handover remains pending release."
+    },
+    "implementation": {
+      "liveCore": [
+        "Opening video",
+        "Picture-clue exploration",
+        "Teachers photo finish"
+      ],
+      "builtPendingRelease": [
+        "Optional companion overview and eight-beat tour",
+        "Guided Options, Stats and Flyover return with safe landing",
+        "Numbered course outline and Blueprint guided handover"
+      ],
+      "plannedTeaching": "An explicit introduction to Communication, Digital Literacy, Teamwork, Time Management, Critical Thinking and Problem Solving; no teaching completion is claimed.",
+      "sequence": [
+        {
+          "label": "Opening video",
+          "status": "Existing core"
+        },
+        {
+          "label": "Explore the picture clues",
+          "status": "Existing core"
+        },
+        {
+          "label": "Teachers photo finish",
+          "status": "Existing core"
+        },
+        {
+          "label": "Companion overview and course handover",
+          "status": "Built in draft PR57 · pending release"
+        },
+        {
+          "label": "Initiative at Mara / Juniper Kitchen",
+          "status": "Next learning phase; initiative redesign proposed"
+        }
+      ],
+      "proposedHandover": [
+        {
+          "label": "Optional companion chat",
+          "status": "Requested flow · isolated implementation pending verification"
+        },
+        {
+          "label": "Fly, then land back at the entrance",
+          "status": "Requested flow · pending verification"
+        },
+        {
+          "label": "Open current curriculum course documents",
+          "status": "Requested flow · pending verification"
+        },
+        {
+          "label": "Avatar Studio: choose a character, not an occupation",
+          "status": "Existing tool; revised handover pending verification"
+        },
+        {
+          "label": "Optional exploration of other buildings",
+          "status": "Optional exploration, separate from the next curriculum stage"
+        },
+        {
+          "label": "Initiative at Markets: classroom code Emmanuel",
+          "status": "Proposed classroom-code gate · implementation and access verification pending"
+        }
+      ],
+      "invitationBoundary": "A future invitation for this year’s students to explore and give feedback is planned. No invitation sent, student trial or release approved."
+    }
+  },
   "courseTracking": {
     "id": "CE-COURSE-TRACKING-20261015",
     "status": "Unpublished documentation candidate; no learner data or new backend",
@@ -32823,7 +33187,7 @@
       "backendUnknown": "No authenticated school session queried. Real class scope, database isolation, writes/review persistence and new Markets links remain unverified."
     }
   },
-  "revision": "V2.33 / 24 October 2026",
+  "revision": "V2.34 / 24 October 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -32848,14 +33212,14 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.33",
+      "id": "V2.34",
       "date": "2026-10-24",
-      "label": "V2.33 / 24 October 2026",
-      "status": "Verified unified Journey candidate; public deployment pending",
+      "label": "V2.34 / 24 October 2026",
+      "status": "Orientation and proposed-primary screen candidate; publication pending",
       "purpose": "Career Empire is a connected learning-design project. This scoped Blueprint update teaches from the syllabus first: meaningful experience, explicit instruction, supported application, feedback and durable understanding. Curriculum ways and benefits stay central; no competing named guide or draft song is added to core learning.",
       "audience": "Colleagues reviewing the current game and learning design; teacher delivery program remains in development.",
       "owner": "Tania Byrnes",
-      "scope": "User-approved amalgamation: older Journey table with all28screens and richer per-screen details; old review URL shares the same source. Game unchanged."
+      "scope": "Existing Orientation Journey refresh with20actual captures;28Markets proposed screens primary, current-game evidence collapsed. No game change."
     },
     "navigation": [
       {
@@ -36788,6 +37152,29 @@
           "implementation": "J0andoldreviewURLrender one shared MarketsStoryboardTable;28expandable full-detail rows,20actual screenshots, teacher/portfolio/reward sections and historical archive. Phase6links retained.",
           "deployment": "Pending independent Pages and live verification.",
           "testing": "115tests, types and lint pass;28source and28compiled expanded rows, full28screen content and20capture provenance, responsive layout, phase routing/reload, search, expand/collapse and screenshot zoom/Escape/focus verified.",
+          "taniaAcceptance": "Current storyboard remains for Tania corrections; no new design acceptance inferred."
+        },
+        {
+          "id": "CE-CHANGE-20261024-116",
+          "date": "2026-10-24",
+          "title": "Refresh Orientation and clarify the intended Markets screen",
+          "domain": "Blueprint Journey evidence and proposed-screen presentation",
+          "source": "Tania requests current Orientation screenshots/story and a clear single proposed Markets sequence.",
+          "owner": "Codex Blueprint maintainer; Tania design reviewer",
+          "status": "In progress; publication pending",
+          "rationale": "Replace stale orientation claims with observed evidence and remove competing current/proposed visual hierarchy.",
+          "dependencies": [
+            "CE-CHANGE-20261024-115"
+          ],
+          "evidence": [
+            "docs/production/orientation-and-primary-screens-20261024.md"
+          ],
+          "nextAction": "Verify desktop/mobile/routing/content preservation and publish generated Blueprint only.",
+          "supersededRecord": null,
+          "designApproval": "Narrow delivery correction to the existing Blueprint request; no game feature or proposal implementation.",
+          "implementation": "20actual captures,14orientation stages,28primary proposed panels and collapsed current-game references.",
+          "deployment": "Pending verified Pages publication.",
+          "testing": "Source, tests and supported-browser validation pending.",
           "taniaAcceptance": "Current storyboard remains for Tania corrections; no new design acceptance inferred."
         }
       ],
@@ -50771,10 +51158,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20261024-115"
+        "CE-CHANGE-20261024-116"
       ],
-      "scope": "V2.33user-approved Journey/table amalgamation, single28screen content source.",
-      "disclosure": "Historical12step content retained; current28screen proposal and all game/data/asset content unchanged; no global backlog or school acceptance claim.",
+      "scope": "V2.34Orientation Journey refresh and proposed-primary Markets screen correction.",
+      "disclosure": "20new actual guest captures; remaining tour beats source-only. No game/login/backend implementation, mastery or new reward/economy rule.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -50968,16 +51355,40 @@
         "docs/production/market-storyboard-20261024.md",
         "app/market-review-extensions.tsx",
         "docs/production/journey-market-reconciliation-20261024.md",
-        "app/markets-storyboard-table.tsx"
+        "app/markets-storyboard-table.tsx",
+        "app/orientation-storyboard.tsx",
+        "data/orientation-review.json",
+        "data/orientation-history-20261021.json",
+        "docs/production/orientation-and-primary-screens-20261024.md",
+        "public/evidence/orientation-review-20261024/arrival.jpg",
+        "public/evidence/orientation-review-20261024/chapel-choice.jpg",
+        "public/evidence/orientation-review-20261024/clue-help.jpg",
+        "public/evidence/orientation-review-20261024/clue-revealed.jpg",
+        "public/evidence/orientation-review-20261024/finish-choice.jpg",
+        "public/evidence/orientation-review-20261024/framing-feedback.jpg",
+        "public/evidence/orientation-review-20261024/intro-playing.jpg",
+        "public/evidence/orientation-review-20261024/market-destination.jpg",
+        "public/evidence/orientation-review-20261024/market-gate.jpg",
+        "public/evidence/orientation-review-20261024/mural-camera.jpg",
+        "public/evidence/orientation-review-20261024/mural-captured.jpg",
+        "public/evidence/orientation-review-20261024/mural-clue.jpg",
+        "public/evidence/orientation-review-20261024/my-journey.jpg",
+        "public/evidence/orientation-review-20261024/optional-tools.jpg",
+        "public/evidence/orientation-review-20261024/optional-tour.jpg",
+        "public/evidence/orientation-review-20261024/oval-scene.jpg",
+        "public/evidence/orientation-review-20261024/parcel.jpg",
+        "public/evidence/orientation-review-20261024/persistent-help.jpg",
+        "public/evidence/orientation-review-20261024/photo-review.jpg",
+        "public/evidence/orientation-review-20261024/welcome.jpg"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "963591d8f945d2c2d46d513e41b24cf225f26dbc89ad1d9f13cafca5380d9cd1"
+          "sha256": "2f274a44077a1498ecd0f5f2b77889124eed3940153d222dac2bc57fc8f16430"
         },
         {
           "path": "README.md",
-          "sha256": "6e3e1d69f59fef7985c964950e0efade30f7936f4f10dca4fdef3cb8fc5d80d0"
+          "sha256": "40e478138c147f8c287653d979a86c13b7cff1124935eb6e0f9d0de8a473ebf0"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -51009,7 +51420,7 @@
         },
         {
           "path": "app/globals.css",
-          "sha256": "3610dd3866a3241a1e164065dbe1f50cde5333e50ba652434005cb334baf5126"
+          "sha256": "e66b402e9217e3061ffa03f708c7676e7b27cacd18a2e00c8af6a5bf0a45a4d1"
         },
         {
           "path": "app/learning-map.tsx",
@@ -51025,7 +51436,7 @@
         },
         {
           "path": "data/blueprint.ts",
-          "sha256": "0eb347468a55900890abbaadfca682377a2c6954b3e69c67c690a2023701fb48"
+          "sha256": "4a50966bb4b230145af88bd616afe9d6bdb5ddc2c271f672771986a003990b9b"
         },
         {
           "path": "data/change-workflows.json",
@@ -51045,7 +51456,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "166008fbc7ae769289a96b3390aea263957cbec0c4b53b3fb9671c93a31ecebf"
+          "sha256": "b71b14fc07c288467440f8fa01902599e7897c5f163628908df39780fb14bf65"
         },
         {
           "path": "data/refresh-checkpoint.json",
@@ -51141,7 +51552,7 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "85cc8f19a9862d7bdc9a09ee09678635452655190362850be2eadb82443b07c9"
+          "sha256": "7f6aa1a64c9f7e1a081fdfd2af09d0e2f21f17f3df1b8f3215ad03e30430dacd"
         },
         {
           "path": "scripts/plan-change.mjs",
@@ -51269,7 +51680,7 @@
         },
         {
           "path": "data/learning-planner.json",
-          "sha256": "10147407d6daa6362b8eac1b263cd44a628c2f1c09cb06fd8ae8c54169a834c9"
+          "sha256": "ec24bcfd2a36f10f567997bffdd2bcbe2b52e52e38f77f2d78b6323a9c5b6a88"
         },
         {
           "path": "tests/learning-planner.test.mjs",
@@ -51629,7 +52040,7 @@
         },
         {
           "path": "data/public-reader-documents.json",
-          "sha256": "76aeedaed3b3940d246ac9b0d53f2b235ea3635526b2b07bf99292bc5c7014da"
+          "sha256": "b3b6ece865e181cb5c16d53a073b4ee979fd3d52c6ca7e909cd59b3c40547432"
         },
         {
           "path": "app/blueprint-app.tsx",
@@ -51653,7 +52064,7 @@
         },
         {
           "path": "tests/orientation-entry.test.mjs",
-          "sha256": "d241cadbfa604d929fa1c2ffa9b263dba82a7ceb35d335db529e317c22df894b"
+          "sha256": "795e3875b535c0efae44c8e482ad2958d3f7acb53a1bbd1024a151d2744c8085"
         },
         {
           "path": "docs/production/curriculum-labels-orientation-20261014.md",
@@ -51677,11 +52088,11 @@
         },
         {
           "path": "app/review-table.tsx",
-          "sha256": "346de2cce57ff0881573680fde718fbe770f154554177cdc0d697845409ba344"
+          "sha256": "cb93e4073d61b7a7e32e5b6c5ed017543c2b79f24da67621d4de974d3aa762ad"
         },
         {
           "path": "app/phase-walkthrough.tsx",
-          "sha256": "d69568363677499c2482e616f792f3bf5f4842ae0778269f8972032bb1faf55f"
+          "sha256": "38622974c4b8f0e279033b505c97f69798d9f6783ac3a35df2a2b7799683050f"
         },
         {
           "path": "app/course-tracking.tsx",
@@ -51701,11 +52112,11 @@
         },
         {
           "path": "docs/production/change-integration.md",
-          "sha256": "df6bdb40bbfb8cc5616d2b48b480a75ea4655d155e7a42f804977c78d583ceae"
+          "sha256": "406d98b62b92f7d83d240d5c7193e89283986adc4f6bcd4a1eaf66afd331c746"
         },
         {
           "path": "docs/production/material-changes.md",
-          "sha256": "6ffc9b7199970709f0f57e213f89cb2bb3514ad10e8cab0d9a06bac949545bcf"
+          "sha256": "8400ae963e19a29b3f624951c956b418b28d28314e9c0faecbec0c69a8a52d75"
         },
         {
           "path": "docs/production/learning-principles-20261021.md",
@@ -51741,7 +52152,103 @@
         },
         {
           "path": "app/markets-storyboard-table.tsx",
-          "sha256": "0ffb6a7f228ac98c55fecf017da7605ec7d05559a37870c6c4d7258eb132753c"
+          "sha256": "e61efa780b73cf3aba878f688d278169451d0274e310b7eedec33fc2cb4ba075"
+        },
+        {
+          "path": "app/orientation-storyboard.tsx",
+          "sha256": "8640505cfe89a98d260fbe2e707f3630bdf582c14ded5cc3ba2e11dfe9570d46"
+        },
+        {
+          "path": "data/orientation-review.json",
+          "sha256": "db8b17d8d6ae93863bd8be419f982e2cdefc4569ce4e8f9a461ff49378a141aa"
+        },
+        {
+          "path": "data/orientation-history-20261021.json",
+          "sha256": "144825ccb2777bb487981260564960f3a66f10b04ffb03b2d06b5b67af6267e0"
+        },
+        {
+          "path": "docs/production/orientation-and-primary-screens-20261024.md",
+          "sha256": "d73eb81bb82967e099d12d02f7ba07d248d8da3d02b4e515ebf59e7aaa4045c8"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/arrival.jpg",
+          "sha256": "d23e3351c2b3a3349b4e7a5123707e7c815af1edaaa769e77001bdc720a2f185"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/chapel-choice.jpg",
+          "sha256": "46b962890e0416ca8cdf8cb69e8b2b1b4a198c2d1b98b7ede47cff48db095e7e"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/clue-help.jpg",
+          "sha256": "d9ae784750a2ce89c2e29f240e52086505e88856afc244e1b2483fabfede6b24"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/clue-revealed.jpg",
+          "sha256": "ce4f9c3e6529d1bcd746d60f7847dd5b2857a58ea40353c1de01dbada96e9759"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/finish-choice.jpg",
+          "sha256": "f66e471ff473f9b27119cc5aee7a2d6615a021383c6534d416c7280a0c0c13f2"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/framing-feedback.jpg",
+          "sha256": "1a2fdab6b3e09b326db2bd710123c0a14dcef63c9ba16a11c3ed449f16cedd20"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/intro-playing.jpg",
+          "sha256": "5cafbfa82634973c70a20b67bd8080b396075be0e913804386caf5dd541ebe00"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/market-destination.jpg",
+          "sha256": "62d6ce194a0f0dc46451702eb6197985c164640be0ba7f2e17272733c2a25c3a"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/market-gate.jpg",
+          "sha256": "5cff9fecdb91588583e875e635a2592daa5494a637c95f1eb9d42de930e08b41"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/mural-camera.jpg",
+          "sha256": "3920b225bacfbfd02f8392f68fd06725744113381f17a0b3033c7034169fc1b2"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/mural-captured.jpg",
+          "sha256": "a08505eb78d54f78499646aaf529997dcf9cb22dd5d2727f2135bab0b4cd8f56"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/mural-clue.jpg",
+          "sha256": "23d44e31ce22f14ad3400adf004e8acda84628a6fc2ba5d54f542f740f554e1c"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/my-journey.jpg",
+          "sha256": "f3b85bbba732804040e0eac5409a652afe4ed55a211fd8bb77e42af223f1f095"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/optional-tools.jpg",
+          "sha256": "c34cc787cc51c225397d676ea68081c0338f21cbddf1dd609560ba4fd65b5520"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/optional-tour.jpg",
+          "sha256": "8d5b82f085084d555c640936472876d5de18aca9fc86acf8394405a15a7c4509"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/oval-scene.jpg",
+          "sha256": "1b9ae98a2bf155635d57f847fed1ffd307958ac55e0cd5866ca7574f96c97171"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/parcel.jpg",
+          "sha256": "ea0f7da50c2552c860c96d74e8e3b8f0847df31421cf5ff18be06c89b887d6f9"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/persistent-help.jpg",
+          "sha256": "5d36814c4ad9f2d80c35159a1ae6584b5dfadccc7a83110438dc56e4cd06c5bd"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/photo-review.jpg",
+          "sha256": "fdb47e13cf5c6f52d860685e98002c44dfdfad9fb2a2c91dda84162d9f8006e0"
+        },
+        {
+          "path": "public/evidence/orientation-review-20261024/welcome.jpg",
+          "sha256": "71725ccad555fc0c75e70e3eb4128346fd12d53d8b2e6accd61f78ddeee987ee"
         }
       ]
     },
@@ -86910,7 +87417,7 @@
           "implementation",
           "release"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Keep the preferred older Journey table as the main experience with all28screens and rich expandable teaching/evidence/teacher detail from one source.",
         "before": "Older12step Journey and separate28screen review create competing presentation versions.",
         "after": "Journey J0andoldreviewURLshare one28screen table with rich per-screen expansion and historical archive; course context remains.",
@@ -87074,7 +87581,7 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
+            "disposition": "updated",
             "action": "Publish only reviewed generated Blueprint output to existing destination and verify both exact routes and served hashes.",
             "records": [
               "CE-CHANGE-20261024-115"
@@ -87085,8 +87592,8 @@
               "docs/production/journey-market-reconciliation-20261024.md"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Scoped verification pending.",
+              "result": "passed",
+              "method": "V2.33publicbc05f54/source578825b; Pages1310811308built;13served files,20images and28expansions verified.",
               "date": "2026-10-24"
             },
             "nextAction": "Publish reviewed generated output to existing Blueprint then verify both exact URLs,28live rich rows, historical labels, phase routing, screenshots and served hashes."
@@ -87270,6 +87777,478 @@
               "date": "2026-10-24"
             },
             "nextAction": "Retain scoped evidence; independent publication verification remains separate."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20261024-116",
+        "title": "Refresh Orientation and clarify proposed Markets screens",
+        "types": [
+          "activity",
+          "visual",
+          "implementation",
+          "release"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Current observed orientation in existing Journey; exact proposed student screen primary in each Markets row.",
+        "before": "Orientation pending-release claims are stale; actual crew screenshot visually competes with the proposed short Mara welcome.",
+        "after": "14observed orientation stages with20fresh captures;28proposed-primary screens and collapsed current-game reference.",
+        "source": "Tania exact Orientation URL request and current/proposed Mara screen confusion.",
+        "owner": "Codex Blueprint maintainer; Tania design reviewer",
+        "nextAction": "Complete scoped source/browser checks and guarded publication.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Codex Blueprint maintainer; Tania reviews publication",
+          "scope": "Static Blueprint presentation and actual fictional-guest screenshots only; no game/login/backend or learner-data change.",
+          "rationale": "Preview controls select design panels in memory. No student answer collection, game integration, media replacement or backend change.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Existing public design records only; no student records or new data collection.",
+            "locations": "Existing GitHub Pages static website; licensed originals and private evidence remain outside generated public artifacts.",
+            "accessCountries": "Existing public website access; no new account-data transfer or provider.",
+            "providers": "Existing GitHub Pages only; no new external service is introduced.",
+            "lifecycle": "Existing public design records; private backup and evidence retain owner access.",
+            "encryption": "Existing HTTPS hosting; no new claim about student storage or encryption.",
+            "logging": "No added telemetry, analytics or application logging.",
+            "identity": "No login, student identifier collection or changed account authority.",
+            "isolation": "Static design reader; school/account isolation remains unverified separately.",
+            "privacySafety": "Private files, credential tokens and licensed originals excluded from publication.",
+            "applicability": "Blueprint reporting only; no WA compliance or real-student release claim.",
+            "verification": "Static source and actual fictional guest screenshots reviewed; no identity/backend/game changes or student evidence."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "115tests, types and lint pass;28source and28compiled expanded rows, full28screen content and20capture provenance, responsive layout, phase routing/reload, search, expand/collapse and screenshot zoom/Escape/focus verified."
+          ],
+          "reviewedBy": "Codex scoped source inspection",
+          "reviewedAt": "2026-10-24",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Source and supported-browser verification pending.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete scoped validation."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.",
+            "records": [
+              "CE-CHANGE-20261024-116"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/orientation-and-primary-screens-20261024.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Complete browser and publication verification."
           }
         ]
       }

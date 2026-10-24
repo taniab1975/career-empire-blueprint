@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.33user-approved Journey/table amalgamation, single28screen content source.
+Release scope: V2.34Orientation Journey refresh and proposed-primary Markets screen correction.
 
-Historical12step content retained; current28screen proposal and all game/data/asset content unchanged; no global backlog or school acceptance claim.
+20new actual guest captures; remaining tour beats source-only. No game/login/backend implementation, mastery or new reward/economy rule.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -25330,7 +25330,7 @@ Next: Retain bounded source evidence; publication verification remains a separat
 
 ## CE-CHANGE-20261024-115 — Amalgamate the Markets storyboard in the Journey table
 
-Integration: **ready-for-publication**. Types: implementation, release. Owner: Codex Blueprint maintainer; Tania design reviewer.
+Integration: **complete**. Types: implementation, release. Owner: Codex Blueprint maintainer; Tania design reviewer.
 
 **Objective:** Keep the preferred older Journey table as the main experience with all28screens and rich expandable teaching/evidence/teacher detail from one source.
 
@@ -25427,7 +25427,7 @@ Verification: passed / Regenerate existing reader records and package the same s
 
 Next: Retain scoped evidence; independent publication verification remains separate.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -25437,7 +25437,7 @@ Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design
 
 Acceptance: Publish only reviewed generated Blueprint output to existing destination and verify both exact routes and served hashes.
 
-Verification: pending / Scoped verification pending.
+Verification: passed / V2.33publicbc05f54/source578825b; Pages1310811308built;13served files,20images and28expansions verified.
 
 - [Evidence](docs/production/journey-market-reconciliation-20261024.md)
 
@@ -25595,6 +25595,356 @@ Verification: passed / Preserve197exact entries, original phase mappings and sou
 - [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
 
 Next: Retain scoped evidence; independent publication verification remains separate.
+
+## CE-CHANGE-20261024-116 — Refresh Orientation and clarify proposed Markets screens
+
+Integration: **ready-for-publication**. Types: activity, visual, implementation, release. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+**Objective:** Current observed orientation in existing Journey; exact proposed student screen primary in each Markets row.
+
+**Before:** Orientation pending-release claims are stale; actual crew screenshot visually competes with the proposed short Mara welcome.
+
+**Required result:** 14observed orientation stages with20fresh captures;28proposed-primary screens and collapsed current-game reference.
+
+**Source:** Tania exact Orientation URL request and current/proposed Mara screen confusion.
+
+**Next:** Complete scoped source/browser checks and guarded publication.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: pending / Source and supported-browser verification pending.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete scoped validation.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Curriculum and reciprocal mappings — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Year plan and assessment — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Buildings and places — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Look and feel — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Avatar and wardrobe references — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Decisions and superseded rules — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Recovery and access — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Review scoped Orientation evidence and proposed-primary presentation; preserve unrelated curriculum, phases and user edits.
+
+Records: CE-CHANGE-20261024-116. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28closed comparisons,28rich expansions;14Orientation rows, actual1280pxlightbox;390CSSpxmobile no horizontal overflow,16pxstudent copy; source and image hashes preserved. Final publication checks follow.
+
+- [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
+
+Next: Complete browser and publication verification.
 
 ## Historical boundary
 
