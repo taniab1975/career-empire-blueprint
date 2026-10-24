@@ -1793,6 +1793,24 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **testing:** 115repository tests, TypeScript and focused lint pass.28source and28compiled storyboard screens pass supported-browser content checks; representative390pxmobile checks show no page overflow.20fresh deployed-game captures inspected; no game change.
 - **taniaAcceptance:** Review and corrections requested; design not yet accepted.
 
+## CE-CHANGE-20261024-115 — Amalgamate the Markets storyboard in the Journey table
+
+- **date:** 2026-10-24
+- **domain:** Blueprint navigation and historical evidence delivery
+- **source:** Tania explicitly approves amalgamating both versions: keep the older Journey layout and bring richer curriculum/testing/dashboard detail into expandable sections beneath each screen.
+- **owner:** Codex Blueprint maintainer; Tania design reviewer
+- **status:** Ready for unified Journey publication; Tania corrections remain
+- **rationale:** Use one shared28screen source in the preferred Journey table, preserving exact content, provenance, course context and historical material.
+- **dependencies:** CE-CHANGE-20261024-114
+- **evidence:** docs/production/journey-market-reconciliation-20261024.md / private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json
+- **nextAction:** Verify both exact URLs and Phase6/shared Journey links; publish only reviewed generated Blueprint output.
+- **supersededRecord:** None
+- **designApproval:** Narrow delivery correction to the existing Blueprint request; no game feature or proposal implementation.
+- **implementation:** J0andoldreviewURLrender one shared MarketsStoryboardTable;28expandable full-detail rows,20actual screenshots, teacher/portfolio/reward sections and historical archive. Phase6links retained.
+- **deployment:** Pending independent Pages and live verification.
+- **testing:** 115tests, types and lint pass;28source and28compiled expanded rows, full28screen content and20capture provenance, responsive layout, phase routing/reload, search, expand/collapse and screenshot zoom/Escape/focus verified.
+- **taniaAcceptance:** Current storyboard remains for Tania corrections; no new design acceptance inferred.
+
 ## Retained Atlas principles
 
 Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries

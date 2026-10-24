@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.32full Markets curriculum storyboard proposal in the existing Blueprint only.
+Release scope: V2.33user-approved Journey/table amalgamation, single28screen content source.
 
-Blueprint-only28screen proposal with20fresh actual deployed Markets screenshots; teacher-only authenticated dashboard, optional portfolio and reward/tax/town-state links remain proposals. No game/login/backend or academic-to-earnings formula implemented.
+Historical12step content retained; current28screen proposal and all game/data/asset content unchanged; no global backlog or school acceptance claim.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -24938,7 +24938,7 @@ Next: Retain exact scoped proof; independently verify publication.
 
 ## CE-CHANGE-20261024-114 — Full Markets curriculum storyboard for review
 
-Integration: **ready-for-publication**. Types: activity, visual, research, implementation, release. Owner: Codex Blueprint maintainer; Tania design reviewer.
+Integration: **complete**. Types: activity, visual, research, implementation, release. Owner: Codex Blueprint maintainer; Tania design reviewer.
 
 **Objective:** Provide the complete28screen proposed student journey with exact curriculum, student text/actions, feedback and evidence boundaries for Tania to correct.
 
@@ -25040,7 +25040,7 @@ Verification: passed / Export new storyboard in the existing public record and r
 
 Next: Retain bounded source evidence; publication verification remains a separate target.
 
-### Publication verification — pending
+### Publication verification — updated
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
@@ -25050,10 +25050,11 @@ Records: CE-CHANGE-20261024-114. Owner: Codex Blueprint maintainer; Tania design
 
 Acceptance: Publish only reviewed generated Blueprint output to taniab1975/career-empire-blueprint and verify Pages, bytes and browser.
 
-Verification: pending / Scoped verification pending.
+Verification: passed / V2.32publicd0a5178/source8f161a0; Pages1310747033built,33served hashes and28live storyboard checks verified; private publication receipt retained.
 
 - [Evidence](docs/production/market-storyboard-20261024.md)
 - [Evidence](data/market-storyboard.json)
+- [Evidence](private/production-evidence/2026-10-24/market-storyboard/publication-receipt.json)
 
 Next: Publish generated Blueprint output to existing taniab1975/career-empire-blueprint then verify exact Pages commit, served hashes,20images and desktop/mobile review routes.
 
@@ -25326,6 +25327,274 @@ Verification: passed / Attach exact0599498a code-source and primary2027SCSA cita
 - [Evidence](private/production-evidence/2026-10-24/market-storyboard/candidate-receipt.json)
 
 Next: Retain bounded source evidence; publication verification remains a separate target.
+
+## CE-CHANGE-20261024-115 — Amalgamate the Markets storyboard in the Journey table
+
+Integration: **ready-for-publication**. Types: implementation, release. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+**Objective:** Keep the preferred older Journey table as the main experience with all28screens and rich expandable teaching/evidence/teacher detail from one source.
+
+**Before:** Older12step Journey and separate28screen review create competing presentation versions.
+
+**Required result:** Journey J0andoldreviewURLshare one28screen table with rich per-screen expansion and historical archive; course context remains.
+
+**Source:** Tania explicitly approves amalgamating both versions: keep the older Journey layout and bring richer curriculum/testing/dashboard detail into expandable sections beneath each screen.
+
+**Next:** Validate exact Journey/review routes and publish the guarded generated output.
+
+### Start Here — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Keep the established course handover and main current priorities unchanged; current review entry remains available.
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Keep the established course handover and main current priorities unchanged; current review entry remains available.
+
+Verification: passed / Keep the established course handover and main current priorities unchanged; current review entry remains available. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+- [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
+
+Next: Retain scoped evidence; independent publication verification remains separate.
+
+### Priorities and linked execution tasks — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Phase order and teaching plans remain unchanged; this corrects navigation to the existing review only.
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Phase order and teaching plans remain unchanged; this corrects navigation to the existing review only.
+
+Verification: passed / Phase order and teaching plans remain unchanged; this corrects navigation to the existing review only. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+- [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
+
+Next: Retain scoped evidence; independent publication verification remains separate.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Append115andpreserve114published evidence; identify the older12step material as historical.
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Append115andpreserve114published evidence; identify the older12step material as historical.
+
+Verification: passed / Append115andpreserve114published evidence; identify the older12step material as historical. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+- [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
+
+Next: Retain scoped evidence; independent publication verification remains separate.
+
+### Workflows and handoff — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Use established guarded Blueprint export/publication workflow; no game or storage cleanup. 
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Use established guarded Blueprint export/publication workflow; no game or storage cleanup. 
+
+Verification: passed / Use established guarded Blueprint export/publication workflow; no game or storage cleanup.  Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+- [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
+
+Next: Retain scoped evidence; independent publication verification remains separate.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate existing reader records and package the same source without adding a second storyboard.
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Regenerate existing reader records and package the same source without adding a second storyboard.
+
+Verification: passed / Regenerate existing reader records and package the same source without adding a second storyboard. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+- [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
+
+Next: Retain scoped evidence; independent publication verification remains separate.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish only reviewed generated Blueprint output to existing destination and verify both exact routes and served hashes.
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Publish only reviewed generated Blueprint output to existing destination and verify both exact routes and served hashes.
+
+Verification: pending / Scoped verification pending.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+
+Next: Publish reviewed generated output to existing Blueprint then verify both exact URLs,28live rich rows, historical labels, phase routing, screenshots and served hashes.
+
+### Implementation and test evidence — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Verify narrow reader correction through types, tests, compiled browser and Pages.
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Verify narrow reader correction through types, tests, compiled browser and Pages.
+
+Verification: passed / Verify narrow reader correction through types, tests, compiled browser and Pages. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+- [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
+
+Next: Retain scoped evidence; independent publication verification remains separate.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Render all28screens from one unchanged source in the older Journey table with full expandable content. Both exact URLs share the view; Phase6returns to it and historical12steps remain explicitly historical.
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Render all28screens from one unchanged source in the older Journey table with full expandable content. Both exact URLs share the view; Phase6returns to it and historical12steps remain explicitly historical.
+
+Verification: passed / Render all28screens from one unchanged source in the older Journey table with full expandable content. Both exact URLs share the view; Phase6returns to it and historical12steps remain explicitly historical. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+- [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
+
+Next: Retain scoped evidence; independent publication verification remains separate.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Existing whole-course teacher/Stats links and authenticated proposal remain unchanged.
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Existing whole-course teacher/Stats links and authenticated proposal remain unchanged.
+
+Verification: passed / Existing whole-course teacher/Stats links and authenticated proposal remain unchanged. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+- [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
+
+Next: Retain scoped evidence; independent publication verification remains separate.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Reuse existing publication worktree; preserve private evidence and source/public-output boundary.
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Reuse existing publication worktree; preserve private evidence and source/public-output boundary.
+
+Verification: passed / Reuse existing publication worktree; preserve private evidence and source/public-output boundary. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+- [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
+
+Next: Retain scoped evidence; independent publication verification remains separate.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+No screenshot bytes changed; current20captures stay in the single review and old captures remain historical.
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: No screenshot bytes changed; current20captures stay in the single review and old captures remain historical.
+
+Verification: passed / No screenshot bytes changed; current20captures stay in the single review and old captures remain historical. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+- [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
+
+Next: Retain scoped evidence; independent publication verification remains separate.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+All20current screenshots, historical images and original assets remain byte-identical.
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: All20current screenshots, historical images and original assets remain byte-identical.
+
+Verification: passed / All20current screenshots, historical images and original assets remain byte-identical. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+- [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
+
+Next: Retain scoped evidence; independent publication verification remains separate.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Existing exact source references remain; dated historical capture notes move inside historical disclosure.
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Existing exact source references remain; dated historical capture notes move inside historical disclosure.
+
+Verification: passed / Existing exact source references remain; dated historical capture notes move inside historical disclosure. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+- [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
+
+Next: Retain scoped evidence; independent publication verification remains separate.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Render all28screens from one unchanged source in the older Journey table with full expandable content. Both exact URLs share the view; Phase6returns to it and historical12steps remain explicitly historical.
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Render all28screens from one unchanged source in the older Journey table with full expandable content. Both exact URLs share the view; Phase6returns to it and historical12steps remain explicitly historical.
+
+Verification: passed / Render all28screens from one unchanged source in the older Journey table with full expandable content. Both exact URLs share the view; Phase6returns to it and historical12steps remain explicitly historical. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+- [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
+
+Next: Retain scoped evidence; independent publication verification remains separate.
+
+### Curriculum and reciprocal mappings — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Preserve197exact entries, original phase mappings and source links; no curriculum wording changes.
+
+Records: CE-CHANGE-20261024-115. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Preserve197exact entries, original phase mappings and source links; no curriculum wording changes.
+
+Verification: passed / Preserve197exact entries, original phase mappings and source links; no curriculum wording changes. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.
+
+- [Evidence](docs/production/journey-market-reconciliation-20261024.md)
+- [Evidence](private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json)
+
+Next: Retain scoped evidence; independent publication verification remains separate.
 
 ## Historical boundary
 

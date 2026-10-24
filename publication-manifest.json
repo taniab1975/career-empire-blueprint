@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "8f161a06346a2ada4671a630421f66b1d4200403",
-  "generatedAt": "2026-10-24T12:47:36.045Z",
-  "revision": "V2.32 / 24 October 2026",
-  "recordSha256": "faf24a1a934a0aa9e119ef1e8261d8ef288f6c4033b65c17482d20899bbc60c7",
+  "sourceCommit": "578825bc7b9cfaf89c448cadd072149f6a10fb24",
+  "generatedAt": "2026-10-24T13:21:48.782Z",
+  "revision": "V2.33 / 24 October 2026",
+  "recordSha256": "264321fb270bddc2ca117af0c752b3fc8041fa9dd69b2b9f4a18526127da4c9e",
   "files": [
     {
       "path": "assets/curriculum-planner-4Llkf_de.js",
@@ -17,8 +17,16 @@
       "sha256": "2a803d1e81a32eff3dbeca5bcffc7a2218b25e43c038ce03577a3d18890a56c5"
     },
     {
+      "path": "assets/curriculum-planner-C59tdBEA.js",
+      "sha256": "5188c0df35041aa73c79418cf49aa0a8414b8e3dae438b6756093ace25c9fa53"
+    },
+    {
       "path": "assets/curriculum-planner-D5TjQJ9x.js",
       "sha256": "14cfb77f0767e78f5966b6020fc60fb7882a6da594fba2fa35f7a492b455514c"
+    },
+    {
+      "path": "assets/curriculum-planner-DF-QKSCQ.js",
+      "sha256": "73f6774b808e87bac3a6d35b48fd42e44313aee1b5224edba0ab7ae5dcdf2c52"
     },
     {
       "path": "assets/index-7SLr4d5Q.css",
@@ -41,8 +49,20 @@
       "sha256": "ed1b6d0939bfb35c1adb6119534c2cc3df383f35f38c245bc8e7219a71cd2786"
     },
     {
+      "path": "assets/index-Bj29eTl1.js",
+      "sha256": "111abccc95b81c0f723157325ee28e24e2148e851af6d2d68dafbac6e0d14e0d"
+    },
+    {
       "path": "assets/index-BSBW8ku9.js",
       "sha256": "e439ce2156f8a6306073ea9c9954d474f53852afff4f88f91caa4a1868a91e10"
+    },
+    {
+      "path": "assets/index-Dn_CyJ-b.css",
+      "sha256": "719e3a79d9660ce5de1c744740dd42a2c87099a876c21c2cf06248c4e2e76768"
+    },
+    {
+      "path": "assets/index-DyWSsuPR.js",
+      "sha256": "730b3ffb0ec8ecf1eb0b99425cc0ce5685e73103cbb36ea4272c519f746e27ba"
     },
     {
       "path": "assets/index-gQLpwATj.js",
@@ -50,7 +70,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "faf24a1a934a0aa9e119ef1e8261d8ef288f6c4033b65c17482d20899bbc60c7"
+      "sha256": "264321fb270bddc2ca117af0c752b3fc8041fa9dd69b2b9f4a18526127da4c9e"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1350,7 +1370,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "13e634e8c0e02074c02faf4c7b1e22341d8895e889a4e3617e54cd65a9cc9c66"
+      "sha256": "27a03c9d4e39aaa7b407977f6e27ef9a06a6db38614784b4eb33dd9c3a5c8c97"
     },
     {
       "path": "playable-3d/app.js",
@@ -1622,7 +1642,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "14a0b9f7bc807e7a0005bde088b6b6dc8e4f6fe33b46818151fc6aef4be57bcf"
+      "sha256": "244242d122bbc2d318fa0b4eb2c2cad708d0f09ef477be50ef42444428aaf41f"
     },
     {
       "path": "production/change-workflows.md",
@@ -1658,7 +1678,7 @@
     },
     {
       "path": "production/current-assets.md",
-      "sha256": "6bdf077e16f6797dad431d4bb7fc693e460771a31af9076a5efcbc6c4dde4720"
+      "sha256": "61d2bb2adeb02ee7f9522bf633f6751dee710281df80c6187d395fa2819a9077"
     },
     {
       "path": "production/current-state.md",
@@ -1809,6 +1829,14 @@
       "sha256": "117877666f2002cbcc5f5ea057c3981af85f51c044f15b94dfd77e8e53c83e55"
     },
     {
+      "path": "production/journey-market-reconciliation-20261024.html",
+      "sha256": "35654128752d3a86fc62ffdeb96feecdd0fab52879534b1e30b3d192921a3dff"
+    },
+    {
+      "path": "production/journey-market-reconciliation-20261024.md",
+      "sha256": "26a685415a8258e68cdf7f1cb85f77d65ef674c3b935acfc27d3bae4919a5d2c"
+    },
+    {
       "path": "production/learning-principles-20261021.html",
       "sha256": "d88e8c1719f0f455af0631aea2c81f043de0bb95cc52f68c1ba6d6ab475a26ac"
     },
@@ -1842,7 +1870,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "7b363625eb78db98a199b7b99969b8dfb2eed327948d8252a8d4fbd8dc662cbd"
+      "sha256": "6ffc9b7199970709f0f57e213f89cb2bb3514ad10e8cab0d9a06bac949545bcf"
     },
     {
       "path": "production/media-oval-20260911.md",

@@ -32823,7 +32823,7 @@
       "backendUnknown": "No authenticated school session queried. Real class scope, database isolation, writes/review persistence and new Markets links remain unverified."
     }
   },
-  "revision": "V2.32 / 24 October 2026",
+  "revision": "V2.33 / 24 October 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -32848,14 +32848,14 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.32",
+      "id": "V2.33",
       "date": "2026-10-24",
-      "label": "V2.32 / 24 October 2026",
-      "status": "Reviewed V2.32storyboard candidate; public deployment pending",
+      "label": "V2.33 / 24 October 2026",
+      "status": "Verified unified Journey candidate; public deployment pending",
       "purpose": "Career Empire is a connected learning-design project. This scoped Blueprint update teaches from the syllabus first: meaningful experience, explicit instruction, supported application, feedback and durable understanding. Curriculum ways and benefits stay central; no competing named guide or draft song is added to core learning.",
       "audience": "Colleagues reviewing the current game and learning design; teacher delivery program remains in development.",
       "owner": "Tania Byrnes",
-      "scope": "Full Markets curriculum storyboard proposal and labelled evidence; game unchanged."
+      "scope": "User-approved amalgamation: older Journey table with all28screens and richer per-screen details; old review URL shares the same source. Game unchanged."
     },
     "navigation": [
       {
@@ -36765,6 +36765,30 @@
           "deployment": "Pending existing Blueprint Pages publication and independent served/browser verification.",
           "testing": "115repository tests, TypeScript and focused lint pass.28source and28compiled storyboard screens pass supported-browser content checks; representative390pxmobile checks show no page overflow.20fresh deployed-game captures inspected; no game change.",
           "taniaAcceptance": "Review and corrections requested; design not yet accepted."
+        },
+        {
+          "id": "CE-CHANGE-20261024-115",
+          "date": "2026-10-24",
+          "title": "Amalgamate the Markets storyboard in the Journey table",
+          "domain": "Blueprint navigation and historical evidence delivery",
+          "source": "Tania explicitly approves amalgamating both versions: keep the older Journey layout and bring richer curriculum/testing/dashboard detail into expandable sections beneath each screen.",
+          "owner": "Codex Blueprint maintainer; Tania design reviewer",
+          "status": "Ready for unified Journey publication; Tania corrections remain",
+          "rationale": "Use one shared28screen source in the preferred Journey table, preserving exact content, provenance, course context and historical material.",
+          "dependencies": [
+            "CE-CHANGE-20261024-114"
+          ],
+          "evidence": [
+            "docs/production/journey-market-reconciliation-20261024.md",
+            "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+          ],
+          "nextAction": "Verify both exact URLs and Phase6/shared Journey links; publish only reviewed generated Blueprint output.",
+          "supersededRecord": null,
+          "designApproval": "Narrow delivery correction to the existing Blueprint request; no game feature or proposal implementation.",
+          "implementation": "J0andoldreviewURLrender one shared MarketsStoryboardTable;28expandable full-detail rows,20actual screenshots, teacher/portfolio/reward sections and historical archive. Phase6links retained.",
+          "deployment": "Pending independent Pages and live verification.",
+          "testing": "115tests, types and lint pass;28source and28compiled expanded rows, full28screen content and20capture provenance, responsive layout, phase routing/reload, search, expand/collapse and screenshot zoom/Escape/focus verified.",
+          "taniaAcceptance": "Current storyboard remains for Tania corrections; no new design acceptance inferred."
         }
       ],
       "sessionStart": [
@@ -50747,10 +50771,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20261024-114"
+        "CE-CHANGE-20261024-115"
       ],
-      "scope": "V2.32full Markets curriculum storyboard proposal in the existing Blueprint only.",
-      "disclosure": "Blueprint-only28screen proposal with20fresh actual deployed Markets screenshots; teacher-only authenticated dashboard, optional portfolio and reward/tax/town-state links remain proposals. No game/login/backend or academic-to-earnings formula implemented.",
+      "scope": "V2.33user-approved Journey/table amalgamation, single28screen content source.",
+      "disclosure": "Historical12step content retained; current28screen proposal and all game/data/asset content unchanged; no global backlog or school acceptance claim.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -50942,16 +50966,18 @@
         "docs/production/curriculum-collapsed-default-20261021.md",
         "data/market-storyboard.json",
         "docs/production/market-storyboard-20261024.md",
-        "app/market-review-extensions.tsx"
+        "app/market-review-extensions.tsx",
+        "docs/production/journey-market-reconciliation-20261024.md",
+        "app/markets-storyboard-table.tsx"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "06a63d090128629c51fd2aef43599626459d077c62c0aadb47430c6ed2bd18ca"
+          "sha256": "963591d8f945d2c2d46d513e41b24cf225f26dbc89ad1d9f13cafca5380d9cd1"
         },
         {
           "path": "README.md",
-          "sha256": "c9753459a623f679eaef1d0cbd96e47cf4d6414465295d093d9a225a5186c43f"
+          "sha256": "6e3e1d69f59fef7985c964950e0efade30f7936f4f10dca4fdef3cb8fc5d80d0"
         },
         {
           "path": "app/blueprint-detail.tsx",
@@ -50983,7 +51009,7 @@
         },
         {
           "path": "app/globals.css",
-          "sha256": "2a5f98fc60faea1f7b25dde4948ae399a0d90b6442d6b6705aea95cc55ffa92a"
+          "sha256": "3610dd3866a3241a1e164065dbe1f50cde5333e50ba652434005cb334baf5126"
         },
         {
           "path": "app/learning-map.tsx",
@@ -51019,7 +51045,7 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "ffba214ed5e901e361f264019ccf9ff2ce458ea28dfe778e1a768474815feb35"
+          "sha256": "166008fbc7ae769289a96b3390aea263957cbec0c4b53b3fb9671c93a31ecebf"
         },
         {
           "path": "data/refresh-checkpoint.json",
@@ -51115,7 +51141,7 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "0c7906d0d6f6e155f3c58ce38ee85e7896875d2b47943560c6be999162a386cd"
+          "sha256": "85cc8f19a9862d7bdc9a09ee09678635452655190362850be2eadb82443b07c9"
         },
         {
           "path": "scripts/plan-change.mjs",
@@ -51595,7 +51621,7 @@
         },
         {
           "path": "app/site-guide.tsx",
-          "sha256": "d78697d549b35fa8439940bfe035d9ce58de407becde8d4577bb0ca74e92f6f2"
+          "sha256": "a74bbe718437511741c1a6cfea5206e06de172f6a06443530c2adb3a5bb07651"
         },
         {
           "path": "docs/production/blueprint-redesign-review-20261014.md",
@@ -51603,7 +51629,7 @@
         },
         {
           "path": "data/public-reader-documents.json",
-          "sha256": "79ec0c4a2a9e9f043f04dc14e4fbc3c6007e37e40b98d9dd2577d8d13c3fbc1f"
+          "sha256": "76aeedaed3b3940d246ac9b0d53f2b235ea3635526b2b07bf99292bc5c7014da"
         },
         {
           "path": "app/blueprint-app.tsx",
@@ -51639,7 +51665,7 @@
         },
         {
           "path": "app/markets-review.tsx",
-          "sha256": "9222e7d150c1835b65efec44aeda1675d70d2e08ab6f524a7a44878856b5686a"
+          "sha256": "497acc1cb737cb22174b073311987d1d0053619356e4d7f16a9412ed54cc59f4"
         },
         {
           "path": "docs/production/markets-implementation-review-20261015.md",
@@ -51651,11 +51677,11 @@
         },
         {
           "path": "app/review-table.tsx",
-          "sha256": "ab649774d1ae8609dec99fb9304050d16058cd7cea5acf7655ac45b9dd816c16"
+          "sha256": "346de2cce57ff0881573680fde718fbe770f154554177cdc0d697845409ba344"
         },
         {
           "path": "app/phase-walkthrough.tsx",
-          "sha256": "5652677fa63aa22e88e443c13830bd5596e0d6f13cb786e805c179d581912f4e"
+          "sha256": "d69568363677499c2482e616f792f3bf5f4842ae0778269f8972032bb1faf55f"
         },
         {
           "path": "app/course-tracking.tsx",
@@ -51675,11 +51701,11 @@
         },
         {
           "path": "docs/production/change-integration.md",
-          "sha256": "c838f1c21b96fed5a2042efbed3920662bb2d033fe8abdb1da939083fb874f77"
+          "sha256": "df6bdb40bbfb8cc5616d2b48b480a75ea4655d155e7a42f804977c78d583ceae"
         },
         {
           "path": "docs/production/material-changes.md",
-          "sha256": "7b363625eb78db98a199b7b99969b8dfb2eed327948d8252a8d4fbd8dc662cbd"
+          "sha256": "6ffc9b7199970709f0f57e213f89cb2bb3514ad10e8cab0d9a06bac949545bcf"
         },
         {
           "path": "docs/production/learning-principles-20261021.md",
@@ -51708,6 +51734,14 @@
         {
           "path": "app/market-review-extensions.tsx",
           "sha256": "e397c825ef51b3611ea50a45cc99d7ace7012e59a6c7a47b101c6c888af93b10"
+        },
+        {
+          "path": "docs/production/journey-market-reconciliation-20261024.md",
+          "sha256": "26a685415a8258e68cdf7f1cb85f77d65ef674c3b935acfc27d3bae4919a5d2c"
+        },
+        {
+          "path": "app/markets-storyboard-table.tsx",
+          "sha256": "0ffb6a7f228ac98c55fecf017da7605ec7d05559a37870c6c4d7258eb132753c"
         }
       ]
     },
@@ -86364,7 +86398,7 @@
           "implementation",
           "release"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Provide the complete28screen proposed student journey with exact curriculum, student text/actions, feedback and evidence boundaries for Tania to correct.",
         "before": "Markets route shows a dated abbreviated implementation review; latest required learning sequence and proposal timing are incomplete.",
         "after": "Markets route shows28readable proposed panels, current/source boundaries, actual evidence and retained earlier review.",
@@ -86533,7 +86567,7 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
+            "disposition": "updated",
             "action": "Publish only reviewed generated Blueprint output to taniab1975/career-empire-blueprint and verify Pages, bytes and browser.",
             "records": [
               "CE-CHANGE-20261024-114"
@@ -86542,11 +86576,12 @@
             "acceptance": "Publish only reviewed generated Blueprint output to taniab1975/career-empire-blueprint and verify Pages, bytes and browser.",
             "evidence": [
               "docs/production/market-storyboard-20261024.md",
-              "data/market-storyboard.json"
+              "data/market-storyboard.json",
+              "private/production-evidence/2026-10-24/market-storyboard/publication-receipt.json"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Scoped verification pending.",
+              "result": "passed",
+              "method": "V2.32publicd0a5178/source8f161a0; Pages1310747033built,33served hashes and28live storyboard checks verified; private publication receipt retained.",
               "date": "2026-10-24"
             },
             "nextAction": "Publish generated Blueprint output to existing taniab1975/career-empire-blueprint then verify exact Pages commit, served hashes,20images and desktop/mobile review routes."
@@ -86865,6 +86900,376 @@
               "date": "2026-10-24"
             },
             "nextAction": "Retain bounded source evidence; publication verification remains a separate target."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20261024-115",
+        "title": "Amalgamate the Markets storyboard in the Journey table",
+        "types": [
+          "implementation",
+          "release"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Keep the preferred older Journey table as the main experience with all28screens and rich expandable teaching/evidence/teacher detail from one source.",
+        "before": "Older12step Journey and separate28screen review create competing presentation versions.",
+        "after": "Journey J0andoldreviewURLshare one28screen table with rich per-screen expansion and historical archive; course context remains.",
+        "source": "Tania explicitly approves amalgamating both versions: keep the older Journey layout and bring richer curriculum/testing/dashboard detail into expandable sections beneath each screen.",
+        "owner": "Codex Blueprint maintainer; Tania design reviewer",
+        "nextAction": "Validate exact Journey/review routes and publish the guarded generated output.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Codex Blueprint maintainer; Tania reviews publication",
+          "scope": "Static Blueprint layout amalgamation only; no new data, authentication, game/dashboard backend, economic formula or access permissions.",
+          "rationale": "Preview controls select design panels in memory. No student answer collection, game integration, media replacement or backend change.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Existing public design records only; no student records or new data collection.",
+            "locations": "Existing GitHub Pages static website; licensed originals and private evidence remain outside generated public artifacts.",
+            "accessCountries": "Existing public website access; no new account-data transfer or provider.",
+            "providers": "Existing GitHub Pages only; no new external service is introduced.",
+            "lifecycle": "Existing public design records; private backup and evidence retain owner access.",
+            "encryption": "Existing HTTPS hosting; no new claim about student storage or encryption.",
+            "logging": "No added telemetry, analytics or application logging.",
+            "identity": "No login, student identifier collection or changed account authority.",
+            "isolation": "Static design reader; school/account isolation remains unverified separately.",
+            "privacySafety": "Private files, credential tokens and licensed originals excluded from publication.",
+            "applicability": "Blueprint reporting only; no WA compliance or real-student release claim.",
+            "verification": "115tests, types and lint pass;28source and28compiled expanded rows, full28screen content and20capture provenance, responsive layout, phase routing/reload, search, expand/collapse and screenshot zoom/Escape/focus verified. Static Blueprint only; original data/screenshots and game unchanged."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "115tests, types and lint pass;28source and28compiled expanded rows, full28screen content and20capture provenance, responsive layout, phase routing/reload, search, expand/collapse and screenshot zoom/Escape/focus verified."
+          ],
+          "reviewedBy": "Codex scoped source inspection",
+          "reviewedAt": "2026-10-24",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "Keep the established course handover and main current priorities unchanged; current review entry remains available.",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Keep the established course handover and main current priorities unchanged; current review entry remains available.",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md",
+              "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Keep the established course handover and main current priorities unchanged; current review entry remains available. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain scoped evidence; independent publication verification remains separate."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "checked-unchanged",
+            "action": "Phase order and teaching plans remain unchanged; this corrects navigation to the existing review only.",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Phase order and teaching plans remain unchanged; this corrects navigation to the existing review only.",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md",
+              "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Phase order and teaching plans remain unchanged; this corrects navigation to the existing review only. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain scoped evidence; independent publication verification remains separate."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Append115andpreserve114published evidence; identify the older12step material as historical.",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Append115andpreserve114published evidence; identify the older12step material as historical.",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md",
+              "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Append115andpreserve114published evidence; identify the older12step material as historical. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain scoped evidence; independent publication verification remains separate."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "checked-unchanged",
+            "action": "Use established guarded Blueprint export/publication workflow; no game or storage cleanup. ",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Use established guarded Blueprint export/publication workflow; no game or storage cleanup. ",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md",
+              "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Use established guarded Blueprint export/publication workflow; no game or storage cleanup.  Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain scoped evidence; independent publication verification remains separate."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Regenerate existing reader records and package the same source without adding a second storyboard.",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Regenerate existing reader records and package the same source without adding a second storyboard.",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md",
+              "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Regenerate existing reader records and package the same source without adding a second storyboard. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain scoped evidence; independent publication verification remains separate."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish only reviewed generated Blueprint output to existing destination and verify both exact routes and served hashes.",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Publish only reviewed generated Blueprint output to existing destination and verify both exact routes and served hashes.",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Scoped verification pending.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Publish reviewed generated output to existing Blueprint then verify both exact URLs,28live rich rows, historical labels, phase routing, screenshots and served hashes."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Verify narrow reader correction through types, tests, compiled browser and Pages.",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Verify narrow reader correction through types, tests, compiled browser and Pages.",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md",
+              "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Verify narrow reader correction through types, tests, compiled browser and Pages. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain scoped evidence; independent publication verification remains separate."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Render all28screens from one unchanged source in the older Journey table with full expandable content. Both exact URLs share the view; Phase6returns to it and historical12steps remain explicitly historical.",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Render all28screens from one unchanged source in the older Journey table with full expandable content. Both exact URLs share the view; Phase6returns to it and historical12steps remain explicitly historical.",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md",
+              "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Render all28screens from one unchanged source in the older Journey table with full expandable content. Both exact URLs share the view; Phase6returns to it and historical12steps remain explicitly historical. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain scoped evidence; independent publication verification remains separate."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Existing whole-course teacher/Stats links and authenticated proposal remain unchanged.",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Existing whole-course teacher/Stats links and authenticated proposal remain unchanged.",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md",
+              "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing whole-course teacher/Stats links and authenticated proposal remain unchanged. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain scoped evidence; independent publication verification remains separate."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "checked-unchanged",
+            "action": "Reuse existing publication worktree; preserve private evidence and source/public-output boundary.",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Reuse existing publication worktree; preserve private evidence and source/public-output boundary.",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md",
+              "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reuse existing publication worktree; preserve private evidence and source/public-output boundary. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain scoped evidence; independent publication verification remains separate."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "No screenshot bytes changed; current20captures stay in the single review and old captures remain historical.",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "No screenshot bytes changed; current20captures stay in the single review and old captures remain historical.",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md",
+              "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No screenshot bytes changed; current20captures stay in the single review and old captures remain historical. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain scoped evidence; independent publication verification remains separate."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "All20current screenshots, historical images and original assets remain byte-identical.",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "All20current screenshots, historical images and original assets remain byte-identical.",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md",
+              "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All20current screenshots, historical images and original assets remain byte-identical. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain scoped evidence; independent publication verification remains separate."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Existing exact source references remain; dated historical capture notes move inside historical disclosure.",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Existing exact source references remain; dated historical capture notes move inside historical disclosure.",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md",
+              "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing exact source references remain; dated historical capture notes move inside historical disclosure. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain scoped evidence; independent publication verification remains separate."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Render all28screens from one unchanged source in the older Journey table with full expandable content. Both exact URLs share the view; Phase6returns to it and historical12steps remain explicitly historical.",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Render all28screens from one unchanged source in the older Journey table with full expandable content. Both exact URLs share the view; Phase6returns to it and historical12steps remain explicitly historical.",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md",
+              "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Render all28screens from one unchanged source in the older Journey table with full expandable content. Both exact URLs share the view; Phase6returns to it and historical12steps remain explicitly historical. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain scoped evidence; independent publication verification remains separate."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Preserve197exact entries, original phase mappings and source links; no curriculum wording changes.",
+            "records": [
+              "CE-CHANGE-20261024-115"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Preserve197exact entries, original phase mappings and source links; no curriculum wording changes.",
+            "evidence": [
+              "docs/production/journey-market-reconciliation-20261024.md",
+              "private/production-evidence/2026-10-24/journey-amalgamation/candidate-receipt.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Preserve197exact entries, original phase mappings and source links; no curriculum wording changes. Checked against preserved HEAD source and scoped source/compiled supported-browser content, layout, routing and screenshot checks.",
+              "date": "2026-10-24"
+            },
+            "nextAction": "Retain scoped evidence; independent publication verification remains separate."
           }
         ]
       }
