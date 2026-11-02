@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.36design-intent wording correction only.
+Release scope: V2.36 Design intent, verified student portfolio and selected revised pedagogy infographic.
 
-No game, pedagogy, curriculum or ownership/access change. Existing unrelated integration backlog remains separate.
+Static reader corrections and fictional public-demo media only. Existing teaching prose, curriculum, game and access controls preserved. Refreshed teacher media pending separately.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -26296,19 +26296,19 @@ Verification: passed / Existing public research and2027SCSA references retained;
 
 Next: Retain scoped evidence and independently verify generated public release.
 
-## CE-CHANGE-20261102-118 — Replace takeover framing with Tania’s design intent
+## CE-CHANGE-20261102-118 — Design intent, verified student portfolio and revised teaching infographic
 
 Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex reader maintainer.
 
-**Objective:** Correct only reader wording and navigation; keep the existing handover URL working.
+**Objective:** Correct Design intent framing, acknowledge existing Student Hub portfolio and place the user-selected revised infographic atop Teaching & assessment.
 
 **Before:** The requested page tells another colleague to take over the project.
 
-**Required result:** The same route explains Tania’s intentions and intended development requirements.
+**Required result:** The reader explains Tania’s intent, links the browser-only student demo and illustrates teaching with the selected revised infographic; existing teaching text remains intact.
 
 **Source:** Tania explicitly requests wording correction at the existing delivery/handover URL; publication authorised.
 
-**Next:** Publish the reviewed wording correction and verify originalroute, servedhashes, heading/navlabels and desktop/mobileUI.
+**Next:** Complete final combined validation and verify publication; refreshed teacher media remains separate.
 
 ### Start Here — updated
 
@@ -26350,7 +26350,7 @@ Next: Retain source-specific evidence; livepublicationcheck remains pending.
 
 [Open section](/career-empire-blueprint/production/material-changes.md)
 
-Materialrecord118 records the explicit wording request and no-transfer intent; original decisions/history retained.
+Record and export Design intent wording, existing student portfolio correction and selected revised infographic; retain unrelated history and private-source exclusions.
 
 Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
 
@@ -26386,7 +26386,7 @@ Next: Retain source-specific evidence; livepublicationcheck remains pending.
 
 [Open section](/career-empire-blueprint/blueprint-records.json)
 
-Canonical record exports regenerate navigation labels and wording status; no private source added to public output.
+Record and export Design intent wording, existing student portfolio correction and selected revised infographic; retain unrelated history and private-source exclusions.
 
 Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
 
@@ -26404,7 +26404,7 @@ Next: Retain source-specific evidence; livepublicationcheck remains pending.
 
 [Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
 
-Publish generated V2.36wording correction only to the existing public Blueprint.
+Publish the generated V2.36 Design intent, existing student portfolio and selected revised teaching infographic to the existing reader.
 
 Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
 
@@ -26454,21 +26454,22 @@ Verification: passed / Original delivery/handover URL renders Design intent, and
 
 Next: Retain source-specific evidence; livepublicationcheck remains pending.
 
-### Teacher/classroom workflow — checked-unchanged
+### Teacher/classroom workflow — updated
 
 [Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
 
-All learningPrinciples JSON and shared LearningModel bytes are unchanged; app/blueprint-detail.tsx and teacher/dashboard content untouched.
+Add only approved revised teaching infographic and three fictional public student-demo captures; correct existing portfolio and next-step claims. Teacher sample refresh remains pending, with no working teacher dashboard link.
 
 Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
 
 Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
 
-Verification: passed / All learningPrinciples JSON and shared LearningModel bytes are unchanged; app/blueprint-detail.tsx and teacher/dashboard content untouched. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+Verification: passed / Approved image pixels inspected; student preview/lightbox passed. Final combined reader check and publication pending.
 
-- [Evidence](app/site-guide.tsx)
-- [Evidence](app/blueprint-surfaces.tsx)
-- [Evidence](data/operations.json)
+- [Evidence](app/blueprint-detail.tsx)
+- [Evidence](app/course-tracking.tsx)
+- [Evidence](data/course-tracking.json)
+- [Evidence](data/markets-review.json)
 
 Next: Retain source-specific evidence; livepublicationcheck remains pending.
 
@@ -26490,39 +26491,41 @@ Verification: passed / Editable source, private recovery and licensed-material b
 
 Next: Retain source-specific evidence; livepublicationcheck remains pending.
 
-### Start Here images and video — checked-unchanged
+### Start Here images and video — updated
 
 [Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
 
-All existing imagery, videos and provenance retained; no media replacement or game screenshots added.
+Add only approved revised teaching infographic and three fictional public student-demo captures; correct existing portfolio and next-step claims. Teacher sample refresh remains pending, with no working teacher dashboard link.
 
 Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
 
 Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
 
-Verification: passed / All existing imagery, videos and provenance retained; no media replacement or game screenshots added. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+Verification: passed / Approved image pixels inspected; student preview/lightbox passed. Final combined reader check and publication pending.
 
-- [Evidence](app/site-guide.tsx)
-- [Evidence](app/blueprint-surfaces.tsx)
-- [Evidence](data/operations.json)
+- [Evidence](app/blueprint-detail.tsx)
+- [Evidence](app/course-tracking.tsx)
+- [Evidence](data/course-tracking.json)
+- [Evidence](data/markets-review.json)
 
 Next: Retain source-specific evidence; livepublicationcheck remains pending.
 
-### Visual/asset register and production brief — checked-unchanged
+### Visual/asset register and production brief — updated
 
 [Open section](/career-empire-blueprint/production/visual-register.md)
 
-Asset and visual registers remain byte-unchanged; no assets, models, curriculum icons or appearance acceptance changed.
+Add only approved revised teaching infographic and three fictional public student-demo captures; correct existing portfolio and next-step claims. Teacher sample refresh remains pending, with no working teacher dashboard link.
 
 Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
 
 Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
 
-Verification: passed / Asset and visual registers remain byte-unchanged; no assets, models, curriculum icons or appearance acceptance changed. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+Verification: passed / Approved image pixels inspected; student preview/lightbox passed. Final combined reader check and publication pending.
 
-- [Evidence](app/site-guide.tsx)
-- [Evidence](app/blueprint-surfaces.tsx)
-- [Evidence](data/operations.json)
+- [Evidence](app/blueprint-detail.tsx)
+- [Evidence](app/course-tracking.tsx)
+- [Evidence](data/course-tracking.json)
+- [Evidence](data/markets-review.json)
 
 Next: Retain source-specific evidence; livepublicationcheck remains pending.
 

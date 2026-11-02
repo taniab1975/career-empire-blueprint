@@ -1,24 +1,24 @@
 {
-  "sourceCommit": "7dbaa8c17fb6e8d73bcc8526c1502b2758cb1dd8",
-  "generatedAt": "2026-11-02T07:45:10.660Z",
+  "sourceCommit": "38dbbfb8fb3b90c2db2a8aaed3c51a622e705005",
+  "generatedAt": "2026-11-02T08:21:44.463Z",
   "revision": "V2.36 / 2 November 2026",
-  "recordSha256": "8c6182b9aa74acd918088710bf1e8d85b7e0aad2312f4ed69f98cf65b3566dce",
+  "recordSha256": "6e2ce2d73d32e7ca15016818f79c8adc009878004a0e4293a0ad319fed43f3da",
   "files": [
     {
-      "path": "assets/curriculum-planner-EaaGkCVm.js",
-      "sha256": "fd509803f2a5d702c69c9fae5960fc207f96e1e9e96c75ec5a2972fee58375b4"
-    },
-    {
-      "path": "assets/index-DB8rQtSx.js",
-      "sha256": "697ef5a78baa005cbc8c26378a70d9402d0180d125454bc084e2d0fc4cff6769"
+      "path": "assets/curriculum-planner-Do-9PRt_.js",
+      "sha256": "0b8d5340d29bbd8318a3371f6fdf983f5e38b09d721c6b165ea81ed17d1b13d2"
     },
     {
       "path": "assets/index-lL8I4ki0.css",
       "sha256": "eea8413f06334757a76830176ae580f1f2b0f5df25952ce7aba77c1adcf7b26c"
     },
     {
+      "path": "assets/index-uKCSjYbB.js",
+      "sha256": "a963ae33d745f86c6243a41b16fdd70c350afe3ac7a3a412a555fe9f7b29f2a5"
+    },
+    {
       "path": "blueprint-records.json",
-      "sha256": "8c6182b9aa74acd918088710bf1e8d85b7e0aad2312f4ed69f98cf65b3566dce"
+      "sha256": "6e2ce2d73d32e7ca15016818f79c8adc009878004a0e4293a0ad319fed43f3da"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1277,6 +1277,10 @@
       "sha256": "71725ccad555fc0c75e70e3eb4128346fd12d53d8b2e6accd61f78ddeee987ee"
     },
     {
+      "path": "evidence/pedagogy-20261102/career-empire-learning-design.png",
+      "sha256": "65ec1d9bacff511bff04483eb4903dc1b5b57b945856344d04604a296ba4f75c"
+    },
+    {
       "path": "evidence/phone-opening-20260917/after.png",
       "sha256": "ae2faa360c01c582daf11aa39f16d04836421db031326e8085ffae211f7b63e4"
     },
@@ -1381,6 +1385,18 @@
       "sha256": "6608e53d0f5299232c67feda396bb77aa158e96f6c9911271bd3ea008da1d1f5"
     },
     {
+      "path": "evidence/student-portfolio-20261102/student-demo-hub.jpg",
+      "sha256": "abe518ee76abe2c9611a1aa16cc9791e28e82a1d2b3ec721a82d9dc6ab0265c4"
+    },
+    {
+      "path": "evidence/student-portfolio-20261102/student-demo-saved-portfolio.jpg",
+      "sha256": "0a3929177539e1cd2a0b1d1dbdc4672bb668005553be23ddea5f180efe686d53"
+    },
+    {
+      "path": "evidence/student-portfolio-20261102/student-demo-star-builder.jpg",
+      "sha256": "c97f34e8c6a08bfc2c8c8ac5024932ce724f8cbedc7d9d4430d38a7884706682"
+    },
+    {
       "path": "evidence/workflow-20260910/coverage-desktop.png",
       "sha256": "6b4bc5c6e16d9b75232150ca9c6fb0b2c62683683b9603b9d39e38ab8b174e4e"
     },
@@ -1398,7 +1414,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "b44d7409c1845ae8514429462b38624f9cdfae4aebb0379e5843c3f4818c1e27"
+      "sha256": "d31b091aefe8c2a2a07e4ba404f52bf15dd4437df997cb7cce63effae8af76d5"
     },
     {
       "path": "playable-3d/app.js",
@@ -1670,7 +1686,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "b9c356555abcbd0ba7a4e0684ba6ec00bf678771709d839240adcceff568b6b2"
+      "sha256": "e9f85334245f382fd86bfaf16755ca146876042faf43ab081318e07e5c7942a3"
     },
     {
       "path": "production/change-workflows.md",
@@ -1898,7 +1914,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "1e5cc056c92a6d1a23aa86db7eb916a408ffeec30c0ac329f05507a5a6935ea3"
+      "sha256": "ffd3bc804bbe86c376034a0929172176d454b3dc04237028d02520b857aea65a"
     },
     {
       "path": "production/media-oval-20260911.md",

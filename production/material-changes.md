@@ -1847,22 +1847,22 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **testing:** 115tests, types/lint, local build/static compilation, desktop390pxreader checks and exact28screen/197curriculum/capture preservation passed.
 - **taniaAcceptance:** No new visual, implementation or classroom acceptance inferred.
 
-## CE-CHANGE-20261102-118 — Describe Tania’s design intent without implying a project handover
+## CE-CHANGE-20261102-118 — Design intent, existing student portfolio and revised teaching infographic
 
 - **date:** 2026-11-02
-- **domain:** Blueprint wording and navigation only
+- **domain:** Blueprint reader corrections and selected visual only
 - **source:** Tania: reword or remove the linked handover page; it explains what she wants, not a transfer to another person.
 - **owner:** Tania: design intent; Codex: scoped reader correction
 - **status:** Ready for wording-only publication
 - **rationale:** Replace successor/takeover framing with intended game behaviour while retaining useful requirements and boundaries.
 - **dependencies:** CE-CHANGE-20261102-117
 - **evidence:** app/site-guide.tsx / app/blueprint-surfaces.tsx / data/operations.json
-- **nextAction:** Publish scoped correction and independently verify served content at the original handoverURL.
+- **nextAction:** Validate and publish these approved reader corrections; keep refreshed teacher media pending.
 - **supersededRecord:** None
-- **designApproval:** User explicitly requests the wording correction and its publication; no pedagogy revision or game feature change.
-- **implementation:** Design intent heading/nav/card and neutral design-specification framing; compatibility route retained.
+- **designApproval:** User approves Design intent and verified public-demo portfolio media; explicitly asks selected revised infographic at top of pedagogy page. Teacher media pending separately.
+- **implementation:** Design intent wording with compatible route; existing Student Hub STAR/Goal/Review portfolio, public demo entry and three fictional captures; selected revised infographic above unchanged pedagogy content.
 - **deployment:** Not yet verified live for this correction.
-- **testing:** 115tests, TypeScript,lint,staticbuild and desktop390pxroute checks passed. Pedagogy JSON/sharedLearningModel unchanged.
+- **testing:** 115 tests/types/lint and student screenshot preview passed; final combined checks pending.
 - **taniaAcceptance:** No ownership transfer is intended; further design and pedagogy review remain separate.
 
 ## Retained Atlas principles

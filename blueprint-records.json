@@ -31161,6 +31161,36 @@
         "sha256": "521abb111ac0d8c93e5b2aad0cc062bb2b914ba1c13c262c44571baa669559ee",
         "origin": "Read-only source project /tests/fixtures/discovery-panels.html; current component-capture-receipt.json",
         "qa": "Fresh Chrome component capture with images loaded, zero page errors and stable source hashes. Full-scene Market/GLB and game release verification remain separate."
+      },
+      "student-demo-hub": {
+        "src": "/evidence/student-portfolio-20261102/student-demo-hub.jpg",
+        "title": "Student Hub · public demo",
+        "alt": "Public Demo Student hub with local-only progress and View Portfolio; no real learner record.",
+        "caption": "Public student demo, not real learner data. Entries stay in this browser; demo teacher-review labels do not represent a submission.",
+        "kind": "Existing public demo · fictional / browser-only",
+        "sha256": "abe518ee76abe2c9611a1aa16cc9791e28e82a1d2b3ec721a82d9dc6ab0265c4",
+        "origin": "Public Student Hub demo, 2 November 2026; verified fictional inspection capture.",
+        "qa": "Pixels inspected locally. Demo is browser-local only; automatic new 3D Markets transfer and school submission unverified."
+      },
+      "student-demo-star-builder": {
+        "src": "/evidence/student-portfolio-20261102/student-demo-star-builder.jpg",
+        "title": "STAR builder · blank public demo form",
+        "alt": "Blank Communication STAR builder in the public student demo; no learner response.",
+        "caption": "Public student demo, not real learner data. Entries stay in this browser; demo teacher-review labels do not represent a submission.",
+        "kind": "Existing public demo · fictional / browser-only",
+        "sha256": "c97f34e8c6a08bfc2c8c8ac5024932ce724f8cbedc7d9d4430d38a7884706682",
+        "origin": "Public Student Hub demo, 2 November 2026; verified fictional inspection capture.",
+        "qa": "Pixels inspected locally. Demo is browser-local only; automatic new 3D Markets transfer and school submission unverified."
+      },
+      "student-demo-saved-portfolio": {
+        "src": "/evidence/student-portfolio-20261102/student-demo-saved-portfolio.jpg",
+        "title": "Student portfolio · fictional saved example",
+        "alt": "Public demo portfolio displaying our fictional market-stall STAR example and chronological/by-skill tabs; not a real student record.",
+        "caption": "Public demo: fictional example stored in this browser, not submitted to a teacher.",
+        "kind": "Existing public demo · fictional / browser-only",
+        "sha256": "0a3929177539e1cd2a0b1d1dbdc4672bb668005553be23ddea5f180efe686d53",
+        "origin": "Public Student Hub demo, 2 November 2026; verified fictional inspection capture.",
+        "qa": "Pixels inspected locally. Demo is browser-local only; automatic new 3D Markets transfer and school submission unverified."
       }
     },
     "tabs": [
@@ -31338,7 +31368,7 @@
             "pedagogy": "Give a stable reference for explanation, later retrieval and teacher-supported revision.",
             "outcome": "Locate the five behaviours, three possible benefits and retrieval prompts.",
             "evidence": "Use a later explanation or saved work artifact; opening/downloading a guide is resource access.",
-            "limits": "Existing My Work is a destination. Automatic transfer of this new practice into a school portfolio is not established.",
+            "limits": "The older Student Hub already has a STAR portfolio with Goal and Review. Its public demo is browser-only and submits nothing to a teacher. Automatic transfer of this new 3D Markets practice into that portfolio or a school submission is not established.",
             "status": "unpublished",
             "screens": [],
             "curriculumIds": [
@@ -33031,29 +33061,34 @@
       {
         "id": "student-portfolio",
         "title": "Portfolio evidence",
-        "action": "Existing My Life / My work is a destination. Proposed cross-course links would connect actual work, curriculum target, date and feedback.",
+        "action": "The existing older Student Hub has a working portfolio: choose School, Workplace, Community or Gameplay on a skill card, write STAR evidence with Goal and Review, then Bank STAR evidence and open View Portfolio. Entries show dates and skill/subskill tags, with chronological or by-skill views and editing.",
         "pedagogy": "Give the learner inspectable work to explain and improve.",
         "outcome": "Identify the evidence and what feedback changed.",
-        "evidence": "Keep a decision/explanation/reflection or performance record with review context.",
-        "limits": "A portfolio stores evidence; it does not certify it. Automatic transfer of new Markets practice to a school portfolio is not verified.",
-        "status": "proposed",
-        "screens": [],
+        "evidence": "The public demo saved a fictional entry through reload and displayed it in View Portfolio. Use the learner’s actual work and review context when collecting genuine evidence.",
+        "limits": "The public demo stores entries only in this browser’s localStorage. It is not cross-device storage or a school submission. Its “Teacher review pending” label does not mean the demo submitted anything to a teacher. Automatic transfer from the new 3D Markets experience remains unverified.",
+        "status": "existing-source",
+        "screens": [
+          "student-demo-saved-portfolio",
+          "student-demo-hub"
+        ],
         "curriculumIds": [],
-        "source": "Existing Blueprint curriculum plan and dated implementation evidence; no new live data connection.",
+        "source": "Parent-verified public Student Hub demo, 2 November 2026: auth/index.html → Open demo student hub → Bank STAR evidence → reload → View Portfolio. Fictional sample only; no school session or real learner data queried.",
         "depth": 0
       },
       {
         "id": "student-next",
         "title": "Next steps and support",
-        "action": "Use the phase walkthrough, a teacher-agreed next task, a resource/retry or a changed case.",
+        "action": "The existing Student Hub STAR builder includes Goal and Review fields so a learner can record a next step and revisit it. For course learning, use that reflection with a teacher-agreed task, resource, retry or changed case.",
         "pedagogy": "Offer a useful next action instead of a generic progress percentage.",
         "outcome": "Explain what to work on next and why.",
         "evidence": "Teacher and learner use actual evidence to choose support, another check or extension.",
-        "limits": "Automated recommendations, support alerts and whole-course student records are proposed. No new backend or learner judgement is implemented.",
-        "status": "proposed",
-        "screens": [],
+        "limits": "Existing Goal and Review fields are learner-authored reflections, not automated recommendations or verified teacher feedback. The public demo stays in this browser and submits nothing to a teacher. Automated support alerts and new whole-course integrations remain proposed.",
+        "status": "existing-source",
+        "screens": [
+          "student-demo-star-builder"
+        ],
         "curriculumIds": [],
-        "source": "Existing Blueprint curriculum plan and dated implementation evidence; no new live data connection.",
+        "source": "Parent-verified public Student Hub STAR builder and saved fictional portfolio, 2 November 2026; new course-level recommendations and 3D Markets integration unverified.",
         "depth": 0
       }
     ],
@@ -33214,11 +33249,11 @@
       "id": "V2.36",
       "date": "2026-11-02",
       "label": "V2.36 / 2 November 2026",
-      "status": "Design-intent wording candidate; publication pending",
+      "status": "Design intent, existing student portfolio and revised pedagogy infographic; publication pending",
       "purpose": "Career Empire is a connected learning-design project. This scoped Blueprint update teaches from the syllabus first: meaningful experience, explicit instruction, supported application, feedback and durable understanding. Curriculum ways and benefits stay central; no competing named guide or draft song is added to core learning.",
       "audience": "Colleagues reviewing the current game and learning design; teacher delivery program remains in development.",
       "owner": "Tania Byrnes",
-      "scope": "Replace project-handover framing with Tania’s design intent; preserve requirements, old URL, pedagogy and game source."
+      "scope": "Design intent wording, verified public student demo portfolio and selected revised infographic at top of Teaching & assessment. Existing teaching text preserved; refreshed teacher media remains separate."
     },
     "navigation": [
       {
@@ -37281,8 +37316,8 @@
         {
           "id": "CE-CHANGE-20261102-118",
           "date": "2026-11-02",
-          "title": "Describe Tania’s design intent without implying a project handover",
-          "domain": "Blueprint wording and navigation only",
+          "title": "Design intent, existing student portfolio and revised teaching infographic",
+          "domain": "Blueprint reader corrections and selected visual only",
           "source": "Tania: reword or remove the linked handover page; it explains what she wants, not a transfer to another person.",
           "owner": "Tania: design intent; Codex: scoped reader correction",
           "status": "Ready for wording-only publication",
@@ -37295,12 +37330,12 @@
             "app/blueprint-surfaces.tsx",
             "data/operations.json"
           ],
-          "nextAction": "Publish scoped correction and independently verify served content at the original handoverURL.",
+          "nextAction": "Validate and publish these approved reader corrections; keep refreshed teacher media pending.",
           "supersededRecord": null,
-          "designApproval": "User explicitly requests the wording correction and its publication; no pedagogy revision or game feature change.",
-          "implementation": "Design intent heading/nav/card and neutral design-specification framing; compatibility route retained.",
+          "designApproval": "User approves Design intent and verified public-demo portfolio media; explicitly asks selected revised infographic at top of pedagogy page. Teacher media pending separately.",
+          "implementation": "Design intent wording with compatible route; existing Student Hub STAR/Goal/Review portfolio, public demo entry and three fictional captures; selected revised infographic above unchanged pedagogy content.",
           "deployment": "Not yet verified live for this correction.",
-          "testing": "115tests, TypeScript,lint,staticbuild and desktop390pxroute checks passed. Pedagogy JSON/sharedLearningModel unchanged.",
+          "testing": "115 tests/types/lint and student screenshot preview passed; final combined checks pending.",
           "taniaAcceptance": "No ownership transfer is intended; further design and pedagogy review remain separate."
         }
       ],
@@ -51286,8 +51321,8 @@
       "changeIds": [
         "CE-CHANGE-20261102-118"
       ],
-      "scope": "V2.36design-intent wording correction only.",
-      "disclosure": "No game, pedagogy, curriculum or ownership/access change. Existing unrelated integration backlog remains separate.",
+      "scope": "V2.36 Design intent, verified student portfolio and selected revised pedagogy infographic.",
+      "disclosure": "Static reader corrections and fictional public-demo media only. Existing teaching prose, curriculum, game and access controls preserved. Refreshed teacher media pending separately.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -51506,7 +51541,11 @@
         "public/evidence/orientation-review-20261024/persistent-help.jpg",
         "public/evidence/orientation-review-20261024/photo-review.jpg",
         "public/evidence/orientation-review-20261024/welcome.jpg",
-        "docs/production/teaching-megatrends-plan-20261102.md"
+        "docs/production/teaching-megatrends-plan-20261102.md",
+        "public/evidence/student-portfolio-20261102/student-demo-hub.jpg",
+        "public/evidence/student-portfolio-20261102/student-demo-star-builder.jpg",
+        "public/evidence/student-portfolio-20261102/student-demo-saved-portfolio.jpg",
+        "public/evidence/pedagogy-20261102/career-empire-learning-design.png"
       ],
       "reviews": [
         {
@@ -51523,9 +51562,9 @@
         },
         {
           "path": "app/blueprint-detail.tsx",
-          "sha256": "5c253cfb2376129536161d17fdd6e928f49fb02a9882f1b831543e7e6f80a43a",
+          "sha256": "5b5f13d993fa701a380032d46b225b8b60a88661a93863898166da01bef42545",
           "reviewedAt": "2026-11-02",
-          "method": "Scoped review: exact Mara hook, preserved screen02/28screens and captures, whole-game pedagogy, fictional curriculum-mapped megatrends; generated record diffs contain record117 only. Local candidate, not release approval."
+          "method": "Reviewed selected revised infographic pixels, dated game insets and responsive full-size link; underlying teaching text and exact curriculum preserved. Combined release metadata matches approved scope; fictional student captures only."
         },
         {
           "path": "app/blueprint-routing.ts",
@@ -51591,9 +51630,9 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "097d82f965f0b5784384496d3945bcfbd3c03fe14b6549513568186f8a767abc",
+          "sha256": "a714a242c6062537e090299b6abd1228fe69ced6c54d51e2a30f261a6024e7d7",
           "reviewedAt": "2026-11-02",
-          "method": "Reviewed scoped Designintentwording, labels and exactlegacyroute preservation; pedagogy/learningModel data and game source unchanged. Generated exports inspected for record118andlabelmetadata only."
+          "method": "Reviewed selected revised infographic pixels, dated game insets and responsive full-size link; underlying teaching text and exact curriculum preserved. Combined release metadata matches approved scope; fictional student captures only."
         },
         {
           "path": "data/refresh-checkpoint.json",
@@ -52223,7 +52262,9 @@
         },
         {
           "path": "data/markets-review.json",
-          "sha256": "9bdba77d0517703c7d7343633a62ee0700ab9a4296b1a2b6ec365ecf75857e60"
+          "sha256": "521dc5af0c024d7534321fdb507a0bc7446b7b504696a0067744c4124443b421",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed narrow existing Student Hub portfolio correction against parent-verified fictional public demo: browser-only STAR/Goal/Review, no teacher submission, new 3D Markets transfer unverified. Media and combined publication pending; no pedagogy edits."
         },
         {
           "path": "app/markets-review.tsx",
@@ -52247,11 +52288,15 @@
         },
         {
           "path": "app/course-tracking.tsx",
-          "sha256": "48cc80e63c5b004ad73f3cf3b9f6b87fcb88ac19fafe916cb0fc1d734448647d"
+          "sha256": "feee4f7e92894f8fb99c80d64164a8b2160baab53f609b6f19e66344bb9eea57",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed narrow existing Student Hub portfolio correction against parent-verified fictional public demo: browser-only STAR/Goal/Review, no teacher submission, new 3D Markets transfer unverified. Media and combined publication pending; no pedagogy edits."
         },
         {
           "path": "data/course-tracking.json",
-          "sha256": "298a22a2d07c1db833ad7570ce89b54da04696196e561ca50b036abf5c9ae301"
+          "sha256": "dbedf3b0cdb6d4c453c8d5fd74cc5682aeab6bc44c5d8b08191b1572d87d6f1b",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed narrow existing Student Hub portfolio correction against parent-verified fictional public demo: browser-only STAR/Goal/Review, no teacher submission, new 3D Markets transfer unverified. Media and combined publication pending; no pedagogy edits."
         },
         {
           "path": "tests/course-tracking.test.mjs",
@@ -52263,15 +52308,15 @@
         },
         {
           "path": "docs/production/change-integration.md",
-          "sha256": "544f0e05f74691d40db94910804b31b2b88a6444a3b6c61688e5e1dee26ae9aa",
+          "sha256": "2de3b44a550781dcee1f7c3698a843187d6189b32743f4b4e2b0d59be964565b",
           "reviewedAt": "2026-11-02",
-          "method": "Reviewed scoped Designintentwording, labels and exactlegacyroute preservation; pedagogy/learningModel data and game source unchanged. Generated exports inspected for record118andlabelmetadata only."
+          "method": "Reviewed regenerated record118 integration report: selected infographic and existing public-demo portfolio now included in approved static reader release scope; prior history preserved."
         },
         {
           "path": "docs/production/material-changes.md",
-          "sha256": "1e5cc056c92a6d1a23aa86db7eb916a408ffeec30c0ac329f05507a5a6935ea3",
+          "sha256": "ffd3bc804bbe86c376034a0929172176d454b3dc04237028d02520b857aea65a",
           "reviewedAt": "2026-11-02",
-          "method": "Reviewed scoped Designintentwording, labels and exactlegacyroute preservation; pedagogy/learningModel data and game source unchanged. Generated exports inspected for record118andlabelmetadata only."
+          "method": "Reviewed regenerated record118 integration report: selected infographic and existing public-demo portfolio now included in approved static reader release scope; prior history preserved."
         },
         {
           "path": "docs/production/learning-principles-20261021.md",
@@ -52301,7 +52346,9 @@
         },
         {
           "path": "app/market-review-extensions.tsx",
-          "sha256": "e397c825ef51b3611ea50a45cc99d7ace7012e59a6c7a47b101c6c888af93b10"
+          "sha256": "45e5f3e2a2ae8165ae05fafbd2394a98974c721f3b97bca3fdc7a29a03e003d5",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed narrow existing Student Hub portfolio correction against parent-verified fictional public demo: browser-only STAR/Goal/Review, no teacher submission, new 3D Markets transfer unverified. Media and combined publication pending; no pedagogy edits."
         },
         {
           "path": "docs/production/journey-market-reconciliation-20261024.md",
@@ -52412,6 +52459,30 @@
           "sha256": "a84598e2d45f02ec422f1bd8409f8ba3369fdb86037f3ff201f2ecaae431b9b4",
           "reviewedAt": "2026-11-02",
           "method": "Reviewed exact Mara sequence and safe public planning brief;28screens/197curriculum and game boundary preserved."
+        },
+        {
+          "path": "public/evidence/student-portfolio-20261102/student-demo-hub.jpg",
+          "sha256": "abe518ee76abe2c9611a1aa16cc9791e28e82a1d2b3ec721a82d9dc6ab0265c4",
+          "reviewedAt": "2026-11-02",
+          "method": "Locally inspected pixels from specifically approved public demo screenshot; Demo Student / blank form / explicitly fictional example only. Browser-only and no teacher submission caption retained."
+        },
+        {
+          "path": "public/evidence/student-portfolio-20261102/student-demo-star-builder.jpg",
+          "sha256": "c97f34e8c6a08bfc2c8c8ac5024932ce724f8cbedc7d9d4430d38a7884706682",
+          "reviewedAt": "2026-11-02",
+          "method": "Locally inspected pixels from specifically approved public demo screenshot; Demo Student / blank form / explicitly fictional example only. Browser-only and no teacher submission caption retained."
+        },
+        {
+          "path": "public/evidence/student-portfolio-20261102/student-demo-saved-portfolio.jpg",
+          "sha256": "0a3929177539e1cd2a0b1d1dbdc4672bb668005553be23ddea5f180efe686d53",
+          "reviewedAt": "2026-11-02",
+          "method": "Locally inspected pixels from specifically approved public demo screenshot; Demo Student / blank form / explicitly fictional example only. Browser-only and no teacher submission caption retained."
+        },
+        {
+          "path": "public/evidence/pedagogy-20261102/career-empire-learning-design.png",
+          "sha256": "65ec1d9bacff511bff04483eb4903dc1b5b57b945856344d04604a296ba4f75c",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed selected revised infographic pixels, dated game insets and responsive full-size link; underlying teaching text and exact curriculum preserved. Combined release metadata matches approved scope; fictional student captures only."
         }
       ]
     },
@@ -88889,26 +88960,26 @@
       },
       {
         "changeId": "CE-CHANGE-20261102-118",
-        "title": "Replace takeover framing with Tania’s design intent",
+        "title": "Design intent, verified student portfolio and revised teaching infographic",
         "types": [
           "governance",
           "implementation",
           "release"
         ],
         "status": "ready-for-publication",
-        "objective": "Correct only reader wording and navigation; keep the existing handover URL working.",
+        "objective": "Correct Design intent framing, acknowledge existing Student Hub portfolio and place the user-selected revised infographic atop Teaching & assessment.",
         "before": "The requested page tells another colleague to take over the project.",
-        "after": "The same route explains Tania’s intentions and intended development requirements.",
+        "after": "The reader explains Tania’s intent, links the browser-only student demo and illustrates teaching with the selected revised infographic; existing teaching text remains intact.",
         "source": "Tania explicitly requests wording correction at the existing delivery/handover URL; publication authorised.",
         "owner": "Tania design owner; Codex reader maintainer",
-        "nextAction": "Publish the reviewed wording correction and verify originalroute, servedhashes, heading/navlabels and desktop/mobileUI.",
+        "nextAction": "Complete final combined validation and verify publication; refreshed teacher media remains separate.",
         "securityPrivacyImpact": {
           "baseline": "WA-DOE-v4c",
           "waQuestionIds": [],
           "waControlChecks": [],
           "waEvidenceIds": [],
           "owner": "Codex Blueprint maintainer; Tania reviews publication",
-          "scope": "Static Blueprint wording and labels only; no game, teaching design, access or data changes.",
+          "scope": "Static reader text and selected infographic plus fictional public-demo captures; no game, identity, backend or access change.",
           "rationale": "Retain existing source/privacy boundaries; wording does not grant access or transfer ownership.",
           "status": "reviewed",
           "triggers": {
@@ -88931,7 +89002,7 @@
             "student-safety": "no"
           },
           "answers": {
-            "data": "Existing public design records only; no student records or new data collection.",
+            "data": "Existing public design records and specifically approved fictional public demo captures; no real student records or new data collection.",
             "locations": "Existing GitHub Pages static website; licensed originals and private evidence remain outside generated public artifacts.",
             "accessCountries": "Existing public website access; no new account-data transfer or provider.",
             "providers": "Existing GitHub Pages only; no new external service is introduced.",
@@ -88947,7 +89018,7 @@
           "controlIds": [],
           "evidenceIds": [],
           "tests": [
-            "115tests,types/lint/staticcompilation,desktop390pxoriginalroute and content checks passed; no pedagogy, game, permissions or data change."
+            "115 tests, TypeScript/lint, desktop and390px infographic proportions/no-overflow, student screenshot/lightbox preview passed. Final guarded release build and live checks remain separate."
           ],
           "reviewedBy": "Codex source review",
           "reviewedAt": "2026-11-02",
@@ -89002,7 +89073,7 @@
           {
             "surface": "history",
             "disposition": "updated",
-            "action": "Materialrecord118 records the explicit wording request and no-transfer intent; original decisions/history retained.",
+            "action": "Record and export Design intent wording, existing student portfolio correction and selected revised infographic; retain unrelated history and private-source exclusions.",
             "records": [
               "CE-CHANGE-20261102-118"
             ],
@@ -89044,7 +89115,7 @@
           {
             "surface": "exports",
             "disposition": "updated",
-            "action": "Canonical record exports regenerate navigation labels and wording status; no private source added to public output.",
+            "action": "Record and export Design intent wording, existing student portfolio correction and selected revised infographic; retain unrelated history and private-source exclusions.",
             "records": [
               "CE-CHANGE-20261102-118"
             ],
@@ -89065,7 +89136,7 @@
           {
             "surface": "publication",
             "disposition": "pending",
-            "action": "Publish generated V2.36wording correction only to the existing public Blueprint.",
+            "action": "Publish the generated V2.36 Design intent, existing student portfolio and selected revised teaching infographic to the existing reader.",
             "records": [
               "CE-CHANGE-20261102-118"
             ],
@@ -89127,21 +89198,22 @@
           },
           {
             "surface": "teacher",
-            "disposition": "checked-unchanged",
-            "action": "All learningPrinciples JSON and shared LearningModel bytes are unchanged; app/blueprint-detail.tsx and teacher/dashboard content untouched.",
+            "disposition": "updated",
+            "action": "Add only approved revised teaching infographic and three fictional public student-demo captures; correct existing portfolio and next-step claims. Teacher sample refresh remains pending, with no working teacher dashboard link.",
             "records": [
               "CE-CHANGE-20261102-118"
             ],
             "owner": "Codex reader maintainer; Tania design owner",
             "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
             "evidence": [
-              "app/site-guide.tsx",
-              "app/blueprint-surfaces.tsx",
-              "data/operations.json"
+              "app/blueprint-detail.tsx",
+              "app/course-tracking.tsx",
+              "data/course-tracking.json",
+              "data/markets-review.json"
             ],
             "verification": {
               "result": "passed",
-              "method": "All learningPrinciples JSON and shared LearningModel bytes are unchanged; app/blueprint-detail.tsx and teacher/dashboard content untouched. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "method": "Approved image pixels inspected; student preview/lightbox passed. Final combined reader check and publication pending.",
               "date": "2026-11-02"
             },
             "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
@@ -89169,42 +89241,44 @@
           },
           {
             "surface": "media",
-            "disposition": "checked-unchanged",
-            "action": "All existing imagery, videos and provenance retained; no media replacement or game screenshots added.",
+            "disposition": "updated",
+            "action": "Add only approved revised teaching infographic and three fictional public student-demo captures; correct existing portfolio and next-step claims. Teacher sample refresh remains pending, with no working teacher dashboard link.",
             "records": [
               "CE-CHANGE-20261102-118"
             ],
             "owner": "Codex reader maintainer; Tania design owner",
             "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
             "evidence": [
-              "app/site-guide.tsx",
-              "app/blueprint-surfaces.tsx",
-              "data/operations.json"
+              "app/blueprint-detail.tsx",
+              "app/course-tracking.tsx",
+              "data/course-tracking.json",
+              "data/markets-review.json"
             ],
             "verification": {
               "result": "passed",
-              "method": "All existing imagery, videos and provenance retained; no media replacement or game screenshots added. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "method": "Approved image pixels inspected; student preview/lightbox passed. Final combined reader check and publication pending.",
               "date": "2026-11-02"
             },
             "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
           },
           {
             "surface": "assets",
-            "disposition": "checked-unchanged",
-            "action": "Asset and visual registers remain byte-unchanged; no assets, models, curriculum icons or appearance acceptance changed.",
+            "disposition": "updated",
+            "action": "Add only approved revised teaching infographic and three fictional public student-demo captures; correct existing portfolio and next-step claims. Teacher sample refresh remains pending, with no working teacher dashboard link.",
             "records": [
               "CE-CHANGE-20261102-118"
             ],
             "owner": "Codex reader maintainer; Tania design owner",
             "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
             "evidence": [
-              "app/site-guide.tsx",
-              "app/blueprint-surfaces.tsx",
-              "data/operations.json"
+              "app/blueprint-detail.tsx",
+              "app/course-tracking.tsx",
+              "data/course-tracking.json",
+              "data/markets-review.json"
             ],
             "verification": {
               "result": "passed",
-              "method": "Asset and visual registers remain byte-unchanged; no assets, models, curriculum icons or appearance acceptance changed. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "method": "Approved image pixels inspected; student preview/lightbox passed. Final combined reader check and publication pending.",
               "date": "2026-11-02"
             },
             "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
