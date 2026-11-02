@@ -2,7 +2,7 @@
 
 2026-10-12
 
-V2.29 all-phase walkthroughs and whole-course tracking reader are published and independently verified. Exact curriculum, dated isolated Markets captures and actual legacy fictional demo remain distinct from proposed teaching, opening handover and authenticated integrations.
+Current Blueprint planning connects the28screen Mara review, whole-game Teaching & assessment and three fictional character-led megatrend proposals. Exact curriculum, historical evidence, pending provision and separate game publication boundaries remain.
 
 ## First session
 

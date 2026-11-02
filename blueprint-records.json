@@ -31620,8 +31620,8 @@
   },
   "marketStoryboard": {
     "title": "Sunday Markets · full curriculum storyboard",
-    "date": "24 October 2026",
-    "status": "PROPOSED student sequence for Tania to correct · Blueprint only",
+    "date": "2 November 2026",
+    "status": "PROPOSED student sequence · Blueprint only; local game changes are not verified live",
     "sourceCommit": "0599498a4692269ad080df6173e444ab0eac474a",
     "primarySource": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
     "sourceNote": "Primary SCSA 2027 General Year12 syllabus checked24October2026: printed p9 concept/five ways/benefits; glossary printed p22 definition. CEM IDs are Blueprint identifiers, not SCSA-issued codes. Carolan pp24–31 references are retained source/code citations, not newly reverified textbook content.",
@@ -31669,10 +31669,10 @@
         "id": "01",
         "title": "Meet Mara · a short welcome",
         "trigger": "First approach to Mara; before accepting work.",
-        "text": "Hi, I’m Mara. Welcome to Juniper Kitchen! We make rice bowls for our market customers. Some people have already paid by phone; others order here. Come and watch a group with me.",
+        "text": "Hi, I’m Mara. Welcome to Juniper Kitchen! We make rice bowls for our market customers. Some people have already paid by phone; others order here. But things aren’t running as smoothly as they could. Sometimes it takes fresh eyes and a little initiative to spot a better way. Want to help? Watch the next group with me and see what you notice.",
         "visual": "Friendly Mara/Sam still or short narrated clip, captions, replay and 2–3 rice-bowl dish visuals. New movie needed; previously liked video identity is unverified. Noodles remain an open decision.",
         "buttons": [
-          "Watch the customer group",
+          "Let’s take a look",
           "Replay welcome",
           "Captions / still view"
         ],
@@ -31685,7 +31685,7 @@
         "evidence": "No learning evidence from opening/watching. Proposed exposure marker only, if later approved.",
         "current": "Existing intro is a captured still with initiative definition, pay, routes and boundaries before Start my shift. Move definition to screen03; shorten front-loaded copy.",
         "required": "Required in proposed core route",
-        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "transition": "Let’s take a look → queue observation on screen02. Replay/captions remain optional support.",
         "actualCaptureIds": [
           "intro"
         ]
@@ -31724,31 +31724,30 @@
         "visual": "Mara beside a paused queue still; one short definition plus customer callouts. Show exact SCSA wording in curriculum drawer, not a text wall.",
         "buttons": [
           "Tell Mara what I noticed",
-          "I’m not sure",
-          "Continue to the shift offer"
+          "I’m not sure"
         ],
         "curriculumIds": [
           "CEM12-U3-EB-01"
         ],
         "purpose": "Connect experience to the explicit concept at the moment of need.",
         "test": "Explain in own words what needs attention; oral prompt is not automatically collected.",
-        "feedback": "Not sure: “Which customers have paid, and which still need to order?” Contrast initiative with waiting for every instruction and acting beyond authority.",
+        "feedback": "Tell Mara: offer an observation in your own words; Mara acknowledges the specific issue you noticed and connects it to initiative. This is an observation/acknowledgment path, not a disguised hint. I’m not sure: “Which customers have paid, and which still need to order?” Highlight those customers and replay the group; return to the observation when ready. Help is optional and carries no penalty.",
         "evidence": "Proposed spoken answer is unrecorded unless an approved response capture is later added. Do not infer understanding from Continue.",
         "current": "Move existing definition from intro to here. SCSA glossary printed p22 supports the concept; Unit3 concept is printed p9.",
         "required": "Required in proposed core route",
-        "transition": "Continue to the next numbered screen; close help to return to this current task.",
+        "transition": "After Mara acknowledges the observation or supported replay, show the same single shift offer on screen04. Do not add a second offer or accept button here.",
         "actualCaptureIds": [
           "intro"
         ]
       },
       {
         "id": "04",
-        "title": "Accept a bounded paid shift",
+        "title": "Mara offers you a shift",
         "trigger": "After naming the problem and concept.",
-        "text": "Will you help us try an arrangement? You can change the sign and collection position and discuss Sam’s role. Keep the emergency walkway clear. Payments and food handling stay with trained crew. Your agreed pay is $20 gross − $2 fictional community tax = $18, plus a crew pass. Help and mixed results do not reduce it.",
+        "text": "Want to help us try a better arrangement? You can change the sign and collection spot, and talk with Sam about what would help. Keep the emergency walkway clear. Trained crew handle payments and food. The shift pays $20, with $2 going to the fictional town fund, so you keep $18 and get a crew pass. Asking for help or getting mixed results won’t cut your pay.",
         "visual": "Mara’s offer with pay ticket, role-boundary icons and one primary action.",
         "buttons": [
-          "Accept my shift",
+          "Accept the shift",
           "Ask about the job",
           "Not now"
         ],
@@ -33187,7 +33186,7 @@
       "backendUnknown": "No authenticated school session queried. Real class scope, database isolation, writes/review persistence and new Markets links remain unverified."
     }
   },
-  "revision": "V2.34 / 24 October 2026",
+  "revision": "V2.35 / 2 November 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -33212,14 +33211,14 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.34",
-      "date": "2026-10-24",
-      "label": "V2.34 / 24 October 2026",
-      "status": "Orientation and proposed-primary screen candidate; publication pending",
+      "id": "V2.35",
+      "date": "2026-11-02",
+      "label": "V2.35 / 2 November 2026",
+      "status": "Reviewed Blueprint candidate; publication pending",
       "purpose": "Career Empire is a connected learning-design project. This scoped Blueprint update teaches from the syllabus first: meaningful experience, explicit instruction, supported application, feedback and durable understanding. Curriculum ways and benefits stay central; no competing named guide or draft song is added to core learning.",
       "audience": "Colleagues reviewing the current game and learning design; teacher delivery program remains in development.",
       "owner": "Tania Byrnes",
-      "scope": "Existing Orientation Journey refresh with20actual captures;28Markets proposed screens primary, current-game evidence collapsed. No game change."
+      "scope": "Exact Mara welcome and one shift offer; whole-game teaching and three fictional character-led megatrends proposals. No game implementation."
     },
     "navigation": [
       {
@@ -33410,7 +33409,7 @@
       "activeMilestoneId": "CE-CONTINUITY-01",
       "objective": "Make the purpose, current design, implementation limits and next decisions understandable to a new colleague.",
       "now": "V2.29 all-phase walkthroughs and whole-course tracking reader are published and independently verified. Exact curriculum, dated isolated Markets captures and actual legacy fictional demo remain distinct from proposed teaching, opening handover and authenticated integrations.",
-      "next": "Author and review core learning materials: Tania corrects the28screen Markets proposal, teacher-only authenticated dashboard, optional portfolio scaffold and reward/tax/town-state boundaries. Preserve the shared phases and separate later game approval.",
+      "next": "Author and review core learning materials: review the exact 28-screen Markets proposal and character-led megatrends candidates against curriculum and evidence needs. Author remaining economic-power and demographic experiences; preserve separate game implementation, teacher dashboard, portfolio and reward decisions.",
       "then": "Author and review core learning materials, purposeful application and appropriate evidence across the shared phases; align school pacing and assessment dates before setting lessons.",
       "later": "Implement the agreed connected course and verify classroom, accessibility, school and learner-evidence requirements separately.",
       "sequence": [
@@ -33741,16 +33740,16 @@
       "title": "Connected course design and Blueprint handover",
       "status": "Blueprint reader verified live; authored course provision remains in development",
       "owner": "Codex: reader and checks; Tania: design review; school: assessment decisions",
-      "href": "/production/blueprint-redesign-review-20261014.html",
-      "actionLabel": "Review the website audit and proposed structure",
+      "href": "/production/teaching-megatrends-plan-20261102.html",
+      "actionLabel": "Review Mara, whole-game teaching and megatrends plan",
       "decisionIds": [
         "V2-D02",
         "V2-D03",
         "V2-D18"
       ],
-      "nextAction": "Author and review core learning materials: Tania corrects the28screen Markets proposal, teacher-only authenticated dashboard, optional portfolio scaffold and reward/tax/town-state boundaries. Preserve the shared phases and separate later game approval.",
+      "nextAction": "Author and review core learning materials: review the exact 28-screen Markets proposal and character-led megatrends candidates against curriculum and evidence needs. Author remaining economic-power and demographic experiences; preserve separate game implementation, teacher dashboard, portfolio and reward decisions.",
       "doneWhen": "Core materials and meaningful application/evidence are authored and reviewed against the exact curriculum and school assessment requirements. Blueprint publication, game integration, school permission and learner mastery have separate evidence.",
-      "boundary": "Tania explicitly approved publication of the reviewed Blueprint on15October. This does not approve a game release, student trial, new backend or completed teacher program."
+      "boundary": "Tania approved this scoped Blueprint publication on2November. This does not approve game publication, student trials, new services or completed curriculum delivery."
     },
     "roadmap": [
       {
@@ -33758,9 +33757,9 @@
         "horizon": "Now",
         "title": "Connected learning design and Blueprint continuity",
         "owner": "Codex: reader and checks; Tania: design review; school: assessment decisions",
-        "status": "PR53 live opening accepted; Blueprint WIP publication and remaining ECC checks are separate",
+        "status": "Scoped Blueprint teaching and megatrends candidate; publication pending; game work remains separate",
         "dependency": "Existing year map and 82-point source/teaching chain; all 13 Carolan chapters located; official 2027 baseline retained.; opening-plan-20261001.md and opening-review-evidence-20261001.md (draft review, not approved implementation)",
-        "href": "/production/ecc-release-blueprint-20261012.html",
+        "href": "/production/teaching-megatrends-plan-20261102.html",
         "doneWhen": "The current authored design and actual game receipt are readable, with draft provision and remaining checks explicitly distinguished; final publication independently verified."
       },
       {
@@ -33898,8 +33897,8 @@
       }
     ],
     "learningPrinciples": {
-      "title": "Remember, understand and use it",
-      "purpose": "Plan for knowledge students can recall, explain and use beyond the original task. Memory supports understanding and judgement; a memorable activity alone does not demonstrate learning.",
+      "title": "Safe practice for an unpredictable world",
+      "purpose": "Across the whole game, give students clear learning goals and a world whose simulated outcomes are not guaranteed. A character encounters changing conditions, makes a decision, sees consequences, reflects and explains the learning. Begin with meaningful tension where useful; introduce the structure and terminology when students have a reason to use them. Mara is the first worked bridge, not the model for every lesson.",
       "core": [
         {
           "title": "Retrieval practice",
@@ -33967,7 +33966,7 @@
       },
       "initiative": {
         "title": "Initiative needs explicit teaching",
-        "purpose": "The experience alone is not sufficient teaching. The core route must explain all five curriculum behaviours through staged teaching, examples and non-examples, a worked example and consolidation. Optional cards cannot be the only way learners encounter this content. Teach before or after a suitable attempt according to readiness.",
+        "purpose": "Mara is the first explicit bridge from noticing a workplace problem to naming initiative. The core route must explain all five curriculum behaviours through staged teaching, examples and non-examples, a worked example and consolidation. Later experiences fade repeated named prompts while retaining clues and optional help; optional cards cannot be the only teaching.",
         "behaviours": [
           {
             "title": "being proactive",
@@ -34050,6 +34049,85 @@
         "benefitsTeaching": "Explain each benefit through the actual action and result: a useful proposal may earn trust or recognition; a clearer collection arrangement may reduce confusion; appropriate contributions may create later work opportunities. These are possible benefits, not guaranteed promotion, rewards or proof of mastery.",
         "curriculumHref": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF#page=13",
         "coverageRule": "The market must make this content concrete through meaningful examples and opportunities designed around the concept and five syllabus ways, not attach labels to a queue puzzle afterward. Teach and check recognition/explanation across all five. Keep illustrated, practised with help and independently demonstrated claims separate; no single action automatically demonstrates every way."
+      },
+      "wholeGame": {
+        "cycle": "Disruption → Decision → Consequence → Reflection → Articulation",
+        "cycleNote": "This is a design process, not another student list to memorise. A disruption can be an opportunity or changed condition. Consequences may be immediate or delayed; a sensible decision can still meet an unlucky outcome. Reflection compares options and assumptions; articulation names the concept and explains a reasoned next step.",
+        "teacher": "Teachers set goals, model reasoning, check understanding, explain concepts, guide practice and use professional judgement to adapt support. Explicit Direct Instruction (EDI) has a significant role, including modelling, guided practice, checks and feedback; it is not passive listening. Teachers collaborate in scenario and assessment design. AI may help teachers draft alternatives or organise feedback, subject to school policy and teacher checking; it is an enabling tool, not a replacement for judgement or a newly implemented student service.",
+        "evidence": "Expected outputs are a justified decision, explanation of observed consequences, comparison with another option and a transfer response in a different context. Record the support used and distinguish observation, prompted practice and independent explanation. Judge the quality of reasoning and adaptation, not luck, wealth, speed or badges. No effectiveness claim follows from an engaging scenario.",
+        "access": "Provide captions, still/replay alternatives, readable instructions, optional hints and teacher support. Fade named prompts after the first Mara bridge while retaining environmental clues and help. Pause/resume and re-entry should restore the current task and a short recap without penalties for absence or help.",
+        "principles": [
+          {
+            "principle": "Experience first, structure when useful",
+            "purpose": "Create a reason to learn while maintaining clear goals.",
+            "example": "Notice the mixed queue before Mara names initiative; use an explanation or model first when prerequisites or access require it."
+          },
+          {
+            "principle": "Explicit teaching and consolidation",
+            "purpose": "Connect attempts to accurate concepts and workable methods.",
+            "example": "Compare queue proposals, model checking the whole workflow, then explain all five initiative behaviours; productive failure includes this consolidation."
+          },
+          {
+            "principle": "Agency, feedback and recovery",
+            "purpose": "Make choices meaningful without punishing experimentation.",
+            "example": "Try an agreed collection arrangement, inspect effects on customers and Sam, then revise; help and mixed results do not reduce the agreed shift pay."
+          },
+          {
+            "principle": "Reflection, retrieval and transfer",
+            "purpose": "Turn a single event into knowledge students can explain and reuse.",
+            "example": "Explain why the change helped, revisit later without the same prompt and justify a choice in another workplace."
+          },
+          {
+            "principle": "Fair evidence and teacher judgement",
+            "purpose": "Separate learning from luck and unequal starting conditions.",
+            "example": "Compare the reasoning and support behind two decisions even when one character faces a delayed delivery or has less time and money."
+          }
+        ]
+      },
+      "megatrendsPlan": {
+        "title": "Megatrends change the character’s world",
+        "status": "Fictional planning proposals only: not implemented episodes, regional forecasts or claims of complete curriculum coverage.",
+        "purpose": "A slow driver changes tasks, work settings or opportunities; a specific event makes that change visible. The character adapts before reflection and teaching name the concept. Include immediate and delayed consequences, unequal exposure and different resources for recovery.",
+        "episodes": [
+          {
+            "title": "Cloud tools change the business",
+            "driver": "Impactful technology is the sustained driver; a small business moving bookings and stock records to a shared cloud tool is the fictional event.",
+            "action": "The character must coordinate a changed order, check access and data accuracy, then choose what to learn or ask a colleague.",
+            "consequence": "Immediate handover improves or confusion persists; later, routine entry work changes and support/coordination tasks grow. Access, training time and connectivity affect recovery.",
+            "ids": [
+              "CEM12-U3-NOW-01",
+              "CEM12-U3-NOW-02.d3",
+              "CEM12-U3-NOW-03.d1",
+              "CEM12-U3-NOW-03.d3"
+            ]
+          },
+          {
+            "title": "Pilbara-inspired automation and pathways",
+            "driver": "Impactful technology is the driver; a fictional operation introduces remote and automated tasks. The setting is inspired by the Pilbara, not a forecast about a named employer.",
+            "action": "A character compares changed local tasks with training and remote-operation opportunities, weighing travel, family commitments and support.",
+            "consequence": "A near-term roster or task changes; later pathway choices affect options. Training access and caring responsibilities make exposure and recovery unequal.",
+            "ids": [
+              "CEM12-U3-NOW-02.d3",
+              "CEM12-U3-NOW-03.d1",
+              "CEM12-U3-NOW-03.d2",
+              "CEM12-U3-NOW-03.d3"
+            ]
+          },
+          {
+            "title": "Climate adaptation changes safe work",
+            "driver": "Long-term climate change and adaptation form the driver; a fictional heat-related roster adjustment is an event, not proof of a trend by itself.",
+            "action": "The character changes work timing, checks safe procedures and negotiates a workable shift with the team.",
+            "consequence": "Immediate safety and service tradeoffs lead to later changes in equipment, skills and job demand. Outdoor and indoor workers have different exposure and flexibility.",
+            "ids": [
+              "CEM12-U3-NOW-01",
+              "CEM12-U3-NOW-02.d4",
+              "CEM12-U3-NOW-03.d1",
+              "CEM12-U3-NOW-03.d3"
+            ]
+          }
+        ],
+        "coverage": "Mappings use the existing Blueprint’s 2027 SCSA identifiers, not official SCSA-issued codes. These candidates address technology, climate and selected work impacts only. Economic power shifts (CEM12-U3-NOW-02.d1) and demographic shifts (CEM12-U3-NOW-02.d2) still need distinct experiences; no new IDs or completed coverage are inferred.",
+        "reflection": "Ask what changed, which longer-term force helps explain it, who was affected differently, what the character could control and how the next choice should change. Compare an alternative and a delayed consequence. Teacher review checks the explanation and source limits, not whether the character became richer."
       }
     },
     "pilot": {
@@ -37176,6 +37254,29 @@
           "deployment": "Pending verified Pages publication.",
           "testing": "Source, tests and supported-browser validation pending.",
           "taniaAcceptance": "Current storyboard remains for Tania corrections; no new design acceptance inferred."
+        },
+        {
+          "id": "CE-CHANGE-20261102-117",
+          "date": "2026-11-02",
+          "title": "Mara bridge, whole-game teaching and character-led megatrends plan",
+          "domain": "Existing Blueprint planning and teaching design",
+          "source": "Tania approved using the existing source; 2 November delegated scope.",
+          "owner": "Codex Blueprint maintainer; Tania design reviewer",
+          "status": "Ready for guarded Blueprint publication",
+          "rationale": "Integrate agreed Mara wording and whole-game learning principles with fictional character-led megatrends proposals.",
+          "dependencies": [
+            "CE-CHANGE-20261024-116"
+          ],
+          "evidence": [
+            "docs/production/teaching-megatrends-plan-20261102.md"
+          ],
+          "nextAction": "Publish reviewed generated output to the existing public Blueprint; independently verify source/record hashes and affected reader routes.",
+          "supersededRecord": null,
+          "designApproval": "Blueprint planning changes only; no actual game or publishing authority inferred.",
+          "implementation": "Exact Mara welcome; observation/help distinction; one offer; whole-game teaching and three fictional proposals.",
+          "deployment": "Not published; current live status not freshly verified.",
+          "testing": "115tests, types/lint, local build/static compilation, desktop390pxreader checks and exact28screen/197curriculum/capture preservation passed.",
+          "taniaAcceptance": "No new visual, implementation or classroom acceptance inferred."
         }
       ],
       "sessionStart": [
@@ -37255,7 +37356,7 @@
     },
     "continuity": {
       "asOf": "2026-10-12",
-      "summary": "V2.29 all-phase walkthroughs and whole-course tracking reader are published and independently verified. Exact curriculum, dated isolated Markets captures and actual legacy fictional demo remain distinct from proposed teaching, opening handover and authenticated integrations.",
+      "summary": "Current Blueprint planning connects the28screen Mara review, whole-game Teaching & assessment and three fictional character-led megatrend proposals. Exact curriculum, historical evidence, pending provision and separate game publication boundaries remain.",
       "firstSteps": [
         "Read Start Here and the current step; distinguish the local source from the dated published receipt. Do not recover priorities from the latest chat title.",
         "Read the shared world overview and proposed year map. Open a week block, follow its exact curriculum links, then inspect the planned evidence and gaps.",
@@ -51158,10 +51259,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20261024-116"
+        "CE-CHANGE-20261102-117"
       ],
-      "scope": "V2.34Orientation Journey refresh and proposed-primary Markets screen correction.",
-      "disclosure": "20new actual guest captures; remaining tour beats source-only. No game/login/backend implementation, mastery or new reward/economy rule.",
+      "scope": "V2.35Mara bridge, whole-game Teaching & assessment and fictional character-led megatrends plan.",
+      "disclosure": "Blueprint plans only; localgamechanges are not independently verifiedlive. No game/backend/studenttrial release. Inherited intake/integration backlog remains disclosed separately.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -51379,20 +51480,27 @@
         "public/evidence/orientation-review-20261024/parcel.jpg",
         "public/evidence/orientation-review-20261024/persistent-help.jpg",
         "public/evidence/orientation-review-20261024/photo-review.jpg",
-        "public/evidence/orientation-review-20261024/welcome.jpg"
+        "public/evidence/orientation-review-20261024/welcome.jpg",
+        "docs/production/teaching-megatrends-plan-20261102.md"
       ],
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "2f274a44077a1498ecd0f5f2b77889124eed3940153d222dac2bc57fc8f16430"
+          "sha256": "8ed75a42a46a63ebff623cfe4f30b244cebbced7a2535908f217f496095226a2",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed record117 scoped integration and release metadata, linked public-safe brief, currentStep/roadmap and generated records; no runtime, curriculum wording or private source publication."
         },
         {
           "path": "README.md",
-          "sha256": "40e478138c147f8c287653d979a86c13b7cff1124935eb6e0f9d0de8a473ebf0"
+          "sha256": "b5e251b63eb82c83999efc009d5423e720fcee58c32bc9deb6a316fb9b3412bf",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed existing README publication history and generated record117 integration disclosure. Candidate remains in-progress; no release authority or live claim."
         },
         {
           "path": "app/blueprint-detail.tsx",
-          "sha256": "a1aa422eab478c4fe77c36f2188f1e6cccdad611680414fc2fcfa0204515e2cf"
+          "sha256": "5c253cfb2376129536161d17fdd6e928f49fb02a9882f1b831543e7e6f80a43a",
+          "reviewedAt": "2026-11-02",
+          "method": "Scoped review: exact Mara hook, preserved screen02/28screens and captures, whole-game pedagogy, fictional curriculum-mapped megatrends; generated record diffs contain record117 only. Local candidate, not release approval."
         },
         {
           "path": "app/blueprint-routing.ts",
@@ -51456,7 +51564,9 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "b71b14fc07c288467440f8fa01902599e7897c5f163628908df39780fb14bf65"
+          "sha256": "ad94d6084ec3b03534f1408e340f3d28d7a1af91eb4d5836bb789c7cdaf2803a",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed exact currentStep/productionPlannext wording and newpublicbrief route; updated existing route regressionexpectation, retaining actualfileexistence and ESTchecks."
         },
         {
           "path": "data/refresh-checkpoint.json",
@@ -51500,7 +51610,9 @@
         },
         {
           "path": "docs/production/successor-start.md",
-          "sha256": "9f3fe9632efb5b4541c9a0ac50bbe78f2e7bd975bdb6b318a5e8e5d92e0b54de"
+          "sha256": "a8b5332bb0d2c6a88d0c6540e576a4740eb5b7427cffc5b0599fffb17076ff2d",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed record117 scoped integration and release metadata, linked public-safe brief, currentStep/roadmap and generated records; no runtime, curriculum wording or private source publication."
         },
         {
           "path": "docs/production/visual-evidence-manifest.json",
@@ -51552,7 +51664,9 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "7f6aa1a64c9f7e1a081fdfd2af09d0e2f21f17f3df1b8f3215ad03e30430dacd"
+          "sha256": "f7edbafa04c137b2578ff1059f0c7e7b7315e5580683be20c0622f400585332f",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed record117 scoped integration and release metadata, linked public-safe brief, currentStep/roadmap and generated records; no runtime, curriculum wording or private source publication."
         },
         {
           "path": "scripts/plan-change.mjs",
@@ -51584,7 +51698,9 @@
         },
         {
           "path": "tests/blueprint.test.mjs",
-          "sha256": "3aa86cc576fe61ef05eb3bc90c17519213f9a49349632e2488183b386f0156ac"
+          "sha256": "c00591fff97903d8cafff9b0993378cb260eed4dd0210120ce4db28fe46eb1e7",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed exact currentStep/productionPlannext wording and newpublicbrief route; updated existing route regressionexpectation, retaining actualfileexistence and ESTchecks."
         },
         {
           "path": "tests/continuity.test.mjs",
@@ -52040,7 +52156,9 @@
         },
         {
           "path": "data/public-reader-documents.json",
-          "sha256": "b3b6ece865e181cb5c16d53a073b4ee979fd3d52c6ca7e909cd59b3c40547432"
+          "sha256": "1d91b08a2b0cb4263eb5016fa0a02e466540f538ac5084166995e441b1c70361",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed record117 scoped integration and release metadata, linked public-safe brief, currentStep/roadmap and generated records; no runtime, curriculum wording or private source publication."
         },
         {
           "path": "app/blueprint-app.tsx",
@@ -52112,11 +52230,15 @@
         },
         {
           "path": "docs/production/change-integration.md",
-          "sha256": "406d98b62b92f7d83d240d5c7193e89283986adc4f6bcd4a1eaf66afd331c746"
+          "sha256": "8654238360ae8b159df3653630a19bedf27b60fbba46828ebe96e9ef50f4daaf",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed record117 scoped integration and release metadata, linked public-safe brief, currentStep/roadmap and generated records; no runtime, curriculum wording or private source publication."
         },
         {
           "path": "docs/production/material-changes.md",
-          "sha256": "8400ae963e19a29b3f624951c956b418b28d28314e9c0faecbec0c69a8a52d75"
+          "sha256": "8397c174db6eef592ccba1fb32953e86004c22aa159161aa66aef14f6a85b660",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed record117 scoped integration and release metadata, linked public-safe brief, currentStep/roadmap and generated records; no runtime, curriculum wording or private source publication."
         },
         {
           "path": "docs/production/learning-principles-20261021.md",
@@ -52136,7 +52258,9 @@
         },
         {
           "path": "data/market-storyboard.json",
-          "sha256": "bcffd8f8ea959552129aeda24d8a604f252c1dbe8b0e1c51f886b63e96d98264"
+          "sha256": "2987a2f025d376c460ae74e4416a11d40eef8b55b34353a9eedb2fdf3ce2e522",
+          "reviewedAt": "2026-11-02",
+          "method": "Scoped review: exact Mara hook, preserved screen02/28screens and captures, whole-game pedagogy, fictional curriculum-mapped megatrends; generated record diffs contain record117 only. Local candidate, not release approval."
         },
         {
           "path": "docs/production/market-storyboard-20261024.md",
@@ -52249,6 +52373,12 @@
         {
           "path": "public/evidence/orientation-review-20261024/welcome.jpg",
           "sha256": "71725ccad555fc0c75e70e3eb4128346fd12d53d8b2e6accd61f78ddeee987ee"
+        },
+        {
+          "path": "docs/production/teaching-megatrends-plan-20261102.md",
+          "sha256": "a84598e2d45f02ec422f1bd8409f8ba3369fdb86037f3ff201f2ecaae431b9b4",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed exact Mara sequence and safe public planning brief;28screens/197curriculum and game boundary preserved."
         }
       ]
     },
@@ -88249,6 +88379,478 @@
               "date": "2026-10-24"
             },
             "nextAction": "Complete browser and publication verification."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20261102-117",
+        "title": "Mara observation bridge, whole-game teaching and character-led megatrends plan",
+        "types": [
+          "activity",
+          "curriculum",
+          "research",
+          "decision"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Update the existing Blueprint only; preserve all 28 Journey screens and curriculum identities.",
+        "before": "Mara intro omits the agreed hook; teaching principles foreground memory; megatrends need character consequences.",
+        "after": "Exact welcome, distinct observation/help paths and one shift offer; whole-game design and three fictional megatrend proposals.",
+        "source": "Tania approved use of the existing source; delegated 2 November scope preserves screen02 and distinguishes local game work from live.",
+        "owner": "Codex Blueprint maintainer; Tania design reviewer",
+        "nextAction": "Run guarded publication and independently verify deployed source, served hashes and affected reader routes.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Codex Blueprint maintainer; Tania reviews publication",
+          "scope": "Static Blueprint planning copy only; no game, accounts, student data, AI service or publishing permission changes.",
+          "rationale": "Teacher AI is a design discussion only; no integration or data processing is introduced.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Existing public design records only; no student records or new data collection.",
+            "locations": "Existing GitHub Pages static website; licensed originals and private evidence remain outside generated public artifacts.",
+            "accessCountries": "Existing public website access; no new account-data transfer or provider.",
+            "providers": "Existing GitHub Pages only; no new external service is introduced.",
+            "lifecycle": "Existing public design records; private backup and evidence retain owner access.",
+            "encryption": "Existing HTTPS hosting; no new claim about student storage or encryption.",
+            "logging": "No added telemetry, analytics or application logging.",
+            "identity": "No login, student identifier collection or changed account authority.",
+            "isolation": "Static design reader; school/account isolation remains unverified separately.",
+            "privacySafety": "Private files, credential tokens and licensed originals excluded from publication.",
+            "applicability": "Blueprint reporting only; no WA compliance or real-student release claim.",
+            "verification": "Static source and actual fictional guest screenshots reviewed; no identity/backend/game changes or student evidence."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "115tests, types/lint/build; exact curriculum/capture preservation and desktop390pxreader checks. Static design only; no new processing, services or learner collection."
+          ],
+          "reviewedBy": "Codex source review",
+          "reviewedAt": "2026-11-02",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Start Here currentStep now links the safe scoped planning brief and states the next authoring work and separate game boundary.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Start Here currentStep now links the safe scoped planning brief and states the next authoring work and separate game boundary. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Existing first roadmap entry links the same brief; economic-power/demographic authoring stays pending, not implemented.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing first roadmap entry links the same brief; economic-power/demographic authoring stays pending, not implemented. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Record117 preserves earlier release history and records exact approved content and verification boundaries.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Record117 preserves earlier release history and records exact approved content and verification boundaries. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "AGENTS records explicit publication/tracking authority and preservation; existing operating protocol and change checks remain unchanged.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "AGENTS records explicit publication/tracking authority and preservation; existing operating protocol and change checks remain unchanged. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Existing exporter now includes the new public-safe planning brief; records and teaching data regenerate from source.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing exporter now includes the new public-safe planning brief; records and teaching data regenerate from source. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish reviewed generated Blueprint output only after supported checks; verify exact remote commit and served bytes.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Independent live verification follows approved publication.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Verify Pages buildcommit, deployed manifest, allchanged served hashes and desktop/mobileteaching/Journey routes."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Storyboard01/03/04 update welcome, acknowledgment/help and single offer; screen02and05–28remain exact.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Storyboard01/03/04 update welcome, acknowledgment/help and single offer; screen02and05–28remain exact. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Existing J0table still has28current rich rows, source screenshots and expandable evidence; desktop/mobile checked.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing J0table still has28current rich rows, source screenshots and expandable evidence; desktop/mobile checked. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "All197learning-planner rows and data/curriculum.json remain exact; candidate episode links resolve to existing IDs with explicit uncovered types.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All197learning-planner rows and data/curriculum.json remain exact; candidate episode links resolve to existing IDs with explicit uncovered types. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "updated",
+            "action": "Whole-game page specifies decision/reason/consequence/transfer outputs and prompted versus independent evidence; no mastery from wages.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Whole-game page specifies decision/reason/consequence/transfer outputs and prompted versus independent evidence; no mastery from wages. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Teaching page explains EDI, teacher collaboration/judgement, optional enablingAI and accessible re-entry; no dashboard service added.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Teaching page explains EDI, teacher collaboration/judgement, optional enablingAI and accessible re-entry; no dashboard service added. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Three fictional planning episodes describe changed tasks, immediate/delayed consequences and unequal recovery; actual world code unchanged.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Three fictional planning episodes describe changed tasks, immediate/delayed consequences and unequal recovery; actual world code unchanged. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "No scene, building record, geometry, asset placement or campus specification changes in this planning-copy scope.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No scene, building record, geometry, asset placement or campus specification changes in this planning-copy scope. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "build",
+            "disposition": "checked-unchanged",
+            "action": "No runtime, backend, game modules or build-evidence claims changed; existing captures remain dated comparisons.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No runtime, backend, game modules or build-evidence claims changed; existing captures remain dated comparisons. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "All20actualMarket capture records and bytes retain provenance; no image/video creation or replacement.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All20actualMarket capture records and bytes retain provenance; no image/video creation or replacement. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "checked-unchanged",
+            "action": "Existing style guide, approved visual targets and image compositions retained; proposed screen text uses established components.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing style guide, approved visual targets and image compositions retained; proposed screen text uses established components. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "Asset registry and visual register hashes remain unchanged; this update adds no assets or appearance acceptance.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Asset registry and visual register hashes remain unchanged; this update adds no assets or appearance acceptance. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Avatar/wardrobe/rig records and all character assets unchanged; no new production or acceptance.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Avatar/wardrobe/rig records and all character assets unchanged; no new production or acceptance. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "Original protected decision records remain exact; wording implements the supplied scope without inventing game/economy decisions.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Original protected decision records remain exact; wording implements the supplied scope without inventing game/economy decisions. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "checked-unchanged",
+            "action": "Existing source/recovery identity preserved; no private recovery upload. Exact original tracking files are separately retained privately.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing source/recovery identity preserved; no private recovery upload. Exact original tracking files are separately retained privately. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "Existing public research and2027SCSA references retained; no new effectivenessclaims, internalECCexports or invented curriculumIDs.",
+            "records": [
+              "CE-CHANGE-20261102-117"
+            ],
+            "owner": "Codex Blueprint maintainer; Tania design reviewer",
+            "acceptance": "Current/proposed boundaries, evidence provenance and existing course context remain accurate.",
+            "evidence": [
+              "docs/production/teaching-megatrends-plan-20261102.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing public research and2027SCSA references retained; no new effectivenessclaims, internalECCexports or invented curriculumIDs. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain scoped evidence and independently verify generated public release."
           }
         ]
       }

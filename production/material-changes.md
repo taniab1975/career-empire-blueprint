@@ -1829,6 +1829,24 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **testing:** Source, tests and supported-browser validation pending.
 - **taniaAcceptance:** Current storyboard remains for Tania corrections; no new design acceptance inferred.
 
+## CE-CHANGE-20261102-117 — Mara bridge, whole-game teaching and character-led megatrends plan
+
+- **date:** 2026-11-02
+- **domain:** Existing Blueprint planning and teaching design
+- **source:** Tania approved using the existing source; 2 November delegated scope.
+- **owner:** Codex Blueprint maintainer; Tania design reviewer
+- **status:** Ready for guarded Blueprint publication
+- **rationale:** Integrate agreed Mara wording and whole-game learning principles with fictional character-led megatrends proposals.
+- **dependencies:** CE-CHANGE-20261024-116
+- **evidence:** docs/production/teaching-megatrends-plan-20261102.md
+- **nextAction:** Publish reviewed generated output to the existing public Blueprint; independently verify source/record hashes and affected reader routes.
+- **supersededRecord:** None
+- **designApproval:** Blueprint planning changes only; no actual game or publishing authority inferred.
+- **implementation:** Exact Mara welcome; observation/help distinction; one offer; whole-game teaching and three fictional proposals.
+- **deployment:** Not published; current live status not freshly verified.
+- **testing:** 115tests, types/lint, local build/static compilation, desktop390pxreader checks and exact28screen/197curriculum/capture preservation passed.
+- **taniaAcceptance:** No new visual, implementation or classroom acceptance inferred.
+
 ## Retained Atlas principles
 
 Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries

@@ -1,92 +1,16 @@
 {
-  "sourceCommit": "0a4f667abd630d996a3879246a30d1e94eeff5c5",
-  "generatedAt": "2026-10-24T14:20:33.530Z",
-  "revision": "V2.34 / 24 October 2026",
-  "recordSha256": "da18e5043bb25aeb4f3d0360619814195dd61cf5ef91b9f5d8b756d69e43f35c",
+  "sourceCommit": "b359bbeb339968ea72ad0ee720aedb68d1cff36f",
+  "generatedAt": "2026-11-02T03:51:53.771Z",
+  "revision": "V2.35 / 2 November 2026",
+  "recordSha256": "65610d69e8d333f5eb2693e9ad4bf9b2faa2c56f0e8699ba0fed53a256c9f850",
   "files": [
     {
-      "path": "assets/curriculum-planner-4Llkf_de.js",
-      "sha256": "0b4665f3bb0dcd198b983968cd5f2d7ac1abf9e6af508f478a21b6512d7bc261"
+      "path": "assets/curriculum-planner-C1fX5OBN.js",
+      "sha256": "31912e5fed0c81434ed25b7facbc1eb12b85a11d1f68be6803d08c51bece33ca"
     },
     {
-      "path": "assets/curriculum-planner-6OUtQ3MS.js",
-      "sha256": "6cfb6e5920143b4eff5e1c39266e86eb7def3bb3c1fde2e7981e66af83a92177"
-    },
-    {
-      "path": "assets/curriculum-planner-B_U-TcYz.js",
-      "sha256": "2a803d1e81a32eff3dbeca5bcffc7a2218b25e43c038ce03577a3d18890a56c5"
-    },
-    {
-      "path": "assets/curriculum-planner-C59tdBEA.js",
-      "sha256": "5188c0df35041aa73c79418cf49aa0a8414b8e3dae438b6756093ace25c9fa53"
-    },
-    {
-      "path": "assets/curriculum-planner-D5TjQJ9x.js",
-      "sha256": "14cfb77f0767e78f5966b6020fc60fb7882a6da594fba2fa35f7a492b455514c"
-    },
-    {
-      "path": "assets/curriculum-planner-DF-QKSCQ.js",
-      "sha256": "73f6774b808e87bac3a6d35b48fd42e44313aee1b5224edba0ab7ae5dcdf2c52"
-    },
-    {
-      "path": "assets/curriculum-planner-SMmfbk_e.js",
-      "sha256": "fbca4dd38f1800fd156fd5a2e4917f3cf18504db5492e1f00b4bf8b88adb7167"
-    },
-    {
-      "path": "assets/curriculum-planner-VH9gJbN_.js",
-      "sha256": "30efb348a7b9992d817fb5e17a9105f35530f1be95d8dd813ec6c80c7cde6183"
-    },
-    {
-      "path": "assets/index-7SLr4d5Q.css",
-      "sha256": "5367a2e7fc50aee4f052a8c0e53c2af98465e9125a9668e8b7a4251c954fd269"
-    },
-    {
-      "path": "assets/index-B1ndzl6p.css",
-      "sha256": "ae35a2824dfbf2c8ee872b096d346ea7f98f3506b06a7afc093dc88bf3b0e3f2"
-    },
-    {
-      "path": "assets/index-B6d-ggzY.js",
-      "sha256": "46a3e8cb2e4a4373e2a9ba0b3c255522f698fd55e94885d4d4fd733224fa7e0f"
-    },
-    {
-      "path": "assets/index-BcJ4fIat.js",
-      "sha256": "bbe906c44e786423e0948dacb1bc9cd951d65eec9769a1bf083141f5f8fff3bb"
-    },
-    {
-      "path": "assets/index-Bhh4S5cb.css",
-      "sha256": "ed1b6d0939bfb35c1adb6119534c2cc3df383f35f38c245bc8e7219a71cd2786"
-    },
-    {
-      "path": "assets/index-Bj29eTl1.js",
-      "sha256": "111abccc95b81c0f723157325ee28e24e2148e851af6d2d68dafbac6e0d14e0d"
-    },
-    {
-      "path": "assets/index-BSBW8ku9.js",
-      "sha256": "e439ce2156f8a6306073ea9c9954d474f53852afff4f88f91caa4a1868a91e10"
-    },
-    {
-      "path": "assets/index-BSnn6CKG.css",
-      "sha256": "bbea73c4bbd431926568dd8c3ee731931f8927fdd397ff280510417cb1ffd864"
-    },
-    {
-      "path": "assets/index-ByaiP-Lk.js",
-      "sha256": "a787d628a1e145f333529f76355db993ae5798b3b0bd8c16f86deb0cbbcf58a8"
-    },
-    {
-      "path": "assets/index-DBT8z92w.js",
-      "sha256": "17168b2d420fa88534ab99f96c7b1d2ac1c65e288a893e9a1866d506da2af021"
-    },
-    {
-      "path": "assets/index-Dn_CyJ-b.css",
-      "sha256": "719e3a79d9660ce5de1c744740dd42a2c87099a876c21c2cf06248c4e2e76768"
-    },
-    {
-      "path": "assets/index-DyWSsuPR.js",
-      "sha256": "730b3ffb0ec8ecf1eb0b99425cc0ce5685e73103cbb36ea4272c519f746e27ba"
-    },
-    {
-      "path": "assets/index-gQLpwATj.js",
-      "sha256": "7fc1e00286064d14ea5d9004769b797c407e473bd73bccab71144806473ca823"
+      "path": "assets/index-CiqVEMIM.js",
+      "sha256": "177125155beae07c258b960f16c6a0f1c7e769827c404a2b408f648d742248e0"
     },
     {
       "path": "assets/index-lL8I4ki0.css",
@@ -94,7 +18,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "da18e5043bb25aeb4f3d0360619814195dd61cf5ef91b9f5d8b756d69e43f35c"
+      "sha256": "65610d69e8d333f5eb2693e9ad4bf9b2faa2c56f0e8699ba0fed53a256c9f850"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1474,7 +1398,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "2411652bf826ad8f5d90626e2fb18227543be114c0ca459808b99775bc400f58"
+      "sha256": "888900e445f3fdc893f777bafdd0444d358ebcde11aaf474631d413bc35a9ff4"
     },
     {
       "path": "playable-3d/app.js",
@@ -1746,7 +1670,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "e625d88b335916e65f4962d50f38fc7c89e1a507bbae6a0a41855f6b5582ff8b"
+      "sha256": "ef13618e8696e064a3b010d0a838be513bd5e8ef9a525f0165136fdc148edab0"
     },
     {
       "path": "production/change-workflows.md",
@@ -1974,7 +1898,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "8400ae963e19a29b3f624951c956b418b28d28314e9c0faecbec0c69a8a52d75"
+      "sha256": "8397c174db6eef592ccba1fb32953e86004c22aa159161aa66aef14f6a85b660"
     },
     {
       "path": "production/media-oval-20260911.md",
@@ -2082,11 +2006,19 @@
     },
     {
       "path": "production/successor-start.html",
-      "sha256": "9e83c30746e74cf46f4453cd6dc721ad36a32f0a1843e8551c1a1525d0586c43"
+      "sha256": "c6134e9275699d72df15d514e7cd181a926c83d8df49409bc71547a8f27f8007"
     },
     {
       "path": "production/successor-start.md",
-      "sha256": "9f3fe9632efb5b4541c9a0ac50bbe78f2e7bd975bdb6b318a5e8e5d92e0b54de"
+      "sha256": "a8b5332bb0d2c6a88d0c6540e576a4740eb5b7427cffc5b0599fffb17076ff2d"
+    },
+    {
+      "path": "production/teaching-megatrends-plan-20261102.html",
+      "sha256": "37a26f1d62fe4ccb092e73cd3623f3c80b20f50c8abe1fc421b01c3be6127703"
+    },
+    {
+      "path": "production/teaching-megatrends-plan-20261102.md",
+      "sha256": "a84598e2d45f02ec422f1bd8409f8ba3369fdb86037f3ff201f2ecaae431b9b4"
     },
     {
       "path": "production/v212-release-receipt-2026-09-10.md",

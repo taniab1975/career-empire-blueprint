@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.34Orientation Journey refresh and proposed-primary Markets screen correction.
+Release scope: V2.35Mara bridge, whole-game Teaching & assessment and fictional character-led megatrends plan.
 
-20new actual guest captures; remaining tour beats source-only. No game/login/backend implementation, mastery or new reward/economy rule.
+Blueprint plans only; localgamechanges are not independently verifiedlive. No game/backend/studenttrial release. Inherited intake/integration backlog remains disclosed separately.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -25945,6 +25945,356 @@ Verification: passed / 115tests, TypeScript/focused lint;28primary panels,28clos
 - [Evidence](docs/production/orientation-and-primary-screens-20261024.md)
 
 Next: Complete browser and publication verification.
+
+## CE-CHANGE-20261102-117 — Mara observation bridge, whole-game teaching and character-led megatrends plan
+
+Integration: **ready-for-publication**. Types: activity, curriculum, research, decision. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+**Objective:** Update the existing Blueprint only; preserve all 28 Journey screens and curriculum identities.
+
+**Before:** Mara intro omits the agreed hook; teaching principles foreground memory; megatrends need character consequences.
+
+**Required result:** Exact welcome, distinct observation/help paths and one shift offer; whole-game design and three fictional megatrend proposals.
+
+**Source:** Tania approved use of the existing source; delegated 2 November scope preserves screen02 and distinguishes local game work from live.
+
+**Next:** Run guarded publication and independently verify deployed source, served hashes and affected reader routes.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Start Here currentStep now links the safe scoped planning brief and states the next authoring work and separate game boundary.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Start Here currentStep now links the safe scoped planning brief and states the next authoring work and separate game boundary. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Existing first roadmap entry links the same brief; economic-power/demographic authoring stays pending, not implemented.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Existing first roadmap entry links the same brief; economic-power/demographic authoring stays pending, not implemented. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Record117 preserves earlier release history and records exact approved content and verification boundaries.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Record117 preserves earlier release history and records exact approved content and verification boundaries. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+AGENTS records explicit publication/tracking authority and preservation; existing operating protocol and change checks remain unchanged.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / AGENTS records explicit publication/tracking authority and preservation; existing operating protocol and change checks remain unchanged. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Existing exporter now includes the new public-safe planning brief; records and teaching data regenerate from source.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Existing exporter now includes the new public-safe planning brief; records and teaching data regenerate from source. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish reviewed generated Blueprint output only after supported checks; verify exact remote commit and served bytes.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: pending / Independent live verification follows approved publication.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Verify Pages buildcommit, deployed manifest, allchanged served hashes and desktop/mobileteaching/Journey routes.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Storyboard01/03/04 update welcome, acknowledgment/help and single offer; screen02and05–28remain exact.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Storyboard01/03/04 update welcome, acknowledgment/help and single offer; screen02and05–28remain exact. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Existing J0table still has28current rich rows, source screenshots and expandable evidence; desktop/mobile checked.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Existing J0table still has28current rich rows, source screenshots and expandable evidence; desktop/mobile checked. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Curriculum and reciprocal mappings — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+All197learning-planner rows and data/curriculum.json remain exact; candidate episode links resolve to existing IDs with explicit uncovered types.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / All197learning-planner rows and data/curriculum.json remain exact; candidate episode links resolve to existing IDs with explicit uncovered types. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Year plan and assessment — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Whole-game page specifies decision/reason/consequence/transfer outputs and prompted versus independent evidence; no mastery from wages.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Whole-game page specifies decision/reason/consequence/transfer outputs and prompted versus independent evidence; no mastery from wages. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Teaching page explains EDI, teacher collaboration/judgement, optional enablingAI and accessible re-entry; no dashboard service added.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Teaching page explains EDI, teacher collaboration/judgement, optional enablingAI and accessible re-entry; no dashboard service added. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Three fictional planning episodes describe changed tasks, immediate/delayed consequences and unequal recovery; actual world code unchanged.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Three fictional planning episodes describe changed tasks, immediate/delayed consequences and unequal recovery; actual world code unchanged. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Buildings and places — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+No scene, building record, geometry, asset placement or campus specification changes in this planning-copy scope.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / No scene, building record, geometry, asset placement or campus specification changes in this planning-copy scope. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+No runtime, backend, game modules or build-evidence claims changed; existing captures remain dated comparisons.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / No runtime, backend, game modules or build-evidence claims changed; existing captures remain dated comparisons. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+All20actualMarket capture records and bytes retain provenance; no image/video creation or replacement.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / All20actualMarket capture records and bytes retain provenance; no image/video creation or replacement. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Look and feel — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Existing style guide, approved visual targets and image compositions retained; proposed screen text uses established components.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Existing style guide, approved visual targets and image compositions retained; proposed screen text uses established components. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Asset registry and visual register hashes remain unchanged; this update adds no assets or appearance acceptance.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Asset registry and visual register hashes remain unchanged; this update adds no assets or appearance acceptance. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Avatar and wardrobe references — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#visuals)
+
+Avatar/wardrobe/rig records and all character assets unchanged; no new production or acceptance.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Avatar/wardrobe/rig records and all character assets unchanged; no new production or acceptance. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Original protected decision records remain exact; wording implements the supplied scope without inventing game/economy decisions.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Original protected decision records remain exact; wording implements the supplied scope without inventing game/economy decisions. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Existing source/recovery identity preserved; no private recovery upload. Exact original tracking files are separately retained privately.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Existing source/recovery identity preserved; no private recovery upload. Exact original tracking files are separately retained privately. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Existing public research and2027SCSA references retained; no new effectivenessclaims, internalECCexports or invented curriculumIDs.
+
+Records: CE-CHANGE-20261102-117. Owner: Codex Blueprint maintainer; Tania design reviewer.
+
+Acceptance: Current/proposed boundaries, evidence provenance and existing course context remain accurate.
+
+Verification: passed / Existing public research and2027SCSA references retained; no new effectivenessclaims, internalECCexports or invented curriculumIDs. Source diff,115tests/types/lint/build; actual static teaching/Journeydesktop390pxinspection where affected.
+
+- [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
+
+Next: Retain scoped evidence and independently verify generated public release.
 
 ## Historical boundary
 
