@@ -1901,6 +1901,204 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **testing:** All18imagepixels inspected; source/types/tests/preview pending.
 - **taniaAcceptance:** No ownership transfer is intended; further design and pedagogy review remain separate.
 
+## CE-CHANGE-20261102-121 — Blueprint review: concise journeys and grouped navigation
+
+- **date:** 2026-11-02
+- **domain:** Blueprint navigation and progressive disclosure
+- **source:** Tania requests consolidated phase journeys, curriculum/pedagogy regrouping, short Start Here and preservation of substantive content.
+- **owner:** Tania: design intent; Codex: scoped reader correction
+- **status:** Local candidate verified; parent-coordinated publication pending
+- **rationale:** Remove competing destinations and default word walls while retaining every substantive content source and historical URL.
+- **dependencies:** CE-CHANGE-20261102-120
+- **evidence:** docs/production/blueprint-review-20261102.md / app/site-guide.tsx / app/blueprint-routing.ts
+- **nextAction:** Publish reviewed generated reader to existing public Blueprint destination, then verify Pages and live routes.
+- **supersededRecord:** None
+- **designApproval:** Tania explicitly requests this navigation simplification; ask before deleting substantive content.
+- **implementation:** One Phase journeys destination with inline walkthroughs, retained historical supporting details and grouped educational/game-design navigation.
+- **deployment:** Release coordination cleared; guarded packaging and generated-reader publication pending.
+- **testing:** 115tests plus governance/export/continuity, TypeScript, focused lint and final client compilation pass. Desktop390pxkeyboard, preserved routes and18teachersections verified.
+- **taniaAcceptance:** No deletion of substantive content or Start Here tab requested or performed; all preserved under accessible links and expansions.
+
+## CE-CHANGE-20261102-122 — Story-first phase summaries and walkthrough-first expansion
+
+- **date:** 2026-11-02
+- **domain:** Blueprint navigation and progressive disclosure
+- **source:** Tania supplies screenshots and asks each phase to tell the character story, show compact curriculum points while closed, label the toggle Phase walkthrough, and start the expansion at the first walkthrough step.
+- **owner:** Tania: design intent; Codex: scoped reader correction
+- **status:** Local refinement; browser visual QA pending
+- **rationale:** Replace internal mapping jargon and production-note preambles with a clear story and curriculum summary, retaining source/version notes below the walkthrough.
+- **dependencies:** CE-CHANGE-20261102-121
+- **evidence:** docs/production/phase-story-refinement-20261102.md / app/phase-reader-copy.ts / app/site-guide.tsx / app/phase-walkthrough.tsx
+- **nextAction:** Verify the refreshed local browser preview when the native connection is restored; retain publication hold and do not retry the previously denied public push.
+- **supersededRecord:** None
+- **designApproval:** User explicitly requests these reader-facing changes; substantive content, screenshots and exact curriculum source remain preserved.
+- **implementation:** 12story-first phase descriptions and compact curriculum summaries; Phase walkthrough toggle; inline table starts immediately; supporting links, filters and version/capture notes follow in collapsed details.
+- **deployment:** Local source/preview only; no public push. The prior exact-package V2.39 push was denied before execution.
+- **testing:** TypeScript and focused lint passed. Server-rendered12cards and3representativewalkthroughs verify visible curriculum, absence of repeated headings/preambles and preserved trailing notes. Browser connection currently unavailable.
+- **taniaAcceptance:** Requested structure implemented for review; no new user acceptance or fresh visual browser verification claimed.
+
+## CE-CHANGE-20261102-123 — Teacher screenshots beside explanation columns, grouped controls and honest NYS sample
+
+- **date:** 2026-11-02
+- **domain:** Teacher guide layout only
+- **source:** Tania requests screenshot column left; What it shows, Why useful and Interpretation limits to the right; scroll controls; grouped overview captures; asks why all sample Stats show NYS.
+- **owner:** Tania: design intent; Codex: scoped reader correction
+- **status:** Local candidate; visual capture and coordinated publication pending
+- **rationale:** Keep the screenshot beside its interpretation and reduce redundant control captures; explain missing-data fallback without inventing learner results.
+- **dependencies:** CE-CHANGE-20261102-120
+- **evidence:** app/teacher-dashboard-guide.tsx
+- **nextAction:** Restore native browser QA, capture combined panels and varied fictional profile, coordinate pending navigation work before publication.
+- **supersededRecord:** None
+- **designApproval:** User explicitly requests these reader-facing changes; substantive content, screenshots and exact curriculum source remain preserved.
+- **implementation:** Four-column scrollable guide; two requested grouped image panels using preserved originals; per-image/table directional controls and fit-width option; source-verified NYS explanation. Fresh combined single-file captures and varied fictional profile pending.
+- **deployment:** Local source/preview only; no public push. The prior exact-package V2.39 push was denied before execution.
+- **testing:** Source read confirms Stats fallback when answerStats.total is absent; types/lint/local compilation pending; native browser connection unavailable.
+- **taniaAcceptance:** Requested structure implemented for review; no new user acceptance or fresh visual browser verification claimed.
+
+## CE-CHANGE-20261102-124 — Compact linked curriculum and phase-header game entry
+
+- **date:** 2026-11-02
+- **domain:** Blueprint navigation and progressive disclosure
+- **source:** Tania requests the first-curriculum-experience story at Mara’s noodle store, exact compact curriculum IDs/wording with nested details, no duplicate planner/storyboard links, plus-button direct table expansion and game entry in the top panel. Tania then requests a small Career Empire Game link image between title and walkthrough, hidden hover codes, descriptor links to the planner and two borderless columns.
+- **owner:** Tania: design intent; Codex: scoped reader correction
+- **status:** Local refinement verified in rendered output; fresh browser QA pending
+- **rationale:** Make each phase understandable without opening another page and keep one screenshot/table representation with a curriculum column.
+- **dependencies:** CE-CHANGE-20261102-122
+- **evidence:** docs/production/exact-phase-curriculum-20261102.md / app/site-guide.tsx / app/review-table.tsx / app/phase-reader-copy.ts
+- **nextAction:** Complete fresh browser visual/keyboard/mobileQA when the native connection returns; preserve concurrent record123teacher-guide work and do not publish the obsolete121package.
+- **supersededRecord:** None
+- **designApproval:** Tania explicitly requests the exact curriculum presentation, direct plus disclosure and game link placement; no blanket substantive deletion.
+- **implementation:** Story and exact curriculum descriptors stay above the direct walkthrough disclosure. IDs are hover/focus metadata, descriptors link to precise planner entries, and parent/detail groups flow across two borderless desktop columns. Each heading has an inline vector Career Empire Game link badge; phase-specific launch used where known, existing public game start otherwise. Five-column shared screenshot table retained.
+- **deployment:** Local preview only; no new public upload or retry of denied121publication.
+- **testing:** Rendered12phasepanels verify197exactdescriptorlinks with matching hovercodes/preciseplannerURLs and12gamebadges. Parent/detail grouping retained; one-column mobile CSS. Types/lint/build/repository checks underway; fresh native browserQA remains unavailable.
+- **taniaAcceptance:** Requested structure implemented for review; no new user acceptance or fresh visual browser verification claimed.
+
+## CE-CHANGE-20261102-125 — Compact teacher-guide thumbnails with expandable screenshot columns
+
+- **date:** 2026-11-02
+- **domain:** Teacher guide layout only
+- **source:** Tania asks for each teacher-guide screenshot and columns to be in a dropdown, with a small thumbnail, brief description and purpose visible first.
+- **owner:** Tania: design intent; Codex: scoped reader correction
+- **status:** Local candidate; browserQA pending
+- **rationale:** Reduce default reading and screenshot real estate while retaining full grouped evidence and interpretation.
+- **dependencies:** CE-CHANGE-20261102-123
+- **evidence:** app/teacher-dashboard-guide.tsx / docs/production/teacher-guide-disclosure-20261102.md
+- **nextAction:** Complete local compiled/regression checks and fresh browser visual/keyboardQA when available; no public upload.
+- **supersededRecord:** None
+- **designApproval:** User explicitly requests this progressive disclosure; all substantive explanation and screenshot content retained.
+- **implementation:** 14native details rows start closed, each with thumbnail, description and purpose; full18screens, four explanation columns, image/table pan controls and source/interpretation notes remain inside.
+- **deployment:** Local preview only; previous denied public package remains obsolete.
+- **testing:** Types/lint and server-rendered14closedgroups checked; all18screens and every full what/why/limit text preserved. Native browser visualQA remains unavailable.
+- **taniaAcceptance:** Requested structure implemented for review; no new user acceptance or fresh visual browser verification claimed.
+
+## CE-CHANGE-20261102-126 — Four focused header tabs and footer design archive
+
+- **date:** 2026-11-02
+- **domain:** Teacher guide layout only
+- **source:** Tania requests Game design/progress with Sources/History at the bottom, curriculum/student header tabs, then explicitly retains Teacher Dashboard. She removes legacy tracking/coverage/phase details from the teacher page and asks where rewards belong.
+- **owner:** Tania: design intent; Codex: scoped reader correction
+- **status:** Local navigation/archive refinement; fresh browserQA pending
+- **rationale:** Keep active reader destinations focused, retain development/source records in a footer archive, and distinguish student game rewards from learning evidence.
+- **dependencies:** CE-CHANGE-20261102-124 / CE-CHANGE-20261102-125
+- **evidence:** docs/production/footer-archive-20261102.md / app/blueprint-app.tsx / app/course-tracking.tsx / app/blueprint-detail.tsx
+- **nextAction:** Verify refreshed compiled preview and old routes; no publication until fresh visualQA and required exact-package approval.
+- **supersededRecord:** None
+- **designApproval:** User explicitly requests archive relocation and teacher-page cleanup, then corrects header to retain Teacher Dashboard. Start Here retained while its removal remains undecided.
+- **implementation:** Header: Start Here, Curriculum & pedagogy, Student Stats/Progress, Teacher Dashboard. Phase journeys is third educational tile. Footer Archive holds Game design/progress and Sources/History. Teacher page shows compact guide only; older tracking/coverage/phase/media notes retained under archive. Rewards overview added to student progress; teaching rationale remains in pedagogy.
+- **deployment:** Local preview only; no new public upload and obsolete121package remains held.
+- **testing:** Types/lint and rendered structure checks underway; native browser connection remains unavailable.
+- **taniaAcceptance:** Requested structure implemented for review; no new user acceptance or fresh visual browser verification claimed.
+
+## CE-CHANGE-20261102-127 — Fit-width teacher screenshots and focused Start Here
+
+- **date:** 2026-11-02
+- **domain:** Teacher guide layout only
+- **source:** Tania requests Fit width as teacher screenshot default, removal of Interpretation limits column into a small hover response in Why useful, and review of the four Start Here starting points.
+- **owner:** Tania: design intent; Codex: scoped reader correction
+- **status:** Local refinement; fresh browserQA pending
+- **rationale:** Reduce teacher table width and remove redundant landing navigation while retaining interpretation context and original navigation-card content.
+- **dependencies:** CE-CHANGE-20261102-125 / CE-CHANGE-20261102-126
+- **evidence:** docs/production/teacher-fit-start-20261102.md / app/teacher-dashboard-guide.tsx / app/site-guide.tsx
+- **nextAction:** Verify local build/regressions and fresh browser tooltip/keyboard/mobile behavior when the connection is available; no public upload.
+- **supersededRecord:** None
+- **designApproval:** User explicitly requests teacher-table simplification and review of now-redundant StartHere cards; their content is archived, not deleted.
+- **implementation:** All14teacher groups default to Fit width; screenshot/what/why are the three columns. Each original section has a Limits tooltip in the usefulness column, accessible on hover/focus/click. StartHere four starting cards are retained in footer design archive; hero keeps game and journey links.
+- **deployment:** Local preview only; no public upload or game/student-data change.
+- **testing:** Types/lint and rendered output checks underway; fresh native browserQA unavailable.
+- **taniaAcceptance:** Requested structure implemented for review; no new user acceptance or fresh visual browser verification claimed.
+
+## CE-CHANGE-20261102-128 — Student progress evidence refresh and screenshot-first layout
+
+- **date:** 2026-11-02
+- **domain:** Teacher guide layout only
+- **source:** Tania requests current student screenshots/evidence, removal of the repeated archive link and top cautions, and portfolio instructions placed with their evidence row.
+- **owner:** Tania: design intent; Codex: scoped reader correction
+- **status:** Local refresh; new live capture blocked
+- **rationale:** Lead with relevant dated evidence instead of duplicated warnings/instructions, and distinguish newest verified captures from unavailable fresh capture.
+- **dependencies:** CE-CHANGE-20261102-127
+- **evidence:** docs/production/student-progress-refresh-20261102.md / app/course-tracking.tsx / data/course-tracking.json / data/markets-review.json
+- **nextAction:** Complete regression/render/client checks; fresh live capture requires restored native browser connection. No public upload.
+- **supersededRecord:** None
+- **designApproval:** User explicitly requests evidence/layout refresh; cautions and portfolio guidance retained in contextual details.
+- **implementation:** Student table starts immediately in four columns, with portfolio instructions in its expandable row and cautions below. Unrelated exterior/older isolated practice captures are replaced by inspected24OctoberactualMyJourney/pay/resource/recognition/uncued/transfer images.2Novemberstudentdemo captures retained. Image dates and proposed gaps explicit.
+- **deployment:** Local preview only; no new screenshot capture, game, student-data or public-upload operation.
+- **testing:** Types/lint pass; actual image pixels inspected and registered hashes matched. Fresh native capture failed before opening due unavailable browser pipe; no newly captured or current-live claim.
+- **taniaAcceptance:** Requested structure implemented for review; no new user acceptance or fresh visual browser verification claimed.
+
+## CE-CHANGE-20261102-129 — Bare Start Here and Places in the game
+
+- **date:** 2026-11-02
+- **domain:** Teacher guide layout only
+- **source:** Tania requests bare StartHere explaining the game and Blueprint evaluation purpose with game/preview links, then explicitly approves a Places in the game section beside Phase journeys. She asks why student filters/rewards/notes appear.
+- **owner:** Tania: design intent; Codex: scoped reader correction
+- **status:** Local refinement; fresh browserQA pending
+- **rationale:** Separate the learning sequence from reusable places, keep the introduction brief and make student-screen controls understandable.
+- **dependencies:** CE-CHANGE-20261102-128
+- **evidence:** docs/production/bare-start-places-20261102.md / app/site-guide.tsx / app/places-in-game.tsx / app/review-table.tsx
+- **nextAction:** Complete local types/render/regression/client checks and fresh browserQA when available; no public upload.
+- **supersededRecord:** None
+- **designApproval:** User explicitly approves Places beside Phase journeys and requests bare StartHere. Open reward principles retained without new mechanics.
+- **implementation:** StartHere describes game/purpose/how it works and Blueprint as an evaluative guide without play; game and screenshot-preview links remain. Older learning/development context archived intact. Places tile/page adds six key places with purpose and journey links; no new phases. Student filter renamed Find a student screen/Feature status. Detailed reward mechanics remain archived.
+- **deployment:** Local preview only; existing capture-freshness blocker remains separately recorded in128. No game or public-upload operation.
+- **testing:** BareStartHere server-render verified; types/lint/render/regression/client checks underway. Native browser QA remains unavailable.
+- **taniaAcceptance:** Requested structure implemented for review; no new user acceptance or fresh visual browser verification claimed.
+
+## CE-CHANGE-20261102-130 — Illustrated pedagogy overview and expandable detail
+
+- **date:** 2026-11-02
+- **domain:** Teacher guide layout only
+- **source:** Tania says Pedagogy & assessment remains a wall of text and asks to use tables, dropdowns, fewer words and more images for efficient engagement.
+- **owner:** Tania: design intent; Codex: scoped reader correction
+- **status:** Local presentation refinement; fresh browserQA pending
+- **rationale:** Expose a compact illustrated overview and progressive disclosure without deleting educational principles or inventing evidence.
+- **dependencies:** CE-CHANGE-20261102-129
+- **evidence:** docs/production/pedagogy-overview-20261102.md / app/blueprint-detail.tsx / app/globals.css
+- **nextAction:** Complete rendered/regression/client checks and fresh visual/keyboard/mobileQA when native browser connection returns; no public upload.
+- **supersededRecord:** None
+- **designApproval:** User explicitly requests this visual/progressive-disclosure restructuring; source principles and substantive detail retained.
+- **implementation:** Smaller linked original infographic beside a five-mode visual sequence; five-row canonical principles table with inspected dated screenshot thumbnails. Portfolio and full design/memory/research/megatrends/Initiative/classroom material retained in separate closed topic groups. Existing portfolio entry actions and teacher/student guide links preserved.
+- **deployment:** Local preview only; no public upload, game or learner-data changes.
+- **testing:** TypeScript/lint pass; rendered preservation/layout checks underway. No new graphics or screenshot capture; fresh browserQA unavailable.
+- **taniaAcceptance:** Requested structure implemented for review; no new user acceptance or fresh visual browser verification claimed.
+
+## CE-CHANGE-20261103-131 — Publish the user-reviewed combined Blueprint refresh
+
+- **date:** 2026-11-03
+- **domain:** Teacher guide layout only
+- **source:** Tania: it looks great for now. Please upload to the live link for the blueprint.
+- **owner:** Tania: design intent; Codex: scoped reader correction
+- **status:** Approved for existing public Blueprint publication
+- **rationale:** Publish the already-reviewed combined reader while retaining dated evidence and open capture/game boundaries.
+- **dependencies:** CE-CHANGE-20261102-121 / CE-CHANGE-20261102-122 / CE-CHANGE-20261102-123 / CE-CHANGE-20261102-124 / CE-CHANGE-20261102-125 / CE-CHANGE-20261102-126 / CE-CHANGE-20261102-127 / CE-CHANGE-20261102-128 / CE-CHANGE-20261102-129 / CE-CHANGE-20261102-130
+- **evidence:** docs/production/blueprint-reviewed-release-20261103.md
+- **nextAction:** Run exact guarded packaging, publish generated reader only to existing public repository and independently verify served hashes/routes.
+- **supersededRecord:** None
+- **designApproval:** Direct user approval3November2026 to upload the current reviewed version to the existing live Blueprint.
+- **implementation:** Combined reader updates121–130 accepted in localpreview. Existing Phase01J0plan and28screenstoryboard unchanged; any separately discussed Initiative proposal is excluded.
+- **deployment:** Pending generated reader publication; no private-source or game upload.
+- **testing:** Earlier115tests/types/lint/client builds and rendered structure/preservation checks pass; final combined guards and live checks pending. User visually reviewed local preview and requests publication.
+- **taniaAcceptance:** User says current preview looks great for now and requests live upload. Capture dates/remaining media and proposal boundaries remain explicit.
+
 ## Retained Atlas principles
 
 Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries

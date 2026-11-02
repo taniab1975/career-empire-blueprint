@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.38 synthetic teacher dashboard section guide.
+Release scope: V2.40 user-reviewed combined Blueprint reader refresh.
 
-Offline synthetic sample visuals and code-referenced explanations only. No live school workflow proof, student records or working teacher link. Capability Percent Signals corrected screenshot and capability-only video remain pending.
+Existing game/curriculum/storyboard sources retained. Game screenshots dated24October; student demo2November; teacher synthetic media retains pending refresh notes. No new Initiative proposal, learner results or game backend. User accepts localpreview and requests publication; native fresh capture remains unavailable.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -27054,6 +27054,2624 @@ Verification: passed / Inspected synthetic pixels, scoped source and desktop390p
 - [Evidence](data/teacher-guide.json)
 
 Next: Retain source-specific limits and coordinate pending final media separately.
+
+## CE-CHANGE-20261102-121 — Blueprint review: concise journeys and grouped navigation
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex Blueprint review implementer.
+
+**Objective:** Simplify navigation and default reading while retaining substantive design, pedagogy, source evidence and old routes.
+
+**Before:** Shared phase journey and Phase walkthroughs are separate; learning landing mixes game design tiles; Start Here repeats long design and navigation context.
+
+**Required result:** One Phase journeys destination expands walkthroughs from phase numbers. Curriculum & pedagogy has planning and teaching. Game design & progress groups world/rewards, look/feel and design intent separately from progress. Start Here is a short visual showcase with supporting context collapsed.
+
+**Source:** Tania requests Blueprint review, journey consolidation, removal of oversized supporting tiles, educational/game-design regrouping, and short Start Here showcase; ask before substantive deletion.
+
+**Next:** Publish reviewed reader only and verify live; fresh captures/media remain separately pending, no new Phase01proposal applied.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original start retained unchanged.
+
+Records: CE-CHANGE-20261102-121. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/blueprint-review-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original roadmap retained unchanged.
+
+Records: CE-CHANGE-20261102-121. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/blueprint-review-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original history retained unchanged.
+
+Records: CE-CHANGE-20261102-121. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/blueprint-review-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original protocol retained unchanged.
+
+Records: CE-CHANGE-20261102-121. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/blueprint-review-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original exports retained unchanged.
+
+Records: CE-CHANGE-20261102-121. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/blueprint-review-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish approved generated combined reader and verify exact live commit/bytes.
+
+Records: CE-CHANGE-20261102-121. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: pending / Independent Pages/served artifact verification pending.
+
+- [Evidence](docs/production/blueprint-review-20261102.md)
+
+Next: Verify exact Pages commit, served bytes and reader links.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original build retained unchanged.
+
+Records: CE-CHANGE-20261102-121. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/blueprint-review-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original flow retained unchanged.
+
+Records: CE-CHANGE-20261102-121. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/blueprint-review-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original teacher retained unchanged.
+
+Records: CE-CHANGE-20261102-121. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/blueprint-review-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original recovery retained unchanged.
+
+Records: CE-CHANGE-20261102-121. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/blueprint-review-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original media retained unchanged.
+
+Records: CE-CHANGE-20261102-121. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/blueprint-review-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original assets retained unchanged.
+
+Records: CE-CHANGE-20261102-121. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/blueprint-review-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original sources retained unchanged.
+
+Records: CE-CHANGE-20261102-121. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/blueprint-review-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original decisions retained unchanged.
+
+Records: CE-CHANGE-20261102-121. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/blueprint-review-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+## CE-CHANGE-20261102-122 — Story-first summaries and walkthrough-first phase details
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex Blueprint review implementer.
+
+**Objective:** Tell the player story and compact curriculum focus before expansion, then begin directly with the walkthrough.
+
+**Before:** Phase cards state abstract learning goals and mapping counts; expanded details lead with a large heading, dashboard shortcuts and capture notes.
+
+**Required result:** 12phase stories have compact curriculum summaries and Phase walkthrough toggle labels. Inline expansion begins with the first walkthrough table; support and technical/version information remain below in closed details.
+
+**Source:** Tania supplied screenshots and explicitly requested this reader-focused refinement, retaining useful content.
+
+**Next:** Publish reviewed reader only and verify live; fresh captures/media remain separately pending, no new Phase01proposal applied.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original start retained unchanged.
+
+Records: CE-CHANGE-20261102-122. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/phase-story-refinement-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original roadmap retained unchanged.
+
+Records: CE-CHANGE-20261102-122. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/phase-story-refinement-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original history retained unchanged.
+
+Records: CE-CHANGE-20261102-122. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/phase-story-refinement-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original protocol retained unchanged.
+
+Records: CE-CHANGE-20261102-122. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/phase-story-refinement-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original exports retained unchanged.
+
+Records: CE-CHANGE-20261102-122. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/phase-story-refinement-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish approved generated combined reader and verify exact live commit/bytes.
+
+Records: CE-CHANGE-20261102-122. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: pending / Independent Pages/served artifact verification pending.
+
+- [Evidence](docs/production/phase-story-refinement-20261102.md)
+
+Next: Verify exact Pages commit, served bytes and reader links.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original build retained unchanged.
+
+Records: CE-CHANGE-20261102-122. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/phase-story-refinement-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original flow retained unchanged.
+
+Records: CE-CHANGE-20261102-122. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/phase-story-refinement-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original teacher retained unchanged.
+
+Records: CE-CHANGE-20261102-122. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/phase-story-refinement-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original recovery retained unchanged.
+
+Records: CE-CHANGE-20261102-122. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/phase-story-refinement-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original media retained unchanged.
+
+Records: CE-CHANGE-20261102-122. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/phase-story-refinement-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original assets retained unchanged.
+
+Records: CE-CHANGE-20261102-122. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/phase-story-refinement-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original sources retained unchanged.
+
+Records: CE-CHANGE-20261102-122. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/phase-story-refinement-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original decisions retained unchanged.
+
+Records: CE-CHANGE-20261102-122. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/phase-story-refinement-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+## CE-CHANGE-20261102-123 — Teacher guide columns and grouped sample panels
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex Blueprint review implementer.
+
+**Objective:** Place screenshot left with three explanation columns, directional scrolling and the two requested grouped panels; clarify missing sample Stats data.
+
+**Before:** Expanded screenshots and explanations stack vertically; synthetic learning-profile answer totals are absent so Stats cells show NYS.
+
+**Required result:** Local guide has four columns, directional image/table scrolling, grouped controls and accurate missing-data explanation. Fresh combined capture/profile refresh and visual QA remain pending.
+
+**Source:** Current direct user request for teacher guide layout and grouped screenshots; no game or real student data change.
+
+**Next:** Publish reviewed reader only and verify live; fresh captures/media remain separately pending, no new Phase01proposal applied.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original start retained unchanged.
+
+Records: CE-CHANGE-20261102-123. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original roadmap retained unchanged.
+
+Records: CE-CHANGE-20261102-123. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original history retained unchanged.
+
+Records: CE-CHANGE-20261102-123. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original protocol retained unchanged.
+
+Records: CE-CHANGE-20261102-123. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original exports retained unchanged.
+
+Records: CE-CHANGE-20261102-123. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish approved generated combined reader and verify exact live commit/bytes.
+
+Records: CE-CHANGE-20261102-123. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: pending / Independent Pages/served artifact verification pending.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+
+Next: Verify exact Pages commit, served bytes and reader links.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original build retained unchanged.
+
+Records: CE-CHANGE-20261102-123. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original flow retained unchanged.
+
+Records: CE-CHANGE-20261102-123. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original teacher retained unchanged.
+
+Records: CE-CHANGE-20261102-123. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original recovery retained unchanged.
+
+Records: CE-CHANGE-20261102-123. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original media retained unchanged.
+
+Records: CE-CHANGE-20261102-123. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original assets retained unchanged.
+
+Records: CE-CHANGE-20261102-123. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original sources retained unchanged.
+
+Records: CE-CHANGE-20261102-123. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original decisions retained unchanged.
+
+Records: CE-CHANGE-20261102-123. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+## CE-CHANGE-20261102-124 — Compact linked curriculum and phase-header game link
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex Blueprint review implementer.
+
+**Objective:** Show the character story and exact curriculum before expansion; keep the game link above the plus toggle and open directly into one screenshot table.
+
+**Before:** Compact curriculum was paraphrased and links still duplicated planner, storyboard and walkthrough routes in supporting panels.
+
+**Required result:** Exact curriculum descriptors link to their planner entry with codes on hover/focus. Groups flow in two borderless columns on wider screens and one on narrow screens. An inline vector Career Empire Game link graphic sits in every phase heading before the walkthrough toggle; one five-column table expands directly below.
+
+**Source:** Tania explicitly requests exact curriculum IDs/wording, compact parent/child list, direct plus-button table expansion and game link in the top panel. Later clarification: hide codes until hover, link each descriptor, use two borderless columns and a small heading graphic for game entry.
+
+**Next:** Publish reviewed reader only and verify live; fresh captures/media remain separately pending, no new Phase01proposal applied.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original start retained unchanged.
+
+Records: CE-CHANGE-20261102-124. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/exact-phase-curriculum-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original roadmap retained unchanged.
+
+Records: CE-CHANGE-20261102-124. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/exact-phase-curriculum-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original history retained unchanged.
+
+Records: CE-CHANGE-20261102-124. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/exact-phase-curriculum-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original protocol retained unchanged.
+
+Records: CE-CHANGE-20261102-124. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/exact-phase-curriculum-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original exports retained unchanged.
+
+Records: CE-CHANGE-20261102-124. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/exact-phase-curriculum-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish approved generated combined reader and verify exact live commit/bytes.
+
+Records: CE-CHANGE-20261102-124. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: pending / Independent Pages/served artifact verification pending.
+
+- [Evidence](docs/production/exact-phase-curriculum-20261102.md)
+
+Next: Verify exact Pages commit, served bytes and reader links.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original build retained unchanged.
+
+Records: CE-CHANGE-20261102-124. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/exact-phase-curriculum-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original flow retained unchanged.
+
+Records: CE-CHANGE-20261102-124. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/exact-phase-curriculum-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original teacher retained unchanged.
+
+Records: CE-CHANGE-20261102-124. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/exact-phase-curriculum-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original recovery retained unchanged.
+
+Records: CE-CHANGE-20261102-124. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/exact-phase-curriculum-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original media retained unchanged.
+
+Records: CE-CHANGE-20261102-124. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/exact-phase-curriculum-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original assets retained unchanged.
+
+Records: CE-CHANGE-20261102-124. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/exact-phase-curriculum-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original sources retained unchanged.
+
+Records: CE-CHANGE-20261102-124. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/exact-phase-curriculum-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original decisions retained unchanged.
+
+Records: CE-CHANGE-20261102-124. Owner: Codex Blueprint review implementer.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/exact-phase-curriculum-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+## CE-CHANGE-20261102-125 — Teacher guide compact previews with expandable screenshot columns
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex reader maintainer.
+
+**Objective:** Show thumbnail, brief description and purpose first, with full screenshot and explanation columns available on expansion.
+
+**Before:** A large horizontally scrolling table displays all grouped screenshots and detailed columns by default.
+
+**Required result:** 14closednative disclosure groups summarise18retainedscreens; expanded groups retain screenshot/what/why/limits columns, source details and pan controls.
+
+**Source:** Tania explicitly asks for dropdown details with small thumbnail, brief description and purpose visible.
+
+**Next:** Publish reviewed reader only and verify live; fresh captures/media remain separately pending, no new Phase01proposal applied.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original start retained unchanged.
+
+Records: CE-CHANGE-20261102-125. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-guide-disclosure-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original roadmap retained unchanged.
+
+Records: CE-CHANGE-20261102-125. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-guide-disclosure-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original history retained unchanged.
+
+Records: CE-CHANGE-20261102-125. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-guide-disclosure-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original protocol retained unchanged.
+
+Records: CE-CHANGE-20261102-125. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-guide-disclosure-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original exports retained unchanged.
+
+Records: CE-CHANGE-20261102-125. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-guide-disclosure-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish approved generated combined reader and verify exact live commit/bytes.
+
+Records: CE-CHANGE-20261102-125. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: pending / Independent Pages/served artifact verification pending.
+
+- [Evidence](docs/production/teacher-guide-disclosure-20261102.md)
+
+Next: Verify exact Pages commit, served bytes and reader links.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original build retained unchanged.
+
+Records: CE-CHANGE-20261102-125. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-guide-disclosure-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original flow retained unchanged.
+
+Records: CE-CHANGE-20261102-125. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-guide-disclosure-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original teacher retained unchanged.
+
+Records: CE-CHANGE-20261102-125. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-guide-disclosure-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original recovery retained unchanged.
+
+Records: CE-CHANGE-20261102-125. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-guide-disclosure-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original media retained unchanged.
+
+Records: CE-CHANGE-20261102-125. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-guide-disclosure-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original assets retained unchanged.
+
+Records: CE-CHANGE-20261102-125. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-guide-disclosure-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original sources retained unchanged.
+
+Records: CE-CHANGE-20261102-125. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-guide-disclosure-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original decisions retained unchanged.
+
+Records: CE-CHANGE-20261102-125. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-guide-disclosure-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+## CE-CHANGE-20261102-126 — Focused header and footer archive with clean teacher guide
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex reader maintainer.
+
+**Objective:** Keep four active header destinations and move development/source/legacy planning into a footer archive without losing content or old links.
+
+**Before:** Header exposes design, history and separate journeys; teacher page includes legacy tracking table, coverage map and phase selector below guide.
+
+**Required result:** Four header tabs; journeys within curriculum/pedagogy; game design and source/history footer archive. Teacher guide only on teacher page; legacy notes remain in archived design page. Rewards have distinct student-progress overview and pedagogy rationale.
+
+**Source:** Tania explicitly requests these archive/header/teacher simplifications and confirms Teacher Dashboard remains in header.
+
+**Next:** Publish reviewed reader only and verify live; fresh captures/media remain separately pending, no new Phase01proposal applied.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original start retained unchanged.
+
+Records: CE-CHANGE-20261102-126. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/footer-archive-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original roadmap retained unchanged.
+
+Records: CE-CHANGE-20261102-126. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/footer-archive-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original history retained unchanged.
+
+Records: CE-CHANGE-20261102-126. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/footer-archive-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original protocol retained unchanged.
+
+Records: CE-CHANGE-20261102-126. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/footer-archive-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original exports retained unchanged.
+
+Records: CE-CHANGE-20261102-126. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/footer-archive-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish approved generated combined reader and verify exact live commit/bytes.
+
+Records: CE-CHANGE-20261102-126. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: pending / Independent Pages/served artifact verification pending.
+
+- [Evidence](docs/production/footer-archive-20261102.md)
+
+Next: Verify exact Pages commit, served bytes and reader links.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original build retained unchanged.
+
+Records: CE-CHANGE-20261102-126. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/footer-archive-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original flow retained unchanged.
+
+Records: CE-CHANGE-20261102-126. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/footer-archive-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original teacher retained unchanged.
+
+Records: CE-CHANGE-20261102-126. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/footer-archive-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original recovery retained unchanged.
+
+Records: CE-CHANGE-20261102-126. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/footer-archive-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original media retained unchanged.
+
+Records: CE-CHANGE-20261102-126. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/footer-archive-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original assets retained unchanged.
+
+Records: CE-CHANGE-20261102-126. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/footer-archive-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original sources retained unchanged.
+
+Records: CE-CHANGE-20261102-126. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/footer-archive-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original decisions retained unchanged.
+
+Records: CE-CHANGE-20261102-126. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/footer-archive-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+## CE-CHANGE-20261102-127 — Teacher Fit width default, limits tooltip and simpler Start Here
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex reader maintainer.
+
+**Objective:** Default teacher images to fitted width, reduce explanation columns and keep StartHere focused on showcase.
+
+**Before:** Teacher images open actual-size in four columns; older four starting-point cards repeat navigation.
+
+**Required result:** 14groups defaultFitwidth in three columns with18Limits tooltips. StartHere navigation cards are retained under archived earlier navigation; game/journey hero links remain.
+
+**Source:** Tania explicitly requests these teacher display changes and StartHere review.
+
+**Next:** Publish reviewed reader only and verify live; fresh captures/media remain separately pending, no new Phase01proposal applied.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original start retained unchanged.
+
+Records: CE-CHANGE-20261102-127. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-fit-start-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original roadmap retained unchanged.
+
+Records: CE-CHANGE-20261102-127. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-fit-start-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original history retained unchanged.
+
+Records: CE-CHANGE-20261102-127. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-fit-start-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original protocol retained unchanged.
+
+Records: CE-CHANGE-20261102-127. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-fit-start-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original exports retained unchanged.
+
+Records: CE-CHANGE-20261102-127. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-fit-start-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish approved generated combined reader and verify exact live commit/bytes.
+
+Records: CE-CHANGE-20261102-127. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: pending / Independent Pages/served artifact verification pending.
+
+- [Evidence](docs/production/teacher-fit-start-20261102.md)
+
+Next: Verify exact Pages commit, served bytes and reader links.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original build retained unchanged.
+
+Records: CE-CHANGE-20261102-127. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-fit-start-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original flow retained unchanged.
+
+Records: CE-CHANGE-20261102-127. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-fit-start-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original teacher retained unchanged.
+
+Records: CE-CHANGE-20261102-127. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-fit-start-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original recovery retained unchanged.
+
+Records: CE-CHANGE-20261102-127. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-fit-start-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original media retained unchanged.
+
+Records: CE-CHANGE-20261102-127. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-fit-start-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original assets retained unchanged.
+
+Records: CE-CHANGE-20261102-127. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-fit-start-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original sources retained unchanged.
+
+Records: CE-CHANGE-20261102-127. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-fit-start-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original decisions retained unchanged.
+
+Records: CE-CHANGE-20261102-127. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/teacher-fit-start-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+## CE-CHANGE-20261102-128 — Student screenshot-first evidence refresh
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex reader maintainer.
+
+**Objective:** Show relevant dated student evidence first and remove repeated top-level explanations.
+
+**Before:** Student page leads with rewards/cautions/portfolio instructions; world progress uses a market exterior and practice uses earlier isolated captures.
+
+**Required result:** Four-column student table leads; portfolio instructions live within their row, cautions below, no repeated archive link. Relevant inspected24Octoberactualscreens replace unrelated/older ones;2Novemberdemo images retained. New live capture remains blocked.
+
+**Source:** Tania requests current screenshot/evidence refresh and directly identifies duplicated top material to relocate.
+
+**Next:** Publish reviewed reader only and verify live; fresh captures/media remain separately pending, no new Phase01proposal applied.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original start retained unchanged.
+
+Records: CE-CHANGE-20261102-128. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/student-progress-refresh-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original roadmap retained unchanged.
+
+Records: CE-CHANGE-20261102-128. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/student-progress-refresh-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original history retained unchanged.
+
+Records: CE-CHANGE-20261102-128. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/student-progress-refresh-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original protocol retained unchanged.
+
+Records: CE-CHANGE-20261102-128. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/student-progress-refresh-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original exports retained unchanged.
+
+Records: CE-CHANGE-20261102-128. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/student-progress-refresh-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish approved generated combined reader and verify exact live commit/bytes.
+
+Records: CE-CHANGE-20261102-128. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: pending / Independent Pages/served artifact verification pending.
+
+- [Evidence](docs/production/student-progress-refresh-20261102.md)
+
+Next: Verify exact Pages commit, served bytes and reader links.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original build retained unchanged.
+
+Records: CE-CHANGE-20261102-128. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/student-progress-refresh-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original flow retained unchanged.
+
+Records: CE-CHANGE-20261102-128. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/student-progress-refresh-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original teacher retained unchanged.
+
+Records: CE-CHANGE-20261102-128. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/student-progress-refresh-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original recovery retained unchanged.
+
+Records: CE-CHANGE-20261102-128. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/student-progress-refresh-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original media retained unchanged.
+
+Records: CE-CHANGE-20261102-128. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/student-progress-refresh-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original assets retained unchanged.
+
+Records: CE-CHANGE-20261102-128. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/student-progress-refresh-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original sources retained unchanged.
+
+Records: CE-CHANGE-20261102-128. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/student-progress-refresh-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original decisions retained unchanged.
+
+Records: CE-CHANGE-20261102-128. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/student-progress-refresh-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+## CE-CHANGE-20261102-129 — Bare Start Here and reusable places overview
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex reader maintainer.
+
+**Objective:** Explain the game and evaluative Blueprint briefly, and show buildings/services separately from phases.
+
+**Before:** StartHere retains extensive context; buildings are described mainly in archived world material; student controls use a walkthrough label.
+
+**Required result:** BareStartHere has game/Blueprint descriptions and game/preview links; prior context retained in archive. Places in the game is fourth curriculum-area tile, with six places and their journey roles. Student controls use screen/feature labels.
+
+**Source:** Tania explicitly requests bareStartHere, approves Places beside Phase journeys and asks for explanation of student controls/rewards/support sections.
+
+**Next:** Publish reviewed reader only and verify live; fresh captures/media remain separately pending, no new Phase01proposal applied.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original start retained unchanged.
+
+Records: CE-CHANGE-20261102-129. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/bare-start-places-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original roadmap retained unchanged.
+
+Records: CE-CHANGE-20261102-129. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/bare-start-places-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original history retained unchanged.
+
+Records: CE-CHANGE-20261102-129. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/bare-start-places-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original protocol retained unchanged.
+
+Records: CE-CHANGE-20261102-129. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/bare-start-places-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original exports retained unchanged.
+
+Records: CE-CHANGE-20261102-129. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/bare-start-places-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish approved generated combined reader and verify exact live commit/bytes.
+
+Records: CE-CHANGE-20261102-129. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: pending / Independent Pages/served artifact verification pending.
+
+- [Evidence](docs/production/bare-start-places-20261102.md)
+
+Next: Verify exact Pages commit, served bytes and reader links.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original build retained unchanged.
+
+Records: CE-CHANGE-20261102-129. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/bare-start-places-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original flow retained unchanged.
+
+Records: CE-CHANGE-20261102-129. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/bare-start-places-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original teacher retained unchanged.
+
+Records: CE-CHANGE-20261102-129. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/bare-start-places-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original recovery retained unchanged.
+
+Records: CE-CHANGE-20261102-129. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/bare-start-places-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original media retained unchanged.
+
+Records: CE-CHANGE-20261102-129. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/bare-start-places-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original assets retained unchanged.
+
+Records: CE-CHANGE-20261102-129. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/bare-start-places-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original sources retained unchanged.
+
+Records: CE-CHANGE-20261102-129. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/bare-start-places-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original decisions retained unchanged.
+
+Records: CE-CHANGE-20261102-129. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/bare-start-places-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+## CE-CHANGE-20261102-130 — Compact illustrated pedagogy and grouped disclosures
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex reader maintainer.
+
+**Objective:** Make teaching/assessment principles understandable at a glance with existing visuals and compact tables.
+
+**Before:** Large infographic, long portfolio section and multiple expanded explanations form a wall of text.
+
+**Required result:** Small full-size-linked infographic and visual learning sequence lead into five illustrated principle rows; fuller portfolio/research/memory/Initiative/megatrends/classroom explanations start closed.
+
+**Source:** Tania explicitly requests tables, dropdowns and more images/fewer visible words on pedagogy page.
+
+**Next:** Publish reviewed reader only and verify live; fresh captures/media remain separately pending, no new Phase01proposal applied.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original start retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original roadmap retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original history retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original protocol retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original exports retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish approved generated combined reader and verify exact live commit/bytes.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: pending / Independent Pages/served artifact verification pending.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Verify exact Pages commit, served bytes and reader links.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original build retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original flow retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original teacher retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original recovery retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original media retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original assets retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original sources retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original decisions retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+## CE-CHANGE-20261103-131 — Publish user-reviewed combined Blueprint
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex reader maintainer.
+
+**Objective:** Publish the user-reviewed reader to the existing public Blueprint link without private-source/game/proposal changes.
+
+**Before:** Combined navigation and compact reader changes121–130 exist in localpreview only.
+
+**Required result:** Existing live Blueprint will serve the reviewed combined reader with all dated evidence/source boundaries retained.
+
+**Source:** Direct user approval3November2026: it looks great for now. Please upload to the live link for the blueprint.
+
+**Next:** Publish reviewed reader only and verify live; fresh captures/media remain separately pending, no new Phase01proposal applied.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original start retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original roadmap retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original history retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original protocol retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original exports retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish approved generated combined reader and verify exact live commit/bytes.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: pending / Independent Pages/served artifact verification pending.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Verify exact Pages commit, served bytes and reader links.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original build retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original flow retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original teacher retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original recovery retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original media retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original assets retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original sources retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Scoped combined reader reviewed; relevant presentation/source updated or original decisions retained unchanged.
+
+Records: CE-CHANGE-20261102-130. Owner: Codex Blueprint review implementer.
+
+Acceptance: Screenshot and explanations align; scroll controls pan actual image/table content; original media and private boundaries preserved; sample NYS correctly explained.
+
+Verification: passed / Scoped source/render checks,115tests/types/lint/builds and direct user visual acceptance of localpreview3November2026; no claim of new native capture.
+
+- [Evidence](docs/production/pedagogy-overview-20261102.md)
+
+Next: Retain dated evidence, open game/media work and user-approved content boundaries.
 
 ## Historical boundary
 
