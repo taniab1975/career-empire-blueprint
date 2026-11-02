@@ -1,24 +1,24 @@
 {
-  "sourceCommit": "38dbbfb8fb3b90c2db2a8aaed3c51a622e705005",
-  "generatedAt": "2026-11-02T08:21:44.463Z",
-  "revision": "V2.36 / 2 November 2026",
-  "recordSha256": "6e2ce2d73d32e7ca15016818f79c8adc009878004a0e4293a0ad319fed43f3da",
+  "sourceCommit": "630f174a8c9b1234b08044483aafdbb30874597d",
+  "generatedAt": "2026-11-02T11:14:55.300Z",
+  "revision": "V2.37 / 2 November 2026",
+  "recordSha256": "9ff25cf0041e9d0374a258eab602d619cf0771d52368e6454c822306085871b5",
   "files": [
     {
-      "path": "assets/curriculum-planner-Do-9PRt_.js",
-      "sha256": "0b8d5340d29bbd8318a3371f6fdf983f5e38b09d721c6b165ea81ed17d1b13d2"
+      "path": "assets/curriculum-planner-CHW7-XJn.js",
+      "sha256": "fe7f1020d85dba31430f2d4ea58def103dcb75175f069bfd8a6802b51ad43a5c"
+    },
+    {
+      "path": "assets/index-BsA7n_dY.js",
+      "sha256": "876978af8c6252297afb4eba0b625fb200c318a819eaa091d87a9242b6b223fd"
     },
     {
       "path": "assets/index-lL8I4ki0.css",
       "sha256": "eea8413f06334757a76830176ae580f1f2b0f5df25952ce7aba77c1adcf7b26c"
     },
     {
-      "path": "assets/index-uKCSjYbB.js",
-      "sha256": "a963ae33d745f86c6243a41b16fdd70c350afe3ac7a3a412a555fe9f7b29f2a5"
-    },
-    {
       "path": "blueprint-records.json",
-      "sha256": "6e2ce2d73d32e7ca15016818f79c8adc009878004a0e4293a0ad319fed43f3da"
+      "sha256": "9ff25cf0041e9d0374a258eab602d619cf0771d52368e6454c822306085871b5"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1414,7 +1414,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "d31b091aefe8c2a2a07e4ba404f52bf15dd4437df997cb7cce63effae8af76d5"
+      "sha256": "5d34c466076b9313b16bd03a575aa6715d532be6b36b39649725ddf09a03a9d8"
     },
     {
       "path": "playable-3d/app.js",
@@ -1686,7 +1686,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "e9f85334245f382fd86bfaf16755ca146876042faf43ab081318e07e5c7942a3"
+      "sha256": "fab99b4fab8d68af48f34711d0d0ffde43ea32b595621bfd1fb2b5fe9aca3df8"
     },
     {
       "path": "production/change-workflows.md",
@@ -1914,7 +1914,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "ffd3bc804bbe86c376034a0929172176d454b3dc04237028d02520b857aea65a"
+      "sha256": "47516d9157232a109c519bdcc9e62994aa70ef5216b34b38f962d1d2a239ebd1"
     },
     {
       "path": "production/media-oval-20260911.md",

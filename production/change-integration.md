@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.36 Design intent, verified student portfolio and selected revised pedagogy infographic.
+Release scope: V2.37 featured portfolio journal in Teaching & assessment.
 
-Static reader corrections and fictional public-demo media only. Existing teaching prose, curriculum, game and access controls preserved. Refreshed teacher media pending separately.
+Static reader emphasis; existing teaching content retained. Intended year-long use is not a measured impact claim; new Markets transfer and school submission remain unverified. Teacher sample media forthcoming.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -26564,6 +26564,244 @@ Verification: passed / Tania still directs design acceptance; original protected
 - [Evidence](data/operations.json)
 
 Next: Retain source-specific evidence; livepublicationcheck remains pending.
+
+## CE-CHANGE-20261102-119 — Feature portfolio as a year-long journal of transferable skills
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex reader maintainer.
+
+**Objective:** Place the intended portfolio learning role prominently after the pedagogy infographic, with verified student features, useful links and clear teacher-media boundaries.
+
+**Before:** The existing portfolio is documented primarily in the practical student progress walkthrough.
+
+**Required result:** Teaching & assessment features the continuing journal of reasoning, feedback, revision and transfer, linked to existing practical student entry and walkthrough.
+
+**Source:** Tania explicitly asks the year-long transferable-skills portfolio to be featured; prior public generated-reader approval retained.
+
+**Next:** Publish the verified featured portfolio text and two honest demo-entry actions. Add refreshed fictional teacher media only after parent supplies approved final assets.
+
+### Start Here — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+This scoped reader addition preserves start source, existing content and access boundaries; no unrelated implementation or asset change.
+
+Records: CE-CHANGE-20261102-119. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: Prominent year-long journal purpose, verified-feature boundaries and useful student links; no working teacher dashboard URL or real student data.
+
+Verification: passed / Existing source/diff reviewed;115tests/types/lint and desktop390pxsection/link/layout checks passed. Prior content and image bytes retained.
+
+- [Evidence](app/blueprint-detail.tsx)
+
+Next: Retain verified boundaries and coordinate approved fictional teacher media separately.
+
+### Priorities and linked execution tasks — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+This scoped reader addition preserves roadmap source, existing content and access boundaries; no unrelated implementation or asset change.
+
+Records: CE-CHANGE-20261102-119. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: Prominent year-long journal purpose, verified-feature boundaries and useful student links; no working teacher dashboard URL or real student data.
+
+Verification: passed / Existing source/diff reviewed;115tests/types/lint and desktop390pxsection/link/layout checks passed. Prior content and image bytes retained.
+
+- [Evidence](app/blueprint-detail.tsx)
+
+Next: Retain verified boundaries and coordinate approved fictional teacher media separately.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Featured journal connects reasoning, feedback, revision and transfer; two student actions explain the supported public entry and modal steps. Existing teacher capability view described with sample media forthcoming; no working teacher URL.
+
+Records: CE-CHANGE-20261102-119. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: Prominent year-long journal purpose, verified-feature boundaries and useful student links; no working teacher dashboard URL or real student data.
+
+Verification: passed / Existing source/diff reviewed;115tests/types/lint and desktop390pxsection/link/layout checks passed. Prior content and image bytes retained.
+
+- [Evidence](app/blueprint-detail.tsx)
+
+Next: Retain verified boundaries and coordinate approved fictional teacher media separately.
+
+### Workflows and handoff — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+This scoped reader addition preserves protocol source, existing content and access boundaries; no unrelated implementation or asset change.
+
+Records: CE-CHANGE-20261102-119. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: Prominent year-long journal purpose, verified-feature boundaries and useful student links; no working teacher dashboard URL or real student data.
+
+Verification: passed / Existing source/diff reviewed;115tests/types/lint and desktop390pxsection/link/layout checks passed. Prior content and image bytes retained.
+
+- [Evidence](app/blueprint-detail.tsx)
+
+Next: Retain verified boundaries and coordinate approved fictional teacher media separately.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Featured journal connects reasoning, feedback, revision and transfer; two student actions explain the supported public entry and modal steps. Existing teacher capability view described with sample media forthcoming; no working teacher URL.
+
+Records: CE-CHANGE-20261102-119. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: Prominent year-long journal purpose, verified-feature boundaries and useful student links; no working teacher dashboard URL or real student data.
+
+Verification: passed / Existing source/diff reviewed;115tests/types/lint and desktop390pxsection/link/layout checks passed. Prior content and image bytes retained.
+
+- [Evidence](app/blueprint-detail.tsx)
+
+Next: Retain verified boundaries and coordinate approved fictional teacher media separately.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish generated V2.37 reader content only; refreshed teacher media remains forthcoming.
+
+Records: CE-CHANGE-20261102-119. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: Prominent year-long journal purpose, verified-feature boundaries and useful student links; no working teacher dashboard URL or real student data.
+
+Verification: pending / Publication and served-file verification pending.
+
+- [Evidence](app/blueprint-detail.tsx)
+
+Next: Verify exact public commit, Pages build and live featured section.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+This scoped reader addition preserves build source, existing content and access boundaries; no unrelated implementation or asset change.
+
+Records: CE-CHANGE-20261102-119. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: Prominent year-long journal purpose, verified-feature boundaries and useful student links; no working teacher dashboard URL or real student data.
+
+Verification: passed / Existing source/diff reviewed;115tests/types/lint and desktop390pxsection/link/layout checks passed. Prior content and image bytes retained.
+
+- [Evidence](app/blueprint-detail.tsx)
+
+Next: Retain verified boundaries and coordinate approved fictional teacher media separately.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Featured journal connects reasoning, feedback, revision and transfer; two student actions explain the supported public entry and modal steps. Existing teacher capability view described with sample media forthcoming; no working teacher URL.
+
+Records: CE-CHANGE-20261102-119. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: Prominent year-long journal purpose, verified-feature boundaries and useful student links; no working teacher dashboard URL or real student data.
+
+Verification: passed / Existing source/diff reviewed;115tests/types/lint and desktop390pxsection/link/layout checks passed. Prior content and image bytes retained.
+
+- [Evidence](app/blueprint-detail.tsx)
+
+Next: Retain verified boundaries and coordinate approved fictional teacher media separately.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Featured journal connects reasoning, feedback, revision and transfer; two student actions explain the supported public entry and modal steps. Existing teacher capability view described with sample media forthcoming; no working teacher URL.
+
+Records: CE-CHANGE-20261102-119. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: Prominent year-long journal purpose, verified-feature boundaries and useful student links; no working teacher dashboard URL or real student data.
+
+Verification: passed / Existing source/diff reviewed;115tests/types/lint and desktop390pxsection/link/layout checks passed. Prior content and image bytes retained.
+
+- [Evidence](app/blueprint-detail.tsx)
+
+Next: Retain verified boundaries and coordinate approved fictional teacher media separately.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+This scoped reader addition preserves recovery source, existing content and access boundaries; no unrelated implementation or asset change.
+
+Records: CE-CHANGE-20261102-119. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: Prominent year-long journal purpose, verified-feature boundaries and useful student links; no working teacher dashboard URL or real student data.
+
+Verification: passed / Existing source/diff reviewed;115tests/types/lint and desktop390pxsection/link/layout checks passed. Prior content and image bytes retained.
+
+- [Evidence](app/blueprint-detail.tsx)
+
+Next: Retain verified boundaries and coordinate approved fictional teacher media separately.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+This scoped reader addition preserves media source, existing content and access boundaries; no unrelated implementation or asset change.
+
+Records: CE-CHANGE-20261102-119. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: Prominent year-long journal purpose, verified-feature boundaries and useful student links; no working teacher dashboard URL or real student data.
+
+Verification: passed / Existing source/diff reviewed;115tests/types/lint and desktop390pxsection/link/layout checks passed. Prior content and image bytes retained.
+
+- [Evidence](app/blueprint-detail.tsx)
+
+Next: Retain verified boundaries and coordinate approved fictional teacher media separately.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+This scoped reader addition preserves assets source, existing content and access boundaries; no unrelated implementation or asset change.
+
+Records: CE-CHANGE-20261102-119. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: Prominent year-long journal purpose, verified-feature boundaries and useful student links; no working teacher dashboard URL or real student data.
+
+Verification: passed / Existing source/diff reviewed;115tests/types/lint and desktop390pxsection/link/layout checks passed. Prior content and image bytes retained.
+
+- [Evidence](app/blueprint-detail.tsx)
+
+Next: Retain verified boundaries and coordinate approved fictional teacher media separately.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+This scoped reader addition preserves sources source, existing content and access boundaries; no unrelated implementation or asset change.
+
+Records: CE-CHANGE-20261102-119. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: Prominent year-long journal purpose, verified-feature boundaries and useful student links; no working teacher dashboard URL or real student data.
+
+Verification: passed / Existing source/diff reviewed;115tests/types/lint and desktop390pxsection/link/layout checks passed. Prior content and image bytes retained.
+
+- [Evidence](app/blueprint-detail.tsx)
+
+Next: Retain verified boundaries and coordinate approved fictional teacher media separately.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+This scoped reader addition preserves decisions source, existing content and access boundaries; no unrelated implementation or asset change.
+
+Records: CE-CHANGE-20261102-119. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: Prominent year-long journal purpose, verified-feature boundaries and useful student links; no working teacher dashboard URL or real student data.
+
+Verification: passed / Existing source/diff reviewed;115tests/types/lint and desktop390pxsection/link/layout checks passed. Prior content and image bytes retained.
+
+- [Evidence](app/blueprint-detail.tsx)
+
+Next: Retain verified boundaries and coordinate approved fictional teacher media separately.
 
 ## Historical boundary
 

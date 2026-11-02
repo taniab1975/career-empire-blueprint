@@ -1865,6 +1865,24 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **testing:** 115 tests/types/lint and student screenshot preview passed; final combined checks pending.
 - **taniaAcceptance:** No ownership transfer is intended; further design and pedagogy review remain separate.
 
+## CE-CHANGE-20261102-119 — Feature portfolio as the year-long journal of transferable skills
+
+- **date:** 2026-11-02
+- **domain:** Teaching & assessment reader emphasis only
+- **source:** Tania: portfolio is a key piece of evidence, the journal of learning transferable skills over the year, and should be featured in the Blueprint.
+- **owner:** Tania: design intent; Codex: scoped reader correction
+- **status:** Local reader candidate; publication pending
+- **rationale:** Make the intended learning role prominent while preserving existing teaching content and verified-feature boundaries.
+- **dependencies:** CE-CHANGE-20261102-118
+- **evidence:** app/blueprint-detail.tsx
+- **nextAction:** Validate featured section and coordinate approved final teacher media with parent before adding any media.
+- **supersededRecord:** None
+- **designApproval:** User explicitly requests featured portfolio placement; public generated reader publication already approved.
+- **implementation:** Prominent section after selected infographic: experience, reflection/articulation, feedback, revision and transfer; existing STAR features and public demo links; teacher sample media forthcoming, no working teacher URL.
+- **deployment:** Not yet verified live for this correction.
+- **testing:** Scoped source, types/lint, full tests and responsive preview pending.
+- **taniaAcceptance:** No ownership transfer is intended; further design and pedagogy review remain separate.
+
 ## Retained Atlas principles
 
 Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries
