@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.35Mara bridge, whole-game Teaching & assessment and fictional character-led megatrends plan.
+Release scope: V2.36design-intent wording correction only.
 
-Blueprint plans only; localgamechanges are not independently verifiedlive. No game/backend/studenttrial release. Inherited intake/integration backlog remains disclosed separately.
+No game, pedagogy, curriculum or ownership/access change. Existing unrelated integration backlog remains separate.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -26295,6 +26295,272 @@ Verification: passed / Existing public research and2027SCSA references retained;
 - [Evidence](docs/production/teaching-megatrends-plan-20261102.md)
 
 Next: Retain scoped evidence and independently verify generated public release.
+
+## CE-CHANGE-20261102-118 — Replace takeover framing with Tania’s design intent
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex reader maintainer.
+
+**Objective:** Correct only reader wording and navigation; keep the existing handover URL working.
+
+**Before:** The requested page tells another colleague to take over the project.
+
+**Required result:** The same route explains Tania’s intentions and intended development requirements.
+
+**Source:** Tania explicitly requests wording correction at the existing delivery/handover URL; publication authorised.
+
+**Next:** Publish the reviewed wording correction and verify originalroute, servedhashes, heading/navlabels and desktop/mobileUI.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Start Here byline, purpose and fourthcard now describe Tania’s design intent; same carddestination retained.
+
+Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
+
+Verification: passed / Start Here byline, purpose and fourthcard now describe Tania’s design intent; same carddestination retained. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+
+- [Evidence](app/site-guide.tsx)
+- [Evidence](app/blueprint-surfaces.tsx)
+- [Evidence](data/operations.json)
+
+Next: Retain source-specific evidence; livepublicationcheck remains pending.
+
+### Priorities and linked execution tasks — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Current milestone and matching productionPlan display title now say deliveryspecification; priorities, nextactions and roadmapsequence unchanged.
+
+Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
+
+Verification: passed / Current milestone and matching productionPlan display title now say deliveryspecification; priorities, nextactions and roadmapsequence unchanged. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+
+- [Evidence](app/site-guide.tsx)
+- [Evidence](app/blueprint-surfaces.tsx)
+- [Evidence](data/operations.json)
+
+Next: Retain source-specific evidence; livepublicationcheck remains pending.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Materialrecord118 records the explicit wording request and no-transfer intent; original decisions/history retained.
+
+Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
+
+Verification: passed / Materialrecord118 records the explicit wording request and no-transfer intent; original decisions/history retained. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+
+- [Evidence](app/site-guide.tsx)
+- [Evidence](app/blueprint-surfaces.tsx)
+- [Evidence](data/operations.json)
+
+Next: Retain source-specific evidence; livepublicationcheck remains pending.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+AGENTS records narrow scope and parentpedagogy pause; internalcompatibilityIDs and existing governance checks unchanged.
+
+Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
+
+Verification: passed / AGENTS records narrow scope and parentpedagogy pause; internalcompatibilityIDs and existing governance checks unchanged. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+
+- [Evidence](app/site-guide.tsx)
+- [Evidence](app/blueprint-surfaces.tsx)
+- [Evidence](data/operations.json)
+
+Next: Retain source-specific evidence; livepublicationcheck remains pending.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Canonical record exports regenerate navigation labels and wording status; no private source added to public output.
+
+Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
+
+Verification: passed / Canonical record exports regenerate navigation labels and wording status; no private source added to public output. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+
+- [Evidence](app/site-guide.tsx)
+- [Evidence](app/blueprint-surfaces.tsx)
+- [Evidence](data/operations.json)
+
+Next: Retain source-specific evidence; livepublicationcheck remains pending.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish generated V2.36wording correction only to the existing public Blueprint.
+
+Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
+
+Verification: pending / Scoped source and rendered route verification pending.
+
+- [Evidence](app/site-guide.tsx)
+- [Evidence](app/blueprint-surfaces.tsx)
+- [Evidence](data/operations.json)
+
+Next: Verify exactpubliccommit/Pagesbuild, changedservedhashes, oldhandoverURL and new Designintent visiblelabels.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+No build status, game implementation or dated evidence claims changed; the design-intent page links existing build evidence.
+
+Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
+
+Verification: passed / No build status, game implementation or dated evidence claims changed; the design-intent page links existing build evidence. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+
+- [Evidence](app/site-guide.tsx)
+- [Evidence](app/blueprint-surfaces.tsx)
+- [Evidence](data/operations.json)
+
+Next: Retain source-specific evidence; livepublicationcheck remains pending.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Original delivery/handover URL renders Design intent, and StartHere card links to it; desktop and390pxnavigation checked.
+
+Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
+
+Verification: passed / Original delivery/handover URL renders Design intent, and StartHere card links to it; desktop and390pxnavigation checked. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+
+- [Evidence](app/site-guide.tsx)
+- [Evidence](app/blueprint-surfaces.tsx)
+- [Evidence](data/operations.json)
+
+Next: Retain source-specific evidence; livepublicationcheck remains pending.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+All learningPrinciples JSON and shared LearningModel bytes are unchanged; app/blueprint-detail.tsx and teacher/dashboard content untouched.
+
+Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
+
+Verification: passed / All learningPrinciples JSON and shared LearningModel bytes are unchanged; app/blueprint-detail.tsx and teacher/dashboard content untouched. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+
+- [Evidence](app/site-guide.tsx)
+- [Evidence](app/blueprint-surfaces.tsx)
+- [Evidence](data/operations.json)
+
+Next: Retain source-specific evidence; livepublicationcheck remains pending.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Editable source, private recovery and licensed-material boundaries retained; no source ownership or access permission changed.
+
+Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
+
+Verification: passed / Editable source, private recovery and licensed-material boundaries retained; no source ownership or access permission changed. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+
+- [Evidence](app/site-guide.tsx)
+- [Evidence](app/blueprint-surfaces.tsx)
+- [Evidence](data/operations.json)
+
+Next: Retain source-specific evidence; livepublicationcheck remains pending.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+All existing imagery, videos and provenance retained; no media replacement or game screenshots added.
+
+Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
+
+Verification: passed / All existing imagery, videos and provenance retained; no media replacement or game screenshots added. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+
+- [Evidence](app/site-guide.tsx)
+- [Evidence](app/blueprint-surfaces.tsx)
+- [Evidence](data/operations.json)
+
+Next: Retain source-specific evidence; livepublicationcheck remains pending.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Asset and visual registers remain byte-unchanged; no assets, models, curriculum icons or appearance acceptance changed.
+
+Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
+
+Verification: passed / Asset and visual registers remain byte-unchanged; no assets, models, curriculum icons or appearance acceptance changed. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+
+- [Evidence](app/site-guide.tsx)
+- [Evidence](app/blueprint-surfaces.tsx)
+- [Evidence](data/operations.json)
+
+Next: Retain source-specific evidence; livepublicationcheck remains pending.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Exact curriculum and research/source references unchanged; this correction only describes intended requirements and evidence boundaries.
+
+Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
+
+Verification: passed / Exact curriculum and research/source references unchanged; this correction only describes intended requirements and evidence boundaries. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+
+- [Evidence](app/site-guide.tsx)
+- [Evidence](app/blueprint-surfaces.tsx)
+- [Evidence](data/operations.json)
+
+Next: Retain source-specific evidence; livepublicationcheck remains pending.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Tania still directs design acceptance; original protected decisions indata/blueprint.ts remain exact; no new product or school-use approval.
+
+Records: CE-CHANGE-20261102-118. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: No takeover framing in current reader entry; exact compatibility links and protected content retained.
+
+Verification: passed / Tania still directs design acceptance; original protected decisions indata/blueprint.ts remain exact; no new product or school-use approval. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.
+
+- [Evidence](app/site-guide.tsx)
+- [Evidence](app/blueprint-surfaces.tsx)
+- [Evidence](data/operations.json)
+
+Next: Retain source-specific evidence; livepublicationcheck remains pending.
 
 ## Historical boundary
 

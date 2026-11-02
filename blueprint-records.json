@@ -33186,7 +33186,7 @@
       "backendUnknown": "No authenticated school session queried. Real class scope, database isolation, writes/review persistence and new Markets links remain unverified."
     }
   },
-  "revision": "V2.35 / 2 November 2026",
+  "revision": "V2.36 / 2 November 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -33211,14 +33211,14 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.35",
+      "id": "V2.36",
       "date": "2026-11-02",
-      "label": "V2.35 / 2 November 2026",
-      "status": "Reviewed Blueprint candidate; publication pending",
+      "label": "V2.36 / 2 November 2026",
+      "status": "Design-intent wording candidate; publication pending",
       "purpose": "Career Empire is a connected learning-design project. This scoped Blueprint update teaches from the syllabus first: meaningful experience, explicit instruction, supported application, feedback and durable understanding. Curriculum ways and benefits stay central; no competing named guide or draft song is added to core learning.",
       "audience": "Colleagues reviewing the current game and learning design; teacher delivery program remains in development.",
       "owner": "Tania Byrnes",
-      "scope": "Exact Mara welcome and one shift offer; whole-game teaching and three fictional character-led megatrends proposals. No game implementation."
+      "scope": "Replace project-handover framing with Tania’s design intent; preserve requirements, old URL, pedagogy and game source."
     },
     "navigation": [
       {
@@ -33267,7 +33267,7 @@
       },
       {
         "id": "delivery",
-        "label": "Progress & Handover",
+        "label": "Progress & Design intent",
         "sections": [
           "delivery",
           "roadmap",
@@ -33375,8 +33375,8 @@
         },
         {
           "id": "handover",
-          "label": "Pick up the project",
-          "summary": "A clear handover: purpose, ownership, current position, decisions and the route to authorised source access."
+          "label": "Design intent",
+          "summary": "Tania’s intentions for the connected course and game, with requirements, design decisions and evidence boundaries."
         }
       ],
       "source-documents": [
@@ -33405,7 +33405,7 @@
     "productionPlan": {
       "id": "CE-PLAN-01",
       "changeId": "CE-CHANGE-20260925-91",
-      "phase": "Connected course design and Blueprint handover",
+      "phase": "Connected course design and delivery specification",
       "activeMilestoneId": "CE-CONTINUITY-01",
       "objective": "Make the purpose, current design, implementation limits and next decisions understandable to a new colleague.",
       "now": "V2.29 all-phase walkthroughs and whole-course tracking reader are published and independently verified. Exact curriculum, dated isolated Markets captures and actual legacy fictional demo remain distinct from proposed teaching, opening handover and authenticated integrations.",
@@ -33737,7 +33737,7 @@
     },
     "currentStep": {
       "id": "CE-CONTINUITY-01",
-      "title": "Connected course design and Blueprint handover",
+      "title": "Connected course design and delivery specification",
       "status": "Blueprint reader verified live; authored course provision remains in development",
       "owner": "Codex: reader and checks; Tania: design review; school: assessment decisions",
       "href": "/production/teaching-megatrends-plan-20261102.html",
@@ -37277,6 +37277,31 @@
           "deployment": "Not published; current live status not freshly verified.",
           "testing": "115tests, types/lint, local build/static compilation, desktop390pxreader checks and exact28screen/197curriculum/capture preservation passed.",
           "taniaAcceptance": "No new visual, implementation or classroom acceptance inferred."
+        },
+        {
+          "id": "CE-CHANGE-20261102-118",
+          "date": "2026-11-02",
+          "title": "Describe Tania’s design intent without implying a project handover",
+          "domain": "Blueprint wording and navigation only",
+          "source": "Tania: reword or remove the linked handover page; it explains what she wants, not a transfer to another person.",
+          "owner": "Tania: design intent; Codex: scoped reader correction",
+          "status": "Ready for wording-only publication",
+          "rationale": "Replace successor/takeover framing with intended game behaviour while retaining useful requirements and boundaries.",
+          "dependencies": [
+            "CE-CHANGE-20261102-117"
+          ],
+          "evidence": [
+            "app/site-guide.tsx",
+            "app/blueprint-surfaces.tsx",
+            "data/operations.json"
+          ],
+          "nextAction": "Publish scoped correction and independently verify served content at the original handoverURL.",
+          "supersededRecord": null,
+          "designApproval": "User explicitly requests the wording correction and its publication; no pedagogy revision or game feature change.",
+          "implementation": "Design intent heading/nav/card and neutral design-specification framing; compatibility route retained.",
+          "deployment": "Not yet verified live for this correction.",
+          "testing": "115tests, TypeScript,lint,staticbuild and desktop390pxroute checks passed. Pedagogy JSON/sharedLearningModel unchanged.",
+          "taniaAcceptance": "No ownership transfer is intended; further design and pedagogy review remain separate."
         }
       ],
       "sessionStart": [
@@ -51259,10 +51284,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20261102-117"
+        "CE-CHANGE-20261102-118"
       ],
-      "scope": "V2.35Mara bridge, whole-game Teaching & assessment and fictional character-led megatrends plan.",
-      "disclosure": "Blueprint plans only; localgamechanges are not independently verifiedlive. No game/backend/studenttrial release. Inherited intake/integration backlog remains disclosed separately.",
+      "scope": "V2.36design-intent wording correction only.",
+      "disclosure": "No game, pedagogy, curriculum or ownership/access change. Existing unrelated integration backlog remains separate.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -51486,9 +51511,9 @@
       "reviews": [
         {
           "path": "AGENTS.md",
-          "sha256": "8ed75a42a46a63ebff623cfe4f30b244cebbced7a2535908f217f496095226a2",
+          "sha256": "97bec8253977b67efba1023b02266dbba835664eae06d97ddbe446f99f604bb8",
           "reviewedAt": "2026-11-02",
-          "method": "Reviewed record117 scoped integration and release metadata, linked public-safe brief, currentStep/roadmap and generated records; no runtime, curriculum wording or private source publication."
+          "method": "Reviewed scoped Designintentwording, labels and exactlegacyroute preservation; pedagogy/learningModel data and game source unchanged. Generated exports inspected for record118andlabelmetadata only."
         },
         {
           "path": "README.md",
@@ -51508,7 +51533,9 @@
         },
         {
           "path": "app/blueprint-surfaces.tsx",
-          "sha256": "27a8c18a8945244edb8d357ca3257b29b7c9a36ca513d55268564cf2974bd091"
+          "sha256": "3a709b9a5d6ec591bcf066688a486138384cf45c08937f4129b110bf8862fe5c",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed scoped Designintentwording, labels and exactlegacyroute preservation; pedagogy/learningModel data and game source unchanged. Generated exports inspected for record118andlabelmetadata only."
         },
         {
           "path": "app/change-integration.tsx",
@@ -51564,9 +51591,9 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "ad94d6084ec3b03534f1408e340f3d28d7a1af91eb4d5836bb789c7cdaf2803a",
+          "sha256": "097d82f965f0b5784384496d3945bcfbd3c03fe14b6549513568186f8a767abc",
           "reviewedAt": "2026-11-02",
-          "method": "Reviewed exact currentStep/productionPlannext wording and newpublicbrief route; updated existing route regressionexpectation, retaining actualfileexistence and ESTchecks."
+          "method": "Reviewed scoped Designintentwording, labels and exactlegacyroute preservation; pedagogy/learningModel data and game source unchanged. Generated exports inspected for record118andlabelmetadata only."
         },
         {
           "path": "data/refresh-checkpoint.json",
@@ -51712,7 +51739,9 @@
         },
         {
           "path": "tests/production-plan.test.mjs",
-          "sha256": "ec28fb5f3717623131366b1f0f102c0dfaa4659e083adaff8c8bb43e3e898d7f"
+          "sha256": "f8b95e0a76a2fd5f02594f745df481f8845a261c24e14cd524bd650da6d91b89",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed scoped Designintentwording, labels and exactlegacyroute preservation; pedagogy/learningModel data and game source unchanged. Generated exports inspected for record118andlabelmetadata only."
         },
         {
           "path": "tests/project-guard.test.mjs",
@@ -52148,7 +52177,9 @@
         },
         {
           "path": "app/site-guide.tsx",
-          "sha256": "a74bbe718437511741c1a6cfea5206e06de172f6a06443530c2adb3a5bb07651"
+          "sha256": "60d15970466acf7824803cc955dd543600564d5c379b2b70f91764530c76b04e",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed scoped Designintentwording, labels and exactlegacyroute preservation; pedagogy/learningModel data and game source unchanged. Generated exports inspected for record118andlabelmetadata only."
         },
         {
           "path": "docs/production/blueprint-redesign-review-20261014.md",
@@ -52162,7 +52193,9 @@
         },
         {
           "path": "app/blueprint-app.tsx",
-          "sha256": "25b6154956ead1f7b58b78b559872a1d4e8d0948e252fcc4f9b103bfc4c3900b"
+          "sha256": "770732a07e5433bf0c5e6f6566c0a0d1c36a780e32b34fdb7c7c47b9084533ce",
+          "reviewedAt": "2026-11-02",
+          "method": "Reviewed scoped Designintentwording, labels and exactlegacyroute preservation; pedagogy/learningModel data and game source unchanged. Generated exports inspected for record118andlabelmetadata only."
         },
         {
           "path": "app/blueprint-navigation.tsx",
@@ -52230,15 +52263,15 @@
         },
         {
           "path": "docs/production/change-integration.md",
-          "sha256": "8654238360ae8b159df3653630a19bedf27b60fbba46828ebe96e9ef50f4daaf",
+          "sha256": "544f0e05f74691d40db94910804b31b2b88a6444a3b6c61688e5e1dee26ae9aa",
           "reviewedAt": "2026-11-02",
-          "method": "Reviewed record117 scoped integration and release metadata, linked public-safe brief, currentStep/roadmap and generated records; no runtime, curriculum wording or private source publication."
+          "method": "Reviewed scoped Designintentwording, labels and exactlegacyroute preservation; pedagogy/learningModel data and game source unchanged. Generated exports inspected for record118andlabelmetadata only."
         },
         {
           "path": "docs/production/material-changes.md",
-          "sha256": "8397c174db6eef592ccba1fb32953e86004c22aa159161aa66aef14f6a85b660",
+          "sha256": "1e5cc056c92a6d1a23aa86db7eb916a408ffeec30c0ac329f05507a5a6935ea3",
           "reviewedAt": "2026-11-02",
-          "method": "Reviewed record117 scoped integration and release metadata, linked public-safe brief, currentStep/roadmap and generated records; no runtime, curriculum wording or private source publication."
+          "method": "Reviewed scoped Designintentwording, labels and exactlegacyroute preservation; pedagogy/learningModel data and game source unchanged. Generated exports inspected for record118andlabelmetadata only."
         },
         {
           "path": "docs/production/learning-principles-20261021.md",
@@ -88851,6 +88884,372 @@
               "date": "2026-11-02"
             },
             "nextAction": "Retain scoped evidence and independently verify generated public release."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20261102-118",
+        "title": "Replace takeover framing with Tania’s design intent",
+        "types": [
+          "governance",
+          "implementation",
+          "release"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Correct only reader wording and navigation; keep the existing handover URL working.",
+        "before": "The requested page tells another colleague to take over the project.",
+        "after": "The same route explains Tania’s intentions and intended development requirements.",
+        "source": "Tania explicitly requests wording correction at the existing delivery/handover URL; publication authorised.",
+        "owner": "Tania design owner; Codex reader maintainer",
+        "nextAction": "Publish the reviewed wording correction and verify originalroute, servedhashes, heading/navlabels and desktop/mobileUI.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Codex Blueprint maintainer; Tania reviews publication",
+          "scope": "Static Blueprint wording and labels only; no game, teaching design, access or data changes.",
+          "rationale": "Retain existing source/privacy boundaries; wording does not grant access or transfer ownership.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Existing public design records only; no student records or new data collection.",
+            "locations": "Existing GitHub Pages static website; licensed originals and private evidence remain outside generated public artifacts.",
+            "accessCountries": "Existing public website access; no new account-data transfer or provider.",
+            "providers": "Existing GitHub Pages only; no new external service is introduced.",
+            "lifecycle": "Existing public design records; private backup and evidence retain owner access.",
+            "encryption": "Existing HTTPS hosting; no new claim about student storage or encryption.",
+            "logging": "No added telemetry, analytics or application logging.",
+            "identity": "No login, student identifier collection or changed account authority.",
+            "isolation": "Static design reader; school/account isolation remains unverified separately.",
+            "privacySafety": "Private files, credential tokens and licensed originals excluded from publication.",
+            "applicability": "Blueprint reporting only; no WA compliance or real-student release claim.",
+            "verification": "Static source and actual fictional guest screenshots reviewed; no identity/backend/game changes or student evidence."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "115tests,types/lint/staticcompilation,desktop390pxoriginalroute and content checks passed; no pedagogy, game, permissions or data change."
+          ],
+          "reviewedBy": "Codex source review",
+          "reviewedAt": "2026-11-02",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Start Here byline, purpose and fourthcard now describe Tania’s design intent; same carddestination retained.",
+            "records": [
+              "CE-CHANGE-20261102-118"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
+            "evidence": [
+              "app/site-guide.tsx",
+              "app/blueprint-surfaces.tsx",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Start Here byline, purpose and fourthcard now describe Tania’s design intent; same carddestination retained. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Current milestone and matching productionPlan display title now say deliveryspecification; priorities, nextactions and roadmapsequence unchanged.",
+            "records": [
+              "CE-CHANGE-20261102-118"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
+            "evidence": [
+              "app/site-guide.tsx",
+              "app/blueprint-surfaces.tsx",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current milestone and matching productionPlan display title now say deliveryspecification; priorities, nextactions and roadmapsequence unchanged. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Materialrecord118 records the explicit wording request and no-transfer intent; original decisions/history retained.",
+            "records": [
+              "CE-CHANGE-20261102-118"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
+            "evidence": [
+              "app/site-guide.tsx",
+              "app/blueprint-surfaces.tsx",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Materialrecord118 records the explicit wording request and no-transfer intent; original decisions/history retained. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "AGENTS records narrow scope and parentpedagogy pause; internalcompatibilityIDs and existing governance checks unchanged.",
+            "records": [
+              "CE-CHANGE-20261102-118"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
+            "evidence": [
+              "app/site-guide.tsx",
+              "app/blueprint-surfaces.tsx",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "AGENTS records narrow scope and parentpedagogy pause; internalcompatibilityIDs and existing governance checks unchanged. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Canonical record exports regenerate navigation labels and wording status; no private source added to public output.",
+            "records": [
+              "CE-CHANGE-20261102-118"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
+            "evidence": [
+              "app/site-guide.tsx",
+              "app/blueprint-surfaces.tsx",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical record exports regenerate navigation labels and wording status; no private source added to public output. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish generated V2.36wording correction only to the existing public Blueprint.",
+            "records": [
+              "CE-CHANGE-20261102-118"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
+            "evidence": [
+              "app/site-guide.tsx",
+              "app/blueprint-surfaces.tsx",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Scoped source and rendered route verification pending.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Verify exactpubliccommit/Pagesbuild, changedservedhashes, oldhandoverURL and new Designintent visiblelabels."
+          },
+          {
+            "surface": "build",
+            "disposition": "checked-unchanged",
+            "action": "No build status, game implementation or dated evidence claims changed; the design-intent page links existing build evidence.",
+            "records": [
+              "CE-CHANGE-20261102-118"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
+            "evidence": [
+              "app/site-guide.tsx",
+              "app/blueprint-surfaces.tsx",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No build status, game implementation or dated evidence claims changed; the design-intent page links existing build evidence. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Original delivery/handover URL renders Design intent, and StartHere card links to it; desktop and390pxnavigation checked.",
+            "records": [
+              "CE-CHANGE-20261102-118"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
+            "evidence": [
+              "app/site-guide.tsx",
+              "app/blueprint-surfaces.tsx",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Original delivery/handover URL renders Design intent, and StartHere card links to it; desktop and390pxnavigation checked. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "All learningPrinciples JSON and shared LearningModel bytes are unchanged; app/blueprint-detail.tsx and teacher/dashboard content untouched.",
+            "records": [
+              "CE-CHANGE-20261102-118"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
+            "evidence": [
+              "app/site-guide.tsx",
+              "app/blueprint-surfaces.tsx",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All learningPrinciples JSON and shared LearningModel bytes are unchanged; app/blueprint-detail.tsx and teacher/dashboard content untouched. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "checked-unchanged",
+            "action": "Editable source, private recovery and licensed-material boundaries retained; no source ownership or access permission changed.",
+            "records": [
+              "CE-CHANGE-20261102-118"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
+            "evidence": [
+              "app/site-guide.tsx",
+              "app/blueprint-surfaces.tsx",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Editable source, private recovery and licensed-material boundaries retained; no source ownership or access permission changed. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "All existing imagery, videos and provenance retained; no media replacement or game screenshots added.",
+            "records": [
+              "CE-CHANGE-20261102-118"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
+            "evidence": [
+              "app/site-guide.tsx",
+              "app/blueprint-surfaces.tsx",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All existing imagery, videos and provenance retained; no media replacement or game screenshots added. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "Asset and visual registers remain byte-unchanged; no assets, models, curriculum icons or appearance acceptance changed.",
+            "records": [
+              "CE-CHANGE-20261102-118"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
+            "evidence": [
+              "app/site-guide.tsx",
+              "app/blueprint-surfaces.tsx",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Asset and visual registers remain byte-unchanged; no assets, models, curriculum icons or appearance acceptance changed. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "Exact curriculum and research/source references unchanged; this correction only describes intended requirements and evidence boundaries.",
+            "records": [
+              "CE-CHANGE-20261102-118"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
+            "evidence": [
+              "app/site-guide.tsx",
+              "app/blueprint-surfaces.tsx",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact curriculum and research/source references unchanged; this correction only describes intended requirements and evidence boundaries. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "Tania still directs design acceptance; original protected decisions indata/blueprint.ts remain exact; no new product or school-use approval.",
+            "records": [
+              "CE-CHANGE-20261102-118"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "No takeover framing in current reader entry; exact compatibility links and protected content retained.",
+            "evidence": [
+              "app/site-guide.tsx",
+              "app/blueprint-surfaces.tsx",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Tania still directs design acceptance; original protected decisions indata/blueprint.ts remain exact; no new product or school-use approval. Full115tests, TypeScript/lint/static build and actualdesktop390pxroute inspection passed.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific evidence; livepublicationcheck remains pending."
           }
         ]
       }

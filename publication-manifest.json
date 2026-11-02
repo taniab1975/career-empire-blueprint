@@ -1,16 +1,16 @@
 {
-  "sourceCommit": "b359bbeb339968ea72ad0ee720aedb68d1cff36f",
-  "generatedAt": "2026-11-02T03:51:53.771Z",
-  "revision": "V2.35 / 2 November 2026",
-  "recordSha256": "65610d69e8d333f5eb2693e9ad4bf9b2faa2c56f0e8699ba0fed53a256c9f850",
+  "sourceCommit": "7dbaa8c17fb6e8d73bcc8526c1502b2758cb1dd8",
+  "generatedAt": "2026-11-02T07:45:10.660Z",
+  "revision": "V2.36 / 2 November 2026",
+  "recordSha256": "8c6182b9aa74acd918088710bf1e8d85b7e0aad2312f4ed69f98cf65b3566dce",
   "files": [
     {
-      "path": "assets/curriculum-planner-C1fX5OBN.js",
-      "sha256": "31912e5fed0c81434ed25b7facbc1eb12b85a11d1f68be6803d08c51bece33ca"
+      "path": "assets/curriculum-planner-EaaGkCVm.js",
+      "sha256": "fd509803f2a5d702c69c9fae5960fc207f96e1e9e96c75ec5a2972fee58375b4"
     },
     {
-      "path": "assets/index-CiqVEMIM.js",
-      "sha256": "177125155beae07c258b960f16c6a0f1c7e769827c404a2b408f648d742248e0"
+      "path": "assets/index-DB8rQtSx.js",
+      "sha256": "697ef5a78baa005cbc8c26378a70d9402d0180d125454bc084e2d0fc4cff6769"
     },
     {
       "path": "assets/index-lL8I4ki0.css",
@@ -18,7 +18,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "65610d69e8d333f5eb2693e9ad4bf9b2faa2c56f0e8699ba0fed53a256c9f850"
+      "sha256": "8c6182b9aa74acd918088710bf1e8d85b7e0aad2312f4ed69f98cf65b3566dce"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1398,7 +1398,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "888900e445f3fdc893f777bafdd0444d358ebcde11aaf474631d413bc35a9ff4"
+      "sha256": "b44d7409c1845ae8514429462b38624f9cdfae4aebb0379e5843c3f4818c1e27"
     },
     {
       "path": "playable-3d/app.js",
@@ -1670,7 +1670,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "ef13618e8696e064a3b010d0a838be513bd5e8ef9a525f0165136fdc148edab0"
+      "sha256": "b9c356555abcbd0ba7a4e0684ba6ec00bf678771709d839240adcceff568b6b2"
     },
     {
       "path": "production/change-workflows.md",
@@ -1898,7 +1898,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "8397c174db6eef592ccba1fb32953e86004c22aa159161aa66aef14f6a85b660"
+      "sha256": "1e5cc056c92a6d1a23aa86db7eb916a408ffeec30c0ac329f05507a5a6935ea3"
     },
     {
       "path": "production/media-oval-20260911.md",
