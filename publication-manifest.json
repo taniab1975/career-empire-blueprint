@@ -1,16 +1,16 @@
 {
-  "sourceCommit": "630f174a8c9b1234b08044483aafdbb30874597d",
-  "generatedAt": "2026-11-02T11:14:55.300Z",
-  "revision": "V2.37 / 2 November 2026",
-  "recordSha256": "9ff25cf0041e9d0374a258eab602d619cf0771d52368e6454c822306085871b5",
+  "sourceCommit": "888be37f981b9465be429ccce6fbb0b9ae72f2ce",
+  "generatedAt": "2026-11-02T11:33:13.612Z",
+  "revision": "V2.38 / 2 November 2026",
+  "recordSha256": "7176039e1df2bc36e7f2118e10af8812b56a99847b7880e1b4e0ec57c1a9e1d8",
   "files": [
     {
-      "path": "assets/curriculum-planner-CHW7-XJn.js",
-      "sha256": "fe7f1020d85dba31430f2d4ea58def103dcb75175f069bfd8a6802b51ad43a5c"
+      "path": "assets/curriculum-planner-Br2-mIO0.js",
+      "sha256": "74903b26ca3ea02a47a627fffea70eeade6a444463249a940fa068b2aaf5d7a1"
     },
     {
-      "path": "assets/index-BsA7n_dY.js",
-      "sha256": "876978af8c6252297afb4eba0b625fb200c318a819eaa091d87a9242b6b223fd"
+      "path": "assets/index-BYvNe91F.js",
+      "sha256": "9ea576430498d933fbb697db1363f0f681ffd1f12de8cd6d315c0c930844bbaa"
     },
     {
       "path": "assets/index-lL8I4ki0.css",
@@ -18,7 +18,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "9ff25cf0041e9d0374a258eab602d619cf0771d52368e6454c822306085871b5"
+      "sha256": "7176039e1df2bc36e7f2118e10af8812b56a99847b7880e1b4e0ec57c1a9e1d8"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1397,6 +1397,78 @@
       "sha256": "c97f34e8c6a08bfc2c8c8ac5024932ce724f8cbedc7d9d4430d38a7884706682"
     },
     {
+      "path": "evidence/teacher-guide-20261102/01-class-command-centre.png",
+      "sha256": "6d5e11e6ae7cda790d536871cb4698537dc1a707216e15997f0845d0f131b1f9"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/02-main-controls.png",
+      "sha256": "ab90fae0a02964e291c4004f804b02c9c625653abd5a7ae7c669e7ce1f077349"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/03-module-availability.png",
+      "sha256": "054251166c8cbefb9d5b325c6a011dd02847b8634fcebb3d90f656001e48cc7d"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/04-dashboard-focus.png",
+      "sha256": "ca0301b54e8e9b14a701ffbcbc83fe4eee9cd5e7f3ffd39f444d2cfd7f4e1bdb"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/05-overview-metrics.png",
+      "sha256": "ad873347351bad04f933fa93c4808dca4229f3972273e55ac1528ed53fa290a7"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/06-priority-alert.png",
+      "sha256": "b2cf371a16dd5b5eb059009635e2477d73db4d8cb08aafc7bf60741612220b8b"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/07-teacher-actions.png",
+      "sha256": "776d8ad706a14e4582b351fbf69d0041e92ea32d9f0cca7daa12b771ee75bd9b"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/10-class-trends.png",
+      "sha256": "7011785d0efa362dab8afaf701ef3194f57e383b453e121f3453007deff4a5a7"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/11-module-health-interventions.png",
+      "sha256": "4c8cd51386fae8d3e220522ff9c24ee03749fc041bd7936bc91339069ef59d14"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/12-capability-portfolio.png",
+      "sha256": "30c7ac25b7c578a47cc1d40c70e79a5974b28fe85a03849e35256c1191df36c8"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/14-student-compare.png",
+      "sha256": "52a93530826be4381545577b9ea746fe972b7483cd96c4bd40abe18db7f5e42c"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/15-engagement-glossary.png",
+      "sha256": "bc8d300f60d911031171d5f79d0797844663247a8dd71e14e04a03fd5accb7c6"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/16-long-answer-comparison.png",
+      "sha256": "1c7fe2d1d7f0f21d016d5b1c8e0c171e1df056e78c214f453459ae413f877049"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/17-feedback-review.png",
+      "sha256": "7583fb89b99c69fc6f9c60873140fdff54ccabd552ef3ba9c4c6a2d811c3c68f"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/18-module-strand-time.png",
+      "sha256": "ab3da3a9aac9c6c148339e64cc30b9086757718da2fb940e89f4530038261308"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/19-store-requests.png",
+      "sha256": "af7c05511fcb2346b8ab0aa1b96d580930fd011daa19deec0fb9aa3957c5add3"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/desktop-evidence.png",
+      "sha256": "dfbd7fb4336723aa6fee68d5d9a1402fa980a88f93c86a95f3f29a3f1d6ac31d"
+    },
+    {
+      "path": "evidence/teacher-guide-20261102/desktop-profile.png",
+      "sha256": "00715712a59b9c1278f3ae6276d9399fe3f5ef199736013d76391fc340bc2673"
+    },
+    {
       "path": "evidence/workflow-20260910/coverage-desktop.png",
       "sha256": "6b4bc5c6e16d9b75232150ca9c6fb0b2c62683683b9603b9d39e38ab8b174e4e"
     },
@@ -1414,7 +1486,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "5d34c466076b9313b16bd03a575aa6715d532be6b36b39649725ddf09a03a9d8"
+      "sha256": "d96243ea57be0d2e716ce1b689f2ca18c1a22c13fbcb36a6dd9ac147596b959d"
     },
     {
       "path": "playable-3d/app.js",
@@ -1686,7 +1758,7 @@
     },
     {
       "path": "production/change-integration.md",
-      "sha256": "fab99b4fab8d68af48f34711d0d0ffde43ea32b595621bfd1fb2b5fe9aca3df8"
+      "sha256": "8070963a49a1c91d9400bad4ee836cf6b1ac889da6aa678fe5a4632110167956"
     },
     {
       "path": "production/change-workflows.md",
@@ -1914,7 +1986,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "47516d9157232a109c519bdcc9e62994aa70ef5216b34b38f962d1d2a239ebd1"
+      "sha256": "27527099642313684bdecfc9eaaf065c26daeeec09f54f5a2c62ad5f56f918fa"
     },
     {
       "path": "production/media-oval-20260911.md",

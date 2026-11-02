@@ -1883,6 +1883,24 @@ The actual PR53 live opening was accepted23:21UTC; this does not establish accep
 - **testing:** Scoped source, types/lint, full tests and responsive preview pending.
 - **taniaAcceptance:** No ownership transfer is intended; further design and pedagogy review remain separate.
 
+## CE-CHANGE-20261102-120 — Explain teacher dashboard through18synthetic section captures
+
+- **date:** 2026-11-02
+- **domain:** Blueprint teacher guide and safe sample media
+- **source:** Tania requests each dropdown screenshot with explanations of measures and purpose; sample version preferred. Parent relays explicit theme/publication approval.
+- **owner:** Tania: design intent; Codex: scoped reader correction
+- **status:** Local guide candidate; publication pending
+- **rationale:** Make existing teacher views understandable without exposing working teacher access or actual student records.
+- **dependencies:** CE-CHANGE-20261102-119
+- **evidence:** app/teacher-dashboard-guide.tsx / data/teacher-guide.json / app/course-tracking.tsx
+- **nextAction:** Validate guide then publish approved synthetic images only; retain missing-media status.
+- **supersededRecord:** None
+- **designApproval:** User explicitly requests expanded sample screenshots and explanations, then update; public generated reader approval retained.
+- **implementation:** Capability portfolio first;18closed-by-default sections with individual full-size screenshots, measure/purpose/limits and code references. Offline synthetic labels; corrected capability-percent capture and capability-only video pending.
+- **deployment:** Not yet verified live for this correction.
+- **testing:** All18imagepixels inspected; source/types/tests/preview pending.
+- **taniaAcceptance:** No ownership transfer is intended; further design and pedagogy review remain separate.
+
 ## Retained Atlas principles
 
 Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clarification and status boundaries

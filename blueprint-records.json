@@ -33221,7 +33221,7 @@
       "backendUnknown": "No authenticated school session queried. Real class scope, database isolation, writes/review persistence and new Markets links remain unverified."
     }
   },
-  "revision": "V2.37 / 2 November 2026",
+  "revision": "V2.38 / 2 November 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -33246,14 +33246,14 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.37",
+      "id": "V2.38",
       "date": "2026-11-02",
-      "label": "V2.37 / 2 November 2026",
-      "status": "Featured portfolio journal reader candidate; publication pending",
+      "label": "V2.38 / 2 November 2026",
+      "status": "Synthetic teacher guide candidate; publication pending",
       "purpose": "Career Empire is a connected learning-design project. This scoped Blueprint update teaches from the syllabus first: meaningful experience, explicit instruction, supported application, feedback and durable understanding. Curriculum ways and benefits stay central; no competing named guide or draft song is added to core learning.",
       "audience": "Colleagues reviewing the current game and learning design; teacher delivery program remains in development.",
       "owner": "Tania Byrnes",
-      "scope": "Feature portfolio as year-long transferable-skills journal after infographic; preserve all existing content and separate intended teaching use from verified demo features. Teacher media forthcoming."
+      "scope": "18synthetic offline teacher section screenshots and explanatory guide, capability portfolio first. Corrected percent capture/video pending; no working teacher URL."
     },
     "navigation": [
       {
@@ -37359,6 +37359,31 @@
           "implementation": "Prominent section after selected infographic: experience, reflection/articulation, feedback, revision and transfer; existing STAR features and public demo links; teacher sample media forthcoming, no working teacher URL.",
           "deployment": "Not yet verified live for this correction.",
           "testing": "Scoped source, types/lint, full tests and responsive preview pending.",
+          "taniaAcceptance": "No ownership transfer is intended; further design and pedagogy review remain separate."
+        },
+        {
+          "id": "CE-CHANGE-20261102-120",
+          "date": "2026-11-02",
+          "title": "Explain teacher dashboard through18synthetic section captures",
+          "domain": "Blueprint teacher guide and safe sample media",
+          "source": "Tania requests each dropdown screenshot with explanations of measures and purpose; sample version preferred. Parent relays explicit theme/publication approval.",
+          "owner": "Tania: design intent; Codex: scoped reader correction",
+          "status": "Local guide candidate; publication pending",
+          "rationale": "Make existing teacher views understandable without exposing working teacher access or actual student records.",
+          "dependencies": [
+            "CE-CHANGE-20261102-119"
+          ],
+          "evidence": [
+            "app/teacher-dashboard-guide.tsx",
+            "data/teacher-guide.json",
+            "app/course-tracking.tsx"
+          ],
+          "nextAction": "Validate guide then publish approved synthetic images only; retain missing-media status.",
+          "supersededRecord": null,
+          "designApproval": "User explicitly requests expanded sample screenshots and explanations, then update; public generated reader approval retained.",
+          "implementation": "Capability portfolio first;18closed-by-default sections with individual full-size screenshots, measure/purpose/limits and code references. Offline synthetic labels; corrected capability-percent capture and capability-only video pending.",
+          "deployment": "Not yet verified live for this correction.",
+          "testing": "All18imagepixels inspected; source/types/tests/preview pending.",
           "taniaAcceptance": "No ownership transfer is intended; further design and pedagogy review remain separate."
         }
       ],
@@ -51342,10 +51367,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20261102-119"
+        "CE-CHANGE-20261102-120"
       ],
-      "scope": "V2.37 featured portfolio journal in Teaching & assessment.",
-      "disclosure": "Static reader emphasis; existing teaching content retained. Intended year-long use is not a measured impact claim; new Markets transfer and school submission remain unverified. Teacher sample media forthcoming.",
+      "scope": "V2.38 synthetic teacher dashboard section guide.",
+      "disclosure": "Offline synthetic sample visuals and code-referenced explanations only. No live school workflow proof, student records or working teacher link. Capability Percent Signals corrected screenshot and capability-only video remain pending.",
       "requiredReviewFiles": [
         "AGENTS.md",
         "README.md",
@@ -51568,7 +51593,27 @@
         "public/evidence/student-portfolio-20261102/student-demo-hub.jpg",
         "public/evidence/student-portfolio-20261102/student-demo-star-builder.jpg",
         "public/evidence/student-portfolio-20261102/student-demo-saved-portfolio.jpg",
-        "public/evidence/pedagogy-20261102/career-empire-learning-design.png"
+        "public/evidence/pedagogy-20261102/career-empire-learning-design.png",
+        "app/teacher-dashboard-guide.tsx",
+        "data/teacher-guide.json",
+        "public/evidence/teacher-guide-20261102/05-overview-metrics.png",
+        "public/evidence/teacher-guide-20261102/11-module-health-interventions.png",
+        "public/evidence/teacher-guide-20261102/14-student-compare.png",
+        "public/evidence/teacher-guide-20261102/04-dashboard-focus.png",
+        "public/evidence/teacher-guide-20261102/15-engagement-glossary.png",
+        "public/evidence/teacher-guide-20261102/06-priority-alert.png",
+        "public/evidence/teacher-guide-20261102/01-class-command-centre.png",
+        "public/evidence/teacher-guide-20261102/17-feedback-review.png",
+        "public/evidence/teacher-guide-20261102/03-module-availability.png",
+        "public/evidence/teacher-guide-20261102/16-long-answer-comparison.png",
+        "public/evidence/teacher-guide-20261102/desktop-evidence.png",
+        "public/evidence/teacher-guide-20261102/19-store-requests.png",
+        "public/evidence/teacher-guide-20261102/02-main-controls.png",
+        "public/evidence/teacher-guide-20261102/desktop-profile.png",
+        "public/evidence/teacher-guide-20261102/07-teacher-actions.png",
+        "public/evidence/teacher-guide-20261102/12-capability-portfolio.png",
+        "public/evidence/teacher-guide-20261102/10-class-trends.png",
+        "public/evidence/teacher-guide-20261102/18-module-strand-time.png"
       ],
       "reviews": [
         {
@@ -51585,9 +51630,9 @@
         },
         {
           "path": "app/blueprint-detail.tsx",
-          "sha256": "810ca0c4d10fb0b67582990807d7f7a469e201c201b460e650a690140454fe52",
+          "sha256": "0d8f8d66ece14122d8ee8e13c40f6cfe53aa97be1174f86c14812e44b669b472",
           "reviewedAt": "2026-11-02",
-          "method": "Reviewed featured portfolio addition and record119 generated scope. Concurrent personal-site continuity notes in AGENTS/handoff inspected and preserved as unrelated, not included in this change commit. Existing reader content and approved images retained."
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
         },
         {
           "path": "app/blueprint-routing.ts",
@@ -51653,9 +51698,9 @@
         },
         {
           "path": "data/operations.json",
-          "sha256": "781d6a79b44ea7da034423c41e9b6bcc303eed90c9f7cd60e4e9a7474a07632f",
+          "sha256": "d6a3fbe4aaa093d27c588a891ff510ba8447c9bfef2bf1ecb89f1040a18c9077",
           "reviewedAt": "2026-11-02",
-          "method": "Reviewed featured portfolio addition and record119 generated scope. Concurrent personal-site continuity notes in AGENTS/handoff inspected and preserved as unrelated, not included in this change commit. Existing reader content and approved images retained."
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
         },
         {
           "path": "data/refresh-checkpoint.json",
@@ -52313,9 +52358,9 @@
         },
         {
           "path": "app/course-tracking.tsx",
-          "sha256": "feee4f7e92894f8fb99c80d64164a8b2160baab53f609b6f19e66344bb9eea57",
+          "sha256": "4ba2f2319c4e54dd0b2a6cf2efbad16f2fa4b5de85feff03a8a8b56079c4136b",
           "reviewedAt": "2026-11-02",
-          "method": "Reviewed narrow existing Student Hub portfolio correction against parent-verified fictional public demo: browser-only STAR/Goal/Review, no teacher submission, new 3D Markets transfer unverified. Media and combined publication pending; no pedagogy edits."
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
         },
         {
           "path": "data/course-tracking.json",
@@ -52333,15 +52378,15 @@
         },
         {
           "path": "docs/production/change-integration.md",
-          "sha256": "22bedf9dedd594a17fc1fdbea5c0829a0e9cc856758302026626ea0a3c641277",
+          "sha256": "af1584746111ba9208e53ac92ff07f0e965f03214208e11dca8513b279cd4197",
           "reviewedAt": "2026-11-02",
-          "method": "Reviewed featured portfolio section and record119 generated report; two supported demo-entry actions and forthcoming safe teacher media. Existing teaching content and exact curriculum retained."
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
         },
         {
           "path": "docs/production/material-changes.md",
-          "sha256": "47516d9157232a109c519bdcc9e62994aa70ef5216b34b38f962d1d2a239ebd1",
+          "sha256": "27527099642313684bdecfc9eaaf065c26daeeec09f54f5a2c62ad5f56f918fa",
           "reviewedAt": "2026-11-02",
-          "method": "Reviewed featured portfolio addition and record119 generated scope. Concurrent personal-site continuity notes in AGENTS/handoff inspected and preserved as unrelated, not included in this change commit. Existing reader content and approved images retained."
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
         },
         {
           "path": "docs/production/learning-principles-20261021.md",
@@ -52508,6 +52553,126 @@
           "sha256": "65ec1d9bacff511bff04483eb4903dc1b5b57b945856344d04604a296ba4f75c",
           "reviewedAt": "2026-11-02",
           "method": "Reviewed selected revised infographic pixels, dated game insets and responsive full-size link; underlying teaching text and exact curriculum preserved. Combined release metadata matches approved scope; fictional student captures only."
+        },
+        {
+          "path": "app/teacher-dashboard-guide.tsx",
+          "sha256": "361e9f61066ab7d6b1644275c44b95b4f11abe6df830d97da6ab67da108a575c",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "data/teacher-guide.json",
+          "sha256": "c48fe1edda7fab414a379c90b3e59f281be8c70540f7270b7bbdd626954c8a5f",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/05-overview-metrics.png",
+          "sha256": "ad873347351bad04f933fa93c4808dca4229f3972273e55ac1528ed53fa290a7",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/11-module-health-interventions.png",
+          "sha256": "4c8cd51386fae8d3e220522ff9c24ee03749fc041bd7936bc91339069ef59d14",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/14-student-compare.png",
+          "sha256": "52a93530826be4381545577b9ea746fe972b7483cd96c4bd40abe18db7f5e42c",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/04-dashboard-focus.png",
+          "sha256": "ca0301b54e8e9b14a701ffbcbc83fe4eee9cd5e7f3ffd39f444d2cfd7f4e1bdb",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/15-engagement-glossary.png",
+          "sha256": "bc8d300f60d911031171d5f79d0797844663247a8dd71e14e04a03fd5accb7c6",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/06-priority-alert.png",
+          "sha256": "b2cf371a16dd5b5eb059009635e2477d73db4d8cb08aafc7bf60741612220b8b",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/01-class-command-centre.png",
+          "sha256": "6d5e11e6ae7cda790d536871cb4698537dc1a707216e15997f0845d0f131b1f9",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/17-feedback-review.png",
+          "sha256": "7583fb89b99c69fc6f9c60873140fdff54ccabd552ef3ba9c4c6a2d811c3c68f",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/03-module-availability.png",
+          "sha256": "054251166c8cbefb9d5b325c6a011dd02847b8634fcebb3d90f656001e48cc7d",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/16-long-answer-comparison.png",
+          "sha256": "1c7fe2d1d7f0f21d016d5b1c8e0c171e1df056e78c214f453459ae413f877049",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/desktop-evidence.png",
+          "sha256": "dfbd7fb4336723aa6fee68d5d9a1402fa980a88f93c86a95f3f29a3f1d6ac31d",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/19-store-requests.png",
+          "sha256": "af7c05511fcb2346b8ab0aa1b96d580930fd011daa19deec0fb9aa3957c5add3",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/02-main-controls.png",
+          "sha256": "ab90fae0a02964e291c4004f804b02c9c625653abd5a7ae7c669e7ce1f077349",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/desktop-profile.png",
+          "sha256": "00715712a59b9c1278f3ae6276d9399fe3f5ef199736013d76391fc340bc2673",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/07-teacher-actions.png",
+          "sha256": "776d8ad706a14e4582b351fbf69d0041e92ea32d9f0cca7daa12b771ee75bd9b",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/12-capability-portfolio.png",
+          "sha256": "30c7ac25b7c578a47cc1d40c70e79a5974b28fe85a03849e35256c1191df36c8",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/10-class-trends.png",
+          "sha256": "7011785d0efa362dab8afaf701ef3194f57e383b453e121f3453007deff4a5a7",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
+        },
+        {
+          "path": "public/evidence/teacher-guide-20261102/18-module-strand-time.png",
+          "sha256": "ab3da3a9aac9c6c148339e64cc30b9086757718da2fb940e89f4530038261308",
+          "reviewedAt": "2026-11-02",
+          "method": "Inspected18synthetic offline sample screenshots and mapped code-referenced measures/purpose/limits. Capability portfolio first, individual full-size images in closed details. Corrected capability-percent capture and capability-only video pending. No live student data or working teacher URL."
         }
       ]
     },
@@ -89687,6 +89852,358 @@
               "date": "2026-11-02"
             },
             "nextAction": "Retain verified boundaries and coordinate approved fictional teacher media separately."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20261102-120",
+        "title": "Teacher dashboard section guide with18synthetic screenshots",
+        "types": [
+          "governance",
+          "implementation",
+          "release"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Explain existing teacher dashboard measures and limits with expanded synthetic sample captures, collapsed by default and capability portfolio first.",
+        "before": "Blueprint has older teacher comparisons and a forthcoming sample guide placeholder.",
+        "after": "18individually expanded synthetic section captures have measures/purpose/limits and full-size views; corrected Capability Percent Signals and capability-only video remain pending.",
+        "source": "Tania explicitly requests each dropdown screenshot and explanation, prefers a sample version, and approves public update via parent.",
+        "owner": "Tania design owner; Codex reader maintainer",
+        "nextAction": "Publish approved synthetic guide and verify exact served images/UI. Corrected capability-percent capture and capability-only video stay pending.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Codex Blueprint maintainer; Tania reviews publication",
+          "scope": "Static guide and offline synthetic screenshots only; no real student data, backend actions or working teacher dashboard link.",
+          "rationale": "Retain existing source/privacy boundaries; wording does not grant access or transfer ownership.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Synthetic Sample Student A/B offline image records only; all18imagepixels inspected. No real learner records or new data collection.",
+            "locations": "Existing GitHub Pages static website; licensed originals and private evidence remain outside generated public artifacts.",
+            "accessCountries": "Existing public website access; no new account-data transfer or provider.",
+            "providers": "Existing GitHub Pages only; no new external service is introduced.",
+            "lifecycle": "Existing public design records; private backup and evidence retain owner access.",
+            "encryption": "Existing HTTPS hosting; no new claim about student storage or encryption.",
+            "logging": "No added telemetry, analytics or application logging.",
+            "identity": "No login, student identifier collection or changed account authority.",
+            "isolation": "Static design reader; school/account isolation remains unverified separately.",
+            "privacySafety": "Private files, credential tokens and licensed originals excluded from publication.",
+            "applicability": "Blueprint reporting only; no WA compliance or real-student release claim.",
+            "verification": "Static source and actual fictional guest screenshots reviewed; no identity/backend/game changes or student evidence."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "All18imagepixels inspected;115tests, TypeScript/lint, local build and desktop390pxguide QA passed. All18details start closed, capability image loads full resolution, no working teacher URL."
+          ],
+          "reviewedBy": "Codex source review",
+          "reviewedAt": "2026-11-02",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "This guide preserves existing start source, curriculum, game and access boundaries; no unrelated implementation.",
+            "records": [
+              "CE-CHANGE-20261102-120"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.",
+            "evidence": [
+              "app/teacher-dashboard-guide.tsx",
+              "data/teacher-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific limits and coordinate pending final media separately."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "checked-unchanged",
+            "action": "This guide preserves existing roadmap source, curriculum, game and access boundaries; no unrelated implementation.",
+            "records": [
+              "CE-CHANGE-20261102-120"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.",
+            "evidence": [
+              "app/teacher-dashboard-guide.tsx",
+              "data/teacher-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific limits and coordinate pending final media separately."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Integrate18synthetic offline screenshots with mapped measure/purpose/limits, capability portfolio first and collapsed sections; safe internal pedagogy crosslink; missing percent/video explicit.",
+            "records": [
+              "CE-CHANGE-20261102-120"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.",
+            "evidence": [
+              "app/teacher-dashboard-guide.tsx",
+              "data/teacher-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific limits and coordinate pending final media separately."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "checked-unchanged",
+            "action": "This guide preserves existing protocol source, curriculum, game and access boundaries; no unrelated implementation.",
+            "records": [
+              "CE-CHANGE-20261102-120"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.",
+            "evidence": [
+              "app/teacher-dashboard-guide.tsx",
+              "data/teacher-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific limits and coordinate pending final media separately."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Integrate18synthetic offline screenshots with mapped measure/purpose/limits, capability portfolio first and collapsed sections; safe internal pedagogy crosslink; missing percent/video explicit.",
+            "records": [
+              "CE-CHANGE-20261102-120"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.",
+            "evidence": [
+              "app/teacher-dashboard-guide.tsx",
+              "data/teacher-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific limits and coordinate pending final media separately."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish generated V2.38 synthetic teacher guide only.",
+            "records": [
+              "CE-CHANGE-20261102-120"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.",
+            "evidence": [
+              "app/teacher-dashboard-guide.tsx",
+              "data/teacher-guide.json"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Exact publication and served-image checks pending.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Verify exact public commit, Pages build and all18servedimages."
+          },
+          {
+            "surface": "build",
+            "disposition": "checked-unchanged",
+            "action": "This guide preserves existing build source, curriculum, game and access boundaries; no unrelated implementation.",
+            "records": [
+              "CE-CHANGE-20261102-120"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.",
+            "evidence": [
+              "app/teacher-dashboard-guide.tsx",
+              "data/teacher-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific limits and coordinate pending final media separately."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Integrate18synthetic offline screenshots with mapped measure/purpose/limits, capability portfolio first and collapsed sections; safe internal pedagogy crosslink; missing percent/video explicit.",
+            "records": [
+              "CE-CHANGE-20261102-120"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.",
+            "evidence": [
+              "app/teacher-dashboard-guide.tsx",
+              "data/teacher-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific limits and coordinate pending final media separately."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Integrate18synthetic offline screenshots with mapped measure/purpose/limits, capability portfolio first and collapsed sections; safe internal pedagogy crosslink; missing percent/video explicit.",
+            "records": [
+              "CE-CHANGE-20261102-120"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.",
+            "evidence": [
+              "app/teacher-dashboard-guide.tsx",
+              "data/teacher-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific limits and coordinate pending final media separately."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "checked-unchanged",
+            "action": "This guide preserves existing recovery source, curriculum, game and access boundaries; no unrelated implementation.",
+            "records": [
+              "CE-CHANGE-20261102-120"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.",
+            "evidence": [
+              "app/teacher-dashboard-guide.tsx",
+              "data/teacher-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific limits and coordinate pending final media separately."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Integrate18synthetic offline screenshots with mapped measure/purpose/limits, capability portfolio first and collapsed sections; safe internal pedagogy crosslink; missing percent/video explicit.",
+            "records": [
+              "CE-CHANGE-20261102-120"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.",
+            "evidence": [
+              "app/teacher-dashboard-guide.tsx",
+              "data/teacher-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific limits and coordinate pending final media separately."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Integrate18synthetic offline screenshots with mapped measure/purpose/limits, capability portfolio first and collapsed sections; safe internal pedagogy crosslink; missing percent/video explicit.",
+            "records": [
+              "CE-CHANGE-20261102-120"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.",
+            "evidence": [
+              "app/teacher-dashboard-guide.tsx",
+              "data/teacher-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific limits and coordinate pending final media separately."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "This guide preserves existing sources source, curriculum, game and access boundaries; no unrelated implementation.",
+            "records": [
+              "CE-CHANGE-20261102-120"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.",
+            "evidence": [
+              "app/teacher-dashboard-guide.tsx",
+              "data/teacher-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific limits and coordinate pending final media separately."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "This guide preserves existing decisions source, curriculum, game and access boundaries; no unrelated implementation.",
+            "records": [
+              "CE-CHANGE-20261102-120"
+            ],
+            "owner": "Codex reader maintainer; Tania design owner",
+            "acceptance": "18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.",
+            "evidence": [
+              "app/teacher-dashboard-guide.tsx",
+              "data/teacher-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.",
+              "date": "2026-11-02"
+            },
+            "nextAction": "Retain source-specific limits and coordinate pending final media separately."
           }
         ]
       }

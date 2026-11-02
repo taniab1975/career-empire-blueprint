@@ -2,9 +2,9 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.37 featured portfolio journal in Teaching & assessment.
+Release scope: V2.38 synthetic teacher dashboard section guide.
 
-Static reader emphasis; existing teaching content retained. Intended year-long use is not a measured impact claim; new Markets transfer and school submission remain unverified. Teacher sample media forthcoming.
+Offline synthetic sample visuals and code-referenced explanations only. No live school workflow proof, student records or working teacher link. Capability Percent Signals corrected screenshot and capability-only video remain pending.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 
@@ -26802,6 +26802,258 @@ Verification: passed / Existing source/diff reviewed;115tests/types/lint and des
 - [Evidence](app/blueprint-detail.tsx)
 
 Next: Retain verified boundaries and coordinate approved fictional teacher media separately.
+
+## CE-CHANGE-20261102-120 — Teacher dashboard section guide with18synthetic screenshots
+
+Integration: **ready-for-publication**. Types: governance, implementation, release. Owner: Tania design owner; Codex reader maintainer.
+
+**Objective:** Explain existing teacher dashboard measures and limits with expanded synthetic sample captures, collapsed by default and capability portfolio first.
+
+**Before:** Blueprint has older teacher comparisons and a forthcoming sample guide placeholder.
+
+**Required result:** 18individually expanded synthetic section captures have measures/purpose/limits and full-size views; corrected Capability Percent Signals and capability-only video remain pending.
+
+**Source:** Tania explicitly requests each dropdown screenshot and explanation, prefers a sample version, and approves public update via parent.
+
+**Next:** Publish approved synthetic guide and verify exact served images/UI. Corrected capability-percent capture and capability-only video stay pending.
+
+### Start Here — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+This guide preserves existing start source, curriculum, game and access boundaries; no unrelated implementation.
+
+Records: CE-CHANGE-20261102-120. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+- [Evidence](data/teacher-guide.json)
+
+Next: Retain source-specific limits and coordinate pending final media separately.
+
+### Priorities and linked execution tasks — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+This guide preserves existing roadmap source, curriculum, game and access boundaries; no unrelated implementation.
+
+Records: CE-CHANGE-20261102-120. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+- [Evidence](data/teacher-guide.json)
+
+Next: Retain source-specific limits and coordinate pending final media separately.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Integrate18synthetic offline screenshots with mapped measure/purpose/limits, capability portfolio first and collapsed sections; safe internal pedagogy crosslink; missing percent/video explicit.
+
+Records: CE-CHANGE-20261102-120. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+- [Evidence](data/teacher-guide.json)
+
+Next: Retain source-specific limits and coordinate pending final media separately.
+
+### Workflows and handoff — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+This guide preserves existing protocol source, curriculum, game and access boundaries; no unrelated implementation.
+
+Records: CE-CHANGE-20261102-120. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+- [Evidence](data/teacher-guide.json)
+
+Next: Retain source-specific limits and coordinate pending final media separately.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Integrate18synthetic offline screenshots with mapped measure/purpose/limits, capability portfolio first and collapsed sections; safe internal pedagogy crosslink; missing percent/video explicit.
+
+Records: CE-CHANGE-20261102-120. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+- [Evidence](data/teacher-guide.json)
+
+Next: Retain source-specific limits and coordinate pending final media separately.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Publish generated V2.38 synthetic teacher guide only.
+
+Records: CE-CHANGE-20261102-120. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: pending / Exact publication and served-image checks pending.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+- [Evidence](data/teacher-guide.json)
+
+Next: Verify exact public commit, Pages build and all18servedimages.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+This guide preserves existing build source, curriculum, game and access boundaries; no unrelated implementation.
+
+Records: CE-CHANGE-20261102-120. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+- [Evidence](data/teacher-guide.json)
+
+Next: Retain source-specific limits and coordinate pending final media separately.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Integrate18synthetic offline screenshots with mapped measure/purpose/limits, capability portfolio first and collapsed sections; safe internal pedagogy crosslink; missing percent/video explicit.
+
+Records: CE-CHANGE-20261102-120. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+- [Evidence](data/teacher-guide.json)
+
+Next: Retain source-specific limits and coordinate pending final media separately.
+
+### Teacher/classroom workflow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Integrate18synthetic offline screenshots with mapped measure/purpose/limits, capability portfolio first and collapsed sections; safe internal pedagogy crosslink; missing percent/video explicit.
+
+Records: CE-CHANGE-20261102-120. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+- [Evidence](data/teacher-guide.json)
+
+Next: Retain source-specific limits and coordinate pending final media separately.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+This guide preserves existing recovery source, curriculum, game and access boundaries; no unrelated implementation.
+
+Records: CE-CHANGE-20261102-120. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+- [Evidence](data/teacher-guide.json)
+
+Next: Retain source-specific limits and coordinate pending final media separately.
+
+### Start Here images and video — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Integrate18synthetic offline screenshots with mapped measure/purpose/limits, capability portfolio first and collapsed sections; safe internal pedagogy crosslink; missing percent/video explicit.
+
+Records: CE-CHANGE-20261102-120. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+- [Evidence](data/teacher-guide.json)
+
+Next: Retain source-specific limits and coordinate pending final media separately.
+
+### Visual/asset register and production brief — updated
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Integrate18synthetic offline screenshots with mapped measure/purpose/limits, capability portfolio first and collapsed sections; safe internal pedagogy crosslink; missing percent/video explicit.
+
+Records: CE-CHANGE-20261102-120. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+- [Evidence](data/teacher-guide.json)
+
+Next: Retain source-specific limits and coordinate pending final media separately.
+
+### Source library, terminology and rationale — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+This guide preserves existing sources source, curriculum, game and access boundaries; no unrelated implementation.
+
+Records: CE-CHANGE-20261102-120. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+- [Evidence](data/teacher-guide.json)
+
+Next: Retain source-specific limits and coordinate pending final media separately.
+
+### Decisions and superseded rules — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+This guide preserves existing decisions source, curriculum, game and access boundaries; no unrelated implementation.
+
+Records: CE-CHANGE-20261102-120. Owner: Codex reader maintainer; Tania design owner.
+
+Acceptance: 18synthetic section captures labelled offline; measures/purpose/limits retained; no working teacher URL, real student data or fabricated pending media.
+
+Verification: passed / Inspected synthetic pixels, scoped source and desktop390pxguide;115tests/types/lint/local build pass. No working teacher URL or real learner data.
+
+- [Evidence](app/teacher-dashboard-guide.tsx)
+- [Evidence](data/teacher-guide.json)
+
+Next: Retain source-specific limits and coordinate pending final media separately.
 
 ## Historical boundary
 
