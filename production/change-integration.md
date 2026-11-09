@@ -2,9 +2,327 @@
 
 Generated from data/change-integrations.json; edit the canonical record, not this view.
 
-Release scope: V2.40 user-reviewed combined Blueprint reader refresh.
+Release scope: Phase 1 Market entrance with three Initiative learning pathways.
 
-Existing game/curriculum/storyboard sources retained. Game screenshots dated24October; student demo2November; teacher synthetic media retains pending refresh notes. No new Initiative proposal, learner results or game backend. User accepts localpreview and requests publication; native fresh capture remains unavailable.
+Reader-only release. Market route and PDF export are proposed. Existing Mara captures remain dated evidence and Careers Archon is a separate local prototype. No game deployment or learner assessment claim.
+
+## CE-CHANGE-20261109-132 — Phase 1 Market Initiative pathways
+
+Integration: **ready-for-publication**. Types: activity, curriculum, implementation, release. Owner: Tania design owner; Codex Blueprint maintainer.
+
+**Objective:** Show the three agreed Initiative learning pathways together at the Market entrance.
+
+**Before:** The Phase 1 reader opened directly into Mara’s Markets storyboard.
+
+**Required result:** The Phase 1 reader offers Resources, Mara’s storyboard and the Careers Archon storyboard as peer choices.
+
+**Source:** Tania’s 9 November 2026 three-choice Phase 1 direction and direct public publication request.
+
+**Next:** Run the guarded static build, publish the reviewed generated reader, then verify all three pathways on GitHub Pages.
+
+### Start Here — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Verify Phase journeys and the Market place entry lead to the three-path opening.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Verify Phase journeys and the Market place entry lead to the three-path opening.
+
+Verification: passed / Desktop Phase journeys opened with all three choices and the corrected Market entry copy.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Verify Phase journeys and the Market place entry lead to the three-path opening.
+
+### Priorities and linked execution tasks — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#roadmap)
+
+Preserve the active connected course milestone and verify the Phase 1 next action is consistent.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Preserve the active connected course milestone and verify the Phase 1 next action is consistent.
+
+Verification: passed / Compared productionPlan with the checked-in version and verified the active milestone is identical.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Preserve the active connected course milestone and verify the Phase 1 next action is consistent.
+
+### Material changes and history — updated
+
+[Open section](/career-empire-blueprint/production/material-changes.md)
+
+Record the original Mara-only opening and the new three-choice reader entry.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Record the original Mara-only opening and the new three-choice reader entry.
+
+Verification: passed / Verified the new material change and retained earlier records in data/operations.json.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Record the original Mara-only opening and the new three-choice reader entry.
+
+### Workflows and handoff — updated
+
+[Open section](/career-empire-blueprint/production/change-workflows.md)
+
+Record reader-only scope and preserve prior public release evidence.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Record reader-only scope and preserve prior public release evidence.
+
+Verification: passed / Verified AGENTS documents the proposed PDF, local prototype and separate public reader scope.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Record reader-only scope and preserve prior public release evidence.
+
+### Generated views and downloads — updated
+
+[Open section](/career-empire-blueprint/blueprint-records.json)
+
+Regenerate reader records and handoff from the current exact sources.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Regenerate reader records and handoff from the current exact sources.
+
+Verification: passed / Regenerated the static and private planning exports from the active source and checked parity.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Regenerate reader records and handoff from the current exact sources.
+
+### Publication verification — pending
+
+[Open section](/career-empire-blueprint/production/github-migration-2026-09-09.md)
+
+Verify the public GitHub Pages deployment and three Phase 1 choices on desktop and mobile.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Verify the public GitHub Pages deployment and three Phase 1 choices on desktop and mobile.
+
+Verification: pending /
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Verify the public GitHub Pages deployment and three Phase 1 choices on desktop and mobile.
+
+### Activities and learning flow — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Verify Resources, Mara and Archon open independently at the Phase 1 entrance.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Verify Resources, Mara and Archon open independently at the Phase 1 entrance.
+
+Verification: passed / Opened each of the three distinct pathways in the desktop browser and a 390px reader frame.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Verify Resources, Mara and Archon open independently at the Phase 1 entrance.
+
+### Player Journey and worked example — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#journey)
+
+Verify Phase 1 title, summary, three choices and retained Mara storyboard.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Verify Phase 1 title, summary, three choices and retained Mara storyboard.
+
+Verification: passed / Checked the Phase 1 title and pathway panels, with the original Mara storyboard source preserved byte for byte.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Verify Phase 1 title, summary, three choices and retained Mara storyboard.
+
+### Curriculum and reciprocal mappings — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#learning)
+
+Verify EB-01 to EB-03 and exact child requirements remain available and unchanged.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Verify EB-01 to EB-03 and exact child requirements remain available and unchanged.
+
+Verification: passed / Compared the curriculum source byte for byte and inspected the visible Phase 1 EB-01 to EB-03 requirement tree.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Verify EB-01 to EB-03 and exact child requirements remain available and unchanged.
+
+### Year plan and assessment — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#year)
+
+Explain that written answers and the PDF are proposed evidence, with no mastery or live assessment claim.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Explain that written answers and the PDF are proposed evidence, with no mastery or live assessment claim.
+
+Verification: passed / Checked that the reader explicitly labels PDF export as proposed and makes no mastery or deployment claim.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Explain that written answers and the PDF are proposed evidence, with no mastery or live assessment claim.
+
+### Teacher/classroom workflow — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#classroom)
+
+Check whether the teacher view needs a link or evidence distinction for the new pathways.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Check whether the teacher view needs a link or evidence distinction for the new pathways.
+
+Verification: passed / Reviewed the existing teacher guide scope. This release adds public journey options and does not alter teacher controls or evidence data.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Check whether the teacher view needs a link or evidence distinction for the new pathways.
+
+### World, rewards and progression — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Verify Places in the Game presents the Market as an Initiative destination.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Verify Places in the Game presents the Market as an Initiative destination.
+
+Verification: passed / Reviewed the updated Places in the Game entry against the three Phase 1 choices and the proposed route boundary.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Verify Places in the Game presents the Market as an Initiative destination.
+
+### Buildings and places — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#world)
+
+Verify Juniper Kitchen and Arcade placement are described as pathways, with no map deployment claim.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Verify Juniper Kitchen and Arcade placement are described as pathways, with no map deployment claim.
+
+Verification: passed / Reviewed the Juniper Kitchen and Arcade route wording. Existing building models and deployed entries are outside this reader scope.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Verify Juniper Kitchen and Arcade placement are described as pathways, with no map deployment claim.
+
+### Implementation and test evidence — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#build)
+
+Verify the static reader build and distinguish the separate local Careers Archon prototype.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Verify the static reader build and distinguish the separate local Careers Archon prototype.
+
+Verification: passed / Verified the static client candidate compiled and the page distinguishes the local match from a deployed Market route.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Verify the static reader build and distinguish the separate local Careers Archon prototype.
+
+### Start Here images and video — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#overview)
+
+Verify the resource video links and retain the dated Mara evidence.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Verify the resource video links and retain the dated Mara evidence.
+
+Verification: passed / Verified the reader links to two public Initiative resources and retained the original Markets evidence source.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Verify the resource video links and retain the dated Mara evidence.
+
+### Source library, terminology and rationale — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#source-documents)
+
+Retain Carolan chapter references and verify the two public resource links.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Retain Carolan chapter references and verify the two public resource links.
+
+Verification: passed / Verified the Carolan chapter and pages in the new resources panel against the existing cross-reference.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Retain Carolan chapter references and verify the two public resource links.
+
+### Decisions and superseded rules — updated
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#decisions)
+
+Record Tania’s three-path entry decision and preserve protected decisions.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Record Tania’s three-path entry decision and preserve protected decisions.
+
+Verification: passed / Verified the Phase 1 entry reflects Tania’s explicit three-choice direction and the production plan remains identical.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Record Tania’s three-path entry decision and preserve protected decisions.
+
+### Recovery and access — checked-unchanged
+
+[Open section](https://taniab1975.github.io/career-empire-blueprint/#handover)
+
+Keep private working notes outside public artifacts.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Keep private working notes outside public artifacts.
+
+Verification: passed / Reviewed the existing public packaging allowlist and kept private notes and local paths out of the new public copy.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Keep private working notes outside public artifacts.
+
+### Visual/asset register and production brief — checked-unchanged
+
+[Open section](/career-empire-blueprint/production/visual-register.md)
+
+Verify no game assets are changed by the reader release.
+
+Records: CE-CHANGE-20261109-132, J0. Owner: Tania design owner; Codex Blueprint maintainer.
+
+Acceptance: Verify no game assets are changed by the reader release.
+
+Verification: passed / Compared the visual register and evidence manifest byte for byte. The public reader update adds no game art.
+
+- [Evidence](docs/production/phase1-initiative-pathways-20261109.md)
+
+Next: Verify no game assets are changed by the reader release.
 
 ## CE-CHANGE-20260924-84 — My Life dashboard landing
 

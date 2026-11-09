@@ -2,6 +2,24 @@
 
 Generated from data/operations.json. One canonical register; do not edit this view directly.
 
+## CE-CHANGE-20261109-132 — Phase 1 Market Initiative pathways
+
+- **date:** 2026-11-09
+- **domain:** Phase 1 curriculum journey reader
+- **source:** Tania’s 9 November 2026 three-choice Phase 1 direction and direct public publication request.
+- **owner:** Tania design owner; Codex Blueprint maintainer
+- **status:** In progress — reader candidate
+- **rationale:** Show the three agreed Initiative learning pathways together at the Market entrance.
+- **dependencies:** None
+- **evidence:** docs/production/phase1-initiative-pathways-20261109.md
+- **nextAction:** Verify the exact reader candidate on desktop and mobile, complete downstream integration, then package and verify the generated public release.
+- **supersededRecord:** None
+- **designApproval:** Tania’s 9 November 2026 three-choice Phase 1 direction and direct public publication request.
+- **implementation:** The Phase 1 reader offers Resources, Mara’s storyboard and the Careers Archon storyboard as peer choices.
+- **deployment:** Local candidate only; public release pending.
+- **testing:** Scratch build and desktop panel navigation verified.
+- **taniaAcceptance:** User approved the three-path scope and explicitly requested public publication.
+
 ## CE-CHANGE-20260929-99 — Avatar Studio visual quality upgrade
 
 - **date:** 2026-09-29
