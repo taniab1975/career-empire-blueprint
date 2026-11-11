@@ -17,6 +17,10 @@
       "sha256": "47620212231c2db311346c95dd8c0004c7a5617f538921f274f573b6d1ca26ca"
     },
     {
+      "path": "assets/index-phase-access-58c559ab1c.js",
+      "sha256": "58c559ab1cb710b87a4af84658c9db97d283b6485be6e0c50bb8e09d2f0a0ed8"
+    },
+    {
       "path": "blueprint-records.json",
       "sha256": "540188e85b7d2da4a8c7b2e8be1a32509d9239b8170464cc6eeb429ddd163f60"
     },
@@ -1486,7 +1490,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "f9433711e71821c38f6cef16861b6b640b6235f08f753316cb20faa07ba76b1b"
+      "sha256": "2c26a2c2bb2a5f28f561675ba4e13529106600cbdf9f4190354f3362fed4ef4a"
     },
     {
       "path": "playable-3d/app.js",
@@ -2641,5 +2645,10 @@
     "gameBase": "d3544e129682381d397417c08bed0242d5e58d88",
     "provenance": "Unchanged appbuild sourceCommit retained;new record/doc bytes come from actual reviewed canonical source. Staged game tree is a tree,not an invented source commit. Game publication is separate.",
     "bindingSha256": "6251df7601a23807c28fe4040b273846fadd9704fa64d752bba05540e2f7c165"
+  },
+  "phaseAccessNote": {
+    "scope": "Public classroom pacing word in the Phase 1 Markets walkthrough",
+    "baseRelease": "d9ba20c1f7586455f4cfa45de3a63d0e26eeb547",
+    "asset": "assets/index-phase-access-58c559ab1c.js"
   }
 }
