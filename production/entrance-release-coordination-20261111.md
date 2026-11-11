@@ -1,5 +1,7 @@
 # Market entrance release coordination — 11 November 2026
 
+Source-reporting publication checkpoint:exact33bindings/source documents were genuinely published at 00da6bf288ed9b64cdd9d882e95b259d118fc802 and independently verified against actualPages/servedbytes. This closes only Blueprint source-review reporting;gamepublication remains soleintegrator work. Finalcompletedpublicrecord/manifest is verified before the existing receiptcommand. Allnativehardware/teacher/hosted/classroom limits remain. Earlier pending statements below are historical.
+
 Final source-reporting checkpoint:exactstagedtree1a521919b3536fa2d9666be886f7b3279d073eab has33versions(27product+5guards+manifest),all reviewed. Parentconfirms finalaesthetic27sourcecloud1280/390and one-pagePDF/return acceptance;315manifestentries104modulesmatch. Hookactive.138is ready only for scoped public Blueprint source-binding verification;game publication is not claimed. Older candidate/designhold statements below are historical. Threebaseline-identical nativehardwarechecks remain pending,notwaived.
 
 Latest governing checkpoint:finalavailability-copy cloud1280/390entrance/Notes/Mara/sixlogos/anonymousPDF/return passes;26producthashes and314manifestentries match as reported. The user now requests portfolio styling to match the intro and reuse infographic imagery. That newisolated successor must integrate/test serially before finalportfolio/sourcebindingfreeze. Predecessorcfcb32evidence and stagedbytes remain preserved. Hookapproved/active;no receipt/publication. Earlier active availability-rerun statements below are superseded by the final section.
@@ -118,3 +120,8 @@ Prior372units/22originalbrowser checks remain attributed to the qualified predec
 This publication scope is only public Blueprint source-review metadata,related context and documents plus exact33versionbindings. Preserve existing liveappbundles,curriculum,mappings,screenshots,navigation and all unrelated publiccontent. No privateBlueprint wholesale export,raw cloud/archive,credentials,backendSQLornew media. Related133/137remaininprogress;WAevidence staysUNVERIFIED. Actualgamecommit/push/liveverification belongs to the soleintegrator after legitimate guard coverage.
 
 Publish the pending source-review projection first and independently verify its actual publicrecord/manifest/docs;only then record source-reporting publication as complete and verify the final completed integration is genuinely public. The unchanged receipt command must produce the receipt against that real public integration and exact33files. Never hand-author receiptJSON,pretend a stagedtree is a commit,or call source-reporting closure whole-product acceptance.
+
+
+## Actual scoped publication verification
+
+Pages built commit 00da6bf288ed9b64cdd9d882e95b259d118fc802;all8scopedfiles matched their reviewed SHA256,publicrecord matchedmanifest,33sourcebindings were present,and the appindex remained exactbaselinebytes. The firstlive source-record status wasready-for-publication until this verification. Historicalfixtureimageembeds notincluded in this scopedupdate were removed from publiccontext;all localoriginals retained. Completed source-reporting metadata and correctedreaderbytes receive their own final verification before any receipt. No gamepush,privateBlueprintexport,newmedia or broad curriculum/navigation change.

@@ -15,13 +15,13 @@ CE-CHANGE-20261110-133 · 10 November 2026. The local Phase1 host now connects t
 
 Three primary choices remain distinct from secondary practice. The existing28screenMara storyboard and197baseline curriculum rows are retained. A local practice acknowledgement is not teacher submission or mastery.
 
-## Actual-source isolated fixture captures
+## Historical isolated-fixture capture provenance
 
 These existing integrator captures show the actual local chooser at1280×850and390×850. They use synthetic run/profile state and a fictional Archon endpoint,not a deployed campus,multiplayer service or teacher backend. No browser or GUI was used by this maintainer to reconcile the evidence.
 
-![Phase1 local chooser — isolated1280pxfixture,synthetic state,not deployed](/evidence/phase1-local-20261110/phase1-three-options-1280.png)
+Historical isolated-fixture images remain retained with the local source evidence; they are not included in this narrowly scoped public binding update.
 
-![Phase1 local chooser — isolated390pxfixture,synthetic state,not deployed](/evidence/phase1-local-20261110/phase1-three-options-390.png)
+
 
 ## Exact curriculum and source boundaries
 

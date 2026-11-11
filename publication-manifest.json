@@ -1,8 +1,8 @@
 {
   "sourceCommit": "09fdb6c243ead8c8986153f3ca6fa9ea36b1aa4b",
-  "generatedAt": "2026-11-11T13:30:03.123192+00:00",
+  "generatedAt": "2026-11-11T13:41:34.927032+00:00",
   "revision": "V2.40 / 3 November 2026",
-  "recordSha256": "331a17351d3dbbd0e845c1d765ef9501824ab45a00a747af02e54f9022b56420",
+  "recordSha256": "540188e85b7d2da4a8c7b2e8be1a32509d9239b8170464cc6eeb429ddd163f60",
   "files": [
     {
       "path": "assets/curriculum-planner-CaXpHcay.js",
@@ -18,7 +18,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "331a17351d3dbbd0e845c1d765ef9501824ab45a00a747af02e54f9022b56420"
+      "sha256": "540188e85b7d2da4a8c7b2e8be1a32509d9239b8170464cc6eeb429ddd163f60"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1882,11 +1882,11 @@
     },
     {
       "path": "production/entrance-release-coordination-20261111.html",
-      "sha256": "d54f7ec5efaba5e89522aab63cc99426757ceb0f406a41c7009c288adc328755"
+      "sha256": "e2da78ca82c46560a27ac086f273a84537f3cc9d08e282c0bfe83af069349111"
     },
     {
       "path": "production/entrance-release-coordination-20261111.md",
-      "sha256": "a055bc2a96f175df70103ab0a3562f227096c38b4972e825bbc8f305c632a1c1"
+      "sha256": "f7a23503be8d8599874fdc3b99dfcb4b0c2684e3543924206ccf51600cd41188"
     },
     {
       "path": "production/environment-release-20260912.md",
@@ -1954,11 +1954,11 @@
     },
     {
       "path": "production/initiative-shared-learning-20261110.html",
-      "sha256": "484926570052d6abe22885e920389273fc9b34f18e1956c494a35ec9bd4bfdda"
+      "sha256": "f4cbc3b35e60b5281cad78a9518f933761bfe1ac407ac7805286d4b96fa57aeb"
     },
     {
       "path": "production/initiative-shared-learning-20261110.md",
-      "sha256": "a05293071a5af78e67d7feb559ded3d9aef351fb8d52c6ca30f770669846c61b"
+      "sha256": "33f54481315837fc9b6935f005e9a9d8c2b443177b03986c674cfdcb3ef84e05"
     },
     {
       "path": "production/journey-market-reconciliation-20261024.html",
@@ -2636,7 +2636,7 @@
   "recordPublicationScope": "Only exact33sourcebinding record138,its133/137related context,three scoped source documents and UNVERIFIED evidence reference;existing appassets/navigation/curriculum/other publiccontent unchanged.",
   "recordSourceReview": {
     "integration": "CE-CHANGE-20261111-138",
-    "phase": "pending",
+    "phase": "completed",
     "sourceProjectId": "game-initiative-release-20261111",
     "gameBase": "d3544e129682381d397417c08bed0242d5e58d88",
     "provenance": "Unchanged appbuild sourceCommit retained;new record/doc bytes come from actual reviewed canonical source. Staged game tree is a tree,not an invented source commit. Game publication is separate.",
