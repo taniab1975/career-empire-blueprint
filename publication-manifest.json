@@ -1,8 +1,8 @@
 {
   "sourceCommit": "09fdb6c243ead8c8986153f3ca6fa9ea36b1aa4b",
-  "generatedAt": "2026-11-11T13:41:34.927032+00:00",
+  "generatedAt": "2026-11-11T23:45:58.865302+00:00",
   "revision": "V2.40 / 3 November 2026",
-  "recordSha256": "540188e85b7d2da4a8c7b2e8be1a32509d9239b8170464cc6eeb429ddd163f60",
+  "recordSha256": "3387686d2190426e560891e674e353f4df051b2af69b7f1efe616d3c44bb00cd",
   "files": [
     {
       "path": "assets/curriculum-planner-CaXpHcay.js",
@@ -22,7 +22,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "540188e85b7d2da4a8c7b2e8be1a32509d9239b8170464cc6eeb429ddd163f60"
+      "sha256": "3387686d2190426e560891e674e353f4df051b2af69b7f1efe616d3c44bb00cd"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -2637,14 +2637,15 @@
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
     }
   ],
-  "recordPublicationScope": "Only exact33sourcebinding record138,its133/137related context,three scoped source documents and UNVERIFIED evidence reference;existing appassets/navigation/curriculum/other publiccontent unchanged.",
+  "recordPublicationScope": "Exact44source-review139only;priorrecords/publicapp/contentpreserved;gamepushseparate.",
   "recordSourceReview": {
-    "integration": "CE-CHANGE-20261111-138",
-    "phase": "completed",
+    "integration": "CE-CHANGE-20261111-139",
+    "phase": "ready",
     "sourceProjectId": "game-initiative-release-20261111",
-    "gameBase": "d3544e129682381d397417c08bed0242d5e58d88",
-    "provenance": "Unchanged appbuild sourceCommit retained;new record/doc bytes come from actual reviewed canonical source. Staged game tree is a tree,not an invented source commit. Game publication is separate.",
-    "bindingSha256": "6251df7601a23807c28fe4040b273846fadd9704fa64d752bba05540e2f7c165"
+    "baseline": "d3544e129682381d397417c08bed0242d5e58d88",
+    "head": "7ac4efa5ac59ed9c2e6c806ebcc20f6014b53559",
+    "stagedTree": "fd64ca3d2e245b452fe230ccbdf8b1f9670de480",
+    "versions": 44
   },
   "phaseAccessNote": {
     "scope": "Public classroom pacing word in the Phase 1 Markets walkthrough",

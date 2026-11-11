@@ -37830,6 +37830,29 @@
           "deployment": "Only8scopedpublicBlueprintsource-binding/contextdocumentfiles at 00da6bf288ed9b64cdd9d882e95b259d118fc802;unrelatedappassets/index/curriculum/navigation preserved. No gamepush or privateBlueprint export.",
           "testing": "Independent33stagedmode/blobmatch,3presentationdeltaSHAreview and exactpublic-only diff review. Supplied3preservation/2privacytests pass. Parent confirms exactfinal27sourcecloud1280/390aesthetic/images/sixlogos/Notes/Mara/comingsoon/anonymousprivacy/STAR/PDF/Marketreturn passes,all27hashes and315manifestentries/104modules verified. Both PDFs visuallyoneA4page/all5responses/decorativeimagesabsent;initial2page harnessscreenmediaerror retained,corrected only test printmedia. Prior372units/22originalbrowserchecks retained with exactpredecessor provenance. Threebaseline-identical rendererchecks remain pending nativeacceptance,notpassed/waived. Actualfirstsourcepublication verified8servedhashes,Pagesexactcommit,record-manifest matching33versions and unchangedindex. Two unavailable historicalfixtureembeds removed from scopedsourcecontext;localoriginals retained;finalcorrectedreader/completedprojection verified before receipt.",
           "taniaAcceptance": "Existing explicit frontend/anonymousportfolioPDF/sixlogos publication intent and comingsoonArchonstage retained;finalaesthetic functional/visual cloudacceptance confirmed. Hookactivation explicitlyapproved/complete. Nativehardware,authenticatedteacher and hosted/backend/classroom acceptance remain distinct."
+        },
+        {
+          "id": "CE-CHANGE-20261111-139",
+          "date": "2026-11-11",
+          "title": "Review reconciled Markets source preserving current production",
+          "domain": "Bounded source qualification and canonical release/protection coordination",
+          "source": "Explicit Market publication confirmation and keep progressing; final exact7ac cloud evidence relayed by coordinator.",
+          "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+          "status": "Exact44actual source reviewed; scoped source-reporting publication ready",
+          "rationale": "Preserve publication intent while preventing stale39filebindings,dirty-treepublication,privateBlueprint export and unclassified CI failures from being treated as a qualified final release.",
+          "dependencies": [
+            "CE-CHANGE-20261111-138"
+          ],
+          "evidence": [
+            "docs/production/entrance-release-coordination-20261111.md"
+          ],
+          "nextAction": "Independently verify actual44registered versions; validate/publish exact canonical successor, verify served record and issue unchangedguardreceipt.",
+          "supersededRecord": null,
+          "designApproval": "Explicit requested Market entrance/anonymous PDF/logos publication is recorded;do not ask for blanket publication approval again. Exact unavailable-Archon staging and final logo/repair source qualification remain unresolved. No gateway/security-setting approval inferred. Parent resolves independent frontend publication with Archon clearly unavailable under existing user intent. Routine standalone checkout/registration/standard-copy/link preparation authorized;only executable-hook activation is separately pending. Exact trusted action-time transcript authorizes activating the existing pre-push guard in this separate checkout;useryes received. No global config,remote permission or credential change.",
+          "implementation": "Preserve production7ac4efa Capabilities map, authenticated single-page STAR, teacher/student and EST/skip changes; retain approved anonymous five-step portfolio and immediate Markets entrance. Expected44 mode/blob versions relative to unchanged d354 baseline. Runtime reconciliation belongs sole integrator. ActualHEAD 7ac4efa5ac59ed9c2e6c806ebcc20f6014b53559 stagedtree fd64ca3d2e245b452fe230ccbdf8b1f9670de480 independently verified; zero deletions.",
+          "deployment": "Not published; no receipt issued.",
+          "testing": "Exact7ac cloud qualification reported passed:319hashes/104modules,12boundedbrowsercases,desktop/mobile portfolio/privacy/PDF/return. Evidence libfile_fde3_f-b01d2d1b67748191be1581cfa035b852_37f46153aa5c81918a310ed7976345c2. Predecessor7da evidence libfile_fde3_f-80c7d162153481918931cfd94b79ac9a_37f46153aa5c81918a310ed7976345c2. Nativehardware/real authenticated records/hostedArchon/classroom not certified. Actual index and available working bytes match44reviewed Git versions; registeredbaseline unchanged.",
+          "taniaAcceptance": "Existing explicit frontend/anonymousportfolioPDF/sixlogos publication intent and comingsoonArchonstage retained;finalaesthetic functional/visual cloudacceptance confirmed. Hookactivation explicitlyapproved/complete. Nativehardware,authenticatedteacher and hosted/backend/classroom acceptance remain distinct."
         }
       ],
       "sessionStart": [
@@ -51840,10 +51863,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20261111-138"
+        "CE-CHANGE-20261111-139"
       ],
-      "scope": "Scoped public source-review bindings for exact33Market entrance/anonymousportfolio/logos versions;unchanged public appassets/unrelatedcontent;no gamepush or hosted/schoolrelease.",
-      "disclosure": "138closes only actual source-review reporting publication,not game/productdeployment. Related133/137andotherpendingwork remainincomplete. Threebaseline-identical nativehardwarechecks,authenticatedteacher/nativeprint,hostedArchon/classroom/mastery remain unverified;no unsupported receipt or waiver.",
+      "scope": "Exact44reconciled Market source-review reporting only; preserve public app/unrelatedcontent. No gamepush.",
+      "disclosure": "139source review preserves newer production7ac4efa;baseline d354unchanged. Nativehardware/realteacher/hostedArchon/classroom remainpending. No stale33/37/43receipt.",
       "requiredReviewFiles": [
         "data/operations.json",
         "data/blueprint.ts",
@@ -51890,9 +51913,9 @@
       "reviews": [
         {
           "path": "data/operations.json",
-          "sha256": "1660534f3ea6ec220221ece04527a5a094644e2760d34c13cfd13522cca5d31c",
+          "sha256": "3532d3cb39d22f026efc11bcc37e46f00e12495b8af8debf3f8599cc9cc80ea3",
           "reviewedAt": "2026-11-11",
-          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Semantic comparison against the exact previous reviewed bytes: current plan/next action, roadmap, Initiative status and records133-135 only. Earlier material records and protected decisions retained; no product or deployment acceptance added. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Final exact metadata delta reviewed: retire completed Atlas-contract action in134and record actual115/115test result in135. No acceptance flag or behavior changed. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Exact bounded136delta reviewed: isolated Flyover entrance-start defect/candidate provenance and serial release ownership only. Candidate not shared-applied or published;raw footage not live;Safari/Chapel-return/final integration open. Prior records,navigation,Initiative and release gates preserved. Exact136final-candidate acceptance delta reviewed against unchanged five source fingerprints and supplied no-error Chapel/arrival results;retire candidate-only Chapel gap,retain Safari/serial-integration/publication requirements. No acceptance criteria,completion flags or runtime changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Two priority-prefix strings restored to established Author and review core learning materials wording after production-plan regression caught abbreviation;scope and remaining gates unchanged. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed actual ordinary source registration/standardcopy/link and resolved frontendstage successor.45bindingdraft stopped beforeapplication;26hashes/3contractregressions and real sparseguardsnapshot verified. No finalprojectChanges,receipt,corehookactivation or runtime application. Concurrent datedCEAWAappendix recovered from exact priorprefix,inspected and retained without recertifying unrelated claims. Actual32staged1dc6/cfcbGitversions,threeavailabilitydeltaSHAand2actualsourcecases reviewed;cloudfinalavailabilitypass attributed. Exactuseryeshookactivation verified localonly/unchangedcode. Newuserportfolioaesthetic successorholds obsoletefreeze;no projectChanges/receipts. ConcurrentAGENTSdatedCEAWAappendix recovered by exact priorprefix,inspected/preserved without recertifying unrelated release. Finalexact33source/reporting review:staged1a5219native2560image successor,27qualifiedproducts+5unchangedguards+315entrymanifest. Finalcloudacceptance attributed,actualGitversions and public-onlydiff checked. Source-reporting publication alone pending;product/nativehardware/teacher/hostedgaps retained. Verified HDuserappendix and concurrent datedAGENTSnotes preserved without unrelatedpublication. Exactactualsource-publication closure metadata and2historicalembedremovals reviewed;no game/sourceMap/imageasset or privateoriginal changed. Publiccommit/servedfile evidence retained;finalcompletedrecord verification remains required before receipt."
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Semantic comparison against the exact previous reviewed bytes: current plan/next action, roadmap, Initiative status and records133-135 only. Earlier material records and protected decisions retained; no product or deployment acceptance added. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Final exact metadata delta reviewed: retire completed Atlas-contract action in134and record actual115/115test result in135. No acceptance flag or behavior changed. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Exact bounded136delta reviewed: isolated Flyover entrance-start defect/candidate provenance and serial release ownership only. Candidate not shared-applied or published;raw footage not live;Safari/Chapel-return/final integration open. Prior records,navigation,Initiative and release gates preserved. Exact136final-candidate acceptance delta reviewed against unchanged five source fingerprints and supplied no-error Chapel/arrival results;retire candidate-only Chapel gap,retain Safari/serial-integration/publication requirements. No acceptance criteria,completion flags or runtime changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Two priority-prefix strings restored to established Author and review core learning materials wording after production-plan regression caught abbreviation;scope and remaining gates unchanged. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed actual ordinary source registration/standardcopy/link and resolved frontendstage successor.45bindingdraft stopped beforeapplication;26hashes/3contractregressions and real sparseguardsnapshot verified. No finalprojectChanges,receipt,corehookactivation or runtime application. Concurrent datedCEAWAappendix recovered from exact priorprefix,inspected and retained without recertifying unrelated claims. Actual32staged1dc6/cfcbGitversions,threeavailabilitydeltaSHAand2actualsourcecases reviewed;cloudfinalavailabilitypass attributed. Exactuseryeshookactivation verified localonly/unchangedcode. Newuserportfolioaesthetic successorholds obsoletefreeze;no projectChanges/receipts. ConcurrentAGENTSdatedCEAWAappendix recovered by exact priorprefix,inspected/preserved without recertifying unrelated release. Finalexact33source/reporting review:staged1a5219native2560image successor,27qualifiedproducts+5unchangedguards+315entrymanifest. Finalcloudacceptance attributed,actualGitversions and public-onlydiff checked. Source-reporting publication alone pending;product/nativehardware/teacher/hostedgaps retained. Verified HDuserappendix and concurrent datedAGENTSnotes preserved without unrelatedpublication. Exactactualsource-publication closure metadata and2historicalembedremovals reviewed;no game/sourceMap/imageasset or privateoriginal changed. Publiccommit/servedfile evidence retained;finalcompletedrecord verification remains required before receipt. Reviewed only139material record preserving all prior rows;actual44source and qualifiedcloudprovenance."
         },
         {
           "path": "data/blueprint.ts",
@@ -95258,6 +95281,335 @@
             "playable-3d/market-learning-routes.mjs": "100644:07a0434ce589c56455fffb2df8f8c0b2890ec5b4",
             "playable-3d/night-market.js": "100644:ec4c6d8a6ee3f79791ef4cad859036d0249d83fd",
             "playable-3d/release-manifest.json": "100644:3793025fe195822b35af65332cd9b039866bb42f"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261111-139",
+        "title": "Markets source review preserving published EST, authenticated STAR and Capabilities",
+        "types": [
+          "release",
+          "governance"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Preserve newer production while publishing the explicitly approved Market entrance and anonymous portfolio without stale bindings or baseline reset.",
+        "before": "Previous33/37/43reviews are historical; production advanced twice.",
+        "after": "Preserve production7ac4efa Capabilities map, authenticated single-page STAR, teacher/student and EST/skip changes; retain approved anonymous five-step portfolio and immediate Markets entrance. Expected44 mode/blob versions relative to unchanged d354 baseline. Runtime reconciliation belongs sole integrator.",
+        "source": "Explicit Market publication confirmation and keep progressing; final exact7ac cloud evidence relayed by coordinator.",
+        "owner": "Blueprint maintainer:scoped source-binding publication/receipt;existing soleintegrator:gamecommit/push/liveverification",
+        "nextAction": "Publish and independently verify exact44 source-reporting record; complete publication target only after actual public verification; unchangedguardreceipt follows. Gamepush remains soleintegrator.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Blueprint maintainer:documentary coordination;actual source registration/protection requires appropriate scoped authority",
+          "scope": "Public Blueprint source-review metadata/documents and exact33Gitversion binding only,plus already approved localguardactivation. Game runtime belongs to separately qualified soleintegrator;no new gateway,service,permission,account or learnerdata change in this reporting release.",
+          "rationale": "Source-version review/publication is not production/classroom/mastery or hostedsecurity certification. Related133/137stay incomplete andWAevidence remainsUNVERIFIED;threebaseline-identical nativechecks are disclosed pending.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Canonical coordination and exact file-hash/proposal review only;no change to data controls,learner data,accounts,services or settings.",
+            "locations": "Canonical coordination and exact file-hash/proposal review only;no change to locations controls,learner data,accounts,services or settings.",
+            "accessCountries": "Canonical coordination and exact file-hash/proposal review only;no change to accessCountries controls,learner data,accounts,services or settings.",
+            "providers": "Canonical coordination and exact file-hash/proposal review only;no change to providers controls,learner data,accounts,services or settings.",
+            "lifecycle": "Canonical coordination and exact file-hash/proposal review only;no change to lifecycle controls,learner data,accounts,services or settings.",
+            "encryption": "Canonical coordination and exact file-hash/proposal review only;no change to encryption controls,learner data,accounts,services or settings.",
+            "logging": "Canonical coordination and exact file-hash/proposal review only;no change to logging controls,learner data,accounts,services or settings.",
+            "identity": "Canonical coordination and exact file-hash/proposal review only;no change to identity controls,learner data,accounts,services or settings.",
+            "isolation": "Canonical coordination and exact file-hash/proposal review only;no change to isolation controls,learner data,accounts,services or settings.",
+            "privacySafety": "Canonical coordination and exact file-hash/proposal review only;no change to privacySafety controls,learner data,accounts,services or settings.",
+            "applicability": "Canonical coordination and exact file-hash/proposal review only;no change to applicability controls,learner data,accounts,services or settings.",
+            "verification": "Canonical coordination and exact file-hash/proposal review only;no change to verification controls,learner data,accounts,services or settings."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "Exact33indexGitmode/blobversions and source33review verified;public-only aesthetic diff/preserved teacher/auth flow inspected.",
+            "Supplied final27cloud1280/390/privacy/PDF/return and315manifest104modulechecks pass;threebaseline-identical hardwarechecks explicitly pending."
+          ],
+          "reviewedBy": "Blueprint maintainer exact staged-source/reporting review",
+          "reviewedAt": "2026-11-11",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": "Direct action-time useryes for localcore.hooksPath activation in the separate registeredrelease checkout only;not a hosted/school/security waiver.",
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "Bare game-purpose entry and current links remain unchanged;no conditional candidate or unqualified logos presented as live.",
+            "records": [
+              "CE-CHANGE-20261111-139"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Bare game-purpose entry and current links remain unchanged;no conditional candidate or unqualified logos presented as live. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Bounded successor source-reporting review: actual44index/workingversions match qualified7acsource; inherited map/Capabilities/authenticatedSTAR/EST preserved. Final319hash104module/12boundedbrowser and desktop390portfolio/privacy/PDF/return cloud evidence b01d2d1;7dapredecessor80c7d162. This target records only source-reporting; no game/teacher/hosted/classroom readiness claim.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish and independently verify exact44 source-reporting record; complete publication target only after actual public verification; unchangedguardreceipt follows. Gamepush remains soleintegrator."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Append bounded releasecoordination138without replacing learning priority;preserve sole integrator and identify actual release executor as unresolved.",
+            "records": [
+              "CE-CHANGE-20261111-139"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Append bounded releasecoordination138without replacing learning priority;preserve sole integrator and identify actual release executor as unresolved. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Bounded successor source-reporting review: actual44index/workingversions match qualified7acsource; inherited map/Capabilities/authenticatedSTAR/EST preserved. Final319hash104module/12boundedbrowser and desktop390portfolio/privacy/PDF/return cloud evidence b01d2d1;7dapredecessor80c7d162. This target records only source-reporting; no game/teacher/hosted/classroom readiness claim.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish and independently verify exact44 source-reporting record; complete publication target only after actual public verification; unchangedguardreceipt follows. Gamepush remains soleintegrator."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Preserve existing133to137records and explicit latest publication intent. Do not rewrite broader67filequalification as narrower39filefinal acceptance.",
+            "records": [
+              "CE-CHANGE-20261111-139"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Preserve existing133to137records and explicit latest publication intent. Do not rewrite broader67filequalification as narrower39filefinal acceptance. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Bounded successor source-reporting review: actual44index/workingversions match qualified7acsource; inherited map/Capabilities/authenticatedSTAR/EST preserved. Final319hash104module/12boundedbrowser and desktop390portfolio/privacy/PDF/return cloud evidence b01d2d1;7dapredecessor80c7d162. This target records only source-reporting; no game/teacher/hosted/classroom readiness claim.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish and independently verify exact44 source-reporting record; complete publication target only after actual public verification; unchangedguardreceipt follows. Gamepush remains soleintegrator."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Registered actual standalone source has explicit user-approved localprepushactivation complete and unchanged code. Currentcfcb83aestaged review remains held for exactcloudpresentation/publicbinding/receipt;no privateBlueprintexport.",
+            "records": [
+              "CE-CHANGE-20261111-139"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Use unchanged registered-source,publicbinding,receipt/prepush and selfcontained cloudCImodes. No fake remote path,privateBlueprint export or protection weakening. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Bounded successor source-reporting review: actual44index/workingversions match qualified7acsource; inherited map/Capabilities/authenticatedSTAR/EST preserved. Final319hash104module/12boundedbrowser and desktop390portfolio/privacy/PDF/return cloud evidence b01d2d1;7dapredecessor80c7d162. This target records only source-reporting; no game/teacher/hosted/classroom readiness claim.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish and independently verify exact44 source-reporting record; complete publication target only after actual public verification; unchangedguardreceipt follows. Gamepush remains soleintegrator."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Generate current local coordination document/records and verify parity;not a Blueprint or game deployment.",
+            "records": [
+              "CE-CHANGE-20261111-139"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Generate current local coordination document/records and verify parity;not a Blueprint or game deployment. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Bounded successor source-reporting review: actual44index/workingversions match qualified7acsource; inherited map/Capabilities/authenticatedSTAR/EST preserved. Final319hash104module/12boundedbrowser and desktop390portfolio/privacy/PDF/return cloud evidence b01d2d1;7dapredecessor80c7d162. This target records only source-reporting; no game/teacher/hosted/classroom readiness claim.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish and independently verify exact44 source-reporting record; complete publication target only after actual public verification; unchangedguardreceipt follows. Gamepush remains soleintegrator."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish narrowly scoped Blueprint source-review records/docs and exact33bindings,then independently verify actual publicrecord/manifest/readerbytes before complete. No gamepublication claimed.",
+            "records": [
+              "CE-CHANGE-20261111-139"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Retain requested frontend publication but wait for final source/logos/repairs,staging choice,classifiedCIand qualified protected execution identity. No receipt or readiness claimed. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Await actual public139source record verification.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish and independently verify exact44 source-reporting record; complete publication target only after actual public verification; unchangedguardreceipt follows. Gamepush remains soleintegrator."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Exact33Gitversions bind actualregisteredsource:27qualifiedproduct+5unchangedguards+manifest315hashes104modules. Localartifact/native/historical qualifications remain distinguished.",
+            "records": [
+              "CE-CHANGE-20261111-139"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Frozen39runtimefiles,109staticedges and28hostedArchonexclusions documented. Logo/repair successor and actual generated manifest/support-fileGitbindings are not frozen. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Bounded successor source-reporting review: actual44index/workingversions match qualified7acsource; inherited map/Capabilities/authenticatedSTAR/EST preserved. Final319hash104module/12boundedbrowser and desktop390portfolio/privacy/PDF/return cloud evidence b01d2d1;7dapredecessor80c7d162. This target records only source-reporting; no game/teacher/hosted/classroom readiness claim.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish and independently verify exact44 source-reporting record; complete publication target only after actual public verification; unchangedguardreceipt follows. Gamepush remains soleintegrator."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Existing dirtyd354/a997repositories,configs/status and baseline receipts preserved. Actual standalone sparse guard seesonly5supportadditions/zero deletions;no runtimecandidate applied or45binding issued.",
+            "records": [
+              "CE-CHANGE-20261111-139"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Preserve91dirty releaseassettypechanges,initiative-local a997baseline,existing receipts and navigation/Flyover work. No reset,whole-treecopy or competing writer. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Bounded successor source-reporting review: actual44index/workingversions match qualified7acsource; inherited map/Capabilities/authenticatedSTAR/EST preserved. Final319hash104module/12boundedbrowser and desktop390portfolio/privacy/PDF/return cloud evidence b01d2d1;7dapredecessor80c7d162. This target records only source-reporting; no game/teacher/hosted/classroom readiness claim.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish and independently verify exact44 source-reporting record; complete publication target only after actual public verification; unchangedguardreceipt follows. Gamepush remains soleintegrator."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Link supplied exact handoff/manifest and qualification reports;distinguish actual path/commonGit facts from uncreated proposal and cloudworker metadata still required.",
+            "records": [
+              "CE-CHANGE-20261111-139"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Link supplied exact handoff/manifest and qualification reports;distinguish actual path/commonGit facts from uncreated proposal and cloudworker metadata still required. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Bounded successor source-reporting review: actual44index/workingversions match qualified7acsource; inherited map/Capabilities/authenticatedSTAR/EST preserved. Final319hash104module/12boundedbrowser and desktop390portfolio/privacy/PDF/return cloud evidence b01d2d1;7dapredecessor80c7d162. This target records only source-reporting; no game/teacher/hosted/classroom readiness claim.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish and independently verify exact44 source-reporting record; complete publication target only after actual public verification; unchangedguardreceipt follows. Gamepush remains soleintegrator."
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "Finalaesthetic reuses actualMarket/Mara/sixlogos;cloud1280/390rendered/PDFacceptance reported. No newmedia copied into Blueprint;decorativeimagesabsent in PDF and nativeprintdialogunverified.",
+            "records": [
+              "CE-CHANGE-20261111-139"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Sixlogos are being serially integrated by owner;no new media copied or called final/live here. No browser,capture or public artwork upload. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Bounded successor source-reporting review: actual44index/workingversions match qualified7acsource; inherited map/Capabilities/authenticatedSTAR/EST preserved. Final319hash104module/12boundedbrowser and desktop390portfolio/privacy/PDF/return cloud evidence b01d2d1;7dapredecessor80c7d162. This target records only source-reporting; no game/teacher/hosted/classroom readiness claim.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish and independently verify exact44 source-reporting record; complete publication target only after actual public verification; unchangedguardreceipt follows. Gamepush remains soleintegrator."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Existing frontend/PDF/sixlogospublication and clearlyunavailableArchonstage retained;exact localhookactivation approved and completed. No repeatsetup/staging/publishingapproval requested.",
+            "records": [
+              "CE-CHANGE-20261111-139"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Explicit user frontend/logos publication request retained;no generic reapproval. Parent must resolve consequential unavailableArchonstage and actual executor/setupscope;no gateway settings authorized. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Bounded successor source-reporting review: actual44index/workingversions match qualified7acsource; inherited map/Capabilities/authenticatedSTAR/EST preserved. Final319hash104module/12boundedbrowser and desktop390portfolio/privacy/PDF/return cloud evidence b01d2d1;7dapredecessor80c7d162. This target records only source-reporting; no game/teacher/hosted/classroom readiness claim.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish and independently verify exact44 source-reporting record; complete publication target only after actual public verification; unchangedguardreceipt follows. Gamepush remains soleintegrator."
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            ".career-empire/check.mjs": "100644:2cdc50f42eb88eaeedaee20d33697f167b70f407",
+            ".career-empire/guard.mjs": "100644:56e57fae386df5374b76ad4b71db032445822989",
+            ".career-empire/hooks/pre-push": "100755:fc027de48ad849c57935f67909d9e7b1375cbe30",
+            ".career-empire/project-id": "100644:993e0b404727324ba9a71b755aef04a9342caf3a",
+            "AGENTS.md": "100644:f9732c196576677a7db9118f466b344ba79aff01",
+            "Assets/employability-logos/initiative/being-proactive.png": "100644:965415b1d9d65bf4186f648f0a3e5ecdc2c33808",
+            "Assets/employability-logos/initiative/helping-fellow-workers.png": "100644:672fcc5e76c8671f7659c3239e2030c90c020c4c",
+            "Assets/employability-logos/initiative/improving-work-practices.png": "100644:678f80a953beddf173217591f09e8e6cad2ac528",
+            "Assets/employability-logos/initiative/initiative.png": "100644:d96f3e7c914baf5843464bdc3ad13ddd7391be30",
+            "Assets/employability-logos/initiative/seeking-more-responsibilities.png": "100644:af709ca2247545531ea72ad739e0436cfa80ffec",
+            "Assets/employability-logos/initiative/vocalising-opinions.png": "100644:7b52d890e68492dd52e00b42a0686a89f2fba04f",
+            "CAREER-EMPIRE-WORKFLOW.md": "100644:7978f67f1be48f1d1d016ae0d5651d28439d292d",
+            "dashboards/capabilities.html": "100644:f3c29a449f4d16de84f6a65df512a4e2d9bf88fc",
+            "dashboards/dashboard.css": "100644:6eef714ea8b4a176171132d0caee1c28b0c107f4",
+            "dashboards/dashboard.js": "100644:3ede944066f1e57a5d5f4807c2430a76a8fa14b8",
+            "dashboards/initiative-portfolio.css": "100644:b0c526e3a6870f6aae159fcd4061d8c4b60e4141",
+            "dashboards/student.html": "100644:8683a22e8df7b731b43d82a285d5f8c999f653ee",
+            "dashboards/teacher-game-theme.css": "100644:e00c0c85d09f7b6622afea7d4db8ed53e7853bb0",
+            "dashboards/teacher.html": "100644:22435898632611456930b00ddca41cb133f58126",
+            "data/employability-skills.json": "100644:5bdfc626cc1bee4ce752ef2b91ca476b4700845e",
+            "modules/initiative/parallel/integration/market-learning-host.mjs": "100644:ac09b388de1d1a6e3659587ef53e52033b4c7ded",
+            "modules/initiative/parallel/learning/lesson.css": "100644:c584fbfc46ad8bd201f6f74f329e4ce67acd052e",
+            "modules/initiative/parallel/learning/lesson.mjs": "100644:1478c01f7870acffe1c4ae9a9dccb57ff9e2a5f2",
+            "modules/initiative/parallel/learning/library.json": "100644:dbfdb8c545995c1a103e9d71632ae6ac33e6b70d",
+            "modules/initiative/parallel/learning/portfolio/images.manifest.json": "100644:9cea55cc3af9cc80cc24767c008a13daf7d0780b",
+            "modules/initiative/parallel/learning/portfolio/initiative-portfolio.mjs": "100644:f9d3a17f23e0cefcd0a2e908a4d4721b4b9444c3",
+            "playable-3d/app.js": "100644:9c91ad7dbdfe752666aa6a3d88b4170b2375df5a",
+            "playable-3d/discovery-opening.js": "100644:3698960c15af1922cf815145b72086995b87d323",
+            "playable-3d/exploration-tools.mjs": "100644:7f701ad63352ac6b42554b2185de56ecaa536ec9",
+            "playable-3d/guest-shell.mjs": "100644:755ec993fcc3fdcf15de440ff62268ce559a5772",
+            "playable-3d/index.html": "100644:7fcbfd1b09ca10ae7f1f61ac1a101533e3005636",
+            "playable-3d/initiative-market.mjs": "100644:8164dfd0b8809ab5912442c83955fc6cbc563427",
+            "playable-3d/intro-taster.mjs": "100644:03d56c92871e7864955c0358655f2f298aab60d0",
+            "playable-3d/market-archon.mjs": "100644:00742d634d869b23f5ae8617655804f8743e853d",
+            "playable-3d/market-entrance/entrance.css": "100644:310c4e72472bebe2e45ab3981436f7ecaa03e95b",
+            "playable-3d/market-entrance/mara-portrait.png": "100644:b8ce2347907b2b1360d58948c3cfc858f7c863b6",
+            "playable-3d/market-entrance/market-entrance.mjs": "100644:8a605d2efa22cd01786eca530142a6399ad6783f",
+            "playable-3d/market-entrance/market-trial.jpg": "100644:b6f0f30f7d7af448b1519030740c20e80d882204",
+            "playable-3d/market-learning-routes.mjs": "100644:07a0434ce589c56455fffb2df8f8c0b2890ec5b4",
+            "playable-3d/night-market.js": "100644:ec4c6d8a6ee3f79791ef4cad859036d0249d83fd",
+            "playable-3d/release-manifest.json": "100644:45ab2978cfc694a65dbee3816c1c34cdf6a400b2",
+            "playable-3d/world.js": "100644:fadb25f769de4b4212a2f15108f70bc13f3f191b",
+            "tests/e2e/est-wall-video.spec.js": "100644:f23c088997a3ff06f94d70673f02e041d488c902",
+            "tests/e2e/guest-first.spec.js": "100644:505cdeb9be5f7825b84bbbcb02763ad64ec999b8"
           }
         }
       }
