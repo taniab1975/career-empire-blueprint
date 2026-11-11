@@ -1,8 +1,8 @@
 {
   "sourceCommit": "09fdb6c243ead8c8986153f3ca6fa9ea36b1aa4b",
-  "generatedAt": "2026-11-09T13:27:27.693Z",
+  "generatedAt": "2026-11-11T13:30:03.123192+00:00",
   "revision": "V2.40 / 3 November 2026",
-  "recordSha256": "beaf85b343639c7a129fce4bb2e200310e0bb9941bbd2216117dd0ede02657d6",
+  "recordSha256": "331a17351d3dbbd0e845c1d765ef9501824ab45a00a747af02e54f9022b56420",
   "files": [
     {
       "path": "assets/curriculum-planner-CaXpHcay.js",
@@ -18,7 +18,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "beaf85b343639c7a129fce4bb2e200310e0bb9941bbd2216117dd0ede02657d6"
+      "sha256": "331a17351d3dbbd0e845c1d765ef9501824ab45a00a747af02e54f9022b56420"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -133,6 +133,10 @@
       "sha256": "3335bb60b76d9b903e7fd5b3821e710130556bf8750eec7b946179bb112728bd"
     },
     {
+      "path": "evidence/avatar-campus-kit-20260910/README.md",
+      "sha256": "945de85a0ff382921bd5f6c22f809282e1a69e3f315e2b74df1b044774bb6bb8"
+    },
+    {
       "path": "evidence/avatar-campus-kit-20260910/campus-kit-v0.1.zip",
       "sha256": "6d1c7931b73234a53ca88fda0551734b99f9caa85ff7f41a591f5ca0036a3a05"
     },
@@ -229,20 +233,16 @@
       "sha256": "01ec8bffb5cf7c37b19096e0190071be5cf7e1723846b80ed08beff94712c309"
     },
     {
-      "path": "evidence/avatar-campus-kit-20260910/layout-check.json",
-      "sha256": "822db34b3f0eb93a8296b00eac49bb7385f429b30c5f7ba72db8fc03a4c95c4a"
-    },
-    {
       "path": "evidence/avatar-campus-kit-20260910/layout-D.png",
       "sha256": "f446f2ce76c0713512c060c2fe331277807334b8b2ffd700fb9766ab745b0fbe"
     },
     {
-      "path": "evidence/avatar-campus-kit-20260910/layout-prototype.glb",
-      "sha256": "1a6e8803e5949919396adf13b82c301af62184aaddd54076e83dbe29d273c631"
+      "path": "evidence/avatar-campus-kit-20260910/layout-check.json",
+      "sha256": "822db34b3f0eb93a8296b00eac49bb7385f429b30c5f7ba72db8fc03a4c95c4a"
     },
     {
-      "path": "evidence/avatar-campus-kit-20260910/README.md",
-      "sha256": "945de85a0ff382921bd5f6c22f809282e1a69e3f315e2b74df1b044774bb6bb8"
+      "path": "evidence/avatar-campus-kit-20260910/layout-prototype.glb",
+      "sha256": "1a6e8803e5949919396adf13b82c301af62184aaddd54076e83dbe29d273c631"
     },
     {
       "path": "evidence/avatar-campus-kit-20260910/stats.json",
@@ -261,10 +261,6 @@
       "sha256": "4171a8c79be586084ec8bd5ca81a7eb5f4208976525ae85b9c7d36b7519fd464"
     },
     {
-      "path": "evidence/avatar-campus-kit-20260910/textures/paving-original.png",
-      "sha256": "73e9c90b16d616068a5bbc8394f3fa6828b129275ac6f5e7fe69ce7a2b524508"
-    },
-    {
       "path": "evidence/avatar-campus-kit-20260910/textures/Warm-limestone-basecolor.png",
       "sha256": "4d90a7d0781d8038eea5c24feef06e045cd1da322ce2401b123434f1aa83d22a"
     },
@@ -275,6 +271,10 @@
     {
       "path": "evidence/avatar-campus-kit-20260910/textures/Warm-limestone-roughness.png",
       "sha256": "6c0acadaf607a336c939d604033856d9a40cb55067c773c0b65996bd8fb33d80"
+    },
+    {
+      "path": "evidence/avatar-campus-kit-20260910/textures/paving-original.png",
+      "sha256": "73e9c90b16d616068a5bbc8394f3fa6828b129275ac6f5e7fe69ce7a2b524508"
     },
     {
       "path": "evidence/avatar-campus-kit-20260910/validation.json",
@@ -817,20 +817,20 @@
       "sha256": "e07115eebd10a767d2f60849fa83299a1c9af48b1c233128b86bbdcff527a3a2"
     },
     {
-      "path": "evidence/ecc-hero-20260913/rebuild/ecc-approved-triptych.png",
-      "sha256": "56c33b5b01c72591f250cc8c82b4d72412cfbdec49e90b1ea508bb20b1818383"
-    },
-    {
-      "path": "evidence/ecc-hero-20260913/rebuild/ecc-chapel-source.png",
-      "sha256": "920ffad8be0c46c3a6e1967e8d7c84331dab1c41c4443df68236150c7ad52b3d"
-    },
-    {
       "path": "evidence/ecc-hero-20260913/rebuild/ECC-courtyard-rebuild-review.html",
       "sha256": "0dd758103e5671632306f5fba31b607c490dd42cf36dd395fee2843539055e14"
     },
     {
       "path": "evidence/ecc-hero-20260913/rebuild/ECC-courtyard-rebuild-review.md",
       "sha256": "f6a9a98e753195e6a5d4efd7677458a7dc00fc2b4920d05e2768aa993a13cd5f"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rebuild/ecc-approved-triptych.png",
+      "sha256": "56c33b5b01c72591f250cc8c82b4d72412cfbdec49e90b1ea508bb20b1818383"
+    },
+    {
+      "path": "evidence/ecc-hero-20260913/rebuild/ecc-chapel-source.png",
+      "sha256": "920ffad8be0c46c3a6e1967e8d7c84331dab1c41c4443df68236150c7ad52b3d"
     },
     {
       "path": "evidence/ecc-hero-20260913/rebuild/ecc-rebuild-after.png",
@@ -941,6 +941,10 @@
       "sha256": "3c75a26dbac4ac4fe465ebdee58fff30f480955a06778a0c4b524f4b237eee8d"
     },
     {
+      "path": "evidence/echo-20260925/Echo-review.glb",
+      "sha256": "d0ca6bab3249468eabba32c3858044cab0c3e046f3e5671037e35c68635bc8e1"
+    },
+    {
       "path": "evidence/echo-20260925/echo-arrival-desktop.png",
       "sha256": "0483da2fbc00a589b49cccf13cd2d292e94bd10daf6909d20c01747b9fc9d716"
     },
@@ -979,10 +983,6 @@
     {
       "path": "evidence/echo-20260925/echo-resources-desktop.png",
       "sha256": "c764a8491fb685db92cc88e2898aeb0efeb590a51e41e6ff1555d2c733f34a7c"
-    },
-    {
-      "path": "evidence/echo-20260925/Echo-review.glb",
-      "sha256": "d0ca6bab3249468eabba32c3858044cab0c3e046f3e5671037e35c68635bc8e1"
     },
     {
       "path": "evidence/echo-20260925/echo-sharp-entry.png",
@@ -1609,16 +1609,16 @@
       "sha256": "3411692820cb8d47543f69496aa25fd603a358f4498046f41c508a5a3342210e"
     },
     {
-      "path": "playable-3d/vendor/rapier/rapier_wasm3d_bg.wasm",
-      "sha256": "c8cf07035996629dbf6156c82fec836ddc1c6cff78cf6afde726c30585da2bfd"
+      "path": "playable-3d/vendor/rapier/rapier.mjs",
+      "sha256": "1ade6875c663c1398f490d4fa67837386b2d7e0aad45fe54e9b7af52b8198a49"
     },
     {
       "path": "playable-3d/vendor/rapier/rapier_wasm3d.js",
       "sha256": "6e15d8a85f96c3d80e9eb0fd5d9e78d15e3c3a70a3088a39a685117d5ffb1730"
     },
     {
-      "path": "playable-3d/vendor/rapier/rapier.mjs",
-      "sha256": "1ade6875c663c1398f490d4fa67837386b2d7e0aad45fe54e9b7af52b8198a49"
+      "path": "playable-3d/vendor/rapier/rapier_wasm3d_bg.wasm",
+      "sha256": "c8cf07035996629dbf6156c82fec836ddc1c6cff78cf6afde726c30585da2bfd"
     },
     {
       "path": "playable-3d/vendor/three/build/three.core.js",
@@ -1881,6 +1881,14 @@
       "sha256": "7c5336692c9c957fcd6e3f60843ca394bbf1de15ca0750f77798529fea920962"
     },
     {
+      "path": "production/entrance-release-coordination-20261111.html",
+      "sha256": "d54f7ec5efaba5e89522aab63cc99426757ceb0f406a41c7009c288adc328755"
+    },
+    {
+      "path": "production/entrance-release-coordination-20261111.md",
+      "sha256": "a055bc2a96f175df70103ab0a3562f227096c38b4972e825bbc8f305c632a1c1"
+    },
+    {
       "path": "production/environment-release-20260912.md",
       "sha256": "50ba35becd457f7b6dd1067765dd743a2a4bbe6642a5952ad8e0bed37e810bf5"
     },
@@ -1945,6 +1953,14 @@
       "sha256": "117877666f2002cbcc5f5ea057c3981af85f51c044f15b94dfd77e8e53c83e55"
     },
     {
+      "path": "production/initiative-shared-learning-20261110.html",
+      "sha256": "484926570052d6abe22885e920389273fc9b34f18e1956c494a35ec9bd4bfdda"
+    },
+    {
+      "path": "production/initiative-shared-learning-20261110.md",
+      "sha256": "a05293071a5af78e67d7feb559ded3d9aef351fb8d52c6ca30f770669846c61b"
+    },
+    {
       "path": "production/journey-market-reconciliation-20261024.html",
       "sha256": "35654128752d3a86fc62ffdeb96feecdd0fab52879534b1e30b3d192921a3dff"
     },
@@ -1975,6 +1991,14 @@
     {
       "path": "production/market-storyboard-20261024.md",
       "sha256": "510e62148092a9a53227e3d13d3aa75e3e39ded57ee4224a683e7dc87ba5b25a"
+    },
+    {
+      "path": "production/markets-entrance-initiative-20261111.html",
+      "sha256": "3b437578b7561baa8427ad3bd437e38b90c9fc3726a41833f4218cc4a89511cd"
+    },
+    {
+      "path": "production/markets-entrance-initiative-20261111.md",
+      "sha256": "64636c43686a92351b567637001c4f2a29db0b21dee9ffd184a80ea0a682f358"
     },
     {
       "path": "production/markets-implementation-review-20261015.html",
@@ -2608,5 +2632,14 @@
       "path": "st4s-readiness.json",
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
     }
-  ]
+  ],
+  "recordPublicationScope": "Only exact33sourcebinding record138,its133/137related context,three scoped source documents and UNVERIFIED evidence reference;existing appassets/navigation/curriculum/other publiccontent unchanged.",
+  "recordSourceReview": {
+    "integration": "CE-CHANGE-20261111-138",
+    "phase": "pending",
+    "sourceProjectId": "game-initiative-release-20261111",
+    "gameBase": "d3544e129682381d397417c08bed0242d5e58d88",
+    "provenance": "Unchanged appbuild sourceCommit retained;new record/doc bytes come from actual reviewed canonical source. Staged game tree is a tree,not an invented source commit. Game publication is separate.",
+    "bindingSha256": "6251df7601a23807c28fe4040b273846fadd9704fa64d752bba05540e2f7c165"
+  }
 }

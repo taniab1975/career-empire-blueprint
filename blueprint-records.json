@@ -37760,6 +37760,76 @@
           "deployment": "Pending generated reader publication; no private-source or game upload.",
           "testing": "Earlier115tests/types/lint/client builds and rendered structure/preservation checks pass; final combined guards and live checks pending. User visually reviewed local preview and requests publication.",
           "taniaAcceptance": "User says current preview looks great for now and requests live upload. Capture dates/remaining media and proposal boundaries remain explicit."
+        },
+        {
+          "id": "CE-CHANGE-20261110-133",
+          "date": "2026-11-10",
+          "title": "Initiative shared teaching, pathways and reinforcement candidate",
+          "domain": "Source-backed learning design, local component evidence and governance maintenance",
+          "source": "CE-DISCUSSION-42ae5993-c790-449b-8a62-6fcc0a245266; existing scoped Initiative request recorded by the integrator; no new release approval.",
+          "owner": "Blueprint maintainer: canonical records; Initiative integrator: shared runtime; Archon owner: Archon runtime",
+          "status": "Local entrance/portfolio and Archon frontend evidence refreshed;actual hosted/teacher/classroom release pending",
+          "rationale": "Make the shared lesson, five applied routes and optional reinforcement understandable without presenting component tests as integrated game or learner evidence.",
+          "dependencies": [
+            "CE-CHANGE-20261109-132"
+          ],
+          "evidence": [
+            "docs/production/initiative-shared-learning-20261110.md"
+          ],
+          "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred.",
+          "supersededRecord": null,
+          "designApproval": "Existing bounded Initiative request; no school, curriculum-year, guard-setting or deployment approval inferred.",
+          "implementation": "Integrated14fingerprinted files in the existing initiative-local working copy at base a997dbc: three primary choices, preserved secondary arcade practice, shared lesson/notes persistence, original Mara entry/resume and optional configured Archon frame. Separate legacy five-pathway module and wider campus remain distinct.",
+          "deployment": "Local uncommitted integration only; no commit,push,deployment,hosted Archon URL or teacher backend.",
+          "testing": "Integrator reports 414/414 unit passes after a retained 412-pass/2-fail run, plus actual-source isolated fixtures at 1280/390 px with zero page errors. Maintainer independently verified all 14 applied-file hashes and both existing PNGs. Canonical reconciliation passed 42 Blueprint tests, TypeScript, scoped lint, continuity, seven static reader renders and local export parity. No GUI/browser or denied probe was used; no real service, full campus, physical device or classroom acceptance claimed. Later independent supplied local full-match report: Local actual-lobby evidence records 27 legal moves, 8 duels, winner A, agreement across three seats, keyboard Play again and same-seat Market return/resume. Later moves use the real local room API, not physical board input. No hosted acceptance. Later137serial integration: Local four-route infographic entrance and anonymous Initiative STAR/PDF log are integrated and hash-verified. Actual-source1280/390fixtures and414runtime units are reported passed. Archon28filefrontend and six synthetic failure/retry cases pass; cloud PostgreSQL/Deno validation uses a test RPC shim,not genuine hosted Supabase acceptance. Cloud report directly read:real PostgreSQL17.11,Deno2.9.6,17HTTPcalls,125callmatch and processrestart/three-seatresume pass through testRPCshim;NOT genuine Supabase gateway/PostgREST/Auth.",
+          "taniaAcceptance": "Bounded local integration and safeguard installation authorized. Local fictional three-seat evidence does not establish hosted, teacher, classroom or publication acceptance."
+        },
+        {
+          "id": "CE-CHANGE-20261111-137",
+          "date": "2026-11-11",
+          "title": "Illustrated Sunday Markets entrance and Initiative portfolio models",
+          "domain": "Market entrance and Initiative evidence",
+          "source": "CE-DISCUSSION-4c0f0090-f583-496a-bbcd-0b9ee381ae7e and Tania’s Cupcake.png visual reference",
+          "owner": "Market integration maintainer and Blueprint maintainer",
+          "status": "Final infographic entrance and anonymous portfolio locally integrated;responsive fixtures verified;not published",
+          "rationale": "Show what initiative looks like at the Market entrance and connect it to practical routes and authentic STAR evidence.",
+          "dependencies": [
+            "CE-CHANGE-20261110-133"
+          ],
+          "evidence": [
+            "docs/production/markets-entrance-initiative-20261111.md"
+          ],
+          "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt.",
+          "supersededRecord": null,
+          "designApproval": "Tania requested the magazine-style entrance, four routes and Portfolio Builder examples. Latest explicit user request covers final Market entrance/anonymous portfolio/PDF with logo family publication;qualification and consequential unavailable-Archon staging remain separately unresolved.",
+          "implementation": "Serial10filefinal infographic integration at existing immediate Market entry;actual Market trial/Mara imagery,five ways/three benefits and left four routes. Earlier comic/hotspots superseded. Portfolio12filepredecessor is preserved with explicit six-file entrance successors;dashboard/data/helper bytes unchanged after portfolio integration.",
+          "deployment": "Local uncommitted runtime integration only;no live endpoint,commit,push,game/Blueprint publication or published receipt.",
+          "testing": "Independent maintainer10entrance and12portfolio->entrance current hash-chain checks pass;all28Archonpackage/current-owner hashes pass. Integrator reports actual-source1280/390four-route,anonymous zero-storage/zero-account-service,one-page PDF and Market return acceptance;414runtime units and runtime dev/299HEADassets/105modules check pass. Six synthetic410/429/503cases through final entrance pass. Authenticated teacher/full-campus/physical-device/nativeprint remain untested. Broad Megatrends ESM snapshot parser failure remains separately owned;no scan coverage/exclusion change here.",
+          "taniaAcceptance": "Design direction and serial local integration supported by supplied handoffs;no final public appearance,hosted backend,authenticated teacher or classroom acceptance inferred."
+        },
+        {
+          "id": "CE-CHANGE-20261111-138",
+          "date": "2026-11-11",
+          "title": "Review exact Market entrance and anonymous portfolio release source bindings",
+          "domain": "Bounded source qualification and canonical release/protection coordination",
+          "source": "Parent relays explicit user request to publish final Market entrance and anonymous Initiative portfolio/PDF with logo family;sole integrator01a1c281-2bf4-7621-a73c-468f7c4a301f owns serial runtime successor. PROTECTION-HANDOFF.md and frozen39filemanifest reviewed;no runtime/settings/publication authorized for this canonical maintenance task.",
+          "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+          "status": "Exact33source review qualified;scoped public Blueprint binding publication pending;game publication not claimed",
+          "rationale": "Preserve publication intent while preventing stale39filebindings,dirty-treepublication,privateBlueprint export and unclassified CI failures from being treated as a qualified final release.",
+          "dependencies": [
+            "CE-CHANGE-20261111-137",
+            "CE-CHANGE-20261110-133"
+          ],
+          "evidence": [
+            "docs/production/entrance-release-coordination-20261111.md"
+          ],
+          "nextAction": "Publish only scoped source-review records/documents/bindings into existing public Blueprint,preserving all unrelated livecontent;independently verify publicrecord/manifest/docs. Only then complete thissource-reporting integration and issue receipt through unchanged registered guard with explicit33paths/evidence. Soleintegrator owns gamecommit/normalguardedpush/livegameverification;no hosted/backend/classroomcompletion claimed.",
+          "supersededRecord": null,
+          "designApproval": "Explicit requested Market entrance/anonymous PDF/logos publication is recorded;do not ask for blanket publication approval again. Exact unavailable-Archon staging and final logo/repair source qualification remain unresolved. No gateway/security-setting approval inferred. Parent resolves independent frontend publication with Archon clearly unavailable under existing user intent. Routine standalone checkout/registration/standard-copy/link preparation authorized;only executable-hook activation is separately pending. Exact trusted action-time transcript authorizes activating the existing pre-push guard in this separate checkout;useryes received. No global config,remote permission or credential change.",
+          "implementation": "Freeze actual registered source stagedtree1a521919b3536fa2d9666be886f7b3279d073eab:27productfiles,5unchangedprotectionfiles,generatedmanifest=33Gitversions,zero deletions. Authorizednative2560imageSHA9836a65c26a0d1262ee1647f10f5c682814dcccb8bb1f11fc493e2e535964faeandmanifestimageonlysuccessor verified;other26productfilesunchanged. Final3fileportfolioaesthetic delta preserves original dashboard logic outside2publicpresentationinsertions and cachequery,reuses actualMarket/Mara/sixlogos. Archon visiblycomingsoon;hosted28/Flyover/SAMtakeover excluded.",
+          "deployment": "Source review only;no gamecommit/push/deployment by canonicalmaintainer. Publicbinding publication is the remaining source-reporting step.",
+          "testing": "Independent33stagedmode/blobmatch,3presentationdeltaSHAreview and exactpublic-only diff review. Supplied3preservation/2privacytests pass. Parent confirms exactfinal27sourcecloud1280/390aesthetic/images/sixlogos/Notes/Mara/comingsoon/anonymousprivacy/STAR/PDF/Marketreturn passes,all27hashes and315manifestentries/104modules verified. Both PDFs visuallyoneA4page/all5responses/decorativeimagesabsent;initial2page harnessscreenmediaerror retained,corrected only test printmedia. Prior372units/22originalbrowserchecks retained with exactpredecessor provenance. Threebaseline-identical rendererchecks remain pending nativeacceptance,notpassed/waived.",
+          "taniaAcceptance": "Existing explicit frontend/anonymousportfolioPDF/sixlogos publication intent and comingsoonArchonstage retained;finalaesthetic functional/visual cloudacceptance confirmed. Hookactivation explicitlyapproved/complete. Nativehardware,authenticatedteacher and hosted/backend/classroom acceptance remain distinct."
         }
       ],
       "sessionStart": [
@@ -48432,6 +48502,21 @@
         "validUntil": null,
         "approvedBy": null,
         "remediation": "Existing dated discovery/game checkpoint only; all seventeen security triggers remain unknown and require actual release/configuration review. Verify affected deployed fields/configuration and qualified privacy/security evidence; no school or account-safety approval follows from this mapping."
+      },
+      {
+        "id": "WA-EV-INITIATIVE-CANDIDATE-20261110",
+        "title": "Initiative isolated candidate scope and unfinished acceptance",
+        "purpose": "implementation",
+        "status": "UNVERIFIED",
+        "applicability": "unverified",
+        "owner": "Initiative integrator and Blueprint maintainer; qualified privacy/security review pending",
+        "location": "docs/production/initiative-shared-learning-20261110.md",
+        "sha256": null,
+        "validationDate": null,
+        "validatedBy": null,
+        "validUntil": null,
+        "approvedBy": null,
+        "remediation": "Verify actual host identity, school isolation, local/remote evidence lifecycle, truthful saves, retries and teacher access with fictional accounts before any real learner or release claim. The linked document records scope, not implementation-control approval. Latest local entrance/anonymous-PDF and isolated real-engine cloud tests are recorded;genuine hosted project/gateway/Auth/organizer and teacher security acceptance remain required. No UNVERIFIEDstatus promoted."
       }
     ],
     "packApproval": null,
@@ -50622,6 +50707,19 @@
   ],
   "buildRecords": [
     {
+      "id": "BUILD-ENTRANCE-RELEASE-20261111",
+      "title": "Market entrance and anonymous portfolio · exact source review",
+      "status": "Exact27product/33source versions qualified;sourcebinding publication pending;game not published here",
+      "owner": "Blueprint maintainer:source review/publicbindings;soleintegrator:gamepublication",
+      "date": "11 November2026",
+      "decision": "CE-CHANGE-20261111-138",
+      "done": "Registered source/stagedtree2ac9527includes27frontendproductfiles,5unchangedguardfiles and generatedmanifest;Archonvisiblycomingsoon;originalMara/queue/teaching/paypreserved.",
+      "evidence": [],
+      "checks": "Final27sourcecloud1280/390aesthetic/native2560image/sixlogos/anonymousprivacy/PDF/Marketreturn passes as reported;315hashes104modules;PDFoneA4/allfivefields/no decorations. Exact33Gitmode/blobversions independently reviewed.",
+      "limits": "3baseline-identical hardwarechecks pending nativeacceptance;no authenticatedteacher/nativeprintdialog,hostedgateway or classroom/mastery acceptance. Relatedproductwork remainsinprogress.",
+      "acceptance": "User-authorized frontend/PDF/logo scope qualified;source-reporting publication still needs independentliveverification before anyvalidatedreceipt. No gamepush by maintainer."
+    },
+    {
       "id": "BUILD-ECHO-20260925",
       "title": "Echo beside the playable ECC avatar",
       "status": "Live PR38/39: sharp stage-aware entry verified; school documents and broader device acceptance pending",
@@ -51742,10 +51840,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20261109-132"
+        "CE-CHANGE-20261111-138"
       ],
-      "scope": "Phase 1 Market entrance with three Initiative learning pathways.",
-      "disclosure": "Reader-only release. Market route and PDF export are proposed. Existing Mara captures remain dated evidence and Careers Archon is a separate local prototype. No game deployment or learner assessment claim.",
+      "scope": "Scoped public source-review bindings for exact33Market entrance/anonymousportfolio/logos versions;unchanged public appassets/unrelatedcontent;no gamepush or hosted/schoolrelease.",
+      "disclosure": "Related133/137 remain incomplete product integrations;135/136andallotherpendingwork preserved.138source review is ready for its independent publicrecord/doc verification only. Threebaseline-identical nativehardwarechecks,authenticatedteacher/nativeprint/hostedbackend/classroom gaps remain unverified. No gamepublication or productioncomplete receipt inferred.",
       "requiredReviewFiles": [
         "data/operations.json",
         "data/blueprint.ts",
@@ -51776,20 +51874,31 @@
         "app/site-guide.tsx",
         "data/learning-planner.json",
         "data/market-storyboard.json",
-        "app/markets-storyboard-table.tsx"
+        "app/markets-storyboard-table.tsx",
+        "data/teacher-guide.json",
+        "data/wa-assessment-readiness.json",
+        "scripts/project-guard.mjs",
+        "docs/production/initiative-shared-learning-20261110.md",
+        "public/evidence/phase1-local-20261110/phase1-three-options-1280.png",
+        "public/evidence/phase1-local-20261110/phase1-three-options-390.png",
+        "app/style-guide.tsx",
+        "docs/production/flyover-startup-repair-20261110.md",
+        "docs/production/flyover-20260917.md",
+        "docs/production/markets-entrance-initiative-20261111.md",
+        "docs/production/entrance-release-coordination-20261111.md"
       ],
       "reviews": [
         {
           "path": "data/operations.json",
-          "sha256": "1576b9422001c29c3ec054c06d964ee3015c0206472e413406b0a8087f0e00e9",
-          "reviewedAt": "2026-11-09",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification."
+          "sha256": "c61b786110212fdd003be31af4c4e5d6930cac4f37d22f2cc2581759dc19009f",
+          "reviewedAt": "2026-11-10",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Semantic comparison against the exact previous reviewed bytes: current plan/next action, roadmap, Initiative status and records133-135 only. Earlier material records and protected decisions retained; no product or deployment acceptance added. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Final exact metadata delta reviewed: retire completed Atlas-contract action in134and record actual115/115test result in135. No acceptance flag or behavior changed. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Exact bounded136delta reviewed: isolated Flyover entrance-start defect/candidate provenance and serial release ownership only. Candidate not shared-applied or published;raw footage not live;Safari/Chapel-return/final integration open. Prior records,navigation,Initiative and release gates preserved. Exact136final-candidate acceptance delta reviewed against unchanged five source fingerprints and supplied no-error Chapel/arrival results;retire candidate-only Chapel gap,retain Safari/serial-integration/publication requirements. No acceptance criteria,completion flags or runtime changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Two priority-prefix strings restored to established Author and review core learning materials wording after production-plan regression caught abbreviation;scope and remaining gates unchanged. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed actual ordinary source registration/standardcopy/link and resolved frontendstage successor.45bindingdraft stopped beforeapplication;26hashes/3contractregressions and real sparseguardsnapshot verified. No finalprojectChanges,receipt,corehookactivation or runtime application. Concurrent datedCEAWAappendix recovered from exact priorprefix,inspected and retained without recertifying unrelated claims. Actual32staged1dc6/cfcbGitversions,threeavailabilitydeltaSHAand2actualsourcecases reviewed;cloudfinalavailabilitypass attributed. Exactuseryeshookactivation verified localonly/unchangedcode. Newuserportfolioaesthetic successorholds obsoletefreeze;no projectChanges/receipts. ConcurrentAGENTSdatedCEAWAappendix recovered by exact priorprefix,inspected/preserved without recertifying unrelated release. Finalexact33source/reporting review:staged1a5219native2560image successor,27qualifiedproducts+5unchangedguards+315entrymanifest. Finalcloudacceptance attributed,actualGitversions and public-onlydiff checked. Source-reporting publication alone pending;product/nativehardware/teacher/hostedgaps retained. Verified HDuserappendix and concurrent datedAGENTSnotes preserved without unrelatedpublication."
         },
         {
           "path": "data/blueprint.ts",
-          "sha256": "4a50966bb4b230145af88bd616afe9d6bdb5ddc2c271f672771986a003990b9b",
-          "reviewedAt": "2026-11-09",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification."
+          "sha256": "df02ac268a9cb383ae579a11f6f9d2c191fbd8dcf9457e98ad255c418e4a8f6e",
+          "reviewedAt": "2026-11-10",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact diff: one labelled source entry and one build evidence entry for local Phase1. Two synthetic fixture PNGs, 414 integrator tests and absent real services are explicit. All other curriculum/design data unchanged. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Exact bounded136delta reviewed: isolated Flyover entrance-start defect/candidate provenance and serial release ownership only. Candidate not shared-applied or published;raw footage not live;Safari/Chapel-return/final integration open. Prior records,navigation,Initiative and release gates preserved. Reviewed two-field catalogue correction:explicit source-reference label and empty build-image evidence array;document stays in source catalogue,no image copied or test changed. Exact136final-candidate acceptance delta reviewed against unchanged five source fingerprints and supplied no-error Chapel/arrival results;retire candidate-only Chapel gap,retain Safari/serial-integration/publication requirements. No acceptance criteria,completion flags or runtime changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed actual ordinary source registration/standardcopy/link and resolved frontendstage successor.45bindingdraft stopped beforeapplication;26hashes/3contractregressions and real sparseguardsnapshot verified. No finalprojectChanges,receipt,corehookactivation or runtime application. Concurrent datedCEAWAappendix recovered from exact priorprefix,inspected and retained without recertifying unrelated claims. Actual32staged1dc6/cfcbGitversions,threeavailabilitydeltaSHAand2actualsourcecases reviewed;cloudfinalavailabilitypass attributed. Exactuseryeshookactivation verified localonly/unchangedcode. Newuserportfolioaesthetic successorholds obsoletefreeze;no projectChanges/receipts. ConcurrentAGENTSdatedCEAWAappendix recovered by exact priorprefix,inspected/preserved without recertifying unrelated release. Finalexact33source/reporting review:staged1a5219native2560image successor,27qualifiedproducts+5unchangedguards+315entrymanifest. Finalcloudacceptance attributed,actualGitversions and public-onlydiff checked. Source-reporting publication alone pending;product/nativehardware/teacher/hostedgaps retained. Verified HDuserappendix and concurrent datedAGENTSnotes preserved without unrelatedpublication."
         },
         {
           "path": "app/blueprint-surfaces.tsx",
@@ -51811,9 +51920,9 @@
         },
         {
           "path": "AGENTS.md",
-          "sha256": "5ed563f4c8b070a28c9473853a38d42db8202e10b6cef03f5b9297ea0d0fb571",
-          "reviewedAt": "2026-11-09",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification."
+          "sha256": "3c4fa2c8a64aba38bdae7102604101e6fde59406cf165c61018a028d8af7178f",
+          "reviewedAt": "2026-11-10",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Append-only diff against committedb59a0df reviewed in full, including retained historical third-party/source notes and current135header. Historical reports are not independently recertified as fresh research. No new external action, access grant or production authority inferred. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Exact bounded136delta reviewed: isolated Flyover entrance-start defect/candidate provenance and serial release ownership only. Candidate not shared-applied or published;raw footage not live;Safari/Chapel-return/final integration open. Prior records,navigation,Initiative and release gates preserved. Exact136final-candidate acceptance delta reviewed against unchanged five source fingerprints and supplied no-error Chapel/arrival results;retire candidate-only Chapel gap,retain Safari/serial-integration/publication requirements. No acceptance criteria,completion flags or runtime changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed actual ordinary source registration/standardcopy/link and resolved frontendstage successor.45bindingdraft stopped beforeapplication;26hashes/3contractregressions and real sparseguardsnapshot verified. No finalprojectChanges,receipt,corehookactivation or runtime application. Concurrent datedCEAWAappendix recovered from exact priorprefix,inspected and retained without recertifying unrelated claims. Actual32staged1dc6/cfcbGitversions,threeavailabilitydeltaSHAand2actualsourcecases reviewed;cloudfinalavailabilitypass attributed. Exactuseryeshookactivation verified localonly/unchangedcode. Newuserportfolioaesthetic successorholds obsoletefreeze;no projectChanges/receipts. ConcurrentAGENTSdatedCEAWAappendix recovered by exact priorprefix,inspected/preserved without recertifying unrelated release. Finalexact33source/reporting review:staged1a5219native2560image successor,27qualifiedproducts+5unchangedguards+315entrymanifest. Finalcloudacceptance attributed,actualGitversions and public-onlydiff checked. Source-reporting publication alone pending;product/nativehardware/teacher/hostedgaps retained. Verified HDuserappendix and concurrent datedAGENTSnotes preserved without unrelatedpublication."
         },
         {
           "path": "README.md",
@@ -51847,9 +51956,9 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "f7edbafa04c137b2578ff1059f0c7e7b7315e5580683be20c0622f400585332f",
-          "reviewedAt": "2026-11-09",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification."
+          "sha256": "39e5b2dc4a117e72bc8562c136af01829c2b7f62afcd77d44421ec3b4ed1e03b",
+          "reviewedAt": "2026-11-10",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact diff against previous reviewed committed bytes: existing active October canonical root and one deterministic document export. No guard, validator or publication policy changes. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact one-row registration reviewed for136local document HTML/Markdown generation;no exporter logic,validation,publishing or unrelated document changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims."
         },
         {
           "path": "scripts/prepare-pages.mjs",
@@ -51883,9 +51992,9 @@
         },
         {
           "path": "app/blueprint-detail.tsx",
-          "sha256": "835e1cb0f00e7b170d44520a80c1b4e7cdcb529bf5adbe546ae17e08e3b7816b",
-          "reviewedAt": "2026-11-09",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification."
+          "sha256": "afdc9a6a23209ab133c5f5f10e898b84ee13935b1ded97f36c91a799c2143626",
+          "reviewedAt": "2026-11-10",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact three-line diff: context basePath and factual local Phase1 status/link. No navigation, state, service or backend behavior changed. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims."
         },
         {
           "path": "data/style-guide.json",
@@ -51895,9 +52004,9 @@
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "811ed8990287a42c290cda99904f8da689bf0785a2aa8f688dfda6e013fe7586",
-          "reviewedAt": "2026-11-09",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification."
+          "sha256": "23abfcd7695c6325093e2e93d840874d5767c82bfc5acab8f1638925de583e4c",
+          "reviewedAt": "2026-11-10",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact prior reviewed file recovered; added current checkpoint/source-maintenance headers. Retained history unchanged; no release/actual-service acceptance invented. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete."
         },
         {
           "path": "docs/production/visual-register.md",
@@ -51919,9 +52028,9 @@
         },
         {
           "path": "app/phase-walkthrough.tsx",
-          "sha256": "aae3e1019e4d594d119bccdf372a27ecef55d0df099553ff43dfb178f31248a6",
-          "reviewedAt": "2026-11-09",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification."
+          "sha256": "bb771930e3f51fd5084d8e5c030fca41babe6ac5729e9da69ec127d020f9dffa",
+          "reviewedAt": "2026-11-10",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact previous reviewed file recovered; only unconditional data-context/base-path link and two factual status paragraphs added. Existing choices, handlers, storyboard and routes retained. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims."
         },
         {
           "path": "app/phase-reader-copy.ts",
@@ -51943,9 +52052,9 @@
         },
         {
           "path": "data/learning-planner.json",
-          "sha256": "89220879baabdc2f15c4c786971775d75e3df3cd011f11ba19ba2c1ff3c5ddf9",
-          "reviewedAt": "2026-11-09",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification."
+          "sha256": "e2208d57ec143ab3d8dc787d4a2ec2dd06286ed2b8fcb4fa5c683b8c78597637",
+          "reviewedAt": "2026-11-10",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact prior reviewed file recovered; only Phase1teaching/product/limit prose changed. All197rows, skills, launch links and Phases2-11 retained. Official11requirement source parity attested without changing baseline. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete."
         },
         {
           "path": "data/market-storyboard.json",
@@ -51958,6 +52067,72 @@
           "sha256": "d11eb1580b022b73cf0bb961da62ad7db5d09359dc0c14ab19229775d9303ee0",
           "reviewedAt": "2026-11-09",
           "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification."
+        },
+        {
+          "path": "data/teacher-guide.json",
+          "sha256": "a25d2102348170cd835f25bd00fdf5509e960eddbc15a2248834381f3432892b",
+          "reviewedAt": "2026-11-10",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Only a pending-limit note added/revised: new notes local-only, no teacher service; legacy five-route defects not declared fixed. Screenshots and service authority unchanged. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Consolidated latest137anonymous-portfolio boundary into existing Initiative shared candidate pending item selected by teacher guide,retaining actual teacher gap;no teacher runtime,images or access function changed."
+        },
+        {
+          "path": "data/wa-assessment-readiness.json",
+          "sha256": "c445a133b9f79a9bc25057cc892d5348a1771460c2a7918cd36577fbc7d99bab",
+          "reviewedAt": "2026-11-10",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Only one UNVERIFIED candidate-scope evidence entry added; no approvals, verified-control status, provider or access setting changed. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims."
+        },
+        {
+          "path": "scripts/project-guard.mjs",
+          "sha256": "0c2bba405cdac0d3864d63d8d564ee980c5e2e2b5c4bbdadf662f0a1f7db5ba8",
+          "reviewedAt": "2026-11-10",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact committedHEADbytes SHA0c2bba40; previously approved full inventory restoration. Local Atlas/Megatrends copies match and all protection checks pass. No exclusions or comparator weakening. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete."
+        },
+        {
+          "path": "docs/production/initiative-shared-learning-20261110.md",
+          "sha256": "a05293071a5af78e67d7feb559ded3d9aef351fb8d52c6ca30f770669846c61b",
+          "reviewedAt": "2026-11-10",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Current document reviewed: exact local implementation scope, fictional frame, absent teacher service, source parity and unapplied protection proposal. Existing images labelled isolated/synthetic; annualEST/full-course/assessment/classroom limits retained. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims."
+        },
+        {
+          "path": "public/evidence/phase1-local-20261110/phase1-three-options-1280.png",
+          "sha256": "ece7fd378c82946ac88b815046788bb4b5de5df9073bba1e00203a41b05e48d0",
+          "reviewedAt": "2026-11-10",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Existing integrator capture inspected and exact-byte matched; synthetic actual-source fixture, not live campus or real service. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete."
+        },
+        {
+          "path": "public/evidence/phase1-local-20261110/phase1-three-options-390.png",
+          "sha256": "e13a2d260da8a69e7713aa3c66ab88c076be04ebc2fe697cb2af38731175a84f",
+          "reviewedAt": "2026-11-10",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Existing integrator capture inspected and exact-byte matched; synthetic390pxfixture fits; no physical-device or classroom acceptance claim. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete."
+        },
+        {
+          "path": "app/style-guide.tsx",
+          "sha256": "ed13634aa46464ee7caa05e8c2a386ee67576a2bcd4b0da8924dc46543952341",
+          "reviewedAt": "2026-11-10",
+          "method": "Required visual-module coverage for maintenance135 reviewed. Actual current bytes match independently verified published source b59a0df exactly; active source rendering/data boundaries inspected and unchanged hash evidence reused. No art,GUI,game,security or publication acceptance added."
+        },
+        {
+          "path": "docs/production/flyover-startup-repair-20261110.md",
+          "sha256": "31b40eabc0f5b2d1988c9840d8fe686229e0d3ad1e2809a48377bb67df6e51c2",
+          "reviewedAt": "2026-11-10",
+          "method": "Exact bounded136delta reviewed: isolated Flyover entrance-start defect/candidate provenance and serial release ownership only. Candidate not shared-applied or published;raw footage not live;Safari/Chapel-return/final integration open. Prior records,navigation,Initiative and release gates preserved. Exact136final-candidate acceptance delta reviewed against unchanged five source fingerprints and supplied no-error Chapel/arrival results;retire candidate-only Chapel gap,retain Safari/serial-integration/publication requirements. No acceptance criteria,completion flags or runtime changed."
+        },
+        {
+          "path": "docs/production/flyover-20260917.md",
+          "sha256": "c77984000fd0c2061651628560d0141585afc82a75b17923166d0610b6330b46",
+          "reviewedAt": "2026-11-10",
+          "method": "Exact bounded136delta reviewed: isolated Flyover entrance-start defect/candidate provenance and serial release ownership only. Candidate not shared-applied or published;raw footage not live;Safari/Chapel-return/final integration open. Prior records,navigation,Initiative and release gates preserved. Exact136final-candidate acceptance delta reviewed against unchanged five source fingerprints and supplied no-error Chapel/arrival results;retire candidate-only Chapel gap,retain Safari/serial-integration/publication requirements. No acceptance criteria,completion flags or runtime changed."
+        },
+        {
+          "path": "docs/production/markets-entrance-initiative-20261111.md",
+          "sha256": "64636c43686a92351b567637001c4f2a29db0b21dee9ffd184a80ea0a682f358",
+          "reviewedAt": "2026-11-11",
+          "method": "Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed actual ordinary source registration/standardcopy/link and resolved frontendstage successor.45bindingdraft stopped beforeapplication;26hashes/3contractregressions and real sparseguardsnapshot verified. No finalprojectChanges,receipt,corehookactivation or runtime application. Concurrent datedCEAWAappendix recovered from exact priorprefix,inspected and retained without recertifying unrelated claims. Actual32staged1dc6/cfcbGitversions,threeavailabilitydeltaSHAand2actualsourcecases reviewed;cloudfinalavailabilitypass attributed. Exactuseryeshookactivation verified localonly/unchangedcode. Newuserportfolioaesthetic successorholds obsoletefreeze;no projectChanges/receipts. ConcurrentAGENTSdatedCEAWAappendix recovered by exact priorprefix,inspected/preserved without recertifying unrelated release. Finalexact33source/reporting review:staged1a5219native2560image successor,27qualifiedproducts+5unchangedguards+315entrymanifest. Finalcloudacceptance attributed,actualGitversions and public-onlydiff checked. Source-reporting publication alone pending;product/nativehardware/teacher/hostedgaps retained. Verified HDuserappendix and concurrent datedAGENTSnotes preserved without unrelatedpublication."
+        },
+        {
+          "path": "docs/production/entrance-release-coordination-20261111.md",
+          "sha256": "a055bc2a96f175df70103ab0a3562f227096c38b4972e825bbc8f305c632a1c1",
+          "reviewedAt": "2026-11-11",
+          "method": "Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed actual ordinary source registration/standardcopy/link and resolved frontendstage successor.45bindingdraft stopped beforeapplication;26hashes/3contractregressions and real sparseguardsnapshot verified. No finalprojectChanges,receipt,corehookactivation or runtime application. Concurrent datedCEAWAappendix recovered from exact priorprefix,inspected and retained without recertifying unrelated claims. Actual32staged1dc6/cfcbGitversions,threeavailabilitydeltaSHAand2actualsourcecases reviewed;cloudfinalavailabilitypass attributed. Exactuseryeshookactivation verified localonly/unchangedcode. Newuserportfolioaesthetic successorholds obsoletefreeze;no projectChanges/receipts. ConcurrentAGENTSdatedCEAWAappendix recovered by exact priorprefix,inspected/preserved without recertifying unrelated release. Finalexact33source/reporting review:staged1a5219native2560image successor,27qualifiedproducts+5unchangedguards+315entrymanifest. Finalcloudacceptance attributed,actualGitversions and public-onlydiff checked. Source-reporting publication alone pending;product/nativehardware/teacher/hostedgaps retained. Verified HDuserappendix and concurrent datedAGENTSnotes preserved without unrelatedpublication."
         }
       ]
     },
@@ -93662,6 +93837,1429 @@
             "nextAction": "Retain dated evidence, open game/media work and user-approved content boundaries."
           }
         ]
+      },
+      {
+        "changeId": "CE-CHANGE-20261110-133",
+        "title": "Initiative shared teaching, natural pathways and reinforcement candidate",
+        "types": [
+          "governance",
+          "curriculum",
+          "activity",
+          "visual",
+          "implementation",
+          "research"
+        ],
+        "status": "in-progress",
+        "objective": "Integrate reviewed local components with exact source references and verify every route without implying deployment or curriculum acceptance.",
+        "before": "Five existing mission routes; source-audited false remote-save confirmation and omitted applied drafts. Local components are isolated and the Blueprint lacks their exact source/acceptance boundaries.",
+        "after": "Phase1 chooser/notes local integration and actual local Archon full-match/replay evidence recorded. Local actual-lobby evidence records 27 legal moves, 8 duels, winner A, agreement across three seats, keyboard Play again and same-seat Market return/resume. Later moves use the real local room API, not physical board input. No hosted acceptance. Teacher backend, hosted origin/security, full-campus and classroom checks remain open. Latest137serial entrance/portfolio evidence and28filefrontend package reconciled;cloud test-engine success is distinct from genuine Supabase acceptance.",
+        "source": "CE-DISCUSSION-42ae5993-c790-449b-8a62-6fcc0a245266",
+        "owner": "Blueprint maintainer: canonical records; Initiative integrator: shared runtime; Archon owner: Archon runtime",
+        "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [
+            "DSE1",
+            "DSE2",
+            "DSE13",
+            "DSE14",
+            "DAT1",
+            "ACC1",
+            "ACC2",
+            "ACC3",
+            "ACC5",
+            "ACC12",
+            "DSE6",
+            "ACC4",
+            "DSE4",
+            "DSE8",
+            "ACC6",
+            "ACC11",
+            "SOL1",
+            "SOL2",
+            "SOL3",
+            "SOL4",
+            "SOL9",
+            "SOL11",
+            "DSE5",
+            "SOL5",
+            "SOL7",
+            "SOL8",
+            "DSE10",
+            "SOL12",
+            "ACC8",
+            "DSE3",
+            "DAT2",
+            "DAT7",
+            "DSE11",
+            "ACC9",
+            "ACC10",
+            "DAT6",
+            "COM4",
+            "SOL6",
+            "DSE12",
+            "DAT3",
+            "DAT4",
+            "DAT5",
+            "DAT8",
+            "LOG1",
+            "LOG2",
+            "LOG3",
+            "LOG4",
+            "LOG5",
+            "LOG6",
+            "LOG7",
+            "COM16",
+            "COM17"
+          ],
+          "waControlChecks": [],
+          "waEvidenceIds": [
+            "WA-EV-INITIATIVE-CANDIDATE-20261110"
+          ],
+          "owner": "Initiative integrator and Blueprint maintainer; qualified security review pending",
+          "scope": "Latest local entrance/anonymous portfolio serial evidence,unconfigured28fileArchonfrontend package,and separately read cloud PostgreSQL/Deno RPC-shim tests. Actual hosted Supabase project/config/Auth/organizer,teacher and classroom acceptance remain unverified.",
+          "rationale": "Runtime candidate could affect learner context, evidence, local storage, teacher sync and exports; unknown controls remain explicit. Blueprint documentation does not establish product readiness.",
+          "status": "pending",
+          "triggers": {
+            "data-collection-processing": "unknown",
+            "authentication": "unknown",
+            "account-recovery": "unknown",
+            "roles-permissions": "unknown",
+            "school-tenancy": "unknown",
+            "hosting-region": "unknown",
+            "third-parties-subprocessors": "unknown",
+            "integrations-apis": "unknown",
+            "file-upload-download": "unknown",
+            "chat-social-discovery": "unknown",
+            "analytics": "unknown",
+            "ai": "unknown",
+            "payments": "unknown",
+            "mobile-browser-permissions": "unknown",
+            "retention-deletion": "unknown",
+            "logging": "unknown",
+            "student-safety": "unknown"
+          },
+          "answers": {
+            "data": "Local notes practice,drafts,transfer text and content revision use the host run/profile opaque context. Synthetic A/B isolation and failed local-save recovery were fixture tested;no teacher service or real learner data.",
+            "locations": "Library and candidate files are local. No authoritative deployed shared-library URL or verified account/evidence storage configuration is established.",
+            "accessCountries": "Unverified for future host and teacher services; no account-country or residency assertion follows from local tests.",
+            "providers": "Existing host Supabase-facing save paths need review. This documentation adds no provider or cross-origin connection.",
+            "lifecycle": "Local drafts, attempts, reset, retention, export/deletion and duplicate-safe retries need host tests and a documented lifecycle.",
+            "encryption": "No new storage or transport claim. Verify actual host and remote save configuration before a product release.",
+            "logging": "Baseline logs remote errors but may report success; candidate needs truthful UI acknowledgement without exposing learner text or secrets in logs.",
+            "identity": "New notes use run/profile opaque identity in the local host. A/B fixture isolation passed;existing broader module global storage and actual school identities remain unverified.",
+            "isolation": "Synthetic A/B notes isolation passed in the isolated host fixture. This does not establish broader module,real class,school or backend isolation.",
+            "privacySafety": "Use fictional accounts only; keep licensed source masters private. Check student free text, peer interaction, adjudication and teacher access in the actual host.",
+            "applicability": "WA v4c screening retained for the future product change. This record does not approve school delivery, providers, accounts or student data processing.",
+            "verification": "Directly read Library cloud report validates isolated real-engine privileges/concurrency/cleanup/rollback,17HTTPcalls,125callmatch and restarts/three-seatresume using testRPCshim. No genuine Supabase gateway/PostgREST/Auth or production control approval;local frontend expiry/retry cases are synthetic."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            {
+              "result": "passed",
+              "evidence": "Integrator report:414unit passes and isolated1280/390actual-source fixtures;14applied hashes independently verified. Not implementation-control or school acceptance."
+            },
+            {
+              "result": "pending",
+              "evidence": "Actual Archon lobby/game/rejoin,teacher backend/idempotence,broader isolation,full campus and retained Mara journey unverified."
+            }
+          ],
+          "reviewedBy": null,
+          "reviewedAt": null,
+          "productionComplete": false,
+          "releasePurpose": "product-change",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "Bare Start Here explains the game and Blueprint evaluation purpose; it does not advertise these isolated components as playable provision.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "app/site-guide.tsx"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source review: Bare Start Here explains the game and Blueprint evaluation purpose; it does not advertise these isolated components as playable provision. Actual React static rendering checked Phase1, pedagogy, sources, build, roadmap, active teacher guide, teacher status and StartHere; local exported document/record parity and continuity passed. This is documentary verification, not browser/device interaction or runtime acceptance.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Current plan now identifies the local Phase1 integration and specific real-service,full-journey and source-year checks; strategic core-learning authoring remains unchanged.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical documentary reconciliation: 14 applied runtime hashes match the manifest; two existing fixture PNGs match their source bytes. 42 Blueprint tests, TypeScript, scoped lint, continuity, local export parity and seven actual React static reader renders passed. The 414 unit and isolated 1280/390 fixture results are integrator evidence; no GUI/browser, real service or classroom verification was performed by this maintainer.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Record133 receives the actual implementation checkpoint; prior component-only statements are retained as dated history, not current runtime status. Record134 remains a separate completed maintenance checkpoint.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical documentary reconciliation: 14 applied runtime hashes match the manifest; two existing fixture PNGs match their source bytes. 42 Blueprint tests, TypeScript, scoped lint, continuity, local export parity and seven actual React static reader renders passed. The 414 unit and isolated 1280/390 fixture results are integrator evidence; no GUI/browser, real service or classroom verification was performed by this maintainer.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Current handoff records the exact target/base and14hash check,414unit/isolatedfixture evidence and no-GUI reconciliation, while preserving release/probe restrictions.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "AGENTS.md",
+              "docs/handoff-guide.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical documentary reconciliation: 14 applied runtime hashes match the manifest; two existing fixture PNGs match their source bytes. 42 Blueprint tests, TypeScript, scoped lint, continuity, local export parity and seven actual React static reader renders passed. The 414 unit and isolated 1280/390 fixture results are integrator evidence; no GUI/browser, real service or classroom verification was performed by this maintainer.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Regenerate local record,source,build,handoff and document views; reuse two existing labelled fixture PNGs without a new capture or deployment.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "scripts/export-blueprint.mjs"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical documentary reconciliation: 14 applied runtime hashes match the manifest; two existing fixture PNGs match their source bytes. 42 Blueprint tests, TypeScript, scoped lint, continuity, local export parity and seven actual React static reader renders passed. The 414 unit and isolated 1280/390 fixture results are integrator evidence; no GUI/browser, real service or classroom verification was performed by this maintainer.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "publication",
+            "disposition": "blocked",
+            "action": "No deployment or release approval in this reconciliation;actual services,current-source review and required acceptance remain pending.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "data/change-integrations.json"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Candidate is unpublished; no deployment or release acceptance requested or performed.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "Existing design approvals and retained decision register remain unchanged; this intake supplies no new curriculum-year, guard-setting, school or publication decision.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "data/blueprint.ts"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source review: Existing design approvals and retained decision register remain unchanged; this intake supplies no new curriculum-year, guard-setting, school or publication decision. Actual React static rendering checked Phase1, pedagogy, sources, build, roadmap, active teacher guide, teacher status and StartHere; local exported document/record parity and continuity passed. This is documentary verification, not browser/device interaction or runtime acceptance.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Official2026v6/2027v7 comparison confirms the same11Initiative requirements under EB-01/02/03. Retain all197rows and source identifiers;benefit assessment,annualEST,broader teaching and classroom proof remain separate.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "data/blueprint.ts"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical documentary reconciliation: 14 applied runtime hashes match the manifest; two existing fixture PNGs match their source bytes. 42 Blueprint tests, TypeScript, scoped lint, continuity, local export parity and seven actual React static reader renders passed. The 414 unit and isolated 1280/390 fixture results are integrator evidence; no GUI/browser, real service or classroom verification was performed by this maintainer.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "BUILD-INITIATIVE-20261110 now shows locally integrated Phase1 chooser/notes and414unit/isolated1280/390fixture proof; actual services,teacher flow and deployed campus remain unverified.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "data/blueprint.ts",
+              "app/blueprint-detail.tsx"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical documentary reconciliation: 14 applied runtime hashes match the manifest; two existing fixture PNGs match their source bytes. 42 Blueprint tests, TypeScript, scoped lint, continuity, local export parity and seven actual React static reader renders passed. The 414 unit and isolated 1280/390 fixture results are integrator evidence; no GUI/browser, real service or classroom verification was performed by this maintainer. Later supplied evidence reconciled from actual-local full-match report and JSON: Local actual-lobby evidence records 27 legal moves, 8 duels, winner A, agreement across three seats, keyboard Play again and same-seat Market return/resume. Later moves use the real local room API, not physical board input. No hosted acceptance. Approved standard protections installed: one registry entry, five exact standard files and two local Git keys. All 959 existing files preserved; protectionErrors empty; 10 guard tests pass; unapproved 19-file working set refused. No push or deployment. Later137local evidence: Local four-route infographic entrance and anonymous Initiative STAR/PDF log are integrated and hash-verified. Actual-source1280/390fixtures and414runtime units are reported passed. Archon28filefrontend and six synthetic failure/retry cases pass; cloud PostgreSQL/Deno validation uses a test RPC shim,not genuine hosted Supabase acceptance. Anonymous portfolio does not establish teacher or Archon identity/security acceptance.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Existing initiative-local checkout at a997dbc and14applied file hashes recorded privately; no copy/overwrite of runtime,project registration,published version binding or receipt fabricated.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "docs/handoff-guide.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical documentary reconciliation: 14 applied runtime hashes match the manifest; two existing fixture PNGs match their source bytes. 42 Blueprint tests, TypeScript, scoped lint, continuity, local export parity and seven actual React static reader renders passed. The 414 unit and isolated 1280/390 fixture results are integrator evidence; no GUI/browser, real service or classroom verification was performed by this maintainer.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "updated",
+            "action": "Official2026v6/2027v7 comparison confirms the same11Initiative requirements under EB-01/02/03. Retain all197rows and source identifiers;benefit assessment,annualEST,broader teaching and classroom proof remain separate.",
+            "records": [
+              "CE-CHANGE-20261110-133",
+              "CEM12-U3-EB-01",
+              "CEM12-U3-EB-02",
+              "CEM12-U3-EB-03"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "data/learning-planner.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source review: Candidate document traces EB-01/02/03 to foundation/check/transfer provision and gaps; Phase1 states source-year limits. All197 baseline rows, exact titles, metadata, homes and references remain unchanged. Actual React static rendering checked Phase1, pedagogy, sources, build, roadmap, active teacher guide, teacher status and StartHere; local exported document/record parity and continuity passed. This is documentary verification, not browser/device interaction or runtime acceptance.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Resources,Mara and optional configured Archon now share the local host choice flow. Notes draft saves on exit and returns; run/profile-scoped drafts and truthful local-only acknowledgements are fixture-tested.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "data/operations.json",
+              "data/learning-planner.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical documentary reconciliation: 14 applied runtime hashes match the manifest; two existing fixture PNGs match their source bytes. 42 Blueprint tests, TypeScript, scoped lint, continuity, local export parity and seven actual React static reader renders passed. The 414 unit and isolated 1280/390 fixture results are integrator evidence; no GUI/browser, real service or classroom verification was performed by this maintainer. Later supplied evidence reconciled from actual-local full-match report and JSON: Local actual-lobby evidence records 27 legal moves, 8 duels, winner A, agreement across three seats, keyboard Play again and same-seat Market return/resume. Later moves use the real local room API, not physical board input. No hosted acceptance. Approved standard protections installed: one registry entry, five exact standard files and two local Git keys. All 959 existing files preserved; protectionErrors empty; 10 guard tests pass; unapproved 19-file working set refused. No push or deployment. Later137local evidence: Local four-route infographic entrance and anonymous Initiative STAR/PDF log are integrated and hash-verified. Actual-source1280/390fixtures and414runtime units are reported passed. Archon28filefrontend and six synthetic failure/retry cases pass; cloud PostgreSQL/Deno validation uses a test RPC shim,not genuine hosted Supabase acceptance. Anonymous portfolio does not establish teacher or Archon identity/security acceptance.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Phase1 reader distinguishes actual local chooser/notes from the unchanged28screenMara design and remaining actual campus/full-shift/Archon recovery checks.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "app/phase-walkthrough.tsx"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical documentary reconciliation: 14 applied runtime hashes match the manifest; two existing fixture PNGs match their source bytes. 42 Blueprint tests, TypeScript, scoped lint, continuity, local export parity and seven actual React static reader renders passed. The 414 unit and isolated 1280/390 fixture results are integrator evidence; no GUI/browser, real service or classroom verification was performed by this maintainer. Later supplied evidence reconciled from actual-local full-match report and JSON: Local actual-lobby evidence records 27 legal moves, 8 duels, winner A, agreement across three seats, keyboard Play again and same-seat Market return/resume. Later moves use the real local room API, not physical board input. No hosted acceptance. Approved standard protections installed: one registry entry, five exact standard files and two local Git keys. All 959 existing files preserved; protectionErrors empty; 10 guard tests pass; unapproved 19-file working set refused. No push or deployment. Later137local evidence: Local four-route infographic entrance and anonymous Initiative STAR/PDF log are integrated and hash-verified. Actual-source1280/390fixtures and414runtime units are reported passed. Archon28filefrontend and six synthetic failure/retry cases pass; cloud PostgreSQL/Deno validation uses a test RPC shim,not genuine hosted Supabase acceptance. Anonymous portfolio does not establish teacher or Archon identity/security acceptance.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "updated",
+            "action": "Official2026v6/2027v7 comparison confirms the same11Initiative requirements under EB-01/02/03. Retain all197rows and source identifiers;benefit assessment,annualEST,broader teaching and classroom proof remain separate.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "data/learning-planner.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical documentary reconciliation: 14 applied runtime hashes match the manifest; two existing fixture PNGs match their source bytes. 42 Blueprint tests, TypeScript, scoped lint, continuity, local export parity and seven actual React static reader renders passed. The 414 unit and isolated 1280/390 fixture results are integrator evidence; no GUI/browser, real service or classroom verification was performed by this maintainer. Later137local evidence: Local four-route infographic entrance and anonymous Initiative STAR/PDF log are integrated and hash-verified. Actual-source1280/390fixtures and414runtime units are reported passed. Archon28filefrontend and six synthetic failure/retry cases pass; cloud PostgreSQL/Deno validation uses a test RPC shim,not genuine hosted Supabase acceptance. Anonymous portfolio does not establish teacher or Archon identity/security acceptance.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "New notes have no teacher service. Local acknowledgement is not remote submission;real teacher visibility,class isolation,idempotence and legacy five-route defects remain separate.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "data/teacher-guide.json",
+              "data/learning-planner.json",
+              "app/teacher-dashboard-guide.tsx"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical documentary reconciliation: 14 applied runtime hashes match the manifest; two existing fixture PNGs match their source bytes. 42 Blueprint tests, TypeScript, scoped lint, continuity, local export parity and seven actual React static reader renders passed. The 414 unit and isolated 1280/390 fixture results are integrator evidence; no GUI/browser, real service or classroom verification was performed by this maintainer. Later137local evidence: Local four-route infographic entrance and anonymous Initiative STAR/PDF log are integrated and hash-verified. Actual-source1280/390fixtures and414runtime units are reported passed. Archon28filefrontend and six synthetic failure/retry cases pass; cloud PostgreSQL/Deno validation uses a test RPC shim,not genuine hosted Supabase acceptance. Anonymous portfolio does not establish teacher or Archon identity/security acceptance.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "Candidate arcade practice is separate from salary, tax, treasury, town-state and progression. No engine reward or world-state rule changes are applied.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "data/operations.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source review: Candidate arcade practice is separate from salary, tax, treasury, town-state and progression. No engine reward or world-state rule changes are applied. Actual React static rendering checked Phase1, pedagogy, sources, build, roadmap, active teacher guide, teacher status and StartHere; local exported document/record parity and continuity passed. This is documentary verification, not browser/device interaction or runtime acceptance.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "Existing Market entrance and Juniper Kitchen remain places; no geometry, venue, physical entrance or model changes are introduced by the shared library.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "app/places-in-game.tsx"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source review: Existing Market entrance and Juniper Kitchen remain places; no geometry, venue, physical entrance or model changes are introduced by the shared library. Actual React static rendering checked Phase1, pedagogy, sources, build, roadmap, active teacher guide, teacher status and StartHere; local exported document/record parity and continuity passed. This is documentary verification, not browser/device interaction or runtime acceptance.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Two existing integrator fixture screenshots at1280/390 are reused with exact hashes and isolated-fictional captions;no new browser,capture or live-world evidence claimed.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "app/site-guide.tsx"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical documentary reconciliation: 14 applied runtime hashes match the manifest; two existing fixture PNGs match their source bytes. 42 Blueprint tests, TypeScript, scoped lint, continuity, local export parity and seven actual React static reader renders passed. The 414 unit and isolated 1280/390 fixture results are integrator evidence; no GUI/browser, real service or classroom verification was performed by this maintainer.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Fixture captures illustrate the local chooser layout only;they are not whole-campus art,physical-device or classroom acceptance.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "data/style-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical documentary reconciliation: 14 applied runtime hashes match the manifest; two existing fixture PNGs match their source bytes. 42 Blueprint tests, TypeScript, scoped lint, continuity, local export parity and seven actual React static reader renders passed. The 414 unit and isolated 1280/390 fixture results are integrator evidence; no GUI/browser, real service or classroom verification was performed by this maintainer.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Fixture PNG bytes are preserved and referenced in build/source evidence;licensed originals,game models,28Mara screenshots and other assets remain untouched.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "data/asset-register.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Canonical documentary reconciliation: 14 applied runtime hashes match the manifest; two existing fixture PNGs match their source bytes. 42 Blueprint tests, TypeScript, scoped lint, continuity, local export parity and seven actual React static reader renders passed. The 414 unit and isolated 1280/390 fixture results are integrator evidence; no GUI/browser, real service or classroom verification was performed by this maintainer.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "The occupation pathway may refer to an existing avatar choice; no identity, rig, clothing or paused blazer work is changed.",
+            "records": [
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer: source/reader; Initiative integrator: runtime acceptance",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "docs/production/initiative-shared-learning-20261110.md",
+              "data/style-guide.json"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source review: The occupation pathway may refer to an existing avatar choice; no identity, rig, clothing or paused blazer work is changed. Actual React static rendering checked Phase1, pedagogy, sources, build, roadmap, active teacher guide, teacher status and StartHere; local exported document/record parity and continuity passed. This is documentary verification, not browser/device interaction or runtime acceptance.",
+              "date": "2026-11-10"
+            },
+            "nextAction": "Existing game release maintainer serially qualifies clean deployed-base scope and remote/Pages target;integrates allowlisted current source/cache successors without overwriting navigation/Flyover or unrelated edits;completes genuine existing Supabase project access/config/Auth/organizer/retention decisions and gateway/PostgREST acceptance for live Archon. Retain authenticated teacher,Safari/physical device,whole-campus,artwork/native-print and exact final source/manifest/release approval gates. No publication or receipt inferred."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20261111-137",
+        "title": "Illustrated Sunday Markets entrance and Initiative portfolio models",
+        "types": [
+          "decision",
+          "curriculum",
+          "activity",
+          "visual"
+        ],
+        "status": "in-progress",
+        "objective": "Show what initiative looks like at the Market entrance and connect it to practical routes and authentic STAR evidence.",
+        "before": "The local Phase1 entrance offers Mara, Notes and Archon in a mini intro.",
+        "after": "Local four-route infographic entrance and anonymous Initiative STAR/PDF log are integrated and hash-verified. Actual-source1280/390fixtures and414runtime units are reported passed. Archon28filefrontend and six synthetic failure/retry cases pass; cloud PostgreSQL/Deno validation uses a test RPC shim,not genuine hosted Supabase acceptance. Serial10filefinal infographic integration at existing immediate Market entry;actual Market trial/Mara imagery,five ways/three benefits and left four routes. Earlier comic/hotspots superseded. Portfolio12filepredecessor is preserved with explicit six-file entrance successors;dashboard/data/helper bytes unchanged after portfolio integration.",
+        "source": "CE-DISCUSSION-4c0f0090-f583-496a-bbcd-0b9ee381ae7e and Tania’s Cupcake.png visual reference",
+        "owner": "Market integration maintainer and Blueprint maintainer",
+        "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [
+            "DSE1",
+            "DSE2",
+            "DSE13",
+            "DSE14",
+            "DAT1",
+            "DSE3",
+            "DSE8",
+            "DAT2",
+            "DAT7",
+            "DAT3",
+            "DAT4",
+            "DAT5",
+            "DAT8"
+          ],
+          "waControlChecks": [],
+          "waEvidenceIds": [
+            "WA-EV-INITIATIVE-CANDIDATE-20261110"
+          ],
+          "owner": "Market integration maintainer and Blueprint maintainer",
+          "scope": "Locally integrated four-route entrance and anonymous in-memory Initiative STAR log with user-initiated PDF. Existing authenticated teacher/student paths preserved;Archon backend approval remains separate under133.",
+          "rationale": "Anonymous written reflections are processed in memory and user-exported;no account storage/services were observed in fixtures. That local boundary does not approve hosted identities,tenant isolation,teacher data or Archon backend.",
+          "status": "pending",
+          "triggers": {
+            "data-collection-processing": "yes",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "yes",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "yes",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Anonymous reflection text,selected way,date and five STAR fields are held in memory and exported by user print;fixtures observed zero account services/storage operations. No real learner records inspected.",
+            "locations": "Existing local runtime/source and user PDF destination only in this evidence. Actual hosted service,regions and school data configuration remain unverified.",
+            "accessCountries": "No new access-country claim;actual existing project/account configuration requires authorized administrator inspection.",
+            "providers": "No new account/API service in anonymous portfolio. Existing Archon Supabase-facing integration is a separately unapproved hosted scope.",
+            "lifecycle": "Anonymous in-memory drafts are not school submissions or cross-device records. Native unsaved-work/print dialog and final user lifecycle need acceptance;teacher remote persistence is unverified.",
+            "encryption": "Fixture HTTPS and cloud test TLS do not establish production transport/configuration. No secret,transport or account setting changed here.",
+            "logging": "Observed anonymous fixtures make zero account requests/storage calls;no real evidence/credentials logged by this maintenance. Final hosted logging review remains pending.",
+            "identity": "Explicit publicInitiative=1 skips account scripts;58teacher/access functions and normal script order preserved. Authenticated teacher behavior remains untested;do not infer Archon identity policy.",
+            "isolation": "Anonymous log child tab returns to existing Market without event changes in fixtures. This is not school/class/real learner or hosted tenant isolation proof.",
+            "privacySafety": "Fictional fixtures only;public portfolio does not submit to a teacher. Models are excluded from user PDF;pending logo art falls back to text.",
+            "applicability": "WA data-processing and download questions mapped;existing evidence remains UNVERIFIED. No N-A,control approval or production-complete status inferred.",
+            "verification": "Exact serial source fingerprints and supplied1280/390acceptance reviewed. Native print,Safari,physical device,authenticated teacher and whole-campus acceptance remain open."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "Reported zero browser storage operations/account-service requests and one-page PDF fields at1280/390;58teacher/access functions preserved,not authenticated-tested.",
+            "Independent exact10entrance/12portfolio serial fingerprint verification;414runtime units and dev/HEADasset checks are supplied evidence,not final deployment manifest."
+          ],
+          "reviewedBy": null,
+          "reviewedAt": null,
+          "productionComplete": false,
+          "releasePurpose": "product-change",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "Bare purpose/game links retained;new locally integrated entrance evidence is labelled unpublished in source/build records.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Purpose, current direction, status and next action must agree with the change.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Bare purpose/game links retained;new locally integrated entrance evidence is labelled unpublished in source/build records. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Current learning priority retained;new local entrance/portfolio evidence and concrete hosted/teacher/release prerequisites replace obsolete integration actions.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Update scope, owner, dependencies, blocked items, acceptance and next actions; reconcile linked issues rather than duplicate plans.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Current learning priority retained;new local entrance/portfolio evidence and concrete hosted/teacher/release prerequisites replace obsolete integration actions. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Existing137evolution retained;final infographic supersedes comic/hotspots and source-bound serial integration is appended without rewriting133/135/136history.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Keep the original rationale; append what changed, why, what it supersedes and downstream impacts.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Existing137evolution retained;final infographic supersedes comic/hotspots and source-bound serial integration is appended without rewriting133/135/136history. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Single runtime integrator/release-owner handoff retained;source snapshots,exact-hash reviews and incomplete gate states distinguish local application from publication.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Update operating instructions, README, AGENTS.md and successor entry; explain the change-to-page consequences.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Single runtime integrator/release-owner handoff retained;source snapshots,exact-hash reviews and incomplete gate states distinguish local application from publication. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Deterministically regenerate affected local reader/source documents and verify exact canonical parity;no deployment.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Regenerate all affected public/private record, style, handoff and Markdown views; check for stale duplicates.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Deterministically regenerate affected local reader/source documents and verify exact canonical parity;no deployment. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "publication",
+            "disposition": "blocked",
+            "action": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "records": [
+              "CE-CHANGE-20261111-137"
+            ],
+            "owner": "Market integration maintainer and Blueprint maintainer",
+            "acceptance": "Compare the intended source/build and live records, then inspect affected reader routes; a successful push or hash alone is insufficient.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Local application/fixtures do not prove exact combined release or independent live acceptance;no deployment authorized.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Retain supplied design references and rejection history;no new public appearance,backend identity,security or publication approval.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Record exact approval, scope and date; identify every rule/claim it replaces without rewriting history.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Retain supplied design references and rejection history;no new public appearance,backend identity,security or publication approval. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "All197baseline rows and mappings remain exact. Infographic explicitly presents concept,five ways and three benefits;presentation and tags do not demonstrate competence.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Update the source edition/cohort, Unit/semester, exact point IDs, both mapping directions and coverage gaps.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: All197baseline rows and mappings remain exact. Infographic explicitly presents concept,five ways and three benefits;presentation and tags do not demonstrate competence. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Four actual existing callbacks are described:Notes draft,configured Archon or truthful unavailable explanation,Mara/canvas focus,anonymous portfolio child-tab/PDF/return. No new game route installed here.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Update trigger, hook, purpose, theory, student choice/action, feedback, evidence, recovery, prerequisites and next step.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Four actual existing callbacks are described:Notes draft,configured Archon or truthful unavailable explanation,Mara/canvas focus,anonymous portfolio child-tab/PDF/return. No new game route installed here. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Phase1reader now exposes fourth portfolio guide and distinguishes integrated local immediate entrance from full-campus or live hosted journey.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Reflect the changed order in journey, worked example, entry/exit and progression; do not imply an unapproved pilot is approved.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Phase1reader now exposes fourth portfolio guide and distinguishes integrated local immediate entrance from full-campus or live hosted journey. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "Anonymous self-written STAR/PDF supports reflection only. Models excluded from exported evidence;no teacher submission,mastery or independently assessed benefit claim.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Reconcile timing, assessment evidence, task constraints and taught versus assessed versus demonstrated coverage.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Anonymous self-written STAR/PDF supports reflection only. Models excluded from exported evidence;no teacher submission,mastery or independently assessed benefit claim. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "Teacher58access functions,sixoriginal categories and service order are supplied as preserved. Authenticated teacher/save/visibility/isolation/idempotence remain unverified.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Update teacher visibility, review/save/reload, roles, fictional-account checks and classroom acceptance.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Teacher58access functions,sixoriginal categories and service order are supplied as preserved. Authenticated teacher/save/visibility/isolation/idempotence remain unverified. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "Existing campus,town stages and wider gameplay remain unchanged;fixture routes do not prove complete campus acceptance.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Update consequences, access/unlocks, economy/community rules, recovery and dependent places.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Existing campus,town stages and wider gameplay remain unchanged;fixture routes do not prove complete campus acceptance. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "Existing Mara/Market,notes,Archon entry and portfolio services retained;no building geometry,travel or Chapel repair applied.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Update each affected building's purpose, current concept, model/candidate status, approach/entrance, interactions and next production actions.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Existing Mara/Market,notes,Archon entry and portfolio services retained;no building geometry,travel or Chapel repair applied. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Existing Mara portrait reused;no new comic character,rig,helper or identity model introduced by canonical maintenance.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Update selected identity/body, rig/components, appearance references and acceptance; preserve the paused blazer boundary.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Existing Mara portrait reused;no new comic character,rig,helper or identity model introduced by canonical maintenance. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Actual Market image/Mara portrait and infographic hierarchy described. Superseded comic/hotspots excluded;pending parent-emblem/five-logo suite stays unapproved.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Show the exact selected direction images, aerial and walking views first; superseded examples belong in labelled history.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Actual Market image/Mara portrait and infographic hierarchy described. Superseded comic/hotspots excluded;pending parent-emblem/five-logo suite stays unapproved. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "Four designer component/art files match serial receipt;28frontendallowlist matches owner source,noSQL/server/secrets/config. No asset copied into public reader here.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Record stable IDs, source hashes, current placements, source ownership, editable/export versions, approval scope and missing originals.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Four designer component/art files match serial receipt;28frontendallowlist matches owner source,noSQL/server/secrets/config. No asset copied into public reader here. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "10fileentrance and12fileportfolio serial successor chain verified;28Archoncurrent-source hashes verified;cloud test report directly read with shim/gateway boundary retained.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Record exact source/build, actual behavior, bug/retest evidence, deployment and limits separately from design acceptance.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: 10fileentrance and12fileportfolio serial successor chain verified;28Archoncurrent-source hashes verified;cloud test report directly read with shim/gateway boundary retained. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Private originals and local application manifests preserved. No published receipt written,guard/exclusion altered or whole dirty checkout used as release scope.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Update exact source location, account/permissions, restore limitations and reproducible resume steps.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Private originals and local application manifests preserved. No published receipt written,guard/exclusion altered or whole dirty checkout used as release scope. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Latest local handoffs/manifests and Library cloud report identity are attributed;2027curriculum baseline retained. Cloud source fingerprints do not establish actual hosted project configuration.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Update source links/version, research attribution, terminology conflicts and which claims are supported.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Latest local handoffs/manifests and Library cloud report identity are attributed;2027curriculum baseline retained. Cloud source fingerprints do not establish actual hosted project configuration. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "Existing dated fixtures remain historical;no fresh browser,capture,video,PDF or screenshot copied/published by this maintenance.",
+            "records": [
+              "CE-CHANGE-20261111-137",
+              "CE-CHANGE-20261110-133"
+            ],
+            "owner": "Blueprint maintainer:canonical evidence;existing runtime integrator/release owner:actual runtime/hosted acceptance",
+            "acceptance": "Check the actual poster, clip, thumbnail, caption and destination together; current, concept and historical must be unmistakable.",
+            "evidence": [
+              "docs/production/markets-entrance-initiative-20261111.md",
+              "docs/production/initiative-shared-learning-20261110.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual current source/serial manifests independently checked and supplied acceptance/report reviewed. Reader scope: Existing dated fixtures remain historical;no fresh browser,capture,video,PDF or screenshot copied/published by this maintenance. No GUI/browser,runtime edit,hosted acceptance or publication.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Usernowrequests portfolio presentation matching the newintro and reusinginfographicimagery. Sole shared-learningowner preparesisolateddelta;soleintegrator serially integrates/tests before finalportfolio release. Preserve reviewedcfcb32stage/predecessorqualification;no obsoleteportfolio freeze. Hookapproved/active. After testedpresentation successor,review exact source/manifest/bindings and actual publicintegration,then unchanged legitimate receipt command. No duplicatecontinuityscan,gamepush or unsupportedreceipt."
+          }
+        ]
+      },
+      {
+        "changeId": "CE-CHANGE-20261111-138",
+        "title": "Review exact Market entrance and anonymous portfolio release source bindings",
+        "types": [
+          "release",
+          "governance"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Publish exact reviewed source-version bindings and scoped public reader evidence for the user-authorized frontend release without certifying unfinished hosted,teacher,nativehardware or classroom work.",
+        "before": "Publication intent exists,but current conditional39filefrontend scope excludes28hostedArchonfiles and has no logo successor or actual clean protected execution source. Broader67filecloudsuite has66unclassified browserfailures.",
+        "after": "Freeze actual registered source stagedtree1a521919b3536fa2d9666be886f7b3279d073eab:27productfiles,5unchangedprotectionfiles,generatedmanifest=33Gitversions,zero deletions. Authorizednative2560imageSHA9836a65c26a0d1262ee1647f10f5c682814dcccb8bb1f11fc493e2e535964faeandmanifestimageonlysuccessor verified;other26productfilesunchanged. Final3fileportfolioaesthetic delta preserves original dashboard logic outside2publicpresentationinsertions and cachequery,reuses actualMarket/Mara/sixlogos. Archon visiblycomingsoon;hosted28/Flyover/SAMtakeover excluded. Independent33stagedmode/blobmatch,3presentationdeltaSHAreview and exactpublic-only diff review. Supplied3preservation/2privacytests pass. Parent confirms exactfinal27sourcecloud1280/390aesthetic/images/sixlogos/Notes/Mara/comingsoon/anonymousprivacy/STAR/PDF/Marketreturn passes,all27hashes and315manifestentries/104modules verified. Both PDFs visuallyoneA4page/all5responses/decorativeimagesabsent;initial2page harnessscreenmediaerror retained,corrected only test printmedia. Prior372units/22originalbrowserchecks retained with exactpredecessor provenance. Threebaseline-identical rendererchecks remain pending nativeacceptance,notpassed/waived.",
+        "source": "Parent relays explicit user request to publish final Market entrance and anonymous Initiative portfolio/PDF with logo family;sole integrator01a1c281-2bf4-7621-a73c-468f7c4a301f owns serial runtime successor. PROTECTION-HANDOFF.md and frozen39filemanifest reviewed;no runtime/settings/publication authorized for this canonical maintenance task.",
+        "owner": "Blueprint maintainer:scoped source-binding publication/receipt;existing soleintegrator:gamecommit/push/liveverification",
+        "nextAction": "Publish only scoped source-review records/documents/bindings into existing public Blueprint,preserving all unrelated livecontent;independently verify publicrecord/manifest/docs. Only then complete thissource-reporting integration and issue receipt through unchanged registered guard with explicit33paths/evidence. Soleintegrator owns gamecommit/normalguardedpush/livegameverification;no hosted/backend/classroomcompletion claimed.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Blueprint maintainer:documentary coordination;actual source registration/protection requires appropriate scoped authority",
+          "scope": "Public Blueprint source-review metadata/documents and exact33Gitversion binding only,plus already approved localguardactivation. Game runtime belongs to separately qualified soleintegrator;no new gateway,service,permission,account or learnerdata change in this reporting release.",
+          "rationale": "Source-version review/publication is not production/classroom/mastery or hostedsecurity certification. Related133/137stay incomplete andWAevidence remainsUNVERIFIED;threebaseline-identical nativechecks are disclosed pending.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Canonical coordination and exact file-hash/proposal review only;no change to data controls,learner data,accounts,services or settings.",
+            "locations": "Canonical coordination and exact file-hash/proposal review only;no change to locations controls,learner data,accounts,services or settings.",
+            "accessCountries": "Canonical coordination and exact file-hash/proposal review only;no change to accessCountries controls,learner data,accounts,services or settings.",
+            "providers": "Canonical coordination and exact file-hash/proposal review only;no change to providers controls,learner data,accounts,services or settings.",
+            "lifecycle": "Canonical coordination and exact file-hash/proposal review only;no change to lifecycle controls,learner data,accounts,services or settings.",
+            "encryption": "Canonical coordination and exact file-hash/proposal review only;no change to encryption controls,learner data,accounts,services or settings.",
+            "logging": "Canonical coordination and exact file-hash/proposal review only;no change to logging controls,learner data,accounts,services or settings.",
+            "identity": "Canonical coordination and exact file-hash/proposal review only;no change to identity controls,learner data,accounts,services or settings.",
+            "isolation": "Canonical coordination and exact file-hash/proposal review only;no change to isolation controls,learner data,accounts,services or settings.",
+            "privacySafety": "Canonical coordination and exact file-hash/proposal review only;no change to privacySafety controls,learner data,accounts,services or settings.",
+            "applicability": "Canonical coordination and exact file-hash/proposal review only;no change to applicability controls,learner data,accounts,services or settings.",
+            "verification": "Canonical coordination and exact file-hash/proposal review only;no change to verification controls,learner data,accounts,services or settings."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "Exact33indexGitmode/blobversions and source33review verified;public-only aesthetic diff/preserved teacher/auth flow inspected.",
+            "Supplied final27cloud1280/390/privacy/PDF/return and315manifest104modulechecks pass;threebaseline-identical hardwarechecks explicitly pending."
+          ],
+          "reviewedBy": "Blueprint maintainer exact staged-source/reporting review",
+          "reviewedAt": "2026-11-11",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": "Direct action-time useryes for localcore.hooksPath activation in the separate registeredrelease checkout only;not a hosted/school/security waiver.",
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "Bare game-purpose entry and current links remain unchanged;no conditional candidate or unqualified logos presented as live.",
+            "records": [
+              "CE-CHANGE-20261111-138",
+              "CE-CHANGE-20261111-137"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Bare game-purpose entry and current links remain unchanged;no conditional candidate or unqualified logos presented as live. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Frozen39manifest/source/base bytes independently checked;unchanged guard modes and exact existing registered identities inspected. Documentary outcome: Bare game-purpose entry and current links remain unchanged;no conditional candidate or unqualified logos presented as live. No runtime,settings,browser or publication action. Later actual registered source/support-file/link preparation verified. Actual guard handles sparse snapshot without deletions.26patch/allsourcehashes and3original-contractregressions independently pass;45draft superseded before anybinding/application. Exact26cloudqualification,hookactivation,manifest/publicintegration/receipt remain pending. Later actual32staged Gitversions and1dc6tree reviewed against suppliedqualification/manifest. Hookcode hashes verified and explicit action-time approved localsetting activated;pendingavailability successor prevents finalsource/publicbinding/receiptfreeze. Finalavailabilitycloudpass is now parent-confirmed,while subsequent user-directedportfolio presentation remains unintegrated/untested. This recordholds obsolete freeze and preserves exactpredecessorevidence. Finalexact33source/tree2ac9527review completed after parent-confirmed final27aesthetic/cloud/PDFpass. Publicreporting only;pendingnativehardware and product133/137remainexplicit;no teacher/backend/classroom or gamedeployment certified.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish only scoped source-review records/documents/bindings into existing public Blueprint,preserving all unrelated livecontent;independently verify publicrecord/manifest/docs. Only then complete thissource-reporting integration and issue receipt through unchanged registered guard with explicit33paths/evidence. Soleintegrator owns gamecommit/normalguardedpush/livegameverification;no hosted/backend/classroomcompletion claimed."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Append bounded releasecoordination138without replacing learning priority;preserve sole integrator and identify actual release executor as unresolved.",
+            "records": [
+              "CE-CHANGE-20261111-138",
+              "CE-CHANGE-20261111-137"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Append bounded releasecoordination138without replacing learning priority;preserve sole integrator and identify actual release executor as unresolved. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Frozen39manifest/source/base bytes independently checked;unchanged guard modes and exact existing registered identities inspected. Documentary outcome: Append bounded releasecoordination138without replacing learning priority;preserve sole integrator and identify actual release executor as unresolved. No runtime,settings,browser or publication action. Later actual registered source/support-file/link preparation verified. Actual guard handles sparse snapshot without deletions.26patch/allsourcehashes and3original-contractregressions independently pass;45draft superseded before anybinding/application. Exact26cloudqualification,hookactivation,manifest/publicintegration/receipt remain pending. Later actual32staged Gitversions and1dc6tree reviewed against suppliedqualification/manifest. Hookcode hashes verified and explicit action-time approved localsetting activated;pendingavailability successor prevents finalsource/publicbinding/receiptfreeze. Finalavailabilitycloudpass is now parent-confirmed,while subsequent user-directedportfolio presentation remains unintegrated/untested. This recordholds obsolete freeze and preserves exactpredecessorevidence. Finalexact33source/tree2ac9527review completed after parent-confirmed final27aesthetic/cloud/PDFpass. Publicreporting only;pendingnativehardware and product133/137remainexplicit;no teacher/backend/classroom or gamedeployment certified.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish only scoped source-review records/documents/bindings into existing public Blueprint,preserving all unrelated livecontent;independently verify publicrecord/manifest/docs. Only then complete thissource-reporting integration and issue receipt through unchanged registered guard with explicit33paths/evidence. Soleintegrator owns gamecommit/normalguardedpush/livegameverification;no hosted/backend/classroomcompletion claimed."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Preserve existing133to137records and explicit latest publication intent. Do not rewrite broader67filequalification as narrower39filefinal acceptance.",
+            "records": [
+              "CE-CHANGE-20261111-138",
+              "CE-CHANGE-20261111-137"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Preserve existing133to137records and explicit latest publication intent. Do not rewrite broader67filequalification as narrower39filefinal acceptance. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Frozen39manifest/source/base bytes independently checked;unchanged guard modes and exact existing registered identities inspected. Documentary outcome: Preserve existing133to137records and explicit latest publication intent. Do not rewrite broader67filequalification as narrower39filefinal acceptance. No runtime,settings,browser or publication action. Later actual registered source/support-file/link preparation verified. Actual guard handles sparse snapshot without deletions.26patch/allsourcehashes and3original-contractregressions independently pass;45draft superseded before anybinding/application. Exact26cloudqualification,hookactivation,manifest/publicintegration/receipt remain pending. Later actual32staged Gitversions and1dc6tree reviewed against suppliedqualification/manifest. Hookcode hashes verified and explicit action-time approved localsetting activated;pendingavailability successor prevents finalsource/publicbinding/receiptfreeze. Finalavailabilitycloudpass is now parent-confirmed,while subsequent user-directedportfolio presentation remains unintegrated/untested. This recordholds obsolete freeze and preserves exactpredecessorevidence. Finalexact33source/tree2ac9527review completed after parent-confirmed final27aesthetic/cloud/PDFpass. Publicreporting only;pendingnativehardware and product133/137remainexplicit;no teacher/backend/classroom or gamedeployment certified.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish only scoped source-review records/documents/bindings into existing public Blueprint,preserving all unrelated livecontent;independently verify publicrecord/manifest/docs. Only then complete thissource-reporting integration and issue receipt through unchanged registered guard with explicit33paths/evidence. Soleintegrator owns gamecommit/normalguardedpush/livegameverification;no hosted/backend/classroomcompletion claimed."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Registered actual standalone source has explicit user-approved localprepushactivation complete and unchanged code. Currentcfcb83aestaged review remains held for exactcloudpresentation/publicbinding/receipt;no privateBlueprintexport.",
+            "records": [
+              "CE-CHANGE-20261111-138",
+              "CE-CHANGE-20261111-137"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Use unchanged registered-source,publicbinding,receipt/prepush and selfcontained cloudCImodes. No fake remote path,privateBlueprint export or protection weakening. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Frozen39manifest/source/base bytes independently checked;unchanged guard modes and exact existing registered identities inspected. Documentary outcome: Use unchanged registered-source,publicbinding,receipt/prepush and selfcontained cloudCImodes. No fake remote path,privateBlueprint export or protection weakening. No runtime,settings,browser or publication action. Later actual registered source/support-file/link preparation verified. Actual guard handles sparse snapshot without deletions.26patch/allsourcehashes and3original-contractregressions independently pass;45draft superseded before anybinding/application. Exact26cloudqualification,hookactivation,manifest/publicintegration/receipt remain pending. Later actual32staged Gitversions and1dc6tree reviewed against suppliedqualification/manifest. Hookcode hashes verified and explicit action-time approved localsetting activated;pendingavailability successor prevents finalsource/publicbinding/receiptfreeze. Finalavailabilitycloudpass is now parent-confirmed,while subsequent user-directedportfolio presentation remains unintegrated/untested. This recordholds obsolete freeze and preserves exactpredecessorevidence. Finalexact33source/tree2ac9527review completed after parent-confirmed final27aesthetic/cloud/PDFpass. Publicreporting only;pendingnativehardware and product133/137remainexplicit;no teacher/backend/classroom or gamedeployment certified.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish only scoped source-review records/documents/bindings into existing public Blueprint,preserving all unrelated livecontent;independently verify publicrecord/manifest/docs. Only then complete thissource-reporting integration and issue receipt through unchanged registered guard with explicit33paths/evidence. Soleintegrator owns gamecommit/normalguardedpush/livegameverification;no hosted/backend/classroomcompletion claimed."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Generate current local coordination document/records and verify parity;not a Blueprint or game deployment.",
+            "records": [
+              "CE-CHANGE-20261111-138",
+              "CE-CHANGE-20261111-137"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Generate current local coordination document/records and verify parity;not a Blueprint or game deployment. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Frozen39manifest/source/base bytes independently checked;unchanged guard modes and exact existing registered identities inspected. Documentary outcome: Generate current local coordination document/records and verify parity;not a Blueprint or game deployment. No runtime,settings,browser or publication action. Later actual registered source/support-file/link preparation verified. Actual guard handles sparse snapshot without deletions.26patch/allsourcehashes and3original-contractregressions independently pass;45draft superseded before anybinding/application. Exact26cloudqualification,hookactivation,manifest/publicintegration/receipt remain pending. Later actual32staged Gitversions and1dc6tree reviewed against suppliedqualification/manifest. Hookcode hashes verified and explicit action-time approved localsetting activated;pendingavailability successor prevents finalsource/publicbinding/receiptfreeze. Finalavailabilitycloudpass is now parent-confirmed,while subsequent user-directedportfolio presentation remains unintegrated/untested. This recordholds obsolete freeze and preserves exactpredecessorevidence. Finalexact33source/tree2ac9527review completed after parent-confirmed final27aesthetic/cloud/PDFpass. Publicreporting only;pendingnativehardware and product133/137remainexplicit;no teacher/backend/classroom or gamedeployment certified.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish only scoped source-review records/documents/bindings into existing public Blueprint,preserving all unrelated livecontent;independently verify publicrecord/manifest/docs. Only then complete thissource-reporting integration and issue receipt through unchanged registered guard with explicit33paths/evidence. Soleintegrator owns gamecommit/normalguardedpush/livegameverification;no hosted/backend/classroomcompletion claimed."
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Publish narrowly scoped Blueprint source-review records/docs and exact33bindings,then independently verify actual publicrecord/manifest/readerbytes before complete. No gamepublication claimed.",
+            "records": [
+              "CE-CHANGE-20261111-138",
+              "CE-CHANGE-20261111-137"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Retain requested frontend publication but wait for final source/logos/repairs,staging choice,classifiedCIand qualified protected execution identity. No receipt or readiness claimed. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Actual public projection/manifest/docs must be verified after first publication;no receipt can issue before the matching completed integration is genuinely public.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish only scoped source-review records/documents/bindings into existing public Blueprint,preserving all unrelated livecontent;independently verify publicrecord/manifest/docs. Only then complete thissource-reporting integration and issue receipt through unchanged registered guard with explicit33paths/evidence. Soleintegrator owns gamecommit/normalguardedpush/livegameverification;no hosted/backend/classroomcompletion claimed."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Exact33Gitversions bind actualregisteredsource:27qualifiedproduct+5unchangedguards+manifest315hashes104modules. Localartifact/native/historical qualifications remain distinguished.",
+            "records": [
+              "CE-CHANGE-20261111-138",
+              "CE-CHANGE-20261111-137"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Frozen39runtimefiles,109staticedges and28hostedArchonexclusions documented. Logo/repair successor and actual generated manifest/support-fileGitbindings are not frozen. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Frozen39manifest/source/base bytes independently checked;unchanged guard modes and exact existing registered identities inspected. Documentary outcome: Frozen39runtimefiles,109staticedges and28hostedArchonexclusions documented. Logo/repair successor and actual generated manifest/support-fileGitbindings are not frozen. No runtime,settings,browser or publication action. Later actual registered source/support-file/link preparation verified. Actual guard handles sparse snapshot without deletions.26patch/allsourcehashes and3original-contractregressions independently pass;45draft superseded before anybinding/application. Exact26cloudqualification,hookactivation,manifest/publicintegration/receipt remain pending. Later actual32staged Gitversions and1dc6tree reviewed against suppliedqualification/manifest. Hookcode hashes verified and explicit action-time approved localsetting activated;pendingavailability successor prevents finalsource/publicbinding/receiptfreeze. Finalavailabilitycloudpass is now parent-confirmed,while subsequent user-directedportfolio presentation remains unintegrated/untested. This recordholds obsolete freeze and preserves exactpredecessorevidence. Finalexact33source/tree2ac9527review completed after parent-confirmed final27aesthetic/cloud/PDFpass. Publicreporting only;pendingnativehardware and product133/137remainexplicit;no teacher/backend/classroom or gamedeployment certified.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish only scoped source-review records/documents/bindings into existing public Blueprint,preserving all unrelated livecontent;independently verify publicrecord/manifest/docs. Only then complete thissource-reporting integration and issue receipt through unchanged registered guard with explicit33paths/evidence. Soleintegrator owns gamecommit/normalguardedpush/livegameverification;no hosted/backend/classroomcompletion claimed."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Existing dirtyd354/a997repositories,configs/status and baseline receipts preserved. Actual standalone sparse guard seesonly5supportadditions/zero deletions;no runtimecandidate applied or45binding issued.",
+            "records": [
+              "CE-CHANGE-20261111-138",
+              "CE-CHANGE-20261111-137"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Preserve91dirty releaseassettypechanges,initiative-local a997baseline,existing receipts and navigation/Flyover work. No reset,whole-treecopy or competing writer. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Frozen39manifest/source/base bytes independently checked;unchanged guard modes and exact existing registered identities inspected. Documentary outcome: Preserve91dirty releaseassettypechanges,initiative-local a997baseline,existing receipts and navigation/Flyover work. No reset,whole-treecopy or competing writer. No runtime,settings,browser or publication action. Later actual registered source/support-file/link preparation verified. Actual guard handles sparse snapshot without deletions.26patch/allsourcehashes and3original-contractregressions independently pass;45draft superseded before anybinding/application. Exact26cloudqualification,hookactivation,manifest/publicintegration/receipt remain pending. Later actual32staged Gitversions and1dc6tree reviewed against suppliedqualification/manifest. Hookcode hashes verified and explicit action-time approved localsetting activated;pendingavailability successor prevents finalsource/publicbinding/receiptfreeze. Finalavailabilitycloudpass is now parent-confirmed,while subsequent user-directedportfolio presentation remains unintegrated/untested. This recordholds obsolete freeze and preserves exactpredecessorevidence. Finalexact33source/tree2ac9527review completed after parent-confirmed final27aesthetic/cloud/PDFpass. Publicreporting only;pendingnativehardware and product133/137remainexplicit;no teacher/backend/classroom or gamedeployment certified.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish only scoped source-review records/documents/bindings into existing public Blueprint,preserving all unrelated livecontent;independently verify publicrecord/manifest/docs. Only then complete thissource-reporting integration and issue receipt through unchanged registered guard with explicit33paths/evidence. Soleintegrator owns gamecommit/normalguardedpush/livegameverification;no hosted/backend/classroomcompletion claimed."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Link supplied exact handoff/manifest and qualification reports;distinguish actual path/commonGit facts from uncreated proposal and cloudworker metadata still required.",
+            "records": [
+              "CE-CHANGE-20261111-138",
+              "CE-CHANGE-20261111-137"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Link supplied exact handoff/manifest and qualification reports;distinguish actual path/commonGit facts from uncreated proposal and cloudworker metadata still required. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Frozen39manifest/source/base bytes independently checked;unchanged guard modes and exact existing registered identities inspected. Documentary outcome: Link supplied exact handoff/manifest and qualification reports;distinguish actual path/commonGit facts from uncreated proposal and cloudworker metadata still required. No runtime,settings,browser or publication action. Later actual registered source/support-file/link preparation verified. Actual guard handles sparse snapshot without deletions.26patch/allsourcehashes and3original-contractregressions independently pass;45draft superseded before anybinding/application. Exact26cloudqualification,hookactivation,manifest/publicintegration/receipt remain pending. Later actual32staged Gitversions and1dc6tree reviewed against suppliedqualification/manifest. Hookcode hashes verified and explicit action-time approved localsetting activated;pendingavailability successor prevents finalsource/publicbinding/receiptfreeze. Finalavailabilitycloudpass is now parent-confirmed,while subsequent user-directedportfolio presentation remains unintegrated/untested. This recordholds obsolete freeze and preserves exactpredecessorevidence. Finalexact33source/tree2ac9527review completed after parent-confirmed final27aesthetic/cloud/PDFpass. Publicreporting only;pendingnativehardware and product133/137remainexplicit;no teacher/backend/classroom or gamedeployment certified.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish only scoped source-review records/documents/bindings into existing public Blueprint,preserving all unrelated livecontent;independently verify publicrecord/manifest/docs. Only then complete thissource-reporting integration and issue receipt through unchanged registered guard with explicit33paths/evidence. Soleintegrator owns gamecommit/normalguardedpush/livegameverification;no hosted/backend/classroomcompletion claimed."
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "Finalaesthetic reuses actualMarket/Mara/sixlogos;cloud1280/390rendered/PDFacceptance reported. No newmedia copied into Blueprint;decorativeimagesabsent in PDF and nativeprintdialogunverified.",
+            "records": [
+              "CE-CHANGE-20261111-138",
+              "CE-CHANGE-20261111-137"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Sixlogos are being serially integrated by owner;no new media copied or called final/live here. No browser,capture or public artwork upload. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Frozen39manifest/source/base bytes independently checked;unchanged guard modes and exact existing registered identities inspected. Documentary outcome: Sixlogos are being serially integrated by owner;no new media copied or called final/live here. No browser,capture or public artwork upload. No runtime,settings,browser or publication action. Later actual registered source/support-file/link preparation verified. Actual guard handles sparse snapshot without deletions.26patch/allsourcehashes and3original-contractregressions independently pass;45draft superseded before anybinding/application. Exact26cloudqualification,hookactivation,manifest/publicintegration/receipt remain pending. Later actual32staged Gitversions and1dc6tree reviewed against suppliedqualification/manifest. Hookcode hashes verified and explicit action-time approved localsetting activated;pendingavailability successor prevents finalsource/publicbinding/receiptfreeze. Finalavailabilitycloudpass is now parent-confirmed,while subsequent user-directedportfolio presentation remains unintegrated/untested. This recordholds obsolete freeze and preserves exactpredecessorevidence. Finalexact33source/tree2ac9527review completed after parent-confirmed final27aesthetic/cloud/PDFpass. Publicreporting only;pendingnativehardware and product133/137remainexplicit;no teacher/backend/classroom or gamedeployment certified.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish only scoped source-review records/documents/bindings into existing public Blueprint,preserving all unrelated livecontent;independently verify publicrecord/manifest/docs. Only then complete thissource-reporting integration and issue receipt through unchanged registered guard with explicit33paths/evidence. Soleintegrator owns gamecommit/normalguardedpush/livegameverification;no hosted/backend/classroomcompletion claimed."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Existing frontend/PDF/sixlogospublication and clearlyunavailableArchonstage retained;exact localhookactivation approved and completed. No repeatsetup/staging/publishingapproval requested.",
+            "records": [
+              "CE-CHANGE-20261111-138",
+              "CE-CHANGE-20261111-137"
+            ],
+            "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+            "acceptance": "Explicit user frontend/logos publication request retained;no generic reapproval. Parent must resolve consequential unavailableArchonstage and actual executor/setupscope;no gateway settings authorized. Verify the exact relevant source/procedure and independent publication evidence before closure.",
+            "evidence": [
+              "docs/production/entrance-release-coordination-20261111.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Frozen39manifest/source/base bytes independently checked;unchanged guard modes and exact existing registered identities inspected. Documentary outcome: Explicit user frontend/logos publication request retained;no generic reapproval. Parent must resolve consequential unavailableArchonstage and actual executor/setupscope;no gateway settings authorized. No runtime,settings,browser or publication action. Later actual registered source/support-file/link preparation verified. Actual guard handles sparse snapshot without deletions.26patch/allsourcehashes and3original-contractregressions independently pass;45draft superseded before anybinding/application. Exact26cloudqualification,hookactivation,manifest/publicintegration/receipt remain pending. Later actual32staged Gitversions and1dc6tree reviewed against suppliedqualification/manifest. Hookcode hashes verified and explicit action-time approved localsetting activated;pendingavailability successor prevents finalsource/publicbinding/receiptfreeze. Finalavailabilitycloudpass is now parent-confirmed,while subsequent user-directedportfolio presentation remains unintegrated/untested. This recordholds obsolete freeze and preserves exactpredecessorevidence. Finalexact33source/tree2ac9527review completed after parent-confirmed final27aesthetic/cloud/PDFpass. Publicreporting only;pendingnativehardware and product133/137remainexplicit;no teacher/backend/classroom or gamedeployment certified.",
+              "date": "2026-11-11"
+            },
+            "nextAction": "Publish only scoped source-review records/documents/bindings into existing public Blueprint,preserving all unrelated livecontent;independently verify publicrecord/manifest/docs. Only then complete thissource-reporting integration and issue receipt through unchanged registered guard with explicit33paths/evidence. Soleintegrator owns gamecommit/normalguardedpush/livegameverification;no hosted/backend/classroomcompletion claimed."
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            ".career-empire/check.mjs": "100644:2cdc50f42eb88eaeedaee20d33697f167b70f407",
+            ".career-empire/guard.mjs": "100644:56e57fae386df5374b76ad4b71db032445822989",
+            ".career-empire/hooks/pre-push": "100755:fc027de48ad849c57935f67909d9e7b1375cbe30",
+            ".career-empire/project-id": "100644:993e0b404727324ba9a71b755aef04a9342caf3a",
+            "Assets/employability-logos/initiative/being-proactive.png": "100644:965415b1d9d65bf4186f648f0a3e5ecdc2c33808",
+            "Assets/employability-logos/initiative/helping-fellow-workers.png": "100644:672fcc5e76c8671f7659c3239e2030c90c020c4c",
+            "Assets/employability-logos/initiative/improving-work-practices.png": "100644:678f80a953beddf173217591f09e8e6cad2ac528",
+            "Assets/employability-logos/initiative/initiative.png": "100644:d96f3e7c914baf5843464bdc3ad13ddd7391be30",
+            "Assets/employability-logos/initiative/seeking-more-responsibilities.png": "100644:af709ca2247545531ea72ad739e0436cfa80ffec",
+            "Assets/employability-logos/initiative/vocalising-opinions.png": "100644:7b52d890e68492dd52e00b42a0686a89f2fba04f",
+            "CAREER-EMPIRE-WORKFLOW.md": "100644:7978f67f1be48f1d1d016ae0d5651d28439d292d",
+            "dashboards/dashboard.js": "100644:9af5ec371dbe1cd8dc900d7a835b9413ac2f9786",
+            "dashboards/initiative-portfolio.css": "100644:b0c526e3a6870f6aae159fcd4061d8c4b60e4141",
+            "dashboards/student.html": "100644:696ba6f58bf5186b06662657a533e80639919579",
+            "data/employability-skills.json": "100644:5bdfc626cc1bee4ce752ef2b91ca476b4700845e",
+            "modules/initiative/parallel/integration/market-learning-host.mjs": "100644:ac09b388de1d1a6e3659587ef53e52033b4c7ded",
+            "modules/initiative/parallel/learning/lesson.css": "100644:c584fbfc46ad8bd201f6f74f329e4ce67acd052e",
+            "modules/initiative/parallel/learning/lesson.mjs": "100644:1478c01f7870acffe1c4ae9a9dccb57ff9e2a5f2",
+            "modules/initiative/parallel/learning/library.json": "100644:dbfdb8c545995c1a103e9d71632ae6ac33e6b70d",
+            "modules/initiative/parallel/learning/portfolio/images.manifest.json": "100644:9cea55cc3af9cc80cc24767c008a13daf7d0780b",
+            "modules/initiative/parallel/learning/portfolio/initiative-portfolio.mjs": "100644:f9d3a17f23e0cefcd0a2e908a4d4721b4b9444c3",
+            "playable-3d/app.js": "100644:93ba32aa0506f820338f358f2da9c15c79aa0c56",
+            "playable-3d/guest-shell.mjs": "100644:15366e9670e57adfcc478e769e74348a336eebdb",
+            "playable-3d/index.html": "100644:809f60c699517ea6a9a58896e4d4d536912c1fe2",
+            "playable-3d/initiative-market.mjs": "100644:8164dfd0b8809ab5912442c83955fc6cbc563427",
+            "playable-3d/market-archon.mjs": "100644:00742d634d869b23f5ae8617655804f8743e853d",
+            "playable-3d/market-entrance/entrance.css": "100644:310c4e72472bebe2e45ab3981436f7ecaa03e95b",
+            "playable-3d/market-entrance/mara-portrait.png": "100644:b8ce2347907b2b1360d58948c3cfc858f7c863b6",
+            "playable-3d/market-entrance/market-entrance.mjs": "100644:8a605d2efa22cd01786eca530142a6399ad6783f",
+            "playable-3d/market-entrance/market-trial.jpg": "100644:b6f0f30f7d7af448b1519030740c20e80d882204",
+            "playable-3d/market-learning-routes.mjs": "100644:07a0434ce589c56455fffb2df8f8c0b2890ec5b4",
+            "playable-3d/night-market.js": "100644:ec4c6d8a6ee3f79791ef4cad859036d0249d83fd",
+            "playable-3d/release-manifest.json": "100644:3793025fe195822b35af65332cd9b039866bb42f"
+          }
+        }
       }
     ],
     "releaseHistory": [
@@ -94748,6 +96346,33 @@
     }
   ],
   "sourceDocuments": [
+    {
+      "id": "CE-ENTRANCE-RELEASE-20261111",
+      "group": "builds",
+      "title": "Entrance publication request · conditional release coordination",
+      "edition": "11 November2026 / qualification incomplete",
+      "format": "Website",
+      "href": "/production/entrance-release-coordination-20261111.html",
+      "note": "Source reference for requested frontend/PDF/six-logo release with Archon clearly unavailable. Exact27product/33stagedsource qualified:finalaesthetic/images/sixlogos/anonymousPDF/return pass1280/390asreported;315manifesthashes104modules. Source-binding publication/verification pending;threebaseline-identical nativechecks remain unverified. No gamepublication claimed. No readiness or deployment claimed."
+    },
+    {
+      "id": "CE-MARKETS-ENTRANCE-20261111",
+      "group": "builds",
+      "title": "Initiative entrance and anonymous portfolio · local integration",
+      "edition": "11 November2026 / integrated locally,not published",
+      "format": "Website",
+      "href": "/production/markets-entrance-initiative-20261111.html",
+      "note": "Source reference for immediate four-route infographic,all five ways/three benefits and anonymous STAR/PDF return. Exact10entrance/12portfolio serial chain and28Archonfrontend files verified. Cloud PostgreSQL/Deno tests use RPCshim,not genuine hosted Supabase. Teacher,security and publication acceptance remain open."
+    },
+    {
+      "id": "CE-INITIATIVE-SHARED-20261110",
+      "group": "builds",
+      "title": "Shared Initiative learning: sources, flow and unfinished checks",
+      "edition": "10 November 2026 / locally integrated Phase1; isolated fixture evidence",
+      "format": "Website",
+      "href": "/production/initiative-shared-learning-20261110.html",
+      "note": "Source reference for the locally integrated Phase 1 chooser and shared notes: 414 unit tests and isolated fixtures at 1280/390 px pass. Later actual-local Archon full-match/replay and same-seat return are reported; no hosted endpoint or teacher backend. The Initiative requirements match official 2027 v7; the baseline stays unchanged. Broader pathways and real-service/full-journey acceptance remain open. No deployment."
+    },
     {
       "id": "CE-ECC-RELEASE-20261012",
       "group": "builds",
