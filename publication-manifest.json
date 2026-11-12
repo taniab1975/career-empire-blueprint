@@ -1,8 +1,8 @@
 {
   "sourceCommit": "45fd704ace479f7d1936107c9bf197273667e736",
-  "generatedAt": "2026-11-12T15:33:54.939512+00:00",
+  "generatedAt": "2026-11-12T15:51:09.267683+00:00",
   "revision": "V2.41 / 12 November 2026",
-  "recordSha256": "a343f98ae19a08f9a8fcaea773bdd6b8ef986fd5143b36512128b5124b581918",
+  "recordSha256": "64f4a359a3673b3fbf986f2571bf89a0d3ab57a3c29e78bcbdefd7e7d2e9fc19",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -2842,42 +2842,42 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "a343f98ae19a08f9a8fcaea773bdd6b8ef986fd5143b36512128b5124b581918"
+      "sha256": "64f4a359a3673b3fbf986f2571bf89a0d3ab57a3c29e78bcbdefd7e7d2e9fc19"
     },
     {
       "path": "production/initiative-notes-worksheet-20261112.md",
-      "sha256": "36ba8fd3a6d2f57e7792e925ab41bc459bf3268d524763aa8020a023d878e494"
+      "sha256": "cadc4ba51cfb24e8892522dbaf989d6ef6952da7f00c403707333f667cf9055e"
     },
     {
       "path": "production/initiative-notes-worksheet-20261112.html",
-      "sha256": "fa991c30182e4f7f50d02428f2e21f4bb75cbd49fa528a86b86f4f5f20731516"
+      "sha256": "8aee972cdc67c47c304473f60efc37c3586bfac026e38cc25be6abf42387cb7d"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "4c6d085ab9e17f6e26d22286d715eccc1b84ac5352cb2c4d33e6a1316eab7eec"
+      "sha256": "c7254fb8b9f0a757d6ffb79f06085d00eafca0ca31e804c200e0e73878a910b1"
     },
     {
       "path": "production/current-state.html",
-      "sha256": "ecf64aca31463c56b2eccca845565263bc93bdb9353f4227b85152db069bee0e"
+      "sha256": "4a992ab1d8aef143873646cedf4c8ed6487297fb75f519d1b8e956df623668ba"
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "cd0a1dff4f5d677d022d82ecc23ffa52454fc71decebfa5322ff11a85b9197f7"
+      "sha256": "c2daa2ed6e183e1e619f951da8e6655dc357ac1a409801822ca888bff563f3a7"
     },
     {
       "path": "production/year-map-coverage-20260925.md",
-      "sha256": "0a4555eadb281669a1bddfe39692bab3585432cb778c79feceb8a5c924dc73db"
+      "sha256": "6ec3e77cd14a22d4b82592e25413548709fd4317c5df375cfbe0d78df51a7092"
     },
     {
       "path": "evidence/notes-worksheet-20261112/worksheet-1920.png",
-      "sha256": "96c7e534e9a8efe669720d9cbae0e6322ffba719a6edda959d72696fe58e1c93"
+      "sha256": "90d602b710081c2604829976124fa9aa961a2e679577dfef1794a57fb18a858d"
     },
     {
       "path": "evidence/notes-worksheet-20261112/worksheet-390.png",
       "sha256": "17d9d5b327bef22d5ae562cb23926b510aadc2f2833a4f292f584e3efac9d69c"
     }
   ],
-  "recordPublicationScope": "Preserve prior V2.41 reader, all integration objects and game releases; add145 exact Notes source review, explicit curriculum provision and two staged actual-game screenshots only.",
+  "recordPublicationScope": "Preserve V2.41 bundles and all immutable integrations; close verified145 Notes game publication/current actions/curriculum provision and replace two staged captures with actual live fictional-response captures only.",
   "sourceRecovery": "Tested source saved in local Git; separate private recovery upload rejected by automatic approval review and not retried.",
   "verificationLimits": "Live StartHere,Phase0/1,student zoom,teacher fit-width dropdown,places and pedagogy verified. Narrow layout actual520px with local table scrolling. Guest/fictional captures only; no school or authenticated teacher acceptance."
 }
