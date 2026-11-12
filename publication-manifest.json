@@ -1,12 +1,20 @@
 {
-  "sourceCommit": "09fdb6c243ead8c8986153f3ca6fa9ea36b1aa4b",
-  "generatedAt": "2026-11-12T00:21:55.098159+00:00",
-  "revision": "V2.40 / 3 November 2026",
-  "recordSha256": "4856c717596aba03e1b1d6f25fb5db3a2a6eb613f5652b20ffe18ca3d1e21828",
+  "sourceCommit": "818ee3f3249a140df1c44c38173d225455de951e",
+  "generatedAt": "2026-11-12T02:43:39.990Z",
+  "revision": "V2.41 / 12 November 2026",
+  "recordSha256": "79ec088695eeb94506d9e6c4229a98ee85b4aa81da910b82e4715c4fd72b3f61",
   "files": [
     {
       "path": "assets/curriculum-planner-CaXpHcay.js",
       "sha256": "1b7e9d9677e4a0936bf5c5a179e0b8ed95813da177871f7a38e48b877f3a9ce3"
+    },
+    {
+      "path": "assets/curriculum-planner-DVZiHVvL.js",
+      "sha256": "dd735717f957db591c6dc0a0e382d3654be498d318e4f6b78a45af1e2bfb56aa"
+    },
+    {
+      "path": "assets/index-BtXnwLD_.js",
+      "sha256": "3426b07010109d5a2fc5d557183bc85ad8faedd7f7c151e8dddc4b639cf3b1c8"
     },
     {
       "path": "assets/index-DGeuVEv8.js",
@@ -21,8 +29,12 @@
       "sha256": "58c559ab1cb710b87a4af84658c9db97d283b6485be6e0c50bb8e09d2f0a0ed8"
     },
     {
+      "path": "assets/index-ukGF-7-G.css",
+      "sha256": "82a8a5adcbbe2920fe5ab8c6ea09ccc8b8fe8d7aaa8d1e2a753d2130f8df4a89"
+    },
+    {
       "path": "blueprint-records.json",
-      "sha256": "4856c717596aba03e1b1d6f25fb5db3a2a6eb613f5652b20ffe18ca3d1e21828"
+      "sha256": "79ec088695eeb94506d9e6c4229a98ee85b4aa81da910b82e4715c4fd72b3f61"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1073,6 +1085,174 @@
       "sha256": "9491466db57e5fd329669336cb64401d5b2d6e5f1ea9db86db4c259024f40373"
     },
     {
+      "path": "evidence/live-game-20261112/campus-arrival.jpg",
+      "sha256": "255b9ad07cfe826dce9f617b6657c3bd05c973b4b9ccfdf1dc8e6d17f617374b"
+    },
+    {
+      "path": "evidence/live-game-20261112/campus-map.jpg",
+      "sha256": "1c807272428471d2116cc2887af47c8532a3661abd6731ffaed039a8a13377d6"
+    },
+    {
+      "path": "evidence/live-game-20261112/capabilities-catalogue.jpg",
+      "sha256": "93abd52907ac2f381e0bd1008c152c107cae3ece0a80e3171edaba456183a730"
+    },
+    {
+      "path": "evidence/live-game-20261112/careers-capabilities-map.jpg",
+      "sha256": "dea354dee2662bda53299518d597ac6dfcc875cccbe0cb23ab76e0067aca84df"
+    },
+    {
+      "path": "evidence/live-game-20261112/careers-capabilities-monitor.jpg",
+      "sha256": "f4c1a26a47b541ecde739ce420f1686d3add0f3bf3e43f28f6e9a0dc9f0f3327"
+    },
+    {
+      "path": "evidence/live-game-20261112/est-briefing-controls.jpg",
+      "sha256": "0e60ab008d340050f89d26bda1a38e8d77720f2cdc813445f7be0bfcbf508a08"
+    },
+    {
+      "path": "evidence/live-game-20261112/est-room.jpg",
+      "sha256": "ef8b2d5a819f77ddaadff0961f303bec14f2c60ba15e3002ad1299ff02a7cda4"
+    },
+    {
+      "path": "evidence/live-game-20261112/mara-feedback.jpg",
+      "sha256": "977fa5b6e8c26be5e1387858550d838d9fc235ab8150e786a06e56368daeba4e"
+    },
+    {
+      "path": "evidence/live-game-20261112/mara-introduction.jpg",
+      "sha256": "6591fcb904d1d1c70c13b282d1540f9453764516ed97ee7d6fbba3ea2b38abf8"
+    },
+    {
+      "path": "evidence/live-game-20261112/mara-market-start.jpg",
+      "sha256": "515c21b0ce56835048c66b47860da846e64d4385a87b14fb75c9ebfcba57e43e"
+    },
+    {
+      "path": "evidence/live-game-20261112/mara-observe.jpg",
+      "sha256": "e6baccf701aee148c9da642545405d15c8128e63100fb82b88169fa2af986ec3"
+    },
+    {
+      "path": "evidence/live-game-20261112/mara-shift-offer.jpg",
+      "sha256": "8140d1ab0e5f31972aca23648695b59a32edec9add4732e409cc18ea9715c63a"
+    },
+    {
+      "path": "evidence/live-game-20261112/market-classroom-word.jpg",
+      "sha256": "2696bf72cb20eed2328c77176383b484f47ee45484bba691fc6940f8606e93c8"
+    },
+    {
+      "path": "evidence/live-game-20261112/market-entrance.jpg",
+      "sha256": "c4e61608e2a2233310e5cffd9944fcce78e9360e2f713186a3f797fdee8cbeca"
+    },
+    {
+      "path": "evidence/live-game-20261112/market-exterior.jpg",
+      "sha256": "cfa6318389bf053933c64e6db8f41a6e476ac27e66474a975884820dc8a393eb"
+    },
+    {
+      "path": "evidence/live-game-20261112/market-notes.jpg",
+      "sha256": "0b2c91cf6757544e0f973e8260b724c59a5ac92ac36543ca1ef16163cc4df706"
+    },
+    {
+      "path": "evidence/live-game-20261112/opening.jpg",
+      "sha256": "934577c5630870b030fadb4148b25cd7d67abc9e8a91cd9ddc53f39dffc7f9f0"
+    },
+    {
+      "path": "evidence/live-game-20261112/places.jpg",
+      "sha256": "f8780116b5936cd51a67b51e493fd17b45a6683fcab10d9d5c109a2664adfabd"
+    },
+    {
+      "path": "evidence/live-game-20261112/portfolio-builder.jpg",
+      "sha256": "4f94999f084f9dfb9b9c8cc669b6c387a1d09e5173f5da796bef82c9f185b51b"
+    },
+    {
+      "path": "evidence/live-game-20261112/portfolio-log.jpg",
+      "sha256": "7f35668b3f23226c855b936a8788accaf17ded38c2850e86bd53f6ca081b89c6"
+    },
+    {
+      "path": "evidence/live-game-20261112/stats-my-journey.jpg",
+      "sha256": "32702b317da769b1196e4cc87c1a447689618be9cae319c6325aa16ab10572b6"
+    },
+    {
+      "path": "evidence/live-game-20261112/student-hub-demo.jpg",
+      "sha256": "45a56ad5a26cbad4b72b17a67c7d1903ab755488d578d83713d5c13faa3e904b"
+    },
+    {
+      "path": "evidence/live-game-20261112/student-hub-star-form.jpg",
+      "sha256": "eb8dac3d9b1328145089f5458d84d0cae8c3d348d8bd8f33ed384fc982a0a94e"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-00-capability.jpg",
+      "sha256": "464766cd913220c5feabc5f79f4c420dc023a49884eb1d2522adea28ebf72716"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-01-command.jpg",
+      "sha256": "7bbcc8425b3ad0c9fe4b71308522cebd824eb2782909b565a41bd61fbdacf415"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-02-controls.jpg",
+      "sha256": "3f3cd4506c5f6be9100383dc8844fc5c5cac60442f2083d2fdff32aa36d2b357"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-03-modules.jpg",
+      "sha256": "6c1e4c194afcde60dfb0fed1ac29b8754c4d93cb2b989cd6c986e0632dc9e6fb"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-04-focus.jpg",
+      "sha256": "2aebf0dc54703679acbe9a5f109eac1c042eef05776abaaecb16aa9c717c77b4"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-05-metrics.jpg",
+      "sha256": "c56b6c783340de1946a3eec20b5d1787100dbfa5fbe7b634dc61864be73ecaf1"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-06-alert.jpg",
+      "sha256": "de203be9a01bafc8af0f85497a4496ae4b96133332710f7df40c36a87078e47a"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-07-actions.jpg",
+      "sha256": "2dbb77e0bbf3c69d27bd35ad354a21f4a572f2a6a5d48ec10e141a281d74e391"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-08-responses.jpg",
+      "sha256": "e0d5b584c512dd992eaecfe52cf78c2f3bb3cd1e0e740deadf9fa61a4b467e2f"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-09-profile.jpg",
+      "sha256": "93b6aa767d4934d64ac72a91ae4756b4cb8cfb4e73545fbd785e6e7bcb93ff40"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-10-trends.jpg",
+      "sha256": "05cdc479d817b529e6f2141f492f77a7cc16e1fe8401cff6f1c9ab60b265e532"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-11-health.jpg",
+      "sha256": "10225cd1b3ab2e4a1b870285d5fdf246cd2981ff73724859b0acbdcafdb838c9"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-12-compare.jpg",
+      "sha256": "075df3b59606a95ca4dad011aaeddc9e34d8599066e8a5b465ab560ef3b34f31"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-13-engagement.jpg",
+      "sha256": "10f4260e237ec5ff3cfd2bb364d03877663e44a76d6ccc9981c51dc4f432f478"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-14-answers.jpg",
+      "sha256": "c3193e777c10fe64ba0ab11be7792b076e033302e35b1aaec822118d0055d6a0"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-15-feedback.jpg",
+      "sha256": "e500bd299777baa14690bc7c28c82d5aa570e1c30b0c7ca80304eeb46ca0bd22"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-16-time.jpg",
+      "sha256": "2a9090549a7947617c235cd90c3290862993fffc81db34f909dd10d492425057"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-17-store.jpg",
+      "sha256": "7bc0edf07a7b84995a22d5dda95072a41255018c0d217c8d13917716079b893b"
+    },
+    {
+      "path": "evidence/live-game-20261112/teacher-current-sample.jpg",
+      "sha256": "f82bc7c4e64297833aa5568c9eea41b82ef8731ad2375a1cbc9fb0411ba6a88a"
+    },
+    {
       "path": "evidence/market-storyboard-20261024/check1.jpg",
       "sha256": "0f8c9ec7f2dee8490777ee2496b781e8d1afa1600cff07011c7b367898be13d9"
     },
@@ -1490,7 +1670,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "2c26a2c2bb2a5f28f561675ba4e13529106600cbdf9f4190354f3362fed4ef4a"
+      "sha256": "2378f543f9be3497e75d9135f3e19e03c1a5da602955f9015d9dba51ececc3f3"
     },
     {
       "path": "playable-3d/app.js",
@@ -1979,6 +2159,14 @@
     {
       "path": "production/learning-principles-20261021.md",
       "sha256": "b994df03b2153b14e647d4c78de5fd392deb2006ab47b7d7352ef0b0d8612bfc"
+    },
+    {
+      "path": "production/live-game-review-20261112.html",
+      "sha256": "25eff409d10637f604b9fd5f3b51f455764ecb2595468b1d1d2f2a4b039a106c"
+    },
+    {
+      "path": "production/live-game-review-20261112.md",
+      "sha256": "276258b1cf60a16eb7b64ea027edc71c1d6f069efb3cd0e81bcc806a4b0bfda3"
     },
     {
       "path": "production/local-economy-20260923.md",
@@ -2637,19 +2825,7 @@
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
     }
   ],
-  "recordPublicationScope": "Exact3source-review140only;priorrecords/publicapp/contentpreserved;gamepushseparate.",
-  "recordSourceReview": {
-    "integration": "CE-CHANGE-20261112-140",
-    "phase": "complete",
-    "sourceProjectId": "game-initiative-release-20261111",
-    "baseline": "d3544e129682381d397417c08bed0242d5e58d88",
-    "head": "20842798a99c73aca47fa09c2f57335d24487bf9",
-    "stagedTree": "eb6994432d46ae33c2b94283b5349dd8abdf25d8",
-    "versions": 3
-  },
-  "phaseAccessNote": {
-    "scope": "Public classroom pacing word in the Phase 1 Markets walkthrough",
-    "baseRelease": "d9ba20c1f7586455f4cfa45de3a63d0e26eeb547",
-    "asset": "assets/index-phase-access-58c559ab1c.js"
-  }
+  "recordPublicationScope": "Blueprint142 current reader/screenshots only; public139/140 preserved;141CI and game/Archon releases excluded.",
+  "sourceRecovery": "Tested local commit818ee3f; separate private recovery upload rejected by automatic approval review and not retried.",
+  "verificationLimits": "Desktop Phase1 and teacher dropdowns checked locally. Fresh responsive test interrupted by browser connection timeout. Guest/fictional captures only; no school or authenticated teacher acceptance."
 }

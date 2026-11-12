@@ -1,0 +1,57 @@
+# Current game and Blueprint screenshot review
+
+12 November 2026 · CE-CHANGE-20261112-142 · V2.41 candidate
+
+The public game and Pages revision were69aa78e at this review. Screens were captured using ordinary public guest and local fictional-demo controls. No game code, account settings or real learner records were changed.
+
+## What is published
+
+The Market entrance offers Mara, Notes and the anonymous Initiative STAR/PDF log. The fourth control explicitly says **Archon Game — coming soon**. The separate Student Hub uses a single-page STAR form; the anonymous Market builder retains five steps. The Capabilities catalogue contains six original capability families plus Initiative, although its static introduction still says six. EST Prep has four stations and a wall briefing/control panel.
+
+## What this audit could not verify
+
+- The ordinary Start exploring branch stalled at the opening loader. Skip intro exploration and the direct public Market route were observed separately; do not mark the photo trail complete merely because a route was skipped.
+- A fresh Market-to-Careers transition showed an incomplete room view. The standalone public catalogue worked. Retained11November guest monitor/map captures are dated separately.
+- No real teacher login, authenticated saving, class isolation or teacher submission was exercised. All18teacherpanelswerefreshlycapturedfromthecurrentpublicfictionalpromo. ThepromoSTARmatrixhasnoentries;aseparate11Novemberfilledfictionalexampleisretained.
+- Current UI includes the anonymous PDF control; previously qualified automated print evidence is retained. No new native print-dialog completion is claimed.
+- Phases2–11 remain curriculum plans, not a complete implemented course.
+
+## Reader changes
+
+Start Here, Phase0/1 walkthroughs and route maps, places, student progress, pedagogy examples and the featured teacher matrix use the shared current review. Older screenshots and authored proposals remain accessible as dated history. The exact197curriculum rows, references, EST selections and phase mappings are preserved.
+
+## Capture provenance
+
+- mara-market-start · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `515c21b0ce56835048c66b47860da846e64d4385a87b14fb75c9ebfcba57e43e`
+- student-hub-demo · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `45a56ad5a26cbad4b72b17a67c7d1903ab755488d578d83713d5c13faa3e904b`
+- mara-observe · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `e6baccf701aee148c9da642545405d15c8128e63100fb82b88169fa2af986ec3`
+- mara-introduction · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `6591fcb904d1d1c70c13b282d1540f9453764516ed97ee7d6fbba3ea2b38abf8`
+- portfolio-log · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `7f35668b3f23226c855b936a8788accaf17ded38c2850e86bd53f6ca081b89c6`
+- stats-my-journey · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `32702b317da769b1196e4cc87c1a447689618be9cae319c6325aa16ab10572b6`
+- market-classroom-word · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `2696bf72cb20eed2328c77176383b484f47ee45484bba691fc6940f8606e93c8`
+- student-hub-star-form · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `eb8dac3d9b1328145089f5458d84d0cae8c3d348d8bd8f33ed384fc982a0a94e`
+- est-room · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `ef8b2d5a819f77ddaadff0961f303bec14f2c60ba15e3002ad1299ff02a7cda4`
+- market-notes · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `0b2c91cf6757544e0f973e8260b724c59a5ac92ac36543ca1ef16163cc4df706`
+- portfolio-builder · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `4f94999f084f9dfb9b9c8cc669b6c387a1d09e5173f5da796bef82c9f185b51b`
+- campus-arrival · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `255b9ad07cfe826dce9f617b6657c3bd05c973b4b9ccfdf1dc8e6d17f617374b`
+- opening · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `934577c5630870b030fadb4148b25cd7d67abc9e8a91cd9ddc53f39dffc7f9f0`
+- places · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `f8780116b5936cd51a67b51e493fd17b45a6683fcab10d9d5c109a2664adfabd`
+- campus-map · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `1c807272428471d2116cc2887af47c8532a3661abd6731ffaed039a8a13377d6`
+- capabilities-catalogue · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `93abd52907ac2f381e0bd1008c152c107cae3ece0a80e3171edaba456183a730`
+- market-entrance · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `c4e61608e2a2233310e5cffd9944fcce78e9360e2f713186a3f797fdee8cbeca`
+- est-briefing-controls · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `0e60ab008d340050f89d26bda1a38e8d77720f2cdc813445f7be0bfcbf508a08`
+- mara-shift-offer · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `8140d1ab0e5f31972aca23648695b59a32edec9add4732e409cc18ea9715c63a`
+- market-exterior · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `cfa6318389bf053933c64e6db8f41a6e476ac27e66474a975884820dc8a393eb`
+- mara-feedback · Actual live public game · fictional guest or demo · 2026-11-12 · SHA256 `977fa5b6e8c26be5e1387858550d838d9fc235ab8150e786a06e56368daeba4e`
+- teacher-current-sample · Fictional isolated sample · published teacher layout; no live class records · 2026-11-11 · SHA256 `f82bc7c4e64297833aa5568c9eea41b82ef8731ad2375a1cbc9fb0411ba6a88a`
+- careers-capabilities-monitor · Actual live guest capture retained from11November · 2026-11-11 · SHA256 `f4c1a26a47b541ecde739ce420f1686d3add0f3bf3e43f28f6e9a0dc9f0f3327`
+- careers-capabilities-map · Actual live guest map capture retained from11November · 2026-11-11 · SHA256 `dea354dee2662bda53299518d597ac6dfcc875cccbe0cb23ab76e0067aca84df`
+
+## Release boundary
+
+Readerverification andpublicpublication are pending in this candidate. Existing blocked141CIworkflowpublication is excluded;139/140history remains unchanged. Realgame fixes and hostedArchon work stay with their owners.
+
+
+## Fresh current teacher panels
+
+All18guidepanelimagesnowcome frompublicteacher.html?demo=promo on12November. getPromoTeacherDashboardData supplies allfictionalnames,countsanddatedexamples. Nosaving/moderation/module-switchactionswereperformed. Screenscapturevisiblepanels,upto1100pxhigh;scrollablecellsandcolumnsareviewports,notcompleteexports. Theolder2NovemberpanelsremainunderhistoricalSections.

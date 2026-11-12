@@ -27594,7 +27594,7 @@
         "launch": {
           "url": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
           "location": "Public ECC game start; the ordinary start route is the orientation entry.",
-          "status": "Observed deployed24October2026 on ordinary public start; optional tour entry verified, remaining beats source-only."
+          "status": "Public opening and skip branch checked12November2026; guided Start exploring stalled in this audit. Older24October core captures remain historical."
         },
         "implementation": {
           "liveCore": [
@@ -27652,7 +27652,8 @@
               "status": "Historical requested design; current observed flow is in Journey: Proposed classroom-code gate · implementation and access verification pending"
             }
           ],
-          "invitationBoundary": "A future invitation for this year’s students to explore and give feedback is planned. No invitation sent, student trial or release approved."
+          "invitationBoundary": "A future invitation for this year’s students to explore and give feedback is planned. No invitation sent, student trial or release approved.",
+          "currentReviewBoundary": "Dated core list retained from24October; complete guided opening/photo finish was not reverified12November. Skipping does not complete discovery records."
         }
       },
       {
@@ -27660,11 +27661,11 @@
         "unit": "Unit 3",
         "title": "Markets · Choose how to learn Initiative",
         "decision": "At the Market entrance, how would I like to learn about initiative?",
-        "teaching": "Read, watch and take notes using Carolan-based explanations and supporting videos. Teach the concept, five workplace behaviours and three benefits.",
+        "teaching": "Local Phase1 resources now mount the pinned shared foundation lesson:concept,model/non-example,ten terms,seven checks and teacher-review transfer rubric. Supporting videos and PDF export remain separate design provision;benefit assessment is partial.",
         "application": "Choose resources and written answers; talk to Mara at Juniper Kitchen and observe and try an authorised response; or enter Arcade Games, choose Archon Engine and reserve or join a game by ID.",
-        "product": "Resources: downloadable PDF of written responses. Mara: specific action, reason and observed effect. Careers Archon: a written response and peer discussion with an adjudicator’s reasoned verdict.",
+        "product": "Resources:local notes draft and practice/transfer events with content revision and run/profile context. Mara retains original introduction and begun-shift resume. Actual teacher submission,remote visibility and PDF export are not established by this integration.",
         "later": "Phase 6 returns to Mara with more independent thinking, team roles and changed constraints.",
-        "limit": "Proposed three-choice entrance and PDF export. Mara has dated evidence and Careers Archon is a separate local prototype. Choosing or completing a pathway does not establish assessment or mastery.",
+        "limit": "Local Phase 1 integration: 414 unit tests and isolated fixtures at 1280/390 px pass. The Archon frame test uses a fictional endpoint; real service configuration and teacher backend are absent. Broader module isolation, answer/model/arcade hydration, the full Mara shift, physical campus and school-device checks remain open. Official 2026 v6 and 2027 v7 Initiative requirements match for EB-01/02/03; the retained 2027 baseline is unchanged. Assessment breadth and teaching quality still require review. No deployment or mastery claim.",
         "skills": [
           {
             "id": "CEM12-U3-ES-COM-01",
@@ -27824,7 +27825,7 @@
         "launch": {
           "url": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/?experience=night-market&market-review=1",
           "location": "Outside the market entrance, facing inward toward Juniper Kitchen",
-          "status": "verified scene entry only; teaching plan is proposed"
+          "status": "Published Market entrance, Mara, Notes and anonymous STAR/PDF checked12November2026; Archon coming soon. Real teacher saving and completed learning outcomes not verified."
         },
         "calendar": null,
         "phase": 1,
@@ -31268,6 +31269,426 @@
         "kind": "Actual deployed game ·24October2026",
         "origin": "Verified public guest capture,24October2026; source 0599498a4692269ad080df6173e444ab0eac474a",
         "qa": "Existing fictional guest capture inspected for this refresh. Not a fresh November capture or authenticated learner record."
+      },
+      "live-mara-market-start": {
+        "src": "/evidence/live-game-20261112/mara-market-start.jpg",
+        "title": "Mara Market Start",
+        "alt": "Career Empire mara market start",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "515c21b0ce56835048c66b47860da846e64d4385a87b14fb75c9ebfcba57e43e",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-student-hub-demo": {
+        "src": "/evidence/live-game-20261112/student-hub-demo.jpg",
+        "title": "Student Hub Demo",
+        "alt": "Career Empire student hub demo",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "45a56ad5a26cbad4b72b17a67c7d1903ab755488d578d83713d5c13faa3e904b",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-mara-observe": {
+        "src": "/evidence/live-game-20261112/mara-observe.jpg",
+        "title": "Mara Observe",
+        "alt": "Career Empire mara observe",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "e6baccf701aee148c9da642545405d15c8128e63100fb82b88169fa2af986ec3",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-mara-introduction": {
+        "src": "/evidence/live-game-20261112/mara-introduction.jpg",
+        "title": "Mara Introduction",
+        "alt": "Career Empire mara introduction",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "6591fcb904d1d1c70c13b282d1540f9453764516ed97ee7d6fbba3ea2b38abf8",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-portfolio-log": {
+        "src": "/evidence/live-game-20261112/portfolio-log.jpg",
+        "title": "Portfolio Log",
+        "alt": "Career Empire portfolio log",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "7f35668b3f23226c855b936a8788accaf17ded38c2850e86bd53f6ca081b89c6",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-stats-my-journey": {
+        "src": "/evidence/live-game-20261112/stats-my-journey.jpg",
+        "title": "Stats My Journey",
+        "alt": "Career Empire stats my journey",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "32702b317da769b1196e4cc87c1a447689618be9cae319c6325aa16ab10572b6",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-market-classroom-word": {
+        "src": "/evidence/live-game-20261112/market-classroom-word.jpg",
+        "title": "Market Classroom Word",
+        "alt": "Career Empire market classroom word",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "2696bf72cb20eed2328c77176383b484f47ee45484bba691fc6940f8606e93c8",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-student-hub-star-form": {
+        "src": "/evidence/live-game-20261112/student-hub-star-form.jpg",
+        "title": "Student Hub Star Form",
+        "alt": "Career Empire student hub star form",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "eb8dac3d9b1328145089f5458d84d0cae8c3d348d8bd8f33ed384fc982a0a94e",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-est-room": {
+        "src": "/evidence/live-game-20261112/est-room.jpg",
+        "title": "Est Room",
+        "alt": "Career Empire est room",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "ef8b2d5a819f77ddaadff0961f303bec14f2c60ba15e3002ad1299ff02a7cda4",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-market-notes": {
+        "src": "/evidence/live-game-20261112/market-notes.jpg",
+        "title": "Market Notes",
+        "alt": "Career Empire market notes",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "0b2c91cf6757544e0f973e8260b724c59a5ac92ac36543ca1ef16163cc4df706",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-portfolio-builder": {
+        "src": "/evidence/live-game-20261112/portfolio-builder.jpg",
+        "title": "Portfolio Builder",
+        "alt": "Career Empire portfolio builder",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "4f94999f084f9dfb9b9c8cc669b6c387a1d09e5173f5da796bef82c9f185b51b",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-campus-arrival": {
+        "src": "/evidence/live-game-20261112/campus-arrival.jpg",
+        "title": "Campus Arrival",
+        "alt": "Career Empire campus arrival",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "255b9ad07cfe826dce9f617b6657c3bd05c973b4b9ccfdf1dc8e6d17f617374b",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-opening": {
+        "src": "/evidence/live-game-20261112/opening.jpg",
+        "title": "Opening",
+        "alt": "Career Empire opening",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "934577c5630870b030fadb4148b25cd7d67abc9e8a91cd9ddc53f39dffc7f9f0",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-places": {
+        "src": "/evidence/live-game-20261112/places.jpg",
+        "title": "Places",
+        "alt": "Career Empire places",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "f8780116b5936cd51a67b51e493fd17b45a6683fcab10d9d5c109a2664adfabd",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-campus-map": {
+        "src": "/evidence/live-game-20261112/campus-map.jpg",
+        "title": "Campus Map",
+        "alt": "Career Empire campus map",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "1c807272428471d2116cc2887af47c8532a3661abd6731ffaed039a8a13377d6",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-capabilities-catalogue": {
+        "src": "/evidence/live-game-20261112/capabilities-catalogue.jpg",
+        "title": "Capabilities Catalogue",
+        "alt": "Career Empire capabilities catalogue",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "93abd52907ac2f381e0bd1008c152c107cae3ece0a80e3171edaba456183a730",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-market-entrance": {
+        "src": "/evidence/live-game-20261112/market-entrance.jpg",
+        "title": "Market Entrance",
+        "alt": "Career Empire market entrance",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "c4e61608e2a2233310e5cffd9944fcce78e9360e2f713186a3f797fdee8cbeca",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-est-briefing-controls": {
+        "src": "/evidence/live-game-20261112/est-briefing-controls.jpg",
+        "title": "Est Briefing Controls",
+        "alt": "Career Empire est briefing controls",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "0e60ab008d340050f89d26bda1a38e8d77720f2cdc813445f7be0bfcbf508a08",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-mara-shift-offer": {
+        "src": "/evidence/live-game-20261112/mara-shift-offer.jpg",
+        "title": "Mara Shift Offer",
+        "alt": "Career Empire mara shift offer",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "8140d1ab0e5f31972aca23648695b59a32edec9add4732e409cc18ea9715c63a",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-market-exterior": {
+        "src": "/evidence/live-game-20261112/market-exterior.jpg",
+        "title": "Market Exterior",
+        "alt": "Career Empire market exterior",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "cfa6318389bf053933c64e6db8f41a6e476ac27e66474a975884820dc8a393eb",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-mara-feedback": {
+        "src": "/evidence/live-game-20261112/mara-feedback.jpg",
+        "title": "Mara Feedback",
+        "alt": "Career Empire mara feedback",
+        "caption": "Actual live public game · fictional guest or demo · 2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sha256": "977fa5b6e8c26be5e1387858550d838d9fc235ab8150e786a06e56368daeba4e",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-teacher-current-sample": {
+        "src": "/evidence/live-game-20261112/teacher-current-sample.jpg",
+        "title": "Teacher Current Sample",
+        "alt": "Career Empire teacher current sample",
+        "caption": "Fictional isolated sample · published teacher layout; no live class records · 2026-11-11",
+        "kind": "Fictional isolated sample · published teacher layout; no live class records",
+        "sha256": "f82bc7c4e64297833aa5568c9eea41b82ef8731ad2375a1cbc9fb0411ba6a88a",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 7ac4efa5ac59ed9c2e6c806ebcc20f6014b53559",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-careers-capabilities-monitor": {
+        "src": "/evidence/live-game-20261112/careers-capabilities-monitor.jpg",
+        "title": "Careers Capabilities Monitor",
+        "alt": "Career Empire careers capabilities monitor",
+        "caption": "Actual live guest capture retained from11November · 2026-11-11",
+        "kind": "Actual live guest capture retained from11November",
+        "sha256": "f4c1a26a47b541ecde739ce420f1686d3add0f3bf3e43f28f6e9a0dc9f0f3327",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 7ac4efa5ac59ed9c2e6c806ebcc20f6014b53559",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-careers-capabilities-map": {
+        "src": "/evidence/live-game-20261112/careers-capabilities-map.jpg",
+        "title": "Careers Capabilities Map",
+        "alt": "Career Empire careers capabilities map",
+        "caption": "Actual live guest map capture retained from11November · 2026-11-11",
+        "kind": "Actual live guest map capture retained from11November",
+        "sha256": "dea354dee2662bda53299518d597ac6dfcc875cccbe0cb23ab76e0067aca84df",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112; 7ac4efa5ac59ed9c2e6c806ebcc20f6014b53559",
+        "qa": "Current review provenance and specific limits are in the live game guide."
+      },
+      "live-teacher-00-capability": {
+        "src": "/evidence/live-game-20261112/teacher-00-capability.jpg",
+        "title": "Capability Evidence & Portfolio View",
+        "alt": "Fictional public teacher demo: Capability Evidence & Portfolio View",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "464766cd913220c5feabc5f79f4c420dc023a49884eb1d2522adea28ebf72716",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-01-command": {
+        "src": "/evidence/live-game-20261112/teacher-01-command.jpg",
+        "title": "Class command centre",
+        "alt": "Fictional public teacher demo: Class command centre",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "7bbcc8425b3ad0c9fe4b71308522cebd824eb2782909b565a41bd61fbdacf415",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-02-controls": {
+        "src": "/evidence/live-game-20261112/teacher-02-controls.jpg",
+        "title": "Main Controls",
+        "alt": "Fictional public teacher demo: Main Controls",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "3f3cd4506c5f6be9100383dc8844fc5c5cac60442f2083d2fdff32aa36d2b357",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-03-modules": {
+        "src": "/evidence/live-game-20261112/teacher-03-modules.jpg",
+        "title": "Module Availability",
+        "alt": "Fictional public teacher demo: Module Availability",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "6c1e4c194afcde60dfb0fed1ac29b8754c4d93cb2b989cd6c986e0632dc9e6fb",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-04-focus": {
+        "src": "/evidence/live-game-20261112/teacher-04-focus.jpg",
+        "title": "Dashboard Focus",
+        "alt": "Fictional public teacher demo: Dashboard Focus",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "2aebf0dc54703679acbe9a5f109eac1c042eef05776abaaecb16aa9c717c77b4",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-05-metrics": {
+        "src": "/evidence/live-game-20261112/teacher-05-metrics.jpg",
+        "title": "Students On Track · Students At Risk · Captured Task Time · Average Completion · Avg Evidence Score · Evidence Captured",
+        "alt": "Fictional public teacher demo: Students On Track · Students At Risk · Captured Task Time · Average Completion · Avg Evidence Score · Evidence Captured",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "c56b6c783340de1946a3eec20b5d1787100dbfa5fbe7b634dc61864be73ecaf1",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-06-alert": {
+        "src": "/evidence/live-game-20261112/teacher-06-alert.jpg",
+        "title": "Priority Alert",
+        "alt": "Fictional public teacher demo: Priority Alert",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "de203be9a01bafc8af0f85497a4496ae4b96133332710f7df40c36a87078e47a",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-07-actions": {
+        "src": "/evidence/live-game-20261112/teacher-07-actions.jpg",
+        "title": "Teacher Actions",
+        "alt": "Fictional public teacher demo: Teacher Actions",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "2dbb77e0bbf3c69d27bd35ad354a21f4a572f2a6a5d48ec10e141a281d74e391",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-08-responses": {
+        "src": "/evidence/live-game-20261112/teacher-08-responses.jpg",
+        "title": "Student Written Responses",
+        "alt": "Fictional public teacher demo: Student Written Responses",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "e0d5b584c512dd992eaecfe52cf78c2f3bb3cd1e0e740deadf9fa61a4b467e2f",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-09-profile": {
+        "src": "/evidence/live-game-20261112/teacher-09-profile.jpg",
+        "title": "Student Learning Profile",
+        "alt": "Fictional public teacher demo: Student Learning Profile",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "93b6aa767d4934d64ac72a91ae4756b4cb8cfb4e73545fbd785e6e7bcb93ff40",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-10-trends": {
+        "src": "/evidence/live-game-20261112/teacher-10-trends.jpg",
+        "title": "Class Trends",
+        "alt": "Fictional public teacher demo: Class Trends",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "05cdc479d817b529e6f2141f492f77a7cc16e1fe8401cff6f1c9ab60b265e532",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-11-health": {
+        "src": "/evidence/live-game-20261112/teacher-11-health.jpg",
+        "title": "Module Health & Interventions",
+        "alt": "Fictional public teacher demo: Module Health & Interventions",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "10225cd1b3ab2e4a1b870285d5fdf246cd2981ff73724859b0acbdcafdb838c9",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-12-compare": {
+        "src": "/evidence/live-game-20261112/teacher-12-compare.jpg",
+        "title": "Student Compare View",
+        "alt": "Fictional public teacher demo: Student Compare View",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "075df3b59606a95ca4dad011aaeddc9e34d8599066e8a5b465ab560ef3b34f31",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-13-engagement": {
+        "src": "/evidence/live-game-20261112/teacher-13-engagement.jpg",
+        "title": "Engagement & Glossary Gaps",
+        "alt": "Fictional public teacher demo: Engagement & Glossary Gaps",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "10f4260e237ec5ff3cfd2bb364d03877663e44a76d6ccc9981c51dc4f432f478",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-14-answers": {
+        "src": "/evidence/live-game-20261112/teacher-14-answers.jpg",
+        "title": "Long Answer Comparison",
+        "alt": "Fictional public teacher demo: Long Answer Comparison",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "c3193e777c10fe64ba0ab11be7792b076e033302e35b1aaec822118d0055d6a0",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-15-feedback": {
+        "src": "/evidence/live-game-20261112/teacher-15-feedback.jpg",
+        "title": "Feedback Review Inbox",
+        "alt": "Fictional public teacher demo: Feedback Review Inbox",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "e500bd299777baa14690bc7c28c82d5aa570e1c30b0c7ca80304eeb46ca0bd22",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-16-time": {
+        "src": "/evidence/live-game-20261112/teacher-16-time.jpg",
+        "title": "Module & Strand Time",
+        "alt": "Fictional public teacher demo: Module & Strand Time",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "2a9090549a7947617c235cd90c3290862993fffc81db34f909dd10d492425057",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "live-teacher-17-store": {
+        "src": "/evidence/live-game-20261112/teacher-17-store.jpg",
+        "title": "Store Requests",
+        "alt": "Fictional public teacher demo: Store Requests",
+        "caption": "Actual public teacher promo · fictional built-in data ·12November2026",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sha256": "7bc0edf07a7b84995a22d5dda95072a41255018c0d217c8d13917716079b893b",
+        "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
+        "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
       }
     },
     "tabs": [
@@ -31718,11 +32139,10 @@
       }
     ],
     "screenshotReview": {
-      "date": "21 October 2026",
-      "status": "Screenshot refresh pending actual browser capture",
-      "summary": "The eleven dated market/teacher images retain their original provenance. Fresh21Octoberphoto-trail component previews use restored original artwork and synthetic fixture state; they are not represented as full-world or live-game screenshots.",
-      "candidate": "The game worktree is based on af129fe with active Market changes. Read-only metadata now finds0missing files among292manifest entries. That verifies file presence, not complete gameplay or visual acceptance. Current component capture hashes are separately recorded.",
-      "limits": "Phase0has current versioned photo-trail component previews, not whole-flow/3D qualification. Phases2–11remain proposed with no runtime screens. Updated full-scene Market captures follow that task’s verified implementation; dated prior captures are retained as dated references."
+      "date": "12November2026",
+      "summary": "Current guest/demo captures are shown in the Phase0/1 live guides and Student Stats. Older isolated and proposed views remain in dated history.",
+      "candidate": "Game69aa78e; current public Market, Notes, anonymous portfolio, demo Hub, catalogue and EST room inspected.",
+      "limits": "Guided opening and Market→Careers transition need follow-up; real teacher saving, hosted Archon and later phases are not certified."
     }
   },
   "marketStoryboard": {
@@ -32988,6 +33408,618 @@
       "Mara needs your help"
     ]
   },
+  "liveGameReview": {
+    "id": "CE-LIVE-GAME-REVIEW-20261112",
+    "date": "2026-11-12",
+    "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+    "gameUrl": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
+    "captureBoundary": "Current public guest, Student Hub demo and teacher promo UI captured 12 November 2026, including all 18 teacher panels. Two guest views and one filled fictional teacher sample from 11 November retain their original dates. No real learner records or saved teacher actions were used.",
+    "captures": {
+      "mara-market-start": {
+        "src": "/evidence/live-game-20261112/mara-market-start.jpg",
+        "sha256": "515c21b0ce56835048c66b47860da846e64d4385a87b14fb75c9ebfcba57e43e",
+        "width": 935,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "student-hub-demo": {
+        "src": "/evidence/live-game-20261112/student-hub-demo.jpg",
+        "sha256": "45a56ad5a26cbad4b72b17a67c7d1903ab755488d578d83713d5c13faa3e904b",
+        "width": 925,
+        "height": 712,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "mara-observe": {
+        "src": "/evidence/live-game-20261112/mara-observe.jpg",
+        "sha256": "e6baccf701aee148c9da642545405d15c8128e63100fb82b88169fa2af986ec3",
+        "width": 935,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "mara-introduction": {
+        "src": "/evidence/live-game-20261112/mara-introduction.jpg",
+        "sha256": "6591fcb904d1d1c70c13b282d1540f9453764516ed97ee7d6fbba3ea2b38abf8",
+        "width": 935,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "portfolio-log": {
+        "src": "/evidence/live-game-20261112/portfolio-log.jpg",
+        "sha256": "7f35668b3f23226c855b936a8788accaf17ded38c2850e86bd53f6ca081b89c6",
+        "width": 925,
+        "height": 712,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "stats-my-journey": {
+        "src": "/evidence/live-game-20261112/stats-my-journey.jpg",
+        "sha256": "32702b317da769b1196e4cc87c1a447689618be9cae319c6325aa16ab10572b6",
+        "width": 935,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "market-classroom-word": {
+        "src": "/evidence/live-game-20261112/market-classroom-word.jpg",
+        "sha256": "2696bf72cb20eed2328c77176383b484f47ee45484bba691fc6940f8606e93c8",
+        "width": 1280,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "student-hub-star-form": {
+        "src": "/evidence/live-game-20261112/student-hub-star-form.jpg",
+        "sha256": "eb8dac3d9b1328145089f5458d84d0cae8c3d348d8bd8f33ed384fc982a0a94e",
+        "width": 925,
+        "height": 712,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "est-room": {
+        "src": "/evidence/live-game-20261112/est-room.jpg",
+        "sha256": "ef8b2d5a819f77ddaadff0961f303bec14f2c60ba15e3002ad1299ff02a7cda4",
+        "width": 1280,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "market-notes": {
+        "src": "/evidence/live-game-20261112/market-notes.jpg",
+        "sha256": "0b2c91cf6757544e0f973e8260b724c59a5ac92ac36543ca1ef16163cc4df706",
+        "width": 935,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "portfolio-builder": {
+        "src": "/evidence/live-game-20261112/portfolio-builder.jpg",
+        "sha256": "4f94999f084f9dfb9b9c8cc669b6c387a1d09e5173f5da796bef82c9f185b51b",
+        "width": 925,
+        "height": 712,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "campus-arrival": {
+        "src": "/evidence/live-game-20261112/campus-arrival.jpg",
+        "sha256": "255b9ad07cfe826dce9f617b6657c3bd05c973b4b9ccfdf1dc8e6d17f617374b",
+        "width": 1280,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "opening": {
+        "src": "/evidence/live-game-20261112/opening.jpg",
+        "sha256": "934577c5630870b030fadb4148b25cd7d67abc9e8a91cd9ddc53f39dffc7f9f0",
+        "width": 1280,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "places": {
+        "src": "/evidence/live-game-20261112/places.jpg",
+        "sha256": "f8780116b5936cd51a67b51e493fd17b45a6683fcab10d9d5c109a2664adfabd",
+        "width": 1280,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "campus-map": {
+        "src": "/evidence/live-game-20261112/campus-map.jpg",
+        "sha256": "1c807272428471d2116cc2887af47c8532a3661abd6731ffaed039a8a13377d6",
+        "width": 935,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "capabilities-catalogue": {
+        "src": "/evidence/live-game-20261112/capabilities-catalogue.jpg",
+        "sha256": "93abd52907ac2f381e0bd1008c152c107cae3ece0a80e3171edaba456183a730",
+        "width": 1265,
+        "height": 2143,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "market-entrance": {
+        "src": "/evidence/live-game-20261112/market-entrance.jpg",
+        "sha256": "c4e61608e2a2233310e5cffd9944fcce78e9360e2f713186a3f797fdee8cbeca",
+        "width": 1280,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "est-briefing-controls": {
+        "src": "/evidence/live-game-20261112/est-briefing-controls.jpg",
+        "sha256": "0e60ab008d340050f89d26bda1a38e8d77720f2cdc813445f7be0bfcbf508a08",
+        "width": 935,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "mara-shift-offer": {
+        "src": "/evidence/live-game-20261112/mara-shift-offer.jpg",
+        "sha256": "8140d1ab0e5f31972aca23648695b59a32edec9add4732e409cc18ea9715c63a",
+        "width": 935,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "market-exterior": {
+        "src": "/evidence/live-game-20261112/market-exterior.jpg",
+        "sha256": "cfa6318389bf053933c64e6db8f41a6e476ac27e66474a975884820dc8a393eb",
+        "width": 1280,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "mara-feedback": {
+        "src": "/evidence/live-game-20261112/mara-feedback.jpg",
+        "sha256": "977fa5b6e8c26be5e1387858550d838d9fc235ab8150e786a06e56368daeba4e",
+        "width": 935,
+        "height": 720,
+        "date": "2026-11-12",
+        "kind": "Actual live public game · fictional guest or demo",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-current-sample": {
+        "src": "/evidence/live-game-20261112/teacher-current-sample.jpg",
+        "sha256": "f82bc7c4e64297833aa5568c9eea41b82ef8731ad2375a1cbc9fb0411ba6a88a",
+        "width": 1440,
+        "height": 900,
+        "date": "2026-11-11",
+        "kind": "Fictional isolated sample · published teacher layout; no live class records",
+        "sourceCommit": "7ac4efa5ac59ed9c2e6c806ebcc20f6014b53559"
+      },
+      "careers-capabilities-monitor": {
+        "src": "/evidence/live-game-20261112/careers-capabilities-monitor.jpg",
+        "sha256": "f4c1a26a47b541ecde739ce420f1686d3add0f3bf3e43f28f6e9a0dc9f0f3327",
+        "width": 1280,
+        "height": 800,
+        "date": "2026-11-11",
+        "kind": "Actual live guest capture retained from11November",
+        "sourceCommit": "7ac4efa5ac59ed9c2e6c806ebcc20f6014b53559"
+      },
+      "careers-capabilities-map": {
+        "src": "/evidence/live-game-20261112/careers-capabilities-map.jpg",
+        "sha256": "dea354dee2662bda53299518d597ac6dfcc875cccbe0cb23ab76e0067aca84df",
+        "width": 1280,
+        "height": 800,
+        "date": "2026-11-11",
+        "kind": "Actual live guest map capture retained from11November",
+        "sourceCommit": "7ac4efa5ac59ed9c2e6c806ebcc20f6014b53559"
+      },
+      "teacher-00-capability": {
+        "src": "/evidence/live-game-20261112/teacher-00-capability.jpg",
+        "sha256": "464766cd913220c5feabc5f79f4c420dc023a49884eb1d2522adea28ebf72716",
+        "width": 1229,
+        "height": 668,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-01-command": {
+        "src": "/evidence/live-game-20261112/teacher-01-command.jpg",
+        "sha256": "7bbcc8425b3ad0c9fe4b71308522cebd824eb2782909b565a41bd61fbdacf415",
+        "width": 680,
+        "height": 528,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-02-controls": {
+        "src": "/evidence/live-game-20261112/teacher-02-controls.jpg",
+        "sha256": "3f3cd4506c5f6be9100383dc8844fc5c5cac60442f2083d2fdff32aa36d2b357",
+        "width": 534,
+        "height": 528,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-03-modules": {
+        "src": "/evidence/live-game-20261112/teacher-03-modules.jpg",
+        "sha256": "6c1e4c194afcde60dfb0fed1ac29b8754c4d93cb2b989cd6c986e0632dc9e6fb",
+        "width": 1229,
+        "height": 791,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-04-focus": {
+        "src": "/evidence/live-game-20261112/teacher-04-focus.jpg",
+        "sha256": "2aebf0dc54703679acbe9a5f109eac1c042eef05776abaaecb16aa9c717c77b4",
+        "width": 1229,
+        "height": 246,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-05-metrics": {
+        "src": "/evidence/live-game-20261112/teacher-05-metrics.jpg",
+        "sha256": "c56b6c783340de1946a3eec20b5d1787100dbfa5fbe7b634dc61864be73ecaf1",
+        "width": 1229,
+        "height": 180,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-06-alert": {
+        "src": "/evidence/live-game-20261112/teacher-06-alert.jpg",
+        "sha256": "de203be9a01bafc8af0f85497a4496ae4b96133332710f7df40c36a87078e47a",
+        "width": 558,
+        "height": 154,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-07-actions": {
+        "src": "/evidence/live-game-20261112/teacher-07-actions.jpg",
+        "sha256": "2dbb77e0bbf3c69d27bd35ad354a21f4a572f2a6a5d48ec10e141a281d74e391",
+        "width": 656,
+        "height": 154,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-08-responses": {
+        "src": "/evidence/live-game-20261112/teacher-08-responses.jpg",
+        "sha256": "e0d5b584c512dd992eaecfe52cf78c2f3bb3cd1e0e740deadf9fa61a4b467e2f",
+        "width": 1229,
+        "height": 207,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-09-profile": {
+        "src": "/evidence/live-game-20261112/teacher-09-profile.jpg",
+        "sha256": "93b6aa767d4934d64ac72a91ae4756b4cb8cfb4e73545fbd785e6e7bcb93ff40",
+        "width": 1229,
+        "height": 804,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-10-trends": {
+        "src": "/evidence/live-game-20261112/teacher-10-trends.jpg",
+        "sha256": "05cdc479d817b529e6f2141f492f77a7cc16e1fe8401cff6f1c9ab60b265e532",
+        "width": 1229,
+        "height": 553,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-11-health": {
+        "src": "/evidence/live-game-20261112/teacher-11-health.jpg",
+        "sha256": "10225cd1b3ab2e4a1b870285d5fdf246cd2981ff73724859b0acbdcafdb838c9",
+        "width": 1229,
+        "height": 1100,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-12-compare": {
+        "src": "/evidence/live-game-20261112/teacher-12-compare.jpg",
+        "sha256": "075df3b59606a95ca4dad011aaeddc9e34d8599066e8a5b465ab560ef3b34f31",
+        "width": 1229,
+        "height": 804,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-13-engagement": {
+        "src": "/evidence/live-game-20261112/teacher-13-engagement.jpg",
+        "sha256": "10f4260e237ec5ff3cfd2bb364d03877663e44a76d6ccc9981c51dc4f432f478",
+        "width": 1229,
+        "height": 1100,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-14-answers": {
+        "src": "/evidence/live-game-20261112/teacher-14-answers.jpg",
+        "sha256": "c3193e777c10fe64ba0ab11be7792b076e033302e35b1aaec822118d0055d6a0",
+        "width": 1229,
+        "height": 804,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-15-feedback": {
+        "src": "/evidence/live-game-20261112/teacher-15-feedback.jpg",
+        "sha256": "e500bd299777baa14690bc7c28c82d5aa570e1c30b0c7ca80304eeb46ca0bd22",
+        "width": 1229,
+        "height": 207,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-16-time": {
+        "src": "/evidence/live-game-20261112/teacher-16-time.jpg",
+        "sha256": "2a9090549a7947617c235cd90c3290862993fffc81db34f909dd10d492425057",
+        "width": 1229,
+        "height": 777,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "teacher-17-store": {
+        "src": "/evidence/live-game-20261112/teacher-17-store.jpg",
+        "sha256": "7bc0edf07a7b84995a22d5dda95072a41255018c0d217c8d13917716079b893b",
+        "width": 1229,
+        "height": 807,
+        "date": "2026-11-12",
+        "kind": "Actual public teacher promo · fictional built-in data",
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      }
+    },
+    "rows": [
+      {
+        "id": "opening",
+        "scopes": [
+          "arrival",
+          "places"
+        ],
+        "title": "Welcome and choose a route",
+        "image": "opening",
+        "description": "Play or replay the welcome; start exploring, or skip intro exploration.",
+        "purpose": "Give the learner a clear entry and a choice of pace.",
+        "detail": "Skip intro exploration opens campus access without recording the Chapel, mural or teachers’ photo as completed. The guided Start exploring branch stalled at the opening loader in this audit; its full sequence is not reverified.",
+        "status": "Live opening; guided branch needs follow-up"
+      },
+      {
+        "id": "campus",
+        "scopes": [
+          "arrival",
+          "places"
+        ],
+        "title": "Campus, map and places",
+        "image": "campus-arrival",
+        "description": "Use Options → Places, movement controls and the campus map.",
+        "purpose": "Find a destination and return to a useful service.",
+        "detail": "The map marks Capabilities at Careers. Places are services, not separate curriculum phases. Photo-trail completion and an automatic learning handover are not inferred from entering a place.",
+        "status": "Live guest route"
+      },
+      {
+        "id": "gate",
+        "scopes": [
+          "market"
+        ],
+        "title": "Enter the Markets activity",
+        "image": "market-classroom-word",
+        "description": "Walk into the Markets and enter the classroom word when asked.",
+        "purpose": "Let the teacher pace entry to the lesson.",
+        "detail": "The public word shown in the Blueprint is Emmanuel. The gate explicitly says it is a lesson pacing gate, not secure login, student identification or a school saving service. Keep exploring is an alternative.",
+        "status": "Live guest route"
+      },
+      {
+        "id": "choices",
+        "scopes": [
+          "market"
+        ],
+        "title": "Choose how to explore Initiative",
+        "image": "market-entrance",
+        "description": "Choose Mara, Notes or Portfolio Builder beside the illustrated Initiative guide.",
+        "purpose": "Offer several ways to learn the same concept, five behaviours and benefits.",
+        "detail": "The fourth control is visibly Archon Game — coming soon. Online matches are unavailable in the published Market entrance at this check. These choices can be revisited; they are not four compulsory consecutive stages.",
+        "status": "Three live routes; Archon unavailable"
+      },
+      {
+        "id": "mara",
+        "scopes": [
+          "market",
+          "pedagogy"
+        ],
+        "title": "Meet Mara at Juniper Kitchen",
+        "image": "mara-introduction",
+        "description": "Walk to the stall, speak with Mara and watch customers who have already paid.",
+        "purpose": "Give Initiative a concrete workplace problem.",
+        "detail": "The current introduction says Juniper Kitchen makes rice bowls; the entrance button is labelled Mara’s Noodle Bar. The learner observes ordering versus collection, then explains what caught their attention.",
+        "status": "Live guest route"
+      },
+      {
+        "id": "notice",
+        "scopes": [
+          "market",
+          "pedagogy"
+        ],
+        "title": "Observe, explain and get feedback",
+        "image": "mara-feedback",
+        "description": "Tell Mara what happened to prepaid customers and discuss a useful first step.",
+        "purpose": "Connect a specific observation with the concept of Initiative.",
+        "detail": "The live feedback explicitly defines Initiative and reminds the learner to check with the crew before changing things. Watch again and I’m not sure offer support. A correct choice alone is not evidence of independent workplace transfer.",
+        "status": "Live guest route"
+      },
+      {
+        "id": "shift",
+        "scopes": [
+          "market",
+          "student"
+        ],
+        "title": "Try an improvement on shift",
+        "image": "mara-shift-offer",
+        "description": "Accept or decline a fictional shift, then try an idea, watch customers and report back.",
+        "purpose": "Practise improving work and considering its effects.",
+        "detail": "The live offer is $20 less $2 community tax = $18 plus a crew pass. There is no timer; help and retries do not reduce pay. This capture verifies the offer and acceptance, not a newly completed shift or real earnings.",
+        "status": "Live offer; completed shift not rerun"
+      },
+      {
+        "id": "notes",
+        "scopes": [
+          "market",
+          "pedagogy",
+          "student"
+        ],
+        "title": "Read, practise and explain in Notes",
+        "image": "market-notes",
+        "description": "Open concept cards, worked thinking, contrasting examples and new situations.",
+        "purpose": "Make terminology explicit and practise recognising and explaining it.",
+        "detail": "The live page includes the five behaviours, benefits, safe-action scenarios, a written explanation scaffold and recall before returning. Send explanation to game is present. Notes PDF is not shown; do not confuse it with the portfolio’s PDF control.",
+        "status": "Live learning page"
+      },
+      {
+        "id": "portfolio",
+        "scopes": [
+          "market",
+          "student",
+          "pedagogy"
+        ],
+        "title": "Public Market STAR reflection",
+        "image": "portfolio-builder",
+        "description": "Use the five-step Situation, Task, Actions, Results and Review builder.",
+        "purpose": "Explain an experience in the learner’s own words.",
+        "detail": "This anonymous practice log stays in its tab. No login, student account or teacher submission. Avoid private details and create a PDF before leaving. The published route is separate from the signed-in Student Hub.",
+        "status": "Live anonymous route"
+      },
+      {
+        "id": "pdf",
+        "scopes": [
+          "student"
+        ],
+        "title": "Keep the anonymous log",
+        "image": "portfolio-log",
+        "description": "Reopen the builder, create a PDF, or return to the open Market.",
+        "purpose": "Let a learner keep and revisit their explanation.",
+        "detail": "The live log explicitly says Create PDF opens the browser print dialog; choose Save as PDF. Current UI was rechecked; the previously qualified automated one-page/all-responses PDF evidence is retained separately, not claimed as a new native print-dialog test.",
+        "status": "Live controls"
+      },
+      {
+        "id": "stats",
+        "scopes": [
+          "student",
+          "arrival"
+        ],
+        "title": "Stats · My Journey",
+        "image": "stats-my-journey",
+        "description": "See discoveries from the current run and game-money details.",
+        "purpose": "Locate the learner in the game and distinguish activity from learning evidence.",
+        "detail": "The checked screen says saving is unavailable and discoveries are kept while the tab stays open. Entering a place or skipping exploration must not be presented as a completed discovery or mastered curriculum point.",
+        "status": "Live run-local progress"
+      },
+      {
+        "id": "hub",
+        "scopes": [
+          "student"
+        ],
+        "title": "Student Hub · fictional demo",
+        "image": "student-hub-demo",
+        "description": "Open the public demo for the module map, capability cards and portfolio.",
+        "purpose": "Preview the separate account-style learner home without real student records.",
+        "detail": "The page identifies Demo Student and local-only progress. Its module cards can include archived modules. Demo figures and mastery labels are interface samples, not verified achievement or a working school submission.",
+        "status": "Live public demo"
+      },
+      {
+        "id": "hub-star",
+        "scopes": [
+          "student"
+        ],
+        "title": "Student Hub · single-page STAR form",
+        "image": "student-hub-star-form",
+        "description": "Situation, Task, Actions, Results and Goal + Review appear together.",
+        "purpose": "Build one explanation and tag the capabilities it demonstrates.",
+        "detail": "This current Hub form differs from the anonymous Market’s five-step form. The form was opened in the public fictional demo; no entry was banked and no authenticated saving or teacher visibility was tested.",
+        "status": "Live layout; demo check only"
+      },
+      {
+        "id": "capabilities",
+        "scopes": [
+          "places",
+          "student"
+        ],
+        "title": "Capabilities in Careers",
+        "image": "capabilities-catalogue",
+        "description": "Browse the six original capability families plus Initiative, then open the Student Hub.",
+        "purpose": "Connect the skill language with a place to reflect on experience.",
+        "detail": "The public catalogue contains seven cards, although its current introductory sentence still says six. The campus marker identifies the Careers Advice Centre. The catalogue is public; the Hub link may require sign-in or the demo.",
+        "status": "Live public catalogue"
+      },
+      {
+        "id": "careers",
+        "scopes": [
+          "places"
+        ],
+        "title": "Careers Advice Centre monitor",
+        "image": "careers-capabilities-monitor",
+        "description": "Find the Capabilities computer alongside the separate shop and My Life services.",
+        "purpose": "Make the evidence catalogue discoverable in the world.",
+        "detail": "Retained actual11November guest capture, matched to the inherited published Careers implementation. A fresh12November Market→Careers visit showed an incomplete room view, so this audit does not claim that whole transition passed.",
+        "status": "Published layout; transition needs follow-up"
+      },
+      {
+        "id": "est",
+        "scopes": [
+          "places",
+          "pedagogy"
+        ],
+        "title": "EST Prep · four workstations",
+        "image": "est-room",
+        "description": "Enter the room with the wall briefing and CORE, TERM, VTCS and BOSS stations.",
+        "purpose": "Provide a place for revision, retrieval and response practice.",
+        "detail": "Fresh public guest capture from the room. Its controls include play/restart, mute, zoom and return. The screenshot is not proof of every module, response save or end-to-end teacher workflow.",
+        "status": "Live room"
+      },
+      {
+        "id": "teacher",
+        "scopes": [
+          "teacher"
+        ],
+        "title": "Teacher capability evidence matrix",
+        "image": "teacher-00-capability",
+        "description": "Current public teacher demo, with entries organised by student and capability.",
+        "purpose": "Read evidence over time and plan feedback.",
+        "detail": "Fresh 12 November capture of the built-in fictional public teacher demo. Its STAR matrix is empty in this fixture; a separate filled fictional example from 11 November illustrates how entries can look. Real teacher sign-in, permissions, saved actions and school-data connections were not tested.",
+        "status": "Live public demo · fictional data"
+      }
+    ],
+    "findings": [
+      "Published Market entrance still says Archon Game — coming soon; hosted connection not live there.",
+      "Ordinary Start exploring stalled at the opening loader in this audit; skip/direct Market routes were observed separately.",
+      "Market→Careers transition showed an incomplete room view; standalone public catalogue is live.",
+      "Anonymous Market and Student Hub forms are separate, with different persistence and privacy boundaries.",
+      "Phase2–11 remain curriculum plans; screenshots do not imply complete implementation."
+    ]
+  },
   "orientationHistory": {
     "id": "CE-ORIENTATION",
     "unit": "Unit 3",
@@ -33072,104 +34104,107 @@
   },
   "courseTracking": {
     "id": "CE-COURSE-TRACKING-20261015",
-    "status": "Unpublished documentation candidate; no learner data or new backend",
+    "status": "Current live guest/demo review12November2026; real learner/teacher integration is not inferred",
     "student": [
       {
         "id": "student-world",
         "title": "Game progress & earnings",
-        "action": "Stats · My Journey shows discoveries and the next destination. The dated Markets pay screen shows agreed wages and a crew pass after a shift.",
+        "action": "See discoveries and game-money details for the current run.",
         "pedagogy": "Help the learner find their place and choose a next activity.",
         "outcome": "Distinguish a world event from learning evidence.",
-        "evidence": "Actual deployed-game captures from24October2026: run-local discoveries and the shift payment action.",
-        "limits": "My Journey discoveries are run-local and reset on reload/new entry, as the captured screen explains. Pay is a game result. Neither capture is an authenticated learning result.",
-        "status": "existing-source",
+        "evidence": "Actual public guest/demo review ·12November2026 · game69aa78e",
+        "limits": "Current Stats says saving is unavailable; discoveries remain only while this tab is open. Pay is fictional game activity, not mastery.",
+        "status": "observed",
         "screens": [
-          "student-journey-20261024",
-          "student-market-pay-20261024"
+          "live-stats-my-journey",
+          "live-mara-shift-offer"
         ],
         "curriculumIds": [],
-        "source": "Inspected actual24October2026Orientation/Markets captures with registered hashes; source IDs retained in the screen metadata.",
+        "source": "data/live-game-review.json / CE-LIVE-GAME-REVIEW-20261112",
         "depth": 0
       },
       {
         "id": "student-curriculum",
-        "title": "Curriculum learning",
-        "action": "The planner links197exact curriculum requirements to the proposed phase sequence. A student-facing curriculum progress dashboard remains a planned view.",
+        "title": "Initiative in the Market",
+        "action": "The entrance guide introduces the concept, five behaviours and three benefit groups.",
         "pedagogy": "Make learning goals visible without turning a visit into a pass.",
         "outcome": "Explain the target and what evidence is still needed.",
-        "evidence": "Exact requirement and phase mappings are available in the curriculum planner; no student-result screen has been verified.",
-        "limits": "This is a curriculum design map, not a learner progress feed. No mastery percentages or completion are fabricated.",
-        "status": "proposed",
-        "screens": [],
+        "evidence": "Actual public guest/demo review ·12November2026 · game69aa78e",
+        "limits": "The Archon control is present but says coming soon. Later phase plans are not implemented merely because they have mapped curriculum.",
+        "status": "observed",
+        "screens": [
+          "live-market-entrance"
+        ],
         "curriculumIds": [],
-        "source": "Existing Blueprint curriculum plan and dated implementation evidence; no new live data connection.",
+        "source": "data/live-game-review.json / CE-LIVE-GAME-REVIEW-20261112",
         "depth": 0
       },
       {
         "id": "student-resources",
-        "title": "Resources / explanations",
-        "action": "The captured Initiative resource explains five ways to show initiative, with examples and a printable field-guide link.",
+        "title": "Notes · learn and explain",
+        "action": "Read concept cards, compare worked examples, practise new cases and write an explanation.",
         "pedagogy": "Make explanations easy to return to when a gap is identified.",
         "outcome": "Find a relevant explanation and use it to improve work.",
-        "evidence": "Actual24October2026resource screen shows explanation, example and boundary prompts.",
-        "limits": "This screenshot verifies the visible resource, not understanding or tracked whole-course resource completion.",
-        "status": "existing-source",
+        "evidence": "Actual public guest/demo review ·12November2026 · game69aa78e",
+        "limits": "Notes are a learning route, not an account portfolio. Notes PDF is not shown in the checked UI.",
+        "status": "observed",
         "screens": [
-          "student-market-resource-20261024"
+          "live-market-notes"
         ],
         "curriculumIds": [],
-        "source": "Inspected actual24October2026Markets resource capture; existing curriculum resource plans remain separate.",
+        "source": "data/live-game-review.json / CE-LIVE-GAME-REVIEW-20261112",
         "depth": 0
       },
       {
         "id": "student-recall",
-        "title": "Recall and explanation",
-        "action": "Crew Recall asks students to match a scenario to an initiative behaviour. The attempt-first prompt supports uncued recall; a changed-workplace case invites another application.",
+        "title": "Observation, feedback and recall",
+        "action": "Explain the queue problem to Mara; practise recognition and recall in Notes.",
         "pedagogy": "Separate recognition with labels from unaided recall, explanation and transfer.",
         "outcome": "Explain the idea and justify another example.",
-        "evidence": "Three actual24October2026practice screens show matching, attempting before reveal and a changed workplace case.",
-        "limits": "The changed-workplace screen explicitly says the practice answer is not saved or graded and does not change agreed pay. Opening or completing these prompts does not establish transfer.",
-        "status": "existing-source",
+        "evidence": "Actual public guest/demo review ·12November2026 · game69aa78e",
+        "limits": "A prompted response or game choice is not independent workplace transfer.",
+        "status": "observed",
         "screens": [
-          "student-market-recognition-20261024",
-          "student-market-uncued-20261024",
-          "student-market-transfer-20261024"
+          "live-mara-observe",
+          "live-mara-feedback"
         ],
         "curriculumIds": [],
-        "source": "Inspected24October2026Markets recognition, uncued and transfer captures; original dated source hashes retained.",
+        "source": "data/live-game-review.json / CE-LIVE-GAME-REVIEW-20261112",
         "depth": 0
       },
       {
         "id": "student-portfolio",
-        "title": "Portfolio evidence",
-        "action": "The existing older Student Hub has a working portfolio: choose School, Workplace, Community or Gameplay on a skill card, write STAR evidence with Goal and Review, then Bank STAR evidence and open View Portfolio. Entries show dates and skill/subskill tags, with chronological or by-skill views and editing.",
+        "title": "Two portfolio routes",
+        "action": "Use the anonymous Market STAR/PDF log, or the separate Student Hub with its single-page STAR form.",
         "pedagogy": "Give the learner inspectable work to explain and improve.",
         "outcome": "Identify the evidence and what feedback changed.",
-        "evidence": "The public demo saved a fictional entry through reload and displayed it in View Portfolio. Use the learner’s actual work and review context when collecting genuine evidence.",
-        "limits": "The public demo stores entries only in this browser’s localStorage. It is not cross-device storage or a school submission. Its “Teacher review pending” label does not mean the demo submitted anything to a teacher. Automatic transfer from the new 3D Markets experience remains unverified.",
-        "status": "existing-source",
+        "evidence": "Actual public guest/demo review ·12November2026 · game69aa78e",
+        "limits": "Anonymous Market text stays in its tab; Hub was checked only in the fictional demo. No authenticated save or teacher submission was tested.",
+        "status": "observed",
         "screens": [
-          "student-demo-saved-portfolio",
-          "student-demo-hub"
+          "live-portfolio-builder",
+          "live-portfolio-log",
+          "live-student-hub-star-form"
         ],
         "curriculumIds": [],
-        "source": "Verified public Student Hub demo captures,2November2026; fictional browser-local example only.",
+        "source": "data/live-game-review.json / CE-LIVE-GAME-REVIEW-20261112",
         "depth": 0
       },
       {
         "id": "student-next",
-        "title": "Next steps and support",
-        "action": "The existing Student Hub STAR builder includes Goal and Review fields so a learner can record a next step and revisit it. For course learning, use that reflection with a teacher-agreed task, resource, retry or changed case.",
+        "title": "Find a next activity",
+        "action": "Return to Market choices, open a campus place or browse Capabilities in Careers.",
         "pedagogy": "Offer a useful next action instead of a generic progress percentage.",
         "outcome": "Explain what to work on next and why.",
-        "evidence": "Teacher and learner use actual evidence to choose support, another check or extension.",
-        "limits": "Existing Goal and Review fields are learner-authored reflections, not automated recommendations or verified teacher feedback. The public demo stays in this browser and submits nothing to a teacher. Automated support alerts and new whole-course integrations remain proposed.",
-        "status": "existing-source",
+        "evidence": "Actual public guest/demo review ·12November2026 · game69aa78e",
+        "limits": "The public catalogue has six original capability families plus Initiative; its static introduction still says six.",
+        "status": "observed",
         "screens": [
-          "student-demo-star-builder"
+          "live-capabilities-catalogue",
+          "live-est-room"
         ],
         "curriculumIds": [],
-        "source": "Verified public Student Hub STAR builder capture,2November2026; Goal and Review fields are learner-authored.",
+        "source": "data/live-game-review.json / CE-LIVE-GAME-REVIEW-20261112",
         "depth": 0
       }
     ],
@@ -33300,9 +34335,112 @@
       "javascriptBlob": "1305646978ba6ce6ab4143d502b8a24db6e168c8",
       "uiVerified": "Existing built-in promotional demo, external services blocked,16fictional records; class portfolio rendered.",
       "backendUnknown": "No authenticated school session queried. Real class scope, database isolation, writes/review persistence and new Markets links remain unverified."
-    }
+    },
+    "legacyStudentHistory": [
+      {
+        "id": "student-world",
+        "title": "Game progress & earnings",
+        "action": "See discoveries and game-money details for the current run.",
+        "pedagogy": "Help the learner find their place and choose a next activity.",
+        "outcome": "Distinguish a world event from learning evidence.",
+        "evidence": "Actual public guest/demo review ·12November2026 · game69aa78e",
+        "limits": "Current Stats says saving is unavailable; discoveries remain only while this tab is open. Pay is fictional game activity, not mastery.",
+        "status": "existing-source",
+        "screens": [
+          "live-stats-my-journey",
+          "live-mara-shift-offer"
+        ],
+        "curriculumIds": [],
+        "source": "data/live-game-review.json / CE-LIVE-GAME-REVIEW-20261112",
+        "depth": 0
+      },
+      {
+        "id": "student-curriculum",
+        "title": "Initiative in the Market",
+        "action": "The entrance guide introduces the concept, five behaviours and three benefit groups.",
+        "pedagogy": "Make learning goals visible without turning a visit into a pass.",
+        "outcome": "Explain the target and what evidence is still needed.",
+        "evidence": "Actual public guest/demo review ·12November2026 · game69aa78e",
+        "limits": "The Archon control is present but says coming soon. Later phase plans are not implemented merely because they have mapped curriculum.",
+        "status": "existing-source",
+        "screens": [
+          "live-market-entrance"
+        ],
+        "curriculumIds": [],
+        "source": "data/live-game-review.json / CE-LIVE-GAME-REVIEW-20261112",
+        "depth": 0
+      },
+      {
+        "id": "student-resources",
+        "title": "Notes · learn and explain",
+        "action": "Read concept cards, compare worked examples, practise new cases and write an explanation.",
+        "pedagogy": "Make explanations easy to return to when a gap is identified.",
+        "outcome": "Find a relevant explanation and use it to improve work.",
+        "evidence": "Actual public guest/demo review ·12November2026 · game69aa78e",
+        "limits": "Notes are a learning route, not an account portfolio. Notes PDF is not shown in the checked UI.",
+        "status": "existing-source",
+        "screens": [
+          "live-market-notes"
+        ],
+        "curriculumIds": [],
+        "source": "data/live-game-review.json / CE-LIVE-GAME-REVIEW-20261112",
+        "depth": 0
+      },
+      {
+        "id": "student-recall",
+        "title": "Observation, feedback and recall",
+        "action": "Explain the queue problem to Mara; practise recognition and recall in Notes.",
+        "pedagogy": "Separate recognition with labels from unaided recall, explanation and transfer.",
+        "outcome": "Explain the idea and justify another example.",
+        "evidence": "Actual public guest/demo review ·12November2026 · game69aa78e",
+        "limits": "A prompted response or game choice is not independent workplace transfer.",
+        "status": "existing-source",
+        "screens": [
+          "live-mara-observe",
+          "live-mara-feedback"
+        ],
+        "curriculumIds": [],
+        "source": "data/live-game-review.json / CE-LIVE-GAME-REVIEW-20261112",
+        "depth": 0
+      },
+      {
+        "id": "student-portfolio",
+        "title": "Two portfolio routes",
+        "action": "Use the anonymous Market STAR/PDF log, or the separate Student Hub with its single-page STAR form.",
+        "pedagogy": "Give the learner inspectable work to explain and improve.",
+        "outcome": "Identify the evidence and what feedback changed.",
+        "evidence": "Actual public guest/demo review ·12November2026 · game69aa78e",
+        "limits": "Anonymous Market text stays in its tab; Hub was checked only in the fictional demo. No authenticated save or teacher submission was tested.",
+        "status": "existing-source",
+        "screens": [
+          "live-portfolio-builder",
+          "live-portfolio-log",
+          "live-student-hub-star-form"
+        ],
+        "curriculumIds": [],
+        "source": "data/live-game-review.json / CE-LIVE-GAME-REVIEW-20261112",
+        "depth": 0
+      },
+      {
+        "id": "student-next",
+        "title": "Find a next activity",
+        "action": "Return to Market choices, open a campus place or browse Capabilities in Careers.",
+        "pedagogy": "Offer a useful next action instead of a generic progress percentage.",
+        "outcome": "Explain what to work on next and why.",
+        "evidence": "Actual public guest/demo review ·12November2026 · game69aa78e",
+        "limits": "The public catalogue has six original capability families plus Initiative; its static introduction still says six.",
+        "status": "existing-source",
+        "screens": [
+          "live-capabilities-catalogue",
+          "live-est-room"
+        ],
+        "curriculumIds": [],
+        "source": "data/live-game-review.json / CE-LIVE-GAME-REVIEW-20261112",
+        "depth": 0
+      }
+    ]
   },
-  "revision": "V2.40 / 3 November 2026",
+  "revision": "V2.41 / 12 November 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -33314,8 +34452,8 @@
     "currentEstPrepLabel": "Open current EST Prep module",
     "recordHref": "/blueprint-records.json",
     "recordLabel": "Download Blueprint record",
-    "screenshot": "/evidence/ecc-admin-signage-20260913/published-r5/chapel.jpg",
-    "screenshotAlt": "10 September live landscaped campus: paths, lawns, approved planting and selected Careers Advice Centre / First Workplace; town hall retained",
+    "screenshot": "/evidence/live-game-20261112/campus-arrival.jpg",
+    "screenshotAlt": "12 November public guest arrival after skipping intro exploration; campus places and map, not completed orientation",
     "conceptVideoHref": "/references/style/town-hall-entry-start-here.mp4",
     "conceptVideoPoster": "/references/style/entry-original-poster.jpg",
     "conceptVideoCaptions": "/references/style/town-hall-entry-original.vtt",
@@ -33327,14 +34465,14 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.40",
-      "date": "2026-11-03",
-      "label": "V2.40 / 3 November 2026",
-      "status": "User-reviewed Blueprint refresh; publication pending",
+      "id": "V2.41",
+      "date": "2026-11-12",
+      "label": "V2.41 / 12 November 2026",
+      "status": "Current live-game screenshot/content refresh; publication pending",
       "purpose": "Career Empire is a connected learning-design project. This scoped Blueprint update teaches from the syllabus first: meaningful experience, explicit instruction, supported application, feedback and durable understanding. Curriculum ways and benefits stay central; no competing named guide or draft song is added to core learning.",
       "audience": "Colleagues reviewing the current game and learning design; teacher delivery program remains in development.",
       "owner": "Tania Byrnes",
-      "scope": "User-approved local reader review: four header tabs, footer archive, compact linked phase journeys and places, teacher dropdown guide, dated student evidence, bare StartHere and illustrated pedagogy. No new Initiative proposal or game implementation."
+      "scope": "Whole-reader current-screen review: Start Here, Phase0/1, places, pedagogy, student progress and featured teacher sample. Later phases stay proposed; historical originals retained. No game changes or learner records."
     },
     "navigation": [
       {
@@ -33508,11 +34646,11 @@
     "productionPlan": {
       "id": "CE-PLAN-01",
       "changeId": "CE-CHANGE-20260925-91",
-      "phase": "Connected course design and delivery specification",
+      "phase": "Refresh the reader against the live game",
       "activeMilestoneId": "CE-CONTINUITY-01",
       "objective": "Make the purpose, current design, implementation limits and next decisions understandable to a new colleague.",
-      "now": "V2.29 all-phase walkthroughs and whole-course tracking reader are published and independently verified. Exact curriculum, dated isolated Markets captures and actual legacy fictional demo remain distinct from proposed teaching, opening handover and authenticated integrations.",
-      "next": "Author and review core learning materials: review the exact 28-screen Markets proposal and character-led megatrends candidates against curriculum and evidence needs. Author remaining economic-power and demographic experiences; preserve separate game implementation, teacher dashboard, portfolio and reward decisions.",
+      "now": "Local four-route infographic entrance and anonymous Initiative STAR/PDF log are integrated and hash-verified. Actual-source1280/390fixtures and414runtime units are reported passed. Archon28filefrontend and six synthetic failure/retry cases pass; cloud PostgreSQL/Deno validation uses a test RPC shim,not genuine hosted Supabase acceptance.",
+      "next": "VerifyandpublishthecurrentBlueprintreader;separatelyrepair/recheckguidedopeningandMarket-to-Careerstransition. PublishedentrancestillmarksArchoncomingsoon;teacher/authenticated/classroomchecksremainopen.",
       "then": "Author and review core learning materials, purposeful application and appropriate evidence across the shared phases; align school pacing and assessment dates before setting lessons.",
       "later": "Implement the agreed connected course and verify classroom, accessibility, school and learner-evidence requirements separately.",
       "sequence": [
@@ -33534,12 +34672,12 @@
       "liveEvidence": {
         "url": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
         "repository": "https://github.com/Emmanuel-ICT-Support/GTCEM-Career-Empire",
-        "sourceCommit": "46d63d4d55a24123d3a578e3d257f0625f462426",
-        "verifiedAt": "2026-10-12",
-        "method": "Parent release receipt: PR53, successful Pages38320903492 and actual user live-opening acceptance. GitHub connector independently confirms the merged source. No fresh whole-game or school-device acceptance by this Blueprint task.",
-        "image": "/evidence/ecc-admin-signage-20260913/published-r5/chapel.jpg",
-        "imageSha256": "1efd7dd8f8153772eddac6f724f3aef029d5dd6622581b91250484aaac37e6cf",
-        "caption": "Historical image: Actual live Chapel exterior capture from13 September2026; not a screenshot of PR46. Current release imagery awaits reader integration."
+        "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71",
+        "verifiedAt": "2026-11-12",
+        "method": "ExactpublicPages69aa78e verified;actualpublicguest/demo routeinspection anddatedcaptures. GuidedopeningstalledandoneCareerstransitionincomplete;no whole-gameacceptance.",
+        "image": "/evidence/live-game-20261112/campus-arrival.jpg",
+        "imageSha256": "255b9ad07cfe826dce9f617b6657c3bd05c973b4b9ccfdf1dc8e6d17f617374b",
+        "caption": "Actual live public arrival capture,12 November2026 after Skip intro exploration; not completed orientation or learner achievement."
       },
       "worldStateDecision": {
         "date": "2026-09-12",
@@ -33840,19 +34978,19 @@
     },
     "currentStep": {
       "id": "CE-CONTINUITY-01",
-      "title": "Connected course design and delivery specification",
-      "status": "Blueprint reader verified live; authored course provision remains in development",
+      "title": "Refresh the reader against the live game",
+      "status": "Currentcapturecomparisoncomplete;readerverificationandpublicationpending",
       "owner": "Codex: reader and checks; Tania: design review; school: assessment decisions",
-      "href": "/production/teaching-megatrends-plan-20261102.html",
-      "actionLabel": "Review Mara, whole-game teaching and megatrends plan",
+      "href": "/production/live-game-review-20261112.html",
+      "actionLabel": "Review current game screens and remaining gaps",
       "decisionIds": [
         "V2-D02",
         "V2-D03",
         "V2-D18"
       ],
-      "nextAction": "Author and review core learning materials: review the exact 28-screen Markets proposal and character-led megatrends candidates against curriculum and evidence needs. Author remaining economic-power and demographic experiences; preserve separate game implementation, teacher dashboard, portfolio and reward decisions.",
+      "nextAction": "VerifyandpublishthecurrentBlueprintreader;separatelyrepair/recheckguidedopeningandMarket-to-Careerstransition. PublishedentrancestillmarksArchoncomingsoon;teacher/authenticated/classroomchecksremainopen.",
       "doneWhen": "Core materials and meaningful application/evidence are authored and reviewed against the exact curriculum and school assessment requirements. Blueprint publication, game integration, school permission and learner mastery have separate evidence.",
-      "boundary": "Tania approved this scoped Blueprint publication on2November. This does not approve game publication, student trials, new services or completed curriculum delivery."
+      "boundary": "Documentation refresh only; does not approve game production, new backend, security permissions or a student trial. No real learner records changed."
     },
     "roadmap": [
       {
@@ -33860,9 +34998,9 @@
         "horizon": "Now",
         "title": "Connected learning design and Blueprint continuity",
         "owner": "Codex: reader and checks; Tania: design review; school: assessment decisions",
-        "status": "Scoped Blueprint teaching and megatrends candidate; publication pending; game work remains separate",
-        "dependency": "Existing year map and 82-point source/teaching chain; all 13 Carolan chapters located; official 2027 baseline retained.; opening-plan-20261001.md and opening-review-evidence-20261001.md (draft review, not approved implementation)",
-        "href": "/production/teaching-megatrends-plan-20261102.html",
+        "status": "Currentpublic69aa78eguest/demo review recorded;Market/Notes/anonymousportfolio published;guidedopening/Careerstransition andteacher/hostedchecksdistinct.",
+        "dependency": "Existing year map and 82-point source/teaching chain; all 13 Carolan chapters located; official 2027 baseline retained.; opening-plan-20261001.md and opening-review-evidence-20261001.md (draft review, not approved implementation); CE-CHANGE-20261110-133 preserves the 2027 baseline and separately records the effective-2026 candidate source.; Official2026v6/2027v7 EB-01/02/03 source parity verified10November;approved checkout protection installed and verified; hosted/classroom gates remain open.",
+        "href": "/production/live-game-review-20261112.html",
         "doneWhen": "The current authored design and actual game receipt are readable, with draft provision and remaining checks explicitly distinguished; final publication independently verified."
       },
       {
@@ -34117,7 +35255,7 @@
             "state": "Required teaching design and planned opportunity/example; not verified runtime provision or learner performance."
           }
         ],
-        "guide": "Use the syllabus ways as the core teaching reference. Ask ordinary contextual questions about the actual work: what needs attention, what could improve it, which syllabus way the action demonstrates, why it fits, who may benefit, and what happened. Do not add a named thinking sequence or another list to memorise. Any future optional memory support must reinforce the curriculum wording and demonstrate usefulness.",
+        "guide": "Use the syllabus ways as the core teaching reference. Ask ordinary contextual questions about the actual work: what needs attention, what could improve it, which syllabus way the action demonstrates, why it fits, who may benefit, and what happened. Do not add a named thinking sequence or another list to memorise. Any future optional memory support must reinforce the curriculum wording and demonstrate usefulness. Shared library ce.learning.shared / initiative-learning-r1 is the candidate reference for Initiative and Archon. Host owns learner context, attempt history, truthful persistence acknowledgements, focus/return and draft recovery. No shared production library URL exists. Phase1 host integration now preserves notes drafts and original Mara entry/resume. A local transfer acknowledgement confirms browser practice only;it does not submit to a teacher. Fictional Archon frame routing is not a real multiplayer pass.",
         "sequence": [
           {
             "title": "Clear purpose",
@@ -34142,7 +35280,7 @@
         ],
         "evidence": "Review the student’s concrete choice, reasoning, observed result and explanation. Distinguish independent from prompted action and initiative from following instructions. An action may demonstrate more than one syllabus way, but not automatically all five. A repeated label, mnemonic, wage, badge, quiz result or opened card is not proof of mastery.",
         "delivery": "Reduce simultaneous instructions and controls: one clear stage and primary action, quiet help on demand, readable/captioned equivalents and deliberate continuation. Scaffold when needed; never withhold access or essential support.",
-        "status": "Required Blueprint teaching design/proposal. This page does not claim that the current game’s core route, cards, debrief or assessment has already been changed or validated.",
+        "status": "Local four-route infographic entrance and anonymous Initiative STAR/PDF log are integrated and hash-verified. Actual-source1280/390fixtures and414runtime units are reported passed. Archon28filefrontend and six synthetic failure/retry cases pass; cloud PostgreSQL/Deno validation uses a test RPC shim,not genuine hosted Supabase acceptance. All five ways/three benefits are presented;assessment breadth and learner mastery remain unverified.",
         "curriculumScope": "Teach the concept, ways of showing initiative and benefits together. The 2027 SCSA Unit 3 Enterprising behaviours content prescribes the five examples below; they are not an ordered taxonomy or five steps to memorise. Understanding and appropriate workplace application matter, not label reproduction alone.",
         "benefits": [
           "increased empowerment and recognition",
@@ -37876,6 +39014,30 @@
           "deployment": "Blueprintrecord+manifestonlyat2f6ec5b1f088852a7239a731c94fe6311416b489;no gamepush/runtimechange.",
           "testing": "Independent actual3working/indexGitbinding+cloudsourceSHA review;diff inspected. Cloud baselineaffected3pass6fail, repaired9/9;full371/371 in79files,sourcecheckexit0;patchSHAbe0c0a71eb7b65f3a4678bd95efbe36126eb0746cd0540887b806344e7fd6285. Originalassertions retained withadditionalHDR/bannerchecks. LocalearlierENOSPCfailures retained;actualGitHubCI remainsunverifieduntilguardedpush.",
           "taniaAcceptance": "Narrowtestrepaircleanup;actualGitHubCI resultpending."
+        },
+        {
+          "id": "CE-CHANGE-20261112-142",
+          "date": "2026-11-12",
+          "title": "Refresh whole Blueprint against current public game and dated screenshots",
+          "domain": "Whole-reader currentgame/screenshots/learningguide review",
+          "source": "Directuser: Weve made a LOT of changes- the whole blueprint needs updating now. Please take a look at the screen shots vs what is now in the live game and update it all. Actualpublic69aa78e guest/demo inspection12November2026.",
+          "owner": "Parent coordinator designates existing game release executor;sole integrator owns final source;Blueprint maintainer owns canonical evidence/bindings",
+          "status": "Reader refresh locally verified; publication pending",
+          "rationale": "Preventdatedlocal/proposedclaims andoldUIimagesfromstandinginforcurrentpublishedfeatures.",
+          "dependencies": [
+            "CE-CHANGE-20261111-139",
+            "CE-CHANGE-20261112-140"
+          ],
+          "evidence": [
+            "docs/production/live-game-review-20261112.md"
+          ],
+          "nextAction": "Run final normal tests and guarded Pages package, publish only Blueprint142 refresh excluding141, verify actual public bytes and routes.",
+          "supersededRecord": null,
+          "designApproval": "UserdirectlyauthorizeswholeBlueprintrefreshagainstlivegame;existingpublicBlueprintdestinationretained. No newgameoraccount/securityscope.",
+          "implementation": "42datedcaptureassets/sharedregistry;currentPhase0/1tablesanddecisionroutes;currentstudentforms/Notes/Stats/Capabilities/EST;all18currentpublicfictionalteacherpanels;bareStartHereandpedagogyimages. Historicaloriginalsretained;Phases2–11remainplans. No game/backend/learnerrecord changes.",
+          "deployment": "Not published; existing public Blueprint remains unchanged.",
+          "testing": "18 semantic reader views,12 phases,197 exact curriculum points and42 screenshot hashes pass. TypeScript/scoped lint/compiled Pages preview pass. Actual desktop Phase1 table/route map and teacher screenshot dropdown verified. Browser connection timed out before fresh responsive check; no responsive or classroom acceptance claimed.",
+          "taniaAcceptance": "Reviewrequested;newreader/aestheticacceptancepending. Realteacher/school/hostedmatchacceptanceexcluded."
         }
       ],
       "sessionStart": [
@@ -50989,6 +52151,19 @@
       "checks": "Data integrity tests, TypeScript and production build are the release checks; detailed results live in docs/revision-2026-09-06.md.",
       "limits": "Draft scenarios and candidate mappings are not approved game mechanics or validated curriculum delivery. This update changes the blueprint, not gameplay.",
       "acceptance": "Publication authorised by Tania; final design agreement remains pending."
+    },
+    {
+      "id": "BUILD-LIVE-BLUEPRINT-20261112",
+      "title": "Current public game and whole-reader screenshot refresh",
+      "status": "Candidateprepared;readerchecks/publicationpending",
+      "owner": "Blueprint maintainer",
+      "date": "12November2026",
+      "decision": "CE-CHANGE-20261112-142",
+      "done": "Currentguest/demo UIcaptured;sharedregistry/table/routes/placessourcesprepared;historicaloriginalsretained.",
+      "evidence": [],
+      "checks": "Actualpublic69aa78eguest/demoinspection;compiledreaderchecksnotyetclaimed.",
+      "limits": "Guidedopeningstalled;Market→Careerstransitionincomplete;Archoncomingsoon. No realteacher/backend/classroom/nativeprintacceptance.",
+      "acceptance": "UserrequestswholeBlueprintrefresh;candidatevisualreviewandpublicationpending."
     }
   ],
   "visualReferences": [
@@ -51299,15 +52474,15 @@
     "currentReferences": [
       {
         "id": "CE-CAMPUS-BUILT-02",
-        "title": "ECC hero-fidelity pilot — actual local build",
-        "image": "/evidence/ecc-hero-20260913/ecc-after-forecourt-1440.png",
+        "title": "Career Empire campus · current public guest view",
+        "image": "/evidence/live-game-20261112/campus-arrival.jpg",
         "kind": "built",
-        "date": "2026-09-13",
-        "sha256": "c32f5f2d0c60bc754d816c1a72939769d3a7286352dd199f1b863900e6f3a3df",
-        "summary": "Actual local playable ECC pilot: stronger masonry, recessed glazing/interior impression, roof/soffit depth, planter finishes, dense bed planting and measured batching/culling.",
-        "source": "CE-CHANGE-20260913-47; actual local game a2794e42c359ed930124e34b459d71bcc35216ef, based on d442671. Fixed normal forecourt player position (0,-2.8), yaw 0, FOV 55, 1440x900; test-only positioning is not shipped.",
-        "limits": "Local candidate, not live publication or final hero-quality acceptance. Original layout, crest, connected Chapel/Admin/Services and gameplay retained. Historical September 10 map image remains archived at its original evidence path.",
-        "nextAction": "Complete regression checks; compare remaining foliage/architectural richness and physical-device cost before final pilot acceptance.",
+        "date": "2026-11-12",
+        "sha256": "255b9ad07cfe826dce9f617b6657c3bd05c973b4b9ccfdf1dc8e6d17f617374b",
+        "summary": "Current arrival view after choosing Skip intro exploration, with the campus navigation and map.",
+        "source": "CE-LIVE-GAME-REVIEW-20261112; public game69aa78e; normal guest controls, no scene injection.",
+        "limits": "A place/navigation capture, not a completed orientation or curriculum result. Guided Start exploring stalled separately in this audit.",
+        "nextAction": "Use the current walkthrough; retain the13September architectural pilot in history.",
         "placements": [
           "start",
           "visuals",
@@ -51431,6 +52606,26 @@
         "placements": [
           "start",
           "visuals",
+          "build"
+        ]
+      }
+    ],
+    "historicalCurrentReferences": [
+      {
+        "id": "CE-CAMPUS-BUILT-02",
+        "title": "ECC hero-fidelity pilot — actual local build",
+        "image": "/evidence/ecc-hero-20260913/ecc-after-forecourt-1440.png",
+        "kind": "built",
+        "date": "2026-09-13",
+        "sha256": "c32f5f2d0c60bc754d816c1a72939769d3a7286352dd199f1b863900e6f3a3df",
+        "summary": "Actual local playable ECC pilot: stronger masonry, recessed glazing/interior impression, roof/soffit depth, planter finishes, dense bed planting and measured batching/culling.",
+        "source": "CE-CHANGE-20260913-47; actual local game a2794e42c359ed930124e34b459d71bcc35216ef, based on d442671. Fixed normal forecourt player position (0,-2.8), yaw 0, FOV 55, 1440x900; test-only positioning is not shipped.",
+        "limits": "Local candidate, not live publication or final hero-quality acceptance. Original layout, crest, connected Chapel/Admin/Services and gameplay retained. Historical September 10 map image remains archived at its original evidence path.",
+        "nextAction": "Complete regression checks; compare remaining foliage/architectural richness and physical-device cost before final pilot acceptance.",
+        "placements": [
+          "start",
+          "visuals",
+          "world",
           "build"
         ]
       }
@@ -51886,10 +53081,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20261112-140"
+        "CE-CHANGE-20261112-142"
       ],
-      "scope": "Only3CItestfixturebindings140;existing139history/coverage andunrelatedworkpreserved.",
-      "disclosure": "Source-reporting only;fullcloudunit371pass;actualGitHubCI awaitsprotectedpush. Runtime unchanged;allincompleteproduct/native/teacher/hosted/classroom workpreserved.",
+      "scope": "WholeBlueprintcurrent-screen/contentrefresh142only;no gamepush;blocked141workflowpublicationexcluded.",
+      "disclosure": "Historicalscreens retained withdates;currentguest/demo observationsnotrealteacher/classroomacceptance. GuidedopeningandMarket→Careerstransitionneedfollow-up;Archoncomingsooninpublishedentrance. Prior139/140receiptobjectsunchanged;141stillunpublished.",
       "requiredReviewFiles": [
         "data/operations.json",
         "data/blueprint.ts",
@@ -51931,20 +53126,41 @@
         "docs/production/flyover-startup-repair-20261110.md",
         "docs/production/flyover-20260917.md",
         "docs/production/markets-entrance-initiative-20261111.md",
-        "docs/production/entrance-release-coordination-20261111.md"
+        "docs/production/entrance-release-coordination-20261111.md",
+        "data/live-game-review.json",
+        "data/markets-review.json",
+        "data/course-tracking.json",
+        "app/course-tracking.tsx",
+        "app/teacher-dashboard-guide.tsx",
+        "app/live-game-guide.tsx",
+        "app/globals.css",
+        "docs/production/live-game-review-20261112.md",
+        "app/blueprint-app.tsx",
+        "tests/orientation-entry.test.mjs",
+        "tests/course-tracking.test.mjs",
+        "tests/production-plan.test.mjs",
+        "tests/blueprint.test.mjs",
+        "data/st4s-readiness.json",
+        "lib/st4s-readiness.mjs",
+        "scripts/validate-st4s.mjs",
+        "app/st4s-dashboard.tsx",
+        "docs/production/st4s-readiness.md",
+        "lib/wa-assessment-readiness.mjs",
+        "scripts/validate-wa-assessment.mjs",
+        "docs/production/wa-assessment-route.md"
       ],
       "reviews": [
         {
           "path": "data/operations.json",
-          "sha256": "9c2802c7b208878e6bdca98de70afbe2926fb1167c3523ca04ac4298e5a56d84",
+          "sha256": "524e7797cb647430b0150b4b08b53b50c717b41adf995e2e2c9506c3c5b9c10c",
           "reviewedAt": "2026-11-12",
-          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Semantic comparison against the exact previous reviewed bytes: current plan/next action, roadmap, Initiative status and records133-135 only. Earlier material records and protected decisions retained; no product or deployment acceptance added. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Final exact metadata delta reviewed: retire completed Atlas-contract action in134and record actual115/115test result in135. No acceptance flag or behavior changed. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Exact bounded136delta reviewed: isolated Flyover entrance-start defect/candidate provenance and serial release ownership only. Candidate not shared-applied or published;raw footage not live;Safari/Chapel-return/final integration open. Prior records,navigation,Initiative and release gates preserved. Exact136final-candidate acceptance delta reviewed against unchanged five source fingerprints and supplied no-error Chapel/arrival results;retire candidate-only Chapel gap,retain Safari/serial-integration/publication requirements. No acceptance criteria,completion flags or runtime changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Two priority-prefix strings restored to established Author and review core learning materials wording after production-plan regression caught abbreviation;scope and remaining gates unchanged. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed actual ordinary source registration/standardcopy/link and resolved frontendstage successor.45bindingdraft stopped beforeapplication;26hashes/3contractregressions and real sparseguardsnapshot verified. No finalprojectChanges,receipt,corehookactivation or runtime application. Concurrent datedCEAWAappendix recovered from exact priorprefix,inspected and retained without recertifying unrelated claims. Actual32staged1dc6/cfcbGitversions,threeavailabilitydeltaSHAand2actualsourcecases reviewed;cloudfinalavailabilitypass attributed. Exactuseryeshookactivation verified localonly/unchangedcode. Newuserportfolioaesthetic successorholds obsoletefreeze;no projectChanges/receipts. ConcurrentAGENTSdatedCEAWAappendix recovered by exact priorprefix,inspected/preserved without recertifying unrelated release. Finalexact33source/reporting review:staged1a5219native2560image successor,27qualifiedproducts+5unchangedguards+315entrymanifest. Finalcloudacceptance attributed,actualGitversions and public-onlydiff checked. Source-reporting publication alone pending;product/nativehardware/teacher/hostedgaps retained. Verified HDuserappendix and concurrent datedAGENTSnotes preserved without unrelatedpublication. Exactactualsource-publication closure metadata and2historicalembedremovals reviewed;no game/sourceMap/imageasset or privateoriginal changed. Publiccommit/servedfile evidence retained;finalcompletedrecord verification remains required before receipt. Reviewed only139material record preserving all prior rows;actual44source and qualifiedcloudprovenance. Actual139servedpublicationclosure verified. Actual140three-test-onlyrecordreviewed;existingrecordspreserved. Actual140publicationclosureverified."
+          "method": "Reviewed142 current dated reference/assertions; curriculum/phase route, history and production-approval boundaries retained. ST4S source unchanged and still unverified; no school/backend acceptance added."
         },
         {
           "path": "data/blueprint.ts",
-          "sha256": "df02ac268a9cb383ae579a11f6f9d2c191fbd8dcf9457e98ad255c418e4a8f6e",
-          "reviewedAt": "2026-11-10",
-          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact diff: one labelled source entry and one build evidence entry for local Phase1. Two synthetic fixture PNGs, 414 integrator tests and absent real services are explicit. All other curriculum/design data unchanged. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Exact bounded136delta reviewed: isolated Flyover entrance-start defect/candidate provenance and serial release ownership only. Candidate not shared-applied or published;raw footage not live;Safari/Chapel-return/final integration open. Prior records,navigation,Initiative and release gates preserved. Reviewed two-field catalogue correction:explicit source-reference label and empty build-image evidence array;document stays in source catalogue,no image copied or test changed. Exact136final-candidate acceptance delta reviewed against unchanged five source fingerprints and supplied no-error Chapel/arrival results;retire candidate-only Chapel gap,retain Safari/serial-integration/publication requirements. No acceptance criteria,completion flags or runtime changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed actual ordinary source registration/standardcopy/link and resolved frontendstage successor.45bindingdraft stopped beforeapplication;26hashes/3contractregressions and real sparseguardsnapshot verified. No finalprojectChanges,receipt,corehookactivation or runtime application. Concurrent datedCEAWAappendix recovered from exact priorprefix,inspected and retained without recertifying unrelated claims. Actual32staged1dc6/cfcbGitversions,threeavailabilitydeltaSHAand2actualsourcecases reviewed;cloudfinalavailabilitypass attributed. Exactuseryeshookactivation verified localonly/unchangedcode. Newuserportfolioaesthetic successorholds obsoletefreeze;no projectChanges/receipts. ConcurrentAGENTSdatedCEAWAappendix recovered by exact priorprefix,inspected/preserved without recertifying unrelated release. Finalexact33source/reporting review:staged1a5219native2560image successor,27qualifiedproducts+5unchangedguards+315entrymanifest. Finalcloudacceptance attributed,actualGitversions and public-onlydiff checked. Source-reporting publication alone pending;product/nativehardware/teacher/hostedgaps retained. Verified HDuserappendix and concurrent datedAGENTSnotes preserved without unrelatedpublication."
+          "sha256": "2085beec41a1b23806963c09b97bbfb6d3007ef0910d92609320e657ef292da1",
+          "reviewedAt": "2026-11-12",
+          "method": "Reviewed142 current dated reference/assertions; curriculum/phase route, history and production-approval boundaries retained. ST4S source unchanged and still unverified; no school/backend acceptance added."
         },
         {
           "path": "app/blueprint-surfaces.tsx",
@@ -51966,9 +53182,9 @@
         },
         {
           "path": "AGENTS.md",
-          "sha256": "aa1837feed8aee932ebb804d4bc65b00f104f88662894baec705da34294c087a",
-          "reviewedAt": "2026-11-11",
-          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Append-only diff against committedb59a0df reviewed in full, including retained historical third-party/source notes and current135header. Historical reports are not independently recertified as fresh research. No new external action, access grant or production authority inferred. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Exact bounded136delta reviewed: isolated Flyover entrance-start defect/candidate provenance and serial release ownership only. Candidate not shared-applied or published;raw footage not live;Safari/Chapel-return/final integration open. Prior records,navigation,Initiative and release gates preserved. Exact136final-candidate acceptance delta reviewed against unchanged five source fingerprints and supplied no-error Chapel/arrival results;retire candidate-only Chapel gap,retain Safari/serial-integration/publication requirements. No acceptance criteria,completion flags or runtime changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed actual ordinary source registration/standardcopy/link and resolved frontendstage successor.45bindingdraft stopped beforeapplication;26hashes/3contractregressions and real sparseguardsnapshot verified. No finalprojectChanges,receipt,corehookactivation or runtime application. Concurrent datedCEAWAappendix recovered from exact priorprefix,inspected and retained without recertifying unrelated claims. Actual32staged1dc6/cfcbGitversions,threeavailabilitydeltaSHAand2actualsourcecases reviewed;cloudfinalavailabilitypass attributed. Exactuseryeshookactivation verified localonly/unchangedcode. Newuserportfolioaesthetic successorholds obsoletefreeze;no projectChanges/receipts. ConcurrentAGENTSdatedCEAWAappendix recovered by exact priorprefix,inspected/preserved without recertifying unrelated release. Finalexact33source/reporting review:staged1a5219native2560image successor,27qualifiedproducts+5unchangedguards+315entrymanifest. Finalcloudacceptance attributed,actualGitversions and public-onlydiff checked. Source-reporting publication alone pending;product/nativehardware/teacher/hostedgaps retained. Verified HDuserappendix and concurrent datedAGENTSnotes preserved without unrelatedpublication. Exact append-only CEAWA opening-still/removal/source-tab note inspected against verified priorprefix;retained as authored historical context without publishing its content or recertifying that unrelated site. Record138integration/sourceMap unchanged. Exact concurrent delta inspected:retained CEAWA/publicgame history appendix or single existing publicclassroomword paragraph only;no unrelatedfeature acceptance inferred. Reviewed retainedCEAWA42b0b51appendix only;no source139objectchange. Exactc2d9f12CEAWAhistoryappendixretained/reviewed;no unrelatedacceptance."
+          "sha256": "724cf30631f320f7571236d765dbef7045f7fec67b4b85f4ae545fecb9ea63df",
+          "reviewedAt": "2026-11-12",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Append-only diff against committedb59a0df reviewed in full, including retained historical third-party/source notes and current135header. Historical reports are not independently recertified as fresh research. No new external action, access grant or production authority inferred. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Exact bounded136delta reviewed: isolated Flyover entrance-start defect/candidate provenance and serial release ownership only. Candidate not shared-applied or published;raw footage not live;Safari/Chapel-return/final integration open. Prior records,navigation,Initiative and release gates preserved. Exact136final-candidate acceptance delta reviewed against unchanged five source fingerprints and supplied no-error Chapel/arrival results;retire candidate-only Chapel gap,retain Safari/serial-integration/publication requirements. No acceptance criteria,completion flags or runtime changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed actual ordinary source registration/standardcopy/link and resolved frontendstage successor.45bindingdraft stopped beforeapplication;26hashes/3contractregressions and real sparseguardsnapshot verified. No finalprojectChanges,receipt,corehookactivation or runtime application. Concurrent datedCEAWAappendix recovered from exact priorprefix,inspected and retained without recertifying unrelated claims. Actual32staged1dc6/cfcbGitversions,threeavailabilitydeltaSHAand2actualsourcecases reviewed;cloudfinalavailabilitypass attributed. Exactuseryeshookactivation verified localonly/unchangedcode. Newuserportfolioaesthetic successorholds obsoletefreeze;no projectChanges/receipts. ConcurrentAGENTSdatedCEAWAappendix recovered by exact priorprefix,inspected/preserved without recertifying unrelated release. Finalexact33source/reporting review:staged1a5219native2560image successor,27qualifiedproducts+5unchangedguards+315entrymanifest. Finalcloudacceptance attributed,actualGitversions and public-onlydiff checked. Source-reporting publication alone pending;product/nativehardware/teacher/hostedgaps retained. Verified HDuserappendix and concurrent datedAGENTSnotes preserved without unrelatedpublication. Exact append-only CEAWA opening-still/removal/source-tab note inspected against verified priorprefix;retained as authored historical context without publishing its content or recertifying that unrelated site. Record138integration/sourceMap unchanged. Exact concurrent delta inspected:retained CEAWA/publicgame history appendix or single existing publicclassroomword paragraph only;no unrelatedfeature acceptance inferred. Reviewed retainedCEAWA42b0b51appendix only;no source139objectchange. Exactc2d9f12CEAWAhistoryappendixretained/reviewed;no unrelatedacceptance. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected. Retainednewone-paragraphSkillQuest/CEAWAhistoryverificationappendixinspected;no unrelatedfeaturecertification. Reviewed142 readiness evidence and preserved concurrent dated CEAWA/SkillQuest appendices; no unrelated acceptance inferred."
         },
         {
           "path": "README.md",
@@ -52002,9 +53218,9 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "39e5b2dc4a117e72bc8562c136af01829c2b7f62afcd77d44421ec3b4ed1e03b",
+          "sha256": "bc13b9f9a6507058735b44d50e122a1d34fd4b7346171c95226fb82ce3639b69",
           "reviewedAt": "2026-11-10",
-          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact diff against previous reviewed committed bytes: existing active October canonical root and one deterministic document export. No guard, validator or publication policy changes. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact one-row registration reviewed for136local document HTML/Markdown generation;no exporter logic,validation,publishing or unrelated document changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims."
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact diff against previous reviewed committed bytes: existing active October canonical root and one deterministic document export. No guard, validator or publication policy changes. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact one-row registration reviewed for136local document HTML/Markdown generation;no exporter logic,validation,publishing or unrelated document changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed142documentgeneratorregistration/currentmilestonecontinuitysync/currentcaptionandteacherboundarylink;no gamechange."
         },
         {
           "path": "scripts/prepare-pages.mjs",
@@ -52038,21 +53254,21 @@
         },
         {
           "path": "app/blueprint-detail.tsx",
-          "sha256": "afdc9a6a23209ab133c5f5f10e898b84ee13935b1ded97f36c91a799c2143626",
-          "reviewedAt": "2026-11-10",
-          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact three-line diff: context basePath and factual local Phase1 status/link. No navigation, state, service or backend behavior changed. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims."
+          "sha256": "e1f47fb779a016fad0b6f67794ab07ff1b2a5d44d2bb2225057ea6aa6eccc62f",
+          "reviewedAt": "2026-11-12",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact three-line diff: context basePath and factual local Phase1 status/link. No navigation, state, service or backend behavior changed. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected."
         },
         {
           "path": "data/style-guide.json",
-          "sha256": "1bb027f10bc1e8e459911a64b3f5c996884d729b73ce953f42555a24381cc6dd",
-          "reviewedAt": "2026-11-09",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification."
+          "sha256": "ad2ddcaa58632074e123824462dfccea3b7625d1afefa536374d0fbbcf57d058",
+          "reviewedAt": "2026-11-12",
+          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected."
         },
         {
           "path": "docs/handoff-guide.md",
-          "sha256": "23abfcd7695c6325093e2e93d840874d5767c82bfc5acab8f1638925de583e4c",
-          "reviewedAt": "2026-11-10",
-          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact prior reviewed file recovered; added current checkpoint/source-maintenance headers. Retained history unchanged; no release/actual-service acceptance invented. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete."
+          "sha256": "b417963bcfd4fbcc8b612c49ede73bbc3351ef62d86c1c823c4c38d3bc400b13",
+          "reviewedAt": "2026-11-12",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact prior reviewed file recovered; added current checkpoint/source-maintenance headers. Retained history unchanged; no release/actual-service acceptance invented. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected."
         },
         {
           "path": "docs/production/visual-register.md",
@@ -52062,9 +53278,9 @@
         },
         {
           "path": "docs/production/visual-evidence-manifest.json",
-          "sha256": "b82a527c14e0abe299843d75c4f37c4634822685fb9a7fb38c19133e77fcf105",
-          "reviewedAt": "2026-11-09",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification."
+          "sha256": "cf7f5ac930547356757b13e35b2f7ee86b1ea033a64db14946aa8ebb59143c16",
+          "reviewedAt": "2026-11-12",
+          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected. Actual18publicfictionalteacherpromopanelscaptured12November;emptySTARfixtureversusfilled11Novsampledistinguished;oldoriginalsretained."
         },
         {
           "path": "docs/production/phase1-initiative-pathways-20261109.md",
@@ -52074,33 +53290,33 @@
         },
         {
           "path": "app/phase-walkthrough.tsx",
-          "sha256": "62e01e9cd2b79bd82d5c05f2dcbc7e81e4f8170f7b8e958e8fcda3a757e53522",
-          "reviewedAt": "2026-11-11",
-          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact previous reviewed file recovered; only unconditional data-context/base-path link and two factual status paragraphs added. Existing choices, handlers, storyboard and routes retained. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Exact concurrent delta inspected:retained CEAWA/publicgame history appendix or single existing publicclassroomword paragraph only;no unrelatedfeature acceptance inferred."
+          "sha256": "a308f040eeaa4a245d2e76b6b9166443147b5fad5b6cb33ea5b6306006e7cf8f",
+          "reviewedAt": "2026-11-12",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact previous reviewed file recovered; only unconditional data-context/base-path link and two factual status paragraphs added. Existing choices, handlers, storyboard and routes retained. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Exact concurrent delta inspected:retained CEAWA/publicgame history appendix or single existing publicclassroomword paragraph only;no unrelatedfeature acceptance inferred. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected."
         },
         {
           "path": "app/phase-reader-copy.ts",
-          "sha256": "d9367f444e813fe041801fc9662a247141f9cb9a7b9c91a163478a7395b30ee3",
-          "reviewedAt": "2026-11-09",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification."
+          "sha256": "1d550098bb127c3c12e70f3aecd6a2253c42e52c626d40c84896070251e5a2ae",
+          "reviewedAt": "2026-11-12",
+          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected."
         },
         {
           "path": "app/places-in-game.tsx",
-          "sha256": "41ac12fd6e2a0283953bed416157b309eb4f18b2e1063d5a3214d5fe5bd0c74f",
-          "reviewedAt": "2026-11-09",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification."
+          "sha256": "566f219810e90f0a8b556f7a4eb7437403a112dfabba63b39bc086e22bce153f",
+          "reviewedAt": "2026-11-12",
+          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected."
         },
         {
           "path": "app/site-guide.tsx",
-          "sha256": "3e219b3eba06dbfe9477ee1cd20f1ff8866478ae8a50563e5cf721cf798b81cf",
-          "reviewedAt": "2026-11-09",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification."
+          "sha256": "728dd847b1acc304cd901a21feaa4036292958dcb962bd320a643a5e09c56082",
+          "reviewedAt": "2026-11-12",
+          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected. Current142renderreview:accuratebanner,launchtooltips,observedguest/demo status;allcurriculumpointsretained."
         },
         {
           "path": "data/learning-planner.json",
-          "sha256": "e2208d57ec143ab3d8dc787d4a2ec2dd06286ed2b8fcb4fa5c683b8c78597637",
+          "sha256": "34d8e6f127ef64ff22f4fdbd4fab55a2d8a2f772e2bd53faf5d2fffdda3e8aa2",
           "reviewedAt": "2026-11-10",
-          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact prior reviewed file recovered; only Phase1teaching/product/limit prose changed. All197rows, skills, launch links and Phases2-11 retained. Official11requirement source parity attested without changing baseline. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete."
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact prior reviewed file recovered; only Phase1teaching/product/limit prose changed. All197rows, skills, launch links and Phases2-11 retained. Official11requirement source parity attested without changing baseline. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Current142renderreview:accuratebanner,launchtooltips,observedguest/demo status;allcurriculumpointsretained."
         },
         {
           "path": "data/market-storyboard.json",
@@ -52116,9 +53332,9 @@
         },
         {
           "path": "data/teacher-guide.json",
-          "sha256": "a25d2102348170cd835f25bd00fdf5509e960eddbc15a2248834381f3432892b",
-          "reviewedAt": "2026-11-10",
-          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Only a pending-limit note added/revised: new notes local-only, no teacher service; legacy five-route defects not declared fixed. Screenshots and service authority unchanged. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Consolidated latest137anonymous-portfolio boundary into existing Initiative shared candidate pending item selected by teacher guide,retaining actual teacher gap;no teacher runtime,images or access function changed."
+          "sha256": "25f620a9e24517efe80c4ebb791e03f83e4e0abc439679a027162c4960ff3d35",
+          "reviewedAt": "2026-11-12",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Only a pending-limit note added/revised: new notes local-only, no teacher service; legacy five-route defects not declared fixed. Screenshots and service authority unchanged. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Consolidated latest137anonymous-portfolio boundary into existing Initiative shared candidate pending item selected by teacher guide,retaining actual teacher gap;no teacher runtime,images or access function changed. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected. Actual18publicfictionalteacherpromopanelscaptured12November;emptySTARfixtureversusfilled11Novsampledistinguished;oldoriginalsretained. Readability/current42capturecountandunclippedteacheractual-sizeviewreviewed."
         },
         {
           "path": "data/wa-assessment-readiness.json",
@@ -52179,6 +53395,132 @@
           "sha256": "f7a23503be8d8599874fdc3b99dfcb4b0c2684e3543924206ccf51600cd41188",
           "reviewedAt": "2026-11-11",
           "method": "Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed actual ordinary source registration/standardcopy/link and resolved frontendstage successor.45bindingdraft stopped beforeapplication;26hashes/3contractregressions and real sparseguardsnapshot verified. No finalprojectChanges,receipt,corehookactivation or runtime application. Concurrent datedCEAWAappendix recovered from exact priorprefix,inspected and retained without recertifying unrelated claims. Actual32staged1dc6/cfcbGitversions,threeavailabilitydeltaSHAand2actualsourcecases reviewed;cloudfinalavailabilitypass attributed. Exactuseryeshookactivation verified localonly/unchangedcode. Newuserportfolioaesthetic successorholds obsoletefreeze;no projectChanges/receipts. ConcurrentAGENTSdatedCEAWAappendix recovered by exact priorprefix,inspected/preserved without recertifying unrelated release. Finalexact33source/reporting review:staged1a5219native2560image successor,27qualifiedproducts+5unchangedguards+315entrymanifest. Finalcloudacceptance attributed,actualGitversions and public-onlydiff checked. Source-reporting publication alone pending;product/nativehardware/teacher/hostedgaps retained. Verified HDuserappendix and concurrent datedAGENTSnotes preserved without unrelatedpublication. Exactactualsource-publication closure metadata and2historicalembedremovals reviewed;no game/sourceMap/imageasset or privateoriginal changed. Publiccommit/servedfile evidence retained;finalcompletedrecord verification remains required before receipt."
+        },
+        {
+          "path": "data/live-game-review.json",
+          "sha256": "82bc940cd79a46f9d92eaa20e952b4007733947e7d9f1e050a68c535bc93f3b7",
+          "reviewedAt": "2026-11-12",
+          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved. Actual18publicfictionalteacherpromopanelscaptured12November;emptySTARfixtureversusfilled11Novsampledistinguished;oldoriginalsretained. Readability/current42capturecountandunclippedteacheractual-sizeviewreviewed."
+        },
+        {
+          "path": "data/markets-review.json",
+          "sha256": "99a9848bf68058723ac01a6853635a56b04c92a9c8dfa90af9ea74cf34922cf5",
+          "reviewedAt": "2026-11-12",
+          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved. Actual18publicfictionalteacherpromopanelscaptured12November;emptySTARfixtureversusfilled11Novsampledistinguished;oldoriginalsretained."
+        },
+        {
+          "path": "data/course-tracking.json",
+          "sha256": "ecb28829753f47e565819c7fb6689ffefb1255f9acf0e671bc0a5a882581f9e1",
+          "reviewedAt": "2026-11-12",
+          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved. Current142renderreview:accuratebanner,launchtooltips,observedguest/demo status;allcurriculumpointsretained."
+        },
+        {
+          "path": "app/course-tracking.tsx",
+          "sha256": "e6611aad33cce5c01b1fadc81bdb88b80ec2e0b2da76b621293d903abedb5129",
+          "reviewedAt": "2026-11-12",
+          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved."
+        },
+        {
+          "path": "app/teacher-dashboard-guide.tsx",
+          "sha256": "7f1b992ad84678c66a377127b0a2c1f3407396e2c4f55a50d5c1602298fa7edf",
+          "reviewedAt": "2026-11-12",
+          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved. Reviewed142documentgeneratorregistration/currentmilestonecontinuitysync/currentcaptionandteacherboundarylink;no gamechange. Actual18publicfictionalteacherpromopanelscaptured12November;emptySTARfixtureversusfilled11Novsampledistinguished;oldoriginalsretained. Readability/current42capturecountandunclippedteacheractual-sizeviewreviewed."
+        },
+        {
+          "path": "app/live-game-guide.tsx",
+          "sha256": "7d2a0cbb844f599a21f00ce17d42508fd695bb8e8d674da4f78b7f1d83774462",
+          "reviewedAt": "2026-11-12",
+          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved."
+        },
+        {
+          "path": "app/globals.css",
+          "sha256": "4f69f07debfc7a58fc11530cd08ebf1afb5227bc7c507a1ace613ba9d73b12cd",
+          "reviewedAt": "2026-11-12",
+          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved."
+        },
+        {
+          "path": "docs/production/live-game-review-20261112.md",
+          "sha256": "276258b1cf60a16eb7b64ea027edc71c1d6f069efb3cd0e81bcc806a4b0bfda3",
+          "reviewedAt": "2026-11-12",
+          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved. Actual18publicfictionalteacherpromopanelscaptured12November;emptySTARfixtureversusfilled11Novsampledistinguished;oldoriginalsretained."
+        },
+        {
+          "path": "app/blueprint-app.tsx",
+          "sha256": "ca47ff0a4a8ce26edcc54b876fda5a0a0f107e29f3437ca6c0298a9836f9a944",
+          "reviewedAt": "2026-11-12",
+          "method": "Exact142banner/launch-boundary/testdelta reviewed;ordinarypublicURL/noorientationcurriculumhomes and197row assertionsretained;currentfailedverificationnotdisguised."
+        },
+        {
+          "path": "tests/orientation-entry.test.mjs",
+          "sha256": "12aba582f3486215dc4b219b62bb49fac30a92cf111e828ff053ebfb24e354d5",
+          "reviewedAt": "2026-11-12",
+          "method": "Exact142banner/launch-boundary/testdelta reviewed;ordinarypublicURL/noorientationcurriculumhomes and197row assertionsretained;currentfailedverificationnotdisguised."
+        },
+        {
+          "path": "tests/course-tracking.test.mjs",
+          "sha256": "6e499936eaa3a19a625939ee68ed23667daa49d6ce2cf716b83e9f0be09cf944",
+          "reviewedAt": "2026-11-12",
+          "method": "Reviewed142 current dated reference/assertions; curriculum/phase route, history and production-approval boundaries retained. ST4S source unchanged and still unverified; no school/backend acceptance added."
+        },
+        {
+          "path": "tests/production-plan.test.mjs",
+          "sha256": "6a14cd7b8f78934f680c02c7e3cd91f431857188bb897a61342b7db7f9aa1d69",
+          "reviewedAt": "2026-11-12",
+          "method": "Reviewed142 current dated reference/assertions; curriculum/phase route, history and production-approval boundaries retained. ST4S source unchanged and still unverified; no school/backend acceptance added."
+        },
+        {
+          "path": "tests/blueprint.test.mjs",
+          "sha256": "00b075fe7543faddf17ca13951f76133f941041d61c4d45ebbbac9860218ae88",
+          "reviewedAt": "2026-11-12",
+          "method": "Reviewed142 current dated reference/assertions; curriculum/phase route, history and production-approval boundaries retained. ST4S source unchanged and still unverified; no school/backend acceptance added."
+        },
+        {
+          "path": "data/st4s-readiness.json",
+          "sha256": "f4babfa80a4f633ac3a618e3d9a6d0f2c493dc18d4e68d95cbcbbd861a0f9aca",
+          "reviewedAt": "2026-11-12",
+          "method": "Reviewed142 current dated reference/assertions; curriculum/phase route, history and production-approval boundaries retained. ST4S source unchanged and still unverified; no school/backend acceptance added."
+        },
+        {
+          "path": "lib/st4s-readiness.mjs",
+          "sha256": "78a44f9a132e81be0ec9a53831406719c6e98ad106d09846bc5a1ff0ecbb0cfb",
+          "reviewedAt": "2026-11-12",
+          "method": "Exact byte comparison to source HEAD: unchanged security/readiness logic and source. Existing fail-closed/unverified school status preserved; no game, backend or compliance acceptance."
+        },
+        {
+          "path": "scripts/validate-st4s.mjs",
+          "sha256": "480aad686330dedefb323e23abb046adc9a8115327ccda9ae645ff99af490c26",
+          "reviewedAt": "2026-11-12",
+          "method": "Exact byte comparison to source HEAD: unchanged security/readiness logic and source. Existing fail-closed/unverified school status preserved; no game, backend or compliance acceptance."
+        },
+        {
+          "path": "app/st4s-dashboard.tsx",
+          "sha256": "6a328647204ee9b84c7ef19119abef4d959f5af1955feefdf685e0c546e8805e",
+          "reviewedAt": "2026-11-12",
+          "method": "Exact byte comparison to source HEAD: unchanged security/readiness logic and source. Existing fail-closed/unverified school status preserved; no game, backend or compliance acceptance."
+        },
+        {
+          "path": "docs/production/st4s-readiness.md",
+          "sha256": "75f432cbc192af4ec88bff783a8bc354f845582f32a19bc1067d6d45c7b74aa0",
+          "reviewedAt": "2026-11-12",
+          "method": "Exact byte comparison to source HEAD: unchanged security/readiness logic and source. Existing fail-closed/unverified school status preserved; no game, backend or compliance acceptance."
+        },
+        {
+          "path": "lib/wa-assessment-readiness.mjs",
+          "sha256": "4f9bd37ccfb1da3f9cf0901fdfd77a5b6a168c8c46f215d0869438325b17c81f",
+          "reviewedAt": "2026-11-12",
+          "method": "Exact byte comparison to source HEAD: unchanged security/readiness logic and source. Existing fail-closed/unverified school status preserved; no game, backend or compliance acceptance."
+        },
+        {
+          "path": "scripts/validate-wa-assessment.mjs",
+          "sha256": "8b17497b893df71771ff76cc7cfe29d902474e118fd48fcc4b03c3d1efadc584",
+          "reviewedAt": "2026-11-12",
+          "method": "Exact byte comparison to source HEAD: unchanged security/readiness logic and source. Existing fail-closed/unverified school status preserved; no game, backend or compliance acceptance."
+        },
+        {
+          "path": "docs/production/wa-assessment-route.md",
+          "sha256": "855e8f0f36b803124fe0ce44639a45825afddbae920904f9c8b80439b61f04d0",
+          "reviewedAt": "2026-11-12",
+          "method": "Exact byte comparison to source HEAD: unchanged security/readiness logic and source. Existing fail-closed/unverified school status preserved; no game, backend or compliance acceptance."
         }
       ]
     },
@@ -95923,6 +97265,497 @@
             "tests/unit/world-interaction-priority.test.mjs": "100644:7f6660dc4a8b1407018135ef2f22239b54635ff2"
           }
         }
+      },
+      {
+        "changeId": "CE-CHANGE-20261112-142",
+        "title": "Refresh whole Blueprint against current public game and dated screenshots",
+        "types": [
+          "release",
+          "visual",
+          "activity"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Refresh whole Blueprint against current public game and dated screenshots",
+        "before": "ReaderV2.40stillusesSeptember/OctoberimagesandcallsnewpublishedMarketrouteslocal;Hubsingle-pageformnotshown.",
+        "after": "42datedcaptureassets/sharedregistry;currentPhase0/1tablesanddecisionroutes;currentstudentforms/Notes/Stats/Capabilities/EST;all18currentpublicfictionalteacherpanels;bareStartHereandpedagogyimages. Historicaloriginalsretained;Phases2–11remainplans. No game/backend/learnerrecord changes.",
+        "source": "Directuser: Weve made a LOT of changes- the whole blueprint needs updating now. Please take a look at the screen shots vs what is now in the live game and update it all. Actualpublic69aa78e guest/demo inspection12November2026.",
+        "owner": "Blueprint maintainer:scoped source-binding publication/receipt;existing soleintegrator:gamecommit/push/liveverification",
+        "nextAction": "Run final normal tests and guarded Pages package, publish only Blueprint142 refresh excluding141, verify actual public bytes and routes.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Blueprint maintainer:documentary coordination;actual source registration/protection requires appropriate scoped authority",
+          "scope": "Documentation,publicguest/demoscreensandfictionalteacherimageonly;no accounts/backend/permissions/gamechange.",
+          "rationale": "Source-version review/publication is not production/classroom/mastery or hostedsecurity certification. Related133/137stay incomplete andWAevidence remainsUNVERIFIED;threebaseline-identical nativechecks are disclosed pending.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Canonical coordination and exact file-hash/proposal review only;no change to data controls,learner data,accounts,services or settings.",
+            "locations": "Canonical coordination and exact file-hash/proposal review only;no change to locations controls,learner data,accounts,services or settings.",
+            "accessCountries": "Canonical coordination and exact file-hash/proposal review only;no change to accessCountries controls,learner data,accounts,services or settings.",
+            "providers": "Canonical coordination and exact file-hash/proposal review only;no change to providers controls,learner data,accounts,services or settings.",
+            "lifecycle": "Canonical coordination and exact file-hash/proposal review only;no change to lifecycle controls,learner data,accounts,services or settings.",
+            "encryption": "Canonical coordination and exact file-hash/proposal review only;no change to encryption controls,learner data,accounts,services or settings.",
+            "logging": "Canonical coordination and exact file-hash/proposal review only;no change to logging controls,learner data,accounts,services or settings.",
+            "identity": "Canonical coordination and exact file-hash/proposal review only;no change to identity controls,learner data,accounts,services or settings.",
+            "isolation": "Canonical coordination and exact file-hash/proposal review only;no change to isolation controls,learner data,accounts,services or settings.",
+            "privacySafety": "Canonical coordination and exact file-hash/proposal review only;no change to privacySafety controls,learner data,accounts,services or settings.",
+            "applicability": "Canonical coordination and exact file-hash/proposal review only;no change to applicability controls,learner data,accounts,services or settings.",
+            "verification": "Canonical coordination and exact file-hash/proposal review only;no change to verification controls,learner data,accounts,services or settings."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "42 guest/fictional capture provenance hashes verified; exact197 curriculum preserved; no game backend or learner-data changes."
+          ],
+          "reviewedBy": "Blueprint maintainer exact staged-source/reporting review",
+          "reviewedAt": "2026-11-12",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Review Start Here against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current shared42-capture registry and dated implementation inspected in source and 18 semantic reader renders; old proposals/screens retained explicitly as history. TypeScript, scoped lint and compiled Pages preview pass.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Review Start Here images and video against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All 42 JPG hashes match shared capture registry; no videos added and original dated imagery retained.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "Review Decisions and superseded rules against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Protected decision register preserved; refresh changes presentation and current evidence only.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Review Curriculum and reciprocal mappings against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact full curriculum equals published140 baseline; all 197 flattened points and 12 phases retained in 18 semantic renders.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Review Activities and learning flow against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Phase0/1 render directly into three-column tables; Phase1 route map expanded in desktop browser with live three-route/Archon-coming-soon boundary.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Review Player Journey and worked example against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All 12 phase components rendered; current Phase0/1 table-first assertions pass, later phases and exact curriculum preserved.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "Review Year plan and assessment against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Assessment requirements and learner mastery boundaries retained; no completion or school acceptance inferred from public demo captures.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Review Teacher/classroom workflow against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "All 18 fresh public fictional promo panels registered and hashed; desktop dropdown and loaded featured image verified in browser, fit-width source confirmed.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Review World, rewards and progression against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current shared42-capture registry and dated implementation inspected in source and 18 semantic reader renders; old proposals/screens retained explicitly as history. TypeScript, scoped lint and compiled Pages preview pass.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Review Buildings and places against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current shared42-capture registry and dated implementation inspected in source and 18 semantic reader renders; old proposals/screens retained explicitly as history. TypeScript, scoped lint and compiled Pages preview pass.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Review Avatar and wardrobe references against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No avatar assets or wardrobe choices changed; arrival evidence is dated actual public game imagery.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Review Look and feel against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current shared42-capture registry and dated implementation inspected in source and 18 semantic reader renders; old proposals/screens retained explicitly as history. TypeScript, scoped lint and compiled Pages preview pass.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Review Visual/asset register and production brief against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current shared42-capture registry and dated implementation inspected in source and 18 semantic reader renders; old proposals/screens retained explicitly as history. TypeScript, scoped lint and compiled Pages preview pass.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Review Implementation and test evidence against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current shared42-capture registry and dated implementation inspected in source and 18 semantic reader renders; old proposals/screens retained explicitly as history. TypeScript, scoped lint and compiled Pages preview pass.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "recovery",
+            "disposition": "checked-unchanged",
+            "action": "Review Recovery and access against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing source/private recovery and public URLs preserved; isolated candidate and original source bytes retained locally.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Review Source library, terminology and rationale against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current shared42-capture registry and dated implementation inspected in source and 18 semantic reader renders; old proposals/screens retained explicitly as history. TypeScript, scoped lint and compiled Pages preview pass.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Review Priorities and linked execution tasks against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current shared42-capture registry and dated implementation inspected in source and 18 semantic reader renders; old proposals/screens retained explicitly as history. TypeScript, scoped lint and compiled Pages preview pass.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Review Material changes and history against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current shared42-capture registry and dated implementation inspected in source and 18 semantic reader renders; old proposals/screens retained explicitly as history. TypeScript, scoped lint and compiled Pages preview pass.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Review Workflows and handoff against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current shared42-capture registry and dated implementation inspected in source and 18 semantic reader renders; old proposals/screens retained explicitly as history. TypeScript, scoped lint and compiled Pages preview pass.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Review Generated views and downloads against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Deterministic exports and 18 current component renders inspected; public projection must exclude denied141 workflow payload.",
+              "date": "2026-11-12"
+            }
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Review Publication verification against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Candidateprepared;scopedsource/renderchecksrequired.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish scoped reviewed Blueprint142 package excluding141; compare served record, bundle and 42 screenshot bytes and inspect public routes before completion."
+          },
+          {
+            "surface": "security",
+            "disposition": "checked-unchanged",
+            "action": "Review School security, privacy & WA assessment readiness against currentguest/demo evidence;preserveexactcurriculum,historyandunrelatedwork.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261112-142"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md",
+              "Whole-reader142:18 renders,197 exact points,42 asset hashes; desktop Phase1/teacher dropdown checks12November."
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "42 capture sources reviewed as guest or built-in fictional demo; no real learner records, authentication, backend, retention or permissions changed.",
+              "date": "2026-11-12"
+            }
+          }
+        ],
+        "projectChanges": {}
       }
     ],
     "releaseHistory": [
@@ -97210,6 +99043,15 @@
       "originalFilename": "12 General CEM Year Long Assessment Schedule 2026 (1).docx",
       "sha256": "828b5ffe9529ae984d28904f868146d13017d967070949a22f575663edee922e",
       "note": "Public school assessment summary supplied by Tania on 7 September 2026, unchanged. It records task, weighting and due-date context for 2026, not 2027."
+    },
+    {
+      "id": "CE-LIVE-GAME-REVIEW-20261112",
+      "group": "builds",
+      "title": "Current game and Blueprint screenshot review",
+      "edition": "12 November2026 / publicguest,demoandlabelledteacher samples",
+      "format": "Website",
+      "href": "/production/live-game-review-20261112.html",
+      "note": "Dated reference to current Market, Notes, anonymous portfolio, Student Hub forms, Stats, Capabilities and EST views. Guided opening, Careers transition, Archon and teacher limits are explicit; historical screens and later phase plans remain."
     }
   ],
   "sources": [
