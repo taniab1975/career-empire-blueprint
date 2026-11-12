@@ -24,3 +24,14 @@ Existing static video and local scene/media interaction only. No new learner dat
 ## Required CI attempt
 
 Original npm run ci source/unit coverage completed; default browser attempt recorded141 missing-executable failures and132 not run before graceful interruption. Repository-supported native single-worker retry has no completed footer because the workspace disconnected; its observed admin/legacy-avatar fixture issues remain logged. Focused native EST1280/390 checks passed separately. No all-CI-green claim.
+
+## EST verified live — 13 November 2026
+
+EST outside briefing 56d83fe54e5121cabf9152e86282f4c01412da29 is published at the actual Career Empire game. All353 actual runtime hashes match. Actual live native Chrome1280/390 verifies outside muted inline loop, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall resume with zero page errors. Four focused tests and387unit tests/82 files pass;353 staged assets/106 imports verified. Native fullscreen remains unverified because headless reports not granted; actual usable cinema/denial recovery passes. Broad CI failure/interruption is retained, no all-CI-green claim. Archon, Notes and Chapel are preserved, CI f156c32 remains separately staged. Portfolio follows next, then optional Enter Chapel button added alongside walk-in. Actual Safari/physical touch/classroom and Tania acceptance remain separate.
+
+[Actual live game](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/).
+
+
+## Requested final EST correction
+
+Tania confirms the outside video plays but requests a final targeted EST successor: occupy the floor-to-ceiling window area, make Play EST video and Return to campus both immediately available on entry, and show the matching CORE/TERM/VTCS/BOSS reference card with the celebrating headphone guide on each monitor. Current149 is functionally verified, not appearance accepted. Finish these exact EST changes, verify live, then resume preserved portfolio153; optional Enter Chapel button remains later and must retain walk-in.

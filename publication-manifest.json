@@ -1,8 +1,8 @@
 {
   "sourceCommit": "45fd704ace479f7d1936107c9bf197273667e736",
-  "generatedAt": "2026-11-12T22:19:49.683643+00:00",
+  "generatedAt": "2026-11-12T22:54:26.061873+00:00",
   "revision": "V2.41 / 12 November 2026",
-  "recordSha256": "9e6e5ce7ff916fa118b33de3d0427d2d160081b20385f7c58de46d466d655d74",
+  "recordSha256": "5bb74cb509ac6cc656a231b85c7b61ac0a705f6f8673ea294ec082db0bd88519",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -2878,38 +2878,38 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "9e6e5ce7ff916fa118b33de3d0427d2d160081b20385f7c58de46d466d655d74"
+      "sha256": "5bb74cb509ac6cc656a231b85c7b61ac0a705f6f8673ea294ec082db0bd88519"
     },
     {
       "path": "production/est-outside-release-20261113.md",
-      "sha256": "56e6630e9ab80b8bed8a8a3aff8a7026187276dc91ae1e6722e589a8a4643676"
+      "sha256": "76b6dc1722defee9b4a97f38c2797c3a69f17cdc5dfbe4cebcaf34b1ac13ba3d"
     },
     {
       "path": "production/est-outside-release-20261113.html",
-      "sha256": "e9d4245422de3512db133a7ba0fb7331b0a3185411c34f981eb267e38f8ded01"
+      "sha256": "6e72a62c7bca071aa1aa8930d0d1d1cd3eb955a816164b9541974b74aa3aca2c"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "c663188f5b03a4bc53bed2a86810e146787a9f780d418f1c2b0172a435415372"
+      "sha256": "2e9cfb012eeb307662b6a2ddb30e038260a3ff33aa0c0ff12690b1effff824be"
     },
     {
       "path": "production/current-state.html",
-      "sha256": "5c627bbd4c2e450f4789c8d37da344371000360099aedd5abd5de9e1df622c24"
+      "sha256": "61b4036b19be09030542594098810fd2fd3f274614c7885031a9aff089906dba"
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "39eaf0b23adbc2fb45e91f478c3bfb4fb70fdbd85f04185348bc3fc5e0923912"
+      "sha256": "78f9b6be3f292598afe3e3078204dafa77b97921a51b271950b1abca758dfffa"
     },
     {
       "path": "evidence/est-outside-20261113/outside-1280.png",
-      "sha256": "dfbf07594bb0f933913cd420433f2251089a6308d67e4c35251a3a3976595f26"
+      "sha256": "65d4c937eef9bbd340721be0f274ff9e3aee89afaa334dba2b93a687bcfd1584"
     },
     {
       "path": "evidence/est-outside-20261113/outside-390.png",
-      "sha256": "d5bd3b6a8cea49c83a5c70a2e071f75948e7b2a4df3f1746223e0fba5cc38d51"
+      "sha256": "7131db3ac452b39176521f27c33fc4bc057953ed0c53a7da0ed639bbf985c15f"
     }
   ],
-  "recordPublicationScope": "Preserve all existing records/bundles; add149 exact EST source review, current-state and two native captures only.",
+  "recordPublicationScope": "Bounded149 live EST closeout; preserve all immutable source integrations and V2.41 reader bundles. Live screenshots replace qualified-candidate captures only.",
   "sourceRecovery": "Tested source saved in local Git; separate private recovery upload rejected by automatic approval review and not retried.",
   "verificationLimits": "Live StartHere,Phase0/1,student zoom,teacher fit-width dropdown,places and pedagogy verified. Narrow layout actual520px with local table scrolling. Guest/fictional captures only; no school or authenticated teacher acceptance."
 }
