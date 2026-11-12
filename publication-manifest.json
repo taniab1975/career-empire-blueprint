@@ -1,8 +1,8 @@
 {
   "sourceCommit": "45fd704ace479f7d1936107c9bf197273667e736",
-  "generatedAt": "2026-11-12T22:09:37.259490+00:00",
+  "generatedAt": "2026-11-12T22:19:49.683643+00:00",
   "revision": "V2.41 / 12 November 2026",
-  "recordSha256": "b584cd207b69e2da1ed7604c05d629e521a71cfa995aa997d80277bb29382345",
+  "recordSha256": "9e6e5ce7ff916fa118b33de3d0427d2d160081b20385f7c58de46d466d655d74",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -2861,10 +2861,6 @@
       "sha256": "17d9d5b327bef22d5ae562cb23926b510aadc2f2833a4f292f584e3efac9d69c"
     },
     {
-      "path": "blueprint-records.json",
-      "sha256": "b584cd207b69e2da1ed7604c05d629e521a71cfa995aa997d80277bb29382345"
-    },
-    {
       "path": "production/chapel-walk-in-release-20261113.md",
       "sha256": "eedbf508fd0584673e26fd6dbd7174703df675dc69cc5655464a49333d8997af"
     },
@@ -2873,27 +2869,47 @@
       "sha256": "d3e1a253883c949dd20a7ec175beabbb12d2caf58cf5a5d88897566570471348"
     },
     {
-      "path": "production/current-state.md",
-      "sha256": "755993cc3b9a466268c75c1493a864c3d54de08a410bb6ef2af85b95307bc0b7"
-    },
-    {
-      "path": "production/current-state.html",
-      "sha256": "6654d1ad60dc4ae34a7ca401dfbc593f10a43b1f93198264b3180aa7123996e8"
-    },
-    {
-      "path": "production/material-changes.md",
-      "sha256": "a59c11b660504555fc488e368ea3153288fbb428bc92b7d51f922dd2a3709c29"
-    },
-    {
       "path": "evidence/chapel-walk-in-20261113/interior-1280.png",
       "sha256": "a0146e139bb30a4f78bed82b2b2e0d561216b9e6fbd1d906d2b93afc6b90a04d"
     },
     {
       "path": "evidence/chapel-walk-in-20261113/ceiling-touch-390.png",
       "sha256": "d749bcbe7157a7f3a47cf5cf10bc8797ff7945140f0542f13a6fad2c0f018e4d"
+    },
+    {
+      "path": "blueprint-records.json",
+      "sha256": "9e6e5ce7ff916fa118b33de3d0427d2d160081b20385f7c58de46d466d655d74"
+    },
+    {
+      "path": "production/est-outside-release-20261113.md",
+      "sha256": "56e6630e9ab80b8bed8a8a3aff8a7026187276dc91ae1e6722e589a8a4643676"
+    },
+    {
+      "path": "production/est-outside-release-20261113.html",
+      "sha256": "e9d4245422de3512db133a7ba0fb7331b0a3185411c34f981eb267e38f8ded01"
+    },
+    {
+      "path": "production/current-state.md",
+      "sha256": "c663188f5b03a4bc53bed2a86810e146787a9f780d418f1c2b0172a435415372"
+    },
+    {
+      "path": "production/current-state.html",
+      "sha256": "5c627bbd4c2e450f4789c8d37da344371000360099aedd5abd5de9e1df622c24"
+    },
+    {
+      "path": "production/material-changes.md",
+      "sha256": "39eaf0b23adbc2fb45e91f478c3bfb4fb70fdbd85f04185348bc3fc5e0923912"
+    },
+    {
+      "path": "evidence/est-outside-20261113/outside-1280.png",
+      "sha256": "dfbf07594bb0f933913cd420433f2251089a6308d67e4c35251a3a3976595f26"
+    },
+    {
+      "path": "evidence/est-outside-20261113/outside-390.png",
+      "sha256": "d5bd3b6a8cea49c83a5c70a2e071f75948e7b2a4df3f1746223e0fba5cc38d51"
     }
   ],
-  "recordPublicationScope": "Bounded146 live Chapel closeout; preserve all immutable source integrations and V2.41 reader bundles. Live screenshots replace qualified-candidate captures only.",
+  "recordPublicationScope": "Preserve all existing records/bundles; add149 exact EST source review, current-state and two native captures only.",
   "sourceRecovery": "Tested source saved in local Git; separate private recovery upload rejected by automatic approval review and not retried.",
   "verificationLimits": "Live StartHere,Phase0/1,student zoom,teacher fit-width dropdown,places and pedagogy verified. Narrow layout actual520px with local table scrolling. Guest/fictional captures only; no school or authenticated teacher acceptance."
 }

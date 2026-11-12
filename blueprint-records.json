@@ -39116,6 +39116,23 @@
           "testing": "387 unit tests across82 files pass with original limits;353 staged runtime hashes and106 reachable imports pass, as do10 focused doorway/load/race/touch regressions. Five integrated native-Metal Chrome cases pass: desktop/phone camera bounds; actual first-day walking through the doorway, upward look, mouse exit/checkpoint and reentry at1280/390;390 automated touch joystick movement, more than a full horizontal turn, ceiling gesture, two real touch exits/reentries, zeroed held input, drag-off cancellation and Enter-key exit. Tests use normal guest routes, real physics displacement and real pointer/keyboard/CDP touch events. Read-only test observers expose pose/frame evidence; they do not teleport or alter gameplay. Native rendered-frame counters and screenshots establish the draw after looking up; software-only presentation counters are not misreported as native evidence. Initial imported test setup used a generic local HTTP server that reset parallel module downloads. The existing repository128-request-queue/range server was then used. A readiness race clicked destinations before startup; the harness now waits for actual entryReady. A cloud assertion waited for a software-only presented-frame attribute on native rendering; the check now uses the native rendered-frame count and pose-at-draw while preserving actual draw/interaction assertions. Failed structured runs and fresh final output paths are retained; an aborted early retake reused some screenshot paths, so not every initial screenshot remains. No production change or assertion threshold reduction was used to disguise these harness issues. Final native ceiling/interior captures are visible, unlike earlier near-black unchanged-baseline SwiftShader evidence. Physical device, Safari, final architectural appearance acceptance and Tania’s recording remain separate.",
           "deployment": "Chapel walk-in 1733b4b5e1447e9877e9abb972b816bf1d4102cc is published at the actual Career Empire game. All353 actual runtime asset hashes match. Live native Chrome first-day physical walking through the doorway, upward ceiling scan, mouse return/checkpoint/reentry at1280 and automated touch joystick/yaw/ceiling/two exits/reentries/cancel/keyboard exit at390 pass. Actual unmodified published Market/map hide-show, classroom entry, Notes reading/feedback/written responses, Journal contextual return, Archon lobby and same-run checks pass at1280/390; guest Notes makes zero Storage API/backend requests. Source387 tests/82 files,353 staged assets/106 imports,10 focused and5 integrated native cases pass. Read-only live pose/frame observers document actual game physics and renders; no teleport or gameplay replacement. Separate CI f156c32 restored staged only. Broad CI admin-preview failure remains; no all-CI-green, Safari, physical-device, classroom or whole-campus appearance acceptance. Tania can now check the live game and record the Chapel walkthrough. EST, portfolio and Flyover remain separate successors.",
           "designApproval": "Tania requested physical doorway entry, upward/around looking and click exit; renewed why-not-live urgency. No physical-device/ceiling-perfection gate invented."
+        },
+        {
+          "id": "CE-CHANGE-20261113-149",
+          "date": "2026-11-13",
+          "title": "EST outside briefing screen and usable cinema gesture on current Chapel release",
+          "source": "Tania coordinator continuation explicitly requests preserved EST successor now, then portfolio; optional Enter Chapel button addition later.",
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "status": "Qualified exact current-base source; game publication pending",
+          "rationale": "Release the previously qualified automatic physical doorway entry and interior look/exit, serially integrated onto current Archon/Notes250c409.",
+          "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later.",
+          "evidence": [
+            "docs/production/chapel-walk-in-release-20261113.md"
+          ],
+          "implementation": "Seven exact files merge the preserved five-file EST successor onto live Chapel1733b4b, adding only required cache-chain and runtime-manifest successors. A clean three-way merge retained every current Archon/Notes path; the single canvas-handler conflict explicitly keeps Chapel chapelLookTilt while adding EST retryPreview and unobstructed tapESTScreen. No old app/index overwrite, models or media replacement. The existing briefing video/VideoTexture/material is shared by the indoor screen and a depth-tested2.84x1.6m outside-facing screen at16,2.7,21.7. Nearby outside playback is muted, inline and looped, pauses away/in other modes and does not override audible cinema. Autoplay denial is recoverable by a real scene gesture without retry storms. The interior screen uses blocker-aware raycasting; a real mouse/touch gesture opens existing audible cinema and requests fullscreen on DIV#est-cinema. The dialog itself is not a valid fullscreen request target. Existing controls, source documents and Back to hall remain inside the wrapper.",
+          "testing": "387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Native fullscreen is not certified: headless Chrome returned not granted for the real activated valid DIV target, matching the retained blank-control diagnostic. The audible cinema, denial feedback and close/recovery pass independently. Actual Safari, physical touch, classroom and Tania appearance acceptance remain separate. Original required CI was attempted; source/unit coverage and focused outcomes are retained; broader browser results are separately logged and no all-CI-green claim is made. Separate CI f156c32 is not included. Archon, Notes and Chapel remain preserved; portfolio follows sequentially. Optional Enter Chapel button is a later additive change retaining walk-in, as Tania requested. Original npm run ci source/unit coverage completed; default browser attempt recorded141 missing-executable failures and132 not run before graceful interruption. Repository-supported native single-worker retry has no completed footer because the workspace disconnected; its observed admin/legacy-avatar fixture issues remain logged. Focused native EST1280/390 checks passed separately. No all-CI-green claim.",
+          "deployment": "Not yet published. Exact source-review publication and genuine receipt precede normal main push.",
+          "designApproval": "Tania requested physical doorway entry, upward/around looking and click exit; renewed why-not-live urgency. No physical-device/ceiling-perfection gate invented."
         }
       ],
       "sessionStart": [
@@ -99705,6 +99722,471 @@
             "playable-3d/release-manifest.json": "100644:b5271e0b7660658145307dddbc6ce9ee232eedd4",
             "tests/unit/software-navigation.test.mjs": "100644:d4530880f1c85bf3f653f5e1129d0a3179f0c2a8",
             "tests/unit/world-interaction-priority.test.mjs": "100644:e3d0c918f408e3b6f47bcddf4607c2e6a93d88f7"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261113-149",
+        "title": "EST outside briefing screen and usable cinema gesture on current Chapel release",
+        "types": [
+          "implementation",
+          "activity",
+          "release",
+          "governance"
+        ],
+        "status": "complete",
+        "objective": "Show existing briefing from outside EST and retain unobstructed indoor video/cinema interaction and fallback.",
+        "before": "Qualified five-file EST candidate remains based on69aa78e; live1733b4b retains prior EST screen behavior.",
+        "after": "The existing briefing video/VideoTexture/material is shared by the indoor screen and a depth-tested2.84x1.6m outside-facing screen at16,2.7,21.7. Nearby outside playback is muted, inline and looped, pauses away/in other modes and does not override audible cinema. Autoplay denial is recoverable by a real scene gesture without retry storms. The interior screen uses blocker-aware raycasting; a real mouse/touch gesture opens existing audible cinema and requests fullscreen on DIV#est-cinema. The dialog itself is not a valid fullscreen request target. Existing controls, source documents and Back to hall remain inside the wrapper.",
+        "source": "Tania coordinator continuation explicitly requests preserved EST successor now, then portfolio; optional Enter Chapel button addition later.",
+        "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+        "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim.",
+          "rationale": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. Existing data remains.",
+            "locations": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. Existing locations remains.",
+            "accessCountries": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. Existing accessCountries remains.",
+            "providers": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. Existing providers remains.",
+            "lifecycle": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. Existing lifecycle remains.",
+            "encryption": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. Existing encryption remains.",
+            "logging": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. Existing logging remains.",
+            "identity": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. Existing identity remains.",
+            "isolation": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. Existing isolation remains.",
+            "privacySafety": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. Existing privacySafety remains.",
+            "applicability": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. Existing applicability remains.",
+            "verification": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. Existing verification remains."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet.",
+            "Native fullscreen is not certified: headless Chrome returned not granted for the real activated valid DIV target, matching the retained blank-control diagnostic. The audible cinema, denial feedback and close/recovery pass independently. Actual Safari, physical touch, classroom and Tania appearance acceptance remain separate. Original required CI was attempted; source/unit coverage and focused outcomes are retained; broader browser results are separately logged and no all-CI-green claim is made. Separate CI f156c32 is not included. Archon, Notes and Chapel remain preserved; portfolio follows sequentially. Optional Enter Chapel button is a later additive change retaining walk-in, as Tania requested."
+          ],
+          "reviewedBy": "Sole integrator exact8 merge/diff, unit/load/cancellation and native pointer/touch/frame review",
+          "reviewedAt": "2026-11-12",
+          "productionComplete": false,
+          "releasePurpose": "product-change",
+          "securityApproval": "Explicit Tania release continuation for existing EST presentation/interaction; no new architecture or school approval inferred.",
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Update EST start actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST start actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Update EST media actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST media actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Update EST decisions actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST decisions actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Update EST flow actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST flow actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Update EST journey actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST journey actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Update EST world actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST world actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Update EST buildings actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST buildings actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing static video and local scene/media interaction only. No new learner data fields, identity, storage keys, telemetry, backend, providers, permissions or external hosts. Current curriculum content and source editions, existing EST documents, scoring/assessment and teacher access remain unchanged. No new asset production or school-readiness claim. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Update EST build actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST build actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Update EST recovery actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST recovery actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Update EST sources actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST sources actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Update EST roadmap actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST roadmap actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Update EST history actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST history actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Update EST protocol actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST protocol actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Update EST exports actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST exports actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          },
+          {
+            "surface": "publication",
+            "disposition": "updated",
+            "action": "Update EST publication actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state.",
+            "records": [
+              "CE-CHANGE-20261113-149"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Seven exact source versions, existing curriculum and Archon/Notes/Chapel must remain; distinguish headless fullscreen denial from working cinema fallback and actual publication.",
+            "evidence": [
+              "docs/production/est-outside-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update EST publication actual outside briefing/indoor cinema gesture status, exact current-base code and tested recovery limits in source review/current-state. 387 tests across82 files, source check and353 staged runtime hashes/106 imports pass. Four focused tests cover shared material/depth geometry, preview lifecycle, autoplay denial/retry and unobstructed screen gesture. Actual isolated native Chrome1280/390 checks pass decoded outside muted looping video, physical keyboard entry, mouse/touch screen gesture, audible cinema, close and muted hall playback resume, with zero page errors. Read-only test observers expose pose/video state; no teleport or gameplay replacement. Candidate outside screenshots visibly show existing briefing above the cabinet. Reader1280/390 source images and overflow verification precedes publication.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact source review then genuine7-file receipt and normal guarded game push. Verify actual live outside/inside video and desktop/touch cinema recovery. Portfolio next; optional Chapel button later."
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "playable-3d/app.js": "100644:0b56ac3a6e09232d036741e29b1012817dbdea02",
+            "playable-3d/est-wall-video.js": "100644:eaba98e37ea475f0cf696c5e172ebbe10b1021b1",
+            "playable-3d/guest-shell.mjs": "100644:cfc16dcce32e073fe825e44aab3ff5b9cc9e35c1",
+            "playable-3d/index.html": "100644:120a511477f1093db9f9926aad19bc7c4a9c516c",
+            "playable-3d/release-manifest.json": "100644:f32b3edfc02eadafded1121ee5ed0137f49b443b",
+            "playable-3d/style.css": "100644:686a485a8a28f7cd1a88dd7f9f63c69a316b97e1",
+            "playable-3d/world.js": "100644:b8d8e60915e0bdd82be8b4187fafef85a68087b3"
           }
         }
       }
