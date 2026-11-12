@@ -34649,8 +34649,8 @@
       "phase": "Refresh the reader against the live game",
       "activeMilestoneId": "CE-CONTINUITY-01",
       "objective": "Make the purpose, current design, implementation limits and next decisions understandable to a new colleague.",
-      "now": "Local four-route infographic entrance and anonymous Initiative STAR/PDF log are integrated and hash-verified. Actual-source1280/390fixtures and414runtime units are reported passed. Archon28filefrontend and six synthetic failure/retry cases pass; cloud PostgreSQL/Deno validation uses a test RPC shim,not genuine hosted Supabase acceptance.",
-      "next": "VerifyandpublishthecurrentBlueprintreader;separatelyrepair/recheckguidedopeningandMarket-to-Careerstransition. PublishedentrancestillmarksArchoncomingsoon;teacher/authenticated/classroomchecksremainopen.",
+      "now": "Market entrance and anonymous portfolio are live; self-service Archon frontend and Market/map links now published at6d4c793 and independently verified. Existing hosted smoke passes; whole-game/classroom acceptance remains separate.",
+      "next": "Tania reviews live Archon and Market/map links. Separately repair/recheck guided opening; preserve queued Flyover, Chapel, EST, portfolio and CI work.",
       "then": "Author and review core learning materials, purposeful application and appropriate evidence across the shared phases; align school pacing and assessment dates before setting lessons.",
       "later": "Implement the agreed connected course and verify classroom, accessibility, school and learner-evidence requirements separately.",
       "sequence": [
@@ -34988,7 +34988,7 @@
         "V2-D03",
         "V2-D18"
       ],
-      "nextAction": "VerifyandpublishthecurrentBlueprintreader;separatelyrepair/recheckguidedopeningandMarket-to-Careerstransition. PublishedentrancestillmarksArchoncomingsoon;teacher/authenticated/classroomchecksremainopen.",
+      "nextAction": "Tania reviews live Archon and Market/map links. Separately repair/recheck guided opening; preserve queued Flyover, Chapel, EST, portfolio and CI work.",
       "doneWhen": "Core materials and meaningful application/evidence are authored and reviewed against the exact curriculum and school assessment requirements. Blueprint publication, game integration, school permission and learner mastery have separate evidence.",
       "boundary": "Documentation refresh only; does not approve game production, new backend, security permissions or a student trial. No real learner records changed."
     },
@@ -39046,7 +39046,7 @@
           "domain": "Bounded self-service frontend exact-source review and guarded release",
           "source": "Direct Tania publication approval in executing Integrate and test Initiative chat; independent exact41 qualification archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c.",
           "owner": "Integrate and test Initiative: exact source review, guarded release and independent live verification",
-          "status": "Exact source review complete; game publication pending guard receipt",
+          "status": "Published and independently verified; Tania live acceptance pending",
           "rationale": "Bind the exact qualified self-service Archon frontend without certifying hosted classroom acceptance",
           "dependencies": [
             "CE-CHANGE-20261112-140"
@@ -39054,11 +39054,11 @@
           "evidence": [
             "docs/production/archon-self-service-release-20261112.md"
           ],
-          "nextAction": "Publish and verify this bounded source-review record, issue the unchanged guard receipt, push exact41 and inspect actual public game/Market/map links.",
+          "nextAction": "Tania checks actual live Archon and Market/map links; retain test-release label and separate broader hosted/classroom acceptance.",
           "designApproval": "Direct publication instruction from Tania in executing chat; not a school or hosted production acceptance.",
           "implementation": "All 41 actual staged Git versions match independently qualified source; bounded review documents public links, tests, backend continuity and outstanding live acceptance.",
-          "deployment": "Not yet pushed; exact source review precedes guarded game release.",
-          "testing": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved.",
+          "deployment": "Archon 6d4c793c20b0e5c163f9758cc332a719e87108d3 published and verified at the actual Career Empire GitHub Pages site. All350 served asset hashes match; desktop1280/phone390 standalone/native video/Market choices/Journal-map/location-guide/Back preserve the same run, with zero page errors or missing responses. Genuine hosted fictional-room create, two joins, adjudicator start, board for all three seats and all-three reload/resume pass; no intercepted responses in this hosted smoke. Full hosted match and Safari/classroom acceptance remain separate. Tania live review pending. Separate staged CI runner fix preserved; software browser CI dependency installation still fails, so no all-CI-green claim.",
+          "testing": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved. Actual publication verification: Archon 6d4c793c20b0e5c163f9758cc332a719e87108d3 published and verified at the actual Career Empire GitHub Pages site. All350 served asset hashes match; desktop1280/phone390 standalone/native video/Market choices/Journal-map/location-guide/Back preserve the same run, with zero page errors or missing responses. Genuine hosted fictional-room create, two joins, adjudicator start, board for all three seats and all-three reload/resume pass; no intercepted responses in this hosted smoke. Full hosted match and Safari/classroom acceptance remain separate. Tania live review pending. Separate staged CI runner fix preserved; software browser CI dependency installation still fails, so no all-CI-green claim.",
           "taniaAcceptance": "Live game and Market/map review requested after publication."
         }
       ],

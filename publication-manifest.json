@@ -1,8 +1,8 @@
 {
   "sourceCommit": "45fd704ace479f7d1936107c9bf197273667e736",
-  "generatedAt": "2026-11-12T05:45:49.722867+00:00",
+  "generatedAt": "2026-11-12T05:59:42.826366+00:00",
   "revision": "V2.41 / 12 November 2026",
-  "recordSha256": "4e10e12ddaf0940be8f018bd49829878b0132c861772432cb84ca69851cb1153",
+  "recordSha256": "cbb95351ad29cf27966d2d267221184381325adaace15b3c660f3b5d7c741bf4",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -2830,18 +2830,18 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "4e10e12ddaf0940be8f018bd49829878b0132c861772432cb84ca69851cb1153"
+      "sha256": "cbb95351ad29cf27966d2d267221184381325adaace15b3c660f3b5d7c741bf4"
     },
     {
       "path": "production/archon-self-service-release-20261112.md",
-      "sha256": "aac94f5865b6a0e8f0abf91f2eac68770ae11fef0d6173b03906aa7b8b95ae1c"
+      "sha256": "41f77088544a664d1aba1b6cdcde63c076c15c59d73fb04b66e31f79d5991dfc"
     },
     {
       "path": "production/archon-self-service-release-20261112.html",
-      "sha256": "fecd858ef8c0e30cb8d34c6807b8f9d837619ff280761e91a3ec456acb83929d"
+      "sha256": "4be13dfa11f39b424df150e081b5ab377c4df5dc2962940ac17224fdf36cc11f"
     }
   ],
-  "recordPublicationScope": "Preserve V2.41 reader and prior records; add exact41 Archon frontend source-review143 only. Game push and acceptance separate.",
+  "recordPublicationScope": "Preserve V2.41 reader bundles/screenshots and all integration objects; close exact143 game release evidence and current actions only.",
   "sourceRecovery": "Tested source saved in local Git; separate private recovery upload rejected by automatic approval review and not retried.",
   "verificationLimits": "Live StartHere,Phase0/1,student zoom,teacher fit-width dropdown,places and pedagogy verified. Narrow layout actual520px with local table scrolling. Guest/fictional captures only; no school or authenticated teacher acceptance."
 }

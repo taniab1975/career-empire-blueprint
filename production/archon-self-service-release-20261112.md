@@ -19,3 +19,11 @@ Full hosted browser match, Safari/native touch/print and school/classroom accept
 ## Release and recovery
 
 The guarded game push requires this exact published source binding and a legitimate receipt. Production target is Emmanuel-ICT-Support/GTCEM-Career-Empire main, Pages from repository root, /playable-3d/ and /modules/archon-careers/hosted/. Blueprint is the planning reader, not game deployment proof. Verify the remote, resulting Pages run and actual served bytes before claiming live. The saved CI workflow must be restaged byte-for-byte after the bounded commit. No older whole-app candidate may overwrite these changes. Retain the 69aa78e baseline and frozen 41-file manifest for recovery; any rollback is a separately guarded source change.
+
+## Verified game publication
+
+Archon 6d4c793c20b0e5c163f9758cc332a719e87108d3 published and verified at the actual Career Empire GitHub Pages site. All350 served asset hashes match; desktop1280/phone390 standalone/native video/Market choices/Journal-map/location-guide/Back preserve the same run, with zero page errors or missing responses. Genuine hosted fictional-room create, two joins, adjudicator start, board for all three seats and all-three reload/resume pass; no intercepted responses in this hosted smoke. Full hosted match and Safari/classroom acceptance remain separate. Tania live review pending. Separate staged CI runner fix preserved; software browser CI dependency installation still fails, so no all-CI-green claim.
+
+- [Live Careers Archon](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/modules/archon-careers/hosted/)
+- [Live Market entrance](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/?experience=sunday-markets)
+- [Successful Pages deployment](https://github.com/Emmanuel-ICT-Support/GTCEM-Career-Empire/actions/runs/43163960188)
