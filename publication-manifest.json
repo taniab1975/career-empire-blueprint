@@ -1,8 +1,8 @@
 {
   "sourceCommit": "45fd704ace479f7d1936107c9bf197273667e736",
-  "generatedAt": "2026-11-12T21:48:19.636170+00:00",
+  "generatedAt": "2026-11-12T22:09:37.259490+00:00",
   "revision": "V2.41 / 12 November 2026",
-  "recordSha256": "f3cea5fff43a26759d9c604d22dda2f271304ec376086d6bd7a8b62897cb8118",
+  "recordSha256": "b584cd207b69e2da1ed7604c05d629e521a71cfa995aa997d80277bb29382345",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -2862,38 +2862,38 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "f3cea5fff43a26759d9c604d22dda2f271304ec376086d6bd7a8b62897cb8118"
+      "sha256": "b584cd207b69e2da1ed7604c05d629e521a71cfa995aa997d80277bb29382345"
     },
     {
       "path": "production/chapel-walk-in-release-20261113.md",
-      "sha256": "6127fe841f23d453271225ffa67f516243f5cec65e111345cb31df1ec08eb785"
+      "sha256": "eedbf508fd0584673e26fd6dbd7174703df675dc69cc5655464a49333d8997af"
     },
     {
       "path": "production/chapel-walk-in-release-20261113.html",
-      "sha256": "7004dc050097ef3b006bf1f7558cfe3d826b61c4fb81ec36723010e688c85e51"
+      "sha256": "d3e1a253883c949dd20a7ec175beabbb12d2caf58cf5a5d88897566570471348"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "da61f26933cbf4c3f9194d05a6a0ec266588b4092161acb3ee6afb3f95bb8c53"
+      "sha256": "755993cc3b9a466268c75c1493a864c3d54de08a410bb6ef2af85b95307bc0b7"
     },
     {
       "path": "production/current-state.html",
-      "sha256": "8228d6cc629e0577b2be92bea7cd7b7c9b8f72039d987116b23c749d23db14e4"
+      "sha256": "6654d1ad60dc4ae34a7ca401dfbc593f10a43b1f93198264b3180aa7123996e8"
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "48a65ccb8be495ce56e3b4109facf4e2aa4bc5d4182e0c6ff86cc8db7ab5dcef"
+      "sha256": "a59c11b660504555fc488e368ea3153288fbb428bc92b7d51f922dd2a3709c29"
     },
     {
       "path": "evidence/chapel-walk-in-20261113/interior-1280.png",
-      "sha256": "eaa932a39232b3a56bc7944c1ccea6a256307892e672f7741f2c0b639cea4e39"
+      "sha256": "a0146e139bb30a4f78bed82b2b2e0d561216b9e6fbd1d906d2b93afc6b90a04d"
     },
     {
       "path": "evidence/chapel-walk-in-20261113/ceiling-touch-390.png",
-      "sha256": "93e93fc0e982ad3beb7032fe2700addba9ed14eeed97c6cd196c2678e9384eae"
+      "sha256": "d749bcbe7157a7f3a47cf5cf10bc8797ff7945140f0542f13a6fad2c0f018e4d"
     }
   ],
-  "recordPublicationScope": "Preserve existing V2.41 bundles, all prior integrations/Notes/Archon; add146 exact Chapel functional source review, current-state and two native renders only.",
+  "recordPublicationScope": "Bounded146 live Chapel closeout; preserve all immutable source integrations and V2.41 reader bundles. Live screenshots replace qualified-candidate captures only.",
   "sourceRecovery": "Tested source saved in local Git; separate private recovery upload rejected by automatic approval review and not retried.",
   "verificationLimits": "Live StartHere,Phase0/1,student zoom,teacher fit-width dropdown,places and pedagogy verified. Narrow layout actual520px with local table scrolling. Guest/fictional captures only; no school or authenticated teacher acceptance."
 }

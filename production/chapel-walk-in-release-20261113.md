@@ -41,9 +41,15 @@ This is local movement, camera, interaction and optional guidance only. No new d
 
 ## Native rendered source evidence
 
-Actual tested current-base candidate, not a mockup or publication proof. Tania appearance/recording acceptance remains separate.
+Actual independently verified live1733b4b captures. Tania appearance/recording acceptance remains separate.
 
 ![Native Chapel render](../evidence/chapel-walk-in-20261113/interior-1280.png)
 
 ![Native Chapel render](../evidence/chapel-walk-in-20261113/ceiling-touch-390.png)
 
+
+## Chapel verified live — 13 November 2026
+
+Chapel walk-in 1733b4b5e1447e9877e9abb972b816bf1d4102cc is published at the actual Career Empire game. All353 actual runtime asset hashes match. Live native Chrome first-day physical walking through the doorway, upward ceiling scan, mouse return/checkpoint/reentry at1280 and automated touch joystick/yaw/ceiling/two exits/reentries/cancel/keyboard exit at390 pass. Actual unmodified published Market/map hide-show, classroom entry, Notes reading/feedback/written responses, Journal contextual return, Archon lobby and same-run checks pass at1280/390; guest Notes makes zero Storage API/backend requests. Source387 tests/82 files,353 staged assets/106 imports,10 focused and5 integrated native cases pass. Read-only live pose/frame observers document actual game physics and renders; no teleport or gameplay replacement. Separate CI f156c32 restored staged only. Broad CI admin-preview failure remains; no all-CI-green, Safari, physical-device, classroom or whole-campus appearance acceptance. Tania can now check the live game and record the Chapel walkthrough. EST, portfolio and Flyover remain separate successors.
+
+[Actual live game](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/).
