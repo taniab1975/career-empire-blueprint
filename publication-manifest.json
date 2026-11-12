@@ -2,7 +2,7 @@
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
   "generatedAt": "2026-11-12T23:25:22.748Z",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "1246e5d7b730d37c38a3bc605050edf05a4c2c86842ea443b49447c13d6cc470",
+  "recordSha256": "7f0058aafcbe0cc76421b29162739075c5ecfbbf9349ab393ef2dce26092ae56",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -51,10 +51,6 @@
     {
       "path": "assets/index-ukGF-7-G.css",
       "sha256": "82a8a5adcbbe2920fe5ab8c6ea09ccc8b8fe8d7aaa8d1e2a753d2130f8df4a89"
-    },
-    {
-      "path": "blueprint-records.json",
-      "sha256": "1246e5d7b730d37c38a3bc605050edf05a4c2c86842ea443b49447c13d6cc470"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -2089,14 +2085,6 @@
       "sha256": "b57ee1864789858cd07ed6ba9c7cde31b32f7f1ffc877bb7734d87c0654412e3"
     },
     {
-      "path": "production/current-state.html",
-      "sha256": "61b4036b19be09030542594098810fd2fd3f274614c7885031a9aff089906dba"
-    },
-    {
-      "path": "production/current-state.md",
-      "sha256": "2e9cfb012eeb307662b6a2ddb30e038260a3ff33aa0c0ff12690b1effff824be"
-    },
-    {
       "path": "production/curriculum-collapsed-default-20261021.md",
       "sha256": "a84dc50bbfa3ad26ee825094ed59d470e78caa2b048a51492030fc11429633c8"
     },
@@ -2327,10 +2315,6 @@
     {
       "path": "production/markets-implementation-review-20261015.md",
       "sha256": "9d1faa4c5b178c47e4bbc8362759b4cd6e6957090d88e5180be19536579ea07f"
-    },
-    {
-      "path": "production/material-changes.md",
-      "sha256": "78f9b6be3f292598afe3e3078204dafa77b97921a51b271950b1abca758dfffa"
     },
     {
       "path": "production/media-oval-20260911.md",
@@ -2951,9 +2935,65 @@
     {
       "path": "st4s-readiness.json",
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
+    },
+    {
+      "path": "blueprint-records.json",
+      "sha256": "7f0058aafcbe0cc76421b29162739075c5ecfbbf9349ab393ef2dce26092ae56"
+    },
+    {
+      "path": "production/est-final-presentation-20261113.md",
+      "sha256": "bceb32bdfcef474099f39ca75666c6c9423850c89534d09f8658674052be0267"
+    },
+    {
+      "path": "production/est-final-presentation-20261113.html",
+      "sha256": "68ee92e398ef2e5f08d358497686462df853eb3d08881521808aa2b664b10115"
+    },
+    {
+      "path": "production/current-state.md",
+      "sha256": "9622b15942a3125da774ad5f98c116d17050e7fdc3a60ee920ee6d107ea3f9dd"
+    },
+    {
+      "path": "production/current-state.html",
+      "sha256": "7b3bc770580418dd2317999dffa62ec71b3b1e828a3ae3cd4d2332248d7d7eea"
+    },
+    {
+      "path": "production/material-changes.md",
+      "sha256": "b17084a99d55e95dc3a695ceb441d9aaedfa46cb38f005b5679c7acfab4bfa86"
+    },
+    {
+      "path": "evidence/est-final-20261113/outside-1280.png",
+      "sha256": "6f3852b188e24b517f6f30c32661e0d83cbe7080b1abad986de95daf4be7862b"
+    },
+    {
+      "path": "evidence/est-final-20261113/outside-390.png",
+      "sha256": "9a2418afb19fd7b0526e8e01d0ecb9705df602238ed65e609cadb803e08bbeb7"
+    },
+    {
+      "path": "evidence/est-final-20261113/inside-1920.png",
+      "sha256": "b65c9ba06d76bcfde8b88293646b8d6c9099504420b928fd32f6ff28c0cb50cd"
+    },
+    {
+      "path": "evidence/est-final-20261113/inside-390.png",
+      "sha256": "0be69e83c767bf5851dfad029970bf6626ae1afb3d07e0b3f0f673858c849620"
+    },
+    {
+      "path": "evidence/est-final-20261113/core.png",
+      "sha256": "0d883497ba75032a1ac4453ceced5969d898dae20ac92362386914f8d29f3812"
+    },
+    {
+      "path": "evidence/est-final-20261113/term.png",
+      "sha256": "1fdffde1074ec41e0d980796cd3662f1746ef6e749a16644119230cc68bcd8b4"
+    },
+    {
+      "path": "evidence/est-final-20261113/vtcs.png",
+      "sha256": "50401e8ab9bf2c0878a47f895c28d4de8b56e2b8c10de02346c26f7e37092711"
+    },
+    {
+      "path": "evidence/est-final-20261113/boss.png",
+      "sha256": "2f074aa5fbdd9840754f95b2694e1f86d99e4c442833cc4b586f3cca74bfa11a"
     }
   ],
-  "recordPublicationScope": "151 small switching tabs and one shared Market walkthrough only; preserve all prior public integrations and concurrent game releases.",
+  "recordPublicationScope": "Preserve d671750 reader/Market tabs, all new bundles/screenshots and every prior integration; update only155 exact final EST source review/current-state and eight actual game/canvas images.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload."
 }

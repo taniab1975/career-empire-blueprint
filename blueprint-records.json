@@ -39409,6 +39409,27 @@
           "deployment": "Not published yet; public base inspected separately from concurrent Chapel/EST/portfolio releases.",
           "testing": "115/115 tests, TypeScript/scoped lint, production build and20 source/render views pass. Four small tabs and exactly one shared panel/dropdown verified in markup.197 points,12 phase mappings and51 capture hashes preserved. New native switching/live check awaits actual Chrome approval; prior independent-dropdown check is superseded. Native Chrome access observed working after Tania’s explicit ongoing authorization; four actual tab clicks each selected the correct path, retained exactly one shared dropdown and switched to the matching screenshot links. No approval prompt or protection was bypassed.",
           "taniaAcceptance": "Requested correction; final visual acceptance remains with Tania."
+        },
+        {
+          "id": "CE-CHANGE-20261113-155",
+          "date": "2026-11-13",
+          "title": "Final EST window display, immediate entry actions and four monitor cards",
+          "source": "Tania requests video take over floor-to-ceiling window; Play EST video and Return to campus immediately on entry; corresponding CORE/TERM/VTCS/BOSS card and celebrating headphone boy at bottom of each monitor. No more EST changes after these. Three exact Library references inspected; existing live56d83fe preserved.",
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "status": "Qualified exact current-base source; game publication pending",
+          "rationale": "Release the previously qualified automatic physical doorway entry and interior look/exit, serially integrated onto current Archon/Notes250c409.",
+          "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in.",
+          "evidence": [
+            "docs/production/chapel-walk-in-release-20261113.md"
+          ],
+          "implementation": "The supplied cropped screenshot showed the old small high video above the brown cabinet. Existing authored front panes measure x13.124–18.877 and y.36–3.12. A5.753×2.76m window-sized backing and a full-height16:9 video face at16,1.74,13.925 replace that small rear projection. The cabinet no longer obscures the lower film. The original video aspect and teaching content are retained without stretching or cropping; narrow side margins fill the window backing. Existing architectural framing remains; no wall, column, cabinet, original model or collision body is deleted. The same native video/VideoTexture/material serves outside and inside; muted approach lifecycle, policy retry and audible cinema remain. A stable native action group offers Play EST video and Return to campus from the first interior presentation, without further walking or a proximity threshold. The first is primary and the return is secondary. Mouse, keyboard and automated touch use ordinary native buttons, with existing input reset/video/return functions. The group hides outside the hall, during cinema, and behind the module/reflection modes. The existing contextual station actions remain separate. The original Chapel primary-touch binding, doorway, camera and exit code are preserved. CORE: Understanding the SCSA \"EST Unit 3 Content\". TERM: Understanding the SCSA Glossary of terms. VTCS: Understanding the Verb, Topic, Context, Structure of the question using the SCSA Glossary of Key words in the Formulation of questions. BOSS: Combining CORE, TERM and VTCS into a final response. Reference colours and a celebrating guide appear on every corresponding face. Code-native high-resolution CanvasTextures fit the four authored1.04×.61m Terminal glass faces,4mm in front, retaining hardware/desks and removing only the old redundant floating name plaques. Existing guide-character/guide-celebration.png is byte-unchanged SHA25659cd19df4cf0755dea0eb2fbd7941aab13a466c40dd56cf27780a6c555da7222. The canvas source rectangle uses the complete celebrating pose and excludes an adjacent atlas sliver; no source image is edited. One recoverable image load redraws all four faces and invalidates paused-frame presentation. Guide failure retains readable card text and supports retry.",
+          "testing": "391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. An initial read-only observer quote error prevented the harness launching; it is retained. A keyboard-return retake focused before the action group became visible after cinema close; the harness now waits for real visibility. A phone failure was initially attributed to compatibility clicks, but event tracing proved entry Play opened correctly: the later wall-screen tap used a stale camera projection during transition. Final tests use the actual screen's current projected centre and wait for the existing camera to settle before appearance captures. No teleport, forced click, gameplay replacement or assertion-threshold reduction was used. Failed logs and captures remain. Native fullscreen still reports not granted in headless Chrome; working audible cinema/fallback is independently verified. Actual Safari, physical touch, classroom and Tania acceptance remain separate; no all-CI-green claim.",
+          "deployment": "Not published. Required exact-source reader publication and genuine receipt precede normal game main push.",
+          "designApproval": "Tania requested physical doorway entry, upward/around looking and click exit; renewed why-not-live urgency. No physical-device/ceiling-perfection gate invented.",
+          "domain": "Recorded scope: EST outside briefing screen and usable cinema gesture on current Chapel release",
+          "dependencies": [],
+          "supersededRecord": null,
+          "taniaAcceptance": "Not newly assessed by the reader correction; original source and acceptance boundaries retained."
         }
       ],
       "sessionStart": [
@@ -101012,6 +101033,516 @@
           }
         ],
         "projectChanges": {}
+      },
+      {
+        "changeId": "CE-CHANGE-20261113-155",
+        "title": "Final EST window display, immediate entry actions and four monitor cards",
+        "types": [
+          "implementation",
+          "activity",
+          "visual",
+          "building",
+          "curriculum",
+          "release",
+          "governance"
+        ],
+        "status": "complete",
+        "objective": "Make the requested existing EST entry/media and four-monitor presentation match the supplied references, then continue portfolio153. No broader EST redesign.",
+        "before": "Live56d83fe video plays on a small high rear panel behind cabinet; initial entry offers Return only; monitors show blank teal faces and name plaques.",
+        "after": "The supplied cropped screenshot showed the old small high video above the brown cabinet. Existing authored front panes measure x13.124–18.877 and y.36–3.12. A5.753×2.76m window-sized backing and a full-height16:9 video face at16,1.74,13.925 replace that small rear projection. The cabinet no longer obscures the lower film. The original video aspect and teaching content are retained without stretching or cropping; narrow side margins fill the window backing. Existing architectural framing remains; no wall, column, cabinet, original model or collision body is deleted. The same native video/VideoTexture/material serves outside and inside; muted approach lifecycle, policy retry and audible cinema remain. A stable native action group offers Play EST video and Return to campus from the first interior presentation, without further walking or a proximity threshold. The first is primary and the return is secondary. Mouse, keyboard and automated touch use ordinary native buttons, with existing input reset/video/return functions. The group hides outside the hall, during cinema, and behind the module/reflection modes. The existing contextual station actions remain separate. The original Chapel primary-touch binding, doorway, camera and exit code are preserved. CORE: Understanding the SCSA \"EST Unit 3 Content\". TERM: Understanding the SCSA Glossary of terms. VTCS: Understanding the Verb, Topic, Context, Structure of the question using the SCSA Glossary of Key words in the Formulation of questions. BOSS: Combining CORE, TERM and VTCS into a final response. Reference colours and a celebrating guide appear on every corresponding face. Code-native high-resolution CanvasTextures fit the four authored1.04×.61m Terminal glass faces,4mm in front, retaining hardware/desks and removing only the old redundant floating name plaques. Existing guide-character/guide-celebration.png is byte-unchanged SHA25659cd19df4cf0755dea0eb2fbd7941aab13a466c40dd56cf27780a6c555da7222. The canvas source rectangle uses the complete celebrating pose and excludes an adjacent atlas sliver; no source image is edited. One recoverable image load redraws all four faces and invalidates paused-frame presentation. Guide failure retains readable card text and supports retry.",
+        "source": "Tania requests video take over floor-to-ceiling window; Play EST video and Return to campus immediately on entry; corresponding CORE/TERM/VTCS/BOSS card and celebrating headphone boy at bottom of each monitor. No more EST changes after these. Three exact Library references inspected; existing live56d83fe preserved.",
+        "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+        "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push.",
+          "rationale": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push. Existing data architecture remains.",
+            "locations": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push. Existing locations architecture remains.",
+            "accessCountries": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push. Existing accessCountries architecture remains.",
+            "providers": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push. Existing providers architecture remains.",
+            "lifecycle": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push. Existing lifecycle architecture remains.",
+            "encryption": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push. Existing encryption architecture remains.",
+            "logging": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push. Existing logging architecture remains.",
+            "identity": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push. Existing identity architecture remains.",
+            "isolation": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push. Existing isolation architecture remains.",
+            "privacySafety": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push. Existing privacySafety architecture remains.",
+            "applicability": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push. Existing applicability architecture remains.",
+            "verification": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push. Existing verification architecture remains."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics.",
+            "An initial read-only observer quote error prevented the harness launching; it is retained. A keyboard-return retake focused before the action group became visible after cinema close; the harness now waits for real visibility. A phone failure was initially attributed to compatibility clicks, but event tracing proved entry Play opened correctly: the later wall-screen tap used a stale camera projection during transition. Final tests use the actual screen's current projected centre and wait for the existing camera to settle before appearance captures. No teleport, forced click, gameplay replacement or assertion-threshold reduction was used. Failed logs and captures remain. Native fullscreen still reports not granted in headless Chrome; working audible cinema/fallback is independently verified. Actual Safari, physical touch, classroom and Tania acceptance remain separate; no all-CI-green claim."
+          ],
+          "reviewedBy": "Sole integrator exact8 merge/diff, unit/load/cancellation and native pointer/touch/frame review",
+          "reviewedAt": "2026-11-12",
+          "productionComplete": false,
+          "releasePurpose": "product-change",
+          "securityApproval": "Tania explicitly requested these final three EST changes under existing live-release authority. No new data/provider/identity architecture or school approval inferred.",
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Update final EST start window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST start window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Update final EST media window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST media window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Update final EST decisions window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST decisions window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "These are the supplied existing EST orientation descriptions, not a new edition, cohort, curriculum coverage or mastery certification. CORE/TERM/VTCS/BOSS destinations, source PDFs, teaching material, scoring, progression and teacher functions remain unchanged. No new learner data, identity, storage keys, permissions, telemetry, backend, provider or external host. User reference images remain private; only actual game/canvas proof is exported in this bounded review. Archon, Notes, Chapel, shared Initiative library and separate staged CI f156c32 are preserved. Approved, source-qualified, published and accepted remain distinct. Game publication is pending genuine receipt and normal guarded push. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Update final EST flow window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST flow window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Update final EST journey window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST journey window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "No scoring, assessment evidence, source edition or mastery judgement changed; these are existing four-stage orientation labels.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No scoring, assessment evidence, source edition or mastery judgement changed; these are existing four-stage orientation labels. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "No teacher service, classroom gate, tenant access, activity evidence or submission behaviour changed.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No teacher service, classroom gate, tenant access, activity evidence or submission behaviour changed. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Update final EST world window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST world window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Update final EST buildings window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST buildings window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "updated",
+            "action": "Update final EST avatars window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST avatars window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Update final EST visuals window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST visuals window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Update final EST assets window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST assets window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Update final EST build window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST build window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Update final EST recovery window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST recovery window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Update final EST sources window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST sources window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Update final EST roadmap window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST roadmap window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Update final EST history window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST history window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Update final EST protocol window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST protocol window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Update final EST exports window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST exports window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          },
+          {
+            "surface": "publication",
+            "disposition": "updated",
+            "action": "Update final EST publication window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows.",
+            "records": [
+              "CE-CHANGE-20261113-155"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Only the three final requested EST changes; exact9 source bindings,355/107 and391/83 checks, native1280/390/1920 window/entry/actions/four cards must match; distinguish publication and user/physical/fullscreen acceptance.",
+            "evidence": [
+              "docs/production/est-final-presentation-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update final EST publication window-height display, immediate entry actions and four reference-matched card/guide status with exact source and native evidence; preserve unrelated places and flows. 391 unit tests across83 files pass, including four new card-load/retry/geometry/entry-gating regressions. Four focused wall-video lifecycle/ray-gesture checks pass.355 staged runtime hashes and107 reachable imports pass. Actual isolated native-Metal Chrome1280/390 checks pass physical keyboard entry, both visible/actionable entry buttons with no further movement, audible Play and close, all four loaded card/guide faces, real mouse/touch wall-screen cinema and Return via keyboard/touch. A1920×1080 native case passes the same flow and shows all four monitors together after the actual camera settles. All three cases record zero page errors. Each actual CanvasTexture was visually inspected for full text, correct content/colour and the celebrating guide; native exterior and interior captures were compared with the supplied references. Original video/architectural framing and source documents remain distinct from the new monitor graphics. Exact reader desktop/phone checks precede publication. Actual source reader1280/390: all eight native/canvas images load; no horizontal overflow.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish exact final EST source review after reader checks; genuine9-file receipt, normal guarded push and actual live entry/action/four-card/window checks. Then remerge and release portfolio153. Add Enter Chapel button separately later without removing walk-in."
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "playable-3d/app.js": "100644:b1cc3b04c3ab0fe4ec949aa28eff7ae3e7f7e580",
+            "playable-3d/est-station-cards.mjs": "100644:5d5aeb61f33cd83e9e86d085696b0c96c6d9c6a8",
+            "playable-3d/est-wall-video.js": "100644:c115da74c5e115dc15c789a2492c5a25abba58aa",
+            "playable-3d/guest-shell.mjs": "100644:d0f97fa215f40eee9841ee982b8533f009fb94e2",
+            "playable-3d/index.html": "100644:07ad711c033457fe8e9b733f05284a2feb99b8d5",
+            "playable-3d/release-manifest.json": "100644:fc978878f513184aa83b16c3aaab999389e41ef5",
+            "playable-3d/style.css": "100644:39b739a60e3767be6d22e22b7abda976c4e01a36",
+            "playable-3d/world.js": "100644:4352148f503a16e88bd0ee6404d1836cd83b4a9e",
+            "tests/unit/est-presentation.test.mjs": "100644:c3178fddd65df3a595a697524c24e66b905579f8"
+          }
+        }
       }
     ],
     "releaseHistory": [
