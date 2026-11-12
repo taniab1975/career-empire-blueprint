@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "45fd704ace479f7d1936107c9bf197273667e736",
-  "generatedAt": "2026-11-12T22:54:26.061873+00:00",
-  "revision": "V2.41 / 12 November 2026",
-  "recordSha256": "5bb74cb509ac6cc656a231b85c7b61ac0a705f6f8673ea294ec082db0bd88519",
+  "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
+  "generatedAt": "2026-11-12T23:25:22.748Z",
+  "revision": "V2.42 / 13 November 2026",
+  "recordSha256": "1246e5d7b730d37c38a3bc605050edf05a4c2c86842ea443b49447c13d6cc470",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -15,6 +15,18 @@
     {
       "path": "assets/curriculum-planner-DVZiHVvL.js",
       "sha256": "dd735717f957db591c6dc0a0e382d3654be498d318e4f6b78a45af1e2bfb56aa"
+    },
+    {
+      "path": "assets/curriculum-planner-xKwJRTnx.js",
+      "sha256": "33af208a8f84541dde2a3fff61bee4ebd05036f3b58bffa569559a2f82b50813"
+    },
+    {
+      "path": "assets/index-0doi6mj_.js",
+      "sha256": "8b6a00296b361e85c0b972b337cec44759faba7313965451a119713576c882ff"
+    },
+    {
+      "path": "assets/index-Bi7wvU5m.css",
+      "sha256": "82048fa06d1f29a3de6b38cf34a1209796701677f57c6d2bb757c6c0412050c9"
     },
     {
       "path": "assets/index-BtXnwLD_.js",
@@ -41,6 +53,10 @@
       "sha256": "82a8a5adcbbe2920fe5ab8c6ea09ccc8b8fe8d7aaa8d1e2a753d2130f8df4a89"
     },
     {
+      "path": "blueprint-records.json",
+      "sha256": "1246e5d7b730d37c38a3bc605050edf05a4c2c86842ea443b49447c13d6cc470"
+    },
+    {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
       "sha256": "828b5ffe9529ae984d28904f868146d13017d967070949a22f575663edee922e"
     },
@@ -63,6 +79,14 @@
     {
       "path": "evidence/3d-walkthrough-start-2026-09-07.jpg",
       "sha256": "7472c779ecfb6262276b7ccf59742b6bfc1deae9989e93b83c02567ad1be72ce"
+    },
+    {
+      "path": "evidence/archon-readable-20261112/board-A-1280.png",
+      "sha256": "6aef7ccc6ef1667ed51f392fe90872ae464a7cc39793de8e9f6167614a57eb27"
+    },
+    {
+      "path": "evidence/archon-readable-20261112/board-B-390.png",
+      "sha256": "9832671ebb58d58a33c729d503e508ffad0d6229bf37171d19d2e4dbc1b80f9a"
     },
     {
       "path": "evidence/arrival-playable-20260910/arrival.png",
@@ -701,6 +725,14 @@
       "sha256": "7fb740c9893ff054f1c39fc040f8b1fa03193fecb891fa28b106f21776942601"
     },
     {
+      "path": "evidence/chapel-walk-in-20261113/ceiling-touch-390.png",
+      "sha256": "d749bcbe7157a7f3a47cf5cf10bc8797ff7945140f0542f13a6fad2c0f018e4d"
+    },
+    {
+      "path": "evidence/chapel-walk-in-20261113/interior-1280.png",
+      "sha256": "a0146e139bb30a4f78bed82b2b2e0d561216b9e6fbd1d906d2b93afc6b90a04d"
+    },
+    {
       "path": "evidence/current-state-fixed-shirt-20260908.png",
       "sha256": "c3900a2ea1f3c5e6c99af7fc0f572a56cb48efcb36f9706601d649bd7a03c670"
     },
@@ -1037,6 +1069,14 @@
       "sha256": "3312d1c7f9ca3ed27a32b01b9e5240f851456317cb022542ac8ac5e5e68c5280"
     },
     {
+      "path": "evidence/est-outside-20261113/outside-1280.png",
+      "sha256": "65d4c937eef9bbd340721be0f274ff9e3aee89afaa334dba2b93a687bcfd1584"
+    },
+    {
+      "path": "evidence/est-outside-20261113/outside-390.png",
+      "sha256": "7131db3ac452b39176521f27c33fc4bc057953ed0c53a7da0ed639bbf985c15f"
+    },
+    {
       "path": "evidence/est-release-20260911/term-390.png",
       "sha256": "bed8920b74ed20ff91991ca5f3d4d6f81816940ee105898fd04a22514275b750"
     },
@@ -1257,6 +1297,38 @@
       "sha256": "f82bc7c4e64297833aa5568c9eea41b82ef8731ad2375a1cbc9fb0411ba6a88a"
     },
     {
+      "path": "evidence/market-pathways-20261113/archon-lobby.jpg",
+      "sha256": "e96a57eecc29af211466f88036a88e36f51cdc15fdc59f977a2fb84d27e8b7c0"
+    },
+    {
+      "path": "evidence/market-pathways-20261113/market-choices.jpg",
+      "sha256": "aa355b929b42578c1e12fafe6dfb150a6a27b5f758bd9157b98844079a0bab84"
+    },
+    {
+      "path": "evidence/market-pathways-20261113/noodle-bar-mara.jpg",
+      "sha256": "acba4660f3e28ca176927328020e7a71316ba42638056b6674655e07a07907c8"
+    },
+    {
+      "path": "evidence/market-pathways-20261113/noodle-bar-route.jpg",
+      "sha256": "99205ddd95e230e31d6fc417737f60a10a7358a4401ef61d844b9e2a289fc286"
+    },
+    {
+      "path": "evidence/market-pathways-20261113/notes-reading.jpg",
+      "sha256": "f579012c7e96bee5731b1870c7940ce8cec738c3ce945a44abea7b9fd2743436"
+    },
+    {
+      "path": "evidence/market-pathways-20261113/notes-responses.jpg",
+      "sha256": "96914adfc94ca91cf6e12eb1783bbf7319e1085ef852f55f5f392d804ed71e7d"
+    },
+    {
+      "path": "evidence/market-pathways-20261113/portfolio-builder.jpg",
+      "sha256": "6af2a4771b2ee6430dc428b54250fe7fc8b88a3495fbdb1e1a626a336b9f47c1"
+    },
+    {
+      "path": "evidence/market-pathways-20261113/portfolio-log.jpg",
+      "sha256": "4357c352d86328596589c9cbe10cb12ea9e57f0223c781d7db58e6d323497b9f"
+    },
+    {
       "path": "evidence/market-storyboard-20261024/check1.jpg",
       "sha256": "0f8c9ec7f2dee8490777ee2496b781e8d1afa1600cff07011c7b367898be13d9"
     },
@@ -1383,6 +1455,14 @@
     {
       "path": "evidence/markets-review-20261015/teacher-existing-shell.png",
       "sha256": "75834d48cd4c09102872e0e2a8b958c6711eb23eef5f68148ae547d14d2a1e13"
+    },
+    {
+      "path": "evidence/notes-worksheet-20261112/worksheet-1920.png",
+      "sha256": "90d602b710081c2604829976124fa9aa961a2e679577dfef1794a57fb18a858d"
+    },
+    {
+      "path": "evidence/notes-worksheet-20261112/worksheet-390.png",
+      "sha256": "17d9d5b327bef22d5ae562cb23926b510aadc2f2833a4f292f584e3efac9d69c"
     },
     {
       "path": "evidence/orientation-review-20261024/arrival.jpg",
@@ -1674,7 +1754,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "d68880e10525ad4357f03054624614413e5f7683dc20ef637e3e3c5b85e2471d"
+      "sha256": "f9bd70da59dc9c5f91dfcd2aac15d22cc0f9cda1f20c0ea9b6f61272171526da"
     },
     {
       "path": "playable-3d/app.js",
@@ -1853,6 +1933,22 @@
       "sha256": "2ad51c9ce99a375faf18643baaf59192902097a1bf02855521067a01abe402b4"
     },
     {
+      "path": "production/archon-readable-board-20261112.html",
+      "sha256": "cf2b42cf2f64395ed114eac19e90300779e820f91993a1f2eca757c92b0856b5"
+    },
+    {
+      "path": "production/archon-readable-board-20261112.md",
+      "sha256": "556212cc684841eb3ce35d4f89ac49fe5d4ca39074be85bb299aebe28f643c22"
+    },
+    {
+      "path": "production/archon-self-service-release-20261112.html",
+      "sha256": "4be13dfa11f39b424df150e081b5ab377c4df5dc2962940ac17224fdf36cc11f"
+    },
+    {
+      "path": "production/archon-self-service-release-20261112.md",
+      "sha256": "41f77088544a664d1aba1b6cdcde63c076c15c59d73fb04b66e31f79d5991dfc"
+    },
+    {
       "path": "production/arrival-ground-stage1-20260910.md",
       "sha256": "28100257997091e225337fb5311b406307ab7fdbd5264a522426bd27b49cd11b"
     },
@@ -1957,6 +2053,14 @@
       "sha256": "27f4af19573824713d25dcf809f30432fb79fc032fd3ed95b7dbc5701da2aa00"
     },
     {
+      "path": "production/chapel-walk-in-release-20261113.html",
+      "sha256": "d3e1a253883c949dd20a7ec175beabbb12d2caf58cf5a5d88897566570471348"
+    },
+    {
+      "path": "production/chapel-walk-in-release-20261113.md",
+      "sha256": "eedbf508fd0584673e26fd6dbd7174703df675dc69cc5655464a49333d8997af"
+    },
+    {
       "path": "production/checkpoint-20260912.md",
       "sha256": "fe9b39bf9b7a23c2e610806169d471057f327ee05129c790a9480805f73230b9"
     },
@@ -1983,6 +2087,14 @@
     {
       "path": "production/current-assets.md",
       "sha256": "b57ee1864789858cd07ed6ba9c7cde31b32f7f1ffc877bb7734d87c0654412e3"
+    },
+    {
+      "path": "production/current-state.html",
+      "sha256": "61b4036b19be09030542594098810fd2fd3f274614c7885031a9aff089906dba"
+    },
+    {
+      "path": "production/current-state.md",
+      "sha256": "2e9cfb012eeb307662b6a2ddb30e038260a3ff33aa0c0ff12690b1effff824be"
     },
     {
       "path": "production/curriculum-collapsed-default-20261021.md",
@@ -2081,6 +2193,14 @@
       "sha256": "8a991884451f00feb8e4f032fdf7f435442a6167a5f02960b115c1d6aa97a106"
     },
     {
+      "path": "production/est-outside-release-20261113.html",
+      "sha256": "6e72a62c7bca071aa1aa8930d0d1d1cd3eb955a816164b9541974b74aa3aca2c"
+    },
+    {
+      "path": "production/est-outside-release-20261113.md",
+      "sha256": "76b6dc1722defee9b4a97f38c2797c3a69f17cdc5dfbe4cebcaf34b1ac13ba3d"
+    },
+    {
       "path": "production/est-release-20260911.html",
       "sha256": "53b30d3e71031c7eb27b1f2cfd144212af73ec5e471c5ca45f94302705348e1a"
     },
@@ -2137,6 +2257,14 @@
       "sha256": "117877666f2002cbcc5f5ea057c3981af85f51c044f15b94dfd77e8e53c83e55"
     },
     {
+      "path": "production/initiative-notes-worksheet-20261112.html",
+      "sha256": "8aee972cdc67c47c304473f60efc37c3586bfac026e38cc25be6abf42387cb7d"
+    },
+    {
+      "path": "production/initiative-notes-worksheet-20261112.md",
+      "sha256": "cadc4ba51cfb24e8892522dbaf989d6ef6952da7f00c403707333f667cf9055e"
+    },
+    {
       "path": "production/initiative-shared-learning-20261110.html",
       "sha256": "f4cbc3b35e60b5281cad78a9518f933761bfe1ac407ac7805286d4b96fa57aeb"
     },
@@ -2162,11 +2290,11 @@
     },
     {
       "path": "production/live-game-review-20261112.html",
-      "sha256": "c05b44fecad8bbf628f2f8cf0953c487bf467a5997ac93cf25aaf5dba795d957"
+      "sha256": "3fbf33bb0a4feef85edd5c26058e2d92ba89521f64c53521a6cc065ec9243f85"
     },
     {
       "path": "production/live-game-review-20261112.md",
-      "sha256": "0a1cf5bba12be892069a929bfb410539feac33b0c605c1f866ac067d09d175da"
+      "sha256": "b6270e35ffe2ae85a535db243eab6e857217734467696ca72d1a4521eb49483a"
     },
     {
       "path": "production/local-economy-20260923.md",
@@ -2199,6 +2327,10 @@
     {
       "path": "production/markets-implementation-review-20261015.md",
       "sha256": "9d1faa4c5b178c47e4bbc8362759b4cd6e6957090d88e5180be19536579ea07f"
+    },
+    {
+      "path": "production/material-changes.md",
+      "sha256": "78f9b6be3f292598afe3e3078204dafa77b97921a51b271950b1abca758dfffa"
     },
     {
       "path": "production/media-oval-20260911.md",
@@ -2371,6 +2503,10 @@
     {
       "path": "production/year-map-coverage-20260925.html",
       "sha256": "bcc9d7b9511060fb642567cb50bb3e3eb631256af9a538e5ced5b6521702e9a7"
+    },
+    {
+      "path": "production/year-map-coverage-20260925.md",
+      "sha256": "6ec3e77cd14a22d4b82592e25413548709fd4317c5df375cfbe0d78df51a7092"
     },
     {
       "path": "references/CE-BLDG-001-home-base.png",
@@ -2815,101 +2951,9 @@
     {
       "path": "st4s-readiness.json",
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
-    },
-    {
-      "path": "production/archon-self-service-release-20261112.md",
-      "sha256": "41f77088544a664d1aba1b6cdcde63c076c15c59d73fb04b66e31f79d5991dfc"
-    },
-    {
-      "path": "production/archon-self-service-release-20261112.html",
-      "sha256": "4be13dfa11f39b424df150e081b5ab377c4df5dc2962940ac17224fdf36cc11f"
-    },
-    {
-      "path": "evidence/archon-readable-20261112/board-A-1280.png",
-      "sha256": "6aef7ccc6ef1667ed51f392fe90872ae464a7cc39793de8e9f6167614a57eb27"
-    },
-    {
-      "path": "evidence/archon-readable-20261112/board-B-390.png",
-      "sha256": "9832671ebb58d58a33c729d503e508ffad0d6229bf37171d19d2e4dbc1b80f9a"
-    },
-    {
-      "path": "production/archon-readable-board-20261112.md",
-      "sha256": "556212cc684841eb3ce35d4f89ac49fe5d4ca39074be85bb299aebe28f643c22"
-    },
-    {
-      "path": "production/archon-readable-board-20261112.html",
-      "sha256": "cf2b42cf2f64395ed114eac19e90300779e820f91993a1f2eca757c92b0856b5"
-    },
-    {
-      "path": "production/initiative-notes-worksheet-20261112.md",
-      "sha256": "cadc4ba51cfb24e8892522dbaf989d6ef6952da7f00c403707333f667cf9055e"
-    },
-    {
-      "path": "production/initiative-notes-worksheet-20261112.html",
-      "sha256": "8aee972cdc67c47c304473f60efc37c3586bfac026e38cc25be6abf42387cb7d"
-    },
-    {
-      "path": "production/year-map-coverage-20260925.md",
-      "sha256": "6ec3e77cd14a22d4b82592e25413548709fd4317c5df375cfbe0d78df51a7092"
-    },
-    {
-      "path": "evidence/notes-worksheet-20261112/worksheet-1920.png",
-      "sha256": "90d602b710081c2604829976124fa9aa961a2e679577dfef1794a57fb18a858d"
-    },
-    {
-      "path": "evidence/notes-worksheet-20261112/worksheet-390.png",
-      "sha256": "17d9d5b327bef22d5ae562cb23926b510aadc2f2833a4f292f584e3efac9d69c"
-    },
-    {
-      "path": "production/chapel-walk-in-release-20261113.md",
-      "sha256": "eedbf508fd0584673e26fd6dbd7174703df675dc69cc5655464a49333d8997af"
-    },
-    {
-      "path": "production/chapel-walk-in-release-20261113.html",
-      "sha256": "d3e1a253883c949dd20a7ec175beabbb12d2caf58cf5a5d88897566570471348"
-    },
-    {
-      "path": "evidence/chapel-walk-in-20261113/interior-1280.png",
-      "sha256": "a0146e139bb30a4f78bed82b2b2e0d561216b9e6fbd1d906d2b93afc6b90a04d"
-    },
-    {
-      "path": "evidence/chapel-walk-in-20261113/ceiling-touch-390.png",
-      "sha256": "d749bcbe7157a7f3a47cf5cf10bc8797ff7945140f0542f13a6fad2c0f018e4d"
-    },
-    {
-      "path": "blueprint-records.json",
-      "sha256": "5bb74cb509ac6cc656a231b85c7b61ac0a705f6f8673ea294ec082db0bd88519"
-    },
-    {
-      "path": "production/est-outside-release-20261113.md",
-      "sha256": "76b6dc1722defee9b4a97f38c2797c3a69f17cdc5dfbe4cebcaf34b1ac13ba3d"
-    },
-    {
-      "path": "production/est-outside-release-20261113.html",
-      "sha256": "6e72a62c7bca071aa1aa8930d0d1d1cd3eb955a816164b9541974b74aa3aca2c"
-    },
-    {
-      "path": "production/current-state.md",
-      "sha256": "2e9cfb012eeb307662b6a2ddb30e038260a3ff33aa0c0ff12690b1effff824be"
-    },
-    {
-      "path": "production/current-state.html",
-      "sha256": "61b4036b19be09030542594098810fd2fd3f274614c7885031a9aff089906dba"
-    },
-    {
-      "path": "production/material-changes.md",
-      "sha256": "78f9b6be3f292598afe3e3078204dafa77b97921a51b271950b1abca758dfffa"
-    },
-    {
-      "path": "evidence/est-outside-20261113/outside-1280.png",
-      "sha256": "65d4c937eef9bbd340721be0f274ff9e3aee89afaa334dba2b93a687bcfd1584"
-    },
-    {
-      "path": "evidence/est-outside-20261113/outside-390.png",
-      "sha256": "7131db3ac452b39176521f27c33fc4bc057953ed0c53a7da0ed639bbf985c15f"
     }
   ],
-  "recordPublicationScope": "Bounded149 live EST closeout; preserve all immutable source integrations and V2.41 reader bundles. Live screenshots replace qualified-candidate captures only.",
-  "sourceRecovery": "Tested source saved in local Git; separate private recovery upload rejected by automatic approval review and not retried.",
-  "verificationLimits": "Live StartHere,Phase0/1,student zoom,teacher fit-width dropdown,places and pedagogy verified. Narrow layout actual520px with local table scrolling. Guest/fictional captures only; no school or authenticated teacher acceptance."
+  "recordPublicationScope": "151 small switching tabs and one shared Market walkthrough only; preserve all prior public integrations and concurrent game releases.",
+  "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
+  "sourceRecovery": "Reviewed source saved locally; no private-source upload."
 }

@@ -27825,7 +27825,7 @@
         "launch": {
           "url": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/?experience=night-market&market-review=1",
           "location": "Outside the market entrance, facing inward toward Juniper Kitchen",
-          "status": "Published Market entrance, Mara, Notes and anonymous STAR/PDF checked12November2026; Archon coming soon. Real teacher saving and completed learning outcomes not verified."
+          "status": "Four Market routes checked13November2026: hosted Archon test release, live Notes worksheet, Mara and existing anonymous portfolio. Pending portfolio repair and teacher saving are not verified."
         },
         "calendar": null,
         "phase": 1,
@@ -31689,6 +31689,110 @@
         "sha256": "7bc0edf07a7b84995a22d5dda95072a41255018c0d217c8d13917716079b893b",
         "origin": "CE-LIVE-GAME-REVIEW-20261112;69aa78e;publicpromofactory",
         "qa": "Ordinarypublicdemopanel;currentlayout,notreallearnerrecordsorpermissions/saveacceptance."
+      },
+      "market13-noodle-bar-route": {
+        "src": "/evidence/market-pathways-20261113/noodle-bar-route.jpg",
+        "width": 1280,
+        "height": 720,
+        "caption": "Actual live public guest game ·13 November2026",
+        "alt": "noodle bar route",
+        "kind": "actual",
+        "date": "2026-11-13",
+        "title": "Noodle Bar Route",
+        "sha256": "99205ddd95e230e31d6fc417737f60a10a7358a4401ef61d844b9e2a289fc286",
+        "origin": "Actual public guest route13November2026; source1733b4b",
+        "qa": "Observed and captured in the live game; no real learner data or pending portfolio repair claimed."
+      },
+      "market13-noodle-bar-mara": {
+        "src": "/evidence/market-pathways-20261113/noodle-bar-mara.jpg",
+        "width": 1280,
+        "height": 720,
+        "caption": "Actual live public guest game ·13 November2026",
+        "alt": "noodle bar mara",
+        "kind": "actual",
+        "date": "2026-11-13",
+        "title": "Noodle Bar Mara",
+        "sha256": "acba4660f3e28ca176927328020e7a71316ba42638056b6674655e07a07907c8",
+        "origin": "Actual public guest route13November2026; source1733b4b",
+        "qa": "Observed and captured in the live game; no real learner data or pending portfolio repair claimed."
+      },
+      "market13-portfolio-log": {
+        "src": "/evidence/market-pathways-20261113/portfolio-log.jpg",
+        "width": 1265,
+        "height": 1290,
+        "caption": "Actual live public guest game ·13 November2026",
+        "alt": "portfolio log",
+        "kind": "actual",
+        "date": "2026-11-13",
+        "title": "Portfolio Log",
+        "sha256": "4357c352d86328596589c9cbe10cb12ea9e57f0223c781d7db58e6d323497b9f",
+        "origin": "Actual public guest route13November2026; source1733b4b",
+        "qa": "Observed and captured in the live game; no real learner data or pending portfolio repair claimed."
+      },
+      "market13-notes-responses": {
+        "src": "/evidence/market-pathways-20261113/notes-responses.jpg",
+        "width": 1280,
+        "height": 720,
+        "caption": "Actual live public guest game ·13 November2026",
+        "alt": "notes responses",
+        "kind": "actual",
+        "date": "2026-11-13",
+        "title": "Notes Responses",
+        "sha256": "96914adfc94ca91cf6e12eb1783bbf7319e1085ef852f55f5f392d804ed71e7d",
+        "origin": "Actual public guest route13November2026; source1733b4b",
+        "qa": "Observed and captured in the live game; no real learner data or pending portfolio repair claimed."
+      },
+      "market13-portfolio-builder": {
+        "src": "/evidence/market-pathways-20261113/portfolio-builder.jpg",
+        "width": 1265,
+        "height": 1290,
+        "caption": "Actual live public guest game ·13 November2026",
+        "alt": "portfolio builder",
+        "kind": "actual",
+        "date": "2026-11-13",
+        "title": "Portfolio Builder",
+        "sha256": "6af2a4771b2ee6430dc428b54250fe7fc8b88a3495fbdb1e1a626a336b9f47c1",
+        "origin": "Actual public guest route13November2026; source1733b4b",
+        "qa": "Observed and captured in the live game; no real learner data or pending portfolio repair claimed."
+      },
+      "market13-archon-lobby": {
+        "src": "/evidence/market-pathways-20261113/archon-lobby.jpg",
+        "width": 1280,
+        "height": 720,
+        "caption": "Actual live public guest game ·13 November2026",
+        "alt": "archon lobby",
+        "kind": "actual",
+        "date": "2026-11-13",
+        "title": "Archon Lobby",
+        "sha256": "e96a57eecc29af211466f88036a88e36f51cdc15fdc59f977a2fb84d27e8b7c0",
+        "origin": "Actual public guest route13November2026; source1733b4b",
+        "qa": "Observed and captured in the live game; no real learner data or pending portfolio repair claimed."
+      },
+      "market13-market-choices": {
+        "src": "/evidence/market-pathways-20261113/market-choices.jpg",
+        "width": 1280,
+        "height": 720,
+        "caption": "Actual live public guest game ·13 November2026",
+        "alt": "market choices",
+        "kind": "actual",
+        "date": "2026-11-13",
+        "title": "Market Choices",
+        "sha256": "aa355b929b42578c1e12fafe6dfb150a6a27b5f758bd9157b98844079a0bab84",
+        "origin": "Actual public guest route13November2026; source1733b4b",
+        "qa": "Observed and captured in the live game; no real learner data or pending portfolio repair claimed."
+      },
+      "market13-notes-reading": {
+        "src": "/evidence/market-pathways-20261113/notes-reading.jpg",
+        "width": 1280,
+        "height": 720,
+        "caption": "Actual live public guest game ·13 November2026",
+        "alt": "notes reading",
+        "kind": "actual",
+        "date": "2026-11-13",
+        "title": "Notes Reading",
+        "sha256": "f579012c7e96bee5731b1870c7940ce8cec738c3ce945a44abea7b9fd2743436",
+        "origin": "Actual public guest route13November2026; source1733b4b",
+        "qa": "Observed and captured in the live game; no real learner data or pending portfolio repair claimed."
       }
     },
     "tabs": [
@@ -33413,7 +33517,7 @@
     "date": "2026-11-12",
     "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71",
     "gameUrl": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
-    "captureBoundary": "Current public guest, Student Hub demo and teacher promo UI captured 12 November 2026, including all 18 teacher panels. Two guest views and one filled fictional teacher sample from 11 November retain their original dates. No real learner records or saved teacher actions were used.",
+    "captureBoundary": "Current public guest, Student Hub demo and teacher promo UI captured 12 November 2026, including all 18 teacher panels. Two guest views and one filled fictional teacher sample from 11 November retain their original dates. No real learner records or saved teacher actions were used. Market choices, live Notes worksheet, Archon test-release lobby, Mara introduction and existing portfolio were rechecked13November2026. The Archon board is a dated published-source fictional test-room capture. No pending portfolio repair is represented as live.",
     "captures": {
       "mara-market-start": {
         "src": "/evidence/live-game-20261112/mara-market-start.jpg",
@@ -33792,6 +33896,87 @@
         "date": "2026-11-12",
         "kind": "Actual public teacher promo · fictional built-in data",
         "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71"
+      },
+      "market13-noodle-bar-route": {
+        "src": "/evidence/market-pathways-20261113/noodle-bar-route.jpg",
+        "sha256": "99205ddd95e230e31d6fc417737f60a10a7358a4401ef61d844b9e2a289fc286",
+        "width": 1280,
+        "height": 720,
+        "date": "2026-11-13",
+        "kind": "Actual live public guest game ·13 November2026",
+        "sourceCommit": "1733b4b5e1447e9877e9abb972b816bf1d4102cc"
+      },
+      "market13-noodle-bar-mara": {
+        "src": "/evidence/market-pathways-20261113/noodle-bar-mara.jpg",
+        "sha256": "acba4660f3e28ca176927328020e7a71316ba42638056b6674655e07a07907c8",
+        "width": 1280,
+        "height": 720,
+        "date": "2026-11-13",
+        "kind": "Actual live public guest game ·13 November2026",
+        "sourceCommit": "1733b4b5e1447e9877e9abb972b816bf1d4102cc"
+      },
+      "market13-portfolio-log": {
+        "src": "/evidence/market-pathways-20261113/portfolio-log.jpg",
+        "sha256": "4357c352d86328596589c9cbe10cb12ea9e57f0223c781d7db58e6d323497b9f",
+        "width": 1265,
+        "height": 1290,
+        "date": "2026-11-13",
+        "kind": "Actual live public guest game ·13 November2026",
+        "sourceCommit": "1733b4b5e1447e9877e9abb972b816bf1d4102cc"
+      },
+      "market13-notes-responses": {
+        "src": "/evidence/market-pathways-20261113/notes-responses.jpg",
+        "sha256": "96914adfc94ca91cf6e12eb1783bbf7319e1085ef852f55f5f392d804ed71e7d",
+        "width": 1280,
+        "height": 720,
+        "date": "2026-11-13",
+        "kind": "Actual live public guest game ·13 November2026",
+        "sourceCommit": "1733b4b5e1447e9877e9abb972b816bf1d4102cc"
+      },
+      "market13-portfolio-builder": {
+        "src": "/evidence/market-pathways-20261113/portfolio-builder.jpg",
+        "sha256": "6af2a4771b2ee6430dc428b54250fe7fc8b88a3495fbdb1e1a626a336b9f47c1",
+        "width": 1265,
+        "height": 1290,
+        "date": "2026-11-13",
+        "kind": "Actual live public guest game ·13 November2026",
+        "sourceCommit": "1733b4b5e1447e9877e9abb972b816bf1d4102cc"
+      },
+      "market13-archon-lobby": {
+        "src": "/evidence/market-pathways-20261113/archon-lobby.jpg",
+        "sha256": "e96a57eecc29af211466f88036a88e36f51cdc15fdc59f977a2fb84d27e8b7c0",
+        "width": 1280,
+        "height": 720,
+        "date": "2026-11-13",
+        "kind": "Actual live public guest game ·13 November2026",
+        "sourceCommit": "1733b4b5e1447e9877e9abb972b816bf1d4102cc"
+      },
+      "market13-market-choices": {
+        "src": "/evidence/market-pathways-20261113/market-choices.jpg",
+        "sha256": "aa355b929b42578c1e12fafe6dfb150a6a27b5f758bd9157b98844079a0bab84",
+        "width": 1280,
+        "height": 720,
+        "date": "2026-11-13",
+        "kind": "Actual live public guest game ·13 November2026",
+        "sourceCommit": "1733b4b5e1447e9877e9abb972b816bf1d4102cc"
+      },
+      "market13-notes-reading": {
+        "src": "/evidence/market-pathways-20261113/notes-reading.jpg",
+        "sha256": "f579012c7e96bee5731b1870c7940ce8cec738c3ce945a44abea7b9fd2743436",
+        "width": 1280,
+        "height": 720,
+        "date": "2026-11-13",
+        "kind": "Actual live public guest game ·13 November2026",
+        "sourceCommit": "1733b4b5e1447e9877e9abb972b816bf1d4102cc"
+      },
+      "market13-archon-board": {
+        "src": "/evidence/archon-readable-20261112/board-A-1280.png",
+        "sha256": "6aef7ccc6ef1667ed51f392fe90872ae464a7cc39793de8e9f6167614a57eb27",
+        "width": 1280,
+        "height": 900,
+        "date": "2026-11-12",
+        "kind": "Recorded fictional test room · published Archon source7597b1a",
+        "sourceCommit": "7597b1a33b4b946a6c89cc0758c6e0d33a46c11e"
       }
     },
     "rows": [
@@ -33839,11 +34024,11 @@
           "market"
         ],
         "title": "Choose how to explore Initiative",
-        "image": "market-entrance",
-        "description": "Choose Mara, Notes or Portfolio Builder beside the illustrated Initiative guide.",
+        "image": "market13-market-choices",
+        "description": "Choose Archon Engine, Notes, Mara’s Noodle Bar or Portfolio Builder.",
         "purpose": "Offer several ways to learn the same concept, five behaviours and benefits.",
-        "detail": "The fourth control is visibly Archon Game — coming soon. Online matches are unavailable in the published Market entrance at this check. These choices can be revisited; they are not four compulsory consecutive stages.",
-        "status": "Three live routes; Archon unavailable"
+        "detail": "These are four alternative starting points, not consecutive stages. Archon opens the current hosted test release. The public classroom word is Emmanuel.",
+        "status": "Four visible choices · checked13 Nov"
       },
       {
         "id": "mara",
@@ -33852,11 +34037,11 @@
           "pedagogy"
         ],
         "title": "Meet Mara at Juniper Kitchen",
-        "image": "mara-introduction",
+        "image": "market13-noodle-bar-mara",
         "description": "Walk to the stall, speak with Mara and watch customers who have already paid.",
         "purpose": "Give Initiative a concrete workplace problem.",
         "detail": "The current introduction says Juniper Kitchen makes rice bowls; the entrance button is labelled Mara’s Noodle Bar. The learner observes ordering versus collection, then explains what caught their attention.",
-        "status": "Live guest route"
+        "status": "Live introduction · checked13 Nov"
       },
       {
         "id": "notice",
@@ -33892,11 +34077,11 @@
           "student"
         ],
         "title": "Read, practise and explain in Notes",
-        "image": "market-notes",
-        "description": "Open concept cards, worked thinking, contrasting examples and new situations.",
+        "image": "market13-notes-reading",
+        "description": "Read the attributed guide and Ella’s example; compare the five ways to show initiative.",
         "purpose": "Make terminology explicit and practise recognising and explaining it.",
-        "detail": "The live page includes the five behaviours, benefits, safe-action scenarios, a written explanation scaffold and recall before returning. Send explanation to game is present. Notes PDF is not shown; do not confuse it with the portfolio’s PDF control.",
-        "status": "Live learning page"
+        "detail": "Current live worksheet: write a definition, match a behaviour, explain Ella’s action and check a workplace benefit. Adapted reading retains its author/source credit. Notes PDF and teacher submission are not claimed.",
+        "status": "Live Notes worksheet · checked13 Nov"
       },
       {
         "id": "portfolio",
@@ -33906,11 +34091,11 @@
           "pedagogy"
         ],
         "title": "Public Market STAR reflection",
-        "image": "portfolio-builder",
-        "description": "Use the five-step Situation, Task, Actions, Results and Review builder.",
+        "image": "market13-portfolio-builder",
+        "description": "Open the current five-step Situation, Task, Actions, Results and Review builder.",
         "purpose": "Explain an experience in the learner’s own words.",
-        "detail": "This anonymous practice log stays in its tab. No login, student account or teacher submission. Avoid private details and create a PDF before leaving. The published route is separate from the signed-in Student Hub.",
-        "status": "Live anonymous route"
+        "detail": "This is the currently deployed anonymous builder, captured without entering personal details or banking an entry. It is tab-only practice, not a school submission. The separate portfolio repair is pending and is not shown as live.",
+        "status": "Existing public builder · repair not claimed"
       },
       {
         "id": "pdf",
@@ -34010,6 +34195,66 @@
         "purpose": "Read evidence over time and plan feedback.",
         "detail": "Fresh 12 November capture of the built-in fictional public teacher demo. Its STAR matrix is empty in this fixture; a separate filled fictional example from 11 November illustrates how entries can look. Real teacher sign-in, permissions, saved actions and school-data connections were not tested.",
         "status": "Live public demo · fictional data"
+      },
+      {
+        "id": "archon-lobby",
+        "scopes": [
+          "market"
+        ],
+        "title": "Enter Archon Engine",
+        "image": "market13-archon-lobby",
+        "description": "Choose an adjudicator or player seat in the hosted Career Archon test release.",
+        "purpose": "Practise initiative through a team game and discussion.",
+        "detail": "An adjudicator creates a Game ID; two players join. Both players answer a contested move privately, then discuss the verdict. The live lobby is shown; no new room or complete match was created for this screenshot.",
+        "status": "Live hosted test release · checked13 Nov"
+      },
+      {
+        "id": "archon-board",
+        "scopes": [
+          "market"
+        ],
+        "title": "Move, challenge and claim territory",
+        "image": "market13-archon-board",
+        "description": "Select a piece and a legal move; a contested square leads to a workplace challenge.",
+        "purpose": "Explain an appropriate action and its consequences.",
+        "detail": "Recorded fictional test-room board from published7597b1a,12November. Not a fresh match, a mockup or a learner assessment. Actual published-source review records private answers, adjudication and territory effects.",
+        "status": "Published-source test-room capture ·12 Nov"
+      },
+      {
+        "id": "notes-respond",
+        "scopes": [
+          "market"
+        ],
+        "title": "Think, respond and apply",
+        "image": "market13-notes-responses",
+        "description": "Write explanations, compare a worked response and apply initiative to a new situation.",
+        "purpose": "Make thinking visible and give a reason for the proposed workplace effect.",
+        "detail": "The live worksheet includes definition, behaviour matching, Ella explanation, benefit comparison and a new workplace response. Fictional practice only; no authenticated save or teacher connection tested here.",
+        "status": "Live response worksheet ·13 Nov"
+      },
+      {
+        "id": "noodle-route",
+        "scopes": [
+          "market"
+        ],
+        "title": "Walk to the noodle bar",
+        "image": "market13-noodle-bar-route",
+        "description": "Choose Mara’s Noodle Bar, then walk to Juniper Kitchen and talk to Mara.",
+        "purpose": "Meet a concrete workplace problem before trying an improvement.",
+        "detail": "The entrance calls this Mara’s Noodle Bar; the stall itself is Juniper Kitchen. The current intro describes rice bowls. Existing source naming is retained rather than edited in the game.",
+        "status": "Live Market route ·13 Nov"
+      },
+      {
+        "id": "portfolio-log-current",
+        "scopes": [
+          "market"
+        ],
+        "title": "Keep a reflection log",
+        "image": "market13-portfolio-log",
+        "description": "Return to the current anonymous log and its PDF controls.",
+        "purpose": "Keep the learner’s own explanation separate from game completion.",
+        "detail": "No entry was banked or PDF generated in this capture. The existing UI says tab-only, no login and no teacher submission. Pending portfolio changes and return-route repairs are not certified by this image.",
+        "status": "Current public log ·13 Nov"
       }
     ],
     "findings": [
@@ -34018,7 +34263,9 @@
       "Market→Careers transition showed an incomplete room view; standalone public catalogue is live.",
       "Anonymous Market and Student Hub forms are separate, with different persistence and privacy boundaries.",
       "Phase2–11 remain curriculum plans; screenshots do not imply complete implementation."
-    ]
+    ],
+    "marketSourceCommit": "1733b4b5e1447e9877e9abb972b816bf1d4102cc",
+    "marketReviewDate": "2026-11-13"
   },
   "orientationHistory": {
     "id": "CE-ORIENTATION",
@@ -34440,7 +34687,7 @@
       }
     ]
   },
-  "revision": "V2.41 / 12 November 2026",
+  "revision": "V2.42 / 13 November 2026",
   "publicReview": {
     "launchHref": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
     "launchLabel": "Launch 3D Career Empire",
@@ -34465,14 +34712,14 @@
   "syllabusUrl": "https://senior-secondary.scsa.wa.edu.au/__data/assets/pdf_file/0008/1262159/Careers-and-Employability-General-Year-12-Syllabus-for-teaching-from-2027.PDF",
   "operations": {
     "release": {
-      "id": "V2.41",
-      "date": "2026-11-12",
-      "label": "V2.41 / 12 November 2026",
-      "status": "Current screenshot and guide refresh verified live; later phases and classroom services remain planned.",
+      "id": "V2.42",
+      "date": "2026-11-13",
+      "label": "V2.42 / 13 November 2026",
+      "status": "Four small Markets switching tabs and one shared walkthrough ready for public verification.",
       "purpose": "Career Empire is a connected learning-design project. This scoped Blueprint update teaches from the syllabus first: meaningful experience, explicit instruction, supported application, feedback and durable understanding. Curriculum ways and benefits stay central; no competing named guide or draft song is added to core learning.",
       "audience": "Colleagues reviewing the current game and learning design; teacher delivery program remains in development.",
       "owner": "Tania Byrnes",
-      "scope": "Whole-reader current-screen review: Start Here, Phase0/1, places, pedagogy, student progress and featured teacher sample. Later phases stay proposed; historical originals retained. No game changes or learner records."
+      "scope": "Blueprint-only Phase1 pathway and screenshot correction; preserves exact curriculum, historical evidence and unrelated releases."
     },
     "navigation": [
       {
@@ -39137,6 +39384,31 @@
           "dependencies": [],
           "supersededRecord": null,
           "taniaAcceptance": "Not newly assessed by the reader correction; original source and acceptance boundaries retained."
+        },
+        {
+          "id": "CE-CHANGE-20261113-151",
+          "date": "2026-11-13",
+          "title": "Restore Markets switching tabs and one shared screenshot walkthrough",
+          "domain": "Blueprint Phase1 reader correction only",
+          "source": "Tania: Markets should section off into options from the main page and show screenshots in dropdowns: Archon Engine, Notes, noodle bar, portfolio. Presentation-morning correction relayed by existing coordinator.",
+          "owner": "Blueprint maintainer; game releases remain with sole integrator",
+          "status": "Native switching verified locally; public verification pending",
+          "rationale": "142 flattened alternative routes. The first local correction used four independent dropdowns; Tania clarified that small tabs must switch one shared dropdown below the main Market screenshot.",
+          "dependencies": [
+            "CE-CHANGE-20261112-142",
+            "CE-CHANGE-20261112-144",
+            "CE-CHANGE-20261112-145"
+          ],
+          "evidence": [
+            "docs/production/live-game-review-20261112.md"
+          ],
+          "nextAction": "Publish the scoped151 overlay over the latest public head, verify served bytes and repeat the four switching/screenshot checks on the actual public Blueprint.",
+          "supersededRecord": null,
+          "designApproval": "Direct user requests this four-branch correction on existing live Blueprint; no game/runtime or learner-data change.",
+          "implementation": "Four small tabs:Archon Engine,Notes,Mara’s Noodle Bar,Portfolio. Selecting a tab replaces the single shared walkthrough and its screenshots. Eight fresh live public guest captures and a dated published-source fictional Archon board retain their provenance. No pending portfolio repair is claimed live.",
+          "deployment": "Not published yet; public base inspected separately from concurrent Chapel/EST/portfolio releases.",
+          "testing": "115/115 tests, TypeScript/scoped lint, production build and20 source/render views pass. Four small tabs and exactly one shared panel/dropdown verified in markup.197 points,12 phase mappings and51 capture hashes preserved. New native switching/live check awaits actual Chrome approval; prior independent-dropdown check is superseded. Native Chrome access observed working after Tania’s explicit ongoing authorization; four actual tab clicks each selected the correct path, retained exactly one shared dropdown and switched to the matching screenshot links. No approval prompt or protection was bypassed.",
+          "taniaAcceptance": "Requested correction; final visual acceptance remains with Tania."
         }
       ],
       "sessionStart": [
@@ -53180,10 +53452,10 @@
     "schemaVersion": 1,
     "release": {
       "changeIds": [
-        "CE-CHANGE-20261112-142"
+        "CE-CHANGE-20261113-151"
       ],
-      "scope": "WholeBlueprintcurrent-screen/contentrefresh142only;no gamepush;blocked141workflowpublicationexcluded.",
-      "disclosure": "Historicalscreens retained withdates;currentguest/demo observationsnotrealteacher/classroomacceptance. GuidedopeningandMarket→Careerstransitionneedfollow-up;Archoncomingsooninpublishedentrance. Prior139/140receiptobjectsunchanged;141stillunpublished.",
+      "scope": "151 Blueprint-only four-route correction; preserve latest public143–148 records and concurrent game release;141 workflow payload excluded.",
+      "disclosure": "Live Archon remains a labelled test release. The portfolio images show the existing deployed builder, not the separately pending repair. No classroom/teacher/hosted match acceptance inferred.",
       "requiredReviewFiles": [
         "data/operations.json",
         "data/blueprint.ts",
@@ -53246,14 +53518,22 @@
         "docs/production/st4s-readiness.md",
         "lib/wa-assessment-readiness.mjs",
         "scripts/validate-wa-assessment.mjs",
-        "docs/production/wa-assessment-route.md"
+        "docs/production/wa-assessment-route.md",
+        "public/evidence/market-pathways-20261113/archon-lobby.jpg",
+        "public/evidence/market-pathways-20261113/portfolio-builder.jpg",
+        "public/evidence/market-pathways-20261113/noodle-bar-route.jpg",
+        "public/evidence/market-pathways-20261113/noodle-bar-mara.jpg",
+        "public/evidence/market-pathways-20261113/notes-reading.jpg",
+        "public/evidence/market-pathways-20261113/notes-responses.jpg",
+        "public/evidence/market-pathways-20261113/market-choices.jpg",
+        "public/evidence/market-pathways-20261113/portfolio-log.jpg"
       ],
       "reviews": [
         {
           "path": "data/operations.json",
-          "sha256": "8a86f31973c097efdd469144d1b6845a9ed058845d6728ec6adad6cfaafb19f6",
-          "reviewedAt": "2026-11-12",
-          "method": "Reviewed142 current dated reference/assertions; curriculum/phase route, history and production-approval boundaries retained. ST4S source unchanged and still unverified; no school/backend acceptance added. Actual142 served-byte and live UI verification; corrected overview link/status/current places thumbnail; prior history and separate blocked141 preserved."
+          "sha256": "03438da7f9c66bca622ce0ff71beb29fdbb1c3d15154870f4c07ad3a8a609a44",
+          "reviewedAt": "2026-11-13",
+          "method": "Reviewed142 current dated reference/assertions; curriculum/phase route, history and production-approval boundaries retained. ST4S source unchanged and still unverified; no school/backend acceptance added. Actual142 served-byte and live UI verification; corrected overview link/status/current places thumbnail; prior history and separate blocked141 preserved.151 exact reader-only delta and retained143–148 metadata reviewed; no unrelated release acceptance or source rewrite. Eight public guest captures, four routes and pending portfolio boundary.151 readiness and nativeChrome four-dropdown verification; retained concurrent EST qualification appendix without changing or certifying it. Tania clarification:four small keyboard-accessible tabs switch exactly one shared native walkthrough dropdown; prior four independent dropdowns superseded. Added only missing schema fields to concurrent material records; every pre-existing value preserved and no new approval/acceptance inferred. Public projection retains prior public objects unchanged. Source-only readiness:115 tests,20renders and single shared panel; actual Chrome switching approval/check remains pending. Concurrent notes retained without recertification. Actual authorized native Chrome four-tab/single-panel check recorded. Concurrent notes retained; no unrelated release is certified. Newly concurrent in-progress entries retain pending checks; only missing structural material fields added. No prior field, source binding or approval claim changed."
         },
         {
           "path": "data/blueprint.ts",
@@ -53281,9 +53561,9 @@
         },
         {
           "path": "AGENTS.md",
-          "sha256": "c68fe1ac4bdc7b12808ee51eba4be3519482016e8e541f5d3f54a62399ff1e56",
-          "reviewedAt": "2026-11-12",
-          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Append-only diff against committedb59a0df reviewed in full, including retained historical third-party/source notes and current135header. Historical reports are not independently recertified as fresh research. No new external action, access grant or production authority inferred. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Exact bounded136delta reviewed: isolated Flyover entrance-start defect/candidate provenance and serial release ownership only. Candidate not shared-applied or published;raw footage not live;Safari/Chapel-return/final integration open. Prior records,navigation,Initiative and release gates preserved. Exact136final-candidate acceptance delta reviewed against unchanged five source fingerprints and supplied no-error Chapel/arrival results;retire candidate-only Chapel gap,retain Safari/serial-integration/publication requirements. No acceptance criteria,completion flags or runtime changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed actual ordinary source registration/standardcopy/link and resolved frontendstage successor.45bindingdraft stopped beforeapplication;26hashes/3contractregressions and real sparseguardsnapshot verified. No finalprojectChanges,receipt,corehookactivation or runtime application. Concurrent datedCEAWAappendix recovered from exact priorprefix,inspected and retained without recertifying unrelated claims. Actual32staged1dc6/cfcbGitversions,threeavailabilitydeltaSHAand2actualsourcecases reviewed;cloudfinalavailabilitypass attributed. Exactuseryeshookactivation verified localonly/unchangedcode. Newuserportfolioaesthetic successorholds obsoletefreeze;no projectChanges/receipts. ConcurrentAGENTSdatedCEAWAappendix recovered by exact priorprefix,inspected/preserved without recertifying unrelated release. Finalexact33source/reporting review:staged1a5219native2560image successor,27qualifiedproducts+5unchangedguards+315entrymanifest. Finalcloudacceptance attributed,actualGitversions and public-onlydiff checked. Source-reporting publication alone pending;product/nativehardware/teacher/hostedgaps retained. Verified HDuserappendix and concurrent datedAGENTSnotes preserved without unrelatedpublication. Exact append-only CEAWA opening-still/removal/source-tab note inspected against verified priorprefix;retained as authored historical context without publishing its content or recertifying that unrelated site. Record138integration/sourceMap unchanged. Exact concurrent delta inspected:retained CEAWA/publicgame history appendix or single existing publicclassroomword paragraph only;no unrelatedfeature acceptance inferred. Reviewed retainedCEAWA42b0b51appendix only;no source139objectchange. Exactc2d9f12CEAWAhistoryappendixretained/reviewed;no unrelatedacceptance. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected. Retainednewone-paragraphSkillQuest/CEAWAhistoryverificationappendixinspected;no unrelatedfeaturecertification. Reviewed142 readiness evidence and preserved concurrent dated CEAWA/SkillQuest appendices; no unrelated acceptance inferred. Actual142 served-byte and live UI verification; corrected overview link/status/current places thumbnail; prior history and separate blocked141 preserved."
+          "sha256": "216b38519bb85af65e90d76c48aa08d4c20a86f8afdcee2eadaa83150e7adfec",
+          "reviewedAt": "2026-11-13",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Append-only diff against committedb59a0df reviewed in full, including retained historical third-party/source notes and current135header. Historical reports are not independently recertified as fresh research. No new external action, access grant or production authority inferred. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Exact bounded136delta reviewed: isolated Flyover entrance-start defect/candidate provenance and serial release ownership only. Candidate not shared-applied or published;raw footage not live;Safari/Chapel-return/final integration open. Prior records,navigation,Initiative and release gates preserved. Exact136final-candidate acceptance delta reviewed against unchanged five source fingerprints and supplied no-error Chapel/arrival results;retire candidate-only Chapel gap,retain Safari/serial-integration/publication requirements. No acceptance criteria,completion flags or runtime changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed actual ordinary source registration/standardcopy/link and resolved frontendstage successor.45bindingdraft stopped beforeapplication;26hashes/3contractregressions and real sparseguardsnapshot verified. No finalprojectChanges,receipt,corehookactivation or runtime application. Concurrent datedCEAWAappendix recovered from exact priorprefix,inspected and retained without recertifying unrelated claims. Actual32staged1dc6/cfcbGitversions,threeavailabilitydeltaSHAand2actualsourcecases reviewed;cloudfinalavailabilitypass attributed. Exactuseryeshookactivation verified localonly/unchangedcode. Newuserportfolioaesthetic successorholds obsoletefreeze;no projectChanges/receipts. ConcurrentAGENTSdatedCEAWAappendix recovered by exact priorprefix,inspected/preserved without recertifying unrelated release. Finalexact33source/reporting review:staged1a5219native2560image successor,27qualifiedproducts+5unchangedguards+315entrymanifest. Finalcloudacceptance attributed,actualGitversions and public-onlydiff checked. Source-reporting publication alone pending;product/nativehardware/teacher/hostedgaps retained. Verified HDuserappendix and concurrent datedAGENTSnotes preserved without unrelatedpublication. Exact append-only CEAWA opening-still/removal/source-tab note inspected against verified priorprefix;retained as authored historical context without publishing its content or recertifying that unrelated site. Record138integration/sourceMap unchanged. Exact concurrent delta inspected:retained CEAWA/publicgame history appendix or single existing publicclassroomword paragraph only;no unrelatedfeature acceptance inferred. Reviewed retainedCEAWA42b0b51appendix only;no source139objectchange. Exactc2d9f12CEAWAhistoryappendixretained/reviewed;no unrelatedacceptance. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected. Retainednewone-paragraphSkillQuest/CEAWAhistoryverificationappendixinspected;no unrelatedfeaturecertification. Reviewed142 readiness evidence and preserved concurrent dated CEAWA/SkillQuest appendices; no unrelated acceptance inferred. Actual142 served-byte and live UI verification; corrected overview link/status/current places thumbnail; prior history and separate blocked141 preserved. Private final99a785b receipt pointer only; deployed source45fd704 unchanged; no public rebuild for receipt.151 exact reader-only delta and retained143–148 metadata reviewed; no unrelated release acceptance or source rewrite. Eight public guest captures, four routes and pending portfolio boundary.151 readiness and nativeChrome four-dropdown verification; retained concurrent EST qualification appendix without changing or certifying it. Source-only readiness:115 tests,20renders and single shared panel; actual Chrome switching approval/check remains pending. Concurrent notes retained without recertification. Actual authorized native Chrome four-tab/single-panel check recorded. Concurrent notes retained; no unrelated release is certified."
         },
         {
           "path": "README.md",
@@ -53317,9 +53597,9 @@
         },
         {
           "path": "scripts/export-blueprint.mjs",
-          "sha256": "bc13b9f9a6507058735b44d50e122a1d34fd4b7346171c95226fb82ce3639b69",
+          "sha256": "a457663caab73e932223e4527978d4087fb4473f4415dc4e56560cc9d8c4a508",
           "reviewedAt": "2026-11-10",
-          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact diff against previous reviewed committed bytes: existing active October canonical root and one deterministic document export. No guard, validator or publication policy changes. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact one-row registration reviewed for136local document HTML/Markdown generation;no exporter logic,validation,publishing or unrelated document changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed142documentgeneratorregistration/currentmilestonecontinuitysync/currentcaptionandteacherboundarylink;no gamechange."
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact diff against previous reviewed committed bytes: existing active October canonical root and one deterministic document export. No guard, validator or publication policy changes. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact one-row registration reviewed for136local document HTML/Markdown generation;no exporter logic,validation,publishing or unrelated document changed. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Actual138documentary coordination delta reviewed:retain explicit publication request but no final39+logo bindings,identity/settings or receipt while owner successor/CIclassification/staging unresolved. Existing guardCI/publicreceipt semantics inspected unchanged;staleAGENTS exact oldprefix recovered and later CEAWA appendix inspected/preserved as historical without recertifying unrelated claims. Reviewed142documentgeneratorregistration/currentmilestonecontinuitysync/currentcaptionandteacherboundarylink;no gamechange. Register existing current-state release document outputs; preserve their sources. Current-next-action test checks shared milestone coherence rather than obsolete Blueprint-only wording; EST priority unchanged."
         },
         {
           "path": "scripts/prepare-pages.mjs",
@@ -53377,9 +53657,9 @@
         },
         {
           "path": "docs/production/visual-evidence-manifest.json",
-          "sha256": "cf7f5ac930547356757b13e35b2f7ee86b1ea033a64db14946aa8ebb59143c16",
-          "reviewedAt": "2026-11-12",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected. Actual18publicfictionalteacherpromopanelscaptured12November;emptySTARfixtureversusfilled11Novsampledistinguished;oldoriginalsretained."
+          "sha256": "09de612ce0c7f79dec0f339eea4e8b427c9ca096f4c7ab26cbaea499855ef128",
+          "reviewedAt": "2026-11-13",
+          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected. Actual18publicfictionalteacherpromopanelscaptured12November;emptySTARfixtureversusfilled11Novsampledistinguished;oldoriginalsretained.151 exact reader-only delta and retained143–148 metadata reviewed; no unrelated release acceptance or source rewrite. Eight public guest captures, four routes and pending portfolio boundary."
         },
         {
           "path": "docs/production/phase1-initiative-pathways-20261109.md",
@@ -53389,33 +53669,33 @@
         },
         {
           "path": "app/phase-walkthrough.tsx",
-          "sha256": "a308f040eeaa4a245d2e76b6b9166443147b5fad5b6cb33ea5b6306006e7cf8f",
-          "reviewedAt": "2026-11-12",
-          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact previous reviewed file recovered; only unconditional data-context/base-path link and two factual status paragraphs added. Existing choices, handlers, storyboard and routes retained. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Exact concurrent delta inspected:retained CEAWA/publicgame history appendix or single existing publicclassroomword paragraph only;no unrelatedfeature acceptance inferred. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected."
+          "sha256": "901da56111cdb1280400221967609aff90725e6040320df4fe10adadbc602ec1",
+          "reviewedAt": "2026-11-13",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact previous reviewed file recovered; only unconditional data-context/base-path link and two factual status paragraphs added. Existing choices, handlers, storyboard and routes retained. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Exact subsequent documentary delta reviewed: approved local protections and supplied actual-local match/replay provenance; original acceptance criteria, incomplete statuses and publication gates preserved. No behavior or game change. Actual137serial entrance/anonymous portfolio and attributed cloud RPC-shim evidence delta reviewed. Ten entrance/twelve portfolio chain/twenty-eight package hashes independently checked;no genuine Supabase/teacher acceptance or publication inferred. Exact old ops review recovered by removing137;exact AGENTS prior prefix recovered and later137/CEAWAdatedappendices inspected,preserved without recertifying unrelated publication claims. Exact concurrent delta inspected:retained CEAWA/publicgame history appendix or single existing publicclassroomword paragraph only;no unrelatedfeature acceptance inferred. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected.151 exact reader-only delta and retained143–148 metadata reviewed; no unrelated release acceptance or source rewrite. Eight public guest captures, four routes and pending portfolio boundary."
         },
         {
           "path": "app/phase-reader-copy.ts",
-          "sha256": "1d550098bb127c3c12e70f3aecd6a2253c42e52c626d40c84896070251e5a2ae",
-          "reviewedAt": "2026-11-12",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected."
+          "sha256": "21d47cfcbfff73e7a737916ecdb5aea9ef3eaa05d68b040fe384bc3ab4a9ebb2",
+          "reviewedAt": "2026-11-13",
+          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected.151 exact reader-only delta and retained143–148 metadata reviewed; no unrelated release acceptance or source rewrite. Eight public guest captures, four routes and pending portfolio boundary."
         },
         {
           "path": "app/places-in-game.tsx",
-          "sha256": "566f219810e90f0a8b556f7a4eb7437403a112dfabba63b39bc086e22bce153f",
-          "reviewedAt": "2026-11-12",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected."
+          "sha256": "fd5d6fe5db60ed2baabb9537e763b84ecab634d39a2b8c23182f0ab889af1306",
+          "reviewedAt": "2026-11-13",
+          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected.151 exact reader-only delta and retained143–148 metadata reviewed; no unrelated release acceptance or source rewrite. Eight public guest captures, four routes and pending portfolio boundary."
         },
         {
           "path": "app/site-guide.tsx",
-          "sha256": "728dd847b1acc304cd901a21feaa4036292958dcb962bd320a643a5e09c56082",
-          "reviewedAt": "2026-11-12",
-          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected. Current142renderreview:accuratebanner,launchtooltips,observedguest/demo status;allcurriculumpointsretained."
+          "sha256": "ea8e0d996021467e6469bae08b033bd3e107314fd2c581ba525757f1d34f715e",
+          "reviewedAt": "2026-11-13",
+          "method": "Scoped Phase 1 source and reader review; see docs/production/phase1-initiative-pathways-20261109.md and the CE-CHANGE-20261109-132 target verification. Whole-reader142exactdelta reviewedagainstpreservedoriginals;currentcaptureprovenance,historyandcurriculumboundariesinspected. Current142renderreview:accuratebanner,launchtooltips,observedguest/demo status;allcurriculumpointsretained.151 exact reader-only delta and retained143–148 metadata reviewed; no unrelated release acceptance or source rewrite. Eight public guest captures, four routes and pending portfolio boundary."
         },
         {
           "path": "data/learning-planner.json",
-          "sha256": "34d8e6f127ef64ff22f4fdbd4fab55a2d8a2f772e2bd53faf5d2fffdda3e8aa2",
-          "reviewedAt": "2026-11-10",
-          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact prior reviewed file recovered; only Phase1teaching/product/limit prose changed. All197rows, skills, launch links and Phases2-11 retained. Official11requirement source parity attested without changing baseline. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Current142renderreview:accuratebanner,launchtooltips,observedguest/demo status;allcurriculumpointsretained."
+          "sha256": "5c30517a519ffc1b367b4864f1ba3076a3dc6cfa6cd01182365d69cbda1b028c",
+          "reviewedAt": "2026-11-13",
+          "method": "Current byte/diff re-review for unpublished Blueprint reporting135. Exact prior reviewed file recovered; only Phase1teaching/product/limit prose changed. All197rows, skills, launch links and Phases2-11 retained. Official11requirement source parity attested without changing baseline. This source fingerprint is not publication,product or classroom approval;candidate135 remains incomplete. Current142renderreview:accuratebanner,launchtooltips,observedguest/demo status;allcurriculumpointsretained.151 exact reader-only delta and retained143–148 metadata reviewed; no unrelated release acceptance or source rewrite. Eight public guest captures, four routes and pending portfolio boundary."
         },
         {
           "path": "data/market-storyboard.json",
@@ -53497,15 +53777,15 @@
         },
         {
           "path": "data/live-game-review.json",
-          "sha256": "82bc940cd79a46f9d92eaa20e952b4007733947e7d9f1e050a68c535bc93f3b7",
-          "reviewedAt": "2026-11-12",
-          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved. Actual18publicfictionalteacherpromopanelscaptured12November;emptySTARfixtureversusfilled11Novsampledistinguished;oldoriginalsretained. Readability/current42capturecountandunclippedteacheractual-sizeviewreviewed."
+          "sha256": "ec296761b8c84b7df77454e7144e6c8bcec87efc2125f04b4f65447f1c6d5cbd",
+          "reviewedAt": "2026-11-13",
+          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved. Actual18publicfictionalteacherpromopanelscaptured12November;emptySTARfixtureversusfilled11Novsampledistinguished;oldoriginalsretained. Readability/current42capturecountandunclippedteacheractual-sizeviewreviewed.151 exact reader-only delta and retained143–148 metadata reviewed; no unrelated release acceptance or source rewrite. Eight public guest captures, four routes and pending portfolio boundary."
         },
         {
           "path": "data/markets-review.json",
-          "sha256": "99a9848bf68058723ac01a6853635a56b04c92a9c8dfa90af9ea74cf34922cf5",
-          "reviewedAt": "2026-11-12",
-          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved. Actual18publicfictionalteacherpromopanelscaptured12November;emptySTARfixtureversusfilled11Novsampledistinguished;oldoriginalsretained."
+          "sha256": "6d10e02ca601d033da68f28853c658aac0f00021fe77d0f680c878f72de3aa42",
+          "reviewedAt": "2026-11-13",
+          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved. Actual18publicfictionalteacherpromopanelscaptured12November;emptySTARfixtureversusfilled11Novsampledistinguished;oldoriginalsretained.151 exact reader-only delta and retained143–148 metadata reviewed; no unrelated release acceptance or source rewrite. Eight public guest captures, four routes and pending portfolio boundary."
         },
         {
           "path": "data/course-tracking.json",
@@ -53527,21 +53807,21 @@
         },
         {
           "path": "app/live-game-guide.tsx",
-          "sha256": "7d2a0cbb844f599a21f00ce17d42508fd695bb8e8d674da4f78b7f1d83774462",
-          "reviewedAt": "2026-11-12",
-          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved."
+          "sha256": "3bea9e462924d77b3a1d28e4d05aa71d6229c6785633e5a3f5de883953a8cdd1",
+          "reviewedAt": "2026-11-13",
+          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved.151 exact reader-only delta and retained143–148 metadata reviewed; no unrelated release acceptance or source rewrite. Eight public guest captures, four routes and pending portfolio boundary. Tania clarification:four small keyboard-accessible tabs switch exactly one shared native walkthrough dropdown; prior four independent dropdowns superseded."
         },
         {
           "path": "app/globals.css",
-          "sha256": "4f69f07debfc7a58fc11530cd08ebf1afb5227bc7c507a1ace613ba9d73b12cd",
-          "reviewedAt": "2026-11-12",
-          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved."
+          "sha256": "0d8fbe18005ec1ad14e47bba2b90773281ce82d6b9cf01c881fc267b9dd07092",
+          "reviewedAt": "2026-11-13",
+          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved.151 exact reader-only delta and retained143–148 metadata reviewed; no unrelated release acceptance or source rewrite. Eight public guest captures, four routes and pending portfolio boundary. Tania clarification:four small keyboard-accessible tabs switch exactly one shared native walkthrough dropdown; prior four independent dropdowns superseded."
         },
         {
           "path": "docs/production/live-game-review-20261112.md",
-          "sha256": "0a1cf5bba12be892069a929bfb410539feac33b0c605c1f866ac067d09d175da",
-          "reviewedAt": "2026-11-12",
-          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved. Actual18publicfictionalteacherpromopanelscaptured12November;emptySTARfixtureversusfilled11Novsampledistinguished;oldoriginalsretained. Actual142 served-byte and live UI verification; corrected overview link/status/current places thumbnail; prior history and separate blocked141 preserved."
+          "sha256": "b6270e35ffe2ae85a535db243eab6e857217734467696ca72d1a4521eb49483a",
+          "reviewedAt": "2026-11-13",
+          "method": "Whole-reader142source inspected:datedcaptureprovenance/publicguest/demo-only/history;source/renderverification distinct;197curriculumpointsandgame sourcepreserved. Actual18publicfictionalteacherpromopanelscaptured12November;emptySTARfixtureversusfilled11Novsampledistinguished;oldoriginalsretained. Actual142 served-byte and live UI verification; corrected overview link/status/current places thumbnail; prior history and separate blocked141 preserved.151 exact reader-only delta and retained143–148 metadata reviewed; no unrelated release acceptance or source rewrite. Eight public guest captures, four routes and pending portfolio boundary. Clarified small-tab/single-shared-dropdown requirement; four independent local disclosures were not published and are superseded. Actual authorized native Chrome four-tab/single-panel check recorded. Concurrent notes retained; no unrelated release is certified."
         },
         {
           "path": "app/blueprint-app.tsx",
@@ -53557,15 +53837,15 @@
         },
         {
           "path": "tests/course-tracking.test.mjs",
-          "sha256": "6e499936eaa3a19a625939ee68ed23667daa49d6ce2cf716b83e9f0be09cf944",
-          "reviewedAt": "2026-11-12",
-          "method": "Reviewed142 current dated reference/assertions; curriculum/phase route, history and production-approval boundaries retained. ST4S source unchanged and still unverified; no school/backend acceptance added."
+          "sha256": "f5770384e469195889549fabf4fe05954133c5b2c46efffd3ff89fe7dfd3c3d2",
+          "reviewedAt": "2026-11-13",
+          "method": "Reviewed142 current dated reference/assertions; curriculum/phase route, history and production-approval boundaries retained. ST4S source unchanged and still unverified; no school/backend acceptance added.151 exact reader-only delta and retained143–148 metadata reviewed; no unrelated release acceptance or source rewrite. Eight public guest captures, four routes and pending portfolio boundary."
         },
         {
           "path": "tests/production-plan.test.mjs",
-          "sha256": "6a14cd7b8f78934f680c02c7e3cd91f431857188bb897a61342b7db7f9aa1d69",
+          "sha256": "7eb5b22c292ac809e76e8944dc3d1433e45416d15be5fd6a1b2f53a53e076e91",
           "reviewedAt": "2026-11-12",
-          "method": "Reviewed142 current dated reference/assertions; curriculum/phase route, history and production-approval boundaries retained. ST4S source unchanged and still unverified; no school/backend acceptance added."
+          "method": "Reviewed142 current dated reference/assertions; curriculum/phase route, history and production-approval boundaries retained. ST4S source unchanged and still unverified; no school/backend acceptance added. Register existing current-state release document outputs; preserve their sources. Current-next-action test checks shared milestone coherence rather than obsolete Blueprint-only wording; EST priority unchanged."
         },
         {
           "path": "tests/blueprint.test.mjs",
@@ -53620,6 +53900,54 @@
           "sha256": "855e8f0f36b803124fe0ce44639a45825afddbae920904f9c8b80439b61f04d0",
           "reviewedAt": "2026-11-12",
           "method": "Exact byte comparison to source HEAD: unchanged security/readiness logic and source. Existing fail-closed/unverified school status preserved; no game, backend or compliance acceptance."
+        },
+        {
+          "path": "public/evidence/market-pathways-20261113/archon-lobby.jpg",
+          "sha256": "e96a57eecc29af211466f88036a88e36f51cdc15fdc59f977a2fb84d27e8b7c0",
+          "reviewedAt": "2026-11-13",
+          "method": "151 current guest capture provenance and four native reader branches reviewed; preserves exact curriculum and pending portfolio boundary."
+        },
+        {
+          "path": "public/evidence/market-pathways-20261113/portfolio-builder.jpg",
+          "sha256": "6af2a4771b2ee6430dc428b54250fe7fc8b88a3495fbdb1e1a626a336b9f47c1",
+          "reviewedAt": "2026-11-13",
+          "method": "151 current guest capture provenance and four native reader branches reviewed; preserves exact curriculum and pending portfolio boundary."
+        },
+        {
+          "path": "public/evidence/market-pathways-20261113/noodle-bar-route.jpg",
+          "sha256": "99205ddd95e230e31d6fc417737f60a10a7358a4401ef61d844b9e2a289fc286",
+          "reviewedAt": "2026-11-13",
+          "method": "151 current guest capture provenance and four native reader branches reviewed; preserves exact curriculum and pending portfolio boundary."
+        },
+        {
+          "path": "public/evidence/market-pathways-20261113/noodle-bar-mara.jpg",
+          "sha256": "acba4660f3e28ca176927328020e7a71316ba42638056b6674655e07a07907c8",
+          "reviewedAt": "2026-11-13",
+          "method": "151 current guest capture provenance and four native reader branches reviewed; preserves exact curriculum and pending portfolio boundary."
+        },
+        {
+          "path": "public/evidence/market-pathways-20261113/notes-reading.jpg",
+          "sha256": "f579012c7e96bee5731b1870c7940ce8cec738c3ce945a44abea7b9fd2743436",
+          "reviewedAt": "2026-11-13",
+          "method": "151 current guest capture provenance and four native reader branches reviewed; preserves exact curriculum and pending portfolio boundary."
+        },
+        {
+          "path": "public/evidence/market-pathways-20261113/notes-responses.jpg",
+          "sha256": "96914adfc94ca91cf6e12eb1783bbf7319e1085ef852f55f5f392d804ed71e7d",
+          "reviewedAt": "2026-11-13",
+          "method": "151 current guest capture provenance and four native reader branches reviewed; preserves exact curriculum and pending portfolio boundary."
+        },
+        {
+          "path": "public/evidence/market-pathways-20261113/market-choices.jpg",
+          "sha256": "aa355b929b42578c1e12fafe6dfb150a6a27b5f758bd9157b98844079a0bab84",
+          "reviewedAt": "2026-11-13",
+          "method": "151 current guest capture provenance and four native reader branches reviewed; preserves exact curriculum and pending portfolio boundary."
+        },
+        {
+          "path": "public/evidence/market-pathways-20261113/portfolio-log.jpg",
+          "sha256": "4357c352d86328596589c9cbe10cb12ea9e57f0223c781d7db58e6d323497b9f",
+          "reviewedAt": "2026-11-13",
+          "method": "151 current guest capture provenance and four native reader branches reviewed; preserves exact curriculum and pending portfolio boundary."
         }
       ]
     },
@@ -100193,6 +100521,497 @@
             "playable-3d/world.js": "100644:b8d8e60915e0bdd82be8b4187fafef85a68087b3"
           }
         }
+      },
+      {
+        "changeId": "CE-CHANGE-20261113-151",
+        "title": "Restore Markets switching tabs and one shared screenshot walkthrough",
+        "types": [
+          "release",
+          "visual",
+          "activity"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Small tabs below the Market main screenshot switch information and screenshots inside one shared walkthrough dropdown.",
+        "before": "142 flattened choices into one table and hid the former selector inside a historical disclosure.",
+        "after": "Four small tabs:Archon Engine,Notes,Mara’s Noodle Bar,Portfolio. Selecting a tab replaces the single shared walkthrough and its screenshots. Eight fresh live public guest captures and a dated published-source fictional Archon board retain their provenance. No pending portfolio repair is claimed live.",
+        "source": "Tania: Markets should section off into options from the main page and show screenshots in dropdowns: Archon Engine, Notes, noodle bar, portfolio. Presentation-morning correction relayed by existing coordinator. Clarification: use small switching tabs between the main screenshot and a shared dropdown, not four independent dropdowns. Reference Library libfile_e944f31941108191a25b79ce59dfbca5.",
+        "owner": "Blueprint maintainer; no game source or service changes",
+        "nextAction": "Publish the scoped151 overlay over the latest public head, verify served bytes and repeat the four switching/screenshot checks on the actual public Blueprint.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Blueprint maintainer:documentary coordination;actual source registration/protection requires appropriate scoped authority",
+          "scope": "Public guest game screenshots and Blueprint presentation only. No new room, accounts, backend, permissions or real learner records.",
+          "rationale": "Source-version review/publication is not production/classroom/mastery or hostedsecurity certification. Related133/137stay incomplete andWAevidence remainsUNVERIFIED;threebaseline-identical nativechecks are disclosed pending.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Canonical coordination and exact file-hash/proposal review only;no change to data controls,learner data,accounts,services or settings.",
+            "locations": "Canonical coordination and exact file-hash/proposal review only;no change to locations controls,learner data,accounts,services or settings.",
+            "accessCountries": "Canonical coordination and exact file-hash/proposal review only;no change to accessCountries controls,learner data,accounts,services or settings.",
+            "providers": "Canonical coordination and exact file-hash/proposal review only;no change to providers controls,learner data,accounts,services or settings.",
+            "lifecycle": "Canonical coordination and exact file-hash/proposal review only;no change to lifecycle controls,learner data,accounts,services or settings.",
+            "encryption": "Canonical coordination and exact file-hash/proposal review only;no change to encryption controls,learner data,accounts,services or settings.",
+            "logging": "Canonical coordination and exact file-hash/proposal review only;no change to logging controls,learner data,accounts,services or settings.",
+            "identity": "Canonical coordination and exact file-hash/proposal review only;no change to identity controls,learner data,accounts,services or settings.",
+            "isolation": "Canonical coordination and exact file-hash/proposal review only;no change to isolation controls,learner data,accounts,services or settings.",
+            "privacySafety": "Canonical coordination and exact file-hash/proposal review only;no change to privacySafety controls,learner data,accounts,services or settings.",
+            "applicability": "Canonical coordination and exact file-hash/proposal review only;no change to applicability controls,learner data,accounts,services or settings.",
+            "verification": "Canonical coordination and exact file-hash/proposal review only;no change to verification controls,learner data,accounts,services or settings."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "Actual guest routes only; no new room or banked portfolio entry; pending repair not represented as deployed."
+          ],
+          "reviewedBy": "Blueprint maintainer exact staged-source/reporting review",
+          "reviewedAt": "2026-11-12",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": null,
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "Check the bounded four-route reader correction on start; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Check the bounded four-route reader correction on media; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "Check the bounded four-route reader correction on decisions; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Check the bounded four-route reader correction on curriculum; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Check the bounded four-route reader correction on flow; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Check the bounded four-route reader correction on journey; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "Check the bounded four-route reader correction on assessment; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "Check the bounded four-route reader correction on teacher; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "Check the bounded four-route reader correction on world; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "Check the bounded four-route reader correction on buildings; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Check the bounded four-route reader correction on avatars; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Check the bounded four-route reader correction on visuals; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Check the bounded four-route reader correction on assets; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Check the bounded four-route reader correction on build; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "recovery",
+            "disposition": "checked-unchanged",
+            "action": "Check the bounded four-route reader correction on recovery; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "Check the bounded four-route reader correction on sources; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "checked-unchanged",
+            "action": "Check the bounded four-route reader correction on roadmap; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Check the bounded four-route reader correction on history; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Check the bounded four-route reader correction on protocol; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Check the bounded four-route reader correction on exports; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Check the bounded four-route reader correction on publication; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "pending",
+              "date": "2026-11-13",
+              "method": "New single-panel switching-tab implementation supersedes prior four-independent-dropdown preview."
+            },
+            "nextAction": "Publish the scoped151 overlay over the latest public head, verify served bytes and repeat the four switching/screenshot checks on the actual public Blueprint."
+          },
+          {
+            "surface": "security",
+            "disposition": "checked-unchanged",
+            "action": "Check the bounded four-route reader correction on security; preserve curriculum, source labels and unrelated work.",
+            "owner": "Blueprint maintainer",
+            "acceptance": "Currentplacementsandstatusagreewithdated69aa78ereview;source/capturelimitsareexplicit.",
+            "records": [
+              "CE-CHANGE-20261113-151"
+            ],
+            "evidence": [
+              "docs/production/live-game-review-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "date": "2026-11-13",
+              "method": "Source, TypeScript/lint, compiled Pages preview and20 semantic views verify four small accessible tabs, exactly one shared panel/dropdown and current dated capture paths;197 points,12 mappings and51 capture hashes preserved. Earlier native four-independent-disclosure check is superseded. New switching interaction/live check awaits actual Chrome approval and is not claimed. Actual authorized native Chrome: all four switching tabs selected the matching screenshot tables within exactly one shared walkthrough; live verification remains pending."
+            },
+            "nextAction": ""
+          }
+        ],
+        "projectChanges": {}
       }
     ],
     "releaseHistory": [

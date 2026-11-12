@@ -55,3 +55,22 @@ V2.41 was published in92d5bfd and all50 changed files, including42 screenshots, 
 ## Fresh current teacher panels
 
 All18guidepanelimagesnowcome frompublicteacher.html?demo=promo on12November. getPromoTeacherDashboardData supplies allfictionalnames,countsanddatedexamples. Nosaving/moderation/module-switchactionswereperformed. Screenscapturevisiblepanels,upto1100pxhigh;scrollablecellsandcolumnsareviewports,notcompleteexports. Theolder2NovemberpanelsremainunderhistoricalSections.
+
+
+## Four Market pathways restored —13November2026
+
+CE-CHANGE-20261113-151 corrects the reader, not the game. The previous refresh flattened the alternatives into one table and put the old selector under historical reference. The main Market screenshot now leads directly to four visible native dropdowns: Archon Engine, Notes, Mara’s Noodle Bar and Portfolio. Each contains its own walkthrough/screenshots.
+
+Eight fresh current public guest captures show the main choice page, hosted Archon test lobby, live Notes reading and response worksheet, Mara route/introduction, and the currently deployed anonymous portfolio builder/log. A12November fictional board capture from published Archon7597b1a remains explicitly dated; no new hosted room was created. Notes uses the live attributed adaptation, not a licensed original page. Portfolio screenshots do not certify or depict the separately pending repair. No personal information, banked entry, teacher submission or new backend is involved. Exact197 curriculum points and later phases are preserved.
+
+Source, current-image hash, native disclosure, Pages-path and public-byte verification precede completion. Concurrent Chapel/EST/portfolio work stays with its owner; publish only the Blueprint correction and merge against the actual latest public head.
+
+
+### Clarified switching layout —13November2026
+
+Tania clarified that the controls are small tabs between the main Market screenshot and a single shared dropdown. Archon Engine, Notes, Noodle Bar and Portfolio switch the information/screenshots in that one section. This supersedes the four-independent-dropdown local candidate, which was never published. The current live Notes and existing portfolio boundaries above remain. Native browser verification follows the actual Chrome approval outcome; a pending handoff is not approval.
+
+
+### Authorized native switching check
+
+Tania confirmed ongoing Chrome access. Supported native Chrome access returned the actual page without a pending permission prompt. Clicking Notes, Mara’s Noodle Bar, Portfolio and Archon Engine selected each tab and switched its screenshot table inside exactly one shared dropdown. The earlier access-pending checkpoint is superseded; public verification still follows publication. No approval mechanism or setting was bypassed.
