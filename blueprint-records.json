@@ -39038,6 +39038,28 @@
           "deployment": "Public92d5bfd2990056f52f4ac85a9fa79e5d19a9d067 verified live:50 exact file matches including42 captures; final closure metadata and overview wording follow separately.",
           "testing": "115/115 tests, TypeScript, scoped lint, production build and guarded Pages build pass.18 semantic views,197 exact points,12 phases,42 screenshot hashes. Actual live Start Here,Phase0/1 route maps,student zoom,teacher fit-width dropdown,places and illustrated pedagogy checked. Narrow layout measured520px, scrollable tables; not a390px claim. No real learner or school-service acceptance.",
           "taniaAcceptance": "Reviewrequested;newreader/aestheticacceptancepending. Realteacher/school/hostedmatchacceptanceexcluded."
+        },
+        {
+          "id": "CE-CHANGE-20261112-143",
+          "date": "2026-11-12",
+          "title": "Qualified self-service Archon frontend source review",
+          "domain": "Bounded self-service frontend exact-source review and guarded release",
+          "source": "Direct Tania publication approval in executing Integrate and test Initiative chat; independent exact41 qualification archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c.",
+          "owner": "Integrate and test Initiative: exact source review, guarded release and independent live verification",
+          "status": "Exact source review complete; game publication pending guard receipt",
+          "rationale": "Bind the exact qualified self-service Archon frontend without certifying hosted classroom acceptance",
+          "dependencies": [
+            "CE-CHANGE-20261112-140"
+          ],
+          "evidence": [
+            "docs/production/archon-self-service-release-20261112.md"
+          ],
+          "nextAction": "Publish and verify this bounded source-review record, issue the unchanged guard receipt, push exact41 and inspect actual public game/Market/map links.",
+          "designApproval": "Direct publication instruction from Tania in executing chat; not a school or hosted production acceptance.",
+          "implementation": "All 41 actual staged Git versions match independently qualified source; bounded review documents public links, tests, backend continuity and outstanding live acceptance.",
+          "deployment": "Not yet pushed; exact source review precedes guarded game release.",
+          "testing": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved.",
+          "taniaAcceptance": "Live game and Market/map review requested after publication."
         }
       ],
       "sessionStart": [
@@ -97778,6 +97800,332 @@
           }
         ],
         "projectChanges": {}
+      },
+      {
+        "changeId": "CE-CHANGE-20261112-143",
+        "title": "Qualified self-service Archon frontend source review",
+        "types": [
+          "release",
+          "governance"
+        ],
+        "status": "complete",
+        "objective": "Bind the exact qualified self-service Archon frontend without certifying hosted classroom acceptance",
+        "before": "Published Market frontend labels Archon unavailable; qualified self-service successor remains uncommitted.",
+        "after": "All 41 actual staged Git versions match independently qualified source; bounded review documents public links, tests, backend continuity and outstanding live acceptance.",
+        "source": "Direct Tania publication approval in executing Integrate and test Initiative chat; independent exact41 qualification archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c.",
+        "owner": "Integrate and test Initiative: exact source review, guarded release and independent live verification",
+        "nextAction": "Publish and verify this bounded source-review record, issue the unchanged guard receipt, push exact41 and inspect actual public game/Market/map links.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Blueprint maintainer:documentary coordination;actual source registration/protection requires appropriate scoped authority",
+          "scope": "Blueprint reporting of exact41 frontend source versions and separate existing hosted owner evidence; no new backend/security/learner-data operation.",
+          "rationale": "This source-binding record does not certify full hosted browser, school, classroom or real learner acceptance. Existing separately deployed capability service and owner cleanup evidence are explicitly attributed.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Canonical coordination and exact file-hash/proposal review only;no change to data controls,learner data,accounts,services or settings.",
+            "locations": "Canonical coordination and exact file-hash/proposal review only;no change to locations controls,learner data,accounts,services or settings.",
+            "accessCountries": "Canonical coordination and exact file-hash/proposal review only;no change to accessCountries controls,learner data,accounts,services or settings.",
+            "providers": "Canonical coordination and exact file-hash/proposal review only;no change to providers controls,learner data,accounts,services or settings.",
+            "lifecycle": "Canonical coordination and exact file-hash/proposal review only;no change to lifecycle controls,learner data,accounts,services or settings.",
+            "encryption": "Canonical coordination and exact file-hash/proposal review only;no change to encryption controls,learner data,accounts,services or settings.",
+            "logging": "Canonical coordination and exact file-hash/proposal review only;no change to logging controls,learner data,accounts,services or settings.",
+            "identity": "Canonical coordination and exact file-hash/proposal review only;no change to identity controls,learner data,accounts,services or settings.",
+            "isolation": "Canonical coordination and exact file-hash/proposal review only;no change to isolation controls,learner data,accounts,services or settings.",
+            "privacySafety": "Canonical coordination and exact file-hash/proposal review only;no change to privacySafety controls,learner data,accounts,services or settings.",
+            "applicability": "Canonical coordination and exact file-hash/proposal review only;no change to applicability controls,learner data,accounts,services or settings.",
+            "verification": "Canonical coordination and exact file-hash/proposal review only;no change to verification controls,learner data,accounts,services or settings."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "Actual41 Git/source hashes match clean-checkout qualification; 350 assets/104 imports and377 tests/80 files pass.",
+            "Desktop1280/390 UI/routes fixtures pass; all fresh hosted responses intercepted; no school or fresh hosted match claim."
+          ],
+          "reviewedBy": "Sole integrator exact41 working/index hashes and independent qualification reconciliation",
+          "reviewedAt": "2026-11-12",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": "Direct Tania approval to publish qualified frontend in this executing chat; existing backend opening approval and cleanup remain separate owner evidence.",
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "Record start impact of exact41 frontend release in the bounded review; preserve existing reader, curriculum and protected decisions.",
+            "records": [
+              "CE-CHANGE-20261112-143"
+            ],
+            "owner": "Integrate and test Initiative: exact source review, guarded release and independent live verification",
+            "acceptance": "Exact qualified frontend bindings and bounded release limits are explicit; no unverified game/live/classroom acceptance claim.",
+            "evidence": [
+              "docs/production/archon-self-service-release-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish and verify this bounded source-review record, issue the unchanged guard receipt, push exact41 and inspect actual public game/Market/map links."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "checked-unchanged",
+            "action": "Record roadmap impact of exact41 frontend release in the bounded review; preserve existing reader, curriculum and protected decisions.",
+            "records": [
+              "CE-CHANGE-20261112-143"
+            ],
+            "owner": "Integrate and test Initiative: exact source review, guarded release and independent live verification",
+            "acceptance": "Exact qualified frontend bindings and bounded release limits are explicit; no unverified game/live/classroom acceptance claim.",
+            "evidence": [
+              "docs/production/archon-self-service-release-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish and verify this bounded source-review record, issue the unchanged guard receipt, push exact41 and inspect actual public game/Market/map links."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Record history impact of exact41 frontend release in the bounded review; preserve existing reader, curriculum and protected decisions.",
+            "records": [
+              "CE-CHANGE-20261112-143"
+            ],
+            "owner": "Integrate and test Initiative: exact source review, guarded release and independent live verification",
+            "acceptance": "Exact qualified frontend bindings and bounded release limits are explicit; no unverified game/live/classroom acceptance claim.",
+            "evidence": [
+              "docs/production/archon-self-service-release-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish and verify this bounded source-review record, issue the unchanged guard receipt, push exact41 and inspect actual public game/Market/map links."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Record protocol impact of exact41 frontend release in the bounded review; preserve existing reader, curriculum and protected decisions.",
+            "records": [
+              "CE-CHANGE-20261112-143"
+            ],
+            "owner": "Integrate and test Initiative: exact source review, guarded release and independent live verification",
+            "acceptance": "Exact qualified frontend bindings and bounded release limits are explicit; no unverified game/live/classroom acceptance claim.",
+            "evidence": [
+              "docs/production/archon-self-service-release-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish and verify this bounded source-review record, issue the unchanged guard receipt, push exact41 and inspect actual public game/Market/map links."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Record exports impact of exact41 frontend release in the bounded review; preserve existing reader, curriculum and protected decisions.",
+            "records": [
+              "CE-CHANGE-20261112-143"
+            ],
+            "owner": "Integrate and test Initiative: exact source review, guarded release and independent live verification",
+            "acceptance": "Exact qualified frontend bindings and bounded release limits are explicit; no unverified game/live/classroom acceptance claim.",
+            "evidence": [
+              "docs/production/archon-self-service-release-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish and verify this bounded source-review record, issue the unchanged guard receipt, push exact41 and inspect actual public game/Market/map links."
+          },
+          {
+            "surface": "publication",
+            "disposition": "updated",
+            "action": "Record publication impact of exact41 frontend release in the bounded review; preserve existing reader, curriculum and protected decisions.",
+            "records": [
+              "CE-CHANGE-20261112-143"
+            ],
+            "owner": "Integrate and test Initiative: exact source review, guarded release and independent live verification",
+            "acceptance": "Exact qualified frontend bindings and bounded release limits are explicit; no unverified game/live/classroom acceptance claim.",
+            "evidence": [
+              "docs/production/archon-self-service-release-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish and verify this bounded source-review record, issue the unchanged guard receipt, push exact41 and inspect actual public game/Market/map links."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Record build impact of exact41 frontend release in the bounded review; preserve existing reader, curriculum and protected decisions.",
+            "records": [
+              "CE-CHANGE-20261112-143"
+            ],
+            "owner": "Integrate and test Initiative: exact source review, guarded release and independent live verification",
+            "acceptance": "Exact qualified frontend bindings and bounded release limits are explicit; no unverified game/live/classroom acceptance claim.",
+            "evidence": [
+              "docs/production/archon-self-service-release-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish and verify this bounded source-review record, issue the unchanged guard receipt, push exact41 and inspect actual public game/Market/map links."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Record recovery impact of exact41 frontend release in the bounded review; preserve existing reader, curriculum and protected decisions.",
+            "records": [
+              "CE-CHANGE-20261112-143"
+            ],
+            "owner": "Integrate and test Initiative: exact source review, guarded release and independent live verification",
+            "acceptance": "Exact qualified frontend bindings and bounded release limits are explicit; no unverified game/live/classroom acceptance claim.",
+            "evidence": [
+              "docs/production/archon-self-service-release-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish and verify this bounded source-review record, issue the unchanged guard receipt, push exact41 and inspect actual public game/Market/map links."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Record sources impact of exact41 frontend release in the bounded review; preserve existing reader, curriculum and protected decisions.",
+            "records": [
+              "CE-CHANGE-20261112-143"
+            ],
+            "owner": "Integrate and test Initiative: exact source review, guarded release and independent live verification",
+            "acceptance": "Exact qualified frontend bindings and bounded release limits are explicit; no unverified game/live/classroom acceptance claim.",
+            "evidence": [
+              "docs/production/archon-self-service-release-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish and verify this bounded source-review record, issue the unchanged guard receipt, push exact41 and inspect actual public game/Market/map links."
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "Record media impact of exact41 frontend release in the bounded review; preserve existing reader, curriculum and protected decisions.",
+            "records": [
+              "CE-CHANGE-20261112-143"
+            ],
+            "owner": "Integrate and test Initiative: exact source review, guarded release and independent live verification",
+            "acceptance": "Exact qualified frontend bindings and bounded release limits are explicit; no unverified game/live/classroom acceptance claim.",
+            "evidence": [
+              "docs/production/archon-self-service-release-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish and verify this bounded source-review record, issue the unchanged guard receipt, push exact41 and inspect actual public game/Market/map links."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "checked-unchanged",
+            "action": "Record decisions impact of exact41 frontend release in the bounded review; preserve existing reader, curriculum and protected decisions.",
+            "records": [
+              "CE-CHANGE-20261112-143"
+            ],
+            "owner": "Integrate and test Initiative: exact source review, guarded release and independent live verification",
+            "acceptance": "Exact qualified frontend bindings and bounded release limits are explicit; no unverified game/live/classroom acceptance claim.",
+            "evidence": [
+              "docs/production/archon-self-service-release-20261112.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Publish and verify this bounded source-review record, issue the unchanged guard receipt, push exact41 and inspect actual public game/Market/map links."
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "modules/archon-careers/hosted/archon-room-client.mjs": "100644:85bc78105c2bf100bdd59ce1bf0a2bc16ad030bb",
+            "modules/archon-careers/hosted/archon-room-poller.mjs": "100644:9c6600ed51a685d97486a4be4efdd4cbe2970669",
+            "modules/archon-careers/hosted/art/arcade-crown.glb": "100644:dd732fe6111eeefe2523f575e0bd227bb90fb286",
+            "modules/archon-careers/hosted/art/archon-gameplay-poster.jpg": "100644:50dbd3c78243c89d654f1ec8c2aa28e6e0075734",
+            "modules/archon-careers/hosted/art/archon-gameplay.mp4": "100644:6d3139b18df1350c4d589d9b65d692bdc232732a",
+            "modules/archon-careers/hosted/art/hair-bob.glb": "100644:15904c952a08eb1b2f576b26df09aabf9972e2e7",
+            "modules/archon-careers/hosted/art/hair-sweep.glb": "100644:94b3bfc2efb87167f5571ed2e4a150cf2e456f85",
+            "modules/archon-careers/hosted/art/hospital-scrub-top.glb": "100644:fd3ebdcce59abfb718dfb7c25ba1cae78a54ef4e",
+            "modules/archon-careers/hosted/art/initiative-guide.png": "100644:ef5e17bc2e18ddd91a11d4def318804a4269702c",
+            "modules/archon-careers/hosted/art/neckline-skin.glb": "100644:451a78c6107c8ee3ed2b77f45d0cfe0c589c81d1",
+            "modules/archon-careers/hosted/art/occupational-pants-scrubs.glb": "100644:85ba0951a0ce6c3bd57873c68342306c60ed5b76",
+            "modules/archon-careers/hosted/art/occupational-pants-tradie.glb": "100644:c3c2455a729f8a2e9e7662b01d5ca601effa8b77",
+            "modules/archon-careers/hosted/art/occupational-top-work.glb": "100644:ee40f41cbd7cdf422a9f550f64e3f2553e58dc91",
+            "modules/archon-careers/hosted/art/perth-dusk-panorama.jpg": "100644:211b5351edbd6df068ab3bdfdd5bcb6bb7fc167b",
+            "modules/archon-careers/hosted/art/shoes-boots.glb": "100644:6b927e216e69e963241ef7ef354e7928d3a64588",
+            "modules/archon-careers/hosted/art/shoes-clogs.glb": "100644:f01c60c59421bd48a1c8322fab4787594f22e989",
+            "modules/archon-careers/hosted/art/studio-walking-base.glb": "100644:6f8a9bc5543ee9d77189e5f7a7548d6e1f6f8238",
+            "modules/archon-careers/hosted/art/waterfront-facades.png": "100644:113b970da15b9f9a88631134e41dd598a98b356a",
+            "modules/archon-careers/hosted/board-rules.mjs": "100644:a240ae894123ffe5acc925aefdb7f8e9fc0f1b47",
+            "modules/archon-careers/hosted/index.html": "100644:6df70192abaead45a17abc36887558540345a23c",
+            "modules/archon-careers/hosted/parallel/gameplay/match-client.mjs": "100644:cb4a02317d89a956829773ed94ccce764b03fcdf",
+            "modules/archon-careers/hosted/parallel/gameplay/player.css": "100644:11013cc44610d42268dc0521f19a81d79a740eb4",
+            "modules/archon-careers/hosted/parallel/gameplay/plaza-doors.mjs": "100644:03ea6d5ca04867186b303bfa56fd293f6e0a3dbb",
+            "modules/archon-careers/hosted/parallel/pieces/showcase-pieces.mjs": "100644:12209d76f787c064739f6f3c106981aaca525a91",
+            "modules/archon-careers/hosted/preview.html": "100644:098d02ce5a8d16c0d67c83ec50b03eac5f1dd526",
+            "modules/archon-careers/hosted/preview.js": "100644:fb79a08ade9a964233c9b1132c4457b14376eff3",
+            "modules/archon-careers/hosted/vendor/loaders/GLTFLoader.js": "100644:38f8c14fb500631f01d39cd54c202eefddcf0987",
+            "modules/archon-careers/hosted/vendor/three.core.js": "100644:7dcd0fbcbc04b8d9a20ecb96c1ce344cb55150d5",
+            "modules/archon-careers/hosted/vendor/three.module.js": "100644:477ca4dafa7af919a2b9818e01b5ae25198d4aa4",
+            "modules/archon-careers/hosted/vendor/utils/BufferGeometryUtils.js": "100644:c84dc7b2bbc99849373e17a6efae609e326f9536",
+            "modules/archon-careers/hosted/vendor/utils/SkeletonUtils.js": "100644:e208c7422862941bc55a4cfca4fd2b3a91285954",
+            "playable-3d/app.js": "100644:3e9138eed754553884a493bd682696930adbb518",
+            "playable-3d/guest-shell.mjs": "100644:4d8f1df43d041155fb0c9873d05f5fcadec516cf",
+            "playable-3d/index.html": "100644:933787ed8f536b15fd7b3021cbf5b1ed04a11fb3",
+            "playable-3d/market-archon.mjs": "100644:2b6bdfa68a9801656e48239e5d00ec3b049021bb",
+            "playable-3d/market-learning-routes.mjs": "100644:06a5b3b6299ec714400a46cc3e0e26c006e2525f",
+            "playable-3d/night-market.js": "100644:00155c66902f168dd4ef64438878e6e7538e4f70",
+            "playable-3d/release-manifest.json": "100644:2564a702808f23f18ca3829d70a361ec0f3d8229",
+            "scripts/dev-check.mjs": "100644:7996eca625bcdf303649286d72172e42cc9e5c47",
+            "scripts/js-syntax-check.mjs": "100644:cee07943f27e128472f0dc273919262ccd7cbdd4",
+            "tests/unit/dev-check-syntax.test.mjs": "100644:0f6728b5c5f5d43afc50305afa3d9216a543ab19"
+          }
+        }
       }
     ],
     "releaseHistory": [

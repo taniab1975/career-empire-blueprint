@@ -1,8 +1,8 @@
 {
   "sourceCommit": "45fd704ace479f7d1936107c9bf197273667e736",
-  "generatedAt": "2026-11-12T03:01:16.774Z",
+  "generatedAt": "2026-11-12T05:45:49.722867+00:00",
   "revision": "V2.41 / 12 November 2026",
-  "recordSha256": "e445041d7ecdfcdbfc441eb185e5c7a2b24a4142551d742f9c05cf91e08a6104",
+  "recordSha256": "4e10e12ddaf0940be8f018bd49829878b0132c861772432cb84ca69851cb1153",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -39,10 +39,6 @@
     {
       "path": "assets/index-ukGF-7-G.css",
       "sha256": "82a8a5adcbbe2920fe5ab8c6ea09ccc8b8fe8d7aaa8d1e2a753d2130f8df4a89"
-    },
-    {
-      "path": "blueprint-records.json",
-      "sha256": "e445041d7ecdfcdbfc441eb185e5c7a2b24a4142551d742f9c05cf91e08a6104"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -2831,9 +2827,21 @@
     {
       "path": "st4s-readiness.json",
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
+    },
+    {
+      "path": "blueprint-records.json",
+      "sha256": "4e10e12ddaf0940be8f018bd49829878b0132c861772432cb84ca69851cb1153"
+    },
+    {
+      "path": "production/archon-self-service-release-20261112.md",
+      "sha256": "aac94f5865b6a0e8f0abf91f2eac68770ae11fef0d6173b03906aa7b8b95ae1c"
+    },
+    {
+      "path": "production/archon-self-service-release-20261112.html",
+      "sha256": "fecd858ef8c0e30cb8d34c6807b8f9d837619ff280761e91a3ec456acb83929d"
     }
   ],
-  "recordPublicationScope": "Blueprint142 current reader/screenshots only; public139/140 preserved;141CI and game/Archon releases excluded.",
+  "recordPublicationScope": "Preserve V2.41 reader and prior records; add exact41 Archon frontend source-review143 only. Game push and acceptance separate.",
   "sourceRecovery": "Tested source saved in local Git; separate private recovery upload rejected by automatic approval review and not retried.",
   "verificationLimits": "Live StartHere,Phase0/1,student zoom,teacher fit-width dropdown,places and pedagogy verified. Narrow layout actual520px with local table scrolling. Guest/fictional captures only; no school or authenticated teacher acceptance."
 }
