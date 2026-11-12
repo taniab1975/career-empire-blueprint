@@ -1,8 +1,8 @@
 {
   "sourceCommit": "09fdb6c243ead8c8986153f3ca6fa9ea36b1aa4b",
-  "generatedAt": "2026-11-12T00:15:25.355225+00:00",
+  "generatedAt": "2026-11-12T00:21:55.098159+00:00",
   "revision": "V2.40 / 3 November 2026",
-  "recordSha256": "244bbd8bedd2534b19e3e9cb50aa7d0bbb0bf15c1a8fde0d1f61e633d5011778",
+  "recordSha256": "4856c717596aba03e1b1d6f25fb5db3a2a6eb613f5652b20ffe18ca3d1e21828",
   "files": [
     {
       "path": "assets/curriculum-planner-CaXpHcay.js",
@@ -22,7 +22,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "244bbd8bedd2534b19e3e9cb50aa7d0bbb0bf15c1a8fde0d1f61e633d5011778"
+      "sha256": "4856c717596aba03e1b1d6f25fb5db3a2a6eb613f5652b20ffe18ca3d1e21828"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -2640,7 +2640,7 @@
   "recordPublicationScope": "Exact3source-review140only;priorrecords/publicapp/contentpreserved;gamepushseparate.",
   "recordSourceReview": {
     "integration": "CE-CHANGE-20261112-140",
-    "phase": "ready",
+    "phase": "complete",
     "sourceProjectId": "game-initiative-release-20261111",
     "baseline": "d3544e129682381d397417c08bed0242d5e58d88",
     "head": "20842798a99c73aca47fa09c2f57335d24487bf9",
