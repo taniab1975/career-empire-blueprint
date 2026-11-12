@@ -1,8 +1,8 @@
 {
   "sourceCommit": "45fd704ace479f7d1936107c9bf197273667e736",
-  "generatedAt": "2026-11-12T10:40:36.564299+00:00",
+  "generatedAt": "2026-11-12T15:33:54.939512+00:00",
   "revision": "V2.41 / 12 November 2026",
-  "recordSha256": "422708c51af62d8afbe53c137eead47c4db6384551451f63b4681b0d81fa8216",
+  "recordSha256": "a343f98ae19a08f9a8fcaea773bdd6b8ef986fd5143b36512128b5124b581918",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -2373,10 +2373,6 @@
       "sha256": "bcc9d7b9511060fb642567cb50bb3e3eb631256af9a538e5ced5b6521702e9a7"
     },
     {
-      "path": "production/year-map-coverage-20260925.md",
-      "sha256": "1c8bc439fb5b1c569ebb7757a3a3f48c0b21e87de15a1465b193b599e8a35209"
-    },
-    {
       "path": "references/CE-BLDG-001-home-base.png",
       "sha256": "6dff0798cb4f28604501ef161a65e72f65a7e04b63d3846cf5d2dfbca68b969e"
     },
@@ -2837,10 +2833,6 @@
       "sha256": "9832671ebb58d58a33c729d503e508ffad0d6229bf37171d19d2e4dbc1b80f9a"
     },
     {
-      "path": "blueprint-records.json",
-      "sha256": "422708c51af62d8afbe53c137eead47c4db6384551451f63b4681b0d81fa8216"
-    },
-    {
       "path": "production/archon-readable-board-20261112.md",
       "sha256": "556212cc684841eb3ce35d4f89ac49fe5d4ca39074be85bb299aebe28f643c22"
     },
@@ -2849,19 +2841,43 @@
       "sha256": "cf2b42cf2f64395ed114eac19e90300779e820f91993a1f2eca757c92b0856b5"
     },
     {
+      "path": "blueprint-records.json",
+      "sha256": "a343f98ae19a08f9a8fcaea773bdd6b8ef986fd5143b36512128b5124b581918"
+    },
+    {
+      "path": "production/initiative-notes-worksheet-20261112.md",
+      "sha256": "36ba8fd3a6d2f57e7792e925ab41bc459bf3268d524763aa8020a023d878e494"
+    },
+    {
+      "path": "production/initiative-notes-worksheet-20261112.html",
+      "sha256": "fa991c30182e4f7f50d02428f2e21f4bb75cbd49fa528a86b86f4f5f20731516"
+    },
+    {
       "path": "production/current-state.md",
-      "sha256": "2b910e1ef5c196af46b22305cdee2cdaadb79ef7bd193b2d9a055a4eb45976e8"
+      "sha256": "4c6d085ab9e17f6e26d22286d715eccc1b84ac5352cb2c4d33e6a1316eab7eec"
     },
     {
       "path": "production/current-state.html",
-      "sha256": "905df6e33d427e343cb07e35f77e9edb88200c7c057afca32311b9f9d4e06a6a"
+      "sha256": "ecf64aca31463c56b2eccca845565263bc93bdb9353f4227b85152db069bee0e"
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "669f1835ba5223a92d852993ee444a65313b8c0a99e14fedb4bda4180f510d86"
+      "sha256": "cd0a1dff4f5d677d022d82ecc23ffa52454fc71decebfa5322ff11a85b9197f7"
+    },
+    {
+      "path": "production/year-map-coverage-20260925.md",
+      "sha256": "0a4555eadb281669a1bddfe39692bab3585432cb778c79feceb8a5c924dc73db"
+    },
+    {
+      "path": "evidence/notes-worksheet-20261112/worksheet-1920.png",
+      "sha256": "96c7e534e9a8efe669720d9cbae0e6322ffba719a6edda959d72696fe58e1c93"
+    },
+    {
+      "path": "evidence/notes-worksheet-20261112/worksheet-390.png",
+      "sha256": "17d9d5b327bef22d5ae562cb23926b510aadc2f2833a4f292f584e3efac9d69c"
     }
   ],
-  "recordPublicationScope": "Preserve V2.41 reader bundles/screenshots and all integration objects; close exact144 game release evidence and current actions only.",
+  "recordPublicationScope": "Preserve prior V2.41 reader, all integration objects and game releases; add145 exact Notes source review, explicit curriculum provision and two staged actual-game screenshots only.",
   "sourceRecovery": "Tested source saved in local Git; separate private recovery upload rejected by automatic approval review and not retried.",
   "verificationLimits": "Live StartHere,Phase0/1,student zoom,teacher fit-width dropdown,places and pedagogy verified. Narrow layout actual520px with local table scrolling. Guest/fictional captures only; no school or authenticated teacher acceptance."
 }

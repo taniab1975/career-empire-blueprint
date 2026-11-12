@@ -630,3 +630,15 @@ The 115 count is a structural count, not an exhaustive count of every skill comp
 A scoped structural check must confirm all 82 IDs exactly once in the parent table, all 115 ordered nested bullets, correct original experience links, valid proposed references, the Unit 3/4 boundary and unchanged curriculum source. This verifies **the document's mapping integrity**, not syllabus delivery, adequate duration, assessment validity, student achievement or public-reader parity. See the canonical handoff and `private/production-evidence/2026-09-25/year-map/verification.json` for actual results.
 
 Next after review: detailed work on the **existing market** as the purpose-first framework pilot. The remaining year is progressively designed from this map; no market expansion, new master document or publication is implied.
+
+## Notes teaching provision — 12 November 2026
+
+CE-CHANGE-20261112-145 adds a source-qualified Notes candidate, not whole-course or classroom completion. See [exact source and checks](initiative-notes-worksheet-20261112.md).
+
+| Exact point | Source → explicit teaching → practice/evidence | Remaining boundary |
+|---|---|---|
+| CEM12-U3-EB-01 | Carolan2.05 printed24 → attributed adapted reading → own-words definition and transfer explanation. | Written responses need human review; completing the page is not mastery. |
+| CEM12-U3-EB-02 and d1–d5 | Carolan printed24 five actions, alongside existing printed25–27 reference → five source labels/shared meanings → existing shared-bank examples and explanation. | Independent observed use of each behaviour is not established by a reading or MCQ. |
+| CEM12-U3-EB-03 and d1–d3 | Existing printed28–31 references retained; Ella24 supports a concrete trust/workflow example → action-to-effect explanation and existing efficiency MCQ. | Full nested-benefit and transfer evidence remains open; no guaranteed promotion or pay-as-mastery claim. |
+
+The shared content bank/source IDs and existing2027 curriculum ledger remain unchanged. Older slide innovation content is outside this bounded worksheet. Guest response drafts are tab-only, not confirmed teacher submissions. Game publication and CEAWA screenshot placement remain separate from this source-qualified provision.
