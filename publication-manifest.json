@@ -1,6 +1,6 @@
 {
   "sourceCommit": "45fd704ace479f7d1936107c9bf197273667e736",
-  "generatedAt": "2026-11-12T10:38:14.760990+00:00",
+  "generatedAt": "2026-11-12T10:40:36.564299+00:00",
   "revision": "V2.41 / 12 November 2026",
   "recordSha256": "422708c51af62d8afbe53c137eead47c4db6384551451f63b4681b0d81fa8216",
   "files": [
@@ -2846,7 +2846,7 @@
     },
     {
       "path": "production/archon-readable-board-20261112.html",
-      "sha256": "a84cd1a5785344a3150bdc7e39ef785c09e8edc03f2b4ca257b2596c7261e9a1"
+      "sha256": "cf2b42cf2f64395ed114eac19e90300779e820f91993a1f2eca757c92b0856b5"
     },
     {
       "path": "production/current-state.md",
@@ -2854,7 +2854,7 @@
     },
     {
       "path": "production/current-state.html",
-      "sha256": "cc119239ad31813e0060d4527f4b9b9e8cbddc926f7ec8b38465de66e013109a"
+      "sha256": "905df6e33d427e343cb07e35f77e9edb88200c7c057afca32311b9f9d4e06a6a"
     },
     {
       "path": "production/material-changes.md",
