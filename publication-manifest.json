@@ -1,9 +1,13 @@
 {
-  "sourceCommit": "818ee3f3249a140df1c44c38173d225455de951e",
-  "generatedAt": "2026-11-12T02:43:39.990Z",
+  "sourceCommit": "45fd704ace479f7d1936107c9bf197273667e736",
+  "generatedAt": "2026-11-12T03:01:16.774Z",
   "revision": "V2.41 / 12 November 2026",
-  "recordSha256": "79ec088695eeb94506d9e6c4229a98ee85b4aa81da910b82e4715c4fd72b3f61",
+  "recordSha256": "e445041d7ecdfcdbfc441eb185e5c7a2b24a4142551d742f9c05cf91e08a6104",
   "files": [
+    {
+      "path": "assets/curriculum-planner-BmcShUhY.js",
+      "sha256": "62773d53285d662fa66a5851e496b777270f50516d9e4c828d8ae7d34d551243"
+    },
     {
       "path": "assets/curriculum-planner-CaXpHcay.js",
       "sha256": "1b7e9d9677e4a0936bf5c5a179e0b8ed95813da177871f7a38e48b877f3a9ce3"
@@ -25,6 +29,10 @@
       "sha256": "47620212231c2db311346c95dd8c0004c7a5617f538921f274f573b6d1ca26ca"
     },
     {
+      "path": "assets/index-F8ORlXEQ.js",
+      "sha256": "9357914ec70afec17a97308b8c38a002720faa1b0614846a094a47ac43be9118"
+    },
+    {
       "path": "assets/index-phase-access-58c559ab1c.js",
       "sha256": "58c559ab1cb710b87a4af84658c9db97d283b6485be6e0c50bb8e09d2f0a0ed8"
     },
@@ -34,7 +42,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "79ec088695eeb94506d9e6c4229a98ee85b4aa81da910b82e4715c4fd72b3f61"
+      "sha256": "e445041d7ecdfcdbfc441eb185e5c7a2b24a4142551d742f9c05cf91e08a6104"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1670,7 +1678,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "2378f543f9be3497e75d9135f3e19e03c1a5da602955f9015d9dba51ececc3f3"
+      "sha256": "d68880e10525ad4357f03054624614413e5f7683dc20ef637e3e3c5b85e2471d"
     },
     {
       "path": "playable-3d/app.js",
@@ -2162,11 +2170,11 @@
     },
     {
       "path": "production/live-game-review-20261112.html",
-      "sha256": "25eff409d10637f604b9fd5f3b51f455764ecb2595468b1d1d2f2a4b039a106c"
+      "sha256": "c05b44fecad8bbf628f2f8cf0953c487bf467a5997ac93cf25aaf5dba795d957"
     },
     {
       "path": "production/live-game-review-20261112.md",
-      "sha256": "276258b1cf60a16eb7b64ea027edc71c1d6f069efb3cd0e81bcc806a4b0bfda3"
+      "sha256": "0a1cf5bba12be892069a929bfb410539feac33b0c605c1f866ac067d09d175da"
     },
     {
       "path": "production/local-economy-20260923.md",
@@ -2826,6 +2834,6 @@
     }
   ],
   "recordPublicationScope": "Blueprint142 current reader/screenshots only; public139/140 preserved;141CI and game/Archon releases excluded.",
-  "sourceRecovery": "Tested local commit818ee3f; separate private recovery upload rejected by automatic approval review and not retried.",
-  "verificationLimits": "Desktop Phase1 and teacher dropdowns checked locally. Fresh responsive test interrupted by browser connection timeout. Guest/fictional captures only; no school or authenticated teacher acceptance."
+  "sourceRecovery": "Tested source saved in local Git; separate private recovery upload rejected by automatic approval review and not retried.",
+  "verificationLimits": "Live StartHere,Phase0/1,student zoom,teacher fit-width dropdown,places and pedagogy verified. Narrow layout actual520px with local table scrolling. Guest/fictional captures only; no school or authenticated teacher acceptance."
 }

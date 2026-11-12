@@ -1,6 +1,6 @@
 # Current game and Blueprint screenshot review
 
-12 November 2026 · CE-CHANGE-20261112-142 · V2.41 candidate
+12 November 2026 · CE-CHANGE-20261112-142 · V2.41 published review
 
 The public game and Pages revision were69aa78e at this review. Screens were captured using ordinary public guest and local fictional-demo controls. No game code, account settings or real learner records were changed.
 
@@ -49,7 +49,7 @@ Start Here, Phase0/1 walkthroughs and route maps, places, student progress, peda
 
 ## Release boundary
 
-Readerverification andpublicpublication are pending in this candidate. Existing blocked141CIworkflowpublication is excluded;139/140history remains unchanged. Realgame fixes and hostedArchon work stay with their owners.
+V2.41 was published in92d5bfd and all50 changed files, including42 screenshots, were verified against the served bytes. Live browser checks covered Start Here, Phase0/1, student screenshots, teacher details, places and pedagogy. The narrow check measured520px; tables scroll within the page. The final metadata close-out is verified separately. Blocked CI publication141 and separate Archon/game releases remain excluded;139/140 public history is unchanged. The tested source is saved locally; a separate private-source backup push was rejected by automatic approval review and was not retried.
 
 
 ## Fresh current teacher panels
