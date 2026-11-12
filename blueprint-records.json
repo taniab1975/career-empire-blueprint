@@ -39060,6 +39060,28 @@
           "deployment": "Archon 6d4c793c20b0e5c163f9758cc332a719e87108d3 published and verified at the actual Career Empire GitHub Pages site. All350 served asset hashes match; desktop1280/phone390 standalone/native video/Market choices/Journal-map/location-guide/Back preserve the same run, with zero page errors or missing responses. Genuine hosted fictional-room create, two joins, adjudicator start, board for all three seats and all-three reload/resume pass; no intercepted responses in this hosted smoke. Full hosted match and Safari/classroom acceptance remain separate. Tania live review pending. Separate staged CI runner fix preserved; software browser CI dependency installation still fails, so no all-CI-green claim.",
           "testing": "Actual41 working/index SHA256 and Git binding reconciliation; independent clean-checkout source/unit/route/UI evidence verified, archive 9a4044f9f5271dadd292289eab74a551604d3f0714beb7a28f4a20938837c05c. Source-review documentation distinguishes candidate, release and acceptance; unrelated public surfaces preserved. Actual publication verification: Archon 6d4c793c20b0e5c163f9758cc332a719e87108d3 published and verified at the actual Career Empire GitHub Pages site. All350 served asset hashes match; desktop1280/phone390 standalone/native video/Market choices/Journal-map/location-guide/Back preserve the same run, with zero page errors or missing responses. Genuine hosted fictional-room create, two joins, adjudicator start, board for all three seats and all-three reload/resume pass; no intercepted responses in this hosted smoke. Full hosted match and Safari/classroom acceptance remain separate. Tania live review pending. Separate staged CI runner fix preserved; software browser CI dependency installation still fails, so no all-CI-green claim.",
           "taniaAcceptance": "Live game and Market/map review requested after publication."
+        },
+        {
+          "id": "CE-CHANGE-20261112-144",
+          "date": "2026-11-12",
+          "title": "Readable Archon match page, clear seat cameras and start overview",
+          "domain": "Bounded Archon presentation, visibility, accessibility and hosted acceptance",
+          "source": "Direct Tania executing-chat release approval and subsequent supplied UI/camera feedback; CE-DISCUSSION-74a94ef4-3140-4f34-a5ec-75688a4072c9.",
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "status": "Qualified source review ready; game publication pending",
+          "rationale": "Repair reported board obstruction and match-page readability without altering Perth world or game/security rules",
+          "dependencies": [
+            "CE-CHANGE-20261112-143"
+          ],
+          "evidence": [
+            "docs/production/archon-readable-board-20261112.md"
+          ],
+          "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending.",
+          "designApproval": "Tania requested the supplied front-view/readability/loop/overview changes; final appearance review pending. Existing Exit/cleanup retained.",
+          "implementation": "Seven source files at game baseline6d4c793: responsive warm-stone/teal header and larger readable Game ID; native existing lobby MP4 loops; both seats use the clear promenade-side camera with bounded orbit/zoom. A roughly3.6-second rendered-time overview is skippable and respects reduced motion. Start timing follows scene preparation, and the Skip overlay sits above the WebGL canvas. Reset/rejoin restore the whole-board view. Perth buildings, characters, game rules, scoring, private seat handling and hosted service/security are unchanged.",
+          "deployment": "Game successor not yet published; legitimate source review/receipt precedes guarded push.",
+          "testing": "Final source checks pass;382 tests across81 files pass with unchanged test limits, and351 asset hashes/104 reachable imports pass. Earlier concurrent worker/screenshot timeouts are retained; serial checks pass. Both seats at1280px and390px fit all64 square centres with no genuine world geometry in the rays, and Game ID text is at least26px. Reset and real pointer drags stay on the promenade side. Actual native video wrap, real Start/Skip hit target, automatic settling, reduced-motion bypass and ordinary Market/classroom-gate return pass with no page or HTTP errors. One owned fictional room completed8 duels across saved-room continuations, with both submissions, no pre-reveal answers in any seat payload/DOM, simultaneous reveal, adjudicator verdicts, territory persistence, three-seat rejoin and correct Teal win/Amber loss. That run exposed the final Skip issue before its repair; the unchanged game handlers/service were then paired with a new genuine Start/Skip/camera/Market-return retest of the final presentation repair. No hosted service responses were intercepted. Only hash-verified frontend/static resources were overlaid for staged browser qualification. The old room was confirmed unavailable before the one new final UI room was created. Private seat credentials remain private and are excluded from publication.",
+          "taniaAcceptance": "Tania live/appearance acceptance and classroom/device checks are separate."
         }
       ],
       "sessionStart": [
@@ -98124,6 +98146,451 @@
             "scripts/dev-check.mjs": "100644:7996eca625bcdf303649286d72172e42cc9e5c47",
             "scripts/js-syntax-check.mjs": "100644:cee07943f27e128472f0dc273919262ccd7cbdd4",
             "tests/unit/dev-check-syntax.test.mjs": "100644:0f6728b5c5f5d43afc50305afa3d9216a543ab19"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261112-144",
+        "title": "Readable Archon match page, clear seat cameras and start overview",
+        "types": [
+          "implementation",
+          "visual",
+          "release",
+          "governance"
+        ],
+        "status": "complete",
+        "objective": "Repair reported board obstruction and match-page readability without altering Perth world or game/security rules",
+        "before": "Published6d4c793 works, but Game ID is too small and unrestricted Player B orbit can go behind shop backs; no opening overview or native video loop.",
+        "after": "Seven source files at game baseline6d4c793: responsive warm-stone/teal header and larger readable Game ID; native existing lobby MP4 loops; both seats use the clear promenade-side camera with bounded orbit/zoom. A roughly3.6-second rendered-time overview is skippable and respects reduced motion. Start timing follows scene preparation, and the Skip overlay sits above the WebGL canvas. Reset/rejoin restore the whole-board view. Perth buildings, characters, game rules, scoring, private seat handling and hosted service/security are unchanged.",
+        "source": "Direct Tania executing-chat release approval and subsequent supplied UI/camera feedback; CE-DISCUSSION-74a94ef4-3140-4f34-a5ec-75688a4072c9.",
+        "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+        "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "Frontend presentation/camera/video loop only; same existing game commands, public configuration and hosted service. Fictional browser tests use ordinary authorized seats.",
+          "rationale": "No new data field, provider, storage path, role permission, auth/gateway, telemetry or security setting is introduced. Private seat capabilities never enter captures or public exports.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "This UI/camera patch keeps the existing data architecture and data paths. Only fictional normal-game tests were used; school/hosting/compliance acceptance is not newly certified. Private seat credentials are neither displayed nor exported.",
+            "locations": "This UI/camera patch keeps the existing locations architecture and data paths. Only fictional normal-game tests were used; school/hosting/compliance acceptance is not newly certified. Private seat credentials are neither displayed nor exported.",
+            "accessCountries": "This UI/camera patch keeps the existing accessCountries architecture and data paths. Only fictional normal-game tests were used; school/hosting/compliance acceptance is not newly certified. Private seat credentials are neither displayed nor exported.",
+            "providers": "This UI/camera patch keeps the existing providers architecture and data paths. Only fictional normal-game tests were used; school/hosting/compliance acceptance is not newly certified. Private seat credentials are neither displayed nor exported.",
+            "lifecycle": "This UI/camera patch keeps the existing lifecycle architecture and data paths. Only fictional normal-game tests were used; school/hosting/compliance acceptance is not newly certified. Private seat credentials are neither displayed nor exported.",
+            "encryption": "This UI/camera patch keeps the existing encryption architecture and data paths. Only fictional normal-game tests were used; school/hosting/compliance acceptance is not newly certified. Private seat credentials are neither displayed nor exported.",
+            "logging": "This UI/camera patch keeps the existing logging architecture and data paths. Only fictional normal-game tests were used; school/hosting/compliance acceptance is not newly certified. Private seat credentials are neither displayed nor exported.",
+            "identity": "This UI/camera patch keeps the existing identity architecture and data paths. Only fictional normal-game tests were used; school/hosting/compliance acceptance is not newly certified. Private seat credentials are neither displayed nor exported.",
+            "isolation": "This UI/camera patch keeps the existing isolation architecture and data paths. Only fictional normal-game tests were used; school/hosting/compliance acceptance is not newly certified. Private seat credentials are neither displayed nor exported.",
+            "privacySafety": "This UI/camera patch keeps the existing privacySafety architecture and data paths. Only fictional normal-game tests were used; school/hosting/compliance acceptance is not newly certified. Private seat credentials are neither displayed nor exported.",
+            "applicability": "This UI/camera patch keeps the existing applicability architecture and data paths. Only fictional normal-game tests were used; school/hosting/compliance acceptance is not newly certified. Private seat credentials are neither displayed nor exported.",
+            "verification": "This UI/camera patch keeps the existing verification architecture and data paths. Only fictional normal-game tests were used; school/hosting/compliance acceptance is not newly certified. Private seat credentials are neither displayed nor exported."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "Exact7 working/index/blob hashes and final382/81 unit/source checks;351/104 manifest/import checks.",
+            "Genuine hosted8-duel privacy/reveal/verdict/territory/rejoin/end evidence plus final realStart/Skip/reduced-motion/camera/Market return; no service mocks."
+          ],
+          "reviewedBy": "Sole integrator exact source diff, real hosted privacy/submission/gameplay and final UI qualification review",
+          "reviewedAt": "2026-11-12",
+          "productionComplete": false,
+          "releasePurpose": "product-change",
+          "securityApproval": "Direct frontend publication approval; no authorization or change to backend security/settings is inferred.",
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "Document exact7 start impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Document exact7 roadmap impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Document exact7 history impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Document exact7 protocol impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Document exact7 exports impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "publication",
+            "disposition": "updated",
+            "action": "Document exact7 publication impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Document exact7 build impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Document exact7 flow impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "Document exact7 teacher impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Document exact7 recovery impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Document exact7 media impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "Document exact7 assets impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Document exact7 visuals impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "Document exact7 buildings impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Document exact7 avatars impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "Document exact7 world impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Document exact7 decisions impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Document exact7 sources impact in the reviewed release/current-state pages; preserve unchanged game assets, teacher/auth flows and curriculum.",
+            "records": [
+              "CE-CHANGE-20261112-144"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Actual exact source and staged browser evidence are explicit; publication, Tania appearance acceptance and school/classroom acceptance remain separate.",
+            "evidence": [
+              "docs/production/archon-readable-board-20261112.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact7 source/index/diff reviewed; final static382/81 and351/104, genuine hosted game and rendered1280/390 evidence reconciled. New reader document checked against those exact sources; unchanged targets explicitly retain their prior scope. Actual new reader HTML at1280/390 fits without horizontal overflow and both rendered images load.",
+              "date": "2026-11-12"
+            },
+            "nextAction": "Verify and publish this exact source record, create genuine seven-file receipt, push normally and independently inspect actual live game; Tania review remains pending."
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "modules/archon-careers/hosted/index.html": "100644:4ebd4002e3982648b4ea3599575faa676722f366",
+            "modules/archon-careers/hosted/parallel/gameplay/board-camera.mjs": "100644:26e6aa2dcff100c55479a45cc8e009367df53cc1",
+            "modules/archon-careers/hosted/parallel/gameplay/player.css": "100644:357c619981b44dff41860417c08ab340f1622c25",
+            "modules/archon-careers/hosted/preview.html": "100644:8bf0b878080b9ed6ae6a086d3eaea2fd83dbc302",
+            "modules/archon-careers/hosted/preview.js": "100644:4823e7d37f3d07764eba4f804e7977032165073d",
+            "playable-3d/release-manifest.json": "100644:94b8fcc5dbba944e9158f6f0164a00603a9f7bd4",
+            "tests/unit/archon-camera.test.mjs": "100644:513204956e0914c7e730c5847d378dd190ea22db"
           }
         }
       }

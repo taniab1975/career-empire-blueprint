@@ -2139,3 +2139,7 @@ Earlier Atlas app/atlasData.ts designPrinciples; retained with V2-D01–17 clari
 - The opening shows intriguing possibility, not finished abundance.
 - Complexity must earn its place.
 - Only approved, bounded work moves into production.
+
+## CE-CHANGE-20261112-144 — Readable Archon source review
+
+Exact7 actual staged versions independently reviewed;382/81 static tests,351/104 manifest/imports, genuine hosted8-duel game evidence and final native Skip/reduced-motion/both-seat camera/Market return pass. Source integration complete; normal guarded game publication and Tania appearance acceptance remain separate. [Reviewed scope](archon-readable-board-20261112.html).

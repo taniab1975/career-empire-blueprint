@@ -317,3 +317,7 @@ Current screenshot/gallery/register integration remains pending: the September13
 Cold-start measurements reported at4Mbps/100ms/4×CPU: first view4.9–7.1s, avatar17.8–22.3s cold; warm0.8–1.7s and2.0–4.8s. The proposed bounded avatar-priority/surface-retry candidate remains uncommitted and undeployed; final before/after and held-texture checks are incomplete. Disk now reports7.5GiB free; previous ENOSPC is historical, but the original screenshot comparison has not been repeated.
 
 Next: Review the deployed exploration and eight named avatars; verify cold-start candidate measurements and held-texture recovery before any separate release. Complete physical-device, Tania and security acceptance before Week0/1. Reconcile pending reader/gallery targets and publish the Blueprint only with explicit release authority.
+
+## Readable Archon successor — 12 November2026
+
+Qualified7-file presentation successor: larger Game ID, looped native video, skippable/reduced-motion overview and clear both-seat board camera. Source382/81,351/104 and real hosted gameplay/finalUI checks pass. Guarded game publication pending; no new Exit, deletion or security behavior. See [review](archon-readable-board-20261112.md).
