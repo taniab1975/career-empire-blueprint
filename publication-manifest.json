@@ -1,8 +1,8 @@
 {
   "sourceCommit": "09fdb6c243ead8c8986153f3ca6fa9ea36b1aa4b",
-  "generatedAt": "2026-11-11T23:48:32.058025+00:00",
+  "generatedAt": "2026-11-12T00:15:25.355225+00:00",
   "revision": "V2.40 / 3 November 2026",
-  "recordSha256": "cda8c65e3deeb7711d4b65529771a684d82cc004313c5e5cf6cbbff0fac018fd",
+  "recordSha256": "244bbd8bedd2534b19e3e9cb50aa7d0bbb0bf15c1a8fde0d1f61e633d5011778",
   "files": [
     {
       "path": "assets/curriculum-planner-CaXpHcay.js",
@@ -22,7 +22,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "cda8c65e3deeb7711d4b65529771a684d82cc004313c5e5cf6cbbff0fac018fd"
+      "sha256": "244bbd8bedd2534b19e3e9cb50aa7d0bbb0bf15c1a8fde0d1f61e633d5011778"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -2637,15 +2637,15 @@
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
     }
   ],
-  "recordPublicationScope": "Exact44source-review139only;priorrecords/publicapp/contentpreserved;gamepushseparate.",
+  "recordPublicationScope": "Exact3source-review140only;priorrecords/publicapp/contentpreserved;gamepushseparate.",
   "recordSourceReview": {
-    "integration": "CE-CHANGE-20261111-139",
-    "phase": "complete",
+    "integration": "CE-CHANGE-20261112-140",
+    "phase": "ready",
     "sourceProjectId": "game-initiative-release-20261111",
     "baseline": "d3544e129682381d397417c08bed0242d5e58d88",
-    "head": "7ac4efa5ac59ed9c2e6c806ebcc20f6014b53559",
-    "stagedTree": "fd64ca3d2e245b452fe230ccbdf8b1f9670de480",
-    "versions": 44
+    "head": "20842798a99c73aca47fa09c2f57335d24487bf9",
+    "stagedTree": "eb6994432d46ae33c2b94283b5349dd8abdf25d8",
+    "versions": 3
   },
   "phaseAccessNote": {
     "scope": "Public classroom pacing word in the Phase 1 Markets walkthrough",
