@@ -39099,6 +39099,23 @@
           "testing": "Final source checks pass;386 unit tests across82 files pass with original limits, including four migration/round-trip/invalid/limit regressions. The final index manifest verifies352 runtime hashes and105 imports. Actual-game staged frontend checks at1280/390 and presentation1920 pass reading/five behaviours, wrong-then-correct feedback, three written responses, Back retention, no duplicate attempts, Close/Journal reopen, contextual return, Archon lobby and same run. There are no page errors, missing responses, browser Storage API calls or backend requests during the bounded guest checks. A separate real-adapter browser fixture passes legacy migration, save failure, learner isolation, retry, over-limit preservation and Escape cleanup. Initial close-event timing and missing Journal-route findings remain retained as dated failed runs. Safari, physical touch, student learning and classroom acceptance are unverified. Actual publication verification: Notes worksheet 250c409e0b3587c23401d50ec5e7a4f08caf0ec0 is published and independently verified at the actual Career Empire GitHub Pages game. Pages43250263108 succeeded; all352 public runtime asset hashes match. Actual live1280/390 and1920 capture checks pass attributed reading/five behaviours, shared-bank wrong/correct feedback, written answers, Back/Close/Journal reopening, contextual Journal return, Archon lobby and same-run retention. Guest Notes checks make zero Storage API calls and zero backend requests; no page errors or missing responses. Source386tests/82files and352asset/105module checks pass. Required local CI source/unit passed; broad browser run recorded16pass/10fail/247not-run before graceful interruption after admin-entry modal and legacy-avatar failures. Remote source/unit passed, software browser installation failed and hardware lane was queued at observation. No all-CI-green, teacher submission, classroom, Safari or physical-device acceptance is claimed. Licensed originals remain private; only attributed adaptation and fictional responses are public. Existing CI/Chapel/EST/portfolio/Flyover candidates are preserved.",
           "deployment": "Notes worksheet 250c409e0b3587c23401d50ec5e7a4f08caf0ec0 is published and independently verified at the actual Career Empire GitHub Pages game. Pages43250263108 succeeded; all352 public runtime asset hashes match. Actual live1280/390 and1920 capture checks pass attributed reading/five behaviours, shared-bank wrong/correct feedback, written answers, Back/Close/Journal reopening, contextual Journal return, Archon lobby and same-run retention. Guest Notes checks make zero Storage API calls and zero backend requests; no page errors or missing responses. Source386tests/82files and352asset/105module checks pass. Required local CI source/unit passed; broad browser run recorded16pass/10fail/247not-run before graceful interruption after admin-entry modal and legacy-avatar failures. Remote source/unit passed, software browser installation failed and hardware lane was queued at observation. No all-CI-green, teacher submission, classroom, Safari or physical-device acceptance is claimed. Licensed originals remain private; only attributed adaptation and fictional responses are public. Existing CI/Chapel/EST/portfolio/Flyover candidates are preserved.",
           "designApproval": "Authenticated owner yes15:28:58UTC12November2026 approves the stated paraphrased worksheet/supporting public record/screenshots and game release; no licensed original page/full transcription, school acceptance or unrelated release implied."
+        },
+        {
+          "id": "CE-CHANGE-20261113-146",
+          "date": "2026-11-13",
+          "title": "Chapel walk-in doorway, upward look and reliable exit on current game",
+          "source": "Direct authenticated Tania requests12November and13November Perth urgency, read independently; CE-DISCUSSION-fd81f95d-a022-4038-ab63-3a86b1f6a39d.",
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "status": "Current-base functional qualification complete; guarded publication pending",
+          "rationale": "Release the previously qualified automatic physical doorway entry and interior look/exit, serially integrated onto current Archon/Notes250c409.",
+          "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough.",
+          "evidence": [
+            "docs/production/chapel-walk-in-release-20261113.md"
+          ],
+          "implementation": "Clean three-way merge retains every current Archon/Notes behavior. The eight source files contain the doorway helper, main movement/camera integration, nonblocking discovery guidance, entry cache tags, runtime manifest and two existing test-fixture regressions. The Market Notes cache/import chain remains unchanged. Native keyboard/joystick walking must cross the real narrow inward doorway; standing nearby, wrong key or clicking the old prompt does not substitute. A shared pending promise prevents duplicate preparation; failed loading can retry after stepping back, and intervening navigation prevents a late transition. Return places the player outside and rearms only after moving clear. Horizontal scanning remains available; vertical drag uses bounded tilt and a perspective look-height calculation so the ceiling is inspectable without moving the camera through the roof. Camera/body bounds are preserved. Return to campus remains a visible native control throughout the Chapel; completed primary touch activates once even if a browser omits its synthesized click, clears held movement, consumes a later matching touch click and preserves keyboard/mouse activation. Drag-off, cancellation, wrong pointer and disabled/hidden controls do not activate. First-day guidance no longer automatically opens the old Chapel proximity modal while walking; explicit help/checkpoint behavior remains.",
+          "testing": "387 unit tests across82 files pass with original limits;353 staged runtime hashes and106 reachable imports pass, as do10 focused doorway/load/race/touch regressions. Five integrated native-Metal Chrome cases pass: desktop/phone camera bounds; actual first-day walking through the doorway, upward look, mouse exit/checkpoint and reentry at1280/390;390 automated touch joystick movement, more than a full horizontal turn, ceiling gesture, two real touch exits/reentries, zeroed held input, drag-off cancellation and Enter-key exit. Tests use normal guest routes, real physics displacement and real pointer/keyboard/CDP touch events. Read-only test observers expose pose/frame evidence; they do not teleport or alter gameplay. Native rendered-frame counters and screenshots establish the draw after looking up; software-only presentation counters are not misreported as native evidence. Initial imported test setup used a generic local HTTP server that reset parallel module downloads. The existing repository128-request-queue/range server was then used. A readiness race clicked destinations before startup; the harness now waits for actual entryReady. A cloud assertion waited for a software-only presented-frame attribute on native rendering; the check now uses the native rendered-frame count and pose-at-draw while preserving actual draw/interaction assertions. Failed structured runs and fresh final output paths are retained; an aborted early retake reused some screenshot paths, so not every initial screenshot remains. No production change or assertion threshold reduction was used to disguise these harness issues. Final native ceiling/interior captures are visible, unlike earlier near-black unchanged-baseline SwiftShader evidence. Physical device, Safari, final architectural appearance acceptance and Tania’s recording remain separate.",
+          "deployment": "Not yet published. Exact source review and genuine receipt precede normal push to Emmanuel-ICT-Support/GTCEM-Career-Empire main; live target is repository-root Pages playable-3d.",
+          "designApproval": "Tania requested physical doorway entry, upward/around looking and click exit; renewed why-not-live urgency. No physical-device/ceiling-perfection gate invented."
         }
       ],
       "sessionStart": [
@@ -99203,6 +99220,491 @@
             "playable-3d/night-market.js": "100644:386cd202eafe61d435c5796d26725cb99dfa06b7",
             "playable-3d/release-manifest.json": "100644:dde9fdf1ca917a0ebc8c9df8b22dc309c119d652",
             "tests/unit/notes-worksheet.test.mjs": "100644:0199e9f30fcca4d52e01ebf18e0cb1c77d2c45a2"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261113-146",
+        "title": "Chapel walk-in doorway, upward look and reliable exit on current game",
+        "types": [
+          "implementation",
+          "activity",
+          "release",
+          "governance"
+        ],
+        "status": "complete",
+        "objective": "Release the previously qualified automatic physical doorway entry and interior look/exit, serially integrated onto current Archon/Notes250c409.",
+        "before": "Live250c409 still presents click-to-enter Chapel; preserved eight-file functional candidate remains on69aa78e.",
+        "after": "Clean three-way merge retains every current Archon/Notes behavior. The eight source files contain the doorway helper, main movement/camera integration, nonblocking discovery guidance, entry cache tags, runtime manifest and two existing test-fixture regressions. The Market Notes cache/import chain remains unchanged. Native keyboard/joystick walking must cross the real narrow inward doorway; standing nearby, wrong key or clicking the old prompt does not substitute. A shared pending promise prevents duplicate preparation; failed loading can retry after stepping back, and intervening navigation prevents a late transition. Return places the player outside and rearms only after moving clear. Horizontal scanning remains available; vertical drag uses bounded tilt and a perspective look-height calculation so the ceiling is inspectable without moving the camera through the roof. Camera/body bounds are preserved. Return to campus remains a visible native control throughout the Chapel; completed primary touch activates once even if a browser omits its synthesized click, clears held movement, consumes a later matching touch click and preserves keyboard/mouse activation. Drag-off, cancellation, wrong pointer and disabled/hidden controls do not activate. First-day guidance no longer automatically opens the old Chapel proximity modal while walking; explicit help/checkpoint behavior remains.",
+        "source": "Direct authenticated Tania requests12November and13November Perth urgency, read independently; CE-DISCUSSION-fd81f95d-a022-4038-ab63-3a86b1f6a39d.",
+        "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+        "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "This is local movement, camera, interaction and optional guidance only. No new data field, account, provider, learner storage key, telemetry, backend, security setting, model or asset production. Existing Chapel identity, progression checkpoint and protected decisions remain. No source textbook/student material is added. Automated phone-width/touch evidence is not an assertion about an unspecified physical device. The user will record the walkthrough after independently verified live publication.",
+          "rationale": "No collection, identity, storage, permission, provider, hosting or backend architecture changes. Gesture handling is confined to the existing Chapel action and same native control; tests preserve navigation cancellation and reset.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "This is local movement, camera, interaction and optional guidance only. No new data field, account, provider, learner storage key, telemetry, backend, security setting, model or asset production. Existing Chapel identity, progression checkpoint and protected decisions remain. No source textbook/student material is added. Automated phone-width/touch evidence is not an assertion about an unspecified physical device. The user will record the walkthrough after independently verified live publication. Existing data architecture remains; broader school/ST4S readiness is not newly certified.",
+            "locations": "This is local movement, camera, interaction and optional guidance only. No new data field, account, provider, learner storage key, telemetry, backend, security setting, model or asset production. Existing Chapel identity, progression checkpoint and protected decisions remain. No source textbook/student material is added. Automated phone-width/touch evidence is not an assertion about an unspecified physical device. The user will record the walkthrough after independently verified live publication. Existing locations architecture remains; broader school/ST4S readiness is not newly certified.",
+            "accessCountries": "This is local movement, camera, interaction and optional guidance only. No new data field, account, provider, learner storage key, telemetry, backend, security setting, model or asset production. Existing Chapel identity, progression checkpoint and protected decisions remain. No source textbook/student material is added. Automated phone-width/touch evidence is not an assertion about an unspecified physical device. The user will record the walkthrough after independently verified live publication. Existing accessCountries architecture remains; broader school/ST4S readiness is not newly certified.",
+            "providers": "This is local movement, camera, interaction and optional guidance only. No new data field, account, provider, learner storage key, telemetry, backend, security setting, model or asset production. Existing Chapel identity, progression checkpoint and protected decisions remain. No source textbook/student material is added. Automated phone-width/touch evidence is not an assertion about an unspecified physical device. The user will record the walkthrough after independently verified live publication. Existing providers architecture remains; broader school/ST4S readiness is not newly certified.",
+            "lifecycle": "This is local movement, camera, interaction and optional guidance only. No new data field, account, provider, learner storage key, telemetry, backend, security setting, model or asset production. Existing Chapel identity, progression checkpoint and protected decisions remain. No source textbook/student material is added. Automated phone-width/touch evidence is not an assertion about an unspecified physical device. The user will record the walkthrough after independently verified live publication. Existing lifecycle architecture remains; broader school/ST4S readiness is not newly certified.",
+            "encryption": "This is local movement, camera, interaction and optional guidance only. No new data field, account, provider, learner storage key, telemetry, backend, security setting, model or asset production. Existing Chapel identity, progression checkpoint and protected decisions remain. No source textbook/student material is added. Automated phone-width/touch evidence is not an assertion about an unspecified physical device. The user will record the walkthrough after independently verified live publication. Existing encryption architecture remains; broader school/ST4S readiness is not newly certified.",
+            "logging": "This is local movement, camera, interaction and optional guidance only. No new data field, account, provider, learner storage key, telemetry, backend, security setting, model or asset production. Existing Chapel identity, progression checkpoint and protected decisions remain. No source textbook/student material is added. Automated phone-width/touch evidence is not an assertion about an unspecified physical device. The user will record the walkthrough after independently verified live publication. Existing logging architecture remains; broader school/ST4S readiness is not newly certified.",
+            "identity": "This is local movement, camera, interaction and optional guidance only. No new data field, account, provider, learner storage key, telemetry, backend, security setting, model or asset production. Existing Chapel identity, progression checkpoint and protected decisions remain. No source textbook/student material is added. Automated phone-width/touch evidence is not an assertion about an unspecified physical device. The user will record the walkthrough after independently verified live publication. Existing identity architecture remains; broader school/ST4S readiness is not newly certified.",
+            "isolation": "This is local movement, camera, interaction and optional guidance only. No new data field, account, provider, learner storage key, telemetry, backend, security setting, model or asset production. Existing Chapel identity, progression checkpoint and protected decisions remain. No source textbook/student material is added. Automated phone-width/touch evidence is not an assertion about an unspecified physical device. The user will record the walkthrough after independently verified live publication. Existing isolation architecture remains; broader school/ST4S readiness is not newly certified.",
+            "privacySafety": "This is local movement, camera, interaction and optional guidance only. No new data field, account, provider, learner storage key, telemetry, backend, security setting, model or asset production. Existing Chapel identity, progression checkpoint and protected decisions remain. No source textbook/student material is added. Automated phone-width/touch evidence is not an assertion about an unspecified physical device. The user will record the walkthrough after independently verified live publication. Existing privacySafety architecture remains; broader school/ST4S readiness is not newly certified.",
+            "applicability": "This is local movement, camera, interaction and optional guidance only. No new data field, account, provider, learner storage key, telemetry, backend, security setting, model or asset production. Existing Chapel identity, progression checkpoint and protected decisions remain. No source textbook/student material is added. Automated phone-width/touch evidence is not an assertion about an unspecified physical device. The user will record the walkthrough after independently verified live publication. Existing applicability architecture remains; broader school/ST4S readiness is not newly certified.",
+            "verification": "This is local movement, camera, interaction and optional guidance only. No new data field, account, provider, learner storage key, telemetry, backend, security setting, model or asset production. Existing Chapel identity, progression checkpoint and protected decisions remain. No source textbook/student material is added. Automated phone-width/touch evidence is not an assertion about an unspecified physical device. The user will record the walkthrough after independently verified live publication. Existing verification architecture remains; broader school/ST4S readiness is not newly certified."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "387/82 source/unit,353/106 final staged manifest,10 focused doorway/load/touch regressions.",
+            "Five native integrated desktop/phone walking/look/bounds/exit/reentry cases with readonly observers and native input; no teleport or real learner data."
+          ],
+          "reviewedBy": "Sole integrator exact8 merge/diff, unit/load/cancellation and native pointer/touch/frame review",
+          "reviewedAt": "2026-11-12",
+          "productionComplete": false,
+          "releasePurpose": "product-change",
+          "securityApproval": "Direct user request for the live Chapel functional fix and existing required publication workflow; no school/security/backend approval inferred.",
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Update exact Chapel start entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel start entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Update exact Chapel media entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel media entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Update exact Chapel decisions entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel decisions entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "No curriculum, source edition, learning prompt or assessment point changes; existing Chapel checkpoint is preserved.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No curriculum, source edition, learning prompt or assessment point changes; existing Chapel checkpoint is preserved. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Update exact Chapel flow entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel flow entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Update exact Chapel journey entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel journey entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "No assessment or mastery claim; existing chapter checkpoint remains a progress signal.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No assessment or mastery claim; existing chapter checkpoint remains a progress signal. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "No teacher service, data access or submission changed; no classroom readiness inferred.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No teacher service, data access or submission changed; no classroom readiness inferred. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Update exact Chapel world entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel world entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Update exact Chapel buildings entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel buildings entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "No authored asset/model/image production; native captures document existing Chapel and changed navigation/camera only.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No authored asset/model/image production; native captures document existing Chapel and changed navigation/camera only. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Update exact Chapel build entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel build entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Update exact Chapel recovery entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel recovery entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Update exact Chapel sources entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel sources entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Update exact Chapel roadmap entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel roadmap entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Update exact Chapel history entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel history entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Update exact Chapel protocol entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel protocol entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Update exact Chapel exports entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel exports entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          },
+          {
+            "surface": "publication",
+            "disposition": "updated",
+            "action": "Update exact Chapel publication entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules.",
+            "records": [
+              "CE-CHANGE-20261113-146",
+              "CE-CHANGE-20260910-39"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Source8 bindings and current-base runtime/physics/touch checks must match; separately identify publication, native rendered visibility, physical-device and Tania appearance/recording acceptance.",
+            "evidence": [
+              "docs/production/chapel-walk-in-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exact Chapel publication entry/camera/exit status, current-base source and native verification in reviewed release/current-state pages; preserve unrelated places and modules. Exact8,387/82,353/106,10 focused and5 native integrated cases pass; final screenshots inspected. Source-review reader verification precedes receipt. Exact source-review page checked at1280 and390: both native source images load and no horizontal overflow. Game publication remains separately pending.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish this exact bounded source review, verify served record/screenshots, obtain genuine8-file receipt and normal guarded game push; independently verify live walking/upward look/desktop-touch exit, then Tania records walkthrough."
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "playable-3d/app.js": "100644:733aba8b409fd7e62f7aac88c857d03863eb3ff8",
+            "playable-3d/chapel-entry.mjs": "100644:0b45967eeb691be5889566a959d37460d2ababfb",
+            "playable-3d/discovery-opening.js": "100644:2ce06a571e2637ffe3549c3bb7b4f19989355f4b",
+            "playable-3d/guest-shell.mjs": "100644:c096d5d63f71853455c70a9593cdd51ed68323b8",
+            "playable-3d/index.html": "100644:5c9d229e2f067d759289f58d5fe1475731830707",
+            "playable-3d/release-manifest.json": "100644:b5271e0b7660658145307dddbc6ce9ee232eedd4",
+            "tests/unit/software-navigation.test.mjs": "100644:d4530880f1c85bf3f653f5e1129d0a3179f0c2a8",
+            "tests/unit/world-interaction-priority.test.mjs": "100644:e3d0c918f408e3b6f47bcddf4607c2e6a93d88f7"
           }
         }
       }
