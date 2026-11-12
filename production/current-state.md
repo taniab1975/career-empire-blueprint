@@ -321,3 +321,7 @@ Next: Review the deployed exploration and eight named avatars; verify cold-start
 ## Readable Archon successor — 12 November2026
 
 Qualified7-file presentation successor: larger Game ID, looped native video, skippable/reduced-motion overview and clear both-seat board camera. Source382/81,351/104 and real hosted gameplay/finalUI checks pass. Guarded game publication pending; no new Exit, deletion or security behavior. See [review](archon-readable-board-20261112.md).
+
+## Readable Archon verified live
+
+Archon 7597b1a33b4b946a6c89cc0758c6e0d33a46c11e published and independently verified at the actual Career Empire GitHub Pages site. All351 served asset hashes match. Actual public desktop1280/phone390 lobby/native video/Market choices/Journal-map/location-guide/Back checks pass; both saved fictional player seats rejoin the actual hosted service and all64 board centres fit unobstructed at both widths. Exact source qualification:382 tests/81 files. Genuine eight-duel full match, private answers, reveal/verdict, persisted territory, rejoin and end passed before the final presentation-only Skip correction; final Start/Skip/reduced-motion/orbit/reset passed on the exact released source before publication. No new Exit, deletion or backend behavior. Safari, physical touch and classroom acceptance remain unverified; Tania live acceptance pending. CI source/unit job passed; software browser dependency install still failed, separate staged runner fix preserved.

@@ -1,8 +1,8 @@
 {
   "sourceCommit": "45fd704ace479f7d1936107c9bf197273667e736",
-  "generatedAt": "2026-11-12T10:16:41.931515+00:00",
+  "generatedAt": "2026-11-12T10:38:14.760990+00:00",
   "revision": "V2.41 / 12 November 2026",
-  "recordSha256": "4f74339e54b14aa9ef066d8bdfe495526b8d2daae6ae48a6662d0f0b1bb85567",
+  "recordSha256": "422708c51af62d8afbe53c137eead47c4db6384551451f63b4681b0d81fa8216",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -2829,26 +2829,6 @@
       "sha256": "4be13dfa11f39b424df150e081b5ab377c4df5dc2962940ac17224fdf36cc11f"
     },
     {
-      "path": "blueprint-records.json",
-      "sha256": "4f74339e54b14aa9ef066d8bdfe495526b8d2daae6ae48a6662d0f0b1bb85567"
-    },
-    {
-      "path": "production/archon-readable-board-20261112.md",
-      "sha256": "356583ad9b38894388a9db91cd3795cadf72d2e26e937e626e06eb21469be326"
-    },
-    {
-      "path": "production/archon-readable-board-20261112.html",
-      "sha256": "248e41d891e3f47c9a8550dc6a96f43075279c67e93ee4dd9a8db257110d497b"
-    },
-    {
-      "path": "production/current-state.md",
-      "sha256": "c59a35c4866806fc2fdd3db7ad8413c9938d90bf0c295188fa3a51954435e41f"
-    },
-    {
-      "path": "production/current-state.html",
-      "sha256": "aee507cd67e087751d6aa7f0c777c8b16c8891e63c5a7df921718943680aa7dd"
-    },
-    {
       "path": "evidence/archon-readable-20261112/board-A-1280.png",
       "sha256": "6aef7ccc6ef1667ed51f392fe90872ae464a7cc39793de8e9f6167614a57eb27"
     },
@@ -2857,11 +2837,31 @@
       "sha256": "9832671ebb58d58a33c729d503e508ffad0d6229bf37171d19d2e4dbc1b80f9a"
     },
     {
+      "path": "blueprint-records.json",
+      "sha256": "422708c51af62d8afbe53c137eead47c4db6384551451f63b4681b0d81fa8216"
+    },
+    {
+      "path": "production/archon-readable-board-20261112.md",
+      "sha256": "556212cc684841eb3ce35d4f89ac49fe5d4ca39074be85bb299aebe28f643c22"
+    },
+    {
+      "path": "production/archon-readable-board-20261112.html",
+      "sha256": "a84cd1a5785344a3150bdc7e39ef785c09e8edc03f2b4ca257b2596c7261e9a1"
+    },
+    {
+      "path": "production/current-state.md",
+      "sha256": "2b910e1ef5c196af46b22305cdee2cdaadb79ef7bd193b2d9a055a4eb45976e8"
+    },
+    {
+      "path": "production/current-state.html",
+      "sha256": "cc119239ad31813e0060d4527f4b9b9e8cbddc926f7ec8b38465de66e013109a"
+    },
+    {
       "path": "production/material-changes.md",
-      "sha256": "9093d6114589b077213fee51bf3b52c41df98ba5374cc86c9797ceeca49ef284"
+      "sha256": "669f1835ba5223a92d852993ee444a65313b8c0a99e14fedb4bda4180f510d86"
     }
   ],
-  "recordPublicationScope": "Preserve V2.41 bundles/screenshots and prior integration objects; add scoped144 readability source review, current-state update and two fictional staged captures only.",
+  "recordPublicationScope": "Preserve V2.41 reader bundles/screenshots and all integration objects; close exact144 game release evidence and current actions only.",
   "sourceRecovery": "Tested source saved in local Git; separate private recovery upload rejected by automatic approval review and not retried.",
   "verificationLimits": "Live StartHere,Phase0/1,student zoom,teacher fit-width dropdown,places and pedagogy verified. Narrow layout actual520px with local table scrolling. Guest/fictional captures only; no school or authenticated teacher acceptance."
 }
