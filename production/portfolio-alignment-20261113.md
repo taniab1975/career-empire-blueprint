@@ -32,3 +32,13 @@ Local qualification only. Current actual live game remains0adc2f5; the planned d
 - `modules/initiative/parallel/learning/portfolio/initiative-portfolio.mjs` — `100644:49754d74037183f84d6bf89d8c6680fa5cedb8c1`
 - `playable-3d/release-manifest.json` — `100644:f052fb995e2a48f2cfb8060fef7abdc9cc0a1127`
 - `tests/unit/public-portfolio-alignment.test.mjs` — `100644:e142181347b2ed5891d29fefa7cccca51823d1c1`
+
+## Portfolio, Careers and Core verified live —13November2026
+
+Portfolio161, Careers163 and Core164 are published and independently verified at the actual Career Empire game, commit b4f945ec5300bcd17a359f107ee1ed8d3d11b204. All419actual public runtime asset hashes and20changed runtime file hashes match. Native Chrome1280/390 verifies the shared all-in-one Portfolio form and four contexts, isolated fictional demo/all7capabilities, current-learner display safeguard, Careers camera/monitor, Core actual media and recoverable failures, preserved EST/Chapel and Market/map/Notes/Journal/Archon/same-run paths. Normal guarded publication used the exact c8bfb8d source review and genuine unchanged-version receipts.
+
+413unit tests across90files and coverage pass;419staged assets/109imports pass. Broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before connection loss; no completed or all-CI-green claim. Actual Safari, physical-device/classroom, real authenticated saving and Tania acceptance remain separate. No school/privacy-wide certification is inferred. Original clips, shared learning bank, existing Chapel/EST geometry, separate CIf156c32 and unrelated work are preserved. Flyover startup repair remains isolated, unmerged and unpublished.
+
+Tania to check the actual live game and Market/map links, plus the isolated fictional Portfolio demo. Retain separate Safari/physical-device/classroom/account acceptance and existing broad CI failures. Continue Flyover only as its own bounded rebase/test/source-review/release scope; do not copy the older full app over this successor.
+
+[Actual live game](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/). [Isolated fictional Portfolio demo](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/dashboards/student.html?portfolioDemo=1).

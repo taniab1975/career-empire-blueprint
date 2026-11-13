@@ -439,3 +439,13 @@ Tania to check the actual live game and Market/map links. Portfolio161 layout/co
 Exact25-file Portfolio161/Careers163/Core164 candidate qualified on live0adc2f5: shared form/context models, isolated fictional demo, current-learner display filter, Careers camera/monitor and recoverable media readiness. 413unit tests across90files with coverage pass.419staged asset hashes and109reachable imports pass. Required broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before disconnection terminated it without a final report; no all-CI-green claim. Game publication and Tania acceptance remain pending.
 
 Publish the bounded exact source review, genuine receipts and guarded game successor; verify exact isolated demo URL and actual live regressions/assets. Update the root reader from the same existing source after live verification. Preserve separate Flyover and staged CI work.
+
+## Portfolio, Careers and Core verified live —13November2026
+
+Portfolio161, Careers163 and Core164 are published and independently verified at the actual Career Empire game, commit b4f945ec5300bcd17a359f107ee1ed8d3d11b204. All419actual public runtime asset hashes and20changed runtime file hashes match. Native Chrome1280/390 verifies the shared all-in-one Portfolio form and four contexts, isolated fictional demo/all7capabilities, current-learner display safeguard, Careers camera/monitor, Core actual media and recoverable failures, preserved EST/Chapel and Market/map/Notes/Journal/Archon/same-run paths. Normal guarded publication used the exact c8bfb8d source review and genuine unchanged-version receipts.
+
+413unit tests across90files and coverage pass;419staged assets/109imports pass. Broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before connection loss; no completed or all-CI-green claim. Actual Safari, physical-device/classroom, real authenticated saving and Tania acceptance remain separate. No school/privacy-wide certification is inferred. Original clips, shared learning bank, existing Chapel/EST geometry, separate CIf156c32 and unrelated work are preserved. Flyover startup repair remains isolated, unmerged and unpublished.
+
+Tania to check the actual live game and Market/map links, plus the isolated fictional Portfolio demo. Retain separate Safari/physical-device/classroom/account acceptance and existing broad CI failures. Continue Flyover only as its own bounded rebase/test/source-review/release scope; do not copy the older full app over this successor.
+
+[Actual live game](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/). [Isolated fictional Portfolio demo](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/dashboards/student.html?portfolioDemo=1).

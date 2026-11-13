@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-13T04:26:04.667443+00:00",
+  "generatedAt": "2026-11-13T05:13:49.018962+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "15951e26dafab33dec71139e47d592b3f59fa7c3399025f24550586ae56fef33",
+  "recordSha256": "83a9ebd3151d8a6eb4d9fb9d312151e82d4b13aa879c5b869bc20aad94e052ad",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -3005,10 +3005,6 @@
       "sha256": "ea5344b5c001b16bf0403c663c12fbd0328eb2361098899aec75f3687e4b608f"
     },
     {
-      "path": "index.html",
-      "sha256": "7d655150a400bbdd6285f46dccc0f78625b34b949e248e427849e3727c455a4f"
-    },
-    {
       "path": "assets/index-DC3aymK3.js",
       "sha256": "b00a11add05cf0a3bcc6ef5d47b28c58f143a89d957b33cee97f704c9bc3dc43"
     },
@@ -3081,22 +3077,6 @@
       "sha256": "b5da6c47ac28125552a0961c0a07f34da5c56f0d6d92bcf4a573bf488f0c65d7"
     },
     {
-      "path": "blueprint-records.json",
-      "sha256": "15951e26dafab33dec71139e47d592b3f59fa7c3399025f24550586ae56fef33"
-    },
-    {
-      "path": "production/current-state.md",
-      "sha256": "d7f2988842de4f392643ae5d9b18b5ce702944dbfb51f1e757ae8524459fbb8f"
-    },
-    {
-      "path": "production/material-changes.md",
-      "sha256": "289c2406fa2baa7db15e7f7452a32406014c5346ccc198c9f21c69fef8dfd789"
-    },
-    {
-      "path": "production/current-state.html",
-      "sha256": "5d76031852ea2703f8165c672e4fa8ad970d0c9b8f73d4167bf320d468cdbf9e"
-    },
-    {
       "path": "production/portfolio-privacy-implementation-20261113.md",
       "sha256": "5492d384ddbf153c97ef3801ab711aa103ea8be0ae4e4f4b811656517ce86616"
     },
@@ -3113,24 +3093,12 @@
       "sha256": "8bb31f2137196eee98d94c832005f142f7f02066655f2a98d2460c85918640a0"
     },
     {
-      "path": "production/portfolio-alignment-20261113.md",
-      "sha256": "700d3beb19ca8e677c58af12dea39a1d24219da5bd28005c61c814cfe58bfed2"
-    },
-    {
       "path": "evidence/portfolio-careers-core-20261113/all-in-one-1280.png",
       "sha256": "6b94dbb7feb1c7a713bd5fc1a4918b9e964c2d47c697e6778feae9698f161ee4"
     },
     {
       "path": "evidence/portfolio-careers-core-20261113/all-in-one-390.png",
       "sha256": "9f72abb72a10fe0722646ea490a18656cc441a099dd0daff7b622e3f5e66543d"
-    },
-    {
-      "path": "production/portfolio-alignment-20261113.html",
-      "sha256": "bd8cf6e2c88cf77429a495164af5d7d044e4ef046788be38b1aa85b7a2297c87"
-    },
-    {
-      "path": "production/careers-portfolio-panel-20261113.md",
-      "sha256": "96d403575b46e634dcf89ae944fc92c2f61d6d68ff10fc4f35f0fb647549aef6"
     },
     {
       "path": "evidence/portfolio-careers-core-20261113/demo-first-card-1280.png",
@@ -3149,14 +3117,6 @@
       "sha256": "bd6a34f0af5565edb5c9bb8a4cad5c34b57c7b39deb8e0ffdbf02292a4debd7d"
     },
     {
-      "path": "production/careers-portfolio-panel-20261113.html",
-      "sha256": "d5aae0c1dbaeb3fb6de1bf9f6c65feccb5e05cb9ff2d903b8fbd8f321adcd76f"
-    },
-    {
-      "path": "production/est-core-responsiveness-20261113.md",
-      "sha256": "12338ea5659b5a89cc8d75e4537f084934ae7e04061bf97569352121bcc3d11f"
-    },
-    {
       "path": "evidence/portfolio-careers-core-20261113/core-failure-1280.png",
       "sha256": "b206aafa15417f0e93f601a73586eb12095cb7b760ef1bf01e8ed5fae3ccfb01"
     },
@@ -3173,11 +3133,75 @@
       "sha256": "e11d791fd0575fce6f017d9bcd511e38b7f434f583118a8263a87e5516c58d30"
     },
     {
+      "path": "blueprint-records.json",
+      "sha256": "83a9ebd3151d8a6eb4d9fb9d312151e82d4b13aa879c5b869bc20aad94e052ad"
+    },
+    {
+      "path": "production/current-state.md",
+      "sha256": "53f5be237a49725354a7b273a84cb9c47a8e267f19babf020e93d5dd5644a54b"
+    },
+    {
+      "path": "production/material-changes.md",
+      "sha256": "38d9e0be0abd00b0d38f744f2c55a2fe3c291caeae83c3b94e88f498bfdbb0fd"
+    },
+    {
+      "path": "production/current-state.html",
+      "sha256": "535fbc3b0238bcc5c5be7521e6bae78db38aeedc19f8ffb22fddd9521c52d9aa"
+    },
+    {
+      "path": "production/portfolio-alignment-20261113.md",
+      "sha256": "f180dc4ff29369b2c88c9dd46cbaa939ae437c0827cf82509c04fe23c3fd74d6"
+    },
+    {
+      "path": "production/portfolio-alignment-20261113.html",
+      "sha256": "fbe75d9b325845d212c2c48fe5d3181cb82f8aa6500016b46d00f4ef37d58b73"
+    },
+    {
+      "path": "production/careers-portfolio-panel-20261113.md",
+      "sha256": "397533eae36ed508df6a4847f6ae97a9384f61e135188838e8d7f05ace383079"
+    },
+    {
+      "path": "production/careers-portfolio-panel-20261113.html",
+      "sha256": "cc4d636098570829b4f2ab313bc557b34538a969af6bb9b50de99e63dc4e8c1f"
+    },
+    {
+      "path": "production/est-core-responsiveness-20261113.md",
+      "sha256": "5a39ce0216c0f7520ff5c28a56c3c4023e1178895ff54213ad4d1032257cc751"
+    },
+    {
       "path": "production/est-core-responsiveness-20261113.html",
-      "sha256": "1a02d0f9ffd7db01926e82553f9a7f225eea19e01e1b94ee61dc13f06b6d1b75"
+      "sha256": "dc92e256bb1089700c0928c7ea90c717e775328bfda57cb690e4248590f848cb"
+    },
+    {
+      "path": "index.html",
+      "sha256": "d3d59c50ffb15974dcbd434c5be02a655a1eec69d141230388f07de4d39b8b08"
+    },
+    {
+      "path": "assets/index-Bzw99sjV.js",
+      "sha256": "594961c0247dca5e95f43a964e38394c4e9c65873f60cb225f6537d18c69332a"
+    },
+    {
+      "path": "assets/curriculum-planner-BgQlo9-k.js",
+      "sha256": "855fe2bb3587e67a6047c735df230abe164b8a8aa4603f48b18d0b9409729e0a"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/live-all-in-one-1280.png",
+      "sha256": "6b94dbb7feb1c7a713bd5fc1a4918b9e964c2d47c697e6778feae9698f161ee4"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/live-overview-1280.png",
+      "sha256": "a6aed8c32e15396e65bbb17a241d070bb9971343eec7c7d04a4b1e9bf00c2552"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/live-log-1280.png",
+      "sha256": "09749a61b6ea0ee843dcf9c28f42199929f033062c1fad8d6707be6ef1a11c77"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/live-demo-first-card-1280.png",
+      "sha256": "e99849aeaf6c52abec32ed8f99eba3e929f158b28eed1e416d4ebc3d1dca6d63"
     }
   ],
-  "recordPublicationScope": "Necessary exact25-file161/163/164 source review, qualified native evidence and scoped technical privacy/applicability records. Preserve prior integrations, all global WA question statuses, root reader bundles and unrelated work; game deployment/user acceptance remain separate.",
+  "recordPublicationScope": "Bounded161/163/164verified-live closeout and actual root-reader Portfolio instructions/demo links/captures. Frozen exact source integrations, privacy proofs, global WA statuses and all unrelated records/assets preserved. Tania acceptance remains separate.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload."
 }

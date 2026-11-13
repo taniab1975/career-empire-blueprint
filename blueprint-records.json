@@ -33977,6 +33977,42 @@
         "date": "2026-11-12",
         "kind": "Recorded fictional test room · published Archon source7597b1a",
         "sourceCommit": "7597b1a33b4b946a6c89cc0758c6e0d33a46c11e"
+      },
+      "portfolio-aligned-form-current": {
+        "src": "/evidence/portfolio-careers-core-20261113/live-all-in-one-1280.png",
+        "sha256": "6b94dbb7feb1c7a713bd5fc1a4918b9e964c2d47c697e6778feae9698f161ee4",
+        "width": 1280,
+        "height": 900,
+        "date": "2026-11-13",
+        "kind": "Actual published b4f945e; fictional demonstration/practice only",
+        "sourceCommit": "b4f945ec5300bcd17a359f107ee1ed8d3d11b204"
+      },
+      "portfolio-aligned-overview-current": {
+        "src": "/evidence/portfolio-careers-core-20261113/live-overview-1280.png",
+        "sha256": "a6aed8c32e15396e65bbb17a241d070bb9971343eec7c7d04a4b1e9bf00c2552",
+        "width": 1280,
+        "height": 1410,
+        "date": "2026-11-13",
+        "kind": "Actual published b4f945e; fictional demonstration/practice only",
+        "sourceCommit": "b4f945ec5300bcd17a359f107ee1ed8d3d11b204"
+      },
+      "portfolio-aligned-log-current": {
+        "src": "/evidence/portfolio-careers-core-20261113/live-log-1280.png",
+        "sha256": "09749a61b6ea0ee843dcf9c28f42199929f033062c1fad8d6707be6ef1a11c77",
+        "width": 1280,
+        "height": 3447,
+        "date": "2026-11-13",
+        "kind": "Actual published b4f945e; fictional demonstration/practice only",
+        "sourceCommit": "b4f945ec5300bcd17a359f107ee1ed8d3d11b204"
+      },
+      "portfolio-fictional-demo-current": {
+        "src": "/evidence/portfolio-careers-core-20261113/live-demo-first-card-1280.png",
+        "sha256": "e99849aeaf6c52abec32ed8f99eba3e929f158b28eed1e416d4ebc3d1dca6d63",
+        "width": 1180,
+        "height": 1086,
+        "date": "2026-11-13",
+        "kind": "Actual published b4f945e; fictional demonstration/practice only",
+        "sourceCommit": "b4f945ec5300bcd17a359f107ee1ed8d3d11b204"
       }
     },
     "rows": [
@@ -34091,11 +34127,11 @@
           "pedagogy"
         ],
         "title": "Public Market STAR reflection",
-        "image": "market13-portfolio-builder",
-        "description": "Open the current five-step Situation, Task, Actions, Results and Review builder.",
+        "image": "portfolio-aligned-form-current",
+        "description": "Choose an experience and use the shared all-in-one STAR/reflection form.",
         "purpose": "Explain an experience in the learner’s own words.",
-        "detail": "This is the currently deployed anonymous builder, captured without entering personal details or banking an entry. It is tab-only practice, not a school submission. The separate portfolio repair is pending and is not shown as live.",
-        "status": "Existing public builder · repair not claimed"
+        "detail": "Actual published13November form with all five fields together and relevant context models. The Market route remains Initiative-only, tab-only and anonymous; no teacher submission/account saving.",
+        "status": "Published aligned form · b4f945e"
       },
       {
         "id": "pdf",
@@ -34250,11 +34286,11 @@
           "market"
         ],
         "title": "Keep a reflection log",
-        "image": "market13-portfolio-log",
-        "description": "Return to the current anonymous log and its PDF controls.",
+        "image": "portfolio-aligned-log-current",
+        "description": "Keep the author’s anonymous reflections and create a browser PDF.",
         "purpose": "Keep the learner’s own explanation separate from game completion.",
-        "detail": "No entry was banked or PDF generated in this capture. The existing UI says tab-only, no login and no teacher submission. Pending portfolio changes and return-route repairs are not certified by this image.",
-        "status": "Current public log ·13 Nov"
+        "detail": "Actual published fictional practice log; selected experience contexts and Initiative tags retained. Native browser PDF and validated same-run/standalone Market returns remain. This is not school submission or assessment.",
+        "status": "Published anonymous log · b4f945e"
       }
     ],
     "findings": [
@@ -34421,20 +34457,16 @@
       },
       {
         "id": "student-portfolio",
-        "title": "Two portfolio routes",
-        "action": "Use the anonymous Market STAR/PDF log, or the separate Student Hub with its single-page STAR form.",
+        "title": "Portfolio: Market log and isolated demo",
+        "action": "Choose an experience and use the all-in-one STAR form. Explore all capabilities in the separate fictional Portfolio demo.",
         "pedagogy": "Give the learner inspectable work to explain and improve.",
         "outcome": "Identify the evidence and what feedback changed.",
-        "evidence": "Actual public guest/demo review ·12November2026 · game69aa78e",
-        "limits": "Anonymous Market text stays in its tab; Hub was checked only in the fictional demo. No authenticated save or teacher submission was tested.",
+        "evidence": "Actual published native Chrome review · 13 November 2026 · game b4f945e",
+        "limits": "Market practice stays anonymous and Initiative-only. The separate demo uses labelled fictional examples and resets practice on refresh. Real account/classroom and teacher-submission acceptance remain separate.",
         "status": "observed",
-        "screens": [
-          "live-portfolio-builder",
-          "live-portfolio-log",
-          "live-student-hub-star-form"
-        ],
+        "screens": [],
         "curriculumIds": [],
-        "source": "data/live-game-review.json / CE-LIVE-GAME-REVIEW-20261112",
+        "source": "data/live-game-review.json / published b4f945e",
         "depth": 0
       },
       {
@@ -34896,8 +34928,8 @@
       "phase": "Refresh the reader against the live game",
       "activeMilestoneId": "CE-CONTINUITY-01",
       "objective": "Make the purpose, current design, implementation limits and next decisions understandable to a new colleague.",
-      "now": "Exact25-file Portfolio161/Careers163/Core164 candidate qualified on live0adc2f5: shared form/context models, isolated fictional demo, current-learner display filter, Careers camera/monitor and recoverable media readiness. 413unit tests across90files with coverage pass.419staged asset hashes and109reachable imports pass. Required broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before disconnection terminated it without a final report; no all-CI-green claim. Game publication and Tania acceptance remain pending.",
-      "next": "Publish the bounded exact source review, genuine receipts and guarded game successor; verify exact isolated demo URL and actual live regressions/assets. Update the root reader from the same existing source after live verification. Preserve separate Flyover and staged CI work.",
+      "now": "Portfolio161, Careers163 and Core164 are published and independently verified at the actual Career Empire game, commit b4f945ec5300bcd17a359f107ee1ed8d3d11b204. All419actual public runtime asset hashes and20changed runtime file hashes match. Native Chrome1280/390 verifies the shared all-in-one Portfolio form and four contexts, isolated fictional demo/all7capabilities, current-learner display safeguard, Careers camera/monitor, Core actual media and recoverable failures, preserved EST/Chapel and Market/map/Notes/Journal/Archon/same-run paths. Normal guarded publication used the exact c8bfb8d source review and genuine unchanged-version receipts.",
+      "next": "Tania to check the actual live game and Market/map links, plus the isolated fictional Portfolio demo. Retain separate Safari/physical-device/classroom/account acceptance and existing broad CI failures. Continue Flyover only as its own bounded rebase/test/source-review/release scope; do not copy the older full app over this successor.",
       "then": "Author and review core learning materials, purposeful application and appropriate evidence across the shared phases; align school pacing and assessment dates before setting lessons.",
       "later": "Implement the agreed connected course and verify classroom, accessibility, school and learner-evidence requirements separately.",
       "sequence": [
@@ -35235,7 +35267,7 @@
         "V2-D03",
         "V2-D18"
       ],
-      "nextAction": "Publish the bounded exact source review, genuine receipts and guarded game successor; verify exact isolated demo URL and actual live regressions/assets. Update the root reader from the same existing source after live verification. Preserve separate Flyover and staged CI work.",
+      "nextAction": "Tania to check the actual live game and Market/map links, plus the isolated fictional Portfolio demo. Retain separate Safari/physical-device/classroom/account acceptance and existing broad CI failures. Continue Flyover only as its own bounded rebase/test/source-review/release scope; do not copy the older full app over this successor.",
       "doneWhen": "Core materials and meaningful application/evidence are authored and reviewed against the exact curriculum and school assessment requirements. Blueprint publication, game integration, school permission and learner mastery have separate evidence.",
       "boundary": "Documentation refresh only; does not approve game production, new backend, security permissions or a student trial. No real learner records changed."
     },
@@ -39540,16 +39572,16 @@
           "title": "Portfolio shared form and experience alignment",
           "source": "Tania supplied3comparison screenshots; Market step wizard differs from main all-in-one form and context chooser. Exact originals inspected.",
           "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
-          "status": "Qualified exact candidate; authorized source review and game release pending",
+          "status": "Published and independently live-verified; Tania acceptance pending",
           "rationale": "The public Market path retains its illustrated overview and explicit Start entry, then uses the same five-field all-in-one STAR renderer as the main portfolio. Four existing experience choices keep the selected context and draft, with shared capability/context-relevant fictional models. Public entry remains Initiative-only and anonymous; log/PDF/opener and standalone normal-gated Market return are retained. No forced wizard or EST-only Initiative examples. Anonymous Market mode keeps Initiative scope and publicInitiative=1. The dedicated portfolioDemo=1 branch runs before account access/init, suppresses account/session/backend scripts and never falls through to learner data, including with existing cookies. It loads four labelled fictional examples with varied dates and multi-capability tags; optional anonymous practice is tab memory only, reset on refresh. Both isolated routes make zero Storage API and backend calls in actual1280/390 tests. Structured identity fields are discarded; date, existing context enum, capability/subskill tags and five free-text fields are purpose-limited. Free text can contain unsolicited personal information: warnings remain; it is not automatically anonymised. Public PDF is the user-controlled native print flow. Static hosting/font requests retain their existing network metadata; no reflection is put in URLs or sent to those services.",
-          "nextAction": "Publish exact source review, obtain genuine unchanged-version receipts and normal guarded push; independently verify actual live demo/forms/Market/Careers/Core/Chapel/EST and every manifest asset. Then update actual root reader descriptions/screenshots and live closeout. Tania/Safari/physical-device/classroom acceptance remain separate.",
+          "nextAction": "Tania to check the actual live game and Market/map links, plus the isolated fictional Portfolio demo. Retain separate Safari/physical-device/classroom/account acceptance and existing broad CI failures. Continue Flyover only as its own bounded rebase/test/source-review/release scope; do not copy the older full app over this successor.",
           "evidence": [
             "docs/production/portfolio-alignment-20261113.md",
             "docs/production/current-state.md"
           ],
           "implementation": "The public Market path retains its illustrated overview and explicit Start entry, then uses the same five-field all-in-one STAR renderer as the main portfolio. Four existing experience choices keep the selected context and draft, with shared capability/context-relevant fictional models. Public entry remains Initiative-only and anonymous; log/PDF/opener and standalone normal-gated Market return are retained. No forced wizard or EST-only Initiative examples.",
-          "testing": "Actual1280/390: all4contexts,5fields together, draft Close/Continue, incomplete validation, relevant Market examples, selected context in log,1-page A4 PDF,0Storage/backend/page errors; real same-run opener and standalone gated Market returns pass. 413unit tests across90files with coverage pass.419staged asset hashes and109reachable imports pass. Required broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before disconnection terminated it without a final report; no all-CI-green claim. Verified Chapel button and physical walk-in/ceiling/return/reentry pass1280/390 on this successor. Verified EST rear-window video atz21.935, four-part cabinet clearance, exterior mouse/touch pitch, four monitor cards/guides, immediate cinema/return and return to16,12.5 pass1280/390. Original Chapel/world/card/video sources and all4Initiative videos match0adc2f5;5Market handoff/return helpers are byte-identical. Notes/Archon/backend/shared learning bank and separately staged CIf156c32 are not edited.",
-          "deployment": "Local qualification only. Current actual live game remains0adc2f5; the planned demo URL is not a deployment proof.",
+          "testing": "Actual1280/390: all4contexts,5fields together, draft Close/Continue, incomplete validation, relevant Market examples, selected context in log,1-page A4 PDF,0Storage/backend/page errors; real same-run opener and standalone gated Market returns pass. 413unit tests across90files with coverage pass.419staged asset hashes and109reachable imports pass. Required broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before disconnection terminated it without a final report; no all-CI-green claim. Verified Chapel button and physical walk-in/ceiling/return/reentry pass1280/390 on this successor. Verified EST rear-window video atz21.935, four-part cabinet clearance, exterior mouse/touch pitch, four monitor cards/guides, immediate cinema/return and return to16,12.5 pass1280/390. Original Chapel/world/card/video sources and all4Initiative videos match0adc2f5;5Market handoff/return helpers are byte-identical. Notes/Archon/backend/shared learning bank and separately staged CIf156c32 are not edited. Actual live successor checks: 413unit tests across90files and coverage pass;419staged assets/109imports pass. Broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before connection loss; no completed or all-CI-green claim. Actual Safari, physical-device/classroom, real authenticated saving and Tania acceptance remain separate. No school/privacy-wide certification is inferred. Original clips, shared learning bank, existing Chapel/EST geometry, separate CIf156c32 and unrelated work are preserved. Flyover startup repair remains isolated, unmerged and unpublished.",
+          "deployment": "Portfolio161, Careers163 and Core164 are published and independently verified at the actual Career Empire game, commit b4f945ec5300bcd17a359f107ee1ed8d3d11b204. All419actual public runtime asset hashes and20changed runtime file hashes match. Native Chrome1280/390 verifies the shared all-in-one Portfolio form and four contexts, isolated fictional demo/all7capabilities, current-learner display safeguard, Careers camera/monitor, Core actual media and recoverable failures, preserved EST/Chapel and Market/map/Notes/Journal/Archon/same-run paths. Normal guarded publication used the exact c8bfb8d source review and genuine unchanged-version receipts.",
           "designApproval": "Direct comparison-based alignment request; public privacy, no account/teacher access, no new backend. Initiative-only scope retained unless later explicitly widened.",
           "domain": "Public overview context choice, shared STAR presentation, public context validation/examples/log labels; preserve anonymous isolation and working Market returns.",
           "dependencies": [
@@ -39565,16 +39597,16 @@
           "title": "Careers Portfolio, fictional demo and camera",
           "source": "Tania requests student-shop monitor to student portfolio screenshot view; right-hand actual-entry panel with capability/chronology toggle and multi-tags; no real-record seeding. Explicit fiction-only demo approval with varied dates/multiple tags. Audit confirms existing saved-entry pane/396px scroll/modal sort/multi-tags; capabilitiesDesk currently links preview. Screenshots ba6ad7cd8af4819197f5ead3921e1cdd and50f96760c348819185b16c6236fc5954 are pending integrator inspection.",
           "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
-          "status": "Qualified exact candidate; authorized source review and game release pending",
+          "status": "Published and independently live-verified; Tania acceptance pending",
           "rationale": "Stable dedicated demo URL is https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/dashboards/student.html?portfolioDemo=1. All7capabilities,4dated fictional multi-tag examples, four experience choices and shared form are clearly labelled. Right-hand evidence streams have scrolling and Chronological/By capability controls; a separate fictional model is not a saved reflection. The existing View Portfolio modal retains its full grouped/timeline views. Real current-learner ownership is checked before display, with unmatched legacy work preserved and no auto-queue. Guest Careers monitor opens the isolated demo; signed-in mode opens the normal gated student portfolio. Careers camera has an eye-level target and bounded horizontal/vertical mouse/touch drag; other modes remain unchanged. Anonymous Market mode keeps Initiative scope and publicInitiative=1. The dedicated portfolioDemo=1 branch runs before account access/init, suppresses account/session/backend scripts and never falls through to learner data, including with existing cookies. It loads four labelled fictional examples with varied dates and multi-capability tags; optional anonymous practice is tab memory only, reset on refresh. Both isolated routes make zero Storage API and backend calls in actual1280/390 tests. Structured identity fields are discarded; date, existing context enum, capability/subskill tags and five free-text fields are purpose-limited. Free text can contain unsolicited personal information: warnings remain; it is not automatically anonymised. Public PDF is the user-controlled native print flow. Static hosting/font requests retain their existing network metadata; no reflection is put in URLs or sent to those services.",
-          "nextAction": "Publish exact source review, obtain genuine unchanged-version receipts and normal guarded push; independently verify actual live demo/forms/Market/Careers/Core/Chapel/EST and every manifest asset. Then update actual root reader descriptions/screenshots and live closeout. Tania/Safari/physical-device/classroom acceptance remain separate.",
+          "nextAction": "Tania to check the actual live game and Market/map links, plus the isolated fictional Portfolio demo. Retain separate Safari/physical-device/classroom/account acceptance and existing broad CI failures. Continue Flyover only as its own bounded rebase/test/source-review/release scope; do not copy the older full app over this successor.",
           "evidence": [
             "docs/production/careers-portfolio-panel-20261113.md",
             "docs/production/current-state.md"
           ],
           "implementation": "Stable dedicated demo URL is https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/dashboards/student.html?portfolioDemo=1. All7capabilities,4dated fictional multi-tag examples, four experience choices and shared form are clearly labelled. Right-hand evidence streams have scrolling and Chronological/By capability controls; a separate fictional model is not a saved reflection. The existing View Portfolio modal retains its full grouped/timeline views. Real current-learner ownership is checked before display, with unmatched legacy work preserved and no auto-queue. Guest Careers monitor opens the isolated demo; signed-in mode opens the normal gated student portfolio. Careers camera has an eye-level target and bounded horizontal/vertical mouse/touch drag; other modes remain unchanged.",
-          "testing": "Actual1280/390 demo:7capabilities, complete original illustrations, right-pane grouping/scroll, multi-tags, shared5field form, optional anonymous practice, refresh reset, existing-cookie isolation,0Storage/backend/page errors. Actual native Careers mouse/automated-touch pan changes camera without moving actor; monitor opens exact demo and Close retains run. Desktop Recenter passes. Existing direct-view phone header Recenter is outside viewport; phone opposite drag restores heading. Synthetic current-learner/class/exact-binding tests reject foreign/unlinked/demo records without altering cache. 413unit tests across90files with coverage pass.419staged asset hashes and109reachable imports pass. Required broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before disconnection terminated it without a final report; no all-CI-green claim. Verified Chapel button and physical walk-in/ceiling/return/reentry pass1280/390 on this successor. Verified EST rear-window video atz21.935, four-part cabinet clearance, exterior mouse/touch pitch, four monitor cards/guides, immediate cinema/return and return to16,12.5 pass1280/390. Original Chapel/world/card/video sources and all4Initiative videos match0adc2f5;5Market handoff/return helpers are byte-identical. Notes/Archon/backend/shared learning bank and separately staged CIf156c32 are not edited.",
-          "deployment": "Local qualification only. Current actual live game remains0adc2f5; the planned demo URL is not a deployment proof.",
+          "testing": "Actual1280/390 demo:7capabilities, complete original illustrations, right-pane grouping/scroll, multi-tags, shared5field form, optional anonymous practice, refresh reset, existing-cookie isolation,0Storage/backend/page errors. Actual native Careers mouse/automated-touch pan changes camera without moving actor; monitor opens exact demo and Close retains run. Desktop Recenter passes. Existing direct-view phone header Recenter is outside viewport; phone opposite drag restores heading. Synthetic current-learner/class/exact-binding tests reject foreign/unlinked/demo records without altering cache. 413unit tests across90files with coverage pass.419staged asset hashes and109reachable imports pass. Required broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before disconnection terminated it without a final report; no all-CI-green claim. Verified Chapel button and physical walk-in/ceiling/return/reentry pass1280/390 on this successor. Verified EST rear-window video atz21.935, four-part cabinet clearance, exterior mouse/touch pitch, four monitor cards/guides, immediate cinema/return and return to16,12.5 pass1280/390. Original Chapel/world/card/video sources and all4Initiative videos match0adc2f5;5Market handoff/return helpers are byte-identical. Notes/Archon/backend/shared learning bank and separately staged CIf156c32 are not edited. Actual live successor checks: 413unit tests across90files and coverage pass;419staged assets/109imports pass. Broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before connection loss; no completed or all-CI-green claim. Actual Safari, physical-device/classroom, real authenticated saving and Tania acceptance remain separate. No school/privacy-wide certification is inferred. Original clips, shared learning bank, existing Chapel/EST geometry, separate CIf156c32 and unrelated work are preserved. Flyover startup repair remains isolated, unmerged and unpublished.",
+          "deployment": "Portfolio161, Careers163 and Core164 are published and independently verified at the actual Career Empire game, commit b4f945ec5300bcd17a359f107ee1ed8d3d11b204. All419actual public runtime asset hashes and20changed runtime file hashes match. Native Chrome1280/390 verifies the shared all-in-one Portfolio form and four contexts, isolated fictional demo/all7capabilities, current-learner display safeguard, Careers camera/monitor, Core actual media and recoverable failures, preserved EST/Chapel and Market/map/Notes/Journal/Archon/same-run paths. Normal guarded publication used the exact c8bfb8d source review and genuine unchanged-version receipts.",
           "designApproval": "Tania requests student-shop monitor to student portfolio screenshot view; right-hand actual-entry panel with capability/chronology toggle and multi-tags; no real-record seeding. Explicit fiction-only demo approval with varied dates/multiple tags. Audit confirms existing saved-entry pane/396px scroll/modal sort/multi-tags; capabilitiesDesk currently links preview. Screenshots ba6ad7cd8af4819197f5ead3921e1cdd and50f96760c348819185b16c6236fc5954 are pending integrator inspection.",
           "domain": "Reuse existing authorized current-learner entries, right-hand scrolling pane and existing modal chronological/by-skill logic in that pane; multi-capability tags preserved. Direct monitor route and Careers horizontal/vertical controls. Dedicated portfolioDemo=1 fiction-only projection never reads real learner state.",
           "dependencies": [
@@ -39590,16 +39622,16 @@
           "title": "Core selected-media readiness and recovery",
           "source": "Tania reports EST Core/module lag. Recording: Core click around30.3s, blank white until32.4s, then Enter EST Lab; Core proceeds to Initiative. CEAWA clip trimming is not a game fix. New video target CEAWA Campus→EST Lab; separate read-only investigation identifies exact video/target. Reference9b1e61ed973081919336cacdc5c8046d pending integrator inspection.",
           "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
-          "status": "Qualified exact candidate; authorized source review and game release pending",
+          "status": "Published and independently live-verified; Tania acceptance pending",
           "rationale": "Original videos already have front-loaded playback metadata and are not rewritten. Four posters are exact1second frames from the unchanged Initiative intro/q1/q2/q3 clips. Intro, Reactor question and floating reminder keep the real poster/status until an actual playable frame; errors/delay/autoplay rejection expose Retry without blocking questions or resetting progress. The selected first Reactor clip alone preloads after the intro is playable and is reused on entry. Existing Pause/PiP controls and reminder close remain; failed play promises are handled. The game iframe shows a preparing state during initial navigation, with Return retained and stale ready callbacks guarded. No gameplay answers, rewards or curriculum content are changed.",
-          "nextAction": "Publish exact source review, obtain genuine unchanged-version receipts and normal guarded push; independently verify actual live demo/forms/Market/Careers/Core/Chapel/EST and every manifest asset. Then update actual root reader descriptions/screenshots and live closeout. Tania/Safari/physical-device/classroom acceptance remain separate.",
+          "nextAction": "Tania to check the actual live game and Market/map links, plus the isolated fictional Portfolio demo. Retain separate Safari/physical-device/classroom/account acceptance and existing broad CI failures. Continue Flyover only as its own bounded rebase/test/source-review/release scope; do not copy the older full app over this successor.",
           "evidence": [
             "docs/production/est-core-responsiveness-20261113.md",
             "docs/production/current-state.md"
           ],
           "implementation": "Original videos already have front-loaded playback metadata and are not rewritten. Four posters are exact1second frames from the unchanged Initiative intro/q1/q2/q3 clips. Intro, Reactor question and floating reminder keep the real poster/status until an actual playable frame; errors/delay/autoplay rejection expose Retry without blocking questions or resetting progress. The selected first Reactor clip alone preloads after the intro is playable and is reused on entry. Existing Pause/PiP controls and reminder close remain; failed play promises are handled. The game iframe shows a preparing state during initial navigation, with Return retained and stale ready callbacks guarded. No gameplay answers, rewards or curriculum content are changed.",
-          "testing": "Actual1280/390 forced source failure: real poster visible, question remains usable, Retry restores actual frames, Pause/Play works, selected Reactor and floating reminder become ready, guide/room images loaded,0page errors. Local final warmed Reactor readiness after click110ms/94ms is an observation, not an internet/Safari latency guarantee. Genuine16sec1920x1060 footage was already delivered separately; not recaptured. Original MP4 Git blobs unchanged. 413unit tests across90files with coverage pass.419staged asset hashes and109reachable imports pass. Required broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before disconnection terminated it without a final report; no all-CI-green claim. Verified Chapel button and physical walk-in/ceiling/return/reentry pass1280/390 on this successor. Verified EST rear-window video atz21.935, four-part cabinet clearance, exterior mouse/touch pitch, four monitor cards/guides, immediate cinema/return and return to16,12.5 pass1280/390. Original Chapel/world/card/video sources and all4Initiative videos match0adc2f5;5Market handoff/return helpers are byte-identical. Notes/Archon/backend/shared learning bank and separately staged CIf156c32 are not edited.",
-          "deployment": "Local qualification only. Current actual live game remains0adc2f5; the planned demo URL is not a deployment proof.",
+          "testing": "Actual1280/390 forced source failure: real poster visible, question remains usable, Retry restores actual frames, Pause/Play works, selected Reactor and floating reminder become ready, guide/room images loaded,0page errors. Local final warmed Reactor readiness after click110ms/94ms is an observation, not an internet/Safari latency guarantee. Genuine16sec1920x1060 footage was already delivered separately; not recaptured. Original MP4 Git blobs unchanged. 413unit tests across90files with coverage pass.419staged asset hashes and109reachable imports pass. Required broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before disconnection terminated it without a final report; no all-CI-green claim. Verified Chapel button and physical walk-in/ceiling/return/reentry pass1280/390 on this successor. Verified EST rear-window video atz21.935, four-part cabinet clearance, exterior mouse/touch pitch, four monitor cards/guides, immediate cinema/return and return to16,12.5 pass1280/390. Original Chapel/world/card/video sources and all4Initiative videos match0adc2f5;5Market handoff/return helpers are byte-identical. Notes/Archon/backend/shared learning bank and separately staged CIf156c32 are not edited. Actual live successor checks: 413unit tests across90files and coverage pass;419staged assets/109imports pass. Broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before connection loss; no completed or all-CI-green claim. Actual Safari, physical-device/classroom, real authenticated saving and Tania acceptance remain separate. No school/privacy-wide certification is inferred. Original clips, shared learning bank, existing Chapel/EST geometry, separate CIf156c32 and unrelated work are preserved. Flyover startup repair remains isolated, unmerged and unpublished.",
+          "deployment": "Portfolio161, Careers163 and Core164 are published and independently verified at the actual Career Empire game, commit b4f945ec5300bcd17a359f107ee1ed8d3d11b204. All419actual public runtime asset hashes and20changed runtime file hashes match. Native Chrome1280/390 verifies the shared all-in-one Portfolio form and four contexts, isolated fictional demo/all7capabilities, current-learner display safeguard, Careers camera/monitor, Core actual media and recoverable failures, preserved EST/Chapel and Market/map/Notes/Journal/Archon/same-run paths. Normal guarded publication used the exact c8bfb8d source review and genuine unchanged-version receipts.",
           "designApproval": "Tania reports EST Core/module lag. Recording: Core click around30.3s, blank white until32.4s, then Enter EST Lab; Core proceeds to Initiative. CEAWA clip trimming is not a game fix. New video target CEAWA Campus→EST Lab; separate read-only investigation identifies exact video/target. Reference9b1e61ed973081919336cacdc5c8046d pending integrator inspection.",
           "domain": "Measure actual Core navigation/page initialization and apply targeted performance repair with before/after evidence. New EST view video is being identified/edited separately; do not substitute a runtime asset.",
           "dependencies": [
