@@ -2259,3 +2259,9 @@ Chapel alternate-entry release 0adc2f5c20236751fe525103be06ba91d1a6d4bc is publi
 Tania to check the actual live game and Market/map links. Portfolio161 layout/context alignment, Careers Centre163 authorised-entry/camera/isolated fictional demo and EST164 Core responsiveness/media/capture remain separate successors; Flyover startup repair is preserved separately. No whole-campus or classroom acceptance inferred.
 
 [Actual live game](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/).
+
+## Qualified Portfolio/Careers/Core successor —13November2026
+
+Exact25-file Portfolio161/Careers163/Core164 candidate qualified on live0adc2f5: shared form/context models, isolated fictional demo, current-learner display filter, Careers camera/monitor and recoverable media readiness. 413unit tests across90files with coverage pass.419staged asset hashes and109reachable imports pass. Required broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before disconnection terminated it without a final report; no all-CI-green claim. Game publication and Tania acceptance remain pending.
+
+Publish the bounded exact source review, genuine receipts and guarded game successor; verify exact isolated demo URL and actual live regressions/assets. Update the root reader from the same existing source after live verification. Preserve separate Flyover and staged CI work.

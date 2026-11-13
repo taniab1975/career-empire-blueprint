@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-13T02:31:32.490949+00:00",
+  "generatedAt": "2026-11-13T04:26:04.667443+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "f02d12af9b8c70f54f38be0a72eb26ae539d307ecee0a1ec580961e1b17e13e0",
+  "recordSha256": "15951e26dafab33dec71139e47d592b3f59fa7c3399025f24550586ae56fef33",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -3057,22 +3057,6 @@
       "sha256": "0f27592e2888d09133c8b0a13cf54a62db71086e9a10b625c11316792d5d4215"
     },
     {
-      "path": "blueprint-records.json",
-      "sha256": "f02d12af9b8c70f54f38be0a72eb26ae539d307ecee0a1ec580961e1b17e13e0"
-    },
-    {
-      "path": "production/current-state.md",
-      "sha256": "4d927a128a37bc542300433ac267cdee522c4815ee459e2ea2fe88d59e6c080f"
-    },
-    {
-      "path": "production/current-state.html",
-      "sha256": "b7bdcf8d5be23365c1edda1966abcf234ef137f3fb5c08c114be78be775d4360"
-    },
-    {
-      "path": "production/material-changes.md",
-      "sha256": "e3871c394557a63456cd65bee13d08ee823852335baf5fd80d02d0356860fa79"
-    },
-    {
       "path": "production/chapel-additive-entry-20261113.md",
       "sha256": "8ac9a30858449f62fd272f95d6cc2e9718166ae28953ce99564a9824830586a3"
     },
@@ -3095,9 +3079,105 @@
     {
       "path": "evidence/chapel-additive-entry-20261113/390-inside.png",
       "sha256": "b5da6c47ac28125552a0961c0a07f34da5c56f0d6d92bcf4a573bf488f0c65d7"
+    },
+    {
+      "path": "blueprint-records.json",
+      "sha256": "15951e26dafab33dec71139e47d592b3f59fa7c3399025f24550586ae56fef33"
+    },
+    {
+      "path": "production/current-state.md",
+      "sha256": "d7f2988842de4f392643ae5d9b18b5ce702944dbfb51f1e757ae8524459fbb8f"
+    },
+    {
+      "path": "production/material-changes.md",
+      "sha256": "289c2406fa2baa7db15e7f7452a32406014c5346ccc198c9f21c69fef8dfd789"
+    },
+    {
+      "path": "production/current-state.html",
+      "sha256": "5d76031852ea2703f8165c672e4fa8ad970d0c9b8f73d4167bf320d468cdbf9e"
+    },
+    {
+      "path": "production/portfolio-privacy-implementation-20261113.md",
+      "sha256": "5492d384ddbf153c97ef3801ab711aa103ea8be0ae4e4f4b811656517ce86616"
+    },
+    {
+      "path": "production/portfolio-privacy-implementation-20261113.html",
+      "sha256": "d464911b49688f58e04852a9a286d21fb5429ae18a6e6491dfe41e7802f75c5c"
+    },
+    {
+      "path": "production/portfolio-privacy-applicability-20261113.md",
+      "sha256": "35ebe7c21a9a0d0b045479b04d20ee1d63aac040f2411c1d2e851c2e007df9c4"
+    },
+    {
+      "path": "production/portfolio-privacy-applicability-20261113.html",
+      "sha256": "8bb31f2137196eee98d94c832005f142f7f02066655f2a98d2460c85918640a0"
+    },
+    {
+      "path": "production/portfolio-alignment-20261113.md",
+      "sha256": "700d3beb19ca8e677c58af12dea39a1d24219da5bd28005c61c814cfe58bfed2"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/all-in-one-1280.png",
+      "sha256": "6b94dbb7feb1c7a713bd5fc1a4918b9e964c2d47c697e6778feae9698f161ee4"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/all-in-one-390.png",
+      "sha256": "9f72abb72a10fe0722646ea490a18656cc441a099dd0daff7b622e3f5e66543d"
+    },
+    {
+      "path": "production/portfolio-alignment-20261113.html",
+      "sha256": "bd8cf6e2c88cf77429a495164af5d7d044e4ef046788be38b1aa85b7a2297c87"
+    },
+    {
+      "path": "production/careers-portfolio-panel-20261113.md",
+      "sha256": "96d403575b46e634dcf89ae944fc92c2f61d6d68ff10fc4f35f0fb647549aef6"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/demo-first-card-1280.png",
+      "sha256": "597e55012c539a62267c1b7cb9e7288c44e706cd2ad0d038b63d194fc0bccfbe"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/demo-first-card-390.png",
+      "sha256": "f58c320a1e4b8b0687d7f5592a55ae17a0ad89fd247984c994ae7a1bfafc3bdd"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/careers-entry-1280.png",
+      "sha256": "21cc16e7a532354d491e9611611c823357b59c936786d4d753298d6c97790a9a"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/careers-entry-390.png",
+      "sha256": "bd6a34f0af5565edb5c9bb8a4cad5c34b57c7b39deb8e0ffdbf02292a4debd7d"
+    },
+    {
+      "path": "production/careers-portfolio-panel-20261113.html",
+      "sha256": "d5aae0c1dbaeb3fb6de1bf9f6c65feccb5e05cb9ff2d903b8fbd8f321adcd76f"
+    },
+    {
+      "path": "production/est-core-responsiveness-20261113.md",
+      "sha256": "12338ea5659b5a89cc8d75e4537f084934ae7e04061bf97569352121bcc3d11f"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/core-failure-1280.png",
+      "sha256": "b206aafa15417f0e93f601a73586eb12095cb7b760ef1bf01e8ed5fae3ccfb01"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/core-reactor-1280.png",
+      "sha256": "f70d754c9a86c656e071ed7dbc228a30452ff5529c2802c7819bcf9b6bd23e5b"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/core-failure-390.png",
+      "sha256": "6f2aa05a6fa0e91a8209e90d59131b64d9fe3ca86907436d7bcfd2e8351abe87"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/core-reactor-390.png",
+      "sha256": "e11d791fd0575fce6f017d9bcd511e38b7f434f583118a8263a87e5516c58d30"
+    },
+    {
+      "path": "production/est-core-responsiveness-20261113.html",
+      "sha256": "1a02d0f9ffd7db01926e82553f9a7f225eea19e01e1b94ee61dc13f06b6d1b75"
     }
   ],
-  "recordPublicationScope": "Verified live Chapel162 closeout and actual live desktop/phone evidence only; preserve frozen source integrations, root reader bundles, curriculum and unrelated records.",
+  "recordPublicationScope": "Necessary exact25-file161/163/164 source review, qualified native evidence and scoped technical privacy/applicability records. Preserve prior integrations, all global WA question statuses, root reader bundles and unrelated work; game deployment/user acceptance remain separate.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload."
 }

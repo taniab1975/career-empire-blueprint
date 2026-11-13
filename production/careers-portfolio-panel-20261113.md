@@ -1,0 +1,41 @@
+# Careers Portfolio, fictional demo and camera —13November2026
+
+## Exact qualified behavior
+
+Stable dedicated demo URL is https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/dashboards/student.html?portfolioDemo=1. All7capabilities,4dated fictional multi-tag examples, four experience choices and shared form are clearly labelled. Right-hand evidence streams have scrolling and Chronological/By capability controls; a separate fictional model is not a saved reflection. The existing View Portfolio modal retains its full grouped/timeline views. Real current-learner ownership is checked before display, with unmatched legacy work preserved and no auto-queue. Guest Careers monitor opens the isolated demo; signed-in mode opens the normal gated student portfolio. Careers camera has an eye-level target and bounded horizontal/vertical mouse/touch drag; other modes remain unchanged.
+
+## Checks and limits
+
+Actual1280/390 demo:7capabilities, complete original illustrations, right-pane grouping/scroll, multi-tags, shared5field form, optional anonymous practice, refresh reset, existing-cookie isolation,0Storage/backend/page errors. Actual native Careers mouse/automated-touch pan changes camera without moving actor; monitor opens exact demo and Close retains run. Desktop Recenter passes. Existing direct-view phone header Recenter is outside viewport; phone opposite drag restores heading. Synthetic current-learner/class/exact-binding tests reject foreign/unlinked/demo records without altering cache.
+
+413unit tests across90files with coverage pass.419staged asset hashes and109reachable imports pass. Required broad browser CI logged22passes/13inherited admin/legacy-wardrobe failures before disconnection terminated it without a final report; no all-CI-green claim.
+
+Verified Chapel button and physical walk-in/ceiling/return/reentry pass1280/390 on this successor. Verified EST rear-window video atz21.935, four-part cabinet clearance, exterior mouse/touch pitch, four monitor cards/guides, immediate cinema/return and return to16,12.5 pass1280/390. Original Chapel/world/card/video sources and all4Initiative videos match0adc2f5;5Market handoff/return helpers are byte-identical. Notes/Archon/backend/shared learning bank and separately staged CIf156c32 are not edited.
+
+## Privacy and learner boundaries
+
+Anonymous Market mode keeps Initiative scope and publicInitiative=1. The dedicated portfolioDemo=1 branch runs before account access/init, suppresses account/session/backend scripts and never falls through to learner data, including with existing cookies. It loads four labelled fictional examples with varied dates and multi-capability tags; optional anonymous practice is tab memory only, reset on refresh. Both isolated routes make zero Storage API and backend calls in actual1280/390 tests. Structured identity fields are discarded; date, existing context enum, capability/subskill tags and five free-text fields are purpose-limited. Free text can contain unsolicited personal information: warnings remain; it is not automatically anonymised. Public PDF is the user-controlled native print flow. Static hosting/font requests retain their existing network metadata; no reflection is put in URLs or sent to those services.
+
+The authenticated presentation now accepts a cached reflection only when an existing fetched employability-star review matches the current learner and class plus the exact source-evidence/task binding (and review ID when present). Equal free text and partial IDs do not prove ownership. Synthetic two-learner/class tests pass. No owner fields, auth provider, role grants, server query scope, RLS, tenancy schema, new records or permissions are introduced. Unmatched local records remain untouched and are not automatically queued under the current login; review synchronization for this display is non-persistent. This is a bounded UI/cache safeguard, not verification of the existing backend or all school tenancy controls. Older/unlinked records may remain hidden pending legitimate reconciliation; no deletion or migration occurs.
+
+DSE1/13/14 are scoped technical checks. DSE2/DAT1 are change-specific policy/ownership applicability determinations, not product-wide passes; all existing WA questions and school-readiness gaps remain UNVERIFIED. See the separate implementation/applicability records.
+
+## Publication state
+
+Local qualification only. Current actual live game remains0adc2f5; the planned demo URL is not a deployment proof. Publish exact source review, obtain genuine unchanged-version receipts and normal guarded push; independently verify actual live demo/forms/Market/Careers/Core/Chapel/EST and every manifest asset. Then update actual root reader descriptions/screenshots and live closeout. Tania/Safari/physical-device/classroom acceptance remain separate.
+
+## Exact source versions
+
+- `dashboards/dashboard.css` — `100644:e34e9543eb8d7335d455f1194cacaa24864c1e72`
+- `dashboards/dashboard.js` — `100644:9bbc8b388b3a77a6e458219e80eb1b45d21b20c8`
+- `dashboards/initiative-portfolio.css` — `100644:44588ee6cb83b0b2b822c8804b95e4d2bc7a5435`
+- `dashboards/portfolio-demo.mjs` — `100644:4f76be26845a85edf0d1be287b945dc7ffdc2276`
+- `dashboards/student.html` — `100644:ba31d9faec94ad744d769cdf5f30f2070f37559e`
+- `playable-3d/app.js` — `100644:17eb2bac726ba1a33c525834e598c09fefe81368`
+- `playable-3d/careers-view.mjs` — `100644:a12ff29bbccab7544a5ea534d31b023b573eaabc`
+- `playable-3d/guest-shell.mjs` — `100644:5bf3372bcc5bdd9b787144a6257f09ebd85e8817`
+- `playable-3d/index.html` — `100644:5fab60de8990aadcab8900cfe286e3ca42a9ac91`
+- `playable-3d/release-manifest.json` — `100644:f052fb995e2a48f2cfb8060fef7abdc9cc0a1127`
+- `tests/unit/careers-view.test.mjs` — `100644:c6dd7804b843eca7327c872592ef60544c9e4e43`
+- `tests/unit/current-learner-portfolio.test.mjs` — `100644:7a5fcba478a3dfc2ab750898bfa41e7662af7f89`
+- `tests/unit/portfolio-demo-isolation.test.mjs` — `100644:1aeb7bebb638c1324a3203ed7253eb6e26cea7e4`
