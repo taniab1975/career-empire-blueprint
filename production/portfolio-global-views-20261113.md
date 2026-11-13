@@ -23,3 +23,13 @@ Unpublished five-file successor to b4f945e. Publish this exact five-file source 
 - dashboards/student.html — 100644:0ecca9d0ea34e78bf784e83efb1c2892d797c4a2
 - playable-3d/release-manifest.json — 100644:ac55ad5335d0077beba20cb023ce463bbd24160a
 - tests/unit/portfolio-global-views.test.mjs — 100644:23cd6c3c271ecfc6621f4abd9515dab57aea156f
+
+## Corrected Portfolio global views verified live —13November2026
+
+Portfolio global views and compact card correction165 is published at the actual Career Empire game, commit 465faea80bdbbac2d143c7f17a8c01e0c5378403. All419public runtime assets match. Actual native Chrome1280/390 passes one global switch above the capability list, seven dropdowns, multi-tag repetition, unique newest-first year/month chronology and equivalent modal views. Desktop right evidence scrolling is bounded to the complete natural left block height; expanding the model does not alter left height or document position. Phone stacking, readable entries, anonymous practice/reset and zero demo Storage/backend/page errors pass. Actual public Market form and Market/map/Notes/Journal/Archon/same-run regressions also pass.
+
+415unit tests/91files and coverage pass;419index assets/109imports pass. Required CI source/unit/coverage passed; browser server initially collided with an existing port. The independent standard alternate-port browser run stopped at the inherited Admin-preview failure:1failed/272not-run. No all-CI-green, actual Safari, physical-device, classroom, real account saving or Tania acceptance claim. Existing ownership/cache/auth/storage/review functions and all unrelated game scenes remain unchanged; separate CIf156c32 is restored staged only and Flyover remains unpublished.
+
+Tania to check the actual live Portfolio and Market/map links. Keep separate Safari/physical-device/classroom/account acceptance and broader CI backlog; no more Portfolio layout change is inferred. Preserve the bounded Flyover repair and unrelated work.
+
+[Live fictional Portfolio demo](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/dashboards/student.html?portfolioDemo=1&release=465faea). [Actual live game](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/?release=465faea).
