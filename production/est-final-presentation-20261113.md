@@ -39,3 +39,14 @@ These are the supplied existing EST orientation descriptions, not a new edition,
 - `playable-3d/style.css` — `100644:39b739a60e3767be6d22e22b7abda976c4e01a36`
 - `playable-3d/world.js` — `100644:4352148f503a16e88bd0ee6404d1836cd83b4a9e`
 - `tests/unit/est-presentation.test.mjs` — `100644:c3178fddd65df3a595a697524c24e66b905579f8`
+
+## Final EST verified live — 13 November2026
+
+Final EST 1a7faf627d5177582cc08fb21d42482d26489a9f is published and independently verified at the actual Career Empire game. Pages43331239471 succeeded; all355 actual runtime asset hashes match. Live native Chrome1280/390/1920 verifies the floor-height outside window video, physical walk-in, Play EST video and Return to campus both immediately visible and actionable without another step, audible cinema/close, mouse/touch wall-screen activation and keyboard/touch return. All four CORE/TERM/VTCS/BOSS card/guide graphics are loaded in the native scene and their actual live CanvasTextures exactly match the inspected qualified graphics. Settled1920 capture shows all four together; phone entry controls remain clear of joystick/map. Zero page errors in all three cases; exact live app bytes verified before appending read-only observers. Source391 tests/83 files,355 staged assets/107 imports and4 focused video regressions pass. Broad CI source/coverage passed; browser26pass/13admin-entry-legacy-wardrobe-old-Chapel-guide failures/1interrupted/233not-run retained, no all-CI-green claim. Native fullscreen is denied in headless; actual Safari/physical device/classroom and Tania acceptance remain separate. Archon, Notes, Chapel and shared learning bank are preserved; CI f156c32 remains separately staged. This completes only Tania's three final EST changes. Portfolio153 follows; optional Enter Chapel is restored separately later while walk-in remains.
+
+[Actual live EST](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/?view=est&release=1a7faf6).
+
+Metadata correction:149 had inherited a Chapel approval caption; its existing EST release instruction is now correctly described. All frozen source integrations remain unchanged.155's authoritative source bindings contain nine files; no appearance acceptance is inferred from any inherited reviewer caption.
+
+
+Material-record metadata correction:149 and155 inherited a Chapel rationale/evidence caption from a template. Their current EST purpose, exact evidence links and separate user-acceptance status are corrected here. Source integrations and game receipts remain unchanged.

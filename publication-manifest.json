@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-12T23:25:22.748Z",
+  "generatedAt": "2026-11-13T00:01:06.752270+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "7f0058aafcbe0cc76421b29162739075c5ecfbbf9349ab393ef2dce26092ae56",
+  "recordSha256": "d68ce2b87a4eb219ad19a61fda47d58c7c89d03f5f4deb4a23afc7f543bb29ad",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -2938,43 +2938,43 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "7f0058aafcbe0cc76421b29162739075c5ecfbbf9349ab393ef2dce26092ae56"
+      "sha256": "d68ce2b87a4eb219ad19a61fda47d58c7c89d03f5f4deb4a23afc7f543bb29ad"
     },
     {
       "path": "production/est-final-presentation-20261113.md",
-      "sha256": "bceb32bdfcef474099f39ca75666c6c9423850c89534d09f8658674052be0267"
+      "sha256": "bd0211c32c73c4cfc5817296abb6f01ee72e459c6337aafe13550e3df7cca15c"
     },
     {
       "path": "production/est-final-presentation-20261113.html",
-      "sha256": "68ee92e398ef2e5f08d358497686462df853eb3d08881521808aa2b664b10115"
+      "sha256": "4d4c45bf8f1a7ffb11aec96c759b996bb17ad615d8f7befd679163a89514c65e"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "9622b15942a3125da774ad5f98c116d17050e7fdc3a60ee920ee6d107ea3f9dd"
+      "sha256": "031553bb446a6b72f67054ec51508fe878faa3a25391eeaacb00056830ef036a"
     },
     {
       "path": "production/current-state.html",
-      "sha256": "7b3bc770580418dd2317999dffa62ec71b3b1e828a3ae3cd4d2332248d7d7eea"
+      "sha256": "f9fcdc4416821de92eaaae0d84131f6f71595bfefa1801190f2f39a5eaf7d8df"
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "b17084a99d55e95dc3a695ceb441d9aaedfa46cb38f005b5679c7acfab4bfa86"
+      "sha256": "4dc68b82edb1dfd60391fbb5277cd3bba4a1bd6eb92197a80317556ff8c9a7ba"
     },
     {
       "path": "evidence/est-final-20261113/outside-1280.png",
-      "sha256": "6f3852b188e24b517f6f30c32661e0d83cbe7080b1abad986de95daf4be7862b"
+      "sha256": "d8df32767cb15edfbf804ae08c6192f54b2a09cfe6119d68f6bce60754b660bc"
     },
     {
       "path": "evidence/est-final-20261113/outside-390.png",
-      "sha256": "9a2418afb19fd7b0526e8e01d0ecb9705df602238ed65e609cadb803e08bbeb7"
+      "sha256": "22280fd016236c5a57114d2af39805b9765381624f100fd504af793859bb6500"
     },
     {
       "path": "evidence/est-final-20261113/inside-1920.png",
-      "sha256": "b65c9ba06d76bcfde8b88293646b8d6c9099504420b928fd32f6ff28c0cb50cd"
+      "sha256": "7a0c6e106b44de642a2c1c2f7d5104884ae00711d8c78839e4fc7d068ebb8398"
     },
     {
       "path": "evidence/est-final-20261113/inside-390.png",
-      "sha256": "0be69e83c767bf5851dfad029970bf6626ae1afb3d07e0b3f0f673858c849620"
+      "sha256": "bab2b2aa383b600936f7906ae8b2d88f6685a29e86c9fada1e8d3f431ba230e2"
     },
     {
       "path": "evidence/est-final-20261113/core.png",
@@ -2993,7 +2993,7 @@
       "sha256": "2f074aa5fbdd9840754f95b2694e1f86d99e4c442833cc4b586f3cca74bfa11a"
     }
   ],
-  "recordPublicationScope": "Preserve d671750 reader/Market tabs, all new bundles/screenshots and every prior integration; update only155 exact final EST source review/current-state and eight actual game/canvas images.",
+  "recordPublicationScope": "Final EST155 verified live closeout and eight actual live proof images; preserve d671750 Market reader, every frozen source integration and unrelated work. Correct only inherited material-record rationale/evidence/approval metadata in our149/155 entries.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload."
 }
