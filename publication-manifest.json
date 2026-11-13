@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-13T00:43:41.100008+00:00",
+  "generatedAt": "2026-11-13T00:45:15.803569+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "5f08de4a159f9ea0038ffe5327d2853d716cbfc0aae5bcbbf33eb206390f6912",
+  "recordSha256": "0151251d835bddc27aa5bc521a98e09b239c5c4276b776ca2609c0add6eb3693",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -2977,28 +2977,12 @@
       "sha256": "2f074aa5fbdd9840754f95b2694e1f86d99e4c442833cc4b586f3cca74bfa11a"
     },
     {
-      "path": "blueprint-records.json",
-      "sha256": "5f08de4a159f9ea0038ffe5327d2853d716cbfc0aae5bcbbf33eb206390f6912"
-    },
-    {
       "path": "production/est-back-window-20261113.md",
       "sha256": "a482c9bf6cf64d1aa21b5cd5d579396a018f980a4bb68cb50ea7d544c6577832"
     },
     {
       "path": "production/est-back-window-20261113.html",
       "sha256": "b4980847e5786f4a4e1e86b28a2346ffb892788819aef28bec76a581f0c9381d"
-    },
-    {
-      "path": "production/current-state.md",
-      "sha256": "029302203b7aa565f2e0ee201f8b198d7bfee6a90f057b0f1f3f7eeb1c9c138a"
-    },
-    {
-      "path": "production/current-state.html",
-      "sha256": "5e72ac26166b9f32149884d4e5c622d019721da51d697b57def7c25ae292c043"
-    },
-    {
-      "path": "production/material-changes.md",
-      "sha256": "dc46e80421dbb82787a5db07f718b7d5b6037e1f2422550d482bf84386542868"
     },
     {
       "path": "evidence/est-back-return-20261113/est-outside-1280.png",
@@ -3015,9 +2999,41 @@
     {
       "path": "evidence/est-back-return-20261113/est-inside-390.png",
       "sha256": "a5544e567f5761235fb0981ac8c03ed08b7b6f9eec5ce0926b48001492ea10d7"
+    },
+    {
+      "path": "blueprint-records.json",
+      "sha256": "0151251d835bddc27aa5bc521a98e09b239c5c4276b776ca2609c0add6eb3693"
+    },
+    {
+      "path": "production/portfolio-overview-release-20261113.md",
+      "sha256": "ff241e4d31a5ea2ba306353fdc5f8f6a26e2e1ed4923a42b5ac5348a5d8d2816"
+    },
+    {
+      "path": "production/portfolio-overview-release-20261113.html",
+      "sha256": "dbb0e8170448d3266c040287ee94db66b6d284027c5785b4b218d507291ac6f1"
+    },
+    {
+      "path": "production/current-state.md",
+      "sha256": "5f6b5332149c080b4ac80abfd732140ffda1db4c1b533c7b6338f0a7fb61839e"
+    },
+    {
+      "path": "production/current-state.html",
+      "sha256": "dd2a96225768431eb7ad7c8826f7085606df76dd6c138742b40eaa26cbaf80cf"
+    },
+    {
+      "path": "production/material-changes.md",
+      "sha256": "2a0aff0bc4c5047da31ab32e7d3c7c035f8cd5f2c0ae99873770f0cf304cdb5e"
+    },
+    {
+      "path": "evidence/portfolio-overview-20261113/portfolio-overview-1280.png",
+      "sha256": "f63ce0a8fcac3f4c02bf0f4a3dc5a6cd45756a07b9238f9bddfbd8f7cb94374e"
+    },
+    {
+      "path": "evidence/portfolio-overview-20261113/portfolio-overview-390.png",
+      "sha256": "f5838076596aa8b2298f228ba24e4bd501a2374462f65151f7953ea21d24809a"
     }
   ],
-  "recordPublicationScope": "Verified live EST158 closeout and four actual live native captures; source integrations immutable and all other records/bundles preserved.",
+  "recordPublicationScope": "Bounded153 exact Portfolio source review; preserve verified EST158, all prior reader records/integrations and bundles. Root-reader wording awaits actual game live closeout.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload."
 }

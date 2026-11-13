@@ -39460,6 +39460,30 @@
           ],
           "supersededRecord": null,
           "taniaAcceptance": "Back-window correction pending; do not claim prior front deployment met it."
+        },
+        {
+          "id": "CE-CHANGE-20261113-153",
+          "date": "2026-11-13",
+          "title": "Initiative portfolio overview first and same-run Market return",
+          "source": "Tania explicitly authorized EST then preserved portfolio successor sequentially; optional Enter Chapel button later alongside walk-in. Existing coordinator release instruction and direct live approval persist.",
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "status": "Qualified current-base source; game publication pending",
+          "rationale": "Show the existing Initiative overview before explicit five-step anonymous entry, and preserve a reliable same-run Market return with ordinary-gated standalone fallback.",
+          "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix.",
+          "evidence": [
+            "docs/production/portfolio-overview-release-20261113.md",
+            "docs/production/current-state.md"
+          ],
+          "implementation": "The public Market Portfolio link now opens the illustrated Initiative overview and existing six employability logos first. Start entry explicitly opens or resumes the existing five-step STAR builder. Date, own-experience prompts, anonymous reflection log and PDF/print remain. Existing authenticated dashboard code outside initPublicInitiativePortfolio remains byte-identical to the live predecessor; role and teacher functions are unchanged. Only an exact same-origin/same-project public Portfolio anchor opts into the opener relationship. A narrow boolean hook resumes an already-open Market, closes its dialog, resets navigation input and focuses the existing run; no reload, postMessage, learner-ID transfer or Storage API. Closed/cross-origin/wrong-project/false hooks fall back safely. A standalone Open Market link requests the real Sunday Market through its ordinary classroom gate. It does not mark the intro complete or bypass access. If a browser refuses to close a user-opened Portfolio tab, the existing Market still resumes and the fallback instruction remains.",
+          "testing": "Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+          "deployment": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix.",
+          "designApproval": "Tania directed the preserved portfolio successor after final EST; no new curriculum, data or backend approval is inferred.",
+          "domain": "Public Initiative portfolio overview/form entry and validated Market return only; authenticated dashboard behavior preserved.",
+          "dependencies": [
+            "CE-CHANGE-20261113-158"
+          ],
+          "supersededRecord": null,
+          "taniaAcceptance": "Current-base qualification and publication pending; no new user acceptance inferred."
         }
       ],
       "sessionStart": [
@@ -102077,6 +102101,472 @@
             "playable-3d/release-manifest.json": "100644:6cd7c93eef07cb5136489ab76102247be6886bd7",
             "playable-3d/world.js": "100644:945dbd528fa4b177a9ac69f758a21f0d2f0481d5",
             "tests/unit/est-presentation.test.mjs": "100644:5ec0a07dfb6ef67b70b333e533119936418e0fe3"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261113-153",
+        "title": "Initiative portfolio overview first and same-run Market return",
+        "types": [
+          "implementation",
+          "activity",
+          "release",
+          "governance"
+        ],
+        "status": "complete",
+        "objective": "Open the illustrated overview first; explicit Start retains the anonymous five-step log/PDF; validated same-origin opener returns to the current Market run and standalone link uses the ordinary gate.",
+        "before": "Qualified six-file portfolio candidate remains based on69aa78e; current game56d83fe publishes EST while retaining prior portfolio initialization/return.",
+        "after": "The public Market Portfolio link now opens the illustrated Initiative overview and existing six employability logos first. Start entry explicitly opens or resumes the existing five-step STAR builder. Date, own-experience prompts, anonymous reflection log and PDF/print remain. Existing authenticated dashboard code outside initPublicInitiativePortfolio remains byte-identical to the live predecessor; role and teacher functions are unchanged. Only an exact same-origin/same-project public Portfolio anchor opts into the opener relationship. A narrow boolean hook resumes an already-open Market, closes its dialog, resets navigation input and focuses the existing run; no reload, postMessage, learner-ID transfer or Storage API. Closed/cross-origin/wrong-project/false hooks fall back safely. A standalone Open Market link requests the real Sunday Market through its ordinary classroom gate. It does not mark the intro complete or bypass access. If a browser refuses to close a user-opened Portfolio tab, the existing Market still resumes and the fallback instruction remains.",
+        "source": "Tania explicitly authorized EST then preserved portfolio successor sequentially; optional Enter Chapel button later alongside walk-in. Existing coordinator release instruction and direct live approval persist.",
+        "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+        "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32.",
+          "rationale": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Existing data unchanged.",
+            "locations": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Existing locations unchanged.",
+            "accessCountries": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Existing accessCountries unchanged.",
+            "providers": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Existing providers unchanged.",
+            "lifecycle": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Existing lifecycle unchanged.",
+            "encryption": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Existing encryption unchanged.",
+            "logging": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Existing logging unchanged.",
+            "identity": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Existing identity unchanged.",
+            "isolation": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Existing isolation unchanged.",
+            "privacySafety": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Existing privacySafety unchanged.",
+            "applicability": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Existing applicability unchanged.",
+            "verification": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Existing verification unchanged."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate."
+          ],
+          "reviewedBy": "Existing sole game integrator; exact nine-file public Portfolio scope",
+          "reviewedAt": "2026-11-13",
+          "productionComplete": false,
+          "releasePurpose": "product-change",
+          "securityApproval": "Explicit Tania public Portfolio publication instruction; no new identity/data architecture or classroom permission.",
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Update start for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update start for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Update media for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update media for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Update decisions for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update decisions for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Update flow for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update flow for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Update journey for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update journey for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Update build for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update build for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Update recovery for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update recovery for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing shared Initiative source bank, Carolan attribution, six logos, STAR questions and teaching content are unchanged; no curriculum coverage/mastery claim. The public path remains anonymous and run-memory only, with the existing draft-loss warning; no new persistence, data collection, identity, account, role, provider, permission, backend, logs or telemetry. PDF is existing local print behavior. Authenticated portfolio/teacher submission remain separate. Preserve Archon, Notes, Chapel, EST controls/cards/cinema/rear-window/return and staged CI f156c32. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Update roadmap for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update roadmap for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Update history for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update history for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Update protocol for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update protocol for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Update exports for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exports for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          },
+          {
+            "surface": "publication",
+            "disposition": "updated",
+            "action": "Update publication for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-153"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Overview before explicit Start; all5steps/log/PDF; no storage or authenticated drift; same-run opener and normal-gated standalone Market return; exact9source bindings.",
+            "evidence": [
+              "docs/production/portfolio-overview-release-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update publication for overview-first anonymous Portfolio, explicit Start and validated same-run versus normal-gated Market return; exact source and acceptance limits. Five focused helper/DOM/return regressions pass.392unit tests across83files and355runtime hashes/107reachable imports pass. Actual isolated native Chrome1280/390 verifies overview before Start, all five written steps and date, anonymous log, one-page A4 PDF, zero Storage API calls and zero page errors. The actual Market DOM link guard, same-origin popup opener return preserving the same run ID, and standalone new-visit return through the normal classroom gate pass at both widths. Source/coverage CI passed. Prior full broad CI on1a7-based candidate recorded50pass/14inherited failures/1interrupted/208not-run; current-base CI is recorded separately, no all-CI-green claim. Actual Safari, physical touch, classroom/teacher submission and Tania acceptance remain separate. Actual root-reader wording update held for verified-live closeout, not prematurely claimed. Exact source-review1280/390 renders both overview captures without overflow. Current bf33308-based CI source/unit392/83/coverage passed; browser first inherited admin-preview failed,1interrupted/271not-run after owned runner graceful stop. Focused Portfolio/native cases all pass; no full-CI success.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Source-qualified candidate only. Publish exact source review, generate a genuine nine-file receipt, use normal guarded game push, verify actual live overview/form/log/PDF and Market/map/same-run/normal-gated return, then publish verified-live reader closeout including actual Market reader wording. Chapel room/transition clarification remains separate; do not replace artwork or treat the additive button as the entire fix."
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "dashboards/dashboard.js": "100644:1e6101c0d7c70625aee2e8ce81e167afa07f3cc4",
+            "dashboards/student.html": "100644:062aea82bd48901253d25515647476c38d0b3fd4",
+            "modules/initiative/parallel/learning/portfolio/initiative-portfolio.mjs": "100644:c13c54411d12ad260d3e50464047060a14e68d6b",
+            "playable-3d/app.js": "100644:7a10872d3ab8a29d97a446085950f9f1bb5c46fc",
+            "playable-3d/guest-shell.mjs": "100644:2d9169476966ee18537829890a5a8a92504a3ed9",
+            "playable-3d/index.html": "100644:b375b021a0c63c2169ba420d835d7abe671a09cb",
+            "playable-3d/market-entrance/market-entrance.mjs": "100644:cc9cef3ea3c96a1f63194da435cd4d71dbcd0e3c",
+            "playable-3d/night-market.js": "100644:bbfba68d76483be5f6f7d437372f62cd72a68cbd",
+            "playable-3d/release-manifest.json": "100644:0d48ac270a7335d178021a47970d541c9b2d57c4"
           }
         }
       }
