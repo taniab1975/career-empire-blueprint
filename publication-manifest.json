@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-13T00:45:15.803569+00:00",
+  "generatedAt": "2026-11-13T01:11:31.817920+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "0151251d835bddc27aa5bc521a98e09b239c5c4276b776ca2609c0add6eb3693",
+  "recordSha256": "36aac0d51066d123fcaba93c61f840efa7a0da900c7f2a2987f1fadbb483a597",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -1749,10 +1749,6 @@
       "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7"
     },
     {
-      "path": "index.html",
-      "sha256": "f9bd70da59dc9c5f91dfcd2aac15d22cc0f9cda1f20c0ea9b6f61272171526da"
-    },
-    {
       "path": "playable-3d/app.js",
       "sha256": "df4ced2e46aaebf3f2b1b9416f652be745b5927d0c371ebfe192d85d268da46c"
     },
@@ -2275,14 +2271,6 @@
     {
       "path": "production/learning-principles-20261021.md",
       "sha256": "b994df03b2153b14e647d4c78de5fd392deb2006ab47b7d7352ef0b0d8612bfc"
-    },
-    {
-      "path": "production/live-game-review-20261112.html",
-      "sha256": "3fbf33bb0a4feef85edd5c26058e2d92ba89521f64c53521a6cc065ec9243f85"
-    },
-    {
-      "path": "production/live-game-review-20261112.md",
-      "sha256": "b6270e35ffe2ae85a535db243eab6e857217734467696ca72d1a4521eb49483a"
     },
     {
       "path": "production/local-economy-20260923.md",
@@ -3002,38 +2990,58 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "0151251d835bddc27aa5bc521a98e09b239c5c4276b776ca2609c0add6eb3693"
+      "sha256": "36aac0d51066d123fcaba93c61f840efa7a0da900c7f2a2987f1fadbb483a597"
     },
     {
       "path": "production/portfolio-overview-release-20261113.md",
-      "sha256": "ff241e4d31a5ea2ba306353fdc5f8f6a26e2e1ed4923a42b5ac5348a5d8d2816"
+      "sha256": "99426f4aa2a2228c2d3e1bf8a9d9f342ee056b1fff7b0b8453d378b17bc30ddc"
     },
     {
       "path": "production/portfolio-overview-release-20261113.html",
-      "sha256": "dbb0e8170448d3266c040287ee94db66b6d284027c5785b4b218d507291ac6f1"
+      "sha256": "ae84ee1d99f4deea5f00c6e41233893b6e084de971df7f07c95139ea0a6fa423"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "5f6b5332149c080b4ac80abfd732140ffda1db4c1b533c7b6338f0a7fb61839e"
+      "sha256": "be7f64b18da0b5ebf0252345d38ec64fe3478e7b4d9e74bd23855578c7cf1b20"
     },
     {
       "path": "production/current-state.html",
-      "sha256": "dd2a96225768431eb7ad7c8826f7085606df76dd6c138742b40eaa26cbaf80cf"
+      "sha256": "2ec5e88bdccb847c799ff051a21d097646f98955fa7931636e2c3da60a5cf59c"
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "2a0aff0bc4c5047da31ab32e7d3c7c035f8cd5f2c0ae99873770f0cf304cdb5e"
+      "sha256": "578d207ebc4a640022d72bcdd1a827819bcdf15585fe24e84c54cc9d315a9bd5"
     },
     {
       "path": "evidence/portfolio-overview-20261113/portfolio-overview-1280.png",
-      "sha256": "f63ce0a8fcac3f4c02bf0f4a3dc5a6cd45756a07b9238f9bddfbd8f7cb94374e"
+      "sha256": "5cdf01c0471f5b2ff9cee814935e75f42270c77f5bcee1faa685b845fb2e4c87"
     },
     {
       "path": "evidence/portfolio-overview-20261113/portfolio-overview-390.png",
-      "sha256": "f5838076596aa8b2298f228ba24e4bd501a2374462f65151f7953ea21d24809a"
+      "sha256": "ea5344b5c001b16bf0403c663c12fbd0328eb2361098899aec75f3687e4b608f"
+    },
+    {
+      "path": "index.html",
+      "sha256": "7d655150a400bbdd6285f46dccc0f78625b34b949e248e427849e3727c455a4f"
+    },
+    {
+      "path": "assets/index-DC3aymK3.js",
+      "sha256": "b00a11add05cf0a3bcc6ef5d47b28c58f143a89d957b33cee97f704c9bc3dc43"
+    },
+    {
+      "path": "assets/curriculum-planner-DYnIkdOQ.js",
+      "sha256": "0ac9a9eb9922b4d9100d17fdd19a6042df8c8ff29fc1bb1b48bad162a16fcf3d"
+    },
+    {
+      "path": "production/live-game-review-20261112.md",
+      "sha256": "670456344fe94071f1e79f6ebe7792380388e985e4c07590fc196b18b3a788df"
+    },
+    {
+      "path": "production/live-game-review-20261112.html",
+      "sha256": "a5c75f1fed9d566093f9f5b022db34c3d373e3de2f772c78a61e48d9aef6e9ee"
     }
   ],
-  "recordPublicationScope": "Bounded153 exact Portfolio source review; preserve verified EST158, all prior reader records/integrations and bundles. Root-reader wording awaits actual game live closeout.",
+  "recordPublicationScope": "Verified live Portfolio153 closeout, two live overview captures, actual Market reader six-text update and same-source build. Preserve exactCSS, fourtabs/shared dropdown, source integrations and every other reader record/asset.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload."
 }
