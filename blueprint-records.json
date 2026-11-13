@@ -39419,7 +39419,7 @@
           "title": "Final EST window display, immediate entry actions and four monitor cards",
           "source": "Tania requests video take over floor-to-ceiling window; Play EST video and Return to campus immediately on entry; corresponding CORE/TERM/VTCS/BOSS card and celebrating headphone boy at bottom of each monitor. No more EST changes after these. Three exact Library references inspected; existing live56d83fe preserved.",
           "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
-          "status": "Published and independently verified; user acceptance separate",
+          "status": "Live controls/cards verified; front-window placement rejected and rear correction158 pending",
           "rationale": "Implement exactly Tania's final three EST requests: window-height video, both immediate entry actions and four matching card/guide monitor faces; retain all other live work.",
           "nextAction": "Complete current-base portfolio153 overview/form/privacy/PDF/normal-gated and same-run return qualification on final EST1a7faf6, then exact review/receipt/guarded release/live checks. Optional Enter Chapel button later must retain current walk-in. No additional EST production.",
           "evidence": [
@@ -39435,7 +39435,31 @@
             "CE-CHANGE-20261113-149"
           ],
           "supersededRecord": null,
-          "taniaAcceptance": "Actual source/native/live checks passed; Tania appearance, physical-device and classroom acceptance remain separate."
+          "taniaAcceptance": "Tania explicitly rejects the front-window placement and requests the back window; no appearance acceptance inferred."
+        },
+        {
+          "id": "CE-CHANGE-20261113-158",
+          "date": "2026-11-13",
+          "title": "Correct EST back-window placement and return to its entrance",
+          "source": "Tania explicitly corrects: not on the front window - o the back window. Screenshot image(20261113-001145).png inspected; preserve full-window scale and all released entry/card/cinema changes; publish targeted correction. Latest explicit Tania correction: EST Return to campus must restore just outside EST, not the starting point. Chapel scene mismatch is separately investigated before any scene replacement.",
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "status": "Qualified; exact source review and game publication pending",
+          "rationale": "Move only the existing preview/backing to the actual rear glazing at z22.009, leaving front glazing/entry clear; retain all other live1a7faf6 behavior.",
+          "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option.",
+          "evidence": [
+            "docs/production/est-back-window-20261113.md",
+            "docs/production/current-state.md"
+          ],
+          "implementation": "The unchanged workplace model rear panes span x13.124–18.877, y.36–3.12, z22.009–22.021. The existing5.753×2.76 backing moves to16,1.74,21.94; the full-height16:9 video face moves to16,1.74,21.935. Front glazing atz14.009 remains clear. Native exterior captures show room depth, foreground cabinet and frames retained; the cabinet naturally occludes some rear film from outside. No furniture, door, wall, collision or media content is removed; depth testing remains enabled. The separate indoor screen and original video/texture/material remain unchanged. The common destination function previously sent all destinations to arrival when campusReady was false. EST now keeps its existing destination16,12.5 and camera yaw even in that early state. This requires no wait for wider campus preparation and preserves the normal entry/reentry route. Both visible EST Return and the common campus-return control use this same correction.",
+          "testing": "392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Native fullscreen remains denied in headless; actual Safari, physical touch, classroom and Tania appearance acceptance remain separate. Prior broad CI failures in admin-entry, legacy wardrobe and old Chapel guide remain recorded; no all-CI-green claim. Archon, Notes, Chapel, source PDFs, four teaching cards, entry controls, cinema and separate CI are preserved. Portfolio153 remains locally qualified on predecessor1a7faf6, unpublished, and will be serially rebased after this correction. Chapel scene mismatch is being investigated; no scene/artwork replacement or button-only assumption is included.",
+          "deployment": "Source-qualified only. Exact source review publication, genuine seven-file receipt, guarded normal game push and independent live checks are required before calling this published.",
+          "designApproval": "Tania explicitly requests and authorizes publishing the targeted back-window correction; no broader EST work.",
+          "domain": "Only EST exterior-preview/backing depth and required cache/manifest/test bindings. Also correct the verified not-campusReady return fallback so Return to campus restores EST.x/z rather than arrival spawn.",
+          "dependencies": [
+            "CE-CHANGE-20261113-155"
+          ],
+          "supersededRecord": null,
+          "taniaAcceptance": "Back-window correction pending; do not claim prior front deployment met it."
         }
       ],
       "sessionStart": [
@@ -101547,6 +101571,512 @@
             "playable-3d/style.css": "100644:39b739a60e3767be6d22e22b7abda976c4e01a36",
             "playable-3d/world.js": "100644:4352148f503a16e88bd0ee6404d1836cd83b4a9e",
             "tests/unit/est-presentation.test.mjs": "100644:c3178fddd65df3a595a697524c24e66b905579f8"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261113-158",
+        "title": "Correct EST back-window placement and return to its entrance",
+        "types": [
+          "implementation",
+          "activity",
+          "visual",
+          "building",
+          "release",
+          "governance"
+        ],
+        "status": "complete",
+        "objective": "Only EST exterior-preview/backing depth and required cache/manifest/test bindings. Also correct the verified not-campusReady return fallback so Return to campus restores EST.x/z rather than arrival spawn.",
+        "before": "1a7faf6 displays full-height film on front glazing at z13.925. This is the wrong window and does not meet Tania's placement request.",
+        "after": "The unchanged workplace model rear panes span x13.124–18.877, y.36–3.12, z22.009–22.021. The existing5.753×2.76 backing moves to16,1.74,21.94; the full-height16:9 video face moves to16,1.74,21.935. Front glazing atz14.009 remains clear. Native exterior captures show room depth, foreground cabinet and frames retained; the cabinet naturally occludes some rear film from outside. No furniture, door, wall, collision or media content is removed; depth testing remains enabled. The separate indoor screen and original video/texture/material remain unchanged. The common destination function previously sent all destinations to arrival when campusReady was false. EST now keeps its existing destination16,12.5 and camera yaw even in that early state. This requires no wait for wider campus preparation and preserves the normal entry/reentry route. Both visible EST Return and the common campus-return control use this same correction.",
+        "source": "Tania explicitly corrects: not on the front window - o the back window. Screenshot image(20261113-001145).png inspected; preserve full-window scale and all released entry/card/cinema changes; publish targeted correction. Latest explicit Tania correction: EST Return to campus must restore just outside EST, not the starting point. Chapel scene mismatch is separately investigated before any scene replacement.",
+        "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+        "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate.",
+          "rationale": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. Existing data unchanged.",
+            "locations": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. Existing locations unchanged.",
+            "accessCountries": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. Existing accessCountries unchanged.",
+            "providers": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. Existing providers unchanged.",
+            "lifecycle": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. Existing lifecycle unchanged.",
+            "encryption": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. Existing encryption unchanged.",
+            "logging": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. Existing logging unchanged.",
+            "identity": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. Existing identity unchanged.",
+            "isolation": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. Existing isolation unchanged.",
+            "privacySafety": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. Existing privacySafety unchanged.",
+            "applicability": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. Existing applicability unchanged.",
+            "verification": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. Existing verification unchanged."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing."
+          ],
+          "reviewedBy": "Integrate and test Initiative; exact seven-file EST rear-window and return correction",
+          "reviewedAt": "2026-11-13",
+          "productionComplete": false,
+          "releasePurpose": "product-change",
+          "securityApproval": "Tania explicitly authorized this bounded correction and publication; no new data architecture or classroom approval.",
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Update start for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update start for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Update media for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update media for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Update decisions for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update decisions for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Update flow for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update flow for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Update journey for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update journey for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Update world for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update world for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Update buildings for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update buildings for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Update visuals for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update visuals for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Update assets for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update assets for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Update build for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update build for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Update recovery for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update recovery for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No new data collection, account, role, storage, retention, logging, telemetry, provider, permission, backend or host. No curriculum edition, coverage, scoring, assessment, teacher service or mastery judgement changes. Existing public media only; reference screenshots stay private. Fictional guest/native game evidence only. School/ST4S acceptance remains separate. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Update roadmap for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update roadmap for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Update history for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update history for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Update protocol for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update protocol for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Update exports for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exports for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          },
+          {
+            "surface": "publication",
+            "disposition": "updated",
+            "action": "Update publication for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact seven source bindings; rear glazing/front clear and entrance16,12.5; preserve all four cards, entry controls and cinema; distinguish qualified/live/accepted.",
+            "evidence": [
+              "docs/production/est-back-window-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update publication for EST rear-window depth and exterior entrance return, preserving all other released game behavior and explicit acceptance limits. 392 unit tests across83 files pass. Four focused wall-video geometry, lifecycle, retry and real-screen gesture tests pass.355 runtime hashes and107 reachable imports pass. Actual isolated headless native Chrome1280/390 verifies physical walk-in, both immediate entry actions, all four loaded monitor cards/celebrating guides, audible cinema/close, real mouse/touch wall-screen activation and keyboard/touch return at16,12.5. Zero page errors.1920 capture retains all four monitors. The first new async unit assertion ran before its VM microtask; retained failure corrected by awaiting completion, with actual product/browser result already passing. Exact source-review HTML1280/390 displays all four actual native images without horizontal overflow; game publication remains a separate guarded step.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Verify and publish bounded EST rear-window and entrance-return correction, then portfolio153. Diagnose Chapel actual-room mismatch; preserve artwork/interior and additive entry option."
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "playable-3d/app.js": "100644:ca2d5b9abb81842eb9b9a208723fa3fcd714de31",
+            "playable-3d/est-wall-video.js": "100644:2f176106c3652839bf7b06303cb7fe4ad4ee7502",
+            "playable-3d/guest-shell.mjs": "100644:730a683efcd0d09fb7939287b196fb40799672a7",
+            "playable-3d/index.html": "100644:a7d11b1c889c52b581d4b1acb6ecbaa220b89e00",
+            "playable-3d/release-manifest.json": "100644:6cd7c93eef07cb5136489ab76102247be6886bd7",
+            "playable-3d/world.js": "100644:945dbd528fa4b177a9ac69f758a21f0d2f0481d5",
+            "tests/unit/est-presentation.test.mjs": "100644:5ec0a07dfb6ef67b70b333e533119936418e0fe3"
           }
         }
       }

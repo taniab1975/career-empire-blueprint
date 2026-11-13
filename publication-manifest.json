@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-13T00:01:06.752270+00:00",
+  "generatedAt": "2026-11-13T00:31:29.011033+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "d68ce2b87a4eb219ad19a61fda47d58c7c89d03f5f4deb4a23afc7f543bb29ad",
+  "recordSha256": "ed3b2957361e20006b0290c91fae7f1b40bc9da08bb90c24f96c965da10f06f3",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -2937,28 +2937,12 @@
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
     },
     {
-      "path": "blueprint-records.json",
-      "sha256": "d68ce2b87a4eb219ad19a61fda47d58c7c89d03f5f4deb4a23afc7f543bb29ad"
-    },
-    {
       "path": "production/est-final-presentation-20261113.md",
       "sha256": "bd0211c32c73c4cfc5817296abb6f01ee72e459c6337aafe13550e3df7cca15c"
     },
     {
       "path": "production/est-final-presentation-20261113.html",
       "sha256": "4d4c45bf8f1a7ffb11aec96c759b996bb17ad615d8f7befd679163a89514c65e"
-    },
-    {
-      "path": "production/current-state.md",
-      "sha256": "031553bb446a6b72f67054ec51508fe878faa3a25391eeaacb00056830ef036a"
-    },
-    {
-      "path": "production/current-state.html",
-      "sha256": "f9fcdc4416821de92eaaae0d84131f6f71595bfefa1801190f2f39a5eaf7d8df"
-    },
-    {
-      "path": "production/material-changes.md",
-      "sha256": "4dc68b82edb1dfd60391fbb5277cd3bba4a1bd6eb92197a80317556ff8c9a7ba"
     },
     {
       "path": "evidence/est-final-20261113/outside-1280.png",
@@ -2991,9 +2975,49 @@
     {
       "path": "evidence/est-final-20261113/boss.png",
       "sha256": "2f074aa5fbdd9840754f95b2694e1f86d99e4c442833cc4b586f3cca74bfa11a"
+    },
+    {
+      "path": "blueprint-records.json",
+      "sha256": "ed3b2957361e20006b0290c91fae7f1b40bc9da08bb90c24f96c965da10f06f3"
+    },
+    {
+      "path": "production/est-back-window-20261113.md",
+      "sha256": "044e8c830ccca6c70de2717a86183c0ee31b8f3d5a442d2706acd2915756be89"
+    },
+    {
+      "path": "production/est-back-window-20261113.html",
+      "sha256": "379c6a9b77205b214241349e4870956c06417bcb8d034a778a46e2cc4a65df3c"
+    },
+    {
+      "path": "production/current-state.md",
+      "sha256": "907e8cd8c4a4d1fbcfabf741c2108de6320b6a58ecdc1da9b63054b3dd5ddf99"
+    },
+    {
+      "path": "production/current-state.html",
+      "sha256": "75a453a32dc201aea76f091d2d4e0ccea3ca15de18ecd862aa6b37e8b67c5a74"
+    },
+    {
+      "path": "production/material-changes.md",
+      "sha256": "dfb0eac40815f3ecd66165a6e8588a841f49d2acf9c26e6f835724ed7c8edb54"
+    },
+    {
+      "path": "evidence/est-back-return-20261113/est-outside-1280.png",
+      "sha256": "1d8c3eef529387162655587fd256581fda57c16fac86128d43f1db2b9e64d301"
+    },
+    {
+      "path": "evidence/est-back-return-20261113/est-outside-390.png",
+      "sha256": "a829fa90d072aca53ef4ea6610186c109dbbcbfab98528d3d13ef7f9479cf180"
+    },
+    {
+      "path": "evidence/est-back-return-20261113/est-inside-1280.png",
+      "sha256": "c5dfcac2b445ecba6192e18a5bfdd0574da92de249dc34e57a6f70436797905f"
+    },
+    {
+      "path": "evidence/est-back-return-20261113/est-inside-390.png",
+      "sha256": "cbd07efe8b76487f58aca9bdb80038de29c7aaf5ad761d84d338afe6324fbec0"
     }
   ],
-  "recordPublicationScope": "Final EST155 verified live closeout and eight actual live proof images; preserve d671750 Market reader, every frozen source integration and unrelated work. Correct only inherited material-record rationale/evidence/approval metadata in our149/155 entries.",
+  "recordPublicationScope": "Bounded158 EST back-window and entrance return source review; mark155 front placement rejected. Preserve every source integration and all other reader bundles/records.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload."
 }
