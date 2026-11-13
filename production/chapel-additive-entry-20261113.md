@@ -33,3 +33,11 @@ Source-qualified7file candidate on verified73a4315. This publication closes veri
 - `playable-3d/release-manifest.json` — `100644:26ee764720bf5fcb3c3c6c7cfc08e39911132dc1`
 - `tests/unit/chapel-entry-action.test.mjs` — `100644:568d96ab19691207f2f00982f726826f52d62f03`
 - `tests/unit/world-interaction-priority.test.mjs` — `100644:dc007dbb415064573e1c20c96601d9f2daee0adf`
+
+## Additional Chapel entry verified live
+
+Chapel alternate-entry release 0adc2f5c20236751fe525103be06ba91d1a6d4bc is published and independently verified at the actual Career Empire game. All356 public runtime asset hashes and all5 changed runtime file hashes match. Actual native Chrome1280/390 first-day approach verifies Enter Chapel without facing alignment, mouse/automated touch entry, return and button reappearance, then unchanged physical doorway walking, ceiling scan, exit/checkpoint and walking reentry. Actual published Market/map, Notes reading/feedback/written answers, Journal contextual return, Archon lobby and same-run checks pass at both widths with zero page errors/missing responses and zero guest Notes Storage API/backend calls.398unit tests/85files,356assets/108imports and10focused checks pass. Required CI source/unit/coverage pass; inherited admin/legacy browser failures and interruption remain, no all-CI-green claim. Existing Chapel room/model/artwork, EST73a4315, Portfolio399a4da and separately staged CIf156c32 are preserved. Safari, physical-device/classroom and Tania live acceptance remain separate.
+
+Tania to check the actual live game and Market/map links. Portfolio161 layout/context alignment, Careers Centre163 authorised-entry/camera/isolated fictional demo and EST164 Core responsiveness/media/capture remain separate successors; Flyover startup repair is preserved separately. No whole-campus or classroom acceptance inferred.
+
+[Actual live game](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/).
