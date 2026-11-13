@@ -34897,7 +34897,7 @@
       "activeMilestoneId": "CE-CONTINUITY-01",
       "objective": "Make the purpose, current design, implementation limits and next decisions understandable to a new colleague.",
       "now": "Portfolio399a4daae1bd4ac31f381e5ef7abb277cd067eec is published at the actual Career Empire game. Pages43341446243 succeeded; all355 runtime hashes and all9 changed public file hashes match. Actual unmodified live native Chrome1280/390 verifies illustrated overview before explicit Start entry, all five STAR written steps/date, anonymous reflection log and one-page A4 PDF with zero Storage API calls and page errors. The actual Market link opens Portfolio with a validated same-origin opener; Return to open Market tab resumes the exact existing run ID. Standalone Open Market reaches the actual Sunday Market through its normal classroom gate at both widths. Actual live Market/map hide-show, Notes reading/feedback/written answers, Journal contextual return, Archon lobby and same-run retention also pass1280/390 with zero missing responses/page errors and zero guest Notes Storage API/backend calls. EST rear-window and outside-entrance return remain preserved.392unit/83files,355assets/107imports and5focused helper tests pass. Required CI source/unit/coverage passed; inherited admin-preview failure retained, no all-CI-green claim. The predecessor Market harness used the newly meaningful automatic-return query but waited for loading before answering its gate; its timeout is retained. The final actual manual walk-in and standalone automatic-return paths both pass independently. Safari, physical touch, classroom, teacher submission/account saving and Tania acceptance remain separate.",
-      "next": "Tania to check the live game/Market/map links. Chapel diagnosis: detailed ECC interior source and old entry route match pre-walk-in version; doorway uses the same separate scene. Resolve whether actual-room request means the small circular campus shell or a natural transition into the detailed ECC interior before geometry/scene replacement. Retain artwork, physical walk-in and the additional-button requirement; button restoration alone does not resolve this discrepancy. Flyover remains a separate preserved successor.",
+      "next": "Publish approved exact160source review, genuine8file receipt and normal guarded game push; verify actual sightline/pan/entry/return. Then restore additive Chapel162button with room/walk-in unchanged; Portfolio161alignment follows.",
       "then": "Author and review core learning materials, purposeful application and appropriate evidence across the shared phases; align school pacing and assessment dates before setting lessons.",
       "later": "Implement the agreed connected course and verify classroom, accessibility, school and learner-evidence requirements separately.",
       "sequence": [
@@ -35235,7 +35235,7 @@
         "V2-D03",
         "V2-D18"
       ],
-      "nextAction": "Tania to check the live game/Market/map links. Chapel diagnosis: detailed ECC interior source and old entry route match pre-walk-in version; doorway uses the same separate scene. Resolve whether actual-room request means the small circular campus shell or a natural transition into the detailed ECC interior before geometry/scene replacement. Retain artwork, physical walk-in and the additional-button requirement; button restoration alone does not resolve this discrepancy. Flyover remains a separate preserved successor.",
+      "nextAction": "Publish approved exact160source review, genuine8file receipt and normal guarded game push; verify actual sightline/pan/entry/return. Then restore additive Chapel162button with room/walk-in unchanged; Portfolio161alignment follows.",
       "doneWhen": "Core materials and meaningful application/evidence are authored and reviewed against the exact curriculum and school assessment requirements. Blueprint publication, game integration, school permission and learner mastery have separate evidence.",
       "boundary": "Documentation refresh only; does not approve game production, new backend, security permissions or a student trial. No real learner records changed."
     },
@@ -39484,6 +39484,31 @@
           ],
           "supersededRecord": null,
           "taniaAcceptance": "Current-base qualification and publication pending; no new user acceptance inferred."
+        },
+        {
+          "id": "CE-CHANGE-20261113-160",
+          "date": "2026-11-13",
+          "title": "Clear EST rear-video sightline and enable exterior vertical pan",
+          "source": "Tania: better but move the podium (brown table interrupting the view of the video) and allow panning up and down from this view. Library image(20261113-011443).png inspected.",
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "status": "Qualified exact8-file candidate; approved necessary source publication pending",
+          "rationale": "Move the existing Tool storage and three Storage front meshes together toward the side before batching; retain all geometry/materials. Add bounded mouse/touch pitch only in EST exterior viewing area, preserving original zero-pitch framing.",
+          "nextAction": "Publish approved exact160source review, genuine8file receipt and normal guarded game push; verify actual sightline/pan/entry/return. Then restore additive Chapel162button with room/walk-in unchanged; Portfolio161alignment follows.",
+          "evidence": [
+            "docs/production/est-podium-pan-20261113.md",
+            "docs/production/current-state.md"
+          ],
+          "implementation": "The brown obstruction is Tool storage plus Storage front, Storage front.001 and Storage front.002 in the unchanged workplace GLB. Before static batching, all four translate+4.2m on localX together, moving the cabinet from worldx15 to10.8. Its3m width now fits worldx9.3–12.3 inside the existing room and clear of rear-video x13.124–18.877. Geometry, materials, source GLB, furniture count and relative panel positions remain unchanged. The transform is idempotent and refuses partial assemblies; loader-sanitized names are supported. Native scene metadata confirms exactly4parts moved. Original doors, walls, floor, monitors, back video and physics stay intact. Mouse and ordinary touch pointer drags now adjust pitch only in the existing EST front approach x9–23,z6–14.1 while in town and outside aerial mode. Horizontal look remains. Pitch is bounded[-.55,.75]; zero tilt preserves the prior framing exactly. The camera look target changes after collision clearance; camera body and avatar do not teleport or move. Entering another mode or Recenter resets this tilt. Chapel tilt, Flyover, indoor cinema and unrelated campus framing remain unchanged.",
+          "testing": "396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema.",
+          "deployment": "Source-qualified only. Tania now explicitly approves this source review and subsequent normal guarded EST game release; no160live claim yet.",
+          "designApproval": "Direct Tania targeted furniture relocation and exterior-panning request; no scene/geometry redesign or acceptance inferred. Tania explicitly approves the two prepared public Blueprint publications and EST live release: Yes please publish and proceed to lilve for est prep and bluepting. Prior review rejections were unexecuted; one retry under this materially new direct approval. Chapel current room/walking/artwork confirmed; restore button as an additional option only.",
+          "domain": "EST storage assembly transform and bounded exterior camera pitch; cache/manifest/regression dependencies only.",
+          "dependencies": [
+            "CE-CHANGE-20261113-153",
+            "CE-CHANGE-20261113-158"
+          ],
+          "supersededRecord": null,
+          "taniaAcceptance": "New candidate not reviewed."
         }
       ],
       "sessionStart": [
@@ -102567,6 +102592,513 @@
             "playable-3d/market-entrance/market-entrance.mjs": "100644:cc9cef3ea3c96a1f63194da435cd4d71dbcd0e3c",
             "playable-3d/night-market.js": "100644:bbfba68d76483be5f6f7d437372f62cd72a68cbd",
             "playable-3d/release-manifest.json": "100644:0d48ac270a7335d178021a47970d541c9b2d57c4"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261113-160",
+        "title": "Clear EST rear-video sightline and enable exterior vertical pan",
+        "types": [
+          "implementation",
+          "activity",
+          "visual",
+          "building",
+          "release",
+          "governance"
+        ],
+        "status": "complete",
+        "objective": "EST storage assembly transform and bounded exterior camera pitch; cache/manifest/regression dependencies only.",
+        "before": "Brown storage cabinet obstructs rear-window video; town drag changes yaw only.",
+        "after": "The brown obstruction is Tool storage plus Storage front, Storage front.001 and Storage front.002 in the unchanged workplace GLB. Before static batching, all four translate+4.2m on localX together, moving the cabinet from worldx15 to10.8. Its3m width now fits worldx9.3–12.3 inside the existing room and clear of rear-video x13.124–18.877. Geometry, materials, source GLB, furniture count and relative panel positions remain unchanged. The transform is idempotent and refuses partial assemblies; loader-sanitized names are supported. Native scene metadata confirms exactly4parts moved. Original doors, walls, floor, monitors, back video and physics stay intact. Mouse and ordinary touch pointer drags now adjust pitch only in the existing EST front approach x9–23,z6–14.1 while in town and outside aerial mode. Horizontal look remains. Pitch is bounded[-.55,.75]; zero tilt preserves the prior framing exactly. The camera look target changes after collision clearance; camera body and avatar do not teleport or move. Entering another mode or Recenter resets this tilt. Chapel tilt, Flyover, indoor cinema and unrelated campus framing remain unchanged.",
+        "source": "Tania: better but move the podium (brown table interrupting the view of the video) and allow panning up and down from this view. Library image(20261113-011443).png inspected.",
+        "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+        "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate.",
+          "rationale": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. Existing data architecture unchanged.",
+            "locations": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. Existing locations architecture unchanged.",
+            "accessCountries": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. Existing accessCountries architecture unchanged.",
+            "providers": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. Existing providers architecture unchanged.",
+            "lifecycle": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. Existing lifecycle architecture unchanged.",
+            "encryption": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. Existing encryption architecture unchanged.",
+            "logging": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. Existing logging architecture unchanged.",
+            "identity": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. Existing identity architecture unchanged.",
+            "isolation": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. Existing isolation architecture unchanged.",
+            "privacySafety": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. Existing privacySafety architecture unchanged.",
+            "applicability": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. Existing applicability architecture unchanged.",
+            "verification": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. Existing verification architecture unchanged."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema."
+          ],
+          "reviewedBy": "Existing sole game integrator; exact eight-file160 furniture/camera source review",
+          "reviewedAt": "2026-11-13",
+          "productionComplete": false,
+          "releasePurpose": "product-change",
+          "securityApproval": "Direct Tania targeted EST correction under existing game release authority; source-only exact versions required by release guard. Separate rejected Blueprint closeout excluded; no new data architecture/classroom acceptance.",
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Update start only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update start only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Update media only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update media only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Update decisions only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update decisions only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Update flow only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update flow only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Update journey only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update journey only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Update world only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update world only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Update buildings only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update buildings only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Update visuals only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update visuals only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Update assets only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update assets only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Update build only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update build only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Update recovery only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update recovery only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Portfolio399a4da overview, shared STAR/log/PDF/validated Market return code remains byte-unchanged except the game app cache/import chain. The app change adds only local EST exterior pitch alongside existing input and mode resets. Archon, Notes, shared teaching bank, source documents, four monitor cards, EST rear-window media/return and Chapel artwork/interior remain unchanged. No new data collection, provider, identity, account, role, backend, permission, Storage API, retention, telemetry or logs. Existing CI failures in admin/legacy paths remain separately recorded; required current CI log is retained, no all-CI-green claim. Actual Safari, physical device/classroom and Tania appearance acceptance remain separate. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Update roadmap only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update roadmap only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Update history only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update history only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Update protocol only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update protocol only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Update exports only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exports only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          },
+          {
+            "surface": "publication",
+            "disposition": "updated",
+            "action": "Update publication only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact8file source bindings,4existing cabinet parts moved together with original materials/geometry, actual mouse/touch vertical look, unchanged EST entry/cards/cinema/return and unrelated modules.",
+            "evidence": [
+              "docs/production/est-podium-pan-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update publication only for160 existing cabinet assembly relocation and bounded EST exterior vertical look; rejected Portfolio closeout/root reader changes remain outside this review. 396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. Exact source-review1280/390 renders all6native proof images with no horizontal overflow. Required CI source/unit396/84/coverage pass; first inherited admin-preview failure retained, owned runner gracefully stopped. No all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Build isolated399a4da successor; test actual same exterior view and up/down pointer/touch, rear-video lifecycle, EST entry/return, Portfolio/Market preservation. No rejected Blueprint publication retry."
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "playable-3d/app.js": "100644:a38b142964bb90574530b9cb68ba89ddd608f40e",
+            "playable-3d/campus-landscape.js": "100644:d3b6c0e2653427bebe6042e26b68e5a8ca7e8ea1",
+            "playable-3d/est-exterior-view.mjs": "100644:1e54162f9b20168b1b998d9a563c9529407a5fa4",
+            "playable-3d/guest-shell.mjs": "100644:94d4ba475653d88040d36a22ae3bc63b10e835ea",
+            "playable-3d/index.html": "100644:8c05ff0872f0e302f9934f599f7c2a7dbec4e699",
+            "playable-3d/release-manifest.json": "100644:bbaf60f0e196bbc47d09b13628eaf4ed8fde5293",
+            "playable-3d/world.js": "100644:ce260964851b7130ca61dc28c76bbdcb4bfe13d4",
+            "tests/unit/est-exterior-view.test.mjs": "100644:f5b4ed0ede6ca5e018474b75792a2d4415085ad9"
           }
         }
       }

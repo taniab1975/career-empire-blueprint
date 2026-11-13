@@ -2,7 +2,7 @@
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
   "generatedAt": "2026-11-13T01:11:31.817920+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "36aac0d51066d123fcaba93c61f840efa7a0da900c7f2a2987f1fadbb483a597",
+  "recordSha256": "04e0fdccb32c37bc8ca36a6ef10b4c52d5f2f805aa2844261ef95e9631e82e88",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -2989,28 +2989,12 @@
       "sha256": "a5544e567f5761235fb0981ac8c03ed08b7b6f9eec5ce0926b48001492ea10d7"
     },
     {
-      "path": "blueprint-records.json",
-      "sha256": "36aac0d51066d123fcaba93c61f840efa7a0da900c7f2a2987f1fadbb483a597"
-    },
-    {
       "path": "production/portfolio-overview-release-20261113.md",
       "sha256": "99426f4aa2a2228c2d3e1bf8a9d9f342ee056b1fff7b0b8453d378b17bc30ddc"
     },
     {
       "path": "production/portfolio-overview-release-20261113.html",
       "sha256": "ae84ee1d99f4deea5f00c6e41233893b6e084de971df7f07c95139ea0a6fa423"
-    },
-    {
-      "path": "production/current-state.md",
-      "sha256": "be7f64b18da0b5ebf0252345d38ec64fe3478e7b4d9e74bd23855578c7cf1b20"
-    },
-    {
-      "path": "production/current-state.html",
-      "sha256": "2ec5e88bdccb847c799ff051a21d097646f98955fa7931636e2c3da60a5cf59c"
-    },
-    {
-      "path": "production/material-changes.md",
-      "sha256": "578d207ebc4a640022d72bcdd1a827819bcdf15585fe24e84c54cc9d315a9bd5"
     },
     {
       "path": "evidence/portfolio-overview-20261113/portfolio-overview-1280.png",
@@ -3039,9 +3023,57 @@
     {
       "path": "production/live-game-review-20261112.html",
       "sha256": "a5c75f1fed9d566093f9f5b022db34c3d373e3de2f772c78a61e48d9aef6e9ee"
+    },
+    {
+      "path": "blueprint-records.json",
+      "sha256": "04e0fdccb32c37bc8ca36a6ef10b4c52d5f2f805aa2844261ef95e9631e82e88"
+    },
+    {
+      "path": "production/est-podium-pan-20261113.md",
+      "sha256": "19c34fd908e7cf0ecd9da39b6cb5ef6952a614c21a8388777f280b463ca0bdff"
+    },
+    {
+      "path": "production/est-podium-pan-20261113.html",
+      "sha256": "43ec55586d79803432264e7409964420e1181dff4a25c75bca0fe01f7b712ad9"
+    },
+    {
+      "path": "production/current-state.md",
+      "sha256": "dfdd818b400c68ec94dacf197b06df254361ee44a2773b8481f61c716ac81465"
+    },
+    {
+      "path": "production/current-state.html",
+      "sha256": "c578fe90a2b30d581592ed0974c76811481432c039ec670bba8273fe761d8d22"
+    },
+    {
+      "path": "production/material-changes.md",
+      "sha256": "0f0d081c70054b295c4aa72aa552bd59e4201e1b289b3dd064cd02464576d91b"
+    },
+    {
+      "path": "evidence/est-podium-pan-20261113/est-outside-1280.png",
+      "sha256": "ac2399e0374c538efd6dbcd3369194aa814a55aa2dd1d210dc4decff137c4d43"
+    },
+    {
+      "path": "evidence/est-podium-pan-20261113/est-outside-390.png",
+      "sha256": "fc0f95cf3faca4610b9ba46979114728b489492dadfd79570090d9d944c93f30"
+    },
+    {
+      "path": "evidence/est-podium-pan-20261113/est-pan-up-1280.png",
+      "sha256": "e68a6250f0f00fab3dc57b7aa00748eb1bed8b9d74701a346c4abfac74c7e20b"
+    },
+    {
+      "path": "evidence/est-podium-pan-20261113/est-pan-down-1280.png",
+      "sha256": "84308ce12811824635884a49243966632f24ce7b5d456d877653a68cb4c47b4e"
+    },
+    {
+      "path": "evidence/est-podium-pan-20261113/est-pan-up-390.png",
+      "sha256": "e9c103e6895b549303006f01ee4d5933e782993300e13ed45b2e44cffccf66d5"
+    },
+    {
+      "path": "evidence/est-podium-pan-20261113/est-pan-down-390.png",
+      "sha256": "a1463e8e67344845f817b119b07a1afb7f21aca0ce754d58cd1e4957e37bd11e"
     }
   ],
-  "recordPublicationScope": "Verified live Portfolio153 closeout, two live overview captures, actual Market reader six-text update and same-source build. Preserve exactCSS, fourtabs/shared dropdown, source integrations and every other reader record/asset.",
+  "recordPublicationScope": "Explicitly authorized160 exact necessary EST source review; preserve approved153closeout/root-reader build and every prior integration. No160game deployment inferred.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload."
 }
