@@ -34,3 +34,9 @@ This is only the necessary exact8file source review for the newly requested EST 
 - `playable-3d/release-manifest.json` — `100644:bbaf60f0e196bbc47d09b13628eaf4ed8fde5293`
 - `playable-3d/world.js` — `100644:ce260964851b7130ca61dc28c76bbdcb4bfe13d4`
 - `tests/unit/est-exterior-view.test.mjs` — `100644:f5b4ed0ede6ca5e018474b75792a2d4415085ad9`
+
+## Verified live
+
+EST73a4315e28cb5d70bebfe150cba0d495f913f3db is independently verified live after explicit Tania approval. Pages43346579415 succeeded; all356 runtime hashes and all7 changed runtime bytes match. Actual native Chrome1280/390/1920 verifies4cabinet parts moved intact out of the rear-film sightline; real mouse/automated touch vertical pan raises/lowers the actual camera forward vector without avatar movement and restores zero framing. Physical entry, both immediate actions,4monitor cards/guides, audible cinema/close, actual wall-screen gesture and Return to16,12.5 pass with zero page errors.396unit/84files and356assets/108imports pass. The original cabinet geometry/materials and GLB remain, rear video stays atz21.935. Portfolio399a4da and approved Blueprint153reader are preserved. Fullscreen denied in headless; actual Safari/physical/classroom/Tania acceptance remain separate. Source/unit/coverage CI pass; inherited admin failures retained, no fullgreen.
+
+Chapel is clarified: current room/walking are correct; add the optional Enter button.

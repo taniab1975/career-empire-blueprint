@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-13T01:11:31.817920+00:00",
+  "generatedAt": "2026-11-13T01:59:12.358908+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "04e0fdccb32c37bc8ca36a6ef10b4c52d5f2f805aa2844261ef95e9631e82e88",
+  "recordSha256": "d786d9914533756cc5bdd029ce75f8b4d5919b50ce5fabba27c982ead1889b9e",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -3026,54 +3026,78 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "04e0fdccb32c37bc8ca36a6ef10b4c52d5f2f805aa2844261ef95e9631e82e88"
+      "sha256": "d786d9914533756cc5bdd029ce75f8b4d5919b50ce5fabba27c982ead1889b9e"
     },
     {
       "path": "production/est-podium-pan-20261113.md",
-      "sha256": "19c34fd908e7cf0ecd9da39b6cb5ef6952a614c21a8388777f280b463ca0bdff"
+      "sha256": "0525444e6078a67b463f5cccfc85b241964295187eb2353aa0980b77dc195e33"
     },
     {
       "path": "production/est-podium-pan-20261113.html",
-      "sha256": "43ec55586d79803432264e7409964420e1181dff4a25c75bca0fe01f7b712ad9"
+      "sha256": "ecd460a8449e5acd4139a69079b86a8515c2d16e6dcc6dc7154a2932ca03078a"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "dfdd818b400c68ec94dacf197b06df254361ee44a2773b8481f61c716ac81465"
+      "sha256": "9f8a2c5f3155d25b484ce7333997f766a6572c4727684e5af6eb750d71af60a1"
     },
     {
       "path": "production/current-state.html",
-      "sha256": "c578fe90a2b30d581592ed0974c76811481432c039ec670bba8273fe761d8d22"
+      "sha256": "2a1863e006f26b8e22b7930259bd891375d9d238a1156b8e7cfd256f5f60d831"
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "0f0d081c70054b295c4aa72aa552bd59e4201e1b289b3dd064cd02464576d91b"
+      "sha256": "7a89f30ba3bb506274fe3507bc557a2d0c10baef91cc2393e9ac0c91a9a006a6"
     },
     {
       "path": "evidence/est-podium-pan-20261113/est-outside-1280.png",
-      "sha256": "ac2399e0374c538efd6dbcd3369194aa814a55aa2dd1d210dc4decff137c4d43"
+      "sha256": "82c27e2a026fb58b7f67da4681d82618cec32edd2fb2219ed0311183bb036812"
     },
     {
       "path": "evidence/est-podium-pan-20261113/est-outside-390.png",
-      "sha256": "fc0f95cf3faca4610b9ba46979114728b489492dadfd79570090d9d944c93f30"
+      "sha256": "e370d5ae3d4af02b1f1e13e527526cee0035f3dc6a6d75863651f96ef5d9a5bf"
     },
     {
       "path": "evidence/est-podium-pan-20261113/est-pan-up-1280.png",
-      "sha256": "e68a6250f0f00fab3dc57b7aa00748eb1bed8b9d74701a346c4abfac74c7e20b"
+      "sha256": "47629acb6308a85fe1f4e1f7e633e01a7e82485264544d04feadaa13fb69a0ca"
     },
     {
       "path": "evidence/est-podium-pan-20261113/est-pan-down-1280.png",
-      "sha256": "84308ce12811824635884a49243966632f24ce7b5d456d877653a68cb4c47b4e"
+      "sha256": "8f67d1bd2fd5f1dbd048e9cd0d1bed76b6cc4661a8d5a25066e431ff415fed0a"
     },
     {
       "path": "evidence/est-podium-pan-20261113/est-pan-up-390.png",
-      "sha256": "e9c103e6895b549303006f01ee4d5933e782993300e13ed45b2e44cffccf66d5"
+      "sha256": "cb6644d622203414a0124584138442f2ba33a85ebcec990f0506e694dcfbb1ea"
     },
     {
       "path": "evidence/est-podium-pan-20261113/est-pan-down-390.png",
-      "sha256": "a1463e8e67344845f817b119b07a1afb7f21aca0ce754d58cd1e4957e37bd11e"
+      "sha256": "0f27592e2888d09133c8b0a13cf54a62db71086e9a10b625c11316792d5d4215"
+    },
+    {
+      "path": "production/chapel-additive-entry-20261113.md",
+      "sha256": "1e1de461455642c509ea157c3fc7bd13fc1dcb247b8d9268b31fcfe7a419f0bb"
+    },
+    {
+      "path": "production/chapel-additive-entry-20261113.html",
+      "sha256": "e87742c3f341c1dbd433e91eda2f5b3c4bf7c5b726b5ed563a88fe449a034c5a"
+    },
+    {
+      "path": "evidence/chapel-additive-entry-20261113/1280-entry-button.png",
+      "sha256": "fa333135a2b02a6c0e5e4e84cf92d4c78fc8e3688cb1f35c3c8f0e2155cacd5d"
+    },
+    {
+      "path": "evidence/chapel-additive-entry-20261113/1280-inside.png",
+      "sha256": "c079ef4aa7c336524040760a41b015fb4d72d44d8c7b14c795ac3c12bdef62b7"
+    },
+    {
+      "path": "evidence/chapel-additive-entry-20261113/390-entry-button.png",
+      "sha256": "1f834cbcdb3732af370a491ff4a096c2d9395bd98c52337024f3ad1a0476c390"
+    },
+    {
+      "path": "evidence/chapel-additive-entry-20261113/390-inside.png",
+      "sha256": "4795f821ee3b9c3b091e4d7ed273fd2d825ee2c9beac70d0b6b6e5a2527da8c3"
     }
   ],
-  "recordPublicationScope": "Explicitly authorized160 exact necessary EST source review; preserve approved153closeout/root-reader build and every prior integration. No160game deployment inferred.",
+  "recordPublicationScope": "Authorized EST160verified-live closeout and necessary162additive-Chapel source review only. Preserve Portfolio153root bundles and all prior source integrations. No162game publication inferred.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload."
 }

@@ -34896,8 +34896,8 @@
       "phase": "Refresh the reader against the live game",
       "activeMilestoneId": "CE-CONTINUITY-01",
       "objective": "Make the purpose, current design, implementation limits and next decisions understandable to a new colleague.",
-      "now": "Portfolio399a4daae1bd4ac31f381e5ef7abb277cd067eec is published at the actual Career Empire game. Pages43341446243 succeeded; all355 runtime hashes and all9 changed public file hashes match. Actual unmodified live native Chrome1280/390 verifies illustrated overview before explicit Start entry, all five STAR written steps/date, anonymous reflection log and one-page A4 PDF with zero Storage API calls and page errors. The actual Market link opens Portfolio with a validated same-origin opener; Return to open Market tab resumes the exact existing run ID. Standalone Open Market reaches the actual Sunday Market through its normal classroom gate at both widths. Actual live Market/map hide-show, Notes reading/feedback/written answers, Journal contextual return, Archon lobby and same-run retention also pass1280/390 with zero missing responses/page errors and zero guest Notes Storage API/backend calls. EST rear-window and outside-entrance return remain preserved.392unit/83files,355assets/107imports and5focused helper tests pass. Required CI source/unit/coverage passed; inherited admin-preview failure retained, no all-CI-green claim. The predecessor Market harness used the newly meaningful automatic-return query but waited for loading before answering its gate; its timeout is retained. The final actual manual walk-in and standalone automatic-return paths both pass independently. Safari, physical touch, classroom, teacher submission/account saving and Tania acceptance remain separate.",
-      "next": "Publish approved exact160source review, genuine8file receipt and normal guarded game push; verify actual sightline/pan/entry/return. Then restore additive Chapel162button with room/walk-in unchanged; Portfolio161alignment follows.",
+      "now": "EST73a4315e28cb5d70bebfe150cba0d495f913f3db is independently verified live after explicit Tania approval. Pages43346579415 succeeded; all356 runtime hashes and all7 changed runtime bytes match. Actual native Chrome1280/390/1920 verifies4cabinet parts moved intact out of the rear-film sightline; real mouse/automated touch vertical pan raises/lowers the actual camera forward vector without avatar movement and restores zero framing. Physical entry, both immediate actions,4monitor cards/guides, audible cinema/close, actual wall-screen gesture and Return to16,12.5 pass with zero page errors.396unit/84files and356assets/108imports pass. The original cabinet geometry/materials and GLB remain, rear video stays atz21.935. Portfolio399a4da and approved Blueprint153reader are preserved. Fullscreen denied in headless; actual Safari/physical/classroom/Tania acceptance remain separate. Source/unit/coverage CI pass; inherited admin failures retained, no fullgreen.",
+      "next": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up.",
       "then": "Author and review core learning materials, purposeful application and appropriate evidence across the shared phases; align school pacing and assessment dates before setting lessons.",
       "later": "Implement the agreed connected course and verify classroom, accessibility, school and learner-evidence requirements separately.",
       "sequence": [
@@ -35235,7 +35235,7 @@
         "V2-D03",
         "V2-D18"
       ],
-      "nextAction": "Publish approved exact160source review, genuine8file receipt and normal guarded game push; verify actual sightline/pan/entry/return. Then restore additive Chapel162button with room/walk-in unchanged; Portfolio161alignment follows.",
+      "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up.",
       "doneWhen": "Core materials and meaningful application/evidence are authored and reviewed against the exact curriculum and school assessment requirements. Blueprint publication, game integration, school permission and learner mastery have separate evidence.",
       "boundary": "Documentation refresh only; does not approve game production, new backend, security permissions or a student trial. No real learner records changed."
     },
@@ -39491,16 +39491,16 @@
           "title": "Clear EST rear-video sightline and enable exterior vertical pan",
           "source": "Tania: better but move the podium (brown table interrupting the view of the video) and allow panning up and down from this view. Library image(20261113-011443).png inspected.",
           "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
-          "status": "Qualified exact8-file candidate; approved necessary source publication pending",
+          "status": "Published and independently verified; user acceptance separate",
           "rationale": "Move the existing Tool storage and three Storage front meshes together toward the side before batching; retain all geometry/materials. Add bounded mouse/touch pitch only in EST exterior viewing area, preserving original zero-pitch framing.",
-          "nextAction": "Publish approved exact160source review, genuine8file receipt and normal guarded game push; verify actual sightline/pan/entry/return. Then restore additive Chapel162button with room/walk-in unchanged; Portfolio161alignment follows.",
+          "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up.",
           "evidence": [
             "docs/production/est-podium-pan-20261113.md",
             "docs/production/current-state.md"
           ],
           "implementation": "The brown obstruction is Tool storage plus Storage front, Storage front.001 and Storage front.002 in the unchanged workplace GLB. Before static batching, all four translate+4.2m on localX together, moving the cabinet from worldx15 to10.8. Its3m width now fits worldx9.3–12.3 inside the existing room and clear of rear-video x13.124–18.877. Geometry, materials, source GLB, furniture count and relative panel positions remain unchanged. The transform is idempotent and refuses partial assemblies; loader-sanitized names are supported. Native scene metadata confirms exactly4parts moved. Original doors, walls, floor, monitors, back video and physics stay intact. Mouse and ordinary touch pointer drags now adjust pitch only in the existing EST front approach x9–23,z6–14.1 while in town and outside aerial mode. Horizontal look remains. Pitch is bounded[-.55,.75]; zero tilt preserves the prior framing exactly. The camera look target changes after collision clearance; camera body and avatar do not teleport or move. Entering another mode or Recenter resets this tilt. Chapel tilt, Flyover, indoor cinema and unrelated campus framing remain unchanged.",
-          "testing": "396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema.",
-          "deployment": "Source-qualified only. Tania now explicitly approves this source review and subsequent normal guarded EST game release; no160live claim yet.",
+          "testing": "396unit tests across84files pass, including4new assembly/idempotence/name/incomplete-assembly/pitch/area checks.356staged asset hashes and108reachable imports pass. Actual isolated native Chrome1280/390/1920 verifies clear rear-film sightline in the same front-entrance view, exact4part relocation, up and down mouse/automated touch panning with actual camera forward-vector changes, zero avatar displacement and restored zero framing. Actual physical walk-in, both entry actions, four loaded card/guide faces, audible cinema and real mouse/touch screen gesture, close and keyboard/touch Return to16,12.5 all pass. Zero page errors. Wide and phone native captures inspected. One initial quote error prevented the observer harness launching; retained, then corrected only in the harness. Native fullscreen denial in headless remains separate from working audible cinema. EST73a4315e28cb5d70bebfe150cba0d495f913f3db is independently verified live after explicit Tania approval. Pages43346579415 succeeded; all356 runtime hashes and all7 changed runtime bytes match. Actual native Chrome1280/390/1920 verifies4cabinet parts moved intact out of the rear-film sightline; real mouse/automated touch vertical pan raises/lowers the actual camera forward vector without avatar movement and restores zero framing. Physical entry, both immediate actions,4monitor cards/guides, audible cinema/close, actual wall-screen gesture and Return to16,12.5 pass with zero page errors.396unit/84files and356assets/108imports pass. The original cabinet geometry/materials and GLB remain, rear video stays atz21.935. Portfolio399a4da and approved Blueprint153reader are preserved. Fullscreen denied in headless; actual Safari/physical/classroom/Tania acceptance remain separate. Source/unit/coverage CI pass; inherited admin failures retained, no fullgreen.",
+          "deployment": "EST73a4315e28cb5d70bebfe150cba0d495f913f3db is independently verified live after explicit Tania approval. Pages43346579415 succeeded; all356 runtime hashes and all7 changed runtime bytes match. Actual native Chrome1280/390/1920 verifies4cabinet parts moved intact out of the rear-film sightline; real mouse/automated touch vertical pan raises/lowers the actual camera forward vector without avatar movement and restores zero framing. Physical entry, both immediate actions,4monitor cards/guides, audible cinema/close, actual wall-screen gesture and Return to16,12.5 pass with zero page errors.396unit/84files and356assets/108imports pass. The original cabinet geometry/materials and GLB remain, rear video stays atz21.935. Portfolio399a4da and approved Blueprint153reader are preserved. Fullscreen denied in headless; actual Safari/physical/classroom/Tania acceptance remain separate. Source/unit/coverage CI pass; inherited admin failures retained, no fullgreen.",
           "designApproval": "Direct Tania targeted furniture relocation and exterior-panning request; no scene/geometry redesign or acceptance inferred. Tania explicitly approves the two prepared public Blueprint publications and EST live release: Yes please publish and proceed to lilve for est prep and bluepting. Prior review rejections were unexecuted; one retry under this materially new direct approval. Chapel current room/walking/artwork confirmed; restore button as an additional option only.",
           "domain": "EST storage assembly transform and bounded exterior camera pitch; cache/manifest/regression dependencies only.",
           "dependencies": [
@@ -39509,6 +39509,30 @@
           ],
           "supersededRecord": null,
           "taniaAcceptance": "New candidate not reviewed."
+        },
+        {
+          "id": "CE-CHANGE-20261113-162",
+          "date": "2026-11-13",
+          "title": "Restore Enter Chapel button alongside unchanged physical walk-in",
+          "source": "Tania explicitly approves the two prepared public Blueprint publications and EST live release: Yes please publish and proceed to lilve for est prep and bluepting. Prior review rejections were unexecuted; one retry under this materially new direct approval. Chapel current room/walking/artwork confirmed; restore button as an additional option only.",
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "status": "Qualified exact candidate; necessary source review and game publication pending",
+          "rationale": "Approach angles can make walking difficult. Add nearby clickable Enter Chapel option using the same existing guarded entry; keep actual doorway walking, detailed ECC interior and artwork unchanged.",
+          "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up.",
+          "evidence": [
+            "docs/production/chapel-additive-entry-20261113.md",
+            "docs/production/current-state.md"
+          ],
+          "implementation": "A proximity helper offers Enter Chapel within2.8m of the existing authored doorway when town entry is ready and no modal, helper, intro, discovery, menu, Flyover or aerial mode blocks it. Facing angle is irrelevant. The action takes priority over the optional guide/companion nearby; the optional guide remains elsewhere in its existing range/help. It calls the same guarded enterChapel promise, duplicate-load protection, failure retry and navigation-generation checks. It never triggers automatically. The existing resolved-physics inward doorway crossing is unchanged. The same native shared action button supports mouse/keyboard and the existing primary-touch completion/cancel/compatibility-click guard. Touch entry resets held navigation like touch return. Room return remains outside the real doorway, with existing walking rearm and discovery checkpoint. No scene or artwork substitution. The camera, collision, model, Chapel source and actual reference assets are unchanged.",
+          "testing": "398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+          "deployment": "Source-qualified7file candidate on verified73a4315. This publication closes verified EST160 and supplies the necessary exact source record for the authorized additive Chapel button; it is not a game162deployment. Genuine receipt, normal guarded main push and actual live mouse/touch button plus physical-walking/regression verification remain. Portfolio161layout/context alignment and authorized Careers Centre entry-panel/camera/demo work remain separate queued successors.",
+          "designApproval": "Direct Tania targeted furniture relocation and exterior-panning request; no scene/geometry redesign or acceptance inferred. Tania explicitly approves the two prepared public Blueprint publications and EST live release: Yes please publish and proceed to lilve for est prep and bluepting. Prior review rejections were unexecuted; one retry under this materially new direct approval. Chapel current room/walking/artwork confirmed; restore button as an additional option only.",
+          "domain": "Additive nearby Chapel entry action only; no geometry/scene/artwork replacement.",
+          "dependencies": [
+            "CE-CHANGE-20261113-160"
+          ],
+          "supersededRecord": null,
+          "taniaAcceptance": "Existing room/walking confirmed by Tania; additional button not yet built."
         }
       ],
       "sessionStart": [
@@ -103099,6 +103123,512 @@
             "playable-3d/release-manifest.json": "100644:bbaf60f0e196bbc47d09b13628eaf4ed8fde5293",
             "playable-3d/world.js": "100644:ce260964851b7130ca61dc28c76bbdcb4bfe13d4",
             "tests/unit/est-exterior-view.test.mjs": "100644:f5b4ed0ede6ca5e018474b75792a2d4415085ad9"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261113-162",
+        "title": "Restore Enter Chapel button alongside unchanged physical walk-in",
+        "types": [
+          "implementation",
+          "activity",
+          "visual",
+          "building",
+          "release",
+          "governance"
+        ],
+        "status": "complete",
+        "objective": "Additive nearby Chapel entry action only; no geometry/scene/artwork replacement.",
+        "before": "Physical doorway entry works; optional Enter Chapel button was removed.",
+        "after": "A proximity helper offers Enter Chapel within2.8m of the existing authored doorway when town entry is ready and no modal, helper, intro, discovery, menu, Flyover or aerial mode blocks it. Facing angle is irrelevant. The action takes priority over the optional guide/companion nearby; the optional guide remains elsewhere in its existing range/help. It calls the same guarded enterChapel promise, duplicate-load protection, failure retry and navigation-generation checks. It never triggers automatically. The existing resolved-physics inward doorway crossing is unchanged. The same native shared action button supports mouse/keyboard and the existing primary-touch completion/cancel/compatibility-click guard. Touch entry resets held navigation like touch return. Room return remains outside the real doorway, with existing walking rearm and discovery checkpoint. No scene or artwork substitution. The camera, collision, model, Chapel source and actual reference assets are unchanged.",
+        "source": "Tania explicitly approves the two prepared public Blueprint publications and EST live release: Yes please publish and proceed to lilve for est prep and bluepting. Prior review rejections were unexecuted; one retry under this materially new direct approval. Chapel current room/walking/artwork confirmed; restore button as an additional option only.",
+        "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+        "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate.",
+          "rationale": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. Existing data unchanged.",
+            "locations": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. Existing locations unchanged.",
+            "accessCountries": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. Existing accessCountries unchanged.",
+            "providers": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. Existing providers unchanged.",
+            "lifecycle": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. Existing lifecycle unchanged.",
+            "encryption": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. Existing encryption unchanged.",
+            "logging": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. Existing logging unchanged.",
+            "identity": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. Existing identity unchanged.",
+            "isolation": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. Existing isolation unchanged.",
+            "privacySafety": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. Existing privacySafety unchanged.",
+            "applicability": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. Existing applicability unchanged.",
+            "verification": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. Existing verification unchanged."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim."
+          ],
+          "reviewedBy": "Existing sole game integrator; exact seven-file162 alternate-entry scope",
+          "reviewedAt": "2026-11-13",
+          "productionComplete": false,
+          "releasePurpose": "product-change",
+          "securityApproval": "Tania explicitly requests additional Enter button while preserving current room/walking and authorizes continuing normal guarded release; no new data architecture/classroom permission.",
+          "architectureApproval": null
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Update start only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update start only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Update media only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update media only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Update decisions only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update decisions only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Update flow only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update flow only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Update journey only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update journey only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Update visuals only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update visuals only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Update build only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update build only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Update recovery only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update recovery only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No new identity, data collection, field, Storage API, account, role, tenant access, provider, backend, telemetry, retention or permission. Current Chapel reflection/evidence behavior, optional exploration, curriculum, assessment and teacher functions remain. Only local action eligibility/touch routing changes. Original room and authored model assets byte-unchanged. EST73a4315cabinet/pan/back-video/cards/cinema/return, Portfolio399a4da, Market/Notes/Archon and separate CIf156c32 preserved. Actual Safari, physical touch/classroom and Tania acceptance remain separate. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Update roadmap only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update roadmap only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Update history only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update history only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Update protocol only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update protocol only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Update exports only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update exports only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          },
+          {
+            "surface": "publication",
+            "disposition": "updated",
+            "action": "Update publication only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork.",
+            "records": [
+              "CE-CHANGE-20261113-158"
+            ],
+            "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+            "acceptance": "Exact7file bindings; native1280/390 mouse/touch button works without facing alignment, then unchanged physical walking/ceiling/exit/reentry; no scene/model/data changes.",
+            "evidence": [
+              "docs/production/chapel-additive-entry-20261113.md",
+              "docs/production/current-state.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Update publication only for additive Chapel entry button with same guarded entry, physical walking and original room/artwork. 398unit tests across85files pass. The existing VM priority fixture gains the real helper/readiness/modal dependencies and its obsolete no-Enter-button assertion becomes the explicitly requested additive-button expectation; Studio/teacher/companion assertions stay intact.10focused original doorway, load deduplication/failure/navigation, touch completion/cancel/duplicate-click and nonblocking-guide checks pass. An initial focused harness used an unchanged discovery file from the wrong candidate path; it now reads that exact baseline from qualification-source. Native-Metal Chrome1280/390 first-day physical approach exposes Enter Chapel without lining up; real mouse/automated touch click enters the same room. Return and additional button reappear; real keyboard walking then crosses the unchanged doorway, ceiling scan, exit/checkpoint and walking reentry pass at both widths. Native frames/poses and screenshots retained; no teleport or gameplay replacement.356staged asset hashes/108imports pass. Required CI source/unit/coverage pass; existing admin/legacy failures and interruption retained, no all-CI-green claim.",
+              "date": "2026-11-13"
+            },
+            "nextAction": "Publish exact authorized162source review, genuine7file receipt and normal guarded push; verify actual additional button and unchanged walking/room. Then Portfolio161alignment, Careers Centre163authorized-entry/camera/demo and measured EST Core responsiveness/video follow-up."
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "playable-3d/app.js": "100644:a303f8c826a67b20ac770436355ba953c679c1c7",
+            "playable-3d/chapel-entry.mjs": "100644:4399c21b943154ed05fe937fadf063df03e7575a",
+            "playable-3d/guest-shell.mjs": "100644:f2cbff8ebbd62403bbadc12db824dfeb2e735b7e",
+            "playable-3d/index.html": "100644:999786e2b50c3ecba3c1e9e2b70e4edb358847a6",
+            "playable-3d/release-manifest.json": "100644:26ee764720bf5fcb3c3c6c7cfc08e39911132dc1",
+            "tests/unit/chapel-entry-action.test.mjs": "100644:568d96ab19691207f2f00982f726826f52d62f03",
+            "tests/unit/world-interaction-priority.test.mjs": "100644:dc007dbb415064573e1c20c96601d9f2daee0adf"
           }
         }
       }
