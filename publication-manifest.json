@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-13T06:27:14.041128+00:00",
+  "generatedAt": "2026-11-13T06:53:46.744334+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "f8838bf8085e8bac1b2c07697bd836ca1dfaa6dfca6ab065180673302ff0da48",
+  "recordSha256": "55216cf5cbba8d921d97a014102ee7277a46eea14c095f05a7c6b14f0211f210",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -3197,24 +3197,8 @@
       "sha256": "cefe34ba2f96172ffe40e7e6de7b6e33a0512f95b79a485e707881863d07403d"
     },
     {
-      "path": "blueprint-records.json",
-      "sha256": "f8838bf8085e8bac1b2c07697bd836ca1dfaa6dfca6ab065180673302ff0da48"
-    },
-    {
-      "path": "production/current-state.md",
-      "sha256": "176d2286506750a28ede5fd005f6a3b249e9bdfbe5cd59e40a294a6d5e176b27"
-    },
-    {
-      "path": "production/material-changes.md",
-      "sha256": "37c61c698bb411941627b1292610fd85df45ea035c5d3a77fe019548f0a84e7b"
-    },
-    {
       "path": "production/portfolio-global-views-20261113.md",
       "sha256": "3a680d4e529219e39f69ac7388312086718ccf664261094c33b22211690d8afa"
-    },
-    {
-      "path": "production/current-state.html",
-      "sha256": "d696f293b65838725fc7481b238a841d6d446acce61cb208309e4c32b526e543"
     },
     {
       "path": "production/portfolio-global-views-20261113.html",
@@ -3247,9 +3231,49 @@
     {
       "path": "evidence/portfolio-global-views-20261113/live-timeline-390.png",
       "sha256": "cefe34ba2f96172ffe40e7e6de7b6e33a0512f95b79a485e707881863d07403d"
+    },
+    {
+      "path": "blueprint-records.json",
+      "sha256": "55216cf5cbba8d921d97a014102ee7277a46eea14c095f05a7c6b14f0211f210"
+    },
+    {
+      "path": "production/portfolio-overview-20261113.md",
+      "sha256": "5d5b000c797841089a71b8a11294a69972d3991ec1ea7add004e1e6482cbbc1a"
+    },
+    {
+      "path": "production/portfolio-overview-20261113.html",
+      "sha256": "9c434a631a176ca01a6a87aa27c13771bf97daccbcb3348c6761d053be25241a"
+    },
+    {
+      "path": "production/current-state.md",
+      "sha256": "b481ba252fda430fcfc961f30e1839b74c1552e67a79dc58dc6d986373e2f56f"
+    },
+    {
+      "path": "production/current-state.html",
+      "sha256": "58830c9a194070481750f7d63a2d7458778c9c1652275c99265bc5656e65fd36"
+    },
+    {
+      "path": "production/material-changes.md",
+      "sha256": "6f80aa80ab6f0ad50aafb58e84fc0f103bda9946372d117eb78852d3344b0463"
+    },
+    {
+      "path": "evidence/portfolio-overview-20261113/illustrated-overview-1280.png",
+      "sha256": "5707b51edec7827e0be9471d0a7d83050fdb52ce70eaf5e6e6895e98fd61588a"
+    },
+    {
+      "path": "evidence/portfolio-overview-20261113/illustrated-overview-390.png",
+      "sha256": "e41df92b7ea066e904b8e79da5136687adf6e2757a05c68ef913ccde5a998508"
+    },
+    {
+      "path": "evidence/portfolio-overview-20261113/compact-card-1280.png",
+      "sha256": "b2ebd638cce0cea434fa5722fd922496a195ce3a9341cdc183da2872ee5134c0"
+    },
+    {
+      "path": "evidence/portfolio-overview-20261113/compact-card-390.png",
+      "sha256": "4a6fca9b11b13df94a409c62cc6b22e7de1c937bd88f0affa106090131448b24"
     }
   ],
-  "recordPublicationScope": "Verified live165closeout and bounded root reader Portfolio wording/capture. Preserve all frozen integrations, global WA data and unrelated records/assets; Tania acceptance remains separate.",
+  "recordPublicationScope": "Exact five-file165source qualification and corrected layout specification; preserve frozen prior integrations, all WA records, existing root reader bundles and unrelated work. Game publication/user acceptance remain separate.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload."
 }
