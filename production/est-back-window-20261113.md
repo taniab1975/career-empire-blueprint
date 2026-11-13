@@ -37,3 +37,11 @@ Source-qualified only. Exact source review publication, genuine seven-file recei
 - `playable-3d/release-manifest.json` — `100644:6cd7c93eef07cb5136489ab76102247be6886bd7`
 - `playable-3d/world.js` — `100644:945dbd528fa4b177a9ac69f758a21f0d2f0481d5`
 - `tests/unit/est-presentation.test.mjs` — `100644:5ec0a07dfb6ef67b70b333e533119936418e0fe3`
+
+## EST back window and entrance return verified live
+
+EST correction bf33308878d9d4a96648a5de459734427931063a is published at the actual game. Pages43338333602 succeeded; all355 public runtime hashes match. Actual live native Chrome1280/390/1920 verifies rear-window film atz21.935, clear front entrance and preserved room depth/cabinet/frames, physical walk-in, both immediate actions, four monitor cards/celebrating guides, audible cinema/close and mouse/touch screen activation. Keyboard/touch Return restores16,12.5 just outside EST in all three cases, not arrival. Zero page errors.392unit tests/83files,355assets/107imports and4focused video checks pass. Full-height16:9 film and original indoor screen/video/material remain. Native fullscreen denied in headless; actual Safari/physical touch/classroom/Tania acceptance separate. Prior broad CI failures retained; no all-CI-green claim. Archon, Notes and Chapel are unchanged; separate CI f156c32 is preserved.
+
+Publish serially rebased portfolio153 after exact source/reader/receipt checks; verify live overview/Start/five-step anonymous form/log/PDF and same-run/normal-gated Market returns. Resolve Tania Chapel room/transition clarification before changing its preserved artwork/interior; additive button must retain walking.
+
+[Actual live EST](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/?view=est&release=bf33308).
