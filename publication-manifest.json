@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-14T05:33:06.715587+00:00",
+  "generatedAt": "2026-11-14T05:42:14.413009+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "1851e029d30327e9408497d0970ab667211634bf94d87e76ae14ff6d9b9c9f28",
+  "recordSha256": "d91d8e452a2d5d6ef05dc451ecfb693827e35af8be2e8a171fdad5b76793af6d",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -3141,14 +3141,6 @@
       "sha256": "fbe75d9b325845d212c2c48fe5d3181cb82f8aa6500016b46d00f4ef37d58b73"
     },
     {
-      "path": "production/careers-portfolio-panel-20261113.md",
-      "sha256": "397533eae36ed508df6a4847f6ae97a9384f61e135188838e8d7f05ace383079"
-    },
-    {
-      "path": "production/careers-portfolio-panel-20261113.html",
-      "sha256": "cc4d636098570829b4f2ab313bc557b34538a969af6bb9b50de99e63dc4e8c1f"
-    },
-    {
       "path": "production/est-core-responsiveness-20261113.md",
       "sha256": "5a39ce0216c0f7520ff5c28a56c3c4023e1178895ff54213ad4d1032257cc751"
     },
@@ -3233,14 +3225,6 @@
       "sha256": "cefe34ba2f96172ffe40e7e6de7b6e33a0512f95b79a485e707881863d07403d"
     },
     {
-      "path": "production/portfolio-overview-20261113.md",
-      "sha256": "5d5b000c797841089a71b8a11294a69972d3991ec1ea7add004e1e6482cbbc1a"
-    },
-    {
-      "path": "production/portfolio-overview-20261113.html",
-      "sha256": "9c434a631a176ca01a6a87aa27c13771bf97daccbcb3348c6761d053be25241a"
-    },
-    {
       "path": "evidence/portfolio-overview-20261113/illustrated-overview-1280.png",
       "sha256": "5707b51edec7827e0be9471d0a7d83050fdb52ce70eaf5e6e6895e98fd61588a"
     },
@@ -3257,39 +3241,63 @@
       "sha256": "4a6fca9b11b13df94a409c62cc6b22e7de1c937bd88f0affa106090131448b24"
     },
     {
-      "path": "blueprint-records.json",
-      "sha256": "1851e029d30327e9408497d0970ab667211634bf94d87e76ae14ff6d9b9c9f28"
-    },
-    {
-      "path": "production/portfolio-palette-20261113.md",
-      "sha256": "c4cc0d723a2516ba7de6040cc78a9004b1641bd4689f813d2410f970a396b419"
-    },
-    {
-      "path": "production/portfolio-palette-20261113.html",
-      "sha256": "ea73058c8976a7b137fbf3ba3460cac3e7866223bc850109ef2d9e2eb861886b"
-    },
-    {
-      "path": "production/current-state.md",
-      "sha256": "1f25f0fca5fb0047110855c728bc2eb8e1d28152cb0f0c1c707655ffcd7b2d86"
-    },
-    {
-      "path": "production/current-state.html",
-      "sha256": "2759e8ddfb852e313c547620f819602118cca8c5c4f70c343cdcaeeb6cdd04e0"
-    },
-    {
-      "path": "production/material-changes.md",
-      "sha256": "77d82ff7eeb7e1ee10cf84f64b3e8e74158e3be73836391978fed690b78c442e"
-    },
-    {
       "path": "evidence/portfolio-palette-20261113/opened-portfolio-1280.png",
       "sha256": "5874cfc8df4757713d186bd4efc88c276e3df8ee0e4fbf2498c67b0284776fcc"
     },
     {
       "path": "evidence/portfolio-palette-20261113/opened-portfolio-390.png",
       "sha256": "eb61b557078cfeba03ca1a2ff3197487a0893bf87bcafb26feebdd080ccc64f7"
+    },
+    {
+      "path": "blueprint-records.json",
+      "sha256": "d91d8e452a2d5d6ef05dc451ecfb693827e35af8be2e8a171fdad5b76793af6d"
+    },
+    {
+      "path": "production/current-state.md",
+      "sha256": "daaeb729f5f270b3e45df6d43b859bae317885c81edec27c659daf73be65dfbd"
+    },
+    {
+      "path": "production/material-changes.md",
+      "sha256": "5462b6385dda75f183bb795e27c339bf4a9539a053d738bf521e389165549bec"
+    },
+    {
+      "path": "production/portfolio-palette-20261113.md",
+      "sha256": "5767d3bbfe41e7d173dfb84f5b3f24200f5a514f5463dbfe995d6a4a89d2499b"
+    },
+    {
+      "path": "production/current-state.html",
+      "sha256": "4b334a351181180c892a57fe1875988182eebc7ec2c691ecda53d5ad6246fa26"
+    },
+    {
+      "path": "production/portfolio-palette-20261113.html",
+      "sha256": "e049e581cc6786d328816e54096eec6c8e67839b7302fcc56f2c80bc0cc35d0e"
+    },
+    {
+      "path": "production/portfolio-overview-20261113.md",
+      "sha256": "8735ba00d462ed879a088aee9e6a45b726b2766fc77bb580f7cedab89d150209"
+    },
+    {
+      "path": "production/portfolio-overview-20261113.html",
+      "sha256": "7a08bbc8bafad091d976aee144fe5e46870cf16611939437dc0ef267482e2a21"
+    },
+    {
+      "path": "production/careers-portfolio-panel-20261113.md",
+      "sha256": "e340571aee627a18f32e93cddae897fdd46faddda2a90f779ca1448ec0fa936d"
+    },
+    {
+      "path": "production/careers-portfolio-panel-20261113.html",
+      "sha256": "641ae8ccf2b8dafbda8e59363ffa5fca4b694b5cc1dae0714a383d85604505f3"
+    },
+    {
+      "path": "evidence/portfolio-palette-20261113/live-opened-portfolio-1280.png",
+      "sha256": "5874cfc8df4757713d186bd4efc88c276e3df8ee0e4fbf2498c67b0284776fcc"
+    },
+    {
+      "path": "evidence/portfolio-palette-20261113/live-opened-portfolio-390.png",
+      "sha256": "eb61b557078cfeba03ca1a2ff3197487a0893bf87bcafb26feebdd080ccc64f7"
     }
   ],
-  "recordPublicationScope": "Exact five-file165source qualification and corrected layout specification; preserve frozen prior integrations, all WA records, existing root reader bundles and unrelated work. Game publication/user acceptance remain separate.",
+  "recordPublicationScope": "Verified game-only166/167closeout and affected existing Portfolio reader documents; frozen source integrations/global WA records preserved. CEAWA/SkillQuest candidates remain unpublished pending explicit approval.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload."
 }
