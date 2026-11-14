@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-13T06:53:46.744334+00:00",
+  "generatedAt": "2026-11-14T05:33:06.715587+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "55216cf5cbba8d921d97a014102ee7277a46eea14c095f05a7c6b14f0211f210",
+  "recordSha256": "1851e029d30327e9408497d0970ab667211634bf94d87e76ae14ff6d9b9c9f28",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -3233,28 +3233,12 @@
       "sha256": "cefe34ba2f96172ffe40e7e6de7b6e33a0512f95b79a485e707881863d07403d"
     },
     {
-      "path": "blueprint-records.json",
-      "sha256": "55216cf5cbba8d921d97a014102ee7277a46eea14c095f05a7c6b14f0211f210"
-    },
-    {
       "path": "production/portfolio-overview-20261113.md",
       "sha256": "5d5b000c797841089a71b8a11294a69972d3991ec1ea7add004e1e6482cbbc1a"
     },
     {
       "path": "production/portfolio-overview-20261113.html",
       "sha256": "9c434a631a176ca01a6a87aa27c13771bf97daccbcb3348c6761d053be25241a"
-    },
-    {
-      "path": "production/current-state.md",
-      "sha256": "b481ba252fda430fcfc961f30e1839b74c1552e67a79dc58dc6d986373e2f56f"
-    },
-    {
-      "path": "production/current-state.html",
-      "sha256": "58830c9a194070481750f7d63a2d7458778c9c1652275c99265bc5656e65fd36"
-    },
-    {
-      "path": "production/material-changes.md",
-      "sha256": "6f80aa80ab6f0ad50aafb58e84fc0f103bda9946372d117eb78852d3344b0463"
     },
     {
       "path": "evidence/portfolio-overview-20261113/illustrated-overview-1280.png",
@@ -3271,6 +3255,38 @@
     {
       "path": "evidence/portfolio-overview-20261113/compact-card-390.png",
       "sha256": "4a6fca9b11b13df94a409c62cc6b22e7de1c937bd88f0affa106090131448b24"
+    },
+    {
+      "path": "blueprint-records.json",
+      "sha256": "1851e029d30327e9408497d0970ab667211634bf94d87e76ae14ff6d9b9c9f28"
+    },
+    {
+      "path": "production/portfolio-palette-20261113.md",
+      "sha256": "c4cc0d723a2516ba7de6040cc78a9004b1641bd4689f813d2410f970a396b419"
+    },
+    {
+      "path": "production/portfolio-palette-20261113.html",
+      "sha256": "ea73058c8976a7b137fbf3ba3460cac3e7866223bc850109ef2d9e2eb861886b"
+    },
+    {
+      "path": "production/current-state.md",
+      "sha256": "1f25f0fca5fb0047110855c728bc2eb8e1d28152cb0f0c1c707655ffcd7b2d86"
+    },
+    {
+      "path": "production/current-state.html",
+      "sha256": "2759e8ddfb852e313c547620f819602118cca8c5c4f70c343cdcaeeb6cdd04e0"
+    },
+    {
+      "path": "production/material-changes.md",
+      "sha256": "77d82ff7eeb7e1ee10cf84f64b3e8e74158e3be73836391978fed690b78c442e"
+    },
+    {
+      "path": "evidence/portfolio-palette-20261113/opened-portfolio-1280.png",
+      "sha256": "5874cfc8df4757713d186bd4efc88c276e3df8ee0e4fbf2498c67b0284776fcc"
+    },
+    {
+      "path": "evidence/portfolio-palette-20261113/opened-portfolio-390.png",
+      "sha256": "eb61b557078cfeba03ca1a2ff3197487a0893bf87bcafb26feebdd080ccc64f7"
     }
   ],
   "recordPublicationScope": "Exact five-file165source qualification and corrected layout specification; preserve frozen prior integrations, all WA records, existing root reader bundles and unrelated work. Game publication/user acceptance remain separate.",
