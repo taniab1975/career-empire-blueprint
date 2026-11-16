@@ -1,5 +1,7 @@
 # Initiative direct entry — exact source review
 
+**Publication update:** Password-only170is verified live26614fe, all419runtime hashes and6native entry/return cases pass. The source-review history below is retained. See [the qualified171flow correction](market-entry-flow-20261116.html) for the latest restored introduction, Mara-only sequence and finish guidance.
+
 CE-CHANGE-20261116-170. Publication authorized 16 November 2026. This record binds the isolated nine-file pacing-word removal. **Game deployment is pending; this is a source review.**
 
 The public Ready for Initiative lesson-pacing word is removed. Existing account authentication and student-record safeguards are unchanged. The asynchronous compatibility API, input/focus callbacks, mode-request cancellation and duplicate/abort/retry guards remain. The four runtime/cache files, four regression/helper files and runtime manifest are listed below. No entrance redesign168, CI or CEAWA changes are included.

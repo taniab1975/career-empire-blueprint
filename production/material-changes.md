@@ -2326,3 +2326,8 @@ Tania to check the actual live opened Portfolio and Market/map links. Retain sep
 ## Initiative direct entry170— source reviewed, game pending
 
 Tania explicitly requests removal and live reload of the public pacing-word prompt. Exact nine-file source review is qualified on9872415; real authentication, record protections,169Market/Mara, pending168and separate CI are preserved. 419unit tests and1280/390fresh/repeat/return checks pass. Source publication/byte verification and genuine receipt precede game publication; no live170claim yet. See [exact source review](initiative-direct-entry-20261116.html).
+
+
+## Retained Initiative introduction and reliable completion171
+
+Password removal170is verified live26614fe. The final171source is qualified with428unit tests,17focused checks and2real mixed-result completions across desktop/phone. The historic introduction and four choices are retained, only Mara opens the scenario, crew dialogue is larger, and results lead explicitly through review to finish. Source publication and genuine receipt precede the game successor; live171and classroom acceptance are not claimed yet. [Exact flow and source review](market-entry-flow-20261116.html).

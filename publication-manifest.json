@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-16T04:43:20.342172+00:00",
+  "generatedAt": "2026-11-16T06:01:32.428965+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "df280abcdccc0727ab50aa1845108f6e9acee5791bf8d3eee6b23f5ca2a88fb3",
+  "recordSha256": "236986d4c5450e87fa4577334f332a8374711a92d6b9a76ec74fd125c05a9f0e",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -82,7 +82,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "df280abcdccc0727ab50aa1845108f6e9acee5791bf8d3eee6b23f5ca2a88fb3"
+      "sha256": "236986d4c5450e87fa4577334f332a8374711a92d6b9a76ec74fd125c05a9f0e"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1421,6 +1421,38 @@
       "sha256": "f82bc7c4e64297833aa5568c9eea41b82ef8731ad2375a1cbc9fb0411ba6a88a"
     },
     {
+      "path": "evidence/market-entry-flow-20261116/source-introduction-desktop.png",
+      "sha256": "e5335cad380b17a066e51ca1656638a616af1c0233f2c7dbed85d5ae8f942b04"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/source-introduction-phone.png",
+      "sha256": "48a1970ff0cf0b022988edd2285ffc694ac6525cc9c018c9fa92103823e21642"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/source-mara-scenario-desktop.png",
+      "sha256": "85e007b668afc07ae96d83b32b8280ddee3c04cf1fd5b2d6747f20407b773dc6"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/source-meet-crew-desktop.png",
+      "sha256": "02e23cd0e10c931ce2c44fabdbd18af13240f15dac1e38015aa1a84dd2d58db7"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/source-meet-crew-phone.png",
+      "sha256": "082dd787a93895276c16abf57fe0e866a66457958714f342e36efc06c553eef3"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/source-shift-complete-desktop.png",
+      "sha256": "718bd516ac584f5fe873e5dbf70679a76119b8b05c417232d2135baecafbc360"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/source-shift-complete-phone.png",
+      "sha256": "bbbb51c963b6e68b716bd9c9432cff19b37b621d805bbae576f721a8d8d7310b"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/source-trial-next-desktop.png",
+      "sha256": "9727daba8e75246b838fd544ed62e143fc13e5d63539a8f22a57e495a0e67dad"
+    },
+    {
       "path": "evidence/market-pathways-20261113/archon-lobby.jpg",
       "sha256": "e96a57eecc29af211466f88036a88e36f51cdc15fdc59f977a2fb84d27e8b7c0"
     },
@@ -2366,11 +2398,11 @@
     },
     {
       "path": "production/current-state.html",
-      "sha256": "993fcf6d6aad075d23bc8f9485da4ed89817ef75d00aa7a44ae54a793b610ad7"
+      "sha256": "d8c83cd54d6ab298abbdc16c986653ff48ecdb841c2718df3b3b8f6dce2a79a3"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "321826cdbbd278c5d8650d5593bb416cc03a84dc6ee2e1d4d425671e3f37e5c4"
+      "sha256": "1841149f4971072f3b1c880e8f8581d3c82589f9317b386fa785d7421a3378e1"
     },
     {
       "path": "production/curriculum-collapsed-default-20261021.md",
@@ -2566,11 +2598,11 @@
     },
     {
       "path": "production/initiative-direct-entry-20261116.html",
-      "sha256": "5b592c4f149411af151840bc84c8f9803ed51466d6dcdb76ed66875769eabba8"
+      "sha256": "82f56d60ba7d6a2af40fcc68b72bfb9fd37cc4fb40fe162b158db7a077cc8617"
     },
     {
       "path": "production/initiative-direct-entry-20261116.md",
-      "sha256": "d2a4e6396b8ec48f1ee49a74d79de83d11505eeeb9199c6530cceada70fa7c7a"
+      "sha256": "813d10365b9121bb2ae981b23a54147cee8b43ca2b44b816e5a190770b9b045f"
     },
     {
       "path": "production/initiative-notes-worksheet-20261112.html",
@@ -2621,6 +2653,14 @@
       "sha256": "11cc8c5dbb28379c98c143eb6f039b0e5e8958e291cd81fa31cb0d8ee6da9123"
     },
     {
+      "path": "production/market-entry-flow-20261116.html",
+      "sha256": "74e3ef8bf3a02a453fd4280f7c8ac1707e58573475f256e2fbf0a198a11043ea"
+    },
+    {
+      "path": "production/market-entry-flow-20261116.md",
+      "sha256": "ccf2aec1f5efac4689f2e5a1e50bcb6a92bc9b6986d0aa873524f9e6e897c1fb"
+    },
+    {
       "path": "production/market-entry-release-20261116.md",
       "sha256": "4d28c9ee04359838a21f783accc747ae8ec4e9ce77645eac9663ef5499a4301b"
     },
@@ -2650,7 +2690,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "7849d4d95222ed1647756487573b1f92c40013402e35fcd338a8f2bcf7159557"
+      "sha256": "82c455c5114133ebb2ebbcd57dc213224a98592253a970af1ec30dec636d4f25"
     },
     {
       "path": "production/media-oval-20260911.md",

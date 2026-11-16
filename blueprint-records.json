@@ -34928,8 +34928,8 @@
       "phase": "Refresh the reader against the live game",
       "activeMilestoneId": "CE-CONTINUITY-01",
       "objective": "Make the purpose, current design, implementation limits and next decisions understandable to a new colleague.",
-      "now": "Isolated Initiative pacing-word removal170 is source-reviewed on actual game9872415; source publication precedes its guarded game release. Real authentication/student-record permissions and169Market/Mara design remain unchanged.",
-      "next": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending.",
+      "now": "Password removal170is verified live26614fe. The latest171source retains the supplied four-choice Initiative introduction, Mara-only downstream case, reliable entry, larger dialogue and explicit mixed-result review/finish progress; game successor publication is pending.",
+      "next": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer.",
       "then": "Author and review core learning materials, purposeful application and appropriate evidence across the shared phases; align school pacing and assessment dates before setting lessons.",
       "later": "Implement the agreed connected course and verify classroom, accessibility, school and learner-evidence requirements separately.",
       "sequence": [
@@ -35267,7 +35267,7 @@
         "V2-D03",
         "V2-D18"
       ],
-      "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending.",
+      "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer.",
       "doneWhen": "Core materials and meaningful application/evidence are authored and reviewed against the exact curriculum and school assessment requirements. Blueprint publication, game integration, school permission and learner mastery have separate evidence.",
       "boundary": "Documentation refresh only; does not approve game production, new backend, security permissions or a student trial. No real learner records changed."
     },
@@ -39743,17 +39743,34 @@
           "title": "Direct Initiative entry without classroom pacing word",
           "source": "Tania: please remove and reload into live wihtout the password. Explicit coordinator/root direction authorizes isolated pacing-gate removal and necessary exact-source reader/receipt workflow. No entrance redesign168, CI, CEAWA or unrelated work.",
           "owner": "Integrate and test Initiative",
-          "status": "Exact source review qualified; authorized game publication pending",
+          "status": "Password removal published and independently live-verified; later171correction qualified",
           "rationale": "Remove the public Ready for Initiative classroom-word prompt. Keep the createClassroomGate asynchronous compatibility seam, input/focus callbacks, existing requestMarket mode-change check and openMarket duplicate/abort controls. Account authentication and student-record permissions remain unchanged. Runtime changes are classroom-gate.mjs plus the necessary import cache-version chain in app.js, guest-shell.mjs and index.html. Based on published9872415 and preserves its169Market/Mara routes. Pending Markets invitation168 is excluded from the release candidate.",
-          "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending.",
+          "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer.",
           "evidence": [
             "docs/production/initiative-direct-entry-20261116.md"
           ],
           "implementation": "Remove the public Ready for Initiative classroom-word prompt. Keep the createClassroomGate asynchronous compatibility seam, input/focus callbacks, existing requestMarket mode-change check and openMarket duplicate/abort controls. Account authentication and student-record permissions remain unchanged. Runtime changes are classroom-gate.mjs plus the necessary import cache-version chain in app.js, guest-shell.mjs and index.html. Based on published9872415 and preserves its169Market/Mara routes. Pending Markets invitation168 is excluded from the release candidate.",
           "testing": "Source checks and419unit tests across93files pass. All419staged runtime hashes and109imports pass. At1280/390, fresh and repeated normal entry, same-run campus return/reentry and canvas focus pass; compatibility creates no word dialog and changes no localStorage. Existing automatic Market-return cases pass. The two automatic Mara tests initially expected a dialog incorrectly; corrected tests pass the existing playable first-gig scene/meet-Mara objective and canvas focus. Six focused cases passed initially and the two corrected cases passed separately. Final unmodified local9872415game plus patch passes Market/map/Notes reading/wrong-correct feedback/written responses/draft/Journal/Archon lobby returns and same-run retention at both widths, with zero page errors, missing responses and guest Notes Storage/backend calls. This is local browser evidence, not live or physical-device acceptance.",
-          "deployment": "Game currently9872415. No170game publication or receipt yet; exact source review must publish first.",
+          "deployment": "26614fe9b60729261fdc414c7a344a37d5614d98;419actual served runtime hashes match and6native1280/390fresh/repeat/automatic entry/return cases pass. Genuine source3f05a273and normal guards/receipts used; separate CI restored.",
           "taniaAcceptance": "Publication authorized; live acceptance pending.",
           "designApproval": "Tania: please remove and reload into live wihtout the password. Explicit coordinator/root direction authorizes isolated pacing-gate removal and necessary exact-source reader/receipt workflow. No entrance redesign168, CI, CEAWA or unrelated work."
+        },
+        {
+          "id": "CE-CHANGE-20261116-171",
+          "date": "2026-11-16",
+          "title": "Reliable Market entry, retained Initiative choices and clear shift completion",
+          "source": "Tania explicitly directs restoration of her supplied existing Initiative introduction, Mara scenario only after Mara Noodles, both walk/Enter completion and recovery, larger Meet the Juniper crew, and approved Trial complete → Learning review with Mara → Finish shift guidance. Mixed outcomes may be revised/explained and finished without a perfect trial or assessed-portfolio claim. Publish the corrected game through normal guards, then align the separate Blueprint and hand verified assets to the existing CEAWA owner.",
+          "owner": "Integrate and test Initiative",
+          "status": "Exact source qualified; authorized game publication pending",
+          "rationale": "The screenshot-matched historic Initiative introduction is retained and improved, with four practice choices. Only Mara opens the downstream scenario, then prompts a walk to chat. Market entry completes independently of an optional visit-recording lock; explicit Enter is available at the approach, with bounded import/cancel/retry and stale-index compatibility. The existing crew dialogue is substantially wider/readable, with a sharper native capture and reachable phone controls. Result/review/handover/completion show read-only progress derived from existing milestones; mixed trials can revise/explain and finish for the same agreed game pay. Auth, record permissions, state/economy reducers, original art,170password removal,168candidate and CI are preserved.",
+          "implementation": "The screenshot-matched historic Initiative introduction is retained and improved, with four practice choices. Only Mara opens the downstream scenario, then prompts a walk to chat. Market entry completes independently of an optional visit-recording lock; explicit Enter is available at the approach, with bounded import/cancel/retry and stale-index compatibility. The existing crew dialogue is substantially wider/readable, with a sharper native capture and reachable phone controls. Result/review/handover/completion show read-only progress derived from existing milestones; mixed trials can revise/explain and finish for the same agreed game pay. Auth, record permissions, state/economy reducers, original art,170password removal,168candidate and CI are preserved.",
+          "testing": "428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+          "deployment": "170is published26614fe with419public hashes and6native live entry/return cases.171is qualified; source publication/verification and genuine receipt precede game push.",
+          "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer.",
+          "evidence": [
+            "docs/production/market-entry-flow-20261116.md"
+          ],
+          "taniaAcceptance": "Publication authorized; live user/classroom acceptance separate."
         }
       ],
       "sessionStart": [
@@ -108288,6 +108305,670 @@
           "assets": 419,
           "publicationAuthorized": true,
           "authorization": "Tania specific pacing-word removal; coordinator01a1a16a-ac23-7745-863b-a61942629028/root explicitly directs isolated normal guarded publication, no prior denial for this batch."
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261116-171",
+        "title": "Reliable Market entry, retained Initiative choices and clear shift completion",
+        "types": [
+          "activity",
+          "curriculum",
+          "progression",
+          "visual",
+          "implementation",
+          "release",
+          "governance",
+          "security"
+        ],
+        "status": "complete",
+        "objective": "Finish the requested Market entry and practice-to-completion flow while preserving the existing approved introduction and learner safeguards.",
+        "before": "Live26614fe removes the word; optional visit recording can still retain marketOpening. The169scenario appears before the Mara choice, crew dialogue is too small and the result next action/progress is unclear.",
+        "after": "The screenshot-matched historic Initiative introduction is retained and improved, with four practice choices. Only Mara opens the downstream scenario, then prompts a walk to chat. Market entry completes independently of an optional visit-recording lock; explicit Enter is available at the approach, with bounded import/cancel/retry and stale-index compatibility. The existing crew dialogue is substantially wider/readable, with a sharper native capture and reachable phone controls. Result/review/handover/completion show read-only progress derived from existing milestones; mixed trials can revise/explain and finish for the same agreed game pay. Auth, record permissions, state/economy reducers, original art,170password removal,168candidate and CI are preserved.",
+        "source": "Tania explicitly directs restoration of her supplied existing Initiative introduction, Mara scenario only after Mara Noodles, both walk/Enter completion and recovery, larger Meet the Juniper crew, and approved Trial complete → Learning review with Mara → Finish shift guidance. Mixed outcomes may be revised/explained and finished without a perfect trial or assessed-portfolio claim. Publish the corrected game through normal guards, then align the separate Blueprint and hand verified assets to the existing CEAWA owner.",
+        "owner": "Integrate and test Initiative",
+        "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "The screenshot-matched historic Initiative introduction is retained and improved, with four practice choices. Only Mara opens the downstream scenario, then prompts a walk to chat. Market entry completes independently of an optional visit-recording lock; explicit Enter is available at the approach, with bounded import/cancel/retry and stale-index compatibility. The existing crew dialogue is substantially wider/readable, with a sharper native capture and reachable phone controls. Result/review/handover/completion show read-only progress derived from existing milestones; mixed trials can revise/explain and finish for the same agreed game pay. Auth, record permissions, state/economy reducers, original art,170password removal,168candidate and CI are preserved.",
+          "rationale": "Only UI readiness stops awaiting the unchanged idempotent visit-recording promise. No processing function, fields, records, money amounts, assessment gates, authentication or backend permission changes. Progress reads existing tested/reviewed/consolidated/paid milestones without saving or awarding anything.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "No new collection, field, purpose or data processing. Same existing visit call/idempotent recording; state/economy reducers unchanged. Real-lock test proves eventual single visit, mixed completion retains1800/200/pass and no invented evidence.",
+            "locations": "Local source and synthetic browser evidence only; existing GitHub hosting/database locations unchanged.",
+            "accessCountries": "No new recipient, access country or transfer.",
+            "providers": "Existing browser/game providers retained; no new service or dependency.",
+            "lifecycle": "No save, retention, deletion or account lifecycle changes.",
+            "encryption": "No transport or storage cryptography changes; no compliance claim.",
+            "logging": "No runtime analytics, logging or telemetry added; local synthetic test evidence only.",
+            "identity": "Actual authentication, ownership/roles and account/record code compare unchanged. Public pacing cue remains removed by170.",
+            "isolation": "Guest Notes keeps existing run memory; no school/account isolation certification claimed.",
+            "privacySafety": "Fictional guest browser contexts only; supplied screenshot retained privately. Existing image/source identities and trusted Portfolio opener remain; no assessed portfolio outcome inferred.",
+            "applicability": "Bounded local presentation refresh; school deployment readiness remains separate.",
+            "verification": "428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim."
+          ],
+          "reviewedBy": "Codex exact-source and native browser review",
+          "reviewedAt": "2026-11-16",
+          "productionComplete": false,
+          "releasePurpose": "product-change",
+          "securityApproval": "Tania explicitly requests this corrected presentation and guarded release; prior isolated-mode/data boundaries remain unchanged. Technical evidence only, no institutional policy approval.",
+          "architectureApproval": null,
+          "reviewScope": "Local-only, unpublished qualification; no production completion or publication approval."
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Reader clearly separates live170, qualified171source and pending game/acceptance.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Reader clearly separates live170, qualified171source and pending game/acceptance.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Reader clearly separates live170, qualified171source and pending game/acceptance. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "checked-unchanged",
+            "action": "Preserve connected-course milestone; this is the explicit bounded repair and teaching-flow clarification.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Preserve connected-course milestone; this is the explicit bounded repair and teaching-flow clarification.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Preserve connected-course milestone; this is the explicit bounded repair and teaching-flow clarification. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Preserve169/170frozen integrations and record171as the single pending successor;168remains separate.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Preserve169/170frozen integrations and record171as the single pending successor;168remains separate.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Preserve169/170frozen integrations and record171as the single pending successor;168remains separate. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Retain guards, genuine receipts, staged CI and separate CEAWA ownership.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Retain guards, genuine receipts, staged CI and separate CEAWA ownership.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Retain guards, genuine receipts, staged CI and separate CEAWA ownership. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Generate only reviewed direct-entry/flow and current-state/source-history reader files with exact screenshots.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Generate only reviewed direct-entry/flow and current-state/source-history reader files with exact screenshots.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Generate only reviewed direct-entry/flow and current-state/source-history reader files with exact screenshots. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "publication",
+            "disposition": "updated",
+            "action": "Publish this exact source review before a legitimate receipt; game live verification follows as a separate step.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Publish this exact source review before a legitimate receipt; game live verification follows as a separate step.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Publish this exact source review before a legitimate receipt; game live verification follows as a separate step. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Native fresh/repeat walk/button, four choices, Mara-only screen, lock/retry/cancel and real mixed completion pass.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Native fresh/repeat walk/button, four choices, Mara-only screen, lock/retry/cancel and real mixed completion pass.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Native fresh/repeat walk/button, four choices, Mara-only screen, lock/retry/cancel and real mixed completion pass. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Retain supplied introduction from399a4da; only explicit Mara choice opens scenario, then walk to chat and complete actual practice.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Retain supplied introduction from399a4da; only explicit Mara choice opens scenario, then walk to chat and complete actual practice.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Retain supplied introduction from399a4da; only explicit Mara choice opens scenario, then walk to chat and complete actual practice. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Retain exact five labels, Carolan-linked existing teaching and source references; wording clarifies self-motivation/judgement/usefulness without claiming mastery.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Retain exact five labels, Carolan-linked existing teaching and source references; wording clarifies self-motivation/judgement/usefulness without claiming mastery.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Retain exact five labels, Carolan-linked existing teaching and source references; wording clarifies self-motivation/judgement/usefulness without claiming mastery. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "Progress is a read-only game display; mixed trials and unsure/incorrect review feedback do not require a perfect outcome or create assessed portfolio evidence.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Progress is a read-only game display; mixed trials and unsure/incorrect review feedback do not require a perfect outcome or create assessed portfolio evidence.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Progress is a read-only game display; mixed trials and unsure/incorrect review feedback do not require a perfect outcome or create assessed portfolio evidence. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Source/reader describes pacing-word removal and actual practice sequence; secure accounts and classroom acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Source/reader describes pacing-word removal and actual practice sequence; secure accounts and classroom acceptance remain separate.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Source/reader describes pacing-word removal and actual practice sequence; secure accounts and classroom acceptance remain separate. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "Approach range supports Enter while real physical doorway walking remains; map/camera/return and no lost visit are verified.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Approach range supports Enter while real physical doorway walking remains; map/camera/return and no lost visit are verified.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Approach range supports Enter while real physical doorway walking remains; map/camera/return and no lost visit are verified. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "No building geometry, collision assets or campus models changed; actual walking routes and returns pass.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "No building geometry, collision assets or campus models changed; actual walking routes and returns pass.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No building geometry, collision assets or campus models changed; actual walking routes and returns pass. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Exact16files qualified with428unit tests,419asset/109module checks and scoped native/browser evidence; broad inherited failure remains explicit.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Exact16files qualified with428unit tests,419asset/109module checks and scoped native/browser evidence; broad inherited failure remains explicit.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact16files qualified with428unit tests,419asset/109module checks and scoped native/browser evidence; broad inherited failure remains explicit. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "Supplied historic introduction privately compared; original art retained. New native qualified captures distinguish introduction, Mara scenario, crew, results and finish.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Supplied historic introduction privately compared; original art retained. New native qualified captures distinguish introduction, Mara scenario, crew, results and finish.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Supplied historic introduction privately compared; original art retained. New native qualified captures distinguish introduction, Mara scenario, crew, results and finish. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "Historic399a4daand supplied screenshot match the retained page; current26614feopener safeguards and source identities retained.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Historic399a4daand supplied screenshot match the retained page; current26614feopener safeguards and source identities retained.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Historic399a4daand supplied screenshot match the retained page; current26614feopener safeguards and source identities retained. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Exact latest user restoration, Mara-only flow, size and mixed-result finish approvals replace the earlier generic scenario-first presentation.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Exact latest user restoration, Mara-only flow, size and mixed-result finish approvals replace the earlier generic scenario-first presentation.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact latest user restoration, Mara-only flow, size and mixed-result finish approvals replace the earlier generic scenario-first presentation. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Preserve cream/forest/brass and screenshot hierarchy; crew width1040pxwith bounded viewport and17–22pxbody sizing verified at desktop/phone.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Preserve cream/forest/brass and screenshot hierarchy; crew width1040pxwith bounded viewport and17–22pxbody sizing verified at desktop/phone.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Preserve cream/forest/brass and screenshot hierarchy; crew width1040pxwith bounded viewport and17–22pxbody sizing verified at desktop/phone. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "Same419runtime assets and existing models/images; only reviewed code/CSS/manifest changes, sharper ephemeral welcome capture, no new original asset production.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Same419runtime assets and existing models/images; only reviewed code/CSS/manifest changes, sharper ephemeral welcome capture, no new original asset production.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Same419runtime assets and existing models/images; only reviewed code/CSS/manifest changes, sharper ephemeral welcome capture, no new original asset production. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "Existing character choices, Mara/Sam identities, models and paused wardrobe decisions remain unchanged.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Existing character choices, Mara/Sam identities, models and paused wardrobe decisions remain unchanged.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing character choices, Mara/Sam identities, models and paused wardrobe decisions remain unchanged. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Bounded import, real lock contention, cancel/retry, duplicate and late navigation behavior pass; original failed runs retained.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Bounded import, real lock contention, cancel/retry, duplicate and late navigation behavior pass; original failed runs retained.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Bounded import, real lock contention, cancel/retry, duplicate and late navigation behavior pass; original failed runs retained. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          },
+          {
+            "surface": "security",
+            "disposition": "updated",
+            "action": "Protected auth/src/services/dashboards/config/learning sources and state/economy reducers compare unchanged; no new credentials/backend/student-data authority.",
+            "records": [
+              "CE-CHANGE-20261116-171",
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Protected auth/src/services/dashboards/config/learning sources and state/economy reducers compare unchanged; no new credentials/backend/student-data authority.",
+            "evidence": [
+              "production/market-entry-flow-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Protected auth/src/services/dashboards/config/learning sources and state/economy reducers compare unchanged; no new credentials/backend/student-data authority. 428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer."
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "playable-3d/app.js": "100644:b6d6e92d874b26ca0e252ccb966fcfde9cb8fb32",
+            "playable-3d/guest-shell.mjs": "100644:59fb8eb867bdc360420ba57018277878a2182177",
+            "playable-3d/index.html": "100644:6cdc8ee33fcf8602033307b65cfb0e0023620834",
+            "playable-3d/landing.mjs": "100644:e844ef614135ebff1a7280656542654493012f6c",
+            "playable-3d/market-entrance/market-entrance.mjs": "100644:102a1fe3f26b48c340c6a386086a21b5de9b12cf",
+            "playable-3d/market-teaching.mjs": "100644:b0201696f72ea9c69b54c8ee8cebef392caaed36",
+            "playable-3d/night-market.css": "100644:72283d85693fa7f6a11e3aeb1062d9fb40fce454",
+            "playable-3d/night-market.js": "100644:47d8d92278a6efb8af5eb5777713dd6df0dd82d5",
+            "playable-3d/release-manifest.json": "100644:fde19e0496f530977fce31fc26cd03ca062aab91",
+            "tests/e2e/classroom-gate.spec.js": "100644:4515663896f6706a5ceebf2bf5e572f597f2acf8",
+            "tests/e2e/market-entry-flow.spec.js": "100644:7bece79569be21f201b03e1938c6eb0157ba9c1c",
+            "tests/unit/market-entry.test.mjs": "100644:9b49e213a333ed2dfb41af373d9bf9c6415d659a",
+            "tests/unit/market-shift-progress.test.mjs": "100644:17a9a2208832d946e2507ba597c17cc3bc7f3900",
+            "tests/unit/runtime-recovery.test.mjs": "100644:53f0ccc63f522363b53264791657cb226ebe61e0",
+            "tests/unit/software-navigation.test.mjs": "100644:de5f20e8e839b039c535822bc45366959219e1b5",
+            "tests/unit/world-interaction-priority.test.mjs": "100644:c6458f8c804568bd9bbf015751bf5c159ba3b2ec"
+          }
+        },
+        "candidateSource": {
+          "base": "26614fe9b60729261fdc414c7a344a37d5614d98",
+          "files": [
+            {
+              "path": "playable-3d/app.js",
+              "sha256": "d9b8b3f588c057c90ced1c6e8f1de37f6b76f4019f83a4241cb13a54747fdae6",
+              "bytes": 134504,
+              "gitVersion": "100644:b6d6e92d874b26ca0e252ccb966fcfde9cb8fb32"
+            },
+            {
+              "path": "playable-3d/guest-shell.mjs",
+              "sha256": "7cf476048dfcc56e40ec0b35ae796f764fd1174816a624a14561146e83f68a55",
+              "bytes": 1418,
+              "gitVersion": "100644:59fb8eb867bdc360420ba57018277878a2182177"
+            },
+            {
+              "path": "playable-3d/index.html",
+              "sha256": "5ca650d8feeb177737f273ac60333834594e6ee1d80ff99686172a7086d0cb3a",
+              "bytes": 14251,
+              "gitVersion": "100644:6cdc8ee33fcf8602033307b65cfb0e0023620834"
+            },
+            {
+              "path": "playable-3d/landing.mjs",
+              "sha256": "a0e61bd65c42c9bf5017166e15f73134e062eef2516d6dc6c3fefd7448286896",
+              "bytes": 1414,
+              "gitVersion": "100644:e844ef614135ebff1a7280656542654493012f6c"
+            },
+            {
+              "path": "playable-3d/market-entrance/market-entrance.mjs",
+              "sha256": "24e6959302042932f673dda7efc5e9bd10bbbb2f415344c71273e6e9b39a3b16",
+              "bytes": 6972,
+              "gitVersion": "100644:102a1fe3f26b48c340c6a386086a21b5de9b12cf"
+            },
+            {
+              "path": "playable-3d/market-teaching.mjs",
+              "sha256": "8b63c7a30a64132a0b1c922429d4d174a660c372bedc59baaba1c554073cea7f",
+              "bytes": 16121,
+              "gitVersion": "100644:b0201696f72ea9c69b54c8ee8cebef392caaed36"
+            },
+            {
+              "path": "playable-3d/night-market.css",
+              "sha256": "112992e58e1c0cd6f84fea111887e7e031a18ca38555ddb3a6dad7ad05205b86",
+              "bytes": 10175,
+              "gitVersion": "100644:72283d85693fa7f6a11e3aeb1062d9fb40fce454"
+            },
+            {
+              "path": "playable-3d/night-market.js",
+              "sha256": "844a108f4ca7856802858e8ed4608a948b5dd67dd7fd6ee2f57747e7f8297cd3",
+              "bytes": 90495,
+              "gitVersion": "100644:47d8d92278a6efb8af5eb5777713dd6df0dd82d5"
+            },
+            {
+              "path": "playable-3d/release-manifest.json",
+              "sha256": "73d59ab23a8975583d8f800af8268ae4cb003118499104e21669bb1dc5850217",
+              "bytes": 64209,
+              "gitVersion": "100644:fde19e0496f530977fce31fc26cd03ca062aab91"
+            },
+            {
+              "path": "tests/e2e/classroom-gate.spec.js",
+              "sha256": "7ae90a29489e07044928f597add7d52b1f10423e90694175d77c5f77bcfded96",
+              "bytes": 3486,
+              "gitVersion": "100644:4515663896f6706a5ceebf2bf5e572f597f2acf8"
+            },
+            {
+              "path": "tests/e2e/market-entry-flow.spec.js",
+              "sha256": "871a0d48c133be2f77373aec42c04de0a43b14c61055d798d215aee6a8cd7779",
+              "bytes": 18122,
+              "gitVersion": "100644:7bece79569be21f201b03e1938c6eb0157ba9c1c"
+            },
+            {
+              "path": "tests/unit/market-entry.test.mjs",
+              "sha256": "e72d1b20136510b593b20a0893683ce0f0724a4d2f5fc617c7ecb7f9c14c383e",
+              "bytes": 962,
+              "gitVersion": "100644:9b49e213a333ed2dfb41af373d9bf9c6415d659a"
+            },
+            {
+              "path": "tests/unit/market-shift-progress.test.mjs",
+              "sha256": "bcc6f0056c8667ceb47cf9813e7bc4a2d380d2bb5a85aaac24afce1baf70bc27",
+              "bytes": 1525,
+              "gitVersion": "100644:17a9a2208832d946e2507ba597c17cc3bc7f3900"
+            },
+            {
+              "path": "tests/unit/runtime-recovery.test.mjs",
+              "sha256": "e7d3b0e3c668b2737fb2bfb1ac0e7215220e1aa1d26868219e2a0dbef75eb56b",
+              "bytes": 10321,
+              "gitVersion": "100644:53f0ccc63f522363b53264791657cb226ebe61e0"
+            },
+            {
+              "path": "tests/unit/software-navigation.test.mjs",
+              "sha256": "879ecf0e511d5df3b1e483ae83de90f8906dd725384b1a5b2586d3a7f90f3264",
+              "bytes": 9201,
+              "gitVersion": "100644:de5f20e8e839b039c535822bc45366959219e1b5"
+            },
+            {
+              "path": "tests/unit/world-interaction-priority.test.mjs",
+              "sha256": "1807b92579c442124ddd57da843299ff1451ad82bd7a42eef6ddafc3ec2ab21f",
+              "bytes": 2575,
+              "gitVersion": "100644:c6458f8c804568bd9bbf015751bf5c159ba3b2ec"
+            }
+          ],
+          "fileCount": 16,
+          "assets": 419,
+          "publicationAuthorized": true
         }
       }
     ],
