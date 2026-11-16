@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-16T12:29:47.846269+00:00",
+  "generatedAt": "2026-11-16T12:38:30.254092+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "6e2b61558c1ae70f4b88b86c4910dc0da4a55519334ee4441f627306f3a38e0e",
+  "recordSha256": "8ce4f853aaa345f509f5da74d6517b47e139f3b625c1dc8fc3b2787538a96726",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "6e2b61558c1ae70f4b88b86c4910dc0da4a55519334ee4441f627306f3a38e0e"
+      "sha256": "8ce4f853aaa345f509f5da74d6517b47e139f3b625c1dc8fc3b2787538a96726"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -2442,11 +2442,11 @@
     },
     {
       "path": "production/current-state.html",
-      "sha256": "60d04d88bd34480ac8ec8a078185de3435916c2ff7d486a5bfc7840a964dbd0f"
+      "sha256": "dcc4ea43ad0d5de5a5e0d410afd2b1cbecbaa7d654646c436f0e22360b64564a"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "6650f86a0c0593d0e51294e8b6def99b32beca8a807770aae5f89fedd70c67b4"
+      "sha256": "3fc87741464d2a32e924f5f7768b6185d01c60746b1a35d55f526ba3d43fa1ff"
     },
     {
       "path": "production/curriculum-collapsed-default-20261021.md",
@@ -2698,11 +2698,11 @@
     },
     {
       "path": "production/market-entry-flow-20261116.html",
-      "sha256": "e55c6148fab5a6836b47b84bc5e02d226a978b67af893ff92c686328205adccf"
+      "sha256": "240e02edf42bbf330df0ddf9d9dbcf4c59d6f985b23bb2b42a3ab36ea2c860f0"
     },
     {
       "path": "production/market-entry-flow-20261116.md",
-      "sha256": "25eda0a448588e6db1a8b371cbaa8121a8b094fb37b54cecb6d9149eacb6bbfd"
+      "sha256": "4bb0d3ec1c33440686b1c62e1c2a6449eb71eaa04e42b652146b5b33348ab94b"
     },
     {
       "path": "production/market-entry-release-20261116.md",
@@ -2734,7 +2734,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "5b42fa4c61d29583a436b96503d4f5a9c8ab1eb411530cefe71c5cabe0d1bf44"
+      "sha256": "f4e3691e4300ccf058d2a3f4f066457d4b7c3af92e059d2d4d43e5c44570034e"
     },
     {
       "path": "production/media-oval-20260911.md",

@@ -4,7 +4,7 @@
 
 428unit tests/95files and coverage pass;419assets/109imports pass. Actual public19cases pass, with1intentional desktop skip for the phone-only touch case. Controlled failure/lock/stale-index cases are distinguished from unmodified ordinary public flows. Required broad CI retains inherited Admin-preview failure/286not-run; no all-CI-green claim. Safari, physical devices, signed-in account saving, classroom and Tania acceptance remain separate. Existing authentication/privacy/state/economy and pending168/Flyover/CI are preserved.
 
-Tania to check the actual live game and Market/map links. Existing CEAWA owner to align final entry/crew/trial/finish screenshots and link expectations after this exact live verification; preserve the original video and label historical differences. No later clue-removal progression or new curriculum production is included.
+Tania to check the actual live Initiative game, generic entry, Mara-only link and Market/map returns. Safari, physical-device/classroom, signed-in account saving and Tania acceptance remain separate. CEAWA and Blueprint final alignment are now published; no additional game release is required.
 
 ## Actual live final screens
 
@@ -96,3 +96,10 @@ Authoritative game base `26614fe9b60729261fdc414c7a344a37d5614d98`; Emmanuel-ICT
 | `tests/unit/world-interaction-priority.test.mjs` | `100644:c6458f8c804568bd9bbf015751bf5c159ba3b2ec` |
 
 Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer.
+
+
+## Final CEAWA owner closeout
+
+Existing CEAWA owner published final0a05fc95a13513cd6d27cd11e36a5e11b1040708 and reports actual desktop/phone presentation links/video pass. Integrator independently checked remote head, served Initiative links and historical-video label; both actual served introduction/Mara image SHA256s match the complete live captures. Existing video and unrelated Portfolio/Avatar work preserved.
+
+Tania to check the actual live Initiative game, generic entry, Mara-only link and Market/map returns. Safari, physical-device/classroom, signed-in account saving and Tania acceptance remain separate. CEAWA and Blueprint final alignment are now published; no additional game release is required.
