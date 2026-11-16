@@ -1,6 +1,6 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-16T03:01:02.997Z",
+  "generatedAt": "2026-11-16T03:07:54.899418+00:00",
   "revision": "V2.42 / 13 November 2026",
   "recordSha256": "8ad0f025cdced6e429c8f61a5aefeb01d7a7ab639ea5e97a3298b3b7c7b9db40",
   "files": [
@@ -3198,7 +3198,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "037b28505ecc2dbb47586c24bd34fff24d190a35defd384bf1a15b44b3e1b151"
+      "sha256": "311569978fefe981b47f8d75fd71d8b112621413e60ea772574e716d57039e41"
     },
     {
       "path": "assets/curriculum-planner-CW-YCKb7.js",
@@ -3298,7 +3298,19 @@
     },
     {
       "path": "production/market-entry-release-20261116.md",
-      "sha256": "ca129a635082963e11563f4fc15eaf1b250000c22b25ac79ca280e1228757fc1"
+      "sha256": "4d28c9ee04359838a21f783accc747ae8ec4e9ce77645eac9663ef5499a4301b"
+    },
+    {
+      "path": "assets/index-market-entry-2ee6493a1064.js",
+      "sha256": "2ee6493a1064a2b0276f76a588334f064a019b65f92cdae91637b02f25aa02bc"
+    },
+    {
+      "path": "evidence/market-pathways-20261116/live-market-entry-1280.jpg",
+      "sha256": "2caf1c71ddace37f7847bf5ee2d1c1723012dc8cdbc9f4705306d4c0943bcc6e"
+    },
+    {
+      "path": "evidence/market-pathways-20261116/live-market-prompts-390.jpg",
+      "sha256": "b008b8f0d96b1eafa10e78ba0f3890343f764bf114d980552ae0e43753f3f3a2"
     }
   ],
   "recordPublicationScope": "Verified game-only166/167closeout and affected existing Portfolio reader documents; frozen source integrations/global WA records preserved. CEAWA/SkillQuest candidates remain unpublished pending explicit approval.",

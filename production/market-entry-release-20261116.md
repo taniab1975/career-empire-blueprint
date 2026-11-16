@@ -15,3 +15,9 @@ Game base `37758691a7fc9f543a9c3f1555c19edd29bd1d9f`. The updated game is awaiti
 | `playable-3d/market-entrance/market-entrance.mjs` | `100644:a66476e00c5490a4f4b1ab55bf172e9185d563fe` |
 | `playable-3d/night-market.js` | `100644:5438fa0dd5af730320bf79562199015551b77d93` |
 | `playable-3d/release-manifest.json` | `100644:bb6175dee28cc484a6473c578de3751e5945d9a7` |
+
+## Live verification
+
+Career Empire game release `9872415519465f18a55bf6ce9ae283056bef89f0`. All seven served files matched the reviewed versions. Chrome verified the entry at desktop and phone widths. The direct link and the game’s Mara choice both reach the first-gig prompt after entering the classroom word.
+
+[Desktop student entry](../evidence/market-pathways-20261116/live-market-entry-1280.jpg) · [Student prompts on a phone](../evidence/market-pathways-20261116/live-market-prompts-390.jpg)
