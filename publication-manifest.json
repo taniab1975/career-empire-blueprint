@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-14T05:42:14.413009+00:00",
+  "generatedAt": "2026-11-16T03:01:02.997Z",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "d91d8e452a2d5d6ef05dc451ecfb693827e35af8be2e8a171fdad5b76793af6d",
+  "recordSha256": "8ad0f025cdced6e429c8f61a5aefeb01d7a7ab639ea5e97a3298b3b7c7b9db40",
   "files": [
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
@@ -3250,7 +3250,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "d91d8e452a2d5d6ef05dc451ecfb693827e35af8be2e8a171fdad5b76793af6d"
+      "sha256": "8ad0f025cdced6e429c8f61a5aefeb01d7a7ab639ea5e97a3298b3b7c7b9db40"
     },
     {
       "path": "production/current-state.md",
@@ -3295,6 +3295,10 @@
     {
       "path": "evidence/portfolio-palette-20261113/live-opened-portfolio-390.png",
       "sha256": "eb61b557078cfeba03ca1a2ff3197487a0893bf87bcafb26feebdd080ccc64f7"
+    },
+    {
+      "path": "production/market-entry-release-20261116.md",
+      "sha256": "ca129a635082963e11563f4fc15eaf1b250000c22b25ac79ca280e1228757fc1"
     }
   ],
   "recordPublicationScope": "Verified game-only166/167closeout and affected existing Portfolio reader documents; frozen source integrations/global WA records preserved. CEAWA/SkillQuest candidates remain unpublished pending explicit approval.",

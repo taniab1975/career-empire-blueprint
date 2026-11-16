@@ -39715,6 +39715,27 @@
           ],
           "supersededRecord": null,
           "taniaAcceptance": "Not built or accepted."
+        },
+        {
+          "id": "CE-CHANGE-20261116-169",
+          "date": "2026-11-16",
+          "title": "Sunday Markets student entry and direct Mara route",
+          "source": "Tania approved release of the Market, followed by CEAWA and the Blueprint reader. Tania approved publishing this prerequisite verification record first.",
+          "owner": "Career Empire Market release",
+          "status": "Exact source review verified. Market deployment pending.",
+          "rationale": "The Market entrance introduces Mara’s mixed lunch queue and five student prompts. The separate Mara link goes through the existing classroom word and reaches the same first-gig stage as the Mara choice.",
+          "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots.",
+          "evidence": [
+            "production/market-entry-release-20261116.md"
+          ],
+          "implementation": "The Market entrance introduces Mara’s mixed lunch queue and five student prompts. The separate Mara link goes through the existing classroom word and reaches the same first-gig stage as the Mara choice.",
+          "testing": "Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+          "deployment": "Public verification record precedes the guarded Market release.",
+          "designApproval": "Tania approved release of the Market, followed by CEAWA and the Blueprint reader. Tania approved publishing this prerequisite verification record first.",
+          "domain": "Initiative and the Sunday Markets first gig",
+          "dependencies": [],
+          "supersededRecord": null,
+          "taniaAcceptance": "Release approved. Live acceptance pending."
         }
       ],
       "sessionStart": [
@@ -107317,6 +107338,386 @@
             "dashboards/dashboard.css": "100644:158f0cdc741c892173428f34b31e9110a3f6cb20",
             "dashboards/student.html": "100644:e401b451711320c0ffc2bea7b138c6d77f99b39d",
             "playable-3d/release-manifest.json": "100644:15bef73f90fbfb502d7fa9c92b04e9c77f9e5eb8"
+          }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261116-169",
+        "title": "Sunday Markets student entry and direct Mara route",
+        "types": [
+          "implementation",
+          "visual",
+          "release"
+        ],
+        "status": "complete",
+        "objective": "Sunday Markets student entry and direct Mara route",
+        "before": "The Market entry offers four learning choices. The existing CEAWA presentation places the student invitation above its flat menu.",
+        "after": "The Market entrance introduces Mara’s mixed lunch queue and five student prompts. The separate Mara link goes through the existing classroom word and reaches the same first-gig stage as the Mara choice.",
+        "source": "Tania approved release of the Market, followed by CEAWA and the Blueprint reader. Tania approved publishing this prerequisite verification record first.",
+        "owner": "Career Empire Market release",
+        "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots.",
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "The release record describes the student-facing Market entry and the remaining release steps.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The release record describes the student-facing Market entry and the remaining release steps. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "checked-unchanged",
+            "action": "This release is scoped to the existing Market entry and CEAWA demonstration. The production roadmap remains applicable.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "This release is scoped to the existing Market entry and CEAWA demonstration. The production roadmap remains applicable. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "This record preserves the current release baseline and dates the approved successor.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "This record preserves the current release baseline and dates the approved successor. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "checked-unchanged",
+            "action": "The classroom pacing word remains in both Market paths. The existing guarded release procedure applies.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The classroom pacing word remains in both Market paths. The existing guarded release procedure applies. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "The public export adds the approved source versions, verification evidence and release sequence.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The public export adds the approved source versions, verification evidence and release sequence. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "publication",
+            "disposition": "updated",
+            "action": "This record covers exact sources for the candidate. Public game and reader verification follow release.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "This record covers exact sources for the candidate. Public game and reader verification follow release. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "The seven staged runtime, cache and manifest changes match the browser-tested candidate.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The seven staged runtime, cache and manifest changes match the browser-tested candidate. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "The normal entrance shows four learning routes. The direct Mara link reaches the same first-gig prompt as choosing Mara.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The normal entrance shows four learning routes. The direct Mara link reaches the same first-gig prompt as choosing Mara. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "Both paths show the classroom pacing gate. Teaching and assessment conditions remain applicable.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Both paths show the classroom pacing gate. Teaching and assessment conditions remain applicable. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "The base and seven candidate file versions are recorded for scoped recovery.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The base and seven candidate file versions are recorded for scoped recovery. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "The student preview and CEAWA walkthrough are separately identified in the release record. The existing walkthrough video is retained.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The student preview and CEAWA walkthrough are separately identified in the release record. The existing walkthrough video is retained. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "The changed manifest entries match the approved files. The Market illustration and Mara portrait are reused.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The changed manifest entries match the approved files. The Market illustration and Mara portrait are reused. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "The entry uses the existing cream and forest styling with five lunch-rush cards.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The entry uses the existing cream and forest styling with five lunch-rush cards. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "Juniper Kitchen remains the destination after entering the Market. The trial uses the existing queue scene.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Juniper Kitchen remains the destination after entering the Market. The trial uses the existing queue scene. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "The candidate uses the existing Mara portrait and market characters.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The candidate uses the existing Mara portrait and market characters. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "The direct route reuses the existing spawn and first-gig objective after the classroom gate.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The direct route reuses the existing spawn and first-gig objective after the classroom gate. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Tania approved the scoped release and the prerequisite verification record.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Tania approved the scoped release and the prerequisite verification record. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "The record binds the seven reviewed game files and identifies the actual browser verification.",
+            "records": [
+              "CE-CHANGE-20261116-169"
+            ],
+            "owner": "Career Empire Market release",
+            "acceptance": "The recorded result agrees with the approved exact source and evidenced scope.",
+            "evidence": [
+              "production/market-entry-release-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "The record binds the seven reviewed game files and identifies the actual browser verification. Chrome at 1280px and 390px verified the candidate Market entry and Mara choice. Chrome at 1280px verified the direct route reaching the same first-gig screen after the classroom word. Browser tests used the hosted game with seven reviewed candidate files overlaid.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Run the guarded Market release and verify the public entry and direct Mara route. Then publish the scoped CEAWA menu and Phase 1 Blueprint screenshots."
+          }
+        ],
+        "projectChanges": {
+          "game-market-mara-release-20261116": {
+            "playable-3d/app.js": "100644:1204e9aabb6f2705a9c228cbbcd1839f987f54ad",
+            "playable-3d/guest-shell.mjs": "100644:a2115b122db23ced8a18d96a2b160f401226e1b2",
+            "playable-3d/index.html": "100644:c0930607b97d123843da6d27f6a4d05766b44f1b",
+            "playable-3d/market-entrance/entrance.css": "100644:be44630e479269e776912ed8d4d34e85d51df8ec",
+            "playable-3d/market-entrance/market-entrance.mjs": "100644:a66476e00c5490a4f4b1ab55bf172e9185d563fe",
+            "playable-3d/night-market.js": "100644:5438fa0dd5af730320bf79562199015551b77d93",
+            "playable-3d/release-manifest.json": "100644:bb6175dee28cc484a6473c578de3751e5945d9a7"
+          },
+          "game-initiative-release-20261111": {
+            "playable-3d/app.js": "100644:1204e9aabb6f2705a9c228cbbcd1839f987f54ad",
+            "playable-3d/guest-shell.mjs": "100644:a2115b122db23ced8a18d96a2b160f401226e1b2",
+            "playable-3d/index.html": "100644:c0930607b97d123843da6d27f6a4d05766b44f1b",
+            "playable-3d/market-entrance/entrance.css": "100644:be44630e479269e776912ed8d4d34e85d51df8ec",
+            "playable-3d/market-entrance/market-entrance.mjs": "100644:a66476e00c5490a4f4b1ab55bf172e9185d563fe",
+            "playable-3d/night-market.js": "100644:5438fa0dd5af730320bf79562199015551b77d93",
+            "playable-3d/release-manifest.json": "100644:bb6175dee28cc484a6473c578de3751e5945d9a7"
           }
         }
       }
