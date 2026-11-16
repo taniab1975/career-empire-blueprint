@@ -34928,8 +34928,8 @@
       "phase": "Refresh the reader against the live game",
       "activeMilestoneId": "CE-CONTINUITY-01",
       "objective": "Make the purpose, current design, implementation limits and next decisions understandable to a new colleague.",
-      "now": "Game Portfolio palette correction167 is published and independently verified at the actual Career Empire game, commit 37758691a7fc9f543a9c3f1555c19edd29bd1d9f. All419actual public runtime hashes match. Native Chrome1280/390 directly opens View Portfolio and verifies cream dialog rgb(255,253,242), no navy background image and sage backdrop rgba(193,207,187,0.88), with matching readable heading, statistics, Close and global view controls. Initiative-first illustrated overviews, global capability dropdowns/multi-tag repetition and unique year/month chronology remain. Public Market entry/context/draft/log/PDF and actual Market/map/Notes/Journal/Archon/same-run checks pass. No JavaScript or learner-record behavior changed.",
-      "next": "Tania to check the actual live opened Portfolio and Market/map links. Retain separate Safari/physical-device/classroom acceptance. CEAWA and SkillQuest public deployment still require explicit approval; do not publish or retry them under the game approval.",
+      "now": "Isolated Initiative pacing-word removal170 is source-reviewed on actual game9872415; source publication precedes its guarded game release. Real authentication/student-record permissions and169Market/Mara design remain unchanged.",
+      "next": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending.",
       "then": "Author and review core learning materials, purposeful application and appropriate evidence across the shared phases; align school pacing and assessment dates before setting lessons.",
       "later": "Implement the agreed connected course and verify classroom, accessibility, school and learner-evidence requirements separately.",
       "sequence": [
@@ -35267,7 +35267,7 @@
         "V2-D03",
         "V2-D18"
       ],
-      "nextAction": "Tania to check the actual live opened Portfolio and Market/map links. Retain separate Safari/physical-device/classroom acceptance. CEAWA and SkillQuest public deployment still require explicit approval; do not publish or retry them under the game approval.",
+      "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending.",
       "doneWhen": "Core materials and meaningful application/evidence are authored and reviewed against the exact curriculum and school assessment requirements. Blueprint publication, game integration, school permission and learner mastery have separate evidence.",
       "boundary": "Documentation refresh only; does not approve game production, new backend, security permissions or a student trial. No real learner records changed."
     },
@@ -39736,6 +39736,24 @@
           "dependencies": [],
           "supersededRecord": null,
           "taniaAcceptance": "Release approved. Live acceptance pending."
+        },
+        {
+          "id": "CE-CHANGE-20261116-170",
+          "date": "2026-11-16",
+          "title": "Direct Initiative entry without classroom pacing word",
+          "source": "Tania: please remove and reload into live wihtout the password. Explicit coordinator/root direction authorizes isolated pacing-gate removal and necessary exact-source reader/receipt workflow. No entrance redesign168, CI, CEAWA or unrelated work.",
+          "owner": "Integrate and test Initiative",
+          "status": "Exact source review qualified; authorized game publication pending",
+          "rationale": "Remove the public Ready for Initiative classroom-word prompt. Keep the createClassroomGate asynchronous compatibility seam, input/focus callbacks, existing requestMarket mode-change check and openMarket duplicate/abort controls. Account authentication and student-record permissions remain unchanged. Runtime changes are classroom-gate.mjs plus the necessary import cache-version chain in app.js, guest-shell.mjs and index.html. Based on published9872415 and preserves its169Market/Mara routes. Pending Markets invitation168 is excluded from the release candidate.",
+          "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending.",
+          "evidence": [
+            "docs/production/initiative-direct-entry-20261116.md"
+          ],
+          "implementation": "Remove the public Ready for Initiative classroom-word prompt. Keep the createClassroomGate asynchronous compatibility seam, input/focus callbacks, existing requestMarket mode-change check and openMarket duplicate/abort controls. Account authentication and student-record permissions remain unchanged. Runtime changes are classroom-gate.mjs plus the necessary import cache-version chain in app.js, guest-shell.mjs and index.html. Based on published9872415 and preserves its169Market/Mara routes. Pending Markets invitation168 is excluded from the release candidate.",
+          "testing": "Source checks and419unit tests across93files pass. All419staged runtime hashes and109imports pass. At1280/390, fresh and repeated normal entry, same-run campus return/reentry and canvas focus pass; compatibility creates no word dialog and changes no localStorage. Existing automatic Market-return cases pass. The two automatic Mara tests initially expected a dialog incorrectly; corrected tests pass the existing playable first-gig scene/meet-Mara objective and canvas focus. Six focused cases passed initially and the two corrected cases passed separately. Final unmodified local9872415game plus patch passes Market/map/Notes reading/wrong-correct feedback/written responses/draft/Journal/Archon lobby returns and same-run retention at both widths, with zero page errors, missing responses and guest Notes Storage/backend calls. This is local browser evidence, not live or physical-device acceptance.",
+          "deployment": "Game currently9872415. No170game publication or receipt yet; exact source review must publish first.",
+          "taniaAcceptance": "Publication authorized; live acceptance pending.",
+          "designApproval": "Tania: please remove and reload into live wihtout the password. Explicit coordinator/root direction authorizes isolated pacing-gate removal and necessary exact-source reader/receipt workflow. No entrance redesign168, CI, CEAWA or unrelated work."
         }
       ],
       "sessionStart": [
@@ -107719,6 +107737,557 @@
             "playable-3d/night-market.js": "100644:5438fa0dd5af730320bf79562199015551b77d93",
             "playable-3d/release-manifest.json": "100644:bb6175dee28cc484a6473c578de3751e5945d9a7"
           }
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261116-170",
+        "title": "Direct Initiative entry without classroom pacing word",
+        "types": [
+          "activity",
+          "implementation",
+          "governance",
+          "security",
+          "release"
+        ],
+        "status": "complete",
+        "objective": "Let visitors enter Initiative without a lesson-pacing word.",
+        "before": "First guest Market entry requires a public classroom word in a lesson-pacing modal.",
+        "after": "Remove the public Ready for Initiative classroom-word prompt. Keep the createClassroomGate asynchronous compatibility seam, input/focus callbacks, existing requestMarket mode-change check and openMarket duplicate/abort controls. Account authentication and student-record permissions remain unchanged. Runtime changes are classroom-gate.mjs plus the necessary import cache-version chain in app.js, guest-shell.mjs and index.html. Based on published9872415 and preserves its169Market/Mara routes. Pending Markets invitation168 is excluded from the release candidate.",
+        "source": "Tania: please remove and reload into live wihtout the password. Explicit coordinator/root direction authorizes isolated pacing-gate removal and necessary exact-source reader/receipt workflow. No entrance redesign168, CI, CEAWA or unrelated work.",
+        "owner": "Integrate and test Initiative",
+        "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "Remove the public Ready for Initiative classroom-word prompt. Keep the createClassroomGate asynchronous compatibility seam, input/focus callbacks, existing requestMarket mode-change check and openMarket duplicate/abort controls. Account authentication and student-record permissions remain unchanged. Runtime changes are classroom-gate.mjs plus the necessary import cache-version chain in app.js, guest-shell.mjs and index.html. Based on published9872415 and preserves its169Market/Mara routes. Pending Markets invitation168 is excluded from the release candidate.",
+          "rationale": "The removed client-side lesson pacing word is public, not identity verification. No school authentication, data collection or permissions granted.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "No new collection or fields. Guest run memory and account/record protections unchanged; guest Notes test recorded zero Storage/backend calls.",
+            "locations": "Local source and synthetic browser evidence only; existing GitHub hosting/database locations unchanged.",
+            "accessCountries": "No new recipient, access country or transfer.",
+            "providers": "Existing browser/game providers retained; no new service or dependency.",
+            "lifecycle": "No save, retention, deletion or account lifecycle changes.",
+            "encryption": "No transport or storage cryptography changes; no compliance claim.",
+            "logging": "No runtime analytics, logging or telemetry added; local synthetic test evidence only.",
+            "identity": "Removed only the public lesson-pacing word. Authentication, sessions, student ownership and permissions files compare unchanged.",
+            "isolation": "Guest Notes keeps existing run memory; no school/account isolation certification claimed.",
+            "privacySafety": "No real learner data used or account role granted. Guest access was already permitted after a public classroom word; existing moderation and access controls unchanged.",
+            "applicability": "Bounded local presentation refresh; school deployment readiness remains separate.",
+            "verification": "Source checks and419unit tests across93files pass. All419staged runtime hashes and109imports pass. At1280/390, fresh and repeated normal entry, same-run campus return/reentry and canvas focus pass; compatibility creates no word dialog and changes no localStorage. Existing automatic Market-return cases pass. The two automatic Mara tests initially expected a dialog incorrectly; corrected tests pass the existing playable first-gig scene/meet-Mara objective and canvas focus. Six focused cases passed initially and the two corrected cases passed separately. Final unmodified local9872415game plus patch passes Market/map/Notes reading/wrong-correct feedback/written responses/draft/Journal/Archon lobby returns and same-run retention at both widths, with zero page errors, missing responses and guest Notes Storage/backend calls. This is local browser evidence, not live or physical-device acceptance."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "Source checks and419unit tests across93files pass. All419staged runtime hashes and109imports pass. At1280/390, fresh and repeated normal entry, same-run campus return/reentry and canvas focus pass; compatibility creates no word dialog and changes no localStorage. Existing automatic Market-return cases pass. The two automatic Mara tests initially expected a dialog incorrectly; corrected tests pass the existing playable first-gig scene/meet-Mara objective and canvas focus. Six focused cases passed initially and the two corrected cases passed separately. Final unmodified local9872415game plus patch passes Market/map/Notes reading/wrong-correct feedback/written responses/draft/Journal/Archon lobby returns and same-run retention at both widths, with zero page errors, missing responses and guest Notes Storage/backend calls. This is local browser evidence, not live or physical-device acceptance."
+          ],
+          "reviewedBy": "Codex sole integrator: technical review of the exact anonymous/presentation delta only",
+          "reviewedAt": "2026-11-16",
+          "productionComplete": false,
+          "releasePurpose": "product-change",
+          "securityApproval": "Tania explicitly requests this corrected presentation and guarded release; prior isolated-mode/data boundaries remain unchanged. Technical evidence only, no institutional policy approval.",
+          "architectureApproval": null,
+          "reviewScope": "Local-only, unpublished qualification; no production completion or publication approval."
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Current-state labels exact9872415published baseline and the170local-only patch separately.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Current-state labels exact9872415published baseline and the170local-only patch separately.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Current-state labels exact9872415published baseline and the170local-only patch separately.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "checked-unchanged",
+            "action": "Existing connected-course production milestone retained; this is the explicit bounded pacing-cue removal.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Existing connected-course production milestone retained; this is the explicit bounded pacing-cue removal.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing connected-course production milestone retained; this is the explicit bounded pacing-cue removal.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Append170and preserve published169and local168as distinct records and source baselines.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Append170and preserve published169and local168as distinct records and source baselines.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Append170and preserve published169and local168as distinct records and source baselines.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Both AGENTS and the local handoff specify no additional deployment approval and protected CI preservation.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Both AGENTS and the local handoff specify no additional deployment approval and protected CI preservation.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Both AGENTS and the local handoff specify no additional deployment approval and protected CI preservation.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Generate only affected local direct-entry and existing Markets reader documents; public publication remains pending.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Generate only affected local direct-entry and existing Markets reader documents; public publication remains pending.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Generate only affected local direct-entry and existing Markets reader documents; public publication remains pending.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "publication",
+            "disposition": "updated",
+            "action": "Publish the exact reviewed source record before product release; independent live byte verification is required before the receipt.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Source projection has exact nine-file bindings and honest separate source/game/acceptance status.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Prepared source record and reader checked against qualified nine-file source; game deployment not claimed. Public byte verification is a mandatory next step before receipt.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Fresh/repeat entry, campus return, automatic Market/Mara and Notes/Journal/Archon routes verified without a word form.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Fresh/repeat entry, campus return, automatic Market/Mara and Notes/Journal/Archon routes verified without a word form.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Fresh/repeat entry, campus return, automatic Market/Mara and Notes/Journal/Archon routes verified without a word form.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Normal arrival remains outside Sunday Markets; physical walking enters directly. Automatic Mara/Market-return retain169routing.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Normal arrival remains outside Sunday Markets; physical walking enters directly. Automatic Mara/Market-return retain169routing.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Normal arrival remains outside Sunday Markets; physical walking enters directly. Automatic Mara/Market-return retain169routing.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Exact five Initiative labels, teaching bank and sources are unchanged by removing the public pacing cue; no mastery claim.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Exact five Initiative labels, teaching bank and sources are unchanged by removing the public pacing cue; no mastery claim.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Exact five Initiative labels, teaching bank and sources are unchanged by removing the public pacing cue; no mastery claim.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "No response fields, evidence scoring, rewards or assessment gates changed; the removed public word was never identity/assessment evidence.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "No response fields, evidence scoring, rewards or assessment gates changed; the removed public word was never identity/assessment evidence.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No response fields, evidence scoring, rewards or assessment gates changed; the removed public word was never identity/assessment evidence.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Local teacher-facing handoff now states no classroom word is required by candidate170; school login and live169remain distinct.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Local teacher-facing handoff now states no classroom word is required by candidate170; school login and live169remain distinct.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Local teacher-facing handoff now states no classroom word is required by candidate170; school login and live169remain distinct.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "Campus/Market geometry, camera, saved progress and map controls preserved; ordinary navigation and map checks pass.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Campus/Market geometry, camera, saved progress and map controls preserved; ordinary navigation and map checks pass.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Campus/Market geometry, camera, saved progress and map controls preserved; ordinary navigation and map checks pass.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "No entrance coordinates, collisions, building assets or walking gate geometry edited; real walk-in/reentry passes.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "No entrance coordinates, collisions, building assets or walking gate geometry edited; real walk-in/reentry passes.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No entrance coordinates, collisions, building assets or walking gate geometry edited; real walk-in/reentry passes.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "419unit tests, source checks and419asset/109module checks pass; exact four-runtime/eight-source manifest retained locally.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "419unit tests, source checks and419asset/109module checks pass; exact four-runtime/eight-source manifest retained locally.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "419unit tests, source checks and419asset/109module checks pass; exact four-runtime/eight-source manifest retained locally. Native broad-browser retry reached the inherited Admin-preview modal/navigation failure: 1 failed, 276 not run, plus its server/runner error retained. This is not an all-CI-green release claim. The isolated direct-entry behavior has separate passing regression evidence.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "No runtime video/poster/art changes; local1280/390captures show direct-entry candidate while169entrance art stays intact.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "No runtime video/poster/art changes; local1280/390captures show direct-entry candidate while169entrance art stays intact.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "No runtime video/poster/art changes; local1280/390captures show direct-entry candidate while169entrance art stays intact.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "recovery",
+            "disposition": "checked-unchanged",
+            "action": "Mode-request async check, duplicate-open guard and aborted/late import recovery preserved; focused recovery tests pass.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Mode-request async check, duplicate-open guard and aborted/late import recovery preserved; focused recovery tests pass.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Mode-request async check, duplicate-open guard and aborted/late import recovery preserved; focused recovery tests pass.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "assets",
+            "disposition": "checked-unchanged",
+            "action": "Runtime asset list remains419; changed hashes only reflect four runtime files. Pending168candidate assets/components stay byte-identical.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Runtime asset list remains419; changed hashes only reflect four runtime files. Pending168candidate assets/components stay byte-identical.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Runtime asset list remains419; changed hashes only reflect four runtime files. Pending168candidate assets/components stay byte-identical.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Record exact human request to remove pacing prompt without reinterpreting it as authentication or publication approval.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Record exact human request to remove pacing prompt without reinterpreting it as authentication or publication approval.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Record exact human request to remove pacing prompt without reinterpreting it as authentication or publication approval.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "sources",
+            "disposition": "checked-unchanged",
+            "action": "Existing curriculum/licensed originals and shared learning references untouched; candidate manifest binds actual code versions.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Existing curriculum/licensed originals and shared learning references untouched; candidate manifest binds actual code versions.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Existing curriculum/licensed originals and shared learning references untouched; candidate manifest binds actual code versions.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          },
+          {
+            "surface": "security",
+            "disposition": "updated",
+            "action": "Screened existing no-data-change triggers; auth/src/services/dashboards/config working source and Archon tracked source compare unchanged.",
+            "records": [
+              "CE-CHANGE-20261116-170",
+              "CE-CHANGE-20261116-168"
+            ],
+            "owner": "Integrate and test Initiative",
+            "acceptance": "Screened existing no-data-change triggers; auth/src/services/dashboards/config working source and Archon tracked source compare unchanged.",
+            "evidence": [
+              "production/initiative-direct-entry-20261116.md"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Screened existing no-data-change triggers; auth/src/services/dashboards/config working source and Archon tracked source compare unchanged.",
+              "date": "2026-11-16"
+            },
+            "nextAction": "Verify this exact public source review, obtain a genuine nine-file receipt, then guarded game publication and independent live fresh/repeat/return checks. Game deployment and acceptance remain pending."
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "playable-3d/app.js": "100644:7f3bf137c3604670df5a0df8058019ef4b51e2df",
+            "playable-3d/classroom-gate.mjs": "100644:efec01533cb86b996eb969ff75a97745227234c7",
+            "playable-3d/guest-shell.mjs": "100644:a092cc9ff3f8de18c76ac2ca36c3bf4a9dde5e9a",
+            "playable-3d/index.html": "100644:10a2dd0d3493d1ddfc8a13645cf1a6d622a79de4",
+            "playable-3d/release-manifest.json": "100644:4ae11c2b148afa2b4cb11fa26a7f370a2038c07b",
+            "tests/e2e/classroom-gate.spec.js": "100644:633c4b5add359e3168368ce6963c0d1f43fe31d4",
+            "tests/e2e/market-controls.js": "100644:27c87ceab062c8c67b6a7a7a7e61796135d22a59",
+            "tests/unit/classroom-gate.test.mjs": "100644:1dd7cbd709fc9bb166bcd7310299578eca2fe621",
+            "tests/unit/runtime-recovery.test.mjs": "100644:47374ffc5b74c36b49666a811ff7e06fb3d711b1"
+          }
+        },
+        "candidateSource": {
+          "base": "9872415519465f18a55bf6ce9ae283056bef89f0",
+          "files": [
+            {
+              "path": "playable-3d/app.js",
+              "sha256": "ee2ac92a4b74a20da929669bedaafbcae90c3d015abbe1700d616df21e41c370",
+              "bytes": 133304,
+              "gitVersion": "100644:7f3bf137c3604670df5a0df8058019ef4b51e2df"
+            },
+            {
+              "path": "playable-3d/classroom-gate.mjs",
+              "sha256": "75cca915226adbc224f9be725eaacd48e2a0e48d20c3c7bb3e78c42e52ada395",
+              "bytes": 506,
+              "gitVersion": "100644:efec01533cb86b996eb969ff75a97745227234c7"
+            },
+            {
+              "path": "playable-3d/guest-shell.mjs",
+              "sha256": "9d31bbfdc32876c6a32741f5b79ba2ffb9e14642c665fa3305fc3501463ac8f3",
+              "bytes": 1424,
+              "gitVersion": "100644:a092cc9ff3f8de18c76ac2ca36c3bf4a9dde5e9a"
+            },
+            {
+              "path": "playable-3d/index.html",
+              "sha256": "6537315c39cd6a84a4d0ae4e3e037dca1298547e812e17c65d8f94aa2f501924",
+              "bytes": 13477,
+              "gitVersion": "100644:10a2dd0d3493d1ddfc8a13645cf1a6d622a79de4"
+            },
+            {
+              "path": "playable-3d/release-manifest.json",
+              "sha256": "e3fa07259bc6728a3f55eacb2a54d02300d87b5edf438f86aa5597b744df945e",
+              "bytes": 64180,
+              "gitVersion": "100644:4ae11c2b148afa2b4cb11fa26a7f370a2038c07b"
+            },
+            {
+              "path": "tests/e2e/classroom-gate.spec.js",
+              "sha256": "869ba0e3878a4d1dd70af3633c9c22c9bf502844236ee502417efb7c34dcd312",
+              "bytes": 3457,
+              "gitVersion": "100644:633c4b5add359e3168368ce6963c0d1f43fe31d4"
+            },
+            {
+              "path": "tests/e2e/market-controls.js",
+              "sha256": "a2aaebfb4ff6e45c60feb615e78177edfdba8504f93e1d2834d1994c61f9a941",
+              "bytes": 3615,
+              "gitVersion": "100644:27c87ceab062c8c67b6a7a7a7e61796135d22a59"
+            },
+            {
+              "path": "tests/unit/classroom-gate.test.mjs",
+              "sha256": "f074fb7f5386a5f690e488579af04097793eb9ef7d174597025d60638455aac5",
+              "bytes": 1162,
+              "gitVersion": "100644:1dd7cbd709fc9bb166bcd7310299578eca2fe621"
+            },
+            {
+              "path": "tests/unit/runtime-recovery.test.mjs",
+              "sha256": "74887fcc7a4988b9c5d702f389b05aa986816c89ccf433690cecd870c509a239",
+              "bytes": 9072,
+              "gitVersion": "100644:47374ffc5b74c36b49666a811ff7e06fb3d711b1"
+            }
+          ],
+          "fileCount": 9,
+          "assets": 419,
+          "publicationAuthorized": true,
+          "authorization": "Tania specific pacing-word removal; coordinator01a1a16a-ac23-7745-863b-a61942629028/root explicitly directs isolated normal guarded publication, no prior denial for this batch."
         }
       }
     ],

@@ -1,12 +1,20 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-16T03:07:54.899418+00:00",
+  "generatedAt": "2026-11-16T04:43:20.342172+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "8ad0f025cdced6e429c8f61a5aefeb01d7a7ab639ea5e97a3298b3b7c7b9db40",
+  "recordSha256": "df280abcdccc0727ab50aa1845108f6e9acee5791bf8d3eee6b23f5ca2a88fb3",
   "files": [
+    {
+      "path": "assets/curriculum-planner-BgQlo9-k.js",
+      "sha256": "855fe2bb3587e67a6047c735df230abe164b8a8aa4603f48b18d0b9409729e0a"
+    },
     {
       "path": "assets/curriculum-planner-BmcShUhY.js",
       "sha256": "62773d53285d662fa66a5851e496b777270f50516d9e4c828d8ae7d34d551243"
+    },
+    {
+      "path": "assets/curriculum-planner-CW-YCKb7.js",
+      "sha256": "7764b224c9edd98f18d309fcfcb41b87673c3d80a51dc6664ca8a77d9fc1204a"
     },
     {
       "path": "assets/curriculum-planner-CaXpHcay.js",
@@ -15,6 +23,10 @@
     {
       "path": "assets/curriculum-planner-DVZiHVvL.js",
       "sha256": "dd735717f957db591c6dc0a0e382d3654be498d318e4f6b78a45af1e2bfb56aa"
+    },
+    {
+      "path": "assets/curriculum-planner-DYnIkdOQ.js",
+      "sha256": "0ac9a9eb9922b4d9100d17fdd19a6042df8c8ff29fc1bb1b48bad162a16fcf3d"
     },
     {
       "path": "assets/curriculum-planner-xKwJRTnx.js",
@@ -33,6 +45,14 @@
       "sha256": "3426b07010109d5a2fc5d557183bc85ad8faedd7f7c151e8dddc4b639cf3b1c8"
     },
     {
+      "path": "assets/index-Bzw99sjV.js",
+      "sha256": "594961c0247dca5e95f43a964e38394c4e9c65873f60cb225f6537d18c69332a"
+    },
+    {
+      "path": "assets/index-DC3aymK3.js",
+      "sha256": "b00a11add05cf0a3bcc6ef5d47b28c58f143a89d957b33cee97f704c9bc3dc43"
+    },
+    {
       "path": "assets/index-DGeuVEv8.js",
       "sha256": "b400928a039592293e17c62d33ec5404f9a6a25259bfe9211937429d16d345de"
     },
@@ -45,12 +65,24 @@
       "sha256": "9357914ec70afec17a97308b8c38a002720faa1b0614846a094a47ac43be9118"
     },
     {
+      "path": "assets/index-mTos3HB-.js",
+      "sha256": "386c8ab4ba2a34de4cdbe90f958aedebe0720ed4fe1de78c9c53d5e54469a9a1"
+    },
+    {
+      "path": "assets/index-market-entry-2ee6493a1064.js",
+      "sha256": "2ee6493a1064a2b0276f76a588334f064a019b65f92cdae91637b02f25aa02bc"
+    },
+    {
       "path": "assets/index-phase-access-58c559ab1c.js",
       "sha256": "58c559ab1cb710b87a4af84658c9db97d283b6485be6e0c50bb8e09d2f0a0ed8"
     },
     {
       "path": "assets/index-ukGF-7-G.css",
       "sha256": "82a8a5adcbbe2920fe5ab8c6ea09ccc8b8fe8d7aaa8d1e2a753d2130f8df4a89"
+    },
+    {
+      "path": "blueprint-records.json",
+      "sha256": "df280abcdccc0727ab50aa1845108f6e9acee5791bf8d3eee6b23f5ca2a88fb3"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -701,6 +733,22 @@
       "sha256": "3bf46f5cf7562093eae2887467b5dfe432f23189a82c37772b4397ba98c7506c"
     },
     {
+      "path": "evidence/chapel-additive-entry-20261113/1280-entry-button.png",
+      "sha256": "a9379dcad7fd6acaf3794e15ca7e24002a155519de137e36d063ed2bf08bcb0f"
+    },
+    {
+      "path": "evidence/chapel-additive-entry-20261113/1280-inside.png",
+      "sha256": "334e46cf64cf8a50430e60b6a57e610f7801cbe5fef55675e12669cff395c478"
+    },
+    {
+      "path": "evidence/chapel-additive-entry-20261113/390-entry-button.png",
+      "sha256": "903a8dfdf6b317a0fef06fa2ceecc549f8e784fa4f2b2393a6ee9716c6349535"
+    },
+    {
+      "path": "evidence/chapel-additive-entry-20261113/390-inside.png",
+      "sha256": "b5da6c47ac28125552a0961c0a07f34da5c56f0d6d92bcf4a573bf488f0c65d7"
+    },
+    {
       "path": "evidence/chapel-interior-upgrade-20260913/after.png",
       "sha256": "d90f0b1d4057819daccfb2e06d45a331af9b8f62b83ed3689b922439203b8354"
     },
@@ -1065,12 +1113,84 @@
       "sha256": "3312d1c7f9ca3ed27a32b01b9e5240f851456317cb022542ac8ac5e5e68c5280"
     },
     {
+      "path": "evidence/est-back-return-20261113/est-inside-1280.png",
+      "sha256": "02d2fd4ddd684b440edaac8af3b086a501b8d221c2555aaf0a68be0bced38366"
+    },
+    {
+      "path": "evidence/est-back-return-20261113/est-inside-390.png",
+      "sha256": "a5544e567f5761235fb0981ac8c03ed08b7b6f9eec5ce0926b48001492ea10d7"
+    },
+    {
+      "path": "evidence/est-back-return-20261113/est-outside-1280.png",
+      "sha256": "3c755e1601a526baf2550d558f915661724518fccf3b7b8220a7bf57a2fad209"
+    },
+    {
+      "path": "evidence/est-back-return-20261113/est-outside-390.png",
+      "sha256": "06fa06d1812045f4bb3716cdf8d43ec6562f863d917e57db030b9d97091959b0"
+    },
+    {
+      "path": "evidence/est-final-20261113/boss.png",
+      "sha256": "2f074aa5fbdd9840754f95b2694e1f86d99e4c442833cc4b586f3cca74bfa11a"
+    },
+    {
+      "path": "evidence/est-final-20261113/core.png",
+      "sha256": "0d883497ba75032a1ac4453ceced5969d898dae20ac92362386914f8d29f3812"
+    },
+    {
+      "path": "evidence/est-final-20261113/inside-1920.png",
+      "sha256": "7a0c6e106b44de642a2c1c2f7d5104884ae00711d8c78839e4fc7d068ebb8398"
+    },
+    {
+      "path": "evidence/est-final-20261113/inside-390.png",
+      "sha256": "bab2b2aa383b600936f7906ae8b2d88f6685a29e86c9fada1e8d3f431ba230e2"
+    },
+    {
+      "path": "evidence/est-final-20261113/outside-1280.png",
+      "sha256": "d8df32767cb15edfbf804ae08c6192f54b2a09cfe6119d68f6bce60754b660bc"
+    },
+    {
+      "path": "evidence/est-final-20261113/outside-390.png",
+      "sha256": "22280fd016236c5a57114d2af39805b9765381624f100fd504af793859bb6500"
+    },
+    {
+      "path": "evidence/est-final-20261113/term.png",
+      "sha256": "1fdffde1074ec41e0d980796cd3662f1746ef6e749a16644119230cc68bcd8b4"
+    },
+    {
+      "path": "evidence/est-final-20261113/vtcs.png",
+      "sha256": "50401e8ab9bf2c0878a47f895c28d4de8b56e2b8c10de02346c26f7e37092711"
+    },
+    {
       "path": "evidence/est-outside-20261113/outside-1280.png",
       "sha256": "65d4c937eef9bbd340721be0f274ff9e3aee89afaa334dba2b93a687bcfd1584"
     },
     {
       "path": "evidence/est-outside-20261113/outside-390.png",
       "sha256": "7131db3ac452b39176521f27c33fc4bc057953ed0c53a7da0ed639bbf985c15f"
+    },
+    {
+      "path": "evidence/est-podium-pan-20261113/est-outside-1280.png",
+      "sha256": "82c27e2a026fb58b7f67da4681d82618cec32edd2fb2219ed0311183bb036812"
+    },
+    {
+      "path": "evidence/est-podium-pan-20261113/est-outside-390.png",
+      "sha256": "e370d5ae3d4af02b1f1e13e527526cee0035f3dc6a6d75863651f96ef5d9a5bf"
+    },
+    {
+      "path": "evidence/est-podium-pan-20261113/est-pan-down-1280.png",
+      "sha256": "8f67d1bd2fd5f1dbd048e9cd0d1bed76b6cc4661a8d5a25066e431ff415fed0a"
+    },
+    {
+      "path": "evidence/est-podium-pan-20261113/est-pan-down-390.png",
+      "sha256": "0f27592e2888d09133c8b0a13cf54a62db71086e9a10b625c11316792d5d4215"
+    },
+    {
+      "path": "evidence/est-podium-pan-20261113/est-pan-up-1280.png",
+      "sha256": "47629acb6308a85fe1f4e1f7e633e01a7e82485264544d04feadaa13fb69a0ca"
+    },
+    {
+      "path": "evidence/est-podium-pan-20261113/est-pan-up-390.png",
+      "sha256": "cb6644d622203414a0124584138442f2ba33a85ebcec990f0506e694dcfbb1ea"
     },
     {
       "path": "evidence/est-release-20260911/term-390.png",
@@ -1123,6 +1243,14 @@
     {
       "path": "evidence/helpers-20260927/sprout.png",
       "sha256": "9491466db57e5fd329669336cb64401d5b2d6e5f1ea9db86db4c259024f40373"
+    },
+    {
+      "path": "evidence/initiative-direct-entry-20261116/source-desktop.png",
+      "sha256": "0aaf715be9c11b14fbfbf8abb89f29d4915af0266b97360102f59291b45bcc18"
+    },
+    {
+      "path": "evidence/initiative-direct-entry-20261116/source-phone.png",
+      "sha256": "0df4c0ac10e3c7bdc55aa289fa3a290d7a26887b37fada899e4f3d0abc183f8b"
     },
     {
       "path": "evidence/live-game-20261112/campus-arrival.jpg",
@@ -1323,6 +1451,14 @@
     {
       "path": "evidence/market-pathways-20261113/portfolio-log.jpg",
       "sha256": "4357c352d86328596589c9cbe10cb12ea9e57f0223c781d7db58e6d323497b9f"
+    },
+    {
+      "path": "evidence/market-pathways-20261116/live-market-entry-1280.jpg",
+      "sha256": "2caf1c71ddace37f7847bf5ee2d1c1723012dc8cdbc9f4705306d4c0943bcc6e"
+    },
+    {
+      "path": "evidence/market-pathways-20261116/live-market-prompts-390.jpg",
+      "sha256": "b008b8f0d96b1eafa10e78ba0f3890343f764bf114d980552ae0e43753f3f3a2"
     },
     {
       "path": "evidence/market-storyboard-20261024/check1.jpg",
@@ -1549,6 +1685,134 @@
       "sha256": "ae2faa360c01c582daf11aa39f16d04836421db031326e8085ffae211f7b63e4"
     },
     {
+      "path": "evidence/portfolio-careers-core-20261113/all-in-one-1280.png",
+      "sha256": "6b94dbb7feb1c7a713bd5fc1a4918b9e964c2d47c697e6778feae9698f161ee4"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/all-in-one-390.png",
+      "sha256": "9f72abb72a10fe0722646ea490a18656cc441a099dd0daff7b622e3f5e66543d"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/careers-entry-1280.png",
+      "sha256": "21cc16e7a532354d491e9611611c823357b59c936786d4d753298d6c97790a9a"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/careers-entry-390.png",
+      "sha256": "bd6a34f0af5565edb5c9bb8a4cad5c34b57c7b39deb8e0ffdbf02292a4debd7d"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/core-failure-1280.png",
+      "sha256": "b206aafa15417f0e93f601a73586eb12095cb7b760ef1bf01e8ed5fae3ccfb01"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/core-failure-390.png",
+      "sha256": "6f2aa05a6fa0e91a8209e90d59131b64d9fe3ca86907436d7bcfd2e8351abe87"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/core-reactor-1280.png",
+      "sha256": "f70d754c9a86c656e071ed7dbc228a30452ff5529c2802c7819bcf9b6bd23e5b"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/core-reactor-390.png",
+      "sha256": "e11d791fd0575fce6f017d9bcd511e38b7f434f583118a8263a87e5516c58d30"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/demo-first-card-1280.png",
+      "sha256": "597e55012c539a62267c1b7cb9e7288c44e706cd2ad0d038b63d194fc0bccfbe"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/demo-first-card-390.png",
+      "sha256": "f58c320a1e4b8b0687d7f5592a55ae17a0ad89fd247984c994ae7a1bfafc3bdd"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/live-all-in-one-1280.png",
+      "sha256": "6b94dbb7feb1c7a713bd5fc1a4918b9e964c2d47c697e6778feae9698f161ee4"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/live-demo-first-card-1280.png",
+      "sha256": "e99849aeaf6c52abec32ed8f99eba3e929f158b28eed1e416d4ebc3d1dca6d63"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/live-log-1280.png",
+      "sha256": "09749a61b6ea0ee843dcf9c28f42199929f033062c1fad8d6707be6ef1a11c77"
+    },
+    {
+      "path": "evidence/portfolio-careers-core-20261113/live-overview-1280.png",
+      "sha256": "a6aed8c32e15396e65bbb17a241d070bb9971343eec7c7d04a4b1e9bf00c2552"
+    },
+    {
+      "path": "evidence/portfolio-global-views-20261113/compact-card-1280.png",
+      "sha256": "475021b425f6e038aa851d2b50e44408435b150c8803a90d662809e0c32803a6"
+    },
+    {
+      "path": "evidence/portfolio-global-views-20261113/compact-card-390.png",
+      "sha256": "18f8ff768b7a6106305b1418badfb8c97ee3ced9d7cd878b81c9b7687e911a23"
+    },
+    {
+      "path": "evidence/portfolio-global-views-20261113/live-compact-card-1280.png",
+      "sha256": "bd1387cebf1d2d679a9b602bdeec83448233ee9b25557fc059e56763d80215b2"
+    },
+    {
+      "path": "evidence/portfolio-global-views-20261113/live-compact-card-390.png",
+      "sha256": "b4ac9a60397e9a2e1853946dce31abbe58fb4f2aa1a68ec631eac021c0fe912b"
+    },
+    {
+      "path": "evidence/portfolio-global-views-20261113/live-timeline-1280.png",
+      "sha256": "08bf71a6c98eaa868f7f385bd6b5221db3bd6bcf3c2d4b322dd33c8b2b186c48"
+    },
+    {
+      "path": "evidence/portfolio-global-views-20261113/live-timeline-390.png",
+      "sha256": "cefe34ba2f96172ffe40e7e6de7b6e33a0512f95b79a485e707881863d07403d"
+    },
+    {
+      "path": "evidence/portfolio-global-views-20261113/timeline-1280.png",
+      "sha256": "4df712568c52dbf1f3125fc5a6eae8a572746a9ce0c600d1b3e21ed3b8782667"
+    },
+    {
+      "path": "evidence/portfolio-global-views-20261113/timeline-390.png",
+      "sha256": "cefe34ba2f96172ffe40e7e6de7b6e33a0512f95b79a485e707881863d07403d"
+    },
+    {
+      "path": "evidence/portfolio-overview-20261113/compact-card-1280.png",
+      "sha256": "b2ebd638cce0cea434fa5722fd922496a195ce3a9341cdc183da2872ee5134c0"
+    },
+    {
+      "path": "evidence/portfolio-overview-20261113/compact-card-390.png",
+      "sha256": "4a6fca9b11b13df94a409c62cc6b22e7de1c937bd88f0affa106090131448b24"
+    },
+    {
+      "path": "evidence/portfolio-overview-20261113/illustrated-overview-1280.png",
+      "sha256": "5707b51edec7827e0be9471d0a7d83050fdb52ce70eaf5e6e6895e98fd61588a"
+    },
+    {
+      "path": "evidence/portfolio-overview-20261113/illustrated-overview-390.png",
+      "sha256": "e41df92b7ea066e904b8e79da5136687adf6e2757a05c68ef913ccde5a998508"
+    },
+    {
+      "path": "evidence/portfolio-overview-20261113/portfolio-overview-1280.png",
+      "sha256": "5cdf01c0471f5b2ff9cee814935e75f42270c77f5bcee1faa685b845fb2e4c87"
+    },
+    {
+      "path": "evidence/portfolio-overview-20261113/portfolio-overview-390.png",
+      "sha256": "ea5344b5c001b16bf0403c663c12fbd0328eb2361098899aec75f3687e4b608f"
+    },
+    {
+      "path": "evidence/portfolio-palette-20261113/live-opened-portfolio-1280.png",
+      "sha256": "5874cfc8df4757713d186bd4efc88c276e3df8ee0e4fbf2498c67b0284776fcc"
+    },
+    {
+      "path": "evidence/portfolio-palette-20261113/live-opened-portfolio-390.png",
+      "sha256": "eb61b557078cfeba03ca1a2ff3197487a0893bf87bcafb26feebdd080ccc64f7"
+    },
+    {
+      "path": "evidence/portfolio-palette-20261113/opened-portfolio-1280.png",
+      "sha256": "5874cfc8df4757713d186bd4efc88c276e3df8ee0e4fbf2498c67b0284776fcc"
+    },
+    {
+      "path": "evidence/portfolio-palette-20261113/opened-portfolio-390.png",
+      "sha256": "eb61b557078cfeba03ca1a2ff3197487a0893bf87bcafb26feebdd080ccc64f7"
+    },
+    {
       "path": "evidence/production-avatar-sprite.jpg",
       "sha256": "a2f13a0e2020ef283dc5f734391ba6760b251ffabccd3ed19d4e79810dbf35a3"
     },
@@ -1747,6 +2011,10 @@
     {
       "path": "favicon.svg",
       "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7"
+    },
+    {
+      "path": "index.html",
+      "sha256": "311569978fefe981b47f8d75fd71d8b112621413e60ea772574e716d57039e41"
     },
     {
       "path": "playable-3d/app.js",
@@ -2033,12 +2301,28 @@
       "sha256": "efd4ae2e8da016439518079372d69151bace5260d97c02eda5943dd5530011ba"
     },
     {
+      "path": "production/careers-portfolio-panel-20261113.html",
+      "sha256": "641ae8ccf2b8dafbda8e59363ffa5fca4b694b5cc1dae0714a383d85604505f3"
+    },
+    {
+      "path": "production/careers-portfolio-panel-20261113.md",
+      "sha256": "e340571aee627a18f32e93cddae897fdd46faddda2a90f779ca1448ec0fa936d"
+    },
+    {
       "path": "production/change-integration.md",
       "sha256": "29c417cd9833942524a0d81bf1fd6c52ae37c683626ff550ad2b4985ee963512"
     },
     {
       "path": "production/change-workflows.md",
       "sha256": "21607cd56585634ba3feac1a5c75b6faf8e2168ea99425cd94730595562d178f"
+    },
+    {
+      "path": "production/chapel-additive-entry-20261113.html",
+      "sha256": "044b087c50a96ccaf532e7735e4ee842bb724877de659939fa490a77f0757596"
+    },
+    {
+      "path": "production/chapel-additive-entry-20261113.md",
+      "sha256": "8ac9a30858449f62fd272f95d6cc2e9718166ae28953ce99564a9824830586a3"
     },
     {
       "path": "production/chapel-interior-upgrade-20260913.md",
@@ -2079,6 +2363,14 @@
     {
       "path": "production/current-assets.md",
       "sha256": "b57ee1864789858cd07ed6ba9c7cde31b32f7f1ffc877bb7734d87c0654412e3"
+    },
+    {
+      "path": "production/current-state.html",
+      "sha256": "993fcf6d6aad075d23bc8f9485da4ed89817ef75d00aa7a44ae54a793b610ad7"
+    },
+    {
+      "path": "production/current-state.md",
+      "sha256": "321826cdbbd278c5d8650d5593bb416cc03a84dc6ee2e1d4d425671e3f37e5c4"
     },
     {
       "path": "production/curriculum-collapsed-default-20261021.md",
@@ -2173,6 +2465,30 @@
       "sha256": "50ba35becd457f7b6dd1067765dd743a2a4bbe6642a5952ad8e0bed37e810bf5"
     },
     {
+      "path": "production/est-back-window-20261113.html",
+      "sha256": "b4980847e5786f4a4e1e86b28a2346ffb892788819aef28bec76a581f0c9381d"
+    },
+    {
+      "path": "production/est-back-window-20261113.md",
+      "sha256": "a482c9bf6cf64d1aa21b5cd5d579396a018f980a4bb68cb50ea7d544c6577832"
+    },
+    {
+      "path": "production/est-core-responsiveness-20261113.html",
+      "sha256": "dc92e256bb1089700c0928c7ea90c717e775328bfda57cb690e4248590f848cb"
+    },
+    {
+      "path": "production/est-core-responsiveness-20261113.md",
+      "sha256": "5a39ce0216c0f7520ff5c28a56c3c4023e1178895ff54213ad4d1032257cc751"
+    },
+    {
+      "path": "production/est-final-presentation-20261113.html",
+      "sha256": "4d4c45bf8f1a7ffb11aec96c759b996bb17ad615d8f7befd679163a89514c65e"
+    },
+    {
+      "path": "production/est-final-presentation-20261113.md",
+      "sha256": "bd0211c32c73c4cfc5817296abb6f01ee72e459c6337aafe13550e3df7cca15c"
+    },
+    {
       "path": "production/est-mobile-video-20260913.md",
       "sha256": "8a991884451f00feb8e4f032fdf7f435442a6167a5f02960b115c1d6aa97a106"
     },
@@ -2183,6 +2499,14 @@
     {
       "path": "production/est-outside-release-20261113.md",
       "sha256": "76b6dc1722defee9b4a97f38c2797c3a69f17cdc5dfbe4cebcaf34b1ac13ba3d"
+    },
+    {
+      "path": "production/est-podium-pan-20261113.html",
+      "sha256": "ecd460a8449e5acd4139a69079b86a8515c2d16e6dcc6dc7154a2932ca03078a"
+    },
+    {
+      "path": "production/est-podium-pan-20261113.md",
+      "sha256": "0525444e6078a67b463f5cccfc85b241964295187eb2353aa0980b77dc195e33"
     },
     {
       "path": "production/est-release-20260911.html",
@@ -2241,6 +2565,14 @@
       "sha256": "117877666f2002cbcc5f5ea057c3981af85f51c044f15b94dfd77e8e53c83e55"
     },
     {
+      "path": "production/initiative-direct-entry-20261116.html",
+      "sha256": "5b592c4f149411af151840bc84c8f9803ed51466d6dcdb76ed66875769eabba8"
+    },
+    {
+      "path": "production/initiative-direct-entry-20261116.md",
+      "sha256": "d2a4e6396b8ec48f1ee49a74d79de83d11505eeeb9199c6530cceada70fa7c7a"
+    },
+    {
       "path": "production/initiative-notes-worksheet-20261112.html",
       "sha256": "8aee972cdc67c47c304473f60efc37c3586bfac026e38cc25be6abf42387cb7d"
     },
@@ -2273,12 +2605,24 @@
       "sha256": "b994df03b2153b14e647d4c78de5fd392deb2006ab47b7d7352ef0b0d8612bfc"
     },
     {
+      "path": "production/live-game-review-20261112.html",
+      "sha256": "a5c75f1fed9d566093f9f5b022db34c3d373e3de2f772c78a61e48d9aef6e9ee"
+    },
+    {
+      "path": "production/live-game-review-20261112.md",
+      "sha256": "670456344fe94071f1e79f6ebe7792380388e985e4c07590fc196b18b3a788df"
+    },
+    {
       "path": "production/local-economy-20260923.md",
       "sha256": "5c237ab4dca8edb1a1f0ee89962e364503639e283f0e85133fb0469c381b5328"
     },
     {
       "path": "production/maintenance-20260910.md",
       "sha256": "11cc8c5dbb28379c98c143eb6f039b0e5e8958e291cd81fa31cb0d8ee6da9123"
+    },
+    {
+      "path": "production/market-entry-release-20261116.md",
+      "sha256": "4d28c9ee04359838a21f783accc747ae8ec4e9ce77645eac9663ef5499a4301b"
     },
     {
       "path": "production/market-storyboard-20261024.html",
@@ -2303,6 +2647,10 @@
     {
       "path": "production/markets-implementation-review-20261015.md",
       "sha256": "9d1faa4c5b178c47e4bbc8362759b4cd6e6957090d88e5180be19536579ea07f"
+    },
+    {
+      "path": "production/material-changes.md",
+      "sha256": "7849d4d95222ed1647756487573b1f92c40013402e35fcd338a8f2bcf7159557"
     },
     {
       "path": "production/media-oval-20260911.md",
@@ -2351,6 +2699,62 @@
     {
       "path": "production/phase-planner-20261014.md",
       "sha256": "550a2ce9e4effa44807faf68e5eeecc2dd14af7cc4bd1f2fa34a810de91e1e12"
+    },
+    {
+      "path": "production/portfolio-alignment-20261113.html",
+      "sha256": "fbe75d9b325845d212c2c48fe5d3181cb82f8aa6500016b46d00f4ef37d58b73"
+    },
+    {
+      "path": "production/portfolio-alignment-20261113.md",
+      "sha256": "f180dc4ff29369b2c88c9dd46cbaa939ae437c0827cf82509c04fe23c3fd74d6"
+    },
+    {
+      "path": "production/portfolio-global-views-20261113.html",
+      "sha256": "d7facfe34891dea40cc4c6f27eb5722075e5471fbe6dbe20ac030f95a38e9824"
+    },
+    {
+      "path": "production/portfolio-global-views-20261113.md",
+      "sha256": "3a680d4e529219e39f69ac7388312086718ccf664261094c33b22211690d8afa"
+    },
+    {
+      "path": "production/portfolio-overview-20261113.html",
+      "sha256": "7a08bbc8bafad091d976aee144fe5e46870cf16611939437dc0ef267482e2a21"
+    },
+    {
+      "path": "production/portfolio-overview-20261113.md",
+      "sha256": "8735ba00d462ed879a088aee9e6a45b726b2766fc77bb580f7cedab89d150209"
+    },
+    {
+      "path": "production/portfolio-overview-release-20261113.html",
+      "sha256": "ae84ee1d99f4deea5f00c6e41233893b6e084de971df7f07c95139ea0a6fa423"
+    },
+    {
+      "path": "production/portfolio-overview-release-20261113.md",
+      "sha256": "99426f4aa2a2228c2d3e1bf8a9d9f342ee056b1fff7b0b8453d378b17bc30ddc"
+    },
+    {
+      "path": "production/portfolio-palette-20261113.html",
+      "sha256": "e049e581cc6786d328816e54096eec6c8e67839b7302fcc56f2c80bc0cc35d0e"
+    },
+    {
+      "path": "production/portfolio-palette-20261113.md",
+      "sha256": "5767d3bbfe41e7d173dfb84f5b3f24200f5a514f5463dbfe995d6a4a89d2499b"
+    },
+    {
+      "path": "production/portfolio-privacy-applicability-20261113.html",
+      "sha256": "8bb31f2137196eee98d94c832005f142f7f02066655f2a98d2460c85918640a0"
+    },
+    {
+      "path": "production/portfolio-privacy-applicability-20261113.md",
+      "sha256": "35ebe7c21a9a0d0b045479b04d20ee1d63aac040f2411c1d2e851c2e007df9c4"
+    },
+    {
+      "path": "production/portfolio-privacy-implementation-20261113.html",
+      "sha256": "d464911b49688f58e04852a9a286d21fb5429ae18a6e6491dfe41e7802f75c5c"
+    },
+    {
+      "path": "production/portfolio-privacy-implementation-20261113.md",
+      "sha256": "5492d384ddbf153c97ef3801ab711aa103ea8be0ae4e4f4b811656517ce86616"
     },
     {
       "path": "production/production-plan.md",
@@ -2923,394 +3327,6 @@
     {
       "path": "st4s-readiness.json",
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
-    },
-    {
-      "path": "production/est-final-presentation-20261113.md",
-      "sha256": "bd0211c32c73c4cfc5817296abb6f01ee72e459c6337aafe13550e3df7cca15c"
-    },
-    {
-      "path": "production/est-final-presentation-20261113.html",
-      "sha256": "4d4c45bf8f1a7ffb11aec96c759b996bb17ad615d8f7befd679163a89514c65e"
-    },
-    {
-      "path": "evidence/est-final-20261113/outside-1280.png",
-      "sha256": "d8df32767cb15edfbf804ae08c6192f54b2a09cfe6119d68f6bce60754b660bc"
-    },
-    {
-      "path": "evidence/est-final-20261113/outside-390.png",
-      "sha256": "22280fd016236c5a57114d2af39805b9765381624f100fd504af793859bb6500"
-    },
-    {
-      "path": "evidence/est-final-20261113/inside-1920.png",
-      "sha256": "7a0c6e106b44de642a2c1c2f7d5104884ae00711d8c78839e4fc7d068ebb8398"
-    },
-    {
-      "path": "evidence/est-final-20261113/inside-390.png",
-      "sha256": "bab2b2aa383b600936f7906ae8b2d88f6685a29e86c9fada1e8d3f431ba230e2"
-    },
-    {
-      "path": "evidence/est-final-20261113/core.png",
-      "sha256": "0d883497ba75032a1ac4453ceced5969d898dae20ac92362386914f8d29f3812"
-    },
-    {
-      "path": "evidence/est-final-20261113/term.png",
-      "sha256": "1fdffde1074ec41e0d980796cd3662f1746ef6e749a16644119230cc68bcd8b4"
-    },
-    {
-      "path": "evidence/est-final-20261113/vtcs.png",
-      "sha256": "50401e8ab9bf2c0878a47f895c28d4de8b56e2b8c10de02346c26f7e37092711"
-    },
-    {
-      "path": "evidence/est-final-20261113/boss.png",
-      "sha256": "2f074aa5fbdd9840754f95b2694e1f86d99e4c442833cc4b586f3cca74bfa11a"
-    },
-    {
-      "path": "production/est-back-window-20261113.md",
-      "sha256": "a482c9bf6cf64d1aa21b5cd5d579396a018f980a4bb68cb50ea7d544c6577832"
-    },
-    {
-      "path": "production/est-back-window-20261113.html",
-      "sha256": "b4980847e5786f4a4e1e86b28a2346ffb892788819aef28bec76a581f0c9381d"
-    },
-    {
-      "path": "evidence/est-back-return-20261113/est-outside-1280.png",
-      "sha256": "3c755e1601a526baf2550d558f915661724518fccf3b7b8220a7bf57a2fad209"
-    },
-    {
-      "path": "evidence/est-back-return-20261113/est-outside-390.png",
-      "sha256": "06fa06d1812045f4bb3716cdf8d43ec6562f863d917e57db030b9d97091959b0"
-    },
-    {
-      "path": "evidence/est-back-return-20261113/est-inside-1280.png",
-      "sha256": "02d2fd4ddd684b440edaac8af3b086a501b8d221c2555aaf0a68be0bced38366"
-    },
-    {
-      "path": "evidence/est-back-return-20261113/est-inside-390.png",
-      "sha256": "a5544e567f5761235fb0981ac8c03ed08b7b6f9eec5ce0926b48001492ea10d7"
-    },
-    {
-      "path": "production/portfolio-overview-release-20261113.md",
-      "sha256": "99426f4aa2a2228c2d3e1bf8a9d9f342ee056b1fff7b0b8453d378b17bc30ddc"
-    },
-    {
-      "path": "production/portfolio-overview-release-20261113.html",
-      "sha256": "ae84ee1d99f4deea5f00c6e41233893b6e084de971df7f07c95139ea0a6fa423"
-    },
-    {
-      "path": "evidence/portfolio-overview-20261113/portfolio-overview-1280.png",
-      "sha256": "5cdf01c0471f5b2ff9cee814935e75f42270c77f5bcee1faa685b845fb2e4c87"
-    },
-    {
-      "path": "evidence/portfolio-overview-20261113/portfolio-overview-390.png",
-      "sha256": "ea5344b5c001b16bf0403c663c12fbd0328eb2361098899aec75f3687e4b608f"
-    },
-    {
-      "path": "assets/index-DC3aymK3.js",
-      "sha256": "b00a11add05cf0a3bcc6ef5d47b28c58f143a89d957b33cee97f704c9bc3dc43"
-    },
-    {
-      "path": "assets/curriculum-planner-DYnIkdOQ.js",
-      "sha256": "0ac9a9eb9922b4d9100d17fdd19a6042df8c8ff29fc1bb1b48bad162a16fcf3d"
-    },
-    {
-      "path": "production/live-game-review-20261112.md",
-      "sha256": "670456344fe94071f1e79f6ebe7792380388e985e4c07590fc196b18b3a788df"
-    },
-    {
-      "path": "production/live-game-review-20261112.html",
-      "sha256": "a5c75f1fed9d566093f9f5b022db34c3d373e3de2f772c78a61e48d9aef6e9ee"
-    },
-    {
-      "path": "production/est-podium-pan-20261113.md",
-      "sha256": "0525444e6078a67b463f5cccfc85b241964295187eb2353aa0980b77dc195e33"
-    },
-    {
-      "path": "production/est-podium-pan-20261113.html",
-      "sha256": "ecd460a8449e5acd4139a69079b86a8515c2d16e6dcc6dc7154a2932ca03078a"
-    },
-    {
-      "path": "evidence/est-podium-pan-20261113/est-outside-1280.png",
-      "sha256": "82c27e2a026fb58b7f67da4681d82618cec32edd2fb2219ed0311183bb036812"
-    },
-    {
-      "path": "evidence/est-podium-pan-20261113/est-outside-390.png",
-      "sha256": "e370d5ae3d4af02b1f1e13e527526cee0035f3dc6a6d75863651f96ef5d9a5bf"
-    },
-    {
-      "path": "evidence/est-podium-pan-20261113/est-pan-up-1280.png",
-      "sha256": "47629acb6308a85fe1f4e1f7e633e01a7e82485264544d04feadaa13fb69a0ca"
-    },
-    {
-      "path": "evidence/est-podium-pan-20261113/est-pan-down-1280.png",
-      "sha256": "8f67d1bd2fd5f1dbd048e9cd0d1bed76b6cc4661a8d5a25066e431ff415fed0a"
-    },
-    {
-      "path": "evidence/est-podium-pan-20261113/est-pan-up-390.png",
-      "sha256": "cb6644d622203414a0124584138442f2ba33a85ebcec990f0506e694dcfbb1ea"
-    },
-    {
-      "path": "evidence/est-podium-pan-20261113/est-pan-down-390.png",
-      "sha256": "0f27592e2888d09133c8b0a13cf54a62db71086e9a10b625c11316792d5d4215"
-    },
-    {
-      "path": "production/chapel-additive-entry-20261113.md",
-      "sha256": "8ac9a30858449f62fd272f95d6cc2e9718166ae28953ce99564a9824830586a3"
-    },
-    {
-      "path": "production/chapel-additive-entry-20261113.html",
-      "sha256": "044b087c50a96ccaf532e7735e4ee842bb724877de659939fa490a77f0757596"
-    },
-    {
-      "path": "evidence/chapel-additive-entry-20261113/1280-entry-button.png",
-      "sha256": "a9379dcad7fd6acaf3794e15ca7e24002a155519de137e36d063ed2bf08bcb0f"
-    },
-    {
-      "path": "evidence/chapel-additive-entry-20261113/1280-inside.png",
-      "sha256": "334e46cf64cf8a50430e60b6a57e610f7801cbe5fef55675e12669cff395c478"
-    },
-    {
-      "path": "evidence/chapel-additive-entry-20261113/390-entry-button.png",
-      "sha256": "903a8dfdf6b317a0fef06fa2ceecc549f8e784fa4f2b2393a6ee9716c6349535"
-    },
-    {
-      "path": "evidence/chapel-additive-entry-20261113/390-inside.png",
-      "sha256": "b5da6c47ac28125552a0961c0a07f34da5c56f0d6d92bcf4a573bf488f0c65d7"
-    },
-    {
-      "path": "production/portfolio-privacy-implementation-20261113.md",
-      "sha256": "5492d384ddbf153c97ef3801ab711aa103ea8be0ae4e4f4b811656517ce86616"
-    },
-    {
-      "path": "production/portfolio-privacy-implementation-20261113.html",
-      "sha256": "d464911b49688f58e04852a9a286d21fb5429ae18a6e6491dfe41e7802f75c5c"
-    },
-    {
-      "path": "production/portfolio-privacy-applicability-20261113.md",
-      "sha256": "35ebe7c21a9a0d0b045479b04d20ee1d63aac040f2411c1d2e851c2e007df9c4"
-    },
-    {
-      "path": "production/portfolio-privacy-applicability-20261113.html",
-      "sha256": "8bb31f2137196eee98d94c832005f142f7f02066655f2a98d2460c85918640a0"
-    },
-    {
-      "path": "evidence/portfolio-careers-core-20261113/all-in-one-1280.png",
-      "sha256": "6b94dbb7feb1c7a713bd5fc1a4918b9e964c2d47c697e6778feae9698f161ee4"
-    },
-    {
-      "path": "evidence/portfolio-careers-core-20261113/all-in-one-390.png",
-      "sha256": "9f72abb72a10fe0722646ea490a18656cc441a099dd0daff7b622e3f5e66543d"
-    },
-    {
-      "path": "evidence/portfolio-careers-core-20261113/demo-first-card-1280.png",
-      "sha256": "597e55012c539a62267c1b7cb9e7288c44e706cd2ad0d038b63d194fc0bccfbe"
-    },
-    {
-      "path": "evidence/portfolio-careers-core-20261113/demo-first-card-390.png",
-      "sha256": "f58c320a1e4b8b0687d7f5592a55ae17a0ad89fd247984c994ae7a1bfafc3bdd"
-    },
-    {
-      "path": "evidence/portfolio-careers-core-20261113/careers-entry-1280.png",
-      "sha256": "21cc16e7a532354d491e9611611c823357b59c936786d4d753298d6c97790a9a"
-    },
-    {
-      "path": "evidence/portfolio-careers-core-20261113/careers-entry-390.png",
-      "sha256": "bd6a34f0af5565edb5c9bb8a4cad5c34b57c7b39deb8e0ffdbf02292a4debd7d"
-    },
-    {
-      "path": "evidence/portfolio-careers-core-20261113/core-failure-1280.png",
-      "sha256": "b206aafa15417f0e93f601a73586eb12095cb7b760ef1bf01e8ed5fae3ccfb01"
-    },
-    {
-      "path": "evidence/portfolio-careers-core-20261113/core-reactor-1280.png",
-      "sha256": "f70d754c9a86c656e071ed7dbc228a30452ff5529c2802c7819bcf9b6bd23e5b"
-    },
-    {
-      "path": "evidence/portfolio-careers-core-20261113/core-failure-390.png",
-      "sha256": "6f2aa05a6fa0e91a8209e90d59131b64d9fe3ca86907436d7bcfd2e8351abe87"
-    },
-    {
-      "path": "evidence/portfolio-careers-core-20261113/core-reactor-390.png",
-      "sha256": "e11d791fd0575fce6f017d9bcd511e38b7f434f583118a8263a87e5516c58d30"
-    },
-    {
-      "path": "production/portfolio-alignment-20261113.md",
-      "sha256": "f180dc4ff29369b2c88c9dd46cbaa939ae437c0827cf82509c04fe23c3fd74d6"
-    },
-    {
-      "path": "production/portfolio-alignment-20261113.html",
-      "sha256": "fbe75d9b325845d212c2c48fe5d3181cb82f8aa6500016b46d00f4ef37d58b73"
-    },
-    {
-      "path": "production/est-core-responsiveness-20261113.md",
-      "sha256": "5a39ce0216c0f7520ff5c28a56c3c4023e1178895ff54213ad4d1032257cc751"
-    },
-    {
-      "path": "production/est-core-responsiveness-20261113.html",
-      "sha256": "dc92e256bb1089700c0928c7ea90c717e775328bfda57cb690e4248590f848cb"
-    },
-    {
-      "path": "assets/index-Bzw99sjV.js",
-      "sha256": "594961c0247dca5e95f43a964e38394c4e9c65873f60cb225f6537d18c69332a"
-    },
-    {
-      "path": "assets/curriculum-planner-BgQlo9-k.js",
-      "sha256": "855fe2bb3587e67a6047c735df230abe164b8a8aa4603f48b18d0b9409729e0a"
-    },
-    {
-      "path": "evidence/portfolio-careers-core-20261113/live-all-in-one-1280.png",
-      "sha256": "6b94dbb7feb1c7a713bd5fc1a4918b9e964c2d47c697e6778feae9698f161ee4"
-    },
-    {
-      "path": "evidence/portfolio-careers-core-20261113/live-overview-1280.png",
-      "sha256": "a6aed8c32e15396e65bbb17a241d070bb9971343eec7c7d04a4b1e9bf00c2552"
-    },
-    {
-      "path": "evidence/portfolio-careers-core-20261113/live-log-1280.png",
-      "sha256": "09749a61b6ea0ee843dcf9c28f42199929f033062c1fad8d6707be6ef1a11c77"
-    },
-    {
-      "path": "evidence/portfolio-careers-core-20261113/live-demo-first-card-1280.png",
-      "sha256": "e99849aeaf6c52abec32ed8f99eba3e929f158b28eed1e416d4ebc3d1dca6d63"
-    },
-    {
-      "path": "evidence/portfolio-global-views-20261113/compact-card-1280.png",
-      "sha256": "475021b425f6e038aa851d2b50e44408435b150c8803a90d662809e0c32803a6"
-    },
-    {
-      "path": "evidence/portfolio-global-views-20261113/compact-card-390.png",
-      "sha256": "18f8ff768b7a6106305b1418badfb8c97ee3ced9d7cd878b81c9b7687e911a23"
-    },
-    {
-      "path": "evidence/portfolio-global-views-20261113/timeline-1280.png",
-      "sha256": "4df712568c52dbf1f3125fc5a6eae8a572746a9ce0c600d1b3e21ed3b8782667"
-    },
-    {
-      "path": "evidence/portfolio-global-views-20261113/timeline-390.png",
-      "sha256": "cefe34ba2f96172ffe40e7e6de7b6e33a0512f95b79a485e707881863d07403d"
-    },
-    {
-      "path": "production/portfolio-global-views-20261113.md",
-      "sha256": "3a680d4e529219e39f69ac7388312086718ccf664261094c33b22211690d8afa"
-    },
-    {
-      "path": "production/portfolio-global-views-20261113.html",
-      "sha256": "d7facfe34891dea40cc4c6f27eb5722075e5471fbe6dbe20ac030f95a38e9824"
-    },
-    {
-      "path": "index.html",
-      "sha256": "311569978fefe981b47f8d75fd71d8b112621413e60ea772574e716d57039e41"
-    },
-    {
-      "path": "assets/curriculum-planner-CW-YCKb7.js",
-      "sha256": "7764b224c9edd98f18d309fcfcb41b87673c3d80a51dc6664ca8a77d9fc1204a"
-    },
-    {
-      "path": "assets/index-mTos3HB-.js",
-      "sha256": "386c8ab4ba2a34de4cdbe90f958aedebe0720ed4fe1de78c9c53d5e54469a9a1"
-    },
-    {
-      "path": "evidence/portfolio-global-views-20261113/live-compact-card-1280.png",
-      "sha256": "bd1387cebf1d2d679a9b602bdeec83448233ee9b25557fc059e56763d80215b2"
-    },
-    {
-      "path": "evidence/portfolio-global-views-20261113/live-compact-card-390.png",
-      "sha256": "b4ac9a60397e9a2e1853946dce31abbe58fb4f2aa1a68ec631eac021c0fe912b"
-    },
-    {
-      "path": "evidence/portfolio-global-views-20261113/live-timeline-1280.png",
-      "sha256": "08bf71a6c98eaa868f7f385bd6b5221db3bd6bcf3c2d4b322dd33c8b2b186c48"
-    },
-    {
-      "path": "evidence/portfolio-global-views-20261113/live-timeline-390.png",
-      "sha256": "cefe34ba2f96172ffe40e7e6de7b6e33a0512f95b79a485e707881863d07403d"
-    },
-    {
-      "path": "evidence/portfolio-overview-20261113/illustrated-overview-1280.png",
-      "sha256": "5707b51edec7827e0be9471d0a7d83050fdb52ce70eaf5e6e6895e98fd61588a"
-    },
-    {
-      "path": "evidence/portfolio-overview-20261113/illustrated-overview-390.png",
-      "sha256": "e41df92b7ea066e904b8e79da5136687adf6e2757a05c68ef913ccde5a998508"
-    },
-    {
-      "path": "evidence/portfolio-overview-20261113/compact-card-1280.png",
-      "sha256": "b2ebd638cce0cea434fa5722fd922496a195ce3a9341cdc183da2872ee5134c0"
-    },
-    {
-      "path": "evidence/portfolio-overview-20261113/compact-card-390.png",
-      "sha256": "4a6fca9b11b13df94a409c62cc6b22e7de1c937bd88f0affa106090131448b24"
-    },
-    {
-      "path": "evidence/portfolio-palette-20261113/opened-portfolio-1280.png",
-      "sha256": "5874cfc8df4757713d186bd4efc88c276e3df8ee0e4fbf2498c67b0284776fcc"
-    },
-    {
-      "path": "evidence/portfolio-palette-20261113/opened-portfolio-390.png",
-      "sha256": "eb61b557078cfeba03ca1a2ff3197487a0893bf87bcafb26feebdd080ccc64f7"
-    },
-    {
-      "path": "blueprint-records.json",
-      "sha256": "8ad0f025cdced6e429c8f61a5aefeb01d7a7ab639ea5e97a3298b3b7c7b9db40"
-    },
-    {
-      "path": "production/current-state.md",
-      "sha256": "daaeb729f5f270b3e45df6d43b859bae317885c81edec27c659daf73be65dfbd"
-    },
-    {
-      "path": "production/material-changes.md",
-      "sha256": "5462b6385dda75f183bb795e27c339bf4a9539a053d738bf521e389165549bec"
-    },
-    {
-      "path": "production/portfolio-palette-20261113.md",
-      "sha256": "5767d3bbfe41e7d173dfb84f5b3f24200f5a514f5463dbfe995d6a4a89d2499b"
-    },
-    {
-      "path": "production/current-state.html",
-      "sha256": "4b334a351181180c892a57fe1875988182eebc7ec2c691ecda53d5ad6246fa26"
-    },
-    {
-      "path": "production/portfolio-palette-20261113.html",
-      "sha256": "e049e581cc6786d328816e54096eec6c8e67839b7302fcc56f2c80bc0cc35d0e"
-    },
-    {
-      "path": "production/portfolio-overview-20261113.md",
-      "sha256": "8735ba00d462ed879a088aee9e6a45b726b2766fc77bb580f7cedab89d150209"
-    },
-    {
-      "path": "production/portfolio-overview-20261113.html",
-      "sha256": "7a08bbc8bafad091d976aee144fe5e46870cf16611939437dc0ef267482e2a21"
-    },
-    {
-      "path": "production/careers-portfolio-panel-20261113.md",
-      "sha256": "e340571aee627a18f32e93cddae897fdd46faddda2a90f779ca1448ec0fa936d"
-    },
-    {
-      "path": "production/careers-portfolio-panel-20261113.html",
-      "sha256": "641ae8ccf2b8dafbda8e59363ffa5fca4b694b5cc1dae0714a383d85604505f3"
-    },
-    {
-      "path": "evidence/portfolio-palette-20261113/live-opened-portfolio-1280.png",
-      "sha256": "5874cfc8df4757713d186bd4efc88c276e3df8ee0e4fbf2498c67b0284776fcc"
-    },
-    {
-      "path": "evidence/portfolio-palette-20261113/live-opened-portfolio-390.png",
-      "sha256": "eb61b557078cfeba03ca1a2ff3197487a0893bf87bcafb26feebdd080ccc64f7"
-    },
-    {
-      "path": "production/market-entry-release-20261116.md",
-      "sha256": "4d28c9ee04359838a21f783accc747ae8ec4e9ce77645eac9663ef5499a4301b"
-    },
-    {
-      "path": "assets/index-market-entry-2ee6493a1064.js",
-      "sha256": "2ee6493a1064a2b0276f76a588334f064a019b65f92cdae91637b02f25aa02bc"
-    },
-    {
-      "path": "evidence/market-pathways-20261116/live-market-entry-1280.jpg",
-      "sha256": "2caf1c71ddace37f7847bf5ee2d1c1723012dc8cdbc9f4705306d4c0943bcc6e"
-    },
-    {
-      "path": "evidence/market-pathways-20261116/live-market-prompts-390.jpg",
-      "sha256": "b008b8f0d96b1eafa10e78ba0f3890343f764bf114d980552ae0e43753f3f3a2"
     }
   ],
   "recordPublicationScope": "Verified game-only166/167closeout and affected existing Portfolio reader documents; frozen source integrations/global WA records preserved. CEAWA/SkillQuest candidates remain unpublished pending explicit approval.",

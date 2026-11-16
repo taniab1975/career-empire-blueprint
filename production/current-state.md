@@ -495,3 +495,8 @@ CEAWA six-file and SkillQuest two-file candidates are preserved and tested, not 
 Tania to check the actual live opened Portfolio and Market/map links. Retain separate Safari/physical-device/classroom acceptance. CEAWA and SkillQuest public deployment still require explicit approval; do not publish or retry them under the game approval.
 
 [Actual live Portfolio](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/dashboards/student.html?portfolioDemo=1&release=3775869).
+
+
+## Initiative direct entry170— source reviewed, game pending
+
+Tania explicitly requests removal and live reload of the public pacing-word prompt. Exact nine-file source review is qualified on9872415; real authentication, record protections,169Market/Mara, pending168and separate CI are preserved. 419unit tests and1280/390fresh/repeat/return checks pass. Source publication/byte verification and genuine receipt precede game publication; no live170claim yet. See [exact source review](initiative-direct-entry-20261116.html).
