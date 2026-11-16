@@ -33517,7 +33517,7 @@
     "date": "2026-11-12",
     "sourceCommit": "69aa78eedb6a0216552e8fd5778b6b359f64cc71",
     "gameUrl": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/playable-3d/",
-    "captureBoundary": "Current public guest, Student Hub demo and teacher promo UI captured 12 November 2026, including all 18 teacher panels. Two guest views and one filled fictional teacher sample from 11 November retain their original dates. No real learner records or saved teacher actions were used. Market choices, live Notes worksheet, Archon test-release lobby, Mara introduction and existing portfolio were rechecked13November2026. The Archon board is a dated published-source fictional test-room capture. No pending portfolio repair is represented as live.",
+    "captureBoundary": "Current public guest, Student Hub demo and teacher promo UI captured 12 November 2026, including all 18 teacher panels. Two guest views and one filled fictional teacher sample from 11 November retain their original dates. No real learner records or saved teacher actions were used. Market choices, live Notes worksheet, Archon test-release lobby, Mara introduction and existing portfolio were rechecked13November2026. The Archon board is a dated published-source fictional test-room capture. No pending portfolio repair is represented as live. Initiative171 actual public desktop/phone entry, four choices, Mara-only scenario, readable crew dialogue and mixed-result completion verified16November2026. New captures are from b647c32; old captures retain their dates. Game practice is not assessed portfolio evidence.",
     "captures": {
       "mara-market-start": {
         "src": "/evidence/live-game-20261112/mara-market-start.jpg",
@@ -34013,6 +34013,96 @@
         "date": "2026-11-13",
         "kind": "Actual published b4f945e; fictional demonstration/practice only",
         "sourceCommit": "b4f945ec5300bcd17a359f107ee1ed8d3d11b204"
+      },
+      "market16-introduction-desktop": {
+        "src": "/evidence/market-entry-flow-20261116/live-introduction-desktop.png",
+        "sha256": "6e8c7a472f4061791ffca5537c4aeb1747d1cb8157afe8e4a944dbae8dace2e3",
+        "width": 1280,
+        "height": 1000,
+        "date": "2026-11-16",
+        "kind": "Actual unmodified public guest game; fictional practice only",
+        "sourceCommit": "b647c325ad1700c2f440348b3d2cfe01ff307ab4"
+      },
+      "market16-mara-scenario-desktop": {
+        "src": "/evidence/market-entry-flow-20261116/live-mara-scenario-desktop.png",
+        "sha256": "662aa92d281c6deedbb6eedc433925b52df260eda50798b8907e1ef2890d9ec7",
+        "width": 1280,
+        "height": 1000,
+        "date": "2026-11-16",
+        "kind": "Actual unmodified public guest game; fictional practice only",
+        "sourceCommit": "b647c325ad1700c2f440348b3d2cfe01ff307ab4"
+      },
+      "market16-meet-crew-desktop": {
+        "src": "/evidence/market-entry-flow-20261116/live-meet-crew-desktop.png",
+        "sha256": "1d3a4fb7f89685696164dedf6d43eab555e5bc6995f3005fb13dfa2299a6692c",
+        "width": 2047,
+        "height": 979,
+        "date": "2026-11-16",
+        "kind": "Actual unmodified public guest game; fictional practice only",
+        "sourceCommit": "b647c325ad1700c2f440348b3d2cfe01ff307ab4"
+      },
+      "market16-trial-next-desktop": {
+        "src": "/evidence/market-entry-flow-20261116/live-trial-next-desktop.png",
+        "sha256": "2fe4f65487861afc184f2e03212229165846268336d6d93b04edf71713a743fc",
+        "width": 1280,
+        "height": 1000,
+        "date": "2026-11-16",
+        "kind": "Actual unmodified public guest game; fictional practice only",
+        "sourceCommit": "b647c325ad1700c2f440348b3d2cfe01ff307ab4"
+      },
+      "market16-shift-complete-desktop": {
+        "src": "/evidence/market-entry-flow-20261116/live-shift-complete-desktop.png",
+        "sha256": "74d2203787f94202c0abba69df39edfcedff99592324cc504cbf068d2e19f9ac",
+        "width": 1280,
+        "height": 1000,
+        "date": "2026-11-16",
+        "kind": "Actual unmodified public guest game; fictional practice only",
+        "sourceCommit": "b647c325ad1700c2f440348b3d2cfe01ff307ab4"
+      },
+      "market16-introduction-phone": {
+        "src": "/evidence/market-entry-flow-20261116/live-introduction-phone.png",
+        "sha256": "0532de77e810ff12ea743731ef1b69b2e59508f6926672cbf282ed4cf03612fc",
+        "width": 390,
+        "height": 1000,
+        "date": "2026-11-16",
+        "kind": "Actual unmodified public guest game; fictional practice only",
+        "sourceCommit": "b647c325ad1700c2f440348b3d2cfe01ff307ab4"
+      },
+      "market16-mara-scenario-phone": {
+        "src": "/evidence/market-entry-flow-20261116/live-mara-scenario-phone.png",
+        "sha256": "5a09e70bbf0c3805105e150f33008914a05099203edbc081f5bee37e52f120fd",
+        "width": 390,
+        "height": 1000,
+        "date": "2026-11-16",
+        "kind": "Actual unmodified public guest game; fictional practice only",
+        "sourceCommit": "b647c325ad1700c2f440348b3d2cfe01ff307ab4"
+      },
+      "market16-meet-crew-phone": {
+        "src": "/evidence/market-entry-flow-20261116/live-meet-crew-phone.png",
+        "sha256": "6796faf801eb0556c27e1a9cce61b40bb35c18a0c64b7f2fc160c5ddf8edb7c6",
+        "width": 390,
+        "height": 740,
+        "date": "2026-11-16",
+        "kind": "Actual unmodified public guest game; fictional practice only",
+        "sourceCommit": "b647c325ad1700c2f440348b3d2cfe01ff307ab4"
+      },
+      "market16-trial-next-phone": {
+        "src": "/evidence/market-entry-flow-20261116/live-trial-next-phone.png",
+        "sha256": "c61795b5c7dc2b7865aaabc676a6d45ddabe12b7cf73163a09e8daf1d8db1d80",
+        "width": 390,
+        "height": 1000,
+        "date": "2026-11-16",
+        "kind": "Actual unmodified public guest game; fictional practice only",
+        "sourceCommit": "b647c325ad1700c2f440348b3d2cfe01ff307ab4"
+      },
+      "market16-shift-complete-phone": {
+        "src": "/evidence/market-entry-flow-20261116/live-shift-complete-phone.png",
+        "sha256": "2b2b91ae945496d22c840b1b78030e2a3d3fab7b12df9fae30b46def7411211d",
+        "width": 390,
+        "height": 1000,
+        "date": "2026-11-16",
+        "kind": "Actual unmodified public guest game; fictional practice only",
+        "sourceCommit": "b647c325ad1700c2f440348b3d2cfe01ff307ab4"
       }
     },
     "rows": [
@@ -34073,11 +34163,11 @@
           "pedagogy"
         ],
         "title": "Meet Mara at Juniper Kitchen",
-        "image": "market13-noodle-bar-mara",
-        "description": "Walk to the stall, speak with Mara and watch customers who have already paid.",
+        "image": "market16-meet-crew-desktop",
+        "description": "Choose Mara, view her scenario, then walk to Juniper Kitchen and talk to the crew.",
         "purpose": "Give Initiative a concrete workplace problem.",
-        "detail": "The current introduction says Juniper Kitchen makes rice bowls; the entrance button is labelled Mara’s Noodle Bar. The learner observes ordering versus collection, then explains what caught their attention.",
-        "status": "Live introduction · checked13 Nov"
+        "detail": "Only Mara’s Noodle Bar opens the supported scenario. The native crew dialogue is wider and readable at2047×979and390×740; all buttons remain reachable. Notes, Archon and Portfolio keep their own routes.",
+        "status": "Actual live171 ·16 Nov; desktop and phone pass"
       },
       {
         "id": "notice",
@@ -34099,11 +34189,11 @@
           "student"
         ],
         "title": "Try an improvement on shift",
-        "image": "mara-shift-offer",
-        "description": "Accept or decline a fictional shift, then try an idea, watch customers and report back.",
+        "image": "market16-shift-complete-desktop",
+        "description": "Try and revise an improvement, review the mixed result with Mara, then finish the shift.",
         "purpose": "Practise improving work and considering its effects.",
-        "detail": "The live offer is $20 less $2 community tax = $18 plus a crew pass. There is no timer; help and retries do not reduce pay. This capture verifies the offer and acceptance, not a newly completed shift or real earnings.",
-        "status": "Live offer; completed shift not rerun"
+        "detail": "Actual desktop and phone runs each complete two non-perfect trials, revision, manual learning review and Finish shift. Progress shows Trial complete → Learning review with Mara → Finish shift. The existing game reward is $18 after $2 community tax and a crew pass. No assessed portfolio outcome or invented evidence is recorded.",
+        "status": "Actual live171 ·16 Nov; mixed-result completion passes"
       },
       {
         "id": "notes",
@@ -34274,11 +34364,11 @@
           "market"
         ],
         "title": "Walk to the noodle bar",
-        "image": "market13-noodle-bar-route",
-        "description": "Choose Mara’s Noodle Bar, then walk to Juniper Kitchen and talk to Mara.",
+        "image": "market16-mara-scenario-desktop",
+        "description": "Select Mara’s Noodle Bar, read her case, then follow the explicit prompt to walk and chat.",
         "purpose": "Meet a concrete workplace problem before trying an improvement.",
-        "detail": "The entrance calls this Mara’s Noodle Bar; the stall itself is Juniper Kitchen. The current intro describes rice bowls. Existing source naming is retained rather than edited in the game.",
-        "status": "Live Market route ·13 Nov"
+        "detail": "The original Initiative introduction and four alternatives appear first. Mara’s scenario appears only after her choice. Walking and Enter both support fresh/repeat entry and return; the public classroom-word cue is removed, genuine account authentication is preserved.",
+        "status": "Actual live171 ·16 Nov; walk and Enter pass"
       },
       {
         "id": "portfolio-log-current",
@@ -34300,8 +34390,8 @@
       "Anonymous Market and Student Hub forms are separate, with different persistence and privacy boundaries.",
       "Phase2–11 remain curriculum plans; screenshots do not imply complete implementation."
     ],
-    "marketSourceCommit": "1733b4b5e1447e9877e9abb972b816bf1d4102cc",
-    "marketReviewDate": "2026-11-13"
+    "marketSourceCommit": "b647c325ad1700c2f440348b3d2cfe01ff307ab4",
+    "marketReviewDate": "2026-11-16"
   },
   "orientationHistory": {
     "id": "CE-ORIENTATION",
@@ -34928,8 +35018,8 @@
       "phase": "Refresh the reader against the live game",
       "activeMilestoneId": "CE-CONTINUITY-01",
       "objective": "Make the purpose, current design, implementation limits and next decisions understandable to a new colleague.",
-      "now": "Password removal170is verified live26614fe. The latest171source retains the supplied four-choice Initiative introduction, Mara-only downstream case, reliable entry, larger dialogue and explicit mixed-result review/finish progress; game successor publication is pending.",
-      "next": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer.",
+      "now": "Initiative171 is published and independently verified at the actual Career Empire game as b647c325ad1700c2f440348b3d2cfe01ff307ab4. All419public runtime hashes match. Native public desktop1280/phone390 checks pass fresh/repeat walking and Enter, four separate choices, Mara-only scenario and explicit walk-to-Mara prompt, real cross-tab recording-lock recovery, retry/cancel/timeout/late navigation, readable crew dialogue and actual phone joystick. Two full non-perfect mixed-result shifts pass trial revision, manual learning review and Finish shift with all three real stages complete, existing1800wallet/200tax/crew pass and no invented initiative evidence. Game practice is not an assessed portfolio outcome.",
+      "next": "Tania to check the actual live game and Market/map links. Existing CEAWA owner to align final entry/crew/trial/finish screenshots and link expectations after this exact live verification; preserve the original video and label historical differences. No later clue-removal progression or new curriculum production is included.",
       "then": "Author and review core learning materials, purposeful application and appropriate evidence across the shared phases; align school pacing and assessment dates before setting lessons.",
       "later": "Implement the agreed connected course and verify classroom, accessibility, school and learner-evidence requirements separately.",
       "sequence": [
@@ -35267,7 +35357,7 @@
         "V2-D03",
         "V2-D18"
       ],
-      "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer.",
+      "nextAction": "Tania to check the actual live game and Market/map links. Existing CEAWA owner to align final entry/crew/trial/finish screenshots and link expectations after this exact live verification; preserve the original video and label historical differences. No later clue-removal progression or new curriculum production is included.",
       "doneWhen": "Core materials and meaningful application/evidence are authored and reviewed against the exact curriculum and school assessment requirements. Blueprint publication, game integration, school permission and learner mastery have separate evidence.",
       "boundary": "Documentation refresh only; does not approve game production, new backend, security permissions or a student trial. No real learner records changed."
     },
@@ -39761,12 +39851,12 @@
           "title": "Reliable Market entry, retained Initiative choices and clear shift completion",
           "source": "Tania explicitly directs restoration of her supplied existing Initiative introduction, Mara scenario only after Mara Noodles, both walk/Enter completion and recovery, larger Meet the Juniper crew, and approved Trial complete → Learning review with Mara → Finish shift guidance. Mixed outcomes may be revised/explained and finished without a perfect trial or assessed-portfolio claim. Publish the corrected game through normal guards, then align the separate Blueprint and hand verified assets to the existing CEAWA owner.",
           "owner": "Integrate and test Initiative",
-          "status": "Exact source qualified; authorized game publication pending",
+          "status": "Published and independently live-verified; user acceptance separate",
           "rationale": "The screenshot-matched historic Initiative introduction is retained and improved, with four practice choices. Only Mara opens the downstream scenario, then prompts a walk to chat. Market entry completes independently of an optional visit-recording lock; explicit Enter is available at the approach, with bounded import/cancel/retry and stale-index compatibility. The existing crew dialogue is substantially wider/readable, with a sharper native capture and reachable phone controls. Result/review/handover/completion show read-only progress derived from existing milestones; mixed trials can revise/explain and finish for the same agreed game pay. Auth, record permissions, state/economy reducers, original art,170password removal,168candidate and CI are preserved.",
           "implementation": "The screenshot-matched historic Initiative introduction is retained and improved, with four practice choices. Only Mara opens the downstream scenario, then prompts a walk to chat. Market entry completes independently of an optional visit-recording lock; explicit Enter is available at the approach, with bounded import/cancel/retry and stale-index compatibility. The existing crew dialogue is substantially wider/readable, with a sharper native capture and reachable phone controls. Result/review/handover/completion show read-only progress derived from existing milestones; mixed trials can revise/explain and finish for the same agreed game pay. Auth, record permissions, state/economy reducers, original art,170password removal,168candidate and CI are preserved.",
-          "testing": "428unit tests across95files and coverage pass;419staged asset hashes/109imports pass.17native focused checks pass plus one desktop skip for the phone-only joystick case: fresh/repeat walking and Enter at1280/390, all four routes and Mara-only sequence, actual phone joystick, real cross-tab lock with eventual single visit, failed/stalled import/retry/cancel/late-navigation, stale-index compatibility,2047×979and390×740crew layout/fonts/image and controls. Two additional real-control full shifts pass desktop/phone: two mixed trials, revision, explicit walk back to Mara, manual learning review and actual Finish shift; all3stages complete, wallet1800/tax200/pass true, no invented initiative evidence. Required CI source/coverage pass; broad native browser stops at the inherited Admin-preview modal failure:1failed/286not-run. Failed initial harness/CSS/controller checks are retained; no all-CI-green, Safari, physical-device, signed-in-account or classroom acceptance claim.",
-          "deployment": "170is published26614fe with419public hashes and6native live entry/return cases.171is qualified; source publication/verification and genuine receipt precede game push.",
-          "nextAction": "Independently verify this exact public source review, obtain a genuine16-file receipt, publish the isolated successor on26614fe and verify actual live entry, all routes, mixed shift completion and public assets. Then publish truthful reader closeout and coordinate CEAWA with its existing owner; no concurrent CEAWA writer.",
+          "testing": "428unit tests/95files and coverage pass;419assets/109imports pass. Actual public19cases pass, with1intentional desktop skip for the phone-only touch case. Controlled failure/lock/stale-index cases are distinguished from unmodified ordinary public flows. Required broad CI retains inherited Admin-preview failure/286not-run; no all-CI-green claim. Safari, physical devices, signed-in account saving, classroom and Tania acceptance remain separate. Existing authentication/privacy/state/economy and pending168/Flyover/CI are preserved.",
+          "deployment": "Initiative171 is published and independently verified at the actual Career Empire game as b647c325ad1700c2f440348b3d2cfe01ff307ab4. All419public runtime hashes match. Native public desktop1280/phone390 checks pass fresh/repeat walking and Enter, four separate choices, Mara-only scenario and explicit walk-to-Mara prompt, real cross-tab recording-lock recovery, retry/cancel/timeout/late navigation, readable crew dialogue and actual phone joystick. Two full non-perfect mixed-result shifts pass trial revision, manual learning review and Finish shift with all three real stages complete, existing1800wallet/200tax/crew pass and no invented initiative evidence. Game practice is not an assessed portfolio outcome.",
+          "nextAction": "Tania to check the actual live game and Market/map links. Existing CEAWA owner to align final entry/crew/trial/finish screenshots and link expectations after this exact live verification; preserve the original video and label historical differences. No later clue-removal progression or new curriculum production is included.",
           "evidence": [
             "docs/production/market-entry-flow-20261116.md"
           ],

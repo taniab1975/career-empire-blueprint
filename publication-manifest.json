@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-16T06:01:32.428965+00:00",
+  "generatedAt": "2026-11-16T12:29:47.846269+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "236986d4c5450e87fa4577334f332a8374711a92d6b9a76ec74fd125c05a9f0e",
+  "recordSha256": "6e2b61558c1ae70f4b88b86c4910dc0da4a55519334ee4441f627306f3a38e0e",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -73,6 +73,10 @@
       "sha256": "2ee6493a1064a2b0276f76a588334f064a019b65f92cdae91637b02f25aa02bc"
     },
     {
+      "path": "assets/index-market-flow-8cd84fa54223.js",
+      "sha256": "8cd84fa542239c5d212a2c23a335e5398314c927f321a73df187ddcf53c97deb"
+    },
+    {
       "path": "assets/index-phase-access-58c559ab1c.js",
       "sha256": "58c559ab1cb710b87a4af84658c9db97d283b6485be6e0c50bb8e09d2f0a0ed8"
     },
@@ -82,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "236986d4c5450e87fa4577334f332a8374711a92d6b9a76ec74fd125c05a9f0e"
+      "sha256": "6e2b61558c1ae70f4b88b86c4910dc0da4a55519334ee4441f627306f3a38e0e"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1421,6 +1425,46 @@
       "sha256": "f82bc7c4e64297833aa5568c9eea41b82ef8731ad2375a1cbc9fb0411ba6a88a"
     },
     {
+      "path": "evidence/market-entry-flow-20261116/live-introduction-desktop.png",
+      "sha256": "6e8c7a472f4061791ffca5537c4aeb1747d1cb8157afe8e4a944dbae8dace2e3"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/live-introduction-phone.png",
+      "sha256": "0532de77e810ff12ea743731ef1b69b2e59508f6926672cbf282ed4cf03612fc"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/live-mara-scenario-desktop.png",
+      "sha256": "662aa92d281c6deedbb6eedc433925b52df260eda50798b8907e1ef2890d9ec7"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/live-mara-scenario-phone.png",
+      "sha256": "5a09e70bbf0c3805105e150f33008914a05099203edbc081f5bee37e52f120fd"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/live-meet-crew-desktop.png",
+      "sha256": "1d3a4fb7f89685696164dedf6d43eab555e5bc6995f3005fb13dfa2299a6692c"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/live-meet-crew-phone.png",
+      "sha256": "6796faf801eb0556c27e1a9cce61b40bb35c18a0c64b7f2fc160c5ddf8edb7c6"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/live-shift-complete-desktop.png",
+      "sha256": "74d2203787f94202c0abba69df39edfcedff99592324cc504cbf068d2e19f9ac"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/live-shift-complete-phone.png",
+      "sha256": "2b2b91ae945496d22c840b1b78030e2a3d3fab7b12df9fae30b46def7411211d"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/live-trial-next-desktop.png",
+      "sha256": "2fe4f65487861afc184f2e03212229165846268336d6d93b04edf71713a743fc"
+    },
+    {
+      "path": "evidence/market-entry-flow-20261116/live-trial-next-phone.png",
+      "sha256": "c61795b5c7dc2b7865aaabc676a6d45ddabe12b7cf73163a09e8daf1d8db1d80"
+    },
+    {
       "path": "evidence/market-entry-flow-20261116/source-introduction-desktop.png",
       "sha256": "e5335cad380b17a066e51ca1656638a616af1c0233f2c7dbed85d5ae8f942b04"
     },
@@ -2046,7 +2090,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "311569978fefe981b47f8d75fd71d8b112621413e60ea772574e716d57039e41"
+      "sha256": "2c27e60575bae27ffe336910914fbec7ba4d67dbd10e8110e4d299e15d1a5f0b"
     },
     {
       "path": "playable-3d/app.js",
@@ -2398,11 +2442,11 @@
     },
     {
       "path": "production/current-state.html",
-      "sha256": "d8c83cd54d6ab298abbdc16c986653ff48ecdb841c2718df3b3b8f6dce2a79a3"
+      "sha256": "60d04d88bd34480ac8ec8a078185de3435916c2ff7d486a5bfc7840a964dbd0f"
     },
     {
       "path": "production/current-state.md",
-      "sha256": "1841149f4971072f3b1c880e8f8581d3c82589f9317b386fa785d7421a3378e1"
+      "sha256": "6650f86a0c0593d0e51294e8b6def99b32beca8a807770aae5f89fedd70c67b4"
     },
     {
       "path": "production/curriculum-collapsed-default-20261021.md",
@@ -2654,11 +2698,11 @@
     },
     {
       "path": "production/market-entry-flow-20261116.html",
-      "sha256": "74e3ef8bf3a02a453fd4280f7c8ac1707e58573475f256e2fbf0a198a11043ea"
+      "sha256": "e55c6148fab5a6836b47b84bc5e02d226a978b67af893ff92c686328205adccf"
     },
     {
       "path": "production/market-entry-flow-20261116.md",
-      "sha256": "ccf2aec1f5efac4689f2e5a1e50bcb6a92bc9b6986d0aa873524f9e6e897c1fb"
+      "sha256": "25eda0a448588e6db1a8b371cbaa8121a8b094fb37b54cecb6d9149eacb6bbfd"
     },
     {
       "path": "production/market-entry-release-20261116.md",
@@ -2690,7 +2734,7 @@
     },
     {
       "path": "production/material-changes.md",
-      "sha256": "82c455c5114133ebb2ebbcd57dc213224a98592253a970af1ec30dec636d4f25"
+      "sha256": "5b42fa4c61d29583a436b96503d4f5a9c8ab1eb411530cefe71c5cabe0d1bf44"
     },
     {
       "path": "production/media-oval-20260911.md",

@@ -2331,3 +2331,12 @@ Tania explicitly requests removal and live reload of the public pacing-word prom
 ## Retained Initiative introduction and reliable completion171
 
 Password removal170is verified live26614fe. The final171source is qualified with428unit tests,17focused checks and2real mixed-result completions across desktop/phone. The historic introduction and four choices are retained, only Mara opens the scenario, crew dialogue is larger, and results lead explicitly through review to finish. Source publication and genuine receipt precede the game successor; live171and classroom acceptance are not claimed yet. [Exact flow and source review](market-entry-flow-20261116.html).
+
+
+## Initiative171 verified live
+
+Initiative171 is published and independently verified at the actual Career Empire game as b647c325ad1700c2f440348b3d2cfe01ff307ab4. All419public runtime hashes match. Native public desktop1280/phone390 checks pass fresh/repeat walking and Enter, four separate choices, Mara-only scenario and explicit walk-to-Mara prompt, real cross-tab recording-lock recovery, retry/cancel/timeout/late navigation, readable crew dialogue and actual phone joystick. Two full non-perfect mixed-result shifts pass trial revision, manual learning review and Finish shift with all three real stages complete, existing1800wallet/200tax/crew pass and no invented initiative evidence. Game practice is not an assessed portfolio outcome.
+
+428unit tests/95files and coverage pass;419assets/109imports pass. Actual public19cases pass, with1intentional desktop skip for the phone-only touch case. Controlled failure/lock/stale-index cases are distinguished from unmodified ordinary public flows. Required broad CI retains inherited Admin-preview failure/286not-run; no all-CI-green claim. Safari, physical devices, signed-in account saving, classroom and Tania acceptance remain separate. Existing authentication/privacy/state/economy and pending168/Flyover/CI are preserved.
+
+Tania to check the actual live game and Market/map links. Existing CEAWA owner to align final entry/crew/trial/finish screenshots and link expectations after this exact live verification; preserve the original video and label historical differences. No later clue-removal progression or new curriculum production is included. [Actual live flow evidence](market-entry-flow-20261116.html).
