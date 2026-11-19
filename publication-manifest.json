@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-19T11:21:16.963911+00:00",
+  "generatedAt": "2026-11-19T11:25:26.416949+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "8ce8d7872800d5c4224148c70e426c3c04e8a88235b51ad49aa7e393182d0207",
+  "recordSha256": "22da485ce7813e35c17c34aa40ffe0cf30b9d4da31023f0e9c3f88888318e4ae",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "8ce8d7872800d5c4224148c70e426c3c04e8a88235b51ad49aa7e393182d0207"
+      "sha256": "22da485ce7813e35c17c34aa40ffe0cf30b9d4da31023f0e9c3f88888318e4ae"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -3450,7 +3450,7 @@
   "sourceRecovery": "Reviewed source saved locally; no private-source upload.",
   "sourceReview172": {
     "changeId": "CE-CHANGE-20261119-172",
-    "status": "ready-for-publication",
+    "status": "complete",
     "pathCount": 16,
     "sourceBase": "b647c325ad1700c2f440348b3d2cfe01ff307ab4",
     "reader": "production/markets-first-source-review-20261119.html",
