@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-16T12:38:30.254092+00:00",
+  "generatedAt": "2026-11-19T11:21:16.963911+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "8ce4f853aaa345f509f5da74d6517b47e139f3b625c1dc8fc3b2787538a96726",
+  "recordSha256": "8ce8d7872800d5c4224148c70e426c3c04e8a88235b51ad49aa7e393182d0207",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "8ce4f853aaa345f509f5da74d6517b47e139f3b625c1dc8fc3b2787538a96726"
+      "sha256": "8ce8d7872800d5c4224148c70e426c3c04e8a88235b51ad49aa7e393182d0207"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -1621,6 +1621,30 @@
       "sha256": "22d20fd204aca1feb5a87bfbade5bde7201465a7f05493672278859801e357a5"
     },
     {
+      "path": "evidence/markets-loading-source-20261119/memory-only-access-desktop.png",
+      "sha256": "dfd3dc1cffa8ea4acde281e333212b2a6a626d23af51f9667f574464bb59ecc9"
+    },
+    {
+      "path": "evidence/markets-loading-source-20261119/memory-only-access-phone.png",
+      "sha256": "612eaad15032a48d7d2f1abc3643e28b1b1754aed38c403e34f6d8218dbbe8bc"
+    },
+    {
+      "path": "evidence/markets-loading-source-20261119/no-webgl-access-desktop.png",
+      "sha256": "615b11b9e59ba6dd5cabd8293b597cac439617510ec5113af81409ca4553b349"
+    },
+    {
+      "path": "evidence/markets-loading-source-20261119/no-webgl-access-phone.png",
+      "sha256": "8ecb09902d9d852d837d4adc54bc5e4247aeeb04bb13688990b9149bd6511c36"
+    },
+    {
+      "path": "evidence/markets-loading-source-20261119/walk-and-enter-desktop.png",
+      "sha256": "84c2bdcd2158f2bb3e25a4f75f0f6e7b048f6a2bc5bb58b0d0edecd688d61e78"
+    },
+    {
+      "path": "evidence/markets-loading-source-20261119/walk-and-enter-phone.png",
+      "sha256": "70d994c13749cc9cba4302eb3f0cde589f87eeb4a7725c7f1035300ff5f7d080"
+    },
+    {
       "path": "evidence/markets-review-20261015/briefing.png",
       "sha256": "60b26f071b1e9a62e2b42fc86c1a6bf10d56c0b8289084a24703772a90bc247c"
     },
@@ -2725,6 +2749,14 @@
       "sha256": "64636c43686a92351b567637001c4f2a29db0b21dee9ffd184a80ea0a682f358"
     },
     {
+      "path": "production/markets-first-source-review-20261119.html",
+      "sha256": "0da98418cfe326e02bb0b618c012dbb7a85dae05c6f4bb0f0d838ce639d9a10e"
+    },
+    {
+      "path": "production/markets-first-source-review-20261119.md",
+      "sha256": "639d171f3b4e9d74ff19532ae66b6c846fba92b3bde70bf6b28786eaafdd4c15"
+    },
+    {
       "path": "production/markets-implementation-review-20261015.html",
       "sha256": "dd7ec3484c4693e8bc3ae60286ecd5bda973d903359f44af5371a9075f3cbe76"
     },
@@ -3413,7 +3445,18 @@
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
     }
   ],
-  "recordPublicationScope": "Verified game-only166/167closeout and affected existing Portfolio reader documents; frozen source integrations/global WA records preserved. CEAWA/SkillQuest candidates remain unpublished pending explicit approval.",
+  "recordPublicationScope": "172 supporting16-file Markets source-review record/document/sixdatedcandidatecaptures only; no reader-app or game runtime deployment. Preserve every prior public integration.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
-  "sourceRecovery": "Reviewed source saved locally; no private-source upload."
+  "sourceRecovery": "Reviewed source saved locally; no private-source upload.",
+  "sourceReview172": {
+    "changeId": "CE-CHANGE-20261119-172",
+    "status": "ready-for-publication",
+    "pathCount": 16,
+    "sourceBase": "b647c325ad1700c2f440348b3d2cfe01ff307ab4",
+    "reader": "production/markets-first-source-review-20261119.html",
+    "sourceInventorySha256": "c5fc16d0a2cb986d2dfee7f4f6febb4ead10190a75e94d0d25a2ccf2374dd599",
+    "verificationSha256": "7bd7d85d2168bf0691b39e7ad26ca1e34cd94f0020531173e794f3d5bb87bf20",
+    "runtimePublishedByThisChange": false,
+    "limits": "Original Mac/Safari/physical-device/classroom/signed-in/livegame acceptance unverified; no new broad browserCI or speedup claim."
+  }
 }
