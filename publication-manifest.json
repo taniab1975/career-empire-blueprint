@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-20T02:18:37.855076+00:00",
+  "generatedAt": "2026-11-20T02:23:49.245505+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "7143ae4971c797a01233dd0e2d8c347818656df9cb97336b3b855bec4097a96b",
+  "recordSha256": "7a38df59190206dfc7322284d3777fd387ac0da1ed0c48380b1d375720224f98",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "7143ae4971c797a01233dd0e2d8c347818656df9cb97336b3b855bec4097a96b"
+      "sha256": "7a38df59190206dfc7322284d3777fd387ac0da1ed0c48380b1d375720224f98"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -3510,7 +3510,7 @@
   },
   "sourceReview176": {
     "changeId": "CE-CHANGE-20261120-176",
-    "status": "ready-for-publication",
+    "status": "complete",
     "pathCount": 7,
     "sourceBase": "13080c85ee30712001199a03122ece196754e482",
     "reader": "production/careers-archon-closer-board-source-review-20261120.html",

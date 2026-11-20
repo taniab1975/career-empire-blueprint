@@ -39936,12 +39936,12 @@
           "title": "Careers Archon closer-board layout — supporting exact7source review",
           "source": "Explicit authenticated owner approval for background checks, supporting Blueprint summary and conditional narrow live update after tests pass; existing Archon owner retains sole game push. Private approval references/background remain local.",
           "owner": "Blueprint maintainer: supporting review only; existing Archon owner: exact receipt and game release",
-          "status": "Supporting exact7source review ready for publication; game release separate",
+          "status": "Supporting Blueprint exact7source review published and verified; game release separate",
           "rationale": "Publish owner-approved sanitised closer-board/control summary and qualified test outcomes with7exact bindings before separate guarded Archon game release.",
           "implementation": "Full-width desktop active match, shared closer promenade opening/reset, responsive full-board framing, direct start/rematch, accessible44pxzoom/reset controls outside squares and retained keyboard/territory tools. Standalone art view, teams/upgrades/rules, Portfolio and unrelated runtime preserved.",
           "testing": "Reviewed supplied4camera/projection unit cases across10aspect ratios;6background native-WebGL cases (2baseline,4candidate) yield12seat views, plus2seatAmovement/focus followups. Synthetic parent layouts at1920/390/320 preserve no horizontal overflow; desktop board width1384to1864at1920.443staged asset hashes/111imports and affected syntax/whitespace checks reported pass. Corrected harness failures and tested aspect*.78refinement retained privately. No new full sourcecheck/suite/CI, real hosted room/production backend, physical touch, classroom or general performance qualification.",
-          "deployment": "No game push/receipt by Blueprint maintainer. Supporting summary awaits actual public verification.",
-          "nextAction": "Verify actual public176summary/records/manifest; existing Archon owner alone obtains genuine exact7-file receipt through unchanged guard, then conditional normal guarded game push and independent live verification. No game receipt or game push by Blueprint maintainer; preserve173/174and all prior integration objects.",
+          "deployment": "Supporting review verified at ac807a15808663756f5972e11bc67798797975a6. No game receipt/commit/push by Blueprint maintainer.",
+          "nextAction": "Supporting176review published and independently verified. Existing Archon owner creates genuine exact7-file receipt through unchanged guard, then conditional normal guarded game push and live verification. No game release by Blueprint maintainer.",
           "evidence": [
             "production/careers-archon-closer-board-source-review-20261120.html"
           ],
@@ -111266,13 +111266,13 @@
           "release",
           "governance"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Publish owner-approved sanitised closer-board/control summary and qualified test outcomes with7exact bindings before separate guarded Archon game release.",
         "before": "Published13080c8retains the earlier match framing/overview and controls. The exact current seven-file candidate has not previously been admitted.",
         "after": "Full-width desktop active match, shared closer promenade opening/reset, responsive full-board framing, direct start/rematch, accessible44pxzoom/reset controls outside squares and retained keyboard/territory tools. Standalone art view, teams/upgrades/rules, Portfolio and unrelated runtime preserved.",
         "source": "Explicit authenticated owner approval for background checks, supporting Blueprint summary and conditional narrow live update after tests pass; existing Archon owner retains sole game push. Private approval references/background remain local.",
         "owner": "Blueprint maintainer: supporting review only; existing Archon owner: exact receipt and game release",
-        "nextAction": "Verify actual public176summary/records/manifest; existing Archon owner alone obtains genuine exact7-file receipt through unchanged guard, then conditional normal guarded game push and independent live verification. No game receipt or game push by Blueprint maintainer; preserve173/174and all prior integration objects.",
+        "nextAction": "Supporting176review published and independently verified. Existing Archon owner creates genuine exact7-file receipt through unchanged guard, then conditional normal guarded game push and live verification. No game release by Blueprint maintainer.",
         "securityPrivacyImpact": {
           "baseline": "WA-DOE-v4c",
           "waQuestionIds": [],
@@ -111421,8 +111421,8 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Verify actual sanitised public summary and matching record/manifest before completion.",
+            "disposition": "updated",
+            "action": "Actual sanitised supporting reader and matching public record/manifest independently verified.",
             "records": [
               "CE-CHANGE-20261120-176"
             ],
@@ -111432,11 +111432,10 @@
               "production/careers-archon-closer-board-source-review-20261120.html"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Pending actual public reader and served-file verification.",
-              "date": ""
-            },
-            "nextAction": "Verify actual public176summary/records/manifest; existing Archon owner alone obtains genuine exact7-file receipt through unchanged guard, then conditional normal guarded game push and independent live verification. No game receipt or game push by Blueprint maintainer; preserve173/174and all prior integration objects."
+              "result": "passed",
+              "method": "Verified all supporting served-file hashes and actual public reader at ac807a15808663756f5972e11bc67798797975a6; prior173/174/175preserved.",
+              "date": "2026-11-20"
+            }
           },
           {
             "surface": "build",
