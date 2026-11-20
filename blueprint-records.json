@@ -39903,12 +39903,12 @@
           "title": "Night Markets Portfolio — supporting exact7source review",
           "source": "Direct owner permission to update the Blueprint and then publish the bounded Night Markets Portfolio game successor; current coordinator instruction confirms supporting review first. Approval conversation/identifiers retained privately, not published.",
           "owner": "Blueprint maintainer: supporting review only; existing coordinator: genuine receipt and game release",
-          "status": "Supporting exact7source review ready for publication; game release separate",
+          "status": "Supporting Blueprint exact7source review published and verified; game release separate",
           "rationale": "Publish owner-approved sanitised fictional Portfolio description/test outcomes and necessary exact7source bindings before separate guarded game release.",
           "implementation": "Initiative opens first. Optional capability and subskill tags describe one chronological reflection. Four existing fictional examples are retained; one added student practice produces five unique chronological entries while separate teacher examples remain four. Student entry/view, fictional teacher review and3D/2DMarket returns are covered.",
           "testing": "Reviewed sixfocused desktop/phone Portfolio browser cases,26focused unit tests,443staged asset hashes/111imports and standard source checks plus441unit tests/97files. Broad browser run retains13passes,7Admin/avatar failures and277not-run after interruption; no all-CI-green claim. FourfictionalPDFexports/eightpagerenders and desktop/phone views supplied. No physical-device/classroom, Safari, actual authenticated saving or live learner acceptance.",
-          "deployment": "No game push or receipt by Blueprint maintainer. Supporting review awaits actual public verification.",
-          "nextAction": "Verify actual supporting174document/record/manifest, then coordinator obtains genuine exact7-path receipt through unchanged guard and performs separately authorised guarded game publication with independent live verification. No game receipt or game push by Blueprint maintainer.",
+          "deployment": "Supporting review verified at f10d37124a2b206355d3f8721f75ba663c7bc58b. No game receipt/commit/push by Blueprint maintainer.",
+          "nextAction": "Supporting174review published and independently verified. Coordinator obtains genuine exact7-file receipt through unchanged guard, then normal guarded game publication and live verification. This completion is documentary only, not game deployment or real learner acceptance.",
           "evidence": [
             "production/night-markets-portfolio-source-review-20261120.html"
           ],
@@ -110400,13 +110400,13 @@
           "release",
           "governance"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Publish owner-approved sanitised fictional Portfolio description/test outcomes and necessary exact7source bindings before separate guarded game release.",
         "before": "Published game contains the existing Portfolio. The frozen candidate refines Initiative prominence and fictional demo review; no prior public admission of these exact7versions found.",
         "after": "Initiative opens first. Optional capability and subskill tags describe one chronological reflection. Four existing fictional examples are retained; one added student practice produces five unique chronological entries while separate teacher examples remain four. Student entry/view, fictional teacher review and3D/2DMarket returns are covered.",
         "source": "Direct owner permission to update the Blueprint and then publish the bounded Night Markets Portfolio game successor; current coordinator instruction confirms supporting review first. Approval conversation/identifiers retained privately, not published.",
         "owner": "Blueprint maintainer: supporting review only; existing coordinator: genuine receipt and game release",
-        "nextAction": "Verify actual supporting174document/record/manifest, then coordinator obtains genuine exact7-path receipt through unchanged guard and performs separately authorised guarded game publication with independent live verification. No game receipt or game push by Blueprint maintainer.",
+        "nextAction": "Supporting174review published and independently verified. Coordinator obtains genuine exact7-file receipt through unchanged guard, then normal guarded game publication and live verification. This completion is documentary only, not game deployment or real learner acceptance.",
         "securityPrivacyImpact": {
           "baseline": "WA-DOE-v4c",
           "waQuestionIds": [],
@@ -110555,8 +110555,8 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Verify actual public supporting document and matching record/manifest before completion.",
+            "disposition": "updated",
+            "action": "Actual sanitised supporting reader and matching public records/manifest independently verified.",
             "records": [
               "CE-CHANGE-20261120-174"
             ],
@@ -110566,11 +110566,10 @@
               "production/night-markets-portfolio-source-review-20261120.html"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Pending actual public reader and served-file verification.",
-              "date": ""
-            },
-            "nextAction": "Verify actual supporting174document/record/manifest, then coordinator obtains genuine exact7-path receipt through unchanged guard and performs separately authorised guarded game publication with independent live verification. No game receipt or game push by Blueprint maintainer."
+              "result": "passed",
+              "method": "Verified all supporting served-file hashes and actual public reader at f10d37124a2b206355d3f8721f75ba663c7bc58b. Game release remains separate.",
+              "date": "2026-11-20"
+            }
           },
           {
             "surface": "build",

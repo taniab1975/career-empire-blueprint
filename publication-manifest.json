@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-20T01:43:34.764085+00:00",
+  "generatedAt": "2026-11-20T01:47:24.862400+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "da271cbbafecd5108e9da2760db9ac065706a432678affeecdb333c2332ce991",
+  "recordSha256": "70cdad64918e053afc29895a26f64716c5a9226863770b7c2115ba7921a74afa",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "da271cbbafecd5108e9da2760db9ac065706a432678affeecdb333c2332ce991"
+      "sha256": "70cdad64918e053afc29895a26f64716c5a9226863770b7c2115ba7921a74afa"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -3485,7 +3485,7 @@
   },
   "sourceReview174": {
     "changeId": "CE-CHANGE-20261120-174",
-    "status": "ready-for-publication",
+    "status": "complete",
     "pathCount": 7,
     "sourceBase": "ff33d1b1dc9dd3b6662cf3a6b36f993c17061317",
     "reader": "production/night-markets-portfolio-source-review-20261120.html",
