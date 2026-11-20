@@ -39913,6 +39913,22 @@
             "production/night-markets-portfolio-source-review-20261120.html"
           ],
           "taniaAcceptance": "Supporting Blueprint publication and subsequent separate guarded game release authorised; no classroom/physical-device/real learner acceptance implied."
+        },
+        {
+          "id": "CE-CHANGE-20261120-175",
+          "date": "2026-11-20",
+          "title": "Night Markets Portfolio live release notice and reader closeout",
+          "source": "Existing explicit owner Blueprint and game publication approval; authorised Portfolio integrator supplies verified live closeout and requests sanitised reader reconciliation with frozen174preserved. Private correspondence and raw evidence not published.",
+          "owner": "Blueprint maintainer: reader-only live notice; existing game integrator: completed13080c8release",
+          "status": "Live notice ready for publication; historical main-reader copy/capture successor pending",
+          "rationale": "Reconcile actual verified Portfolio deployment in a sanitised live notice while preserving frozen174receipt coverage and unrelated reader work.",
+          "implementation": "Live Portfolio notice links the fictional student demonstration and separate teacher examples, records sixactual live desktop/phonechecks and443runtime hashes, and preserves all test limits.174integration stays byte-for-byte unchanged; remaining main-reader copy/capture scope disclosed separately.",
+          "testing": "Existing release owner reports normal genuine receipt/check/pre-push passed; actual game13080c8Pages44656742294succeeded. Reviewed443served runtime hashes plusmanifest and sixactual live desktop1280/phone390cases. Independently rechecked5changed runtime files overHTTPS and all7committed source bytes against174; actual receipt integration hash matches frozen174. No backend attempts/page errors or student/teacherStorage calls in supplied live fictional cases. Local broad13pass7Admin-avatarfail277not-run and remote software-browser failures retained; no all-green/Safari/physical/classroom/authenticated-saving/owner-acceptance claim.",
+          "deployment": "Reports already deployed13080c8; no game action by this closeout. Reader notice awaits public verification.",
+          "nextAction": "Keep174integration immutable. This175documents the already deployed game only; no new game receipt, binding or release. Separately reconcile the historical main Portfolio-tab description and captures through a clean reader-only build; preserve unrelated source edits. No next game release is authorised by this closeout.",
+          "evidence": [
+            "production/night-markets-portfolio-source-review-20261120.html"
+          ]
         }
       ],
       "sessionStart": [
@@ -110923,6 +110939,304 @@
           "patchSha256": "3b54ff9ecf290d3ddbac38cef6d836a6ff5343ace92ea44904abd74eb39caf5c",
           "status": "Sevenexact staged+working+frozen versions matched; game release separate.",
           "limits": "Local fictional/demo evidence only. Broad browser run not all green; real authenticated saving, Safari, physical-device/classroom and owner live acceptance remain separate."
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261120-175",
+        "title": "Night Markets Portfolio live release notice and reader closeout",
+        "types": [
+          "release",
+          "governance"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Reconcile actual verified Portfolio deployment in a sanitised live notice while preserving frozen174receipt coverage and unrelated reader work.",
+        "before": "174supporting document describes a separate future guarded game step; game owner has now independently verified13080c8live. Main historical Portfolio-tab copy/captures remain dated.",
+        "after": "Live Portfolio notice links the fictional student demonstration and separate teacher examples, records sixactual live desktop/phonechecks and443runtime hashes, and preserves all test limits.174integration stays byte-for-byte unchanged; remaining main-reader copy/capture scope disclosed separately.",
+        "source": "Existing explicit owner Blueprint and game publication approval; authorised Portfolio integrator supplies verified live closeout and requests sanitised reader reconciliation with frozen174preserved. Private correspondence and raw evidence not published.",
+        "owner": "Blueprint maintainer: reader-only live notice; existing game integrator: completed13080c8release",
+        "nextAction": "Keep174integration immutable. This175documents the already deployed game only; no new game receipt, binding or release. Separately reconcile the historical main Portfolio-tab description and captures through a clean reader-only build; preserve unrelated source edits. No next game release is authorised by this closeout.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "Sanitised live Portfolio release notice, fictional student/teacher entry links and separate documentary175metadata only. Preserve receipt-bound174and all prior records. No game runtime, backend/Auth, real learner records or next release.",
+          "rationale": "Factual documentary closeout only. Fictional live-case results do not establish institutional security or real learner saving; no production controls promoted.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Sanitised documentary deployment notice only; no new data control or real learner data processing by this reader closeout.",
+            "locations": "Sanitised documentary deployment notice only; no new locations control or real learner data processing by this reader closeout.",
+            "accessCountries": "Sanitised documentary deployment notice only; no new accessCountries control or real learner data processing by this reader closeout.",
+            "providers": "Sanitised documentary deployment notice only; no new providers control or real learner data processing by this reader closeout.",
+            "lifecycle": "Sanitised documentary deployment notice only; no new lifecycle control or real learner data processing by this reader closeout.",
+            "encryption": "Sanitised documentary deployment notice only; no new encryption control or real learner data processing by this reader closeout.",
+            "logging": "Sanitised documentary deployment notice only; no new logging control or real learner data processing by this reader closeout.",
+            "identity": "Sanitised documentary deployment notice only; no new identity control or real learner data processing by this reader closeout.",
+            "isolation": "Sanitised documentary deployment notice only; no new isolation control or real learner data processing by this reader closeout.",
+            "privacySafety": "Sanitised documentary deployment notice only; no new privacySafety control or real learner data processing by this reader closeout.",
+            "applicability": "Sanitised documentary deployment notice only; no new applicability control or real learner data processing by this reader closeout.",
+            "verification": "Existing release owner reports normal genuine receipt/check/pre-push passed; actual game13080c8Pages44656742294succeeded. Reviewed443served runtime hashes plusmanifest and sixactual live desktop1280/phone390cases. Independently rechecked5changed runtime files overHTTPS and all7committed source bytes against174; actual receipt integration hash matches frozen174. No backend attempts/page errors or student/teacherStorage calls in supplied live fictional cases. Local broad13pass7Admin-avatarfail277not-run and remote software-browser failures retained; no all-green/Safari/physical/classroom/authenticated-saving/owner-acceptance claim."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "Existing release owner reports normal genuine receipt/check/pre-push passed; actual game13080c8Pages44656742294succeeded. Reviewed443served runtime hashes plusmanifest and sixactual live desktop1280/phone390cases. Independently rechecked5changed runtime files overHTTPS and all7committed source bytes against174; actual receipt integration hash matches frozen174. No backend attempts/page errors or student/teacherStorage calls in supplied live fictional cases. Local broad13pass7Admin-avatarfail277not-run and remote software-browser failures retained; no all-green/Safari/physical/classroom/authenticated-saving/owner-acceptance claim."
+          ],
+          "reviewedBy": "Blueprint maintainer exact-source and documentary data-flow review",
+          "reviewedAt": "2026-11-20",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": "Explicit owner authority for bounded supporting Portfolio publication only; no institutional security approval or waiver.",
+          "architectureApproval": null,
+          "reviewScope": "Sanitised live Portfolio release notice, fictional student/teacher entry links and separate documentary175metadata only. Preserve receipt-bound174and all prior records. No game runtime, backend/Auth, real learner records or next release."
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "Main reader entry/index unchanged. Live status is provided in the separate Portfolio notice; historical main Portfolio copy/captures are explicitly pending clean reader build.",
+            "records": [
+              "CE-CHANGE-20261120-175",
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer, reader-only closeout",
+            "acceptance": "Actual live notice/links and matching records; frozen174unchanged; no whole-reader or broad acceptance claim.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped reader/source review: Main reader entry/index unchanged. Live status is provided in the separate Portfolio notice; historical main Portfolio copy/captures are explicitly pending clean reader build.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "175next action records exact remaining reader-only copy/capture scope, with no next game release or unrelated priority changes.",
+            "records": [
+              "CE-CHANGE-20261120-175",
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer, reader-only closeout",
+            "acceptance": "Actual live notice/links and matching records; frozen174unchanged; no whole-reader or broad acceptance claim.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped reader/source review: 175next action records exact remaining reader-only copy/capture scope, with no next game release or unrelated priority changes.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "New175records actual13080c8deployment and live proof without rewriting174source-review object bound by the genuine receipt.",
+            "records": [
+              "CE-CHANGE-20261120-175",
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer, reader-only closeout",
+            "acceptance": "Actual live notice/links and matching records; frozen174unchanged; no whole-reader or broad acceptance claim.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped reader/source review: New175records actual13080c8deployment and live proof without rewriting174source-review object bound by the genuine receipt.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Keep174immutable and use separate reader-only closeout metadata. No game receipt, guard, baseline, lock or workflow alteration.",
+            "records": [
+              "CE-CHANGE-20261120-175",
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer, reader-only closeout",
+            "acceptance": "Actual live notice/links and matching records; frozen174unchanged; no whole-reader or broad acceptance claim.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped reader/source review: Keep174immutable and use separate reader-only closeout metadata. No game receipt, guard, baseline, lock or workflow alteration.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Fresh public projection appends175members only; all prior integration/material objects, especially172/173/174, compared unchanged.",
+            "records": [
+              "CE-CHANGE-20261120-175",
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer, reader-only closeout",
+            "acceptance": "Actual live notice/links and matching records; frozen174unchanged; no whole-reader or broad acceptance claim.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped reader/source review: Fresh public projection appends175members only; all prior integration/material objects, especially172/173/174, compared unchanged.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Verify actual updated public live notice and matching record/manifest before completion.",
+            "records": [
+              "CE-CHANGE-20261120-175",
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer, reader-only closeout",
+            "acceptance": "Actual live notice/links and matching records; frozen174unchanged; no whole-reader or broad acceptance claim.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending actual served notice and record/manifest verification.",
+              "date": ""
+            },
+            "nextAction": "Keep174integration immutable. This175documents the already deployed game only; no new game receipt, binding or release. Separately reconcile the historical main Portfolio-tab description and captures through a clean reader-only build; preserve unrelated source edits. No next game release is authorised by this closeout."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Reviewed actual443asset+manifest and sixlive-case proof; independently checked five runtimeHTTP hashes, sevencommitted source bytes and frozen174receipt hash. Broader test limits retained.",
+            "records": [
+              "CE-CHANGE-20261120-175",
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer, reader-only closeout",
+            "acceptance": "Actual live notice/links and matching records; frozen174unchanged; no whole-reader or broad acceptance claim.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped reader/source review: Reviewed actual443asset+manifest and sixlive-case proof; independently checked five runtimeHTTP hashes, sevencommitted source bytes and frozen174receipt hash. Broader test limits retained.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Updated document links to explicit fictional student and teacher entries; supplied3D/2DMarket return checks preserve original run. No authenticated or physical-device acceptance inferred.",
+            "records": [
+              "CE-CHANGE-20261120-175",
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer, reader-only closeout",
+            "acceptance": "Actual live notice/links and matching records; frozen174unchanged; no whole-reader or broad acceptance claim.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped reader/source review: Updated document links to explicit fictional student and teacher entries; supplied3D/2DMarket return checks preserve original run. No authenticated or physical-device acceptance inferred.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Sanitised deployed revision and verified outcomes only. Raw logs, local paths, approval identifiers, real learner information and unrelated projects are excluded.",
+            "records": [
+              "CE-CHANGE-20261120-175",
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer, reader-only closeout",
+            "acceptance": "Actual live notice/links and matching records; frozen174unchanged; no whole-reader or broad acceptance claim.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped reader/source review: Sanitised deployed revision and verified outcomes only. Raw logs, local paths, approval identifiers, real learner information and unrelated projects are excluded.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "No old screenshots relabelled as current and no private test media published; existing main reader images retain their dated provenance.",
+            "records": [
+              "CE-CHANGE-20261120-175",
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer, reader-only closeout",
+            "acceptance": "Actual live notice/links and matching records; frozen174unchanged; no whole-reader or broad acceptance claim.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped reader/source review: No old screenshots relabelled as current and no private test media published; existing main reader images retain their dated provenance.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Existing explicit Blueprint/game publication authority covers factual reader closeout. Already completed game release is reported, not repeated; no next release authorised.",
+            "records": [
+              "CE-CHANGE-20261120-175",
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer, reader-only closeout",
+            "acceptance": "Actual live notice/links and matching records; frozen174unchanged; no whole-reader or broad acceptance claim.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped reader/source review: Existing explicit Blueprint/game publication authority covers factual reader closeout. Already completed game release is reported, not repeated; no next release authorised.",
+              "date": "2026-11-20"
+            }
+          }
+        ],
+        "projectChanges": {},
+        "relatedChangeIds": [
+          "CE-CHANGE-20261120-174"
+        ],
+        "deploymentEvidence": {
+          "gameCommit": "13080c85ee30712001199a03122ece196754e482",
+          "pagesRun": 44656742294,
+          "servedRuntimeHashes": 443,
+          "liveBrowserCases": 6,
+          "frozen174IntegrationSha256": "cfa054b55d770d2150897fec9e4912389efd81d8e38b7be783bccadefb3a5249",
+          "studentURL": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/dashboards/student.html?portfolio=initiative&context=gameplay&from=markets&publicInitiative=1",
+          "teacherURL": "https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/dashboards/teacher-portfolio-demo.html",
+          "sourceVerification": "FivechangedruntimeHTTPS hashes and sevencommitted source bytes independently rechecked; full443inventory/sixlivecases independently verified by release owner and reviewed here.",
+          "remainingReaderScope": "Main Phase1Portfolio-tab wording still contains the older Initiative-only description and dated13November captures. A one-literal correction is prepared separately; publishing it and refreshed current captures requires a clean reader-app build preserving unrelated dirty source. This bounded live notice does not claim the whole reader is refreshed.",
+          "gameReleasePerformedByThisChange": false
         }
       }
     ],
