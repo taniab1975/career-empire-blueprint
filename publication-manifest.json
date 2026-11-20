@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-20T02:08:34.396489+00:00",
+  "generatedAt": "2026-11-20T02:18:37.855076+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "4dc3c83ff5098187e2e3499761b7488da2b8ddd98cf7072204ebbdbb81105463",
+  "recordSha256": "7143ae4971c797a01233dd0e2d8c347818656df9cb97336b3b855bec4097a96b",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "4dc3c83ff5098187e2e3499761b7488da2b8ddd98cf7072204ebbdbb81105463"
+      "sha256": "7143ae4971c797a01233dd0e2d8c347818656df9cb97336b3b855bec4097a96b"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -2401,6 +2401,14 @@
       "sha256": "efd4ae2e8da016439518079372d69151bace5260d97c02eda5943dd5530011ba"
     },
     {
+      "path": "production/careers-archon-closer-board-source-review-20261120.html",
+      "sha256": "e2c06762e88c38b771c42be7db2a9bfca5be441629b14facc18fb7d1ffffef3d"
+    },
+    {
+      "path": "production/careers-archon-closer-board-source-review-20261120.md",
+      "sha256": "2b3eabf4fedd1b659a2d81b2d9c4a233007a4a4a518c6b997f44b54fef0b7c9f"
+    },
+    {
       "path": "production/careers-archon-source-review-20261120.html",
       "sha256": "2f9e15e38957f18d45a4334dff4356669635a69f6a76417f50845034c9001cf8"
     },
@@ -3461,7 +3469,7 @@
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
     }
   ],
-  "recordPublicationScope": "175reader-onlyactualPortfolio13080c8live notice/fictional links; preserve frozen174and all prior public records. No game release or new source binding.",
+  "recordPublicationScope": "176sanitisedArchoncloser-boarddescription/qualifiedtests and7normalexactbindings only; no private media/logs/paths/approvalIDs or game push.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload.",
   "sourceReview172": {
@@ -3499,5 +3507,13 @@
     "frozen174IntegrationSha256": "cfa054b55d770d2150897fec9e4912389efd81d8e38b7be783bccadefb3a5249",
     "mainReaderCopyCaptureSuccessorPending": true,
     "newGameReceiptRequired": false
+  },
+  "sourceReview176": {
+    "changeId": "CE-CHANGE-20261120-176",
+    "status": "ready-for-publication",
+    "pathCount": 7,
+    "sourceBase": "13080c85ee30712001199a03122ece196754e482",
+    "reader": "production/careers-archon-closer-board-source-review-20261120.html",
+    "runtimePublishedByThisChange": false
   }
 }
