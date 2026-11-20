@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-20T00:09:42.294766+00:00",
+  "generatedAt": "2026-11-20T01:43:34.764085+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "98bd5c836985a78bf8893de308b5f6cf832cb42e4a6f4fa1521d5e99aabb0457",
+  "recordSha256": "da271cbbafecd5108e9da2760db9ac065706a432678affeecdb333c2332ce991",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "98bd5c836985a78bf8893de308b5f6cf832cb42e4a6f4fa1521d5e99aabb0457"
+      "sha256": "da271cbbafecd5108e9da2760db9ac065706a432678affeecdb333c2332ce991"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -2789,6 +2789,14 @@
       "sha256": "95e2584988b7d0b630c1a7bc4bca6f7d081288b7b36286bb5654500a8629c130"
     },
     {
+      "path": "production/night-markets-portfolio-source-review-20261120.html",
+      "sha256": "cc4a68ee0c86f2104ffb9a8fb1c9d37f07cf44090133c55e2ab495cc5d5f2f99"
+    },
+    {
+      "path": "production/night-markets-portfolio-source-review-20261120.md",
+      "sha256": "d8f18c116de0f8506aae2a4135c3eb650dac297311c297fdffa3bceb8c04c6fc"
+    },
+    {
       "path": "production/opening-plan-20261001.html",
       "sha256": "8a5719154ea11f8c144fb93114deccc755ae81b31655f7293d604253eeb7c947"
     },
@@ -3453,7 +3461,7 @@
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
     }
   ],
-  "recordPublicationScope": "173sanitisedCareersArchonsupportingdescription/tests plus necessary26exactsourcebindings only; no private logs, background, student data, source code or game runtime uploaded.",
+  "recordPublicationScope": "174sanitisedNightMarketsPortfoliosummary/tests and7normalexactbindings only; no private logs/localpaths/approvalidentifiers/reallearnerdata/sourcecode or game push.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload.",
   "sourceReview172": {
@@ -3473,6 +3481,14 @@
     "pathCount": 26,
     "sourceBase": "e84667e04d8f2d4842b54b0f19c5c554a6954ee0",
     "reader": "production/careers-archon-source-review-20261120.html",
+    "runtimePublishedByThisChange": false
+  },
+  "sourceReview174": {
+    "changeId": "CE-CHANGE-20261120-174",
+    "status": "ready-for-publication",
+    "pathCount": 7,
+    "sourceBase": "ff33d1b1dc9dd3b6662cf3a6b36f993c17061317",
+    "reader": "production/night-markets-portfolio-source-review-20261120.html",
     "runtimePublishedByThisChange": false
   }
 }

@@ -39896,6 +39896,23 @@
             "production/careers-archon-source-review-20261120.html"
           ],
           "taniaAcceptance": "Owner authorised supporting publication and separate guarded game push; local test evidence does not establish classroom/device or general performance acceptance."
+        },
+        {
+          "id": "CE-CHANGE-20261120-174",
+          "date": "2026-11-20",
+          "title": "Night Markets Portfolio — supporting exact7source review",
+          "source": "Direct owner permission to update the Blueprint and then publish the bounded Night Markets Portfolio game successor; current coordinator instruction confirms supporting review first. Approval conversation/identifiers retained privately, not published.",
+          "owner": "Blueprint maintainer: supporting review only; existing coordinator: genuine receipt and game release",
+          "status": "Supporting exact7source review ready for publication; game release separate",
+          "rationale": "Publish owner-approved sanitised fictional Portfolio description/test outcomes and necessary exact7source bindings before separate guarded game release.",
+          "implementation": "Initiative opens first. Optional capability and subskill tags describe one chronological reflection. Four existing fictional examples are retained; one added student practice produces five unique chronological entries while separate teacher examples remain four. Student entry/view, fictional teacher review and3D/2DMarket returns are covered.",
+          "testing": "Reviewed sixfocused desktop/phone Portfolio browser cases,26focused unit tests,443staged asset hashes/111imports and standard source checks plus441unit tests/97files. Broad browser run retains13passes,7Admin/avatar failures and277not-run after interruption; no all-CI-green claim. FourfictionalPDFexports/eightpagerenders and desktop/phone views supplied. No physical-device/classroom, Safari, actual authenticated saving or live learner acceptance.",
+          "deployment": "No game push or receipt by Blueprint maintainer. Supporting review awaits actual public verification.",
+          "nextAction": "Verify actual supporting174document/record/manifest, then coordinator obtains genuine exact7-path receipt through unchanged guard and performs separately authorised guarded game publication with independent live verification. No game receipt or game push by Blueprint maintainer.",
+          "evidence": [
+            "production/night-markets-portfolio-source-review-20261120.html"
+          ],
+          "taniaAcceptance": "Supporting Blueprint publication and subsequent separate guarded game release authorised; no classroom/physical-device/real learner acceptance implied."
         }
       ],
       "sessionStart": [
@@ -110370,6 +110387,543 @@
           "timingPreservationSha256": "9b9235223138d9339a67ab54e00f82c71a7679015eaf28db9024f92ce1567240",
           "status": "Exact staged and working versions independently matched; source-only review, no game deployment.",
           "limits": "No private QA logs/paths/room identifiers published. Local tests do not establish production service, physical-touch/classroom, general performance or signed-in saving acceptance."
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261120-174",
+        "title": "Night Markets Portfolio — supporting exact7source review",
+        "types": [
+          "implementation",
+          "activity",
+          "visual",
+          "security",
+          "release",
+          "governance"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Publish owner-approved sanitised fictional Portfolio description/test outcomes and necessary exact7source bindings before separate guarded game release.",
+        "before": "Published game contains the existing Portfolio. The frozen candidate refines Initiative prominence and fictional demo review; no prior public admission of these exact7versions found.",
+        "after": "Initiative opens first. Optional capability and subskill tags describe one chronological reflection. Four existing fictional examples are retained; one added student practice produces five unique chronological entries while separate teacher examples remain four. Student entry/view, fictional teacher review and3D/2DMarket returns are covered.",
+        "source": "Direct owner permission to update the Blueprint and then publish the bounded Night Markets Portfolio game successor; current coordinator instruction confirms supporting review first. Approval conversation/identifiers retained privately, not published.",
+        "owner": "Blueprint maintainer: supporting review only; existing coordinator: genuine receipt and game release",
+        "nextAction": "Verify actual supporting174document/record/manifest, then coordinator obtains genuine exact7-path receipt through unchanged guard and performs separately authorised guarded game publication with independent live verification. No game receipt or game push by Blueprint maintainer.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "Supporting Blueprint source-reporting only: sanitised Night Markets Portfolio summary/tests and sevennormal exactbindings. No game push, private logs, student data, backend/Auth changes or unrelated work published.",
+          "rationale": "Sanitised documentary publication only; candidate fictional examples and optional tags remain distinct from real learner saving or teacher submission. No school readiness or security-control certification inferred.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Sanitised source-reporting only; no new data control or real learner data processing is introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "locations": "Sanitised source-reporting only; no new locations control or real learner data processing is introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "accessCountries": "Sanitised source-reporting only; no new accessCountries control or real learner data processing is introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "providers": "Sanitised source-reporting only; no new providers control or real learner data processing is introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "lifecycle": "Sanitised source-reporting only; no new lifecycle control or real learner data processing is introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "encryption": "Sanitised source-reporting only; no new encryption control or real learner data processing is introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "logging": "Sanitised source-reporting only; no new logging control or real learner data processing is introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "identity": "Sanitised source-reporting only; no new identity control or real learner data processing is introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "isolation": "Sanitised source-reporting only; no new isolation control or real learner data processing is introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "privacySafety": "Sanitised source-reporting only; no new privacySafety control or real learner data processing is introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "applicability": "Sanitised source-reporting only; no new applicability control or real learner data processing is introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "verification": "Reviewed sixfocused desktop/phone Portfolio browser cases,26focused unit tests,443staged asset hashes/111imports and standard source checks plus441unit tests/97files. Broad browser run retains13passes,7Admin/avatar failures and277not-run after interruption; no all-CI-green claim. FourfictionalPDFexports/eightpagerenders and desktop/phone views supplied. No physical-device/classroom, Safari, actual authenticated saving or live learner acceptance."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "Reviewed sixfocused desktop/phone Portfolio browser cases,26focused unit tests,443staged asset hashes/111imports and standard source checks plus441unit tests/97files. Broad browser run retains13passes,7Admin/avatar failures and277not-run after interruption; no all-CI-green claim. FourfictionalPDFexports/eightpagerenders and desktop/phone views supplied. No physical-device/classroom, Safari, actual authenticated saving or live learner acceptance."
+          ],
+          "reviewedBy": "Blueprint maintainer exact-source and documentary data-flow review",
+          "reviewedAt": "2026-11-20",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": "Explicit owner authority for bounded supporting Portfolio publication only; no institutional security approval or waiver.",
+          "architectureApproval": null,
+          "reviewScope": "Supporting Blueprint source-reporting only: sanitised Night Markets Portfolio summary/tests and sevennormal exactbindings. No game push, private logs, student data, backend/Auth changes or unrelated work published."
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "Current Start Here and game links retained; separate supporting review does not imply the new Portfolio candidate is already deployed.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Current Start Here and game links retained; separate supporting review does not imply the new Portfolio candidate is already deployed.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "174next action assigns genuine seven-path receipt and guarded game release to coordinator; previous game and unrelated priorities preserved.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: 174next action assigns genuine seven-path receipt and guarded game release to coordinator; previous game and unrelated priorities preserved.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "New174material describes exact7source review on current published game base; previous Portfolio and Archon records preserved without retroactive replacement.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: New174material describes exact7source review on current published game base; previous Portfolio and Archon records preserved without retroactive replacement.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Owner-authorised supporting publication follows exact-source/public-reader verification before normal receipt; no guard change, lock deletion or baseline reset.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Owner-authorised supporting publication follows exact-source/public-reader verification before normal receipt; no guard change, lock deletion or baseline reset.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Fresh public projection adds only174material/integration and sanitised document; existing public objects and curriculum equality checked.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Fresh public projection adds only174material/integration and sanitised document; existing public objects and curriculum equality checked.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Verify actual public supporting document and matching record/manifest before completion.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending actual public reader and served-file verification.",
+              "date": ""
+            },
+            "nextAction": "Verify actual supporting174document/record/manifest, then coordinator obtains genuine exact7-path receipt through unchanged guard and performs separately authorised guarded game publication with independent live verification. No game receipt or game push by Blueprint maintainer."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Sevenindex+working+frozen file modes/blobs/SHA independently matched; sixfocused browser,26focused units,441standard units and443hash111module results reviewed. Broad browser13pass/7fail/277not-run explicitly retained.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Sevenindex+working+frozen file modes/blobs/SHA independently matched; sixfocused browser,26focused units,441standard units and443hash111module results reviewed. Broad browser13pass/7fail/277not-run explicitly retained.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Initiative opens first; optional other capability/subskill tags describe the same reflection; chronological view lists each reflection once; student practice does not alter separate fictional teacher examples.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Initiative opens first; optional other capability/subskill tags describe the same reflection; chronological view lists each reflection once; student practice does not alter separate fictional teacher examples.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Public summary labels isolated fictional teacher examples, not actual teacher submission or authenticated learner review; four teacher examples remain separate from student practice.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Public summary labels isolated fictional teacher examples, not actual teacher submission or authenticated learner review; four teacher examples remain separate from student practice.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Supplied desktop/phone cases cover3Dandrenderer-free2DMarket return with the same run; real authenticated persistence, Safari and physical-device acceptance remain unverified.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Supplied desktop/phone cases cover3Dandrenderer-free2DMarket return with the same run; real authenticated persistence, Safari and physical-device acceptance remain unverified.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "No private screenshots, PDF exports, logs, paths or approval identifiers published; existing Blueprint images and videos preserved.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No private screenshots, PDF exports, logs, paths or approval identifiers published; existing Blueprint images and videos preserved.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Manifest retains442prior paths;439prior hashes unchanged,3intentional runtime replacements and1fictional teacher-demo page yield443entries. Only exact bindings are published, not game source/assets.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Manifest retains442prior paths;439prior hashes unchanged,3intentional runtime replacements and1fictional teacher-demo page yield443entries. Only exact bindings are published, not game source/assets.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "journey",
+            "disposition": "checked-unchanged",
+            "action": "Existing twelve-phase sequence and Market alternatives retained; this candidate refines Portfolio within the existing Initiative pathway.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Existing twelve-phase sequence and Market alternatives retained; this candidate refines Portfolio within the existing Initiative pathway.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "All197exact planner rows and source edition retained. Optional tags on one reflection neither duplicate curriculum evidence nor prove mastery.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: All197exact planner rows and source edition retained. Optional tags on one reflection neither duplicate curriculum evidence nor prove mastery.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "Fictional examples and anonymous practice are not assessed learner submissions. Existing year plan, assessment and evidence review remain unchanged.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Fictional examples and anonymous practice are not assessed learner submissions. Existing year plan, assessment and evidence review remain unchanged.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "No world economy, reward, progression or movement rules changed by the seven-file candidate; source-reporting publication makes no game-state change.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No world economy, reward, progression or movement rules changed by the seven-file candidate; source-reporting publication makes no game-state change.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "No campus place geometry, navigation layout or building interaction changes beyond the stated Portfolio entry/demo link and returns.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No campus place geometry, navigation layout or building interaction changes beyond the stated Portfolio entry/demo link and returns.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Supporting summary explains Initiative-first entry, single chronological reflection and isolated examples; no claim of full visual, classroom-device or general performance acceptance.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Supporting summary explains Initiative-first entry, single chronological reflection and isolated examples; no claim of full visual, classroom-device or general performance acceptance.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "No avatar models, rigs, clothing or staff-piece assets in the7-file scope; existing published appearance remains unchanged.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No avatar models, rigs, clothing or staff-piece assets in the7-file scope; existing published appearance remains unchanged.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Explicit owner approval covers supporting Night Markets Portfolio review and later separate guarded game release. Unrelated projects, CI, auth and backend are outside this publication.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Explicit owner approval covers supporting Night Markets Portfolio review and later separate guarded game release. Unrelated projects, CI, auth and backend are outside this publication.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "security",
+            "disposition": "updated",
+            "action": "Source-reporting review distinguishes isolated fictional demo/student practice from real authenticated saving; no backend/Auth change or institutional security approval. Real learner data never inspected or published.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Source-reporting review distinguishes isolated fictional demo/student practice from real authenticated saving; no backend/Auth change or institutional security approval. Real learner data never inspected or published.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Sanitised public feature/test summary and necessary exact7bindings only. Private logs, local paths, approval identifiers, conversations and background excluded.",
+            "records": [
+              "CE-CHANGE-20261120-174"
+            ],
+            "owner": "Blueprint maintainer for supporting review; coordinator for game release",
+            "acceptance": "Exact scoped source/reader evidence and explicit limits, preserving unrelated records and student-data boundaries.",
+            "evidence": [
+              "production/night-markets-portfolio-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Sanitised public feature/test summary and necessary exact7bindings only. Private logs, local paths, approval identifiers, conversations and background excluded.",
+              "date": "2026-11-20"
+            }
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "dashboards/dashboard.js": "100644:312233b879e9c17618f756246ccb2244b162ddca",
+            "dashboards/student.html": "100644:2c5c5583eae517936d7a650bf85398c90409f601",
+            "playable-3d/index.html": "100644:b9ab48c1e060b802210c7f86e2d166e42be81007",
+            "dashboards/teacher-portfolio-demo.html": "100644:28b121e1814038c34a0bbb902c8a2d9f1b956511",
+            "tests/unit/market-portfolio-demo.test.mjs": "100644:7c120e6c6c41c4358da4713eb151395ab695c066",
+            "tests/e2e/market-portfolio-demo.spec.js": "100644:ef070b255eb6ee3edd2c1eb8a37f04b92e9725cf",
+            "playable-3d/release-manifest.json": "100644:96bc6c442ca65eb04c772c67d9d7452f2b7e0115"
+          }
+        },
+        "candidateSource": {
+          "base": "ff33d1b1dc9dd3b6662cf3a6b36f993c17061317",
+          "registeredBaseline": "d3544e129682381d397417c08bed0242d5e58d88",
+          "pathCount": 7,
+          "files": [
+            {
+              "path": "dashboards/dashboard.js",
+              "binding": "100644:312233b879e9c17618f756246ccb2244b162ddca",
+              "sha256": "f70385fe9c31d36c43ec2c289a98c8cd6744306e09d0e2f934da658def4e69ef",
+              "bytes": 348802
+            },
+            {
+              "path": "dashboards/student.html",
+              "binding": "100644:2c5c5583eae517936d7a650bf85398c90409f601",
+              "sha256": "2934be29983ba5f8142099fc9d93694b3ba7632a3430b84eb5ee5473809968e8",
+              "bytes": 10625
+            },
+            {
+              "path": "playable-3d/index.html",
+              "binding": "100644:b9ab48c1e060b802210c7f86e2d166e42be81007",
+              "sha256": "528060ed34cfff6626c0d3d5864749bf6cb64f70c3573f55a8573b8657baf11e",
+              "bytes": 14720
+            },
+            {
+              "path": "dashboards/teacher-portfolio-demo.html",
+              "binding": "100644:28b121e1814038c34a0bbb902c8a2d9f1b956511",
+              "sha256": "fc46ab9fdbb77509cc0efbe9843642f430fe890f5aaf662ff97a4ecbcf4f1ac2",
+              "bytes": 3520
+            },
+            {
+              "path": "tests/unit/market-portfolio-demo.test.mjs",
+              "binding": "100644:7c120e6c6c41c4358da4713eb151395ab695c066",
+              "sha256": "9151f57cd59a8f484b67c4f12e50b270ae5d348664824cb75975730cfee45f0a",
+              "bytes": 4118
+            },
+            {
+              "path": "tests/e2e/market-portfolio-demo.spec.js",
+              "binding": "100644:ef070b255eb6ee3edd2c1eb8a37f04b92e9725cf",
+              "sha256": "197826bf90ef3a9368b77ab43f1b26cf5149d16ba0a657e7687abaca11950321",
+              "bytes": 8877
+            },
+            {
+              "path": "playable-3d/release-manifest.json",
+              "binding": "100644:96bc6c442ca65eb04c772c67d9d7452f2b7e0115",
+              "sha256": "71aca061512d35f7efdf9fdb963b1e6e38d653893b98c0367b8f9e076de8232b",
+              "bytes": 68262
+            }
+          ],
+          "exactInventorySha256": "24a3d1775983101b8c0bb4e5a3b282cce7cb488f087a950cf1fe70ed3bcd030f",
+          "patchSha256": "3b54ff9ecf290d3ddbac38cef6d836a6ff5343ace92ea44904abd74eb39caf5c",
+          "status": "Sevenexact staged+working+frozen versions matched; game release separate.",
+          "limits": "Local fictional/demo evidence only. Broad browser run not all green; real authenticated saving, Safari, physical-device/classroom and owner live acceptance remain separate."
         }
       }
     ],
