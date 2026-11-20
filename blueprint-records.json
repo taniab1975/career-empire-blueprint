@@ -39986,12 +39986,12 @@
           "title": "Teacher reorder focus visibility — supporting exact5 source review",
           "source": "Explicit owner approval for existing-task background checks, supporting Blueprint summary and conditional narrow teacher-view release; subsequent draggable-header request. Current teacher base and exact5bindings independently verified; qualification is teacher-specific and startup failure remains open. Private approval references/background remain local.",
           "owner": "Blueprint maintainer: supporting review only; existing sole game integrator: genuine receipt and release",
-          "status": "Supporting exact5source review ready for publication; game release separate",
+          "status": "Supporting exact5source review published and verified; game release separate",
           "rationale": "Publish independently reviewed five source bindings for moved-control visibility, retaining failed startup qualification as an open separate boundary.",
           "implementation": "Candidate adds eight horizontal-scroll lines after reorder, two shared script cache references, necessary manifest hashes and a browser regression. Focused teacher checks pass; unchanged desktop3Dstartup failure remains open and is not qualified by this review.",
           "testing": "Focused background Chrome6cases/72right-leftmoves across1280/390/320pass visible-focus rectangles after every move. Four-width matrix/native drag/edge-scroll/sticky/reset/nested scroll and synthetic auth isolation pass; nativewheel1440/390pass. Source446units98files/coverage and446hash111imports pass. Final unchanged navigation5pass1desktop3Dstartupfail; fresh targeted desktop3Dfailed again at unchanged data-market-stage before teacher opens. Earlier published base also exhibits first-view failure; no startup fix/clean6pass/performance acceptance. Broad300case CI interrupted210seconds/SIGTERM220.5without final summary; noallgreen/Safari/physical/classroom/authenticatedsaving/owneracceptance.",
-          "deployment": "No game receipt/push by Blueprint maintainer. Supporting review awaits actual served verification.",
-          "nextAction": "Preserve frozen177and178exactly. After actual supporting179reader/hash verification sole existing game owner rechecks exact5/base, creates genuine receipt with unchanged guard, then narrow conditional release/live focus verification. Startup failure remains open; no teacher or startup acceptance inferred from old activeElement-only check. Freeze179after receipt.",
+          "deployment": "Supporting review verified at 60a679bc4d256c2b719384a3c1e886cd0acbcaeb. No game receipt/commit/push by Blueprint maintainer.",
+          "nextAction": "Supporting179review published and independently verified. Sole game integrator rechecks exact5/base, creates genuine receipt through unchanged guard, then conditional guarded game release and live verification. Freeze179integration after receipt; no game action by Blueprint maintainer.",
           "evidence": [
             "production/teacher-focus-visible-source-review-20261120.html"
           ],
@@ -112731,13 +112731,13 @@
           "release",
           "governance"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Publish independently reviewed five source bindings for moved-control visibility, retaining failed startup qualification as an open separate boundary.",
         "before": "Published97c8ac0retains DOM focus after a reorder but on390the focused button can lie outside the visible viewport beside pinned Student.177and178remain historical, not corrected or overwritten.",
         "after": "Candidate adds eight horizontal-scroll lines after reorder, two shared script cache references, necessary manifest hashes and a browser regression. Focused teacher checks pass; unchanged desktop3Dstartup failure remains open and is not qualified by this review.",
         "source": "Explicit owner approval for existing-task background checks, supporting Blueprint summary and conditional narrow teacher-view release; subsequent draggable-header request. Current teacher base and exact5bindings independently verified; qualification is teacher-specific and startup failure remains open. Private approval references/background remain local.",
         "owner": "Blueprint maintainer: supporting review only; existing sole game integrator: genuine receipt and release",
-        "nextAction": "Preserve frozen177and178exactly. After actual supporting179reader/hash verification sole existing game owner rechecks exact5/base, creates genuine receipt with unchanged guard, then narrow conditional release/live focus verification. Startup failure remains open; no teacher or startup acceptance inferred from old activeElement-only check. Freeze179after receipt.",
+        "nextAction": "Supporting179review published and independently verified. Sole game integrator rechecks exact5/base, creates genuine receipt through unchanged guard, then conditional guarded game release and live verification. Freeze179integration after receipt; no game action by Blueprint maintainer.",
         "securityPrivacyImpact": {
           "baseline": "WA-DOE-v4c",
           "waQuestionIds": [
@@ -112906,8 +112906,8 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Verify actual sanitized public summary and matching record/manifest before completion.",
+            "disposition": "updated",
+            "action": "Actual sanitized shared teacher matrix summary and matching public records/manifest independently verified.",
             "records": [
               "CE-CHANGE-20261120-179"
             ],
@@ -112917,11 +112917,10 @@
               "production/teacher-focus-visible-source-review-20261120.html"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Pending actual public reader and served-file verification.",
-              "date": ""
-            },
-            "nextAction": "Preserve frozen177and178exactly. After actual supporting179reader/hash verification sole existing game owner rechecks exact5/base, creates genuine receipt with unchanged guard, then narrow conditional release/live focus verification. Startup failure remains open; no teacher or startup acceptance inferred from old activeElement-only check. Freeze179after receipt."
+              "result": "passed",
+              "method": "All supporting served-file hashes and actual public reader verified at 60a679bc4d256c2b719384a3c1e886cd0acbcaeb; prior integrations preserved.",
+              "date": "2026-11-20"
+            }
           },
           {
             "surface": "build",
