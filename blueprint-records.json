@@ -39953,12 +39953,12 @@
           "title": "Teacher capability matrix correction — supporting exact9source review",
           "source": "Explicit owner approval for existing-task background checks, supporting Blueprint summary and conditional narrow teacher-view release; subsequent draggable-header request. Verified current Archon base clears earlier sequencing hold. Private approval references/background remain local.",
           "owner": "Blueprint maintainer: supporting review only; existing sole game integrator: genuine receipt and release",
-          "status": "Supporting exact9source review ready for publication; game release separate",
+          "status": "Supporting exact9source review published and verified; game release separate",
           "rationale": "Publish independently reviewed exact9source bindings and sanitized shared teacher matrix/demo summary before separate conditional guarded game release.",
           "implementation": "Public demo shows4fictional learners,8synthetic reflections and7canonical capabilities beginning with Initiative; one reflection counts once overall and appears in relevant cells. Drag/arrows/reset, fixed Student and nested scrolling supported. Real renderer retains existing authorized normalized inputs/helpers/scopes and memory-only order. Only sanitized public-demo order preference can persist. Student Portfolio/Archon/Markets/auth/backend/styles preserved.",
           "testing": "Reviewed final backgroundChrome1440/1280/390/320matrix, native drag/edge-scroll, touch/button/keyboard/reset/focus/sticky/nested-scroll/isolation and synthetic signed-out/authorized-wrapper checks. Final6student3D/2DMarket/PDF/return cases pass; initial concurrent5pass/1avatar-download failure retained, unchanged code then6alone. Unchanged npmci source+446units/98files+coverage passed; broad1inheritedAdminfail/1interrupted/295not-run retained.446staged assethashes/111imports pass. No real accounts/sessions/API/learner data, all-CI-green, Safari, physical/classroom/authenticated-saving or owner acceptance claim.",
-          "deployment": "No game receipt/push by Blueprint maintainer. Supporting review awaits actual served verification.",
-          "nextAction": "Verify actual public177reader/record/manifest; sole existing game integrator rechecks currentbase/exact9, creates genuine receipt with unchanged guard, then conditional guarded game push and independent live verification. Freeze177integration after receipt. No game receipt or push by Blueprint maintainer.",
+          "deployment": "Supporting review verified at fadc82dacc27bfc6e5c6d279721b1d1a9965e39b. No game receipt/commit/push by Blueprint maintainer.",
+          "nextAction": "Supporting177review published and independently verified. Sole game integrator rechecks exact9/base, creates genuine receipt through unchanged guard, then conditional guarded game release and live verification. Freeze177integration after receipt; no game action by Blueprint maintainer.",
           "evidence": [
             "production/teacher-capability-matrix-source-review-20261120.html"
           ],
@@ -111811,13 +111811,13 @@
           "release",
           "governance"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Publish independently reviewed exact9source bindings and sanitized shared teacher matrix/demo summary before separate conditional guarded game release.",
         "before": "Published game08da8f9retains previous teacher demonstration presentation. Current nine-file correction shares the original authenticated teacher matrix presentation with a static fictional demonstration.",
         "after": "Public demo shows4fictional learners,8synthetic reflections and7canonical capabilities beginning with Initiative; one reflection counts once overall and appears in relevant cells. Drag/arrows/reset, fixed Student and nested scrolling supported. Real renderer retains existing authorized normalized inputs/helpers/scopes and memory-only order. Only sanitized public-demo order preference can persist. Student Portfolio/Archon/Markets/auth/backend/styles preserved.",
         "source": "Explicit owner approval for existing-task background checks, supporting Blueprint summary and conditional narrow teacher-view release; subsequent draggable-header request. Verified current Archon base clears earlier sequencing hold. Private approval references/background remain local.",
         "owner": "Blueprint maintainer: supporting review only; existing sole game integrator: genuine receipt and release",
-        "nextAction": "Verify actual public177reader/record/manifest; sole existing game integrator rechecks currentbase/exact9, creates genuine receipt with unchanged guard, then conditional guarded game push and independent live verification. Freeze177integration after receipt. No game receipt or push by Blueprint maintainer.",
+        "nextAction": "Supporting177review published and independently verified. Sole game integrator rechecks exact9/base, creates genuine receipt through unchanged guard, then conditional guarded game release and live verification. Freeze177integration after receipt; no game action by Blueprint maintainer.",
         "securityPrivacyImpact": {
           "baseline": "WA-DOE-v4c",
           "waQuestionIds": [
@@ -111986,8 +111986,8 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Verify actual sanitized public summary and matching record/manifest before completion.",
+            "disposition": "updated",
+            "action": "Actual sanitized shared teacher matrix summary and matching public records/manifest independently verified.",
             "records": [
               "CE-CHANGE-20261120-177"
             ],
@@ -111997,11 +111997,10 @@
               "production/teacher-capability-matrix-source-review-20261120.html"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Pending actual public reader and served-file verification.",
-              "date": ""
-            },
-            "nextAction": "Verify actual public177reader/record/manifest; sole existing game integrator rechecks currentbase/exact9, creates genuine receipt with unchanged guard, then conditional guarded game push and independent live verification. Freeze177integration after receipt. No game receipt or push by Blueprint maintainer."
+              "result": "passed",
+              "method": "All supporting served-file hashes and actual public reader verified at fadc82dacc27bfc6e5c6d279721b1d1a9965e39b; prior integrations preserved.",
+              "date": "2026-11-20"
+            }
           },
           {
             "surface": "build",
