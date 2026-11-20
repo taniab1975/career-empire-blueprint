@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-20T02:04:05.106227+00:00",
+  "generatedAt": "2026-11-20T02:08:34.396489+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "938d461af5ac84d6042cde2d5c5a167df8de275037914c95e82c471f7831b0e7",
+  "recordSha256": "4dc3c83ff5098187e2e3499761b7488da2b8ddd98cf7072204ebbdbb81105463",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "938d461af5ac84d6042cde2d5c5a167df8de275037914c95e82c471f7831b0e7"
+      "sha256": "4dc3c83ff5098187e2e3499761b7488da2b8ddd98cf7072204ebbdbb81105463"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -3493,7 +3493,7 @@
   },
   "readerCloseout175": {
     "changeId": "CE-CHANGE-20261120-175",
-    "status": "ready-for-publication",
+    "status": "complete",
     "gameCommit": "13080c85ee30712001199a03122ece196754e482",
     "reader": "production/night-markets-portfolio-source-review-20261120.html",
     "frozen174IntegrationSha256": "cfa054b55d770d2150897fec9e4912389efd81d8e38b7be783bccadefb3a5249",

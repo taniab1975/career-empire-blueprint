@@ -39920,11 +39920,11 @@
           "title": "Night Markets Portfolio live release notice and reader closeout",
           "source": "Existing explicit owner Blueprint and game publication approval; authorised Portfolio integrator supplies verified live closeout and requests sanitised reader reconciliation with frozen174preserved. Private correspondence and raw evidence not published.",
           "owner": "Blueprint maintainer: reader-only live notice; existing game integrator: completed13080c8release",
-          "status": "Live notice ready for publication; historical main-reader copy/capture successor pending",
+          "status": "Live Portfolio notice published and verified; main-reader copy/captures remain separately pending",
           "rationale": "Reconcile actual verified Portfolio deployment in a sanitised live notice while preserving frozen174receipt coverage and unrelated reader work.",
           "implementation": "Live Portfolio notice links the fictional student demonstration and separate teacher examples, records sixactual live desktop/phonechecks and443runtime hashes, and preserves all test limits.174integration stays byte-for-byte unchanged; remaining main-reader copy/capture scope disclosed separately.",
           "testing": "Existing release owner reports normal genuine receipt/check/pre-push passed; actual game13080c8Pages44656742294succeeded. Reviewed443served runtime hashes plusmanifest and sixactual live desktop1280/phone390cases. Independently rechecked5changed runtime files overHTTPS and all7committed source bytes against174; actual receipt integration hash matches frozen174. No backend attempts/page errors or student/teacherStorage calls in supplied live fictional cases. Local broad13pass7Admin-avatarfail277not-run and remote software-browser failures retained; no all-green/Safari/physical/classroom/authenticated-saving/owner-acceptance claim.",
-          "deployment": "Reports already deployed13080c8; no game action by this closeout. Reader notice awaits public verification.",
+          "deployment": "Reader notice verified at 8bdf8e6a45b1989bb9f5b36b0fe8a8e974f24cbf. Already published game13080c8not modified or repushed;174frozen.",
           "nextAction": "Keep174integration immutable. This175documents the already deployed game only; no new game receipt, binding or release. Separately reconcile the historical main Portfolio-tab description and captures through a clean reader-only build; preserve unrelated source edits. No next game release is authorised by this closeout.",
           "evidence": [
             "production/night-markets-portfolio-source-review-20261120.html"
@@ -110948,7 +110948,7 @@
           "release",
           "governance"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Reconcile actual verified Portfolio deployment in a sanitised live notice while preserving frozen174receipt coverage and unrelated reader work.",
         "before": "174supporting document describes a separate future guarded game step; game owner has now independently verified13080c8live. Main historical Portfolio-tab copy/captures remain dated.",
         "after": "Live Portfolio notice links the fictional student demonstration and separate teacher examples, records sixactual live desktop/phonechecks and443runtime hashes, and preserves all test limits.174integration stays byte-for-byte unchanged; remaining main-reader copy/capture scope disclosed separately.",
@@ -111108,8 +111108,8 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Verify actual updated public live notice and matching record/manifest before completion.",
+            "disposition": "updated",
+            "action": "Updated actual live Portfolio notice and matching public records/manifest verified;174receipt hash unchanged.",
             "records": [
               "CE-CHANGE-20261120-175",
               "CE-CHANGE-20261120-174"
@@ -111120,11 +111120,10 @@
               "production/night-markets-portfolio-source-review-20261120.html"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Pending actual served notice and record/manifest verification.",
-              "date": ""
-            },
-            "nextAction": "Keep174integration immutable. This175documents the already deployed game only; no new game receipt, binding or release. Separately reconcile the historical main Portfolio-tab description and captures through a clean reader-only build; preserve unrelated source edits. No next game release is authorised by this closeout."
+              "result": "passed",
+              "method": "Verified served closeout files and actual public reader at 8bdf8e6a45b1989bb9f5b36b0fe8a8e974f24cbf; frozen174preserved.",
+              "date": "2026-11-20"
+            }
           },
           {
             "surface": "build",
