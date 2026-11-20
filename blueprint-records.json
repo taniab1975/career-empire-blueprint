@@ -39970,11 +39970,11 @@
           "title": "Teacher capability matrix verified live — reader closeout",
           "source": "Existing explicit owner Blueprint and game publication approval; authorised teacher release integrator supplies verified live closeout and requests sanitised reader reconciliation with frozen177preserved. Private correspondence and raw evidence not published.",
           "owner": "Blueprint maintainer: reader-only live notice; existing game integrator: completed97c8ac0release",
-          "status": "Live notice ready for publication; no broad reader cleanup",
+          "status": "Live teacher matrix summary published and verified; broader reader cleanup remains separate",
           "rationale": "Reconcile verified live teacher matrix release in the existing sanitized summary while preserving frozen177and unrelated reader work.",
           "implementation": "Live teacher matrix summary links the four-fictional-learner demonstration, documents drag/arrows/reset and qualified live checks.177integration and all earlier records preserved exactly.",
           "testing": "Game owner genuine177receipt/check/prepush passed; independently confirmed game97c8ac0and Pages44664564964success. Reviewed446actual served runtime hashes plusmanifest, matrix1440/1280/390/320native drag/cues/edge-scroll/arrows/touch/keyboard/focus/reset/sticky/nested-scroll/preference checks, native wheel1440/390. Sixunique student/Market/PDF/return cases covered across passing runs: initial4pass2timeouts retained, fresh targeted desktop/phone pass without source edits; no performance acceptance. Local446units98files/coverage pass; broad1inheritedAdminfail1interrupted295notrun and remote software-browser failures retained. No realdata/API/foreground/allgreen/Safari/physical/classroom/authenticatedsaving/owneracceptance.",
-          "deployment": "Reports already deployed97c8ac0; no game action by this closeout. Reader notice awaits public verification.",
+          "deployment": "Reader notice verified at 0fefdf72da1a65f3abf5c519b0596544a1718573. Already published game97c8ac0not modified or repushed;177frozen.",
           "nextAction": "Keep177receipt-bound integration immutable.178is factual reader-only closeout of an already completed game release. No new sourcebinding, receipt or next game release; no broad Portfolio/reader cleanup.",
           "evidence": [
             "production/teacher-capability-matrix-source-review-20261120.html"
@@ -112393,7 +112393,7 @@
           "release",
           "governance"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Reconcile verified live teacher matrix release in the existing sanitized summary while preserving frozen177and unrelated reader work.",
         "before": "177supporting document describes a separate future guarded game step; game owner has now independently verified97c8ac0live. No broader reader/capture cleanup included.",
         "after": "Live teacher matrix summary links the four-fictional-learner demonstration, documents drag/arrows/reset and qualified live checks.177integration and all earlier records preserved exactly.",
@@ -112573,8 +112573,8 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Verify actual updated public live notice and matching record/manifest before completion.",
+            "disposition": "updated",
+            "action": "Updated actual live teacher matrix summary and matching public records/manifest verified;177receipt hash unchanged.",
             "records": [
               "CE-CHANGE-20261120-178",
               "CE-CHANGE-20261120-177"
@@ -112585,11 +112585,10 @@
               "production/teacher-capability-matrix-source-review-20261120.html"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Pending actual served notice and record/manifest verification.",
-              "date": ""
-            },
-            "nextAction": "Keep177receipt-bound integration immutable.178is factual reader-only closeout of an already completed game release. No new sourcebinding, receipt or next game release; no broad Portfolio/reader cleanup."
+              "result": "passed",
+              "method": "Verified served closeout files and actual public reader at 0fefdf72da1a65f3abf5c519b0596544a1718573; frozen177preserved.",
+              "date": "2026-11-20"
+            }
           },
           {
             "surface": "build",

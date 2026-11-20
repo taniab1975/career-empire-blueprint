@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-20T03:11:49.434069+00:00",
+  "generatedAt": "2026-11-20T03:14:24.506436+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "4696cb048885e18c95807d1d11686e3110d5f9b7871878ecd2b49b3662790d09",
+  "recordSha256": "f9de319981d80f7a242a6d4847fe6015ed70408325e7cfabdb20439235454ba9",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "4696cb048885e18c95807d1d11686e3110d5f9b7871878ecd2b49b3662790d09"
+      "sha256": "f9de319981d80f7a242a6d4847fe6015ed70408325e7cfabdb20439235454ba9"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -3534,7 +3534,7 @@
   },
   "readerCloseout178": {
     "changeId": "CE-CHANGE-20261120-178",
-    "status": "ready-for-publication",
+    "status": "complete",
     "gameCommit": "97c8ac00cb8eb6dafe9a0454a89eedb83004e9d0",
     "reader": "production/teacher-capability-matrix-source-review-20261120.html",
     "frozen177IntegrationSha256": "c3770238e9229dfcaef70c3df6fbd9dc8af20bdcb442536cda7dba7e8cf7b4d7",
