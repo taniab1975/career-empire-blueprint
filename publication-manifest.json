@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-20T03:32:22.533246+00:00",
+  "generatedAt": "2026-11-20T03:43:03.781252+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "ef85e4aa4fdaf4c62c283b52ddba0a8189c0906044a9b0f7aa78ec616c46a2e6",
+  "recordSha256": "d28f00085635762ad517fc495276dda099a61ee86d21a9f33297c0556f69bd1c",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "ef85e4aa4fdaf4c62c283b52ddba0a8189c0906044a9b0f7aa78ec616c46a2e6"
+      "sha256": "d28f00085635762ad517fc495276dda099a61ee86d21a9f33297c0556f69bd1c"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -2409,6 +2409,14 @@
       "sha256": "2b3eabf4fedd1b659a2d81b2d9c4a233007a4a4a518c6b997f44b54fef0b7c9f"
     },
     {
+      "path": "production/careers-archon-free-look-source-review-20261120.html",
+      "sha256": "f5c551be5575bff3da3f5fd76939845d8def53e55df65a378d62e759d0d6150b"
+    },
+    {
+      "path": "production/careers-archon-free-look-source-review-20261120.md",
+      "sha256": "1e4dd7cae80b5625509cf0bd14e81a834ef6ea3080c34ef1b6e7fec1d2758acc"
+    },
+    {
       "path": "production/careers-archon-source-review-20261120.html",
       "sha256": "2f9e15e38957f18d45a4334dff4356669635a69f6a76417f50845034c9001cf8"
     },
@@ -3485,7 +3493,7 @@
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
     }
   ],
-  "recordPublicationScope": "179sanitizedsharedteacher-matrixsummary/qualifiedtests and5normalexactbindings only; no private logs/paths/approvalIDs/realdata/sourcebackups or game push.",
+  "recordPublicationScope": "180sanitisedArchonfree-lookdescription/qualifiedtests and6normalexactbindings only; no private media/logs/paths/approvalIDs or game push.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload.",
   "sourceReview172": {
@@ -3555,6 +3563,14 @@
     "pathCount": 5,
     "sourceBase": "97c8ac00cb8eb6dafe9a0454a89eedb83004e9d0",
     "reader": "production/teacher-focus-visible-source-review-20261120.html",
+    "runtimePublishedByThisChange": false
+  },
+  "sourceReview180": {
+    "changeId": "CE-CHANGE-20261120-180",
+    "status": "ready-for-publication",
+    "pathCount": 6,
+    "sourceBase": "97c8ac00cb8eb6dafe9a0454a89eedb83004e9d0",
+    "reader": "production/careers-archon-free-look-source-review-20261120.html",
     "runtimePublishedByThisChange": false
   }
 }

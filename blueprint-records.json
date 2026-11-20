@@ -39996,6 +39996,23 @@
             "production/teacher-focus-visible-source-review-20261120.html"
           ],
           "taniaAcceptance": "Conditional narrow publication authorised; synthetic tests do not establish real-user/classroom/security or all-CI-green acceptance."
+        },
+        {
+          "id": "CE-CHANGE-20261120-180",
+          "date": "2026-11-20",
+          "title": "Careers Archon free-look camera — exact6 supporting source review",
+          "source": "Explicit authenticated owner approval for background checks, supporting Blueprint summary and conditional narrow live update after tests pass; existing Archon owner retains sole game push. Private approval references/background remain local.",
+          "owner": "Blueprint maintainer: supporting review only; existing Archon owner: exact receipt and game release",
+          "status": "Supporting exact6source review ready for publication; game release separate",
+          "rationale": "Publish scoped camera behavior/test qualification and exact six bindings before separate guarded game release.",
+          "implementation": "Camera aim separates from position: scroll looks, drag orbits, Shift-drag/Lookaround aim in place; pinch/CtrlCmdwheel/rail zoom; Reset restores close view. Broader bounded promenade orbit and motion input guard; standalone art/rules/teacher/Portfolio retained.",
+          "testing": "Sixfocused units incl10aspect firstframe/frustum, orbitbounds/yawpitch/wheel normalization/promenadefloor pass. Reviewed actual backgroundnativeWebGL1280/390/320bothseats;56legal perimeter rayclicktargets; look/orbit/zoom/reset/keyboard/touchpinch/cancel/tapmove;motioninputguard/standaloneart pass.446stagedhashes111imports pass. Synthetic state only/no external room/backend writes/realdata/foreground. No fullsuite/sourcecheck/CI, physical/classroom/productionservice/generalperformance qualification.",
+          "deployment": "No game push/receipt by Blueprint maintainer. Supporting summary awaits actual public verification.",
+          "nextAction": "Verify actual180publicreader/record/manifest; existingArchonowner rechecks exact6/currentbase then genuine receipt/unchangedguard/cameraonlyrelease and independentliveverification. Preserve all prior teacher/Portfolio records and frozen integrations. No game action by Blueprint maintainer or nextrelease.",
+          "evidence": [
+            "production/careers-archon-free-look-source-review-20261120.html"
+          ],
+          "taniaAcceptance": "Conditional narrow publication authorised; synthetic test evidence is not full-CI, production-room, physical-device/classroom or general-performance acceptance."
         }
       ],
       "sessionStart": [
@@ -113260,6 +113277,529 @@
           "patchSha256": "ee707840f4a13ba4d0901d294c9a9ac79f8be84492efea86f844e3c1f4713d92",
           "status": "Five exact index+working+frozen bytes/modes/blobs independently matched; separate game release required.",
           "limits": "Synthetic isolation/browser proof only; broad CI failures retained and no real-account/physical/classroom/security-certification claim."
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261120-180",
+        "title": "Careers Archon free-look camera — exact6 supporting source review",
+        "types": [
+          "implementation",
+          "activity",
+          "visual",
+          "security",
+          "release",
+          "governance"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Publish scoped camera behavior/test qualification and exact six bindings before separate guarded game release.",
+        "before": "Published97c8ac0shared board has tighter orbit and ordinary wheel zoom; free-look candidate is not live.",
+        "after": "Camera aim separates from position: scroll looks, drag orbits, Shift-drag/Lookaround aim in place; pinch/CtrlCmdwheel/rail zoom; Reset restores close view. Broader bounded promenade orbit and motion input guard; standalone art/rules/teacher/Portfolio retained.",
+        "source": "Explicit authenticated owner approval for background checks, supporting Blueprint summary and conditional narrow live update after tests pass; existing Archon owner retains sole game push. Private approval references/background remain local.",
+        "owner": "Blueprint maintainer: supporting review only; existing Archon owner: exact receipt and game release",
+        "nextAction": "Verify actual180publicreader/record/manifest; existingArchonowner rechecks exact6/currentbase then genuine receipt/unchangedguard/cameraonlyrelease and independentliveverification. Preserve all prior teacher/Portfolio records and frozen integrations. No game action by Blueprint maintainer or nextrelease.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "Supporting exact6source review for CareersArchoncamera free-look/touch controls only. Sanitized description/tests and necessary bindings; no gamepush/private logs/screenshots/paths/approvalIDs/learner or roomdata/sourcebackups.",
+          "rationale": "Documentary supporting publication only. Synthetic response-only camera/layout QA does not establish production backend, institutional privacy or real learner acceptance; no product/security settings changed here.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Sanitised source-reporting only; no new data control or real learner-data processing introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "locations": "Sanitised source-reporting only; no new locations control or real learner-data processing introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "accessCountries": "Sanitised source-reporting only; no new accessCountries control or real learner-data processing introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "providers": "Sanitised source-reporting only; no new providers control or real learner-data processing introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "lifecycle": "Sanitised source-reporting only; no new lifecycle control or real learner-data processing introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "encryption": "Sanitised source-reporting only; no new encryption control or real learner-data processing introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "logging": "Sanitised source-reporting only; no new logging control or real learner-data processing introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "identity": "Sanitised source-reporting only; no new identity control or real learner-data processing introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "isolation": "Sanitised source-reporting only; no new isolation control or real learner-data processing introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "privacySafety": "Sanitised source-reporting only; no new privacySafety control or real learner-data processing introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "applicability": "Sanitised source-reporting only; no new applicability control or real learner-data processing introduced by this Blueprint publication. Existing production acceptance remains separate.",
+            "verification": "Sixfocused units incl10aspect firstframe/frustum, orbitbounds/yawpitch/wheel normalization/promenadefloor pass. Reviewed actual backgroundnativeWebGL1280/390/320bothseats;56legal perimeter rayclicktargets; look/orbit/zoom/reset/keyboard/touchpinch/cancel/tapmove;motioninputguard/standaloneart pass.446stagedhashes111imports pass. Synthetic state only/no external room/backend writes/realdata/foreground. No fullsuite/sourcecheck/CI, physical/classroom/productionservice/generalperformance qualification."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "Sixfocused units incl10aspect firstframe/frustum, orbitbounds/yawpitch/wheel normalization/promenadefloor pass. Reviewed actual backgroundnativeWebGL1280/390/320bothseats;56legal perimeter rayclicktargets; look/orbit/zoom/reset/keyboard/touchpinch/cancel/tapmove;motioninputguard/standaloneart pass.446stagedhashes111imports pass. Synthetic state only/no external room/backend writes/realdata/foreground. No fullsuite/sourcecheck/CI, physical/classroom/productionservice/generalperformance qualification."
+          ],
+          "reviewedBy": "Blueprint maintainer exact-source/reporting review",
+          "reviewedAt": "2026-11-20",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": "Explicit owner authority for bounded supporting summary and separate tested narrow game release; no institutional security approval or waiver.",
+          "architectureApproval": null,
+          "reviewScope": "Supporting exact6source review for CareersArchoncamera free-look/touch controls only. Sanitized description/tests and necessary bindings; no gamepush/private logs/screenshots/paths/approvalIDs/learner or roomdata/sourcebackups."
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Readerentry/index unchanged; separate supporting Archonfreelook review describes pending camera-only game release.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Readerentry/index unchanged; separate supporting Archonfreelook review describes pending camera-only game release.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Verify actual180publicreader/record/manifest; existingArchonowner rechecks exact6/currentbase then genuine receipt/unchangedguard/cameraonlyrelease and independentliveverification. Preserve all prior teacher/Portfolio records and frozen integrations. No game action by Blueprint maintainer or nextrelease.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Verify actual180publicreader/record/manifest; existingArchonowner rechecks exact6/currentbase then genuine receipt/unchangedguard/cameraonlyrelease and independentliveverification. Preserve all prior teacher/Portfolio records and frozen integrations. No game action by Blueprint maintainer or nextrelease.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Separate180records exact6camera versions and synthetic qualification; all earlier records incl177/178/179preserved.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Separate180records exact6camera versions and synthetic qualification; all earlier records incl177/178/179preserved.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Normal source/review/genuine receipt/soleArchonowner guardedrelease. No guard/baseline/TLS/lock changes.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Normal source/review/genuine receipt/soleArchonowner guardedrelease. No guard/baseline/TLS/lock changes.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Only180members and sanitized document added; all prior material/integration objects,197plannerrows/curriculum and appindex preserved.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Only180members and sanitized document added; all prior material/integration objects,197plannerrows/curriculum and appindex preserved.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Verify actual sanitised public summary and matching record/manifest before completion.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending actual public reader and served-file verification.",
+              "date": ""
+            },
+            "nextAction": "Verify actual180publicreader/record/manifest; existingArchonowner rechecks exact6/currentbase then genuine receipt/unchangedguard/cameraonlyrelease and independentliveverification. Preserve all prior teacher/Portfolio records and frozen integrations. No game action by Blueprint maintainer or nextrelease."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Sixfocused units incl10aspect firstframe/frustum, orbitbounds/yawpitch/wheel normalization/promenadefloor pass. Reviewed actual backgroundnativeWebGL1280/390/320bothseats;56legal perimeter rayclicktargets; look/orbit/zoom/reset/keyboard/touchpinch/cancel/tapmove;motioninputguard/standaloneart pass.446stagedhashes111imports pass. Synthetic state only/no external room/backend writes/realdata/foreground. No fullsuite/sourcecheck/CI, physical/classroom/productionservice/generalperformance qualification.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Sixfocused units incl10aspect firstframe/frustum, orbitbounds/yawpitch/wheel normalization/promenadefloor pass. Reviewed actual backgroundnativeWebGL1280/390/320bothseats;56legal perimeter rayclicktargets; look/orbit/zoom/reset/keyboard/touchpinch/cancel/tapmove;motioninputguard/standaloneart pass.446stagedhashes111imports pass. Synthetic state only/no external room/backend writes/realdata/foreground. No fullsuite/sourcecheck/CI, physical/classroom/productionservice/generalperformance qualification.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Scrolllooks,dragorbits,Shift-drag/Lookaroundaiminplace,pinch/CtrlCmdwheel/railzoom;Resetcloseview retained. Camera held during pieceanimation.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Scrolllooks,dragorbits,Shift-drag/Lookaroundaiminplace,pinch/CtrlCmdwheel/railzoom;Resetcloseview retained. Camera held during pieceanimation.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Teacher matrix/Portfolio/dashboard/auth/backend source unchanged; prior teacher records and pendingfocusrelease retained.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Teacher matrix/Portfolio/dashboard/auth/backend source unchanged; prior teacher records and pendingfocusrelease retained.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Reset clears look/orbit/mode; keyboardtoggle/arrows/Escape/focus, touchcancel/lostcapture and gesture-clicksuppression tested synthetically.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Reset clears look/orbit/mode; keyboardtoggle/arrows/Escape/focus, touchcancel/lostcapture and gesture-clicksuppression tested synthetically.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "No private captures/rawlogs/localpaths uploaded; existing reader images retained with provenance.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No private captures/rawlogs/localpaths uploaded; existing reader images retained with provenance.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "446prior runtime paths retained with4intentional camera/hashreplacements; teacher/Market bindings unchanged. Necessary6sourcebindings only.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: 446prior runtime paths retained with4intentional camera/hashreplacements; teacher/Market bindings unchanged. Necessary6sourcebindings only.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Student/Market/campus/rules/moves/restaurantstate unchanged. Scoped camera QA does not recertify startup/navigation/wholegame.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Student/Market/campus/rules/moves/restaurantstate unchanged. Scoped camera QA does not recertify startup/navigation/wholegame.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "updated",
+            "action": "No descriptors,plannerrows,curriculum coverage or teaching sequence changed.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No descriptors,plannerrows,curriculum coverage or teaching sequence changed.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "assessment",
+            "disposition": "updated",
+            "action": "Synthetic state only; no marks/learnerassessment or mastery claim created.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Synthetic state only; no marks/learnerassessment or mastery claim created.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Promenade-positiveZ/floor guards and radius7.8to22 retained; orbitbroadened while shared opening/resetpose unchanged.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Promenade-positiveZ/floor guards and radius7.8to22 retained; orbitbroadened while shared opening/resetpose unchanged.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "Boardwidth/restaurantpieces/upgrades/scenegeometry unchanged; no new art/assets.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Boardwidth/restaurantpieces/upgrades/scenegeometry unchanged; no new art/assets.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Aimdirection separates from cameraposition; broaderbounded orbit/look controls and responsive rail preserved, actual syntheticdesktop/phoneviews checked.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Aimdirection separates from cameraposition; broaderbounded orbit/look controls and responsive rail preserved, actual syntheticdesktop/phoneviews checked.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "avatars",
+            "disposition": "updated",
+            "action": "No avatar/mesh/rig/clothing changes; piece motion inputguard checked without movementrule changes.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No avatar/mesh/rig/clothing changes; piece motion inputguard checked without movementrule changes.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Existing explicit owner authorization covers scoped browserQA/supporting summary/conditional camera release; no unrelated project/feature release.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Existing explicit owner authorization covers scoped browserQA/supporting summary/conditional camera release; no unrelated project/feature release.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "security",
+            "disposition": "updated",
+            "action": "Camera/DOM input changes only. No provider/backend/Auth/controller/storage/rules/data lifecycle change; existing unverified school/production controls remain unresolved.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Camera/DOM input changes only. No provider/backend/Auth/controller/storage/rules/data lifecycle change; existing unverified school/production controls remain unresolved.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Only sanitized camera behavior/tests and6normalmodeblobbindings public; no private evidence identifiers or source backups.",
+            "records": [
+              "CE-CHANGE-20261120-180"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Exact scoped source/reader evidence with explicit limits and unrelated records preserved.",
+            "evidence": [
+              "production/careers-archon-free-look-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Only sanitized camera behavior/tests and6normalmodeblobbindings public; no private evidence identifiers or source backups.",
+              "date": "2026-11-20"
+            }
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "modules/archon-careers/hosted/index.html": "100644:f19daf1c0a15764231947663565d9fce0ba8a5a9",
+            "modules/archon-careers/hosted/parallel/gameplay/board-camera.mjs": "100644:03218e1f2dcbc45991c57366129e575217ed4b0f",
+            "modules/archon-careers/hosted/preview.html": "100644:6434f4fd83b09b6cedeed1b11bc52ce765d692aa",
+            "modules/archon-careers/hosted/preview.js": "100644:ca9ae13f7163c626ec350c6504e08886c97a4037",
+            "playable-3d/release-manifest.json": "100644:710bb5e8934db31fea8b7a8e7fd22b5ab87b3d74",
+            "tests/unit/archon-camera.test.mjs": "100644:29bea0371a9a87ca8cdadebb3a920e8267750d06"
+          }
+        },
+        "candidateSource": {
+          "base": "97c8ac00cb8eb6dafe9a0454a89eedb83004e9d0",
+          "registeredBaseline": "d3544e129682381d397417c08bed0242d5e58d88",
+          "pathCount": 6,
+          "files": [
+            {
+              "path": "modules/archon-careers/hosted/index.html",
+              "binding": "100644:f19daf1c0a15764231947663565d9fce0ba8a5a9",
+              "sha256": "f822fe8e10a854650a45aff4a40959a5dc5ce7817279e8a87222617f55386637"
+            },
+            {
+              "path": "modules/archon-careers/hosted/parallel/gameplay/board-camera.mjs",
+              "binding": "100644:03218e1f2dcbc45991c57366129e575217ed4b0f",
+              "sha256": "dbffbe3951775a9b6148d8dbf266dbcb21cbc5a52aff8bcd5dbdedee47099ea9"
+            },
+            {
+              "path": "modules/archon-careers/hosted/preview.html",
+              "binding": "100644:6434f4fd83b09b6cedeed1b11bc52ce765d692aa",
+              "sha256": "eb614147e0def1561f7c34bc34c551dce97c28cce933b487c05ca9d931071e89"
+            },
+            {
+              "path": "modules/archon-careers/hosted/preview.js",
+              "binding": "100644:ca9ae13f7163c626ec350c6504e08886c97a4037",
+              "sha256": "652dfa97b03a081f60a6a784b9e808dea4474be7266aadcf362f43b1276b52e6"
+            },
+            {
+              "path": "playable-3d/release-manifest.json",
+              "binding": "100644:710bb5e8934db31fea8b7a8e7fd22b5ab87b3d74",
+              "sha256": "57d1fcc5965a245b44c8a4b48fc84dc82dced89dd40a1b254235afed6de7668d"
+            },
+            {
+              "path": "tests/unit/archon-camera.test.mjs",
+              "binding": "100644:29bea0371a9a87ca8cdadebb3a920e8267750d06",
+              "sha256": "57b9919749e46add83d0dabb465dc4ba0630b9c27ccba44e8bd9917e4d9149ae"
+            }
+          ],
+          "exactInventorySha256": "d101dc5124c93fed59e3953bf54d3a6f6f4b96b80d0c56361b31f0989351c2fc",
+          "implementationProvenance": "Current narrow specification implemented directly; unavailable original patch was not applied or claimed source-identical. Shared first-frame fitting is retained; free-look implementation independently bound here.",
+          "limits": "Background synthetic fixtures only. No actual hosted room lifecycle, production/backend, fresh full sourcecheck/suite/CI, physical-touch/classroom or general-performance acceptance."
         }
       }
     ],
