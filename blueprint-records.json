@@ -40003,12 +40003,12 @@
           "title": "Careers Archon free-look camera — exact6 supporting source review",
           "source": "Explicit authenticated owner approval for background checks, supporting Blueprint summary and conditional narrow live update after tests pass; existing Archon owner retains sole game push. Private approval references/background remain local.",
           "owner": "Blueprint maintainer: supporting review only; existing Archon owner: exact receipt and game release",
-          "status": "Supporting exact6source review ready for publication; game release separate",
+          "status": "Supporting Blueprint exact6source review published and verified; game release separate",
           "rationale": "Publish scoped camera behavior/test qualification and exact six bindings before separate guarded game release.",
           "implementation": "Camera aim separates from position: scroll looks, drag orbits, Shift-drag/Lookaround aim in place; pinch/CtrlCmdwheel/rail zoom; Reset restores close view. Broader bounded promenade orbit and motion input guard; standalone art/rules/teacher/Portfolio retained.",
           "testing": "Sixfocused units incl10aspect firstframe/frustum, orbitbounds/yawpitch/wheel normalization/promenadefloor pass. Reviewed actual backgroundnativeWebGL1280/390/320bothseats;56legal perimeter rayclicktargets; look/orbit/zoom/reset/keyboard/touchpinch/cancel/tapmove;motioninputguard/standaloneart pass.446stagedhashes111imports pass. Synthetic state only/no external room/backend writes/realdata/foreground. No fullsuite/sourcecheck/CI, physical/classroom/productionservice/generalperformance qualification.",
-          "deployment": "No game push/receipt by Blueprint maintainer. Supporting summary awaits actual public verification.",
-          "nextAction": "Verify actual180publicreader/record/manifest; existingArchonowner rechecks exact6/currentbase then genuine receipt/unchangedguard/cameraonlyrelease and independentliveverification. Preserve all prior teacher/Portfolio records and frozen integrations. No game action by Blueprint maintainer or nextrelease.",
+          "deployment": "Supporting review verified at 252d0a9c19e427531fecc3a97965be890e59f189. No game receipt/commit/push by Blueprint maintainer.",
+          "nextAction": "Supporting180review published and independently verified. Existing Archon owner creates genuine exact6-file receipt through unchanged guard, then conditional normal guarded game push and live verification. No game release by Blueprint maintainer.",
           "evidence": [
             "production/careers-archon-free-look-source-review-20261120.html"
           ],
@@ -113290,13 +113290,13 @@
           "release",
           "governance"
         ],
-        "status": "ready-for-publication",
+        "status": "complete",
         "objective": "Publish scoped camera behavior/test qualification and exact six bindings before separate guarded game release.",
         "before": "Published97c8ac0shared board has tighter orbit and ordinary wheel zoom; free-look candidate is not live.",
         "after": "Camera aim separates from position: scroll looks, drag orbits, Shift-drag/Lookaround aim in place; pinch/CtrlCmdwheel/rail zoom; Reset restores close view. Broader bounded promenade orbit and motion input guard; standalone art/rules/teacher/Portfolio retained.",
         "source": "Explicit authenticated owner approval for background checks, supporting Blueprint summary and conditional narrow live update after tests pass; existing Archon owner retains sole game push. Private approval references/background remain local.",
         "owner": "Blueprint maintainer: supporting review only; existing Archon owner: exact receipt and game release",
-        "nextAction": "Verify actual180publicreader/record/manifest; existingArchonowner rechecks exact6/currentbase then genuine receipt/unchangedguard/cameraonlyrelease and independentliveverification. Preserve all prior teacher/Portfolio records and frozen integrations. No game action by Blueprint maintainer or nextrelease.",
+        "nextAction": "Supporting180review published and independently verified. Existing Archon owner creates genuine exact6-file receipt through unchanged guard, then conditional normal guarded game push and live verification. No game release by Blueprint maintainer.",
         "securityPrivacyImpact": {
           "baseline": "WA-DOE-v4c",
           "waQuestionIds": [],
@@ -113445,8 +113445,8 @@
           },
           {
             "surface": "publication",
-            "disposition": "pending",
-            "action": "Verify actual sanitised public summary and matching record/manifest before completion.",
+            "disposition": "updated",
+            "action": "Actual sanitised supporting reader and matching public record/manifest independently verified.",
             "records": [
               "CE-CHANGE-20261120-180"
             ],
@@ -113456,11 +113456,10 @@
               "production/careers-archon-free-look-source-review-20261120.html"
             ],
             "verification": {
-              "result": "pending",
-              "method": "Pending actual public reader and served-file verification.",
-              "date": ""
-            },
-            "nextAction": "Verify actual180publicreader/record/manifest; existingArchonowner rechecks exact6/currentbase then genuine receipt/unchangedguard/cameraonlyrelease and independentliveverification. Preserve all prior teacher/Portfolio records and frozen integrations. No game action by Blueprint maintainer or nextrelease."
+              "result": "passed",
+              "method": "Verified all supporting served-file hashes and actual public reader at 252d0a9c19e427531fecc3a97965be890e59f189; prior173/174/175preserved.",
+              "date": "2026-11-20"
+            }
           },
           {
             "surface": "build",
