@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-20T00:05:38.634295+00:00",
+  "generatedAt": "2026-11-20T00:09:42.294766+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "f545eb612de42f2f4ab76ef49aae2b85f9cf9b65f0cebd2a1f79ca3d1ee4d948",
+  "recordSha256": "98bd5c836985a78bf8893de308b5f6cf832cb42e4a6f4fa1521d5e99aabb0457",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "f545eb612de42f2f4ab76ef49aae2b85f9cf9b65f0cebd2a1f79ca3d1ee4d948"
+      "sha256": "98bd5c836985a78bf8893de308b5f6cf832cb42e4a6f4fa1521d5e99aabb0457"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -3469,7 +3469,7 @@
   },
   "sourceReview173": {
     "changeId": "CE-CHANGE-20261120-173",
-    "status": "ready-for-publication",
+    "status": "complete",
     "pathCount": 26,
     "sourceBase": "e84667e04d8f2d4842b54b0f19c5c554a6954ee0",
     "reader": "production/careers-archon-source-review-20261120.html",
