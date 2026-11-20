@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-20T02:54:08.748379+00:00",
+  "generatedAt": "2026-11-20T03:11:49.434069+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "485735fc9377af2b5993754095fabf8dcd382cfd623efcfbb60ce8c58e96eb06",
+  "recordSha256": "4696cb048885e18c95807d1d11686e3110d5f9b7871878ecd2b49b3662790d09",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "485735fc9377af2b5993754095fabf8dcd382cfd623efcfbb60ce8c58e96eb06"
+      "sha256": "4696cb048885e18c95807d1d11686e3110d5f9b7871878ecd2b49b3662790d09"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -2962,11 +2962,11 @@
     },
     {
       "path": "production/teacher-capability-matrix-source-review-20261120.html",
-      "sha256": "0e051aa1107e332d12648ff3e244dbe9535a6b392b6eac50300fd69b1c8e6f52"
+      "sha256": "a3f1469d9ac8f5b82cc4bbbae3ce1951fbd12ca69f8ffa269ade547f190c6df9"
     },
     {
       "path": "production/teacher-capability-matrix-source-review-20261120.md",
-      "sha256": "c4fb808028297863165a97e90d52800b138add9954ee34ccf7e254d28f291633"
+      "sha256": "4c42672a3d9202b07feb0b9a0183659513f5ae16da22e38fd80cf8ffeb9d8388"
     },
     {
       "path": "production/teaching-megatrends-plan-20261102.html",
@@ -3477,7 +3477,7 @@
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
     }
   ],
-  "recordPublicationScope": "177sanitizedsharedteacher-matrixsummary/qualifiedtests and9normalexactbindings only; no private logs/paths/approvalIDs/realdata/sourcebackups or game push.",
+  "recordPublicationScope": "178reader-onlyactualTeacher97c8ac0live matrix summary/fictional demo link; preserve frozen177and all prior public records. No game release or new source binding.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload.",
   "sourceReview172": {
@@ -3531,5 +3531,14 @@
     "sourceBase": "08da8f9d1e9692c41b0a87cb3f3536d04f1cebc0",
     "reader": "production/teacher-capability-matrix-source-review-20261120.html",
     "runtimePublishedByThisChange": false
+  },
+  "readerCloseout178": {
+    "changeId": "CE-CHANGE-20261120-178",
+    "status": "ready-for-publication",
+    "gameCommit": "97c8ac00cb8eb6dafe9a0454a89eedb83004e9d0",
+    "reader": "production/teacher-capability-matrix-source-review-20261120.html",
+    "frozen177IntegrationSha256": "c3770238e9229dfcaef70c3df6fbd9dc8af20bdcb442536cda7dba7e8cf7b4d7",
+    "mainReaderCopyCaptureSuccessorPending": true,
+    "newGameReceiptRequired": false
   }
 }

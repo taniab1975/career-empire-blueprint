@@ -1,9 +1,11 @@
-# Shared teacher capability matrix
+# Teacher capability matrix — verified live
 
-Public static demo:4fictional learners,8synthetic reflections and7capability columns, Initiative first. Same shared matrix presentation; drag/arrows/reset, fixed Student and scrollable evidence. One reflection counts once overall and appears in relevant cells.
+Four fictional learners, eight synthetic reflections, seven capabilities. Drag/arrows/reset; fixed Student and nested scroll. One reflection counts once overall and appears in relevant cells.
 
-Only sanitized optional demo column order persists; authenticated renderer order is memory-only with existing authorized inputs/scopes/helpers. No real data/login/API in public demo.
+[Open fictional teacher demo](https://emmanuel-ict-support.github.io/GTCEM-Career-Empire/dashboards/teacher-portfolio-demo.html)
 
-Background1440/1280/390/320matrix and synthetic isolation checks pass; source+446units/coverage and446hash111imports pass. Final6student regression cases pass; broad browser failure/incomplete coverage retained. No all-CI-green, Safari/physical/classroom/real authenticated saving or institutional security certification.
+Game97c8ac0/Pages44664564964 verified.446runtime hashes+manifest match. Matrix1440/1280/390/320 and native wheel1440/390 pass. Sixunique student cases covered across passing runs; initial4pass2timeouts retained, fresh targeted cases pass without source edit/performance acceptance.
 
-Supporting review only; separate narrow guarded game release required.
+446local units/coverage pass. Broad/remote software-browser failures retained. No allgreen/Safari/physical/classroom/authenticatedsaving/owneracceptance. Static fictional examples/no account or API; optional sanitized demo order only.
+
+Reader-only178closeout;177frozen. No new game release or broad reader cleanup.
