@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-19T11:25:26.416949+00:00",
+  "generatedAt": "2026-11-20T00:05:38.634295+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "22da485ce7813e35c17c34aa40ffe0cf30b9d4da31023f0e9c3f88888318e4ae",
+  "recordSha256": "f545eb612de42f2f4ab76ef49aae2b85f9cf9b65f0cebd2a1f79ca3d1ee4d948",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "22da485ce7813e35c17c34aa40ffe0cf30b9d4da31023f0e9c3f88888318e4ae"
+      "sha256": "f545eb612de42f2f4ab76ef49aae2b85f9cf9b65f0cebd2a1f79ca3d1ee4d948"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -2401,6 +2401,14 @@
       "sha256": "efd4ae2e8da016439518079372d69151bace5260d97c02eda5943dd5530011ba"
     },
     {
+      "path": "production/careers-archon-source-review-20261120.html",
+      "sha256": "2f9e15e38957f18d45a4334dff4356669635a69f6a76417f50845034c9001cf8"
+    },
+    {
+      "path": "production/careers-archon-source-review-20261120.md",
+      "sha256": "275e02771c8a577759309625ad37efd2c79a6b848d1b852027d18b960f81f85b"
+    },
+    {
       "path": "production/careers-portfolio-panel-20261113.html",
       "sha256": "641ae8ccf2b8dafbda8e59363ffa5fca4b694b5cc1dae0714a383d85604505f3"
     },
@@ -3445,7 +3453,7 @@
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
     }
   ],
-  "recordPublicationScope": "172 supporting16-file Markets source-review record/document/sixdatedcandidatecaptures only; no reader-app or game runtime deployment. Preserve every prior public integration.",
+  "recordPublicationScope": "173sanitisedCareersArchonsupportingdescription/tests plus necessary26exactsourcebindings only; no private logs, background, student data, source code or game runtime uploaded.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload.",
   "sourceReview172": {
@@ -3458,5 +3466,13 @@
     "verificationSha256": "7bd7d85d2168bf0691b39e7ad26ca1e34cd94f0020531173e794f3d5bb87bf20",
     "runtimePublishedByThisChange": false,
     "limits": "Original Mac/Safari/physical-device/classroom/signed-in/livegame acceptance unverified; no new broad browserCI or speedup claim."
+  },
+  "sourceReview173": {
+    "changeId": "CE-CHANGE-20261120-173",
+    "status": "ready-for-publication",
+    "pathCount": 26,
+    "sourceBase": "e84667e04d8f2d4842b54b0f19c5c554a6954ee0",
+    "reader": "production/careers-archon-source-review-20261120.html",
+    "runtimePublishedByThisChange": false
   }
 }

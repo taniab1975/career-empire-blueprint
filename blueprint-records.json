@@ -39879,6 +39879,23 @@
             "production/markets-first-source-review-20261119.html"
           ],
           "taniaAcceptance": "Explicit bounded supporting172Blueprintpublication authorised19November2026. Original Mac symptom, Safari, physical devices, classroom, signed-in saving and live-game acceptance remain unverified."
+        },
+        {
+          "id": "CE-CHANGE-20261120-173",
+          "date": "2026-11-20",
+          "title": "Careers Archon restaurant strategy — supporting exact26source review",
+          "source": "Explicit owner approval to publish the Archon supporting description and tests in the Career Empire Blueprint, then have the existing Archon owner perform a separate guarded game release after return checks. Private approval references retained locally; no internal notes or student data authorised for publication.",
+          "owner": "Blueprint maintainer: supporting source review only; existing Archon owner: game release",
+          "status": "Supporting exact26source review ready for publication; game release separate",
+          "rationale": "Publish the owner-approved user-facing Archon description/test summary and exact current26source bindings, without publishing private task material or pushing the game.",
+          "implementation": "Careers Archon pairs rival restaurant teams, private workplace responses, student adjudication, Initiative guidance and persistent territory rules with team-coloured staff and visible restaurant upgrades. Current26asset/runtime paths include two Market adapters and the shared manifest; Markets, Portfolio, CI and separate movement work preserved.",
+          "testing": "Reviewed supplied438unit tests across96files,19targeted game tests and442asset hashes/111imports. Actual-campus desktop1280/phone390 open/return checks restore canvas focus, real movement, selected learning state and wallet. Narrow unchanged-source return follow-up found no material multi-second regression in a small local sample; not general performance, physical-touch, production-service, signed-in-save, full-match or classroom qualification.",
+          "deployment": "No Archon game release by this source review. Supporting Blueprint publication awaits actual served verification.",
+          "nextAction": "Verify actual public supporting173record/manifest/document, then existing Archon owner alone obtains a genuine receipt for exactly26reviewed paths and uses normal guarded game publication followed by independent live verification. No game receipt or push is performed by the Blueprint maintainer.",
+          "evidence": [
+            "production/careers-archon-source-review-20261120.html"
+          ],
+          "taniaAcceptance": "Owner authorised supporting publication and separate guarded game push; local test evidence does not establish classroom/device or general performance acceptance."
         }
       ],
       "sessionStart": [
@@ -109729,6 +109746,631 @@
             "No controlled before/after speedup or purged OS/GPU-cache claim.",
             "Game deployment and independent live acceptance follow the genuine receipt; not performed by Blueprint maintainer."
           ]
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261120-173",
+        "title": "Careers Archon restaurant strategy — supporting exact26source review",
+        "types": [
+          "implementation",
+          "visual",
+          "release",
+          "governance",
+          "activity"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Publish the owner-approved user-facing Archon description/test summary and exact current26source bindings, without publishing private task material or pushing the game.",
+        "before": "Published game at the Markets release retains the earlier Archon presentation. Earlier27-path local review included a task log; current reviewed stage excludes it.",
+        "after": "Careers Archon pairs rival restaurant teams, private workplace responses, student adjudication, Initiative guidance and persistent territory rules with team-coloured staff and visible restaurant upgrades. Current26asset/runtime paths include two Market adapters and the shared manifest; Markets, Portfolio, CI and separate movement work preserved.",
+        "source": "Explicit owner approval to publish the Archon supporting description and tests in the Career Empire Blueprint, then have the existing Archon owner perform a separate guarded game release after return checks. Private approval references retained locally; no internal notes or student data authorised for publication.",
+        "owner": "Blueprint maintainer: supporting source review only; existing Archon owner: game release",
+        "nextAction": "Verify actual public supporting173record/manifest/document, then existing Archon owner alone obtains a genuine receipt for exactly26reviewed paths and uses normal guarded game publication followed by independent live verification. No game receipt or push is performed by the Blueprint maintainer.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [],
+          "waControlChecks": [],
+          "waEvidenceIds": [],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "Supporting Blueprint description/tests and exact26Archon source bindings only. Game base e84667e; no game push, service/Auth/storage, real learner record or institutional security approval in this publication.",
+          "rationale": "Publication of sanitised documentary source review only; no product processing/service/Auth changes performed. Existing game privacy/security readiness is not recertified by hashes, fictional QA or publication.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "no",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "no",
+            "logging": "no",
+            "student-safety": "no"
+          },
+          "answers": {
+            "data": "Sanitised source-reporting only; no new data control or student-data processing is introduced by this Blueprint publication. Existing product/security acceptance remains separate.",
+            "locations": "Sanitised source-reporting only; no new locations control or student-data processing is introduced by this Blueprint publication. Existing product/security acceptance remains separate.",
+            "accessCountries": "Sanitised source-reporting only; no new accessCountries control or student-data processing is introduced by this Blueprint publication. Existing product/security acceptance remains separate.",
+            "providers": "Sanitised source-reporting only; no new providers control or student-data processing is introduced by this Blueprint publication. Existing product/security acceptance remains separate.",
+            "lifecycle": "Sanitised source-reporting only; no new lifecycle control or student-data processing is introduced by this Blueprint publication. Existing product/security acceptance remains separate.",
+            "encryption": "Sanitised source-reporting only; no new encryption control or student-data processing is introduced by this Blueprint publication. Existing product/security acceptance remains separate.",
+            "logging": "Sanitised source-reporting only; no new logging control or student-data processing is introduced by this Blueprint publication. Existing product/security acceptance remains separate.",
+            "identity": "Sanitised source-reporting only; no new identity control or student-data processing is introduced by this Blueprint publication. Existing product/security acceptance remains separate.",
+            "isolation": "Sanitised source-reporting only; no new isolation control or student-data processing is introduced by this Blueprint publication. Existing product/security acceptance remains separate.",
+            "privacySafety": "Sanitised source-reporting only; no new privacySafety control or student-data processing is introduced by this Blueprint publication. Existing product/security acceptance remains separate.",
+            "applicability": "Sanitised source-reporting only; no new applicability control or student-data processing is introduced by this Blueprint publication. Existing product/security acceptance remains separate.",
+            "verification": "Reviewed supplied438unit tests across96files,19targeted game tests and442asset hashes/111imports. Actual-campus desktop1280/phone390 open/return checks restore canvas focus, real movement, selected learning state and wallet. Narrow unchanged-source return follow-up found no material multi-second regression in a small local sample; not general performance, physical-touch, production-service, signed-in-save, full-match or classroom qualification."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "Reviewed supplied438unit tests across96files,19targeted game tests and442asset hashes/111imports. Actual-campus desktop1280/phone390 open/return checks restore canvas focus, real movement, selected learning state and wallet. Narrow unchanged-source return follow-up found no material multi-second regression in a small local sample; not general performance, physical-touch, production-service, signed-in-save, full-match or classroom qualification."
+          ],
+          "reviewedBy": "Blueprint maintainer scoped exact-source/reporting review",
+          "reviewedAt": "2026-11-20",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": "Owner explicitly approved bounded supporting Archon publication; no institutional security approval or waiver.",
+          "architectureApproval": null,
+          "reviewScope": "Supporting Blueprint description/tests and exact26Archon source bindings only. Game base e84667e; no game push, service/Auth/storage, real learner record or institutional security approval in this publication."
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "Existing Start Here and game entry are unchanged; this separately labelled supporting source review does not represent a new game deployment.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Existing Start Here and game entry are unchanged; this separately labelled supporting source review does not represent a new game deployment.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Record173next action names the existing Archon owner for genuine receipt, guarded game release and independent live verification; unrelated priorities retained.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Record173next action names the existing Archon owner for genuine receipt, guarded game release and independent live verification; unrelated priorities retained.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "New173material records the current26-file supporting review; earlier proposed27-path draft is superseded without rewriting previous public records.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: New173material records the current26-file supporting review; earlier proposed27-path draft is superseded without rewriting previous public records.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Supporting review states owner-approved publication and unchanged exact-file receipt workflow; no baseline reset, guard, hook or TLS exception.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Supporting review states owner-approved publication and unchanged exact-file receipt workflow; no baseline reset, guard, hook or TLS exception.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Public projection adds only173material/integration over fresh served data; all earlier integrations and curriculum compared unchanged.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Public projection adds only173material/integration over fresh served data; all earlier integrations and curriculum compared unchanged.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Verify actual public supporting source-review record, matching manifest and reader before completion.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending actual public deployment and reader verification.",
+              "date": ""
+            },
+            "nextAction": "Verify actual public supporting173record/manifest/document, then existing Archon owner alone obtains a genuine receipt for exactly26reviewed paths and uses normal guarded game publication followed by independent live verification. No game receipt or push is performed by the Blueprint maintainer."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "26current staged/working modes/blobs and SHA independently matched; supplied438unit19targeted and442asset111module results reviewed; no broad-CI or live-game claim.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: 26current staged/working modes/blobs and SHA independently matched; supplied438unit19targeted and442asset111module results reviewed; no broad-CI or live-game claim.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Public summary explains two restaurant teams, private shared workplace questions, third-student adjudication, Initiative guide and lasting territory rules.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Public summary explains two restaurant teams, private shared workplace questions, third-student adjudication, Initiative guide and lasting territory rules.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "teacher",
+            "disposition": "checked-unchanged",
+            "action": "Student adjudication is gameplay; no authenticated teacher access, assessed submission, new learner record or mastery claim is introduced by this source review.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Student adjudication is gameplay; no authenticated teacher access, assessed submission, new learner record or mastery claim is introduced by this source review.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Bounded actual-campus desktop/phone open-return checks restore focus, movement and selected learning state; production service, physical-device and signed-in acceptance remain separate.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Bounded actual-campus desktop/phone open-return checks restore focus, movement and selected learning state; production service, physical-device and signed-in acceptance remain separate.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "No private QA screenshots, room identifiers, task banners, traces or new image assets published; existing public Blueprint images and captures preserved.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No private QA screenshots, room identifiers, task banners, traces or new image assets published; existing public Blueprint images and captures preserved.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "Normal binding records enumerate26reviewed versions; all423Markets manifest paths retained,417hashes unchanged and six intentional Archon replacements, with19newassets for442total.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Normal binding records enumerate26reviewed versions; all423Markets manifest paths retained,417hashes unchanged and six intentional Archon replacements, with19newassets for442total.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Approved short description covers team-coloured staff and restaurant upgrades without converting source inclusion or local tests into global visual/device acceptance.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Approved short description covers team-coloured staff and restaurant upgrades without converting source inclusion or local tests into global visual/device acceptance.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "Restaurant presentation stages are within Archon; no campus building layout, collision or unrelated place changes in the26-file scope.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Restaurant presentation stages are within Archon; no campus building layout, collision or unrelated place changes in the26-file scope.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "avatars",
+            "disposition": "updated",
+            "action": "Exact staff-model asset bindings recorded; existing Kitchen Hand retained. Whole-piece model movement is not a claim of new skeletal animation or individual visual acceptance.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Exact staff-model asset bindings recorded; existing Kitchen Hand retained. Whole-piece model movement is not a claim of new skeletal animation or individual visual acceptance.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "Match territory and restaurant presentation do not alter the existing campus economy, wallet, progression or rewards; wallet preserved in supplied return checks.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Match territory and restaurant presentation do not alter the existing campus economy, wallet, progression or rewards; wallet preserved in supplied return checks.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Explicit owner approval covers this supporting Archon description/test publication and separate existing-owner guarded game release; Portfolio/CI/diagonal-movement excluded.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Explicit owner approval covers this supporting Archon description/test publication and separate existing-owner guarded game release; Portfolio/CI/diagonal-movement excluded.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Only sanitised feature/test outcomes and necessary exact-source hash bindings are public; private logs, local paths, background discussion and student information excluded.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Only sanitised feature/test outcomes and necessary exact-source hash bindings are public; private logs, local paths, background discussion and student information excluded.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "journey",
+            "disposition": "checked-unchanged",
+            "action": "Phase1Market alternatives and twelve-phase sequence retained. Archon is an existing practice choice; returning preserves selected learning state.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Phase1Market alternatives and twelve-phase sequence retained. Archon is an existing practice choice; returning preserves selected learning state.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Existing Initiative guide and exact197plannerrows preserved; no descriptor, source edition or assessed outcome changes.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Existing Initiative guide and exact197plannerrows preserved; no descriptor, source edition or assessed outcome changes.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "Adjudication and game progress remain practice rather than assessed evidence or mastery; existing year plan and teacher assessment remain unchanged.",
+            "records": [
+              "CE-CHANGE-20261120-173"
+            ],
+            "owner": "Blueprint maintainer for supporting review; existing Archon owner for game release",
+            "acceptance": "Actual scoped source/reader evidence and explicit deployment limits, with unrelated public records preserved.",
+            "evidence": [
+              "production/careers-archon-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Adjudication and game progress remain practice rather than assessed evidence or mastery; existing year plan and teacher assessment remain unchanged.",
+              "date": "2026-11-20"
+            }
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "modules/archon-careers/hosted/art/board-staff/juniper-cashier.glb": "100644:680fc42c5835a4e490897cb340f343b134168c6a",
+            "modules/archon-careers/hosted/art/board-staff/juniper-chef.glb": "100644:509e17db3dc165aea89056152306ce8dae4736dc",
+            "modules/archon-careers/hosted/art/board-staff/juniper-cleaner.glb": "100644:b746f7aae2eea9e6e520f9cf7b16ed9bf2948e3c",
+            "modules/archon-careers/hosted/art/board-staff/juniper-owner.glb": "100644:2444cff6ade83c3d6448397bc0a79244df801518",
+            "modules/archon-careers/hosted/art/board-staff/juniper-waiter.glb": "100644:1cadb8841218d8efe9b7930cf348d0fa5bc956d2",
+            "modules/archon-careers/hosted/art/board-staff/lantern-cashier.glb": "100644:64262f07e129a2d8b760652e7bb48a59ab5f5a80",
+            "modules/archon-careers/hosted/art/board-staff/lantern-chef.glb": "100644:c31ccc7f280b460a4e2857323ed0a8d54443918d",
+            "modules/archon-careers/hosted/art/board-staff/lantern-cleaner.glb": "100644:2f96f0f1714efe43c6b63d15e3203005f0b399b7",
+            "modules/archon-careers/hosted/art/board-staff/lantern-owner.glb": "100644:5cc1202d36dc7db21e68c2c8b52714f7210b8c0f",
+            "modules/archon-careers/hosted/art/board-staff/lantern-waiter.glb": "100644:5652318b124a9e8f459472023f03d953dab50021",
+            "modules/archon-careers/hosted/art/board-staff/manifest.json": "100644:cb19683638c96a6ae3122a4c2a2b0d55921fba0a",
+            "modules/archon-careers/hosted/art/staff-reference-boy.glb": "100644:6501b5796b16d906e825f5211ad04ef9340d9ae5",
+            "modules/archon-careers/hosted/art/staff-reference-girl.glb": "100644:427b5c9e1ce55951cf767562cac1b57b52b3a3e8",
+            "modules/archon-careers/hosted/board-rules.mjs": "100644:ab3c8a952afaef3e1d00089ffd2cf9d959386df6",
+            "modules/archon-careers/hosted/index.html": "100644:7bfc2e0e4426d828d4895a4fef2bb3451d4eaa46",
+            "modules/archon-careers/hosted/noodle-rivalry.css": "100644:3109ae3e740bf967263ac5d4ee250578e6feaf76",
+            "modules/archon-careers/hosted/noodle-story.mjs": "100644:ff722f0648f611d422fd0eaf00ae1f27ff2266f8",
+            "modules/archon-careers/hosted/preview.html": "100644:4b0eb2588205bc6e909afa773c6074fcc6df0f84",
+            "modules/archon-careers/hosted/preview.js": "100644:2b9a5c08fb5c4a550b2b37aa4570f91f90fbdb21",
+            "modules/archon-careers/hosted/restaurant-scene.mjs": "100644:97c9dcd84676a51305eacfd9483611b35ad74ac4",
+            "modules/archon-careers/hosted/staff-faces.mjs": "100644:b210d31f610f7b44711642e451cf04251067ecf8",
+            "modules/archon-careers/hosted/staff-pieces.mjs": "100644:576f2b879bfd486a48b970258a89403095f8cb79",
+            "modules/archon-careers/hosted/static-staff.mjs": "100644:71a04cdffb3c0b2fd4a4c1f91335f2aba0346d2a",
+            "playable-3d/market-archon.mjs": "100644:a0d35600b7d9f96ed2f50705de1cde9ebedfdc6d",
+            "playable-3d/market-learning-routes.mjs": "100644:8f8ffd3c3f836665169bb5a07d11f27d9d287107",
+            "playable-3d/release-manifest.json": "100644:7b91cddabedcd8d273c054d8d9d5730efd1a4219"
+          }
+        },
+        "candidateSource": {
+          "base": "e84667e04d8f2d4842b54b0f19c5c554a6954ee0",
+          "registeredBaseline": "d3544e129682381d397417c08bed0242d5e58d88",
+          "pathCount": 26,
+          "files": [
+            {
+              "path": "modules/archon-careers/hosted/art/board-staff/juniper-cashier.glb",
+              "binding": "100644:680fc42c5835a4e490897cb340f343b134168c6a",
+              "sha256": "1b0f4a199c72474b2ec7bba0a53da0eaedcf0402e7b1c73151c898858d387f2d"
+            },
+            {
+              "path": "modules/archon-careers/hosted/art/board-staff/juniper-chef.glb",
+              "binding": "100644:509e17db3dc165aea89056152306ce8dae4736dc",
+              "sha256": "8751b0f4c90dc8f75ce1167494003dec0ba029cc1b9d6d72c576e61d176a147a"
+            },
+            {
+              "path": "modules/archon-careers/hosted/art/board-staff/juniper-cleaner.glb",
+              "binding": "100644:b746f7aae2eea9e6e520f9cf7b16ed9bf2948e3c",
+              "sha256": "6b325788be59d0a111babeb3299aa53edd79715edae5f2be73659436eeacc259"
+            },
+            {
+              "path": "modules/archon-careers/hosted/art/board-staff/juniper-owner.glb",
+              "binding": "100644:2444cff6ade83c3d6448397bc0a79244df801518",
+              "sha256": "c10de1f6f01de398901e8afdc616a60d755462f3d825686166f76ac249988f4e"
+            },
+            {
+              "path": "modules/archon-careers/hosted/art/board-staff/juniper-waiter.glb",
+              "binding": "100644:1cadb8841218d8efe9b7930cf348d0fa5bc956d2",
+              "sha256": "6c5983234095b720b9de7d504cb9a2e7fdb5f6d20038d47b77b2b4d9320f12cb"
+            },
+            {
+              "path": "modules/archon-careers/hosted/art/board-staff/lantern-cashier.glb",
+              "binding": "100644:64262f07e129a2d8b760652e7bb48a59ab5f5a80",
+              "sha256": "35816bbff63fa5f73495971cef820f804750b39faab3cecc93b24ef1a78743ad"
+            },
+            {
+              "path": "modules/archon-careers/hosted/art/board-staff/lantern-chef.glb",
+              "binding": "100644:c31ccc7f280b460a4e2857323ed0a8d54443918d",
+              "sha256": "d31c54b3ae1381c54c34fc24f62a5eced1d30c36b08d76f1a8e45b310e8a5311"
+            },
+            {
+              "path": "modules/archon-careers/hosted/art/board-staff/lantern-cleaner.glb",
+              "binding": "100644:2f96f0f1714efe43c6b63d15e3203005f0b399b7",
+              "sha256": "6ef00885c8bb3bab2dd83303351827f7f205bbc39945c06d690743b4a0aeefca"
+            },
+            {
+              "path": "modules/archon-careers/hosted/art/board-staff/lantern-owner.glb",
+              "binding": "100644:5cc1202d36dc7db21e68c2c8b52714f7210b8c0f",
+              "sha256": "9e149d82eb17a144ea5a9fb244d1f3766a911209a73e934b23741c9e48d4355e"
+            },
+            {
+              "path": "modules/archon-careers/hosted/art/board-staff/lantern-waiter.glb",
+              "binding": "100644:5652318b124a9e8f459472023f03d953dab50021",
+              "sha256": "9279796c6cf4179c2cc94eeb9f822f0b57e385af6ffbd0e68b19277a43e3b0a7"
+            },
+            {
+              "path": "modules/archon-careers/hosted/art/board-staff/manifest.json",
+              "binding": "100644:cb19683638c96a6ae3122a4c2a2b0d55921fba0a",
+              "sha256": "5f9655d98f91edc36ae228b7262a9ac52e4c4a7f3ff51cfb861d355a9ce74e01"
+            },
+            {
+              "path": "modules/archon-careers/hosted/art/staff-reference-boy.glb",
+              "binding": "100644:6501b5796b16d906e825f5211ad04ef9340d9ae5",
+              "sha256": "c6ddd02606ad0cc8104608e9a01c71c7e86f71e19d83b562dfdb9320b4826a48"
+            },
+            {
+              "path": "modules/archon-careers/hosted/art/staff-reference-girl.glb",
+              "binding": "100644:427b5c9e1ce55951cf767562cac1b57b52b3a3e8",
+              "sha256": "8ea9d32911dc3ca74a5f715f61e9640988feb4e50ddc5e5ed029fe38265a6bca"
+            },
+            {
+              "path": "modules/archon-careers/hosted/board-rules.mjs",
+              "binding": "100644:ab3c8a952afaef3e1d00089ffd2cf9d959386df6",
+              "sha256": "396bd19a00eb531480a38370bda6036d11f39c5ad3ff4a007914ecb45035545f"
+            },
+            {
+              "path": "modules/archon-careers/hosted/index.html",
+              "binding": "100644:7bfc2e0e4426d828d4895a4fef2bb3451d4eaa46",
+              "sha256": "1b28dba5045680678311ba3904c85d613ca1a3a8017bc152c2c86b0525e3933b"
+            },
+            {
+              "path": "modules/archon-careers/hosted/noodle-rivalry.css",
+              "binding": "100644:3109ae3e740bf967263ac5d4ee250578e6feaf76",
+              "sha256": "0be3af662f9ff7e89909a88bf71eb8f1cf194cc766027893474a2fe368f528d3"
+            },
+            {
+              "path": "modules/archon-careers/hosted/noodle-story.mjs",
+              "binding": "100644:ff722f0648f611d422fd0eaf00ae1f27ff2266f8",
+              "sha256": "f6f4e1b875a058ce9ef742235633b46d93e91e8ee0f2138d1ed3c417f7caf289"
+            },
+            {
+              "path": "modules/archon-careers/hosted/preview.html",
+              "binding": "100644:4b0eb2588205bc6e909afa773c6074fcc6df0f84",
+              "sha256": "0cc9b10457e32e157ca950748421c734dd22a0e8d30cd3c2fc9c6c54646f6201"
+            },
+            {
+              "path": "modules/archon-careers/hosted/preview.js",
+              "binding": "100644:2b9a5c08fb5c4a550b2b37aa4570f91f90fbdb21",
+              "sha256": "f530a068fab085d91c04f9b79568c57d4311065e9c712209ab3615c473c07cc2"
+            },
+            {
+              "path": "modules/archon-careers/hosted/restaurant-scene.mjs",
+              "binding": "100644:97c9dcd84676a51305eacfd9483611b35ad74ac4",
+              "sha256": "6cc43cf922fb46bdeff304905da1f7db747405e0a2e5a3d7d31184d59c811f61"
+            },
+            {
+              "path": "modules/archon-careers/hosted/staff-faces.mjs",
+              "binding": "100644:b210d31f610f7b44711642e451cf04251067ecf8",
+              "sha256": "cc700598f6eb6db67e32dab81514b9055904f45a4697decb08ac270105b3c946"
+            },
+            {
+              "path": "modules/archon-careers/hosted/staff-pieces.mjs",
+              "binding": "100644:576f2b879bfd486a48b970258a89403095f8cb79",
+              "sha256": "f726e023106e7c47d2d233909a5309a8831c406a0260e66e5a4d38a97ed91856"
+            },
+            {
+              "path": "modules/archon-careers/hosted/static-staff.mjs",
+              "binding": "100644:71a04cdffb3c0b2fd4a4c1f91335f2aba0346d2a",
+              "sha256": "cd427d6ae73dbb8754553d6479a17fb83f2c6a1bfee42a92e7b435551adedfee"
+            },
+            {
+              "path": "playable-3d/market-archon.mjs",
+              "binding": "100644:a0d35600b7d9f96ed2f50705de1cde9ebedfdc6d",
+              "sha256": "cf119f0cf0cf0976ae6288260d31cc89ed6b45cdbf3fdb600f5f215e8e1bb679"
+            },
+            {
+              "path": "playable-3d/market-learning-routes.mjs",
+              "binding": "100644:8f8ffd3c3f836665169bb5a07d11f27d9d287107",
+              "sha256": "4bf82380b289db372de37e1c772566714e7ba3d9fa4a694b1567c480846a4735"
+            },
+            {
+              "path": "playable-3d/release-manifest.json",
+              "binding": "100644:7b91cddabedcd8d273c054d8d9d5730efd1a4219",
+              "sha256": "4555f66d59eae763df0cceeaaf2ac9c73ab667258d95a9726752ed1321e21c6c"
+            }
+          ],
+          "exactInventorySha256": "fe93d17a9c062e771d923eb59e41a3ac12264626e3ea28a203dec5d39948a849",
+          "timingPreservationSha256": "9b9235223138d9339a67ab54e00f82c71a7679015eaf28db9024f92ce1567240",
+          "status": "Exact staged and working versions independently matched; source-only review, no game deployment.",
+          "limits": "No private QA logs/paths/room identifiers published. Local tests do not establish production service, physical-touch/classroom, general performance or signed-in saving acceptance."
         }
       }
     ],
