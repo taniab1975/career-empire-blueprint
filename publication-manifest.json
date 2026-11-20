@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-20T02:23:49.245505+00:00",
+  "generatedAt": "2026-11-20T02:51:50.860620+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "7a38df59190206dfc7322284d3777fd387ac0da1ed0c48380b1d375720224f98",
+  "recordSha256": "ff99c1c68abe2867a7e925625f339cf45eff8386a69ca08204ec48065a05722b",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "7a38df59190206dfc7322284d3777fd387ac0da1ed0c48380b1d375720224f98"
+      "sha256": "ff99c1c68abe2867a7e925625f339cf45eff8386a69ca08204ec48065a05722b"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -2961,6 +2961,14 @@
       "sha256": "a8b5332bb0d2c6a88d0c6540e576a4740eb5b7427cffc5b0599fffb17076ff2d"
     },
     {
+      "path": "production/teacher-capability-matrix-source-review-20261120.html",
+      "sha256": "0e051aa1107e332d12648ff3e244dbe9535a6b392b6eac50300fd69b1c8e6f52"
+    },
+    {
+      "path": "production/teacher-capability-matrix-source-review-20261120.md",
+      "sha256": "c4fb808028297863165a97e90d52800b138add9954ee34ccf7e254d28f291633"
+    },
+    {
       "path": "production/teaching-megatrends-plan-20261102.html",
       "sha256": "37a26f1d62fe4ccb092e73cd3623f3c80b20f50c8abe1fc421b01c3be6127703"
     },
@@ -3469,7 +3477,7 @@
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
     }
   ],
-  "recordPublicationScope": "176sanitisedArchoncloser-boarddescription/qualifiedtests and7normalexactbindings only; no private media/logs/paths/approvalIDs or game push.",
+  "recordPublicationScope": "177sanitizedsharedteacher-matrixsummary/qualifiedtests and9normalexactbindings only; no private logs/paths/approvalIDs/realdata/sourcebackups or game push.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload.",
   "sourceReview172": {
@@ -3514,6 +3522,14 @@
     "pathCount": 7,
     "sourceBase": "13080c85ee30712001199a03122ece196754e482",
     "reader": "production/careers-archon-closer-board-source-review-20261120.html",
+    "runtimePublishedByThisChange": false
+  },
+  "sourceReview177": {
+    "changeId": "CE-CHANGE-20261120-177",
+    "status": "ready-for-publication",
+    "pathCount": 9,
+    "sourceBase": "08da8f9d1e9692c41b0a87cb3f3536d04f1cebc0",
+    "reader": "production/teacher-capability-matrix-source-review-20261120.html",
     "runtimePublishedByThisChange": false
   }
 }

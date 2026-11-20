@@ -39946,6 +39946,23 @@
             "production/careers-archon-closer-board-source-review-20261120.html"
           ],
           "taniaAcceptance": "Conditional narrow publication authorised; synthetic test evidence is not full-CI, production-room, physical-device/classroom or general-performance acceptance."
+        },
+        {
+          "id": "CE-CHANGE-20261120-177",
+          "date": "2026-11-20",
+          "title": "Teacher capability matrix correction — supporting exact9source review",
+          "source": "Explicit owner approval for existing-task background checks, supporting Blueprint summary and conditional narrow teacher-view release; subsequent draggable-header request. Verified current Archon base clears earlier sequencing hold. Private approval references/background remain local.",
+          "owner": "Blueprint maintainer: supporting review only; existing sole game integrator: genuine receipt and release",
+          "status": "Supporting exact9source review ready for publication; game release separate",
+          "rationale": "Publish independently reviewed exact9source bindings and sanitized shared teacher matrix/demo summary before separate conditional guarded game release.",
+          "implementation": "Public demo shows4fictional learners,8synthetic reflections and7canonical capabilities beginning with Initiative; one reflection counts once overall and appears in relevant cells. Drag/arrows/reset, fixed Student and nested scrolling supported. Real renderer retains existing authorized normalized inputs/helpers/scopes and memory-only order. Only sanitized public-demo order preference can persist. Student Portfolio/Archon/Markets/auth/backend/styles preserved.",
+          "testing": "Reviewed final backgroundChrome1440/1280/390/320matrix, native drag/edge-scroll, touch/button/keyboard/reset/focus/sticky/nested-scroll/isolation and synthetic signed-out/authorized-wrapper checks. Final6student3D/2DMarket/PDF/return cases pass; initial concurrent5pass/1avatar-download failure retained, unchanged code then6alone. Unchanged npmci source+446units/98files+coverage passed; broad1inheritedAdminfail/1interrupted/295not-run retained.446staged assethashes/111imports pass. No real accounts/sessions/API/learner data, all-CI-green, Safari, physical/classroom/authenticated-saving or owner acceptance claim.",
+          "deployment": "No game receipt/push by Blueprint maintainer. Supporting review awaits actual served verification.",
+          "nextAction": "Verify actual public177reader/record/manifest; sole existing game integrator rechecks currentbase/exact9, creates genuine receipt with unchanged guard, then conditional guarded game push and independent live verification. Freeze177integration after receipt. No game receipt or push by Blueprint maintainer.",
+          "evidence": [
+            "production/teacher-capability-matrix-source-review-20261120.html"
+          ],
+          "taniaAcceptance": "Conditional narrow publication authorised; synthetic tests do not establish real-user/classroom/security or all-CI-green acceptance."
         }
       ],
       "sessionStart": [
@@ -111781,6 +111798,577 @@
           "exactInventorySha256": "3a3d0f7cdddafbdf7b3aef561e54cc9d0c436fc2426059898684965f9590592c",
           "implementationProvenance": "Current narrow specification implemented directly; unavailable original patch was not applied or claimed source-identical. Tested narrow-aspect fitting refinement included in these exact versions.",
           "limits": "Background synthetic fixtures only. No actual hosted room lifecycle, production/backend, fresh full sourcecheck/suite/CI, physical-touch/classroom or general-performance acceptance."
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261120-177",
+        "title": "Teacher capability matrix correction — supporting exact9source review",
+        "types": [
+          "implementation",
+          "activity",
+          "visual",
+          "security",
+          "release",
+          "governance"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Publish independently reviewed exact9source bindings and sanitized shared teacher matrix/demo summary before separate conditional guarded game release.",
+        "before": "Published game08da8f9retains previous teacher demonstration presentation. Current nine-file correction shares the original authenticated teacher matrix presentation with a static fictional demonstration.",
+        "after": "Public demo shows4fictional learners,8synthetic reflections and7canonical capabilities beginning with Initiative; one reflection counts once overall and appears in relevant cells. Drag/arrows/reset, fixed Student and nested scrolling supported. Real renderer retains existing authorized normalized inputs/helpers/scopes and memory-only order. Only sanitized public-demo order preference can persist. Student Portfolio/Archon/Markets/auth/backend/styles preserved.",
+        "source": "Explicit owner approval for existing-task background checks, supporting Blueprint summary and conditional narrow teacher-view release; subsequent draggable-header request. Verified current Archon base clears earlier sequencing hold. Private approval references/background remain local.",
+        "owner": "Blueprint maintainer: supporting review only; existing sole game integrator: genuine receipt and release",
+        "nextAction": "Verify actual public177reader/record/manifest; sole existing game integrator rechecks currentbase/exact9, creates genuine receipt with unchanged guard, then conditional guarded game push and independent live verification. Freeze177integration after receipt. No game receipt or push by Blueprint maintainer.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [
+            "DSE1",
+            "DSE2",
+            "DSE13",
+            "DSE14",
+            "DAT1",
+            "DAT2",
+            "DAT3",
+            "DAT4",
+            "DAT5",
+            "DAT7",
+            "DAT8",
+            "COM16",
+            "COM17",
+            "DSE11",
+            "ACC9",
+            "ACC10",
+            "ACC11"
+          ],
+          "waControlChecks": [],
+          "waEvidenceIds": [
+            "WA-EV-INITIATIVE-CANDIDATE-20261110"
+          ],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "Supporting Blueprint source-reporting only: sanitized shared teacher capability matrix/demo summary, qualified synthetic tests and9normalexactbindings. No game push, private source/logs/screenshots, real learner data or backend/Auth/settings change by reviewer.",
+          "rationale": "Source-reporting review distinguishes fixed fictional examples and optional sanitized column-order preference from learner evidence persistence. Shared renderer receives existing authorized/normalized inputs and no backend/Auth code is changed. Technical/synthetic checks do not establish institutional implementation-control or real-account acceptance. Existing candidate implementation evidence remains UNVERIFIED and is referenced only as an unresolved readiness boundary, not a passed control for this matrix.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "yes",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "yes",
+            "logging": "no",
+            "student-safety": "yes"
+          },
+          "answers": {
+            "data": "Public demo processes4fixed fictional learners/8synthetic reflections and optional column IDs only. No real learner evidence or account/session/API lookup. Existing authenticated inputs remain caller-authorized and normalized.",
+            "locations": "Existing static GitHubPages and private synthetic QA; no new hosting/backend service.",
+            "accessCountries": "No new recipient or transfer introduced by supporting publication or static demonstration.",
+            "providers": "Existing providers/SDKs retained; static demo loads only same-origin code/assets and blocks connections.",
+            "lifecycle": "Only optional sanitized public-demo column order persists in a narrow preference key; no learner evidence persistence/submission. Authenticated matrix reorders in memory only.",
+            "encryption": "Existing HTTPS unchanged; TLS verification remains on. No cryptographic or institutional compliance claim.",
+            "logging": "No new learner/record logging or telemetry; raw synthetic QA remains private.",
+            "identity": "Public demo imports no auth/backend/session code. Real teacher auth files/data requests/class scope remain unchanged, synthetically checked only.",
+            "isolation": "Shared presentation receives existing scoped inputs/escaping/format helpers; selected-student and class filters preserved. No production tenant/security certification.",
+            "privacySafety": "Fictional static examples only; no real accounts/sessions/records inspected or published. Demo labels distinguish it from actual teacher assessment.",
+            "applicability": "Bounded teacher presentation/source review; no school deployment or real authenticated saving acceptance.",
+            "verification": "Reviewed final backgroundChrome1440/1280/390/320matrix, native drag/edge-scroll, touch/button/keyboard/reset/focus/sticky/nested-scroll/isolation and synthetic signed-out/authorized-wrapper checks. Final6student3D/2DMarket/PDF/return cases pass; initial concurrent5pass/1avatar-download failure retained, unchanged code then6alone. Unchanged npmci source+446units/98files+coverage passed; broad1inheritedAdminfail/1interrupted/295not-run retained.446staged assethashes/111imports pass. No real accounts/sessions/API/learner data, all-CI-green, Safari, physical/classroom/authenticated-saving or owner acceptance claim."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "Reviewed final backgroundChrome1440/1280/390/320matrix, native drag/edge-scroll, touch/button/keyboard/reset/focus/sticky/nested-scroll/isolation and synthetic signed-out/authorized-wrapper checks. Final6student3D/2DMarket/PDF/return cases pass; initial concurrent5pass/1avatar-download failure retained, unchanged code then6alone. Unchanged npmci source+446units/98files+coverage passed; broad1inheritedAdminfail/1interrupted/295not-run retained.446staged assethashes/111imports pass. No real accounts/sessions/API/learner data, all-CI-green, Safari, physical/classroom/authenticated-saving or owner acceptance claim."
+          ],
+          "reviewedBy": "Blueprint maintainer exact-source/data-boundary and documentary review",
+          "reviewedAt": "2026-11-20",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": "Explicit owner authority for supporting summary and separate conditional narrow game release; no institutional security approval or waiver.",
+          "architectureApproval": null,
+          "reviewScope": "Supporting Blueprint source-reporting only: sanitized shared teacher capability matrix/demo summary, qualified synthetic tests and9normalexactbindings. No game push, private source/logs/screenshots, real learner data or backend/Auth/settings change by reviewer."
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "checked-unchanged",
+            "action": "Existing Blueprint/game entry retained. Separate supporting review describes a pending narrow teacher-view game update, not a deployed correction.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Existing Blueprint/game entry retained. Separate supporting review describes a pending narrow teacher-view game update, not a deployed correction.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "177next action assigns genuine nine-path receipt and conditional guarded push to existing sole integrator; no other project or next release reopened.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: 177next action assigns genuine nine-path receipt and conditional guarded push to existing sole integrator; no other project or next release reopened.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Separate177material records exact9shared teacher/demo versions on currentArchonbase; prior174/176and all existing public objects preserved.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Separate177material records exact9shared teacher/demo versions on currentArchonbase; prior174/176and all existing public objects preserved.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Normal exact-source/reader review precedes genuine receipt and sole-owner push; no lock deletion, baseline reset, guard change or TLS bypass.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Normal exact-source/reader review precedes genuine receipt and sole-owner push; no lock deletion, baseline reset, guard change or TLS bypass.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Fresh public projection adds only177members and sanitised document; all prior public material/integration objects and197plannerrows compared unchanged.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Fresh public projection adds only177members and sanitised document; all prior public material/integration objects and197plannerrows compared unchanged.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Verify actual sanitized public summary and matching record/manifest before completion.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending actual public reader and served-file verification.",
+              "date": ""
+            },
+            "nextAction": "Verify actual public177reader/record/manifest; sole existing game integrator rechecks currentbase/exact9, creates genuine receipt with unchanged guard, then conditional guarded game push and independent live verification. Freeze177integration after receipt. No game receipt or push by Blueprint maintainer."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Nineindex/working/frozen modes/blobs/SHA and patch independently matched. Reviewed source+446units/coverage,446hash111imports, matrix/isolation and final6student cases; broad1Adminfailure/1interrupted/295not-run retained.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Nineindex/working/frozen modes/blobs/SHA and patch independently matched. Reviewed source+446units/coverage,446hash111imports, matrix/isolation and final6student cases; broad1Adminfailure/1interrupted/295not-run retained.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Shared Students×Capabilities presentation, one reflection total with relevant tagged cells, drag/arrows/reset, fixed Student and nested scrolling described with fictional-demo limits.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Shared Students×Capabilities presentation, one reflection total with relevant tagged cells, drag/arrows/reset, fixed Student and nested scrolling described with fictional-demo limits.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Public static demo uses4fictional learners/8synthetic reflections/7capabilities, Initiative first. Real dashboard keeps authorized normalized inputs, class/selected-student scope and existing helpers; authenticated behavior only synthetically checked.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Public static demo uses4fictional learners/8synthetic reflections/7capabilities, Initiative first. Real dashboard keeps authorized normalized inputs, class/selected-student scope and existing helpers; authenticated behavior only synthetically checked.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Header drag/edge scroll and labelled button/touch/keyboard alternatives preserve focus; reset/default order and sanitized optional demo preference tested. Real authenticated renderer order is memory-only.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Header drag/edge scroll and labelled button/touch/keyboard alternatives preserve focus; reset/default order and sanitized optional demo preference tested. Real authenticated renderer order is memory-only.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "media",
+            "disposition": "checked-unchanged",
+            "action": "No private logs, real screenshots, source backups or approval references published. Existing dated Blueprint reader images remain unchanged.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No private logs, real screenshots, source backups or approval references published. Existing dated Blueprint reader images remain unchanged.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "443prior runtime paths retained:440hashes unchanged,3teacher replacements and3newshared/static demo assets yield446. Normal9sourcebindings only, no runtime/source upload.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: 443prior runtime paths retained:440hashes unchanged,3teacher replacements and3newshared/static demo assets yield446. Normal9sourcebindings only, no runtime/source upload.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "journey",
+            "disposition": "checked-unchanged",
+            "action": "Student Portfolio,3D/2DMarket/PDF/return and twelve-phase sequence retained; final6student regression cases pass after an initial isolated download failure retained privately.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Student Portfolio,3D/2DMarket/PDF/return and twelve-phase sequence retained; final6student regression cases pass after an initial isolated download failure retained privately.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "checked-unchanged",
+            "action": "Sevenexisting capability headings and197exact plannerrows retained; rearranging presentation does not create extra reflection evidence or new curriculum coverage.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Sevenexisting capability headings and197exact plannerrows retained; rearranging presentation does not create extra reflection evidence or new curriculum coverage.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "assessment",
+            "disposition": "checked-unchanged",
+            "action": "Synthetic reflections illustrate the view; no actual marks, learner results or assessed evidence invented. Existing progression/formatting helpers retained.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Synthetic reflections illustrate the view; no actual marks, learner results or assessed evidence invented. Existing progression/formatting helpers retained.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "world",
+            "disposition": "checked-unchanged",
+            "action": "No campus movement, economy, rewards, game state or Archon/Markets behavior changed by the teacher presentation scope.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No campus movement, economy, rewards, game state or Archon/Markets behavior changed by the teacher presentation scope.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "buildings",
+            "disposition": "checked-unchanged",
+            "action": "No campus geometry, collisions or building interactions changed. This is teacher/demo matrix presentation only.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No campus geometry, collisions or building interactions changed. This is teacher/demo matrix presentation only.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Sanitised summary explains shared original teacher styling, reorderable aligned columns, fixed Student and scrollable evidence without blanket accessibility/device acceptance.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Sanitised summary explains shared original teacher styling, reorderable aligned columns, fixed Student and scrollable evidence without blanket accessibility/device acceptance.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "avatars",
+            "disposition": "checked-unchanged",
+            "action": "No avatar/model/rig/asset changes. Initial concurrent avatar-download test failure was retained and unchanged student code passed6alone; no avatar acceptance inferred.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No avatar/model/rig/asset changes. Initial concurrent avatar-download test failure was retained and unchanged student code passed6alone; no avatar acceptance inferred.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Owner explicitly approved existing-task background checks, supporting Blueprint summary and conditional narrow live correction, then requested draggable headers. Private approval identifiers excluded.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Owner explicitly approved existing-task background checks, supporting Blueprint summary and conditional narrow live correction, then requested draggable headers. Private approval identifiers excluded.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "security",
+            "disposition": "updated",
+            "action": "Static public demo has fixed fictional examples, same-origin assets and connect-none policy; only sanitized demo column IDs may persist. Existing account/backend/scopes unchanged; auth renderer uses memory-only order and supplied authorized input. No real data/API tests or school security certification.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Static public demo has fixed fictional examples, same-origin assets and connect-none policy; only sanitized demo column IDs may persist. Existing account/backend/scopes unchanged; auth renderer uses memory-only order and supplied authorized input. No real data/API tests or school security certification.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Only sanitized product/source summary and necessary9bindings published. Raw logs/local paths/private screenshots/approval IDs/source backups and unrelated projects excluded.",
+            "records": [
+              "CE-CHANGE-20261120-177"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-capability-matrix-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Only sanitized product/source summary and necessary9bindings published. Raw logs/local paths/private screenshots/approval IDs/source backups and unrelated projects excluded.",
+              "date": "2026-11-20"
+            }
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "dashboards/dashboard.js": "100644:73b4f92c7a92a6c97bea3fe860a6517ed976e424",
+            "dashboards/teacher.html": "100644:8a12bb39b853a448a2011483130d69f70cc7354e",
+            "dashboards/teacher-portfolio-demo.html": "100644:32bd380c0f5fd86054c68a0ffddd6400cbe8ae10",
+            "dashboards/teacher-capability-matrix.js": "100644:3dc767a633b7560187e07f9bfd9b9595a6d905e0",
+            "dashboards/teacher-capability-matrix.css": "100644:8a38a7a722fd5d214683726a867c8e7bc3099dd6",
+            "dashboards/teacher-capability-demo.js": "100644:e95d1f75dbdfc8910e3eaa8fd52bb3ce36270795",
+            "tests/unit/teacher-capability-matrix.test.mjs": "100644:452166c5bea6004ef19673c5f6a8cfdcf1bab7ef",
+            "tests/e2e/market-portfolio-demo.spec.js": "100644:d719125d660ec843374c1c5709e4a030aff01a40",
+            "playable-3d/release-manifest.json": "100644:606214797d5ad718f289d32eac48cbdd37159c2f"
+          }
+        },
+        "candidateSource": {
+          "base": "08da8f9d1e9692c41b0a87cb3f3536d04f1cebc0",
+          "registeredBaseline": "d3544e129682381d397417c08bed0242d5e58d88",
+          "pathCount": 9,
+          "files": [
+            {
+              "path": "dashboards/dashboard.js",
+              "binding": "100644:73b4f92c7a92a6c97bea3fe860a6517ed976e424",
+              "sha256": "6702fe92e4ba7c1a52703fd723155ab2b24c8f85dada1cd32d8538a5a6ae5b03",
+              "bytes": 344481
+            },
+            {
+              "path": "dashboards/teacher.html",
+              "binding": "100644:8a12bb39b853a448a2011483130d69f70cc7354e",
+              "sha256": "1f118c80ace834661aedd97e637421be1b0714a2bd07fd56a8fb7ff92feb704c",
+              "bytes": 17481
+            },
+            {
+              "path": "dashboards/teacher-portfolio-demo.html",
+              "binding": "100644:32bd380c0f5fd86054c68a0ffddd6400cbe8ae10",
+              "sha256": "c3e3938562ee3ba43112c74d6fd5fd17d4e5bb698a5c3334688a1dcc1454aff9",
+              "bytes": 2225
+            },
+            {
+              "path": "dashboards/teacher-capability-matrix.js",
+              "binding": "100644:3dc767a633b7560187e07f9bfd9b9595a6d905e0",
+              "sha256": "df93d5f2a3a76a4fc09f7c464a2b90c2dc331fde0d82dbe10e686566c4f1ec5f",
+              "bytes": 11575
+            },
+            {
+              "path": "dashboards/teacher-capability-matrix.css",
+              "binding": "100644:8a38a7a722fd5d214683726a867c8e7bc3099dd6",
+              "sha256": "39f6f0d9a80b2229be42cce46e727e13f4e989b965093b3c969017736064fa41",
+              "bytes": 1390
+            },
+            {
+              "path": "dashboards/teacher-capability-demo.js",
+              "binding": "100644:e95d1f75dbdfc8910e3eaa8fd52bb3ce36270795",
+              "sha256": "6390496f20f611846fa323290609f189f97f689877a258a1d69eeb4aef884a4d",
+              "bytes": 4454
+            },
+            {
+              "path": "tests/unit/teacher-capability-matrix.test.mjs",
+              "binding": "100644:452166c5bea6004ef19673c5f6a8cfdcf1bab7ef",
+              "sha256": "b8dcb591470d575e1c68df4d75277ce60f8b8e802d3106955aafb4f251321b56",
+              "bytes": 4002
+            },
+            {
+              "path": "tests/e2e/market-portfolio-demo.spec.js",
+              "binding": "100644:d719125d660ec843374c1c5709e4a030aff01a40",
+              "sha256": "be8da6cc961eac7e6fb0fec697b49c8b71d5c3f4cf0c8c2622041ead59ff6c08",
+              "bytes": 8989
+            },
+            {
+              "path": "playable-3d/release-manifest.json",
+              "binding": "100644:606214797d5ad718f289d32eac48cbdd37159c2f",
+              "sha256": "1a7d075766ad697dd80efb0c4dbc54347612c022ed0d4693e1ef1a8e48e025c2",
+              "bytes": 68668
+            }
+          ],
+          "exactInventorySha256": "a6573997d6233674ede9fd205f58dcfec3695daa3a9cae87d17a4a91a2bcf7b2",
+          "patchSha256": "5d59120a4425f618e78dc77f2e00571ded0abe0f1932de389a20fb1bb162c73e",
+          "status": "Nineexact index+working+frozen bytes/modes/blobs independently matched; separate game release required.",
+          "limits": "Synthetic isolation/browser proof only; broad CI failures retained and no real-account/physical/classroom/security-certification claim."
         }
       }
     ],
