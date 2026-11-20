@@ -1,8 +1,8 @@
 {
   "sourceCommit": "41bb83b204b3c5b67d006facfcb0f818b4ccbced",
-  "generatedAt": "2026-11-20T03:14:24.506436+00:00",
+  "generatedAt": "2026-11-20T03:30:01.220645+00:00",
   "revision": "V2.42 / 13 November 2026",
-  "recordSha256": "f9de319981d80f7a242a6d4847fe6015ed70408325e7cfabdb20439235454ba9",
+  "recordSha256": "07619fe9593429fd2d021dc4f984689969fea63a2e813b964f087b7b759b5e69",
   "files": [
     {
       "path": "assets/curriculum-planner-BgQlo9-k.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "blueprint-records.json",
-      "sha256": "f9de319981d80f7a242a6d4847fe6015ed70408325e7cfabdb20439235454ba9"
+      "sha256": "07619fe9593429fd2d021dc4f984689969fea63a2e813b964f087b7b759b5e69"
     },
     {
       "path": "documents/tania-2026-cem-assessment-schedule.docx",
@@ -2969,6 +2969,14 @@
       "sha256": "4c42672a3d9202b07feb0b9a0183659513f5ae16da22e38fd80cf8ffeb9d8388"
     },
     {
+      "path": "production/teacher-focus-visible-source-review-20261120.html",
+      "sha256": "680ed1ea4a696e71c25045c155eb02ca0acd8eb9ff456c250afebd512aad0f70"
+    },
+    {
+      "path": "production/teacher-focus-visible-source-review-20261120.md",
+      "sha256": "b85a5d0b5281103a737c8316078d0be3a30c717d76f42c86d3ef4c68a6a1b382"
+    },
+    {
       "path": "production/teaching-megatrends-plan-20261102.html",
       "sha256": "37a26f1d62fe4ccb092e73cd3623f3c80b20f50c8abe1fc421b01c3be6127703"
     },
@@ -3477,7 +3485,7 @@
       "sha256": "df5bb43a92dc8238effc4707e18603b3b12619ef8e01496dc2aef2cba36be317"
     }
   ],
-  "recordPublicationScope": "178reader-onlyactualTeacher97c8ac0live matrix summary/fictional demo link; preserve frozen177and all prior public records. No game release or new source binding.",
+  "recordPublicationScope": "179sanitizedsharedteacher-matrixsummary/qualifiedtests and5normalexactbindings only; no private logs/paths/approvalIDs/realdata/sourcebackups or game push.",
   "verificationLimits": "Source/render/image checks and actual authorized native Chrome four-tab/single-panel switching pass; final public UI verification follows deployment. Captures show current Notes and existing anonymous portfolio, not its pending repair.",
   "sourceRecovery": "Reviewed source saved locally; no private-source upload.",
   "sourceReview172": {
@@ -3540,5 +3548,13 @@
     "frozen177IntegrationSha256": "c3770238e9229dfcaef70c3df6fbd9dc8af20bdcb442536cda7dba7e8cf7b4d7",
     "mainReaderCopyCaptureSuccessorPending": true,
     "newGameReceiptRequired": false
+  },
+  "sourceReview179": {
+    "changeId": "CE-CHANGE-20261120-179",
+    "status": "ready-for-publication",
+    "pathCount": 5,
+    "sourceBase": "97c8ac00cb8eb6dafe9a0454a89eedb83004e9d0",
+    "reader": "production/teacher-focus-visible-source-review-20261120.html",
+    "runtimePublishedByThisChange": false
   }
 }

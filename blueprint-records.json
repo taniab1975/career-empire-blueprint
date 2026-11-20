@@ -39979,6 +39979,23 @@
           "evidence": [
             "production/teacher-capability-matrix-source-review-20261120.html"
           ]
+        },
+        {
+          "id": "CE-CHANGE-20261120-179",
+          "date": "2026-11-20",
+          "title": "Teacher reorder focus visibility — supporting exact5 source review",
+          "source": "Explicit owner approval for existing-task background checks, supporting Blueprint summary and conditional narrow teacher-view release; subsequent draggable-header request. Current teacher base and exact5bindings independently verified; qualification is teacher-specific and startup failure remains open. Private approval references/background remain local.",
+          "owner": "Blueprint maintainer: supporting review only; existing sole game integrator: genuine receipt and release",
+          "status": "Supporting exact5source review ready for publication; game release separate",
+          "rationale": "Publish independently reviewed five source bindings for moved-control visibility, retaining failed startup qualification as an open separate boundary.",
+          "implementation": "Candidate adds eight horizontal-scroll lines after reorder, two shared script cache references, necessary manifest hashes and a browser regression. Focused teacher checks pass; unchanged desktop3Dstartup failure remains open and is not qualified by this review.",
+          "testing": "Focused background Chrome6cases/72right-leftmoves across1280/390/320pass visible-focus rectangles after every move. Four-width matrix/native drag/edge-scroll/sticky/reset/nested scroll and synthetic auth isolation pass; nativewheel1440/390pass. Source446units98files/coverage and446hash111imports pass. Final unchanged navigation5pass1desktop3Dstartupfail; fresh targeted desktop3Dfailed again at unchanged data-market-stage before teacher opens. Earlier published base also exhibits first-view failure; no startup fix/clean6pass/performance acceptance. Broad300case CI interrupted210seconds/SIGTERM220.5without final summary; noallgreen/Safari/physical/classroom/authenticatedsaving/owneracceptance.",
+          "deployment": "No game receipt/push by Blueprint maintainer. Supporting review awaits actual served verification.",
+          "nextAction": "Preserve frozen177and178exactly. After actual supporting179reader/hash verification sole existing game owner rechecks exact5/base, creates genuine receipt with unchanged guard, then narrow conditional release/live focus verification. Startup failure remains open; no teacher or startup acceptance inferred from old activeElement-only check. Freeze179after receipt.",
+          "evidence": [
+            "production/teacher-focus-visible-source-review-20261120.html"
+          ],
+          "taniaAcceptance": "Conditional narrow publication authorised; synthetic tests do not establish real-user/classroom/security or all-CI-green acceptance."
         }
       ],
       "sessionStart": [
@@ -112701,6 +112718,549 @@
           "sourceVerification": "Actual remote game head and Pages success independently checked; owner447served-hash/matrix/wheel and unique6student cases reviewed;177frozen hash independently verified.",
           "remainingReaderScope": "Broader Portfolio/reader cleanup and older dated captures remain outside this narrow teacher-summary closeout. No whole-Blueprint refresh claimed.",
           "gameReleasePerformedByThisChange": false
+        }
+      },
+      {
+        "changeId": "CE-CHANGE-20261120-179",
+        "title": "Teacher reorder focus visibility — supporting exact5 source review",
+        "types": [
+          "implementation",
+          "activity",
+          "visual",
+          "security",
+          "release",
+          "governance"
+        ],
+        "status": "ready-for-publication",
+        "objective": "Publish independently reviewed five source bindings for moved-control visibility, retaining failed startup qualification as an open separate boundary.",
+        "before": "Published97c8ac0retains DOM focus after a reorder but on390the focused button can lie outside the visible viewport beside pinned Student.177and178remain historical, not corrected or overwritten.",
+        "after": "Candidate adds eight horizontal-scroll lines after reorder, two shared script cache references, necessary manifest hashes and a browser regression. Focused teacher checks pass; unchanged desktop3Dstartup failure remains open and is not qualified by this review.",
+        "source": "Explicit owner approval for existing-task background checks, supporting Blueprint summary and conditional narrow teacher-view release; subsequent draggable-header request. Current teacher base and exact5bindings independently verified; qualification is teacher-specific and startup failure remains open. Private approval references/background remain local.",
+        "owner": "Blueprint maintainer: supporting review only; existing sole game integrator: genuine receipt and release",
+        "nextAction": "Preserve frozen177and178exactly. After actual supporting179reader/hash verification sole existing game owner rechecks exact5/base, creates genuine receipt with unchanged guard, then narrow conditional release/live focus verification. Startup failure remains open; no teacher or startup acceptance inferred from old activeElement-only check. Freeze179after receipt.",
+        "securityPrivacyImpact": {
+          "baseline": "WA-DOE-v4c",
+          "waQuestionIds": [
+            "DSE1",
+            "DSE2",
+            "DSE13",
+            "DSE14",
+            "DAT1",
+            "DAT2",
+            "DAT3",
+            "DAT4",
+            "DAT5",
+            "DAT7",
+            "DAT8",
+            "COM16",
+            "COM17",
+            "DSE11",
+            "ACC9",
+            "ACC10",
+            "ACC11"
+          ],
+          "waControlChecks": [],
+          "waEvidenceIds": [
+            "WA-EV-INITIATIVE-CANDIDATE-20261110"
+          ],
+          "owner": "Integrate and test Initiative: sole source review, guarded release and independent public verification",
+          "scope": "Supporting exact5source review only for minimal moved-control focus visibility correction. No game push, startup fix, broad reader cleanup, private logs/paths/approvalIDs/screenshots/sourcebackups or real data/backend access.",
+          "rationale": "Source-reporting review distinguishes fixed fictional examples and optional sanitized column-order preference from learner evidence persistence. Shared renderer receives existing authorized/normalized inputs and no backend/Auth code is changed. Technical/synthetic checks do not establish institutional implementation-control or real-account acceptance. Existing candidate implementation evidence remains UNVERIFIED and is referenced only as an unresolved readiness boundary, not a passed control for this matrix.",
+          "status": "reviewed",
+          "triggers": {
+            "data-collection-processing": "yes",
+            "authentication": "no",
+            "account-recovery": "no",
+            "roles-permissions": "no",
+            "school-tenancy": "no",
+            "hosting-region": "no",
+            "third-parties-subprocessors": "no",
+            "integrations-apis": "no",
+            "file-upload-download": "no",
+            "chat-social-discovery": "no",
+            "analytics": "no",
+            "ai": "no",
+            "payments": "no",
+            "mobile-browser-permissions": "no",
+            "retention-deletion": "yes",
+            "logging": "no",
+            "student-safety": "yes"
+          },
+          "answers": {
+            "data": "Public demo processes4fixed fictional learners/8synthetic reflections and optional column IDs only. No real learner evidence or account/session/API lookup. Existing authenticated inputs remain caller-authorized and normalized.",
+            "locations": "Existing static GitHubPages and private synthetic QA; no new hosting/backend service.",
+            "accessCountries": "No new recipient or transfer introduced by supporting publication or static demonstration.",
+            "providers": "Existing providers/SDKs retained; static demo loads only same-origin code/assets and blocks connections.",
+            "lifecycle": "Only optional sanitized public-demo column order persists in a narrow preference key; no learner evidence persistence/submission. Authenticated matrix reorders in memory only.",
+            "encryption": "Existing HTTPS unchanged; TLS verification remains on. No cryptographic or institutional compliance claim.",
+            "logging": "No new learner/record logging or telemetry; raw synthetic QA remains private.",
+            "identity": "Public demo imports no auth/backend/session code. Real teacher auth files/data requests/class scope remain unchanged, synthetically checked only.",
+            "isolation": "Shared presentation receives existing scoped inputs/escaping/format helpers; selected-student and class filters preserved. No production tenant/security certification.",
+            "privacySafety": "Fictional static examples only; no real accounts/sessions/records inspected or published. Demo labels distinguish it from actual teacher assessment.",
+            "applicability": "Bounded teacher presentation/source review; no school deployment or real authenticated saving acceptance.",
+            "verification": "Focused background Chrome6cases/72right-leftmoves across1280/390/320pass visible-focus rectangles after every move. Four-width matrix/native drag/edge-scroll/sticky/reset/nested scroll and synthetic auth isolation pass; nativewheel1440/390pass. Source446units98files/coverage and446hash111imports pass. Final unchanged navigation5pass1desktop3Dstartupfail; fresh targeted desktop3Dfailed again at unchanged data-market-stage before teacher opens. Earlier published base also exhibits first-view failure; no startup fix/clean6pass/performance acceptance. Broad300case CI interrupted210seconds/SIGTERM220.5without final summary; noallgreen/Safari/physical/classroom/authenticatedsaving/owneracceptance."
+          },
+          "controlIds": [],
+          "evidenceIds": [],
+          "tests": [
+            "Focused background Chrome6cases/72right-leftmoves across1280/390/320pass visible-focus rectangles after every move. Four-width matrix/native drag/edge-scroll/sticky/reset/nested scroll and synthetic auth isolation pass; nativewheel1440/390pass. Source446units98files/coverage and446hash111imports pass. Final unchanged navigation5pass1desktop3Dstartupfail; fresh targeted desktop3Dfailed again at unchanged data-market-stage before teacher opens. Earlier published base also exhibits first-view failure; no startup fix/clean6pass/performance acceptance. Broad300case CI interrupted210seconds/SIGTERM220.5without final summary; noallgreen/Safari/physical/classroom/authenticatedsaving/owneracceptance."
+          ],
+          "reviewedBy": "Blueprint maintainer exact-source/data-boundary and documentary review",
+          "reviewedAt": "2026-11-20",
+          "productionComplete": false,
+          "releasePurpose": "blueprint-reporting",
+          "securityApproval": "Explicit owner authority for supporting summary and separate conditional narrow game release; no institutional security approval or waiver.",
+          "architectureApproval": null,
+          "reviewScope": "Supporting exact5source review only for minimal moved-control focus visibility correction. No game push, startup fix, broad reader cleanup, private logs/paths/approvalIDs/screenshots/sourcebackups or real data/backend access."
+        },
+        "targets": [
+          {
+            "surface": "start",
+            "disposition": "updated",
+            "action": "Existing reader index/navigation unchanged; separate focus-source review corrects earlier activeElement-only evidence limit and documents pending release.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Existing reader index/navigation unchanged; separate focus-source review corrects earlier activeElement-only evidence limit and documents pending release.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "roadmap",
+            "disposition": "updated",
+            "action": "Preserve frozen177and178exactly. After actual supporting179reader/hash verification sole existing game owner rechecks exact5/base, creates genuine receipt with unchanged guard, then narrow conditional release/live focus verification. Startup failure remains open; no teacher or startup acceptance inferred from old activeElement-only check. Freeze179after receipt.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Preserve frozen177and178exactly. After actual supporting179reader/hash verification sole existing game owner rechecks exact5/base, creates genuine receipt with unchanged guard, then narrow conditional release/live focus verification. Startup failure remains open; no teacher or startup acceptance inferred from old activeElement-only check. Freeze179after receipt.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "history",
+            "disposition": "updated",
+            "action": "Separate179minimal focus-source review; preserve177frozen receipt integration and178historical closeout with all earlier records unchanged.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Separate179minimal focus-source review; preserve177frozen receipt integration and178historical closeout with all earlier records unchanged.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "protocol",
+            "disposition": "updated",
+            "action": "Unchanged exactsource/review/genuine receipt/soleowner process. No guard/baseline/TLS/lock changes, no game action by reviewer.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Unchanged exactsource/review/genuine receipt/soleowner process. No guard/baseline/TLS/lock changes, no game action by reviewer.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "exports",
+            "disposition": "updated",
+            "action": "Append179only over current actual public records; preserve every previous member,197plannerrows/curriculum and app index.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Append179only over current actual public records; preserve every previous member,197plannerrows/curriculum and app index.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "publication",
+            "disposition": "pending",
+            "action": "Verify actual sanitized public summary and matching record/manifest before completion.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "pending",
+              "method": "Pending actual public reader and served-file verification.",
+              "date": ""
+            },
+            "nextAction": "Preserve frozen177and178exactly. After actual supporting179reader/hash verification sole existing game owner rechecks exact5/base, creates genuine receipt with unchanged guard, then narrow conditional release/live focus verification. Startup failure remains open; no teacher or startup acceptance inferred from old activeElement-only check. Freeze179after receipt."
+          },
+          {
+            "surface": "build",
+            "disposition": "updated",
+            "action": "Focused background Chrome6cases/72right-leftmoves across1280/390/320pass visible-focus rectangles after every move. Four-width matrix/native drag/edge-scroll/sticky/reset/nested scroll and synthetic auth isolation pass; nativewheel1440/390pass. Source446units98files/coverage and446hash111imports pass. Final unchanged navigation5pass1desktop3Dstartupfail; fresh targeted desktop3Dfailed again at unchanged data-market-stage before teacher opens. Earlier published base also exhibits first-view failure; no startup fix/clean6pass/performance acceptance. Broad300case CI interrupted210seconds/SIGTERM220.5without final summary; noallgreen/Safari/physical/classroom/authenticatedsaving/owneracceptance.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Focused background Chrome6cases/72right-leftmoves across1280/390/320pass visible-focus rectangles after every move. Four-width matrix/native drag/edge-scroll/sticky/reset/nested scroll and synthetic auth isolation pass; nativewheel1440/390pass. Source446units98files/coverage and446hash111imports pass. Final unchanged navigation5pass1desktop3Dstartupfail; fresh targeted desktop3Dfailed again at unchanged data-market-stage before teacher opens. Earlier published base also exhibits first-view failure; no startup fix/clean6pass/performance acceptance. Broad300case CI interrupted210seconds/SIGTERM220.5without final summary; noallgreen/Safari/physical/classroom/authenticatedsaving/owneracceptance.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "flow",
+            "disposition": "updated",
+            "action": "Only horizontal scroll after reorder changes so focused button remains within visible region beside pinned Student; no capability/order/data behavior change.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Only horizontal scroll after reorder changes so focused button remains within visible region beside pinned Student; no capability/order/data behavior change.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "teacher",
+            "disposition": "updated",
+            "action": "Fourfictional learners/eightreflections/sevenheadings unchanged. Authenticated renderer inputs/scopes/memory-order and public sanitized optional preference retained.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Fourfictional learners/eightreflections/sevenheadings unchanged. Authenticated renderer inputs/scopes/memory-order and public sanitized optional preference retained.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "recovery",
+            "disposition": "updated",
+            "action": "Actual visible-focus geometry replaces inadequate activeElement-only check;6cases72moves pass at1280/390/320. Startup failure stays explicit.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Actual visible-focus geometry replaces inadequate activeElement-only check;6cases72moves pass at1280/390/320. Startup failure stays explicit.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "media",
+            "disposition": "updated",
+            "action": "No screenshots or media/source backups uploaded; old images are not relabelled current.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No screenshots or media/source backups uploaded; old images are not relabelled current.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "assets",
+            "disposition": "updated",
+            "action": "All446prior runtime paths retained:443hashes unchanged,3teacher script/reference replacements. Exact5bindings only, no runtime asset upload by reviewer.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: All446prior runtime paths retained:443hashes unchanged,3teacher script/reference replacements. Exact5bindings only, no runtime asset upload by reviewer.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "journey",
+            "disposition": "updated",
+            "action": "Student/Market/campus unchanged; final original5pass1startupfail and fresh targeted failure retained, no clean6case claim.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Student/Market/campus unchanged; final original5pass1startupfail and fresh targeted failure retained, no clean6case claim.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "curriculum",
+            "disposition": "updated",
+            "action": "No capability descriptors, curriculum mapping or197plannerrows changed by scroll-only correction.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No capability descriptors, curriculum mapping or197plannerrows changed by scroll-only correction.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "assessment",
+            "disposition": "updated",
+            "action": "No student results or assessed evidence created; public synthetic examples unchanged.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No student results or assessed evidence created; public synthetic examples unchanged.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "world",
+            "disposition": "updated",
+            "action": "Campus/Market/Archon/economy/worldstate unchanged and preserved source bytes checked.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Campus/Market/Archon/economy/worldstate unchanged and preserved source bytes checked.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "buildings",
+            "disposition": "updated",
+            "action": "No building interactions/geometry/collisions changed; teacher reorder focus only.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No building interactions/geometry/collisions changed; teacher reorder focus only.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "visuals",
+            "disposition": "updated",
+            "action": "Focused reorder button now revealed within scroll viewport beside pinned Student. Candidate-only until guarded live release; no broad accessibility/physical acceptance.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Focused reorder button now revealed within scroll viewport beside pinned Student. Candidate-only until guarded live release; no broad accessibility/physical acceptance.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "avatars",
+            "disposition": "updated",
+            "action": "No avatar source/assets changed; startup failure not repaired or reclassified by this teacher patch.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: No avatar source/assets changed; startup failure not repaired or reclassified by this teacher patch.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "decisions",
+            "disposition": "updated",
+            "action": "Existing owner-approved teacher reorder/focus correction supports scoped source publication and separate conditional release; no next project or feature.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Existing owner-approved teacher reorder/focus correction supports scoped source publication and separate conditional release; no next project or feature.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "security",
+            "disposition": "updated",
+            "action": "DOM scroll-only correction plus script cache URLs; static fictional data, auth/backend code/scopes and optional sanitized demo preference unchanged. No new provider/data/lifecycle/security certification.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: DOM scroll-only correction plus script cache URLs; static fictional data, auth/backend code/scopes and optional sanitized demo preference unchanged. No new provider/data/lifecycle/security certification.",
+              "date": "2026-11-20"
+            }
+          },
+          {
+            "surface": "sources",
+            "disposition": "updated",
+            "action": "Sanitized teacher focus correction/source bindings and exact test limits only; private logs/paths/approvalIDs/realdata excluded.",
+            "records": [
+              "CE-CHANGE-20261120-179"
+            ],
+            "owner": "Blueprint maintainer for supporting review; sole game integrator for release",
+            "acceptance": "Exact source/reader evidence with data-boundary and test limits; unrelated records preserved.",
+            "evidence": [
+              "production/teacher-focus-visible-source-review-20261120.html"
+            ],
+            "verification": {
+              "result": "passed",
+              "method": "Scoped source/document review: Sanitized teacher focus correction/source bindings and exact test limits only; private logs/paths/approvalIDs/realdata excluded.",
+              "date": "2026-11-20"
+            }
+          }
+        ],
+        "projectChanges": {
+          "game-initiative-release-20261111": {
+            "dashboards/teacher-capability-matrix.js": "100644:86d76fce6b9b58b08539afb4aa00bcdf52fbcb34",
+            "dashboards/teacher.html": "100644:a199ea53e6154911c93676584488b9daff74953e",
+            "dashboards/teacher-portfolio-demo.html": "100644:9675486d258e73ed27575f16ad6d472ab5452ca2",
+            "playable-3d/release-manifest.json": "100644:5c8b4768a25e653c7f8de12cda90e924d48674d8",
+            "tests/e2e/teacher-capability-matrix.spec.js": "100644:fa2bb135a1aa4f2221a1f8af1d1c76b6d0316d1d"
+          }
+        },
+        "candidateSource": {
+          "base": "97c8ac00cb8eb6dafe9a0454a89eedb83004e9d0",
+          "registeredBaseline": "d3544e129682381d397417c08bed0242d5e58d88",
+          "pathCount": 5,
+          "files": [
+            {
+              "path": "dashboards/teacher-capability-matrix.js",
+              "binding": "100644:86d76fce6b9b58b08539afb4aa00bcdf52fbcb34",
+              "sha256": "eaba42d51963c788e655b98dde510ad0367914dd3fe1039bd51e7aeccd386232",
+              "bytes": 12182
+            },
+            {
+              "path": "dashboards/teacher.html",
+              "binding": "100644:a199ea53e6154911c93676584488b9daff74953e",
+              "sha256": "a7fbd3eae3b60dd153b527bff78b192cdeb134c106b27871938fe30eca5b5c6c",
+              "bytes": 17479
+            },
+            {
+              "path": "dashboards/teacher-portfolio-demo.html",
+              "binding": "100644:9675486d258e73ed27575f16ad6d472ab5452ca2",
+              "sha256": "a1ee2045d73a1d606c0e7762b9da4afe34f83a253c437ea6565b708e47a82d08",
+              "bytes": 2223
+            },
+            {
+              "path": "playable-3d/release-manifest.json",
+              "binding": "100644:5c8b4768a25e653c7f8de12cda90e924d48674d8",
+              "sha256": "27fd933aefafd71351156644fc5a46f50ba732d37e8b71b0050e39b6cbdd38d0",
+              "bytes": 68647
+            },
+            {
+              "path": "tests/e2e/teacher-capability-matrix.spec.js",
+              "binding": "100644:fa2bb135a1aa4f2221a1f8af1d1c76b6d0316d1d",
+              "sha256": "dedb6d5343c17682f1ca44451b3f177c47f17e0aebcee25ea5d55888f4dc4ee9",
+              "bytes": 1820
+            }
+          ],
+          "exactInventorySha256": "20488f3371691912e418bec19d19f10902229e1c2d5bf32b917fad4a87dd7ddf",
+          "patchSha256": "ee707840f4a13ba4d0901d294c9a9ac79f8be84492efea86f844e3c1f4713d92",
+          "status": "Five exact index+working+frozen bytes/modes/blobs independently matched; separate game release required.",
+          "limits": "Synthetic isolation/browser proof only; broad CI failures retained and no real-account/physical/classroom/security-certification claim."
         }
       }
     ],
